@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\RequestCollections\Collections;
 use Astrotomic\Tmdb\RequestCollections\Companies;
 use Astrotomic\Tmdb\RequestCollections\Genres;
 use Astrotomic\Tmdb\RequestCollections\Movies;
@@ -50,6 +51,11 @@ class TMDB extends SaloonConnector
         return [
             'Content-Type' => 'application/json',
         ];
+    }
+
+    public function collections(): Collections
+    {
+        return new Collections($this);
     }
 
     public function companies(): Companies
