@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\RequestCollections\Movies;
 use Astrotomic\Tmdb\RequestCollections\WatchProviders;
 use Astrotomic\Tmdb\Responses\TmdbResponse;
 use Sammyjo20\Saloon\Http\Auth\TokenAuthenticator;
@@ -17,8 +18,11 @@ class TMDB extends SaloonConnector
 
     protected ?string $response = TmdbResponse::class;
 
-    public function __construct(protected string $token)
-    {
+    public function __construct(
+        protected string $token,
+        protected ?string $language = null,
+        protected ?string $region = null,
+    ) {
     }
 
     public function defineBaseUrl(): string
@@ -31,11 +35,24 @@ class TMDB extends SaloonConnector
         return new TokenAuthenticator($this->token);
     }
 
+    public function defaultQuery(): array
+    {
+        return array_filter([
+            'language' => $this->language,
+            'region' => $this->region,
+        ]);
+    }
+
     public function defaultHeaders(): array
     {
         return [
             'Content-Type' => 'application/json',
         ];
+    }
+
+    public function movies(): Movies
+    {
+        return new Movies($this);
     }
 
     public function watchProviders(): WatchProviders
