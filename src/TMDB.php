@@ -2,6 +2,7 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\RequestCollections\Genres;
 use Astrotomic\Tmdb\RequestCollections\Movies;
 use Astrotomic\Tmdb\RequestCollections\WatchProviders;
 use Astrotomic\Tmdb\Responses\TmdbResponse;
@@ -48,6 +49,11 @@ class TMDB extends SaloonConnector
         return [
             'Content-Type' => 'application/json',
         ];
+    }
+
+    public function genres(): Genres
+    {
+        return new Genres($this);
     }
 
     public function movies(): Movies
