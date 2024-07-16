@@ -1,6 +1,6 @@
 <?php
 
-use Astrotomic\Tmdb\Data\Collections\WatchProviderCollection;
+use Astrotomic\Tmdb\Collections\WatchProviderCollection;
 use Astrotomic\Tmdb\Data\WatchProvider;
 
 it('responds with tv providers data', function (): void {

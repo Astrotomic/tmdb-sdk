@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "227",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:35:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13873",
+        "x-memc": "HIT",
+        "x-memc-key": "5b203afe8036a008f99114c102c9b3ac",
+        "x-memc-age": "13593",
+        "x-memc-expires": "13873",
+        "ETag": "W\/\"c2b95b7562c25935b7397d63c67c11bb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 b61409af370dbf025ffc910b1252c65e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WTdTiPXsn8iAkQGWkwQp43IhsUCPiNQ521ij_OTW-PIWHZNuC7YgIA==",
+        "Age": "181"
+    },
+    "data": "{\"description\":\"\",\"headquarters\":\"New York City, New York \",\"homepage\":\"https:\/\/www.marvel.com\",\"id\":7505,\"logo_path\":\"\/837VMM4wOkODc1idNxGT0KQJlej.png\",\"name\":\"Marvel Entertainment\",\"origin_country\":\"US\",\"parent_company\":null}"
+}

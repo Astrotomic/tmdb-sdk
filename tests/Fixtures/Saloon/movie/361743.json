@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1593",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15465",
+        "x-memc": "HIT",
+        "x-memc-key": "72557fe454b7faf5c8f1e7ddeaf6372e",
+        "x-memc-age": "11492",
+        "x-memc-expires": "15465",
+        "ETag": "W\/\"4f3e006fe2638fb0fb826e9bdb273342\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 6e44e48abc671a9155ea845c36f68920.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kGn13pRVPkMWgTw1hTJkQ1cwTUibEXKGMmIlYTBnIMmejV_qtBrBvA==",
+        "Age": "320"
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AaV1YIdWKnjAIAOe8UUKBFm327v.jpg\",\"belongs_to_collection\":{\"id\":531330,\"name\":\"Top Gun Collection\",\"poster_path\":\"\/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg\",\"backdrop_path\":\"\/9MGm0XT04ob99MyGQfMT7I8y3UE.jpg\"},\"budget\":170000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.topgunmovie.com\",\"id\":361743,\"imdb_id\":\"tt1745960\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Top Gun: Maverick\",\"overview\":\"After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.\",\"popularity\":130.401,\"poster_path\":\"\/62HCnUTziyWcpDaBO2i1DX17ljH.jpg\",\"production_companies\":[{\"id\":82819,\"logo_path\":\"\/gXfFl9pRPaoaq14jybEn1pHeldr.png\",\"name\":\"Skydance Media\",\"origin_country\":\"US\"},{\"id\":10288,\"logo_path\":\"\/Aszf09kIVXR6cwG9lwjZIawbYVS.png\",\"name\":\"Don Simpson\/Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-05-21\",\"revenue\":1488732821,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Feel the need... The need for speed.\",\"title\":\"Top Gun: Maverick\",\"video\":false,\"vote_average\":8.213,\"vote_count\":8797}"
+}

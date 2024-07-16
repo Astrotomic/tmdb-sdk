@@ -1,6 +1,6 @@
 <?php
 
-use Astrotomic\Tmdb\Data\Collections\GenreCollection;
+use Astrotomic\Tmdb\Collections\GenreCollection;
 use Astrotomic\Tmdb\Data\Genre;
 
 it('responds with list of tv genres data', function (): void {

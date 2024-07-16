@@ -1,6 +1,6 @@
 <?php
 
-use Astrotomic\Tmdb\Data\Collections\MovieCollection;
+use Astrotomic\Tmdb\Collections\MovieCollection;
 use Astrotomic\Tmdb\Data\Movie;
 
 it('responds with movie collection data', function (): void {

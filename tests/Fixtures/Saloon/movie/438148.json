@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1389",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23533",
+        "x-memc": "HIT",
+        "x-memc-key": "db6aba8baca0c16e7a718b2f3951e068",
+        "x-memc-age": "2126",
+        "x-memc-expires": "23533",
+        "ETag": "W\/\"b645620a859657d3cf4c6cfd8464dc1b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 b61409af370dbf025ffc910b1252c65e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zfn67Mer9NvV4BfjV2rLqwxB62avujzUmqRd2HRiL1WooHvmPIAkaA==",
+        "Age": "320"
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uMSxXLfH7v30gRNBqsQaSP3yqX5.jpg\",\"belongs_to_collection\":{\"id\":544669,\"name\":\"Minions Collection\",\"poster_path\":\"\/9Ul4YrDQAKfkOf8TpV2RrjeLmaI.jpg\",\"backdrop_path\":\"\/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg\"},\"budget\":85000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.minionsmovie.com\/\",\"id\":438148,\"imdb_id\":\"tt5113044\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Minions: The Rise of Gru\",\"overview\":\"A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.\",\"popularity\":222.202,\"poster_path\":\"\/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-06-29\",\"revenue\":940203765,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A villain will rise.\",\"title\":\"Minions: The Rise of Gru\",\"video\":false,\"vote_average\":7.342,\"vote_count\":3445}"
+}

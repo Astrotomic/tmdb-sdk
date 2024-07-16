@@ -13,8 +13,7 @@ class Company
         public readonly ?string $headquarters,
         public readonly ?string $homepage,
         public readonly ?self $parentCompany,
-    ) {
-    }
+    ) {}
 
     public static function fromArray(array $data): self
     {

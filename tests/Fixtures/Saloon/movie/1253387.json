@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "941",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:37:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6837",
+        "x-memc": "HIT",
+        "x-memc-key": "849f4d0c62bd3d7f8feb7476aff96d76",
+        "x-memc-age": "15575",
+        "x-memc-expires": "6837",
+        "ETag": "W\/\"d8d96b23750f12ec3ae5a0122b78330c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 1396f0307ab4835adf6e4163507d4c8a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "W3gy2ryeFUi3FF7YEXQ3vRNwa2HdqV_Ifn_ZsLCgg1ElGpUuYQ8UGg==",
+        "Age": "14"
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1253387,\"imdb_id\":\"tt7024716\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Antimarteria\",\"overview\":\"\",\"popularity\":2.363,\"poster_path\":\"\/eKc1kRr5HFbBTghopAeQiLQH9ra.jpg\",\"production_companies\":[{\"id\":222327,\"logo_path\":null,\"name\":\"doity Produktion GmbH\",\"origin_country\":\"\"},{\"id\":222330,\"logo_path\":null,\"name\":\"Specter Berlin\",\"origin_country\":\"\"},{\"id\":222331,\"logo_path\":null,\"name\":\"Storz \\u0026 Escherich\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"}],\"release_date\":\"2017-06-07\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Antimarteria\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

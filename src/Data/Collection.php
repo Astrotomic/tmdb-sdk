@@ -2,9 +2,9 @@
 
 namespace Astrotomic\Tmdb\Data;
 
-use Astrotomic\Tmdb\Data\Collections\MovieCollection;
-use Astrotomic\Tmdb\Data\Images\Backdrop;
-use Astrotomic\Tmdb\Data\Images\Poster;
+use Astrotomic\Tmdb\Collections\MovieCollection;
+use Astrotomic\Tmdb\Images\Backdrop;
+use Astrotomic\Tmdb\Images\Poster;
 
 class Collection
 {
@@ -15,8 +15,7 @@ class Collection
         public readonly ?string $posterPath,
         public readonly ?string $backdropPath,
         public readonly ?MovieCollection $parts,
-    ) {
-    }
+    ) {}
 
     public static function fromArray(array $data): self
     {

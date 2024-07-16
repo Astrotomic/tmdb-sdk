@@ -2,38 +2,34 @@
 
 namespace Astrotomic\Tmdb;
 
-use Astrotomic\Tmdb\RequestCollections\Collections;
-use Astrotomic\Tmdb\RequestCollections\Companies;
-use Astrotomic\Tmdb\RequestCollections\Genres;
-use Astrotomic\Tmdb\RequestCollections\Movies;
-use Astrotomic\Tmdb\RequestCollections\WatchProviders;
-use Astrotomic\Tmdb\Responses\TmdbResponse;
-use Sammyjo20\Saloon\Http\Auth\TokenAuthenticator;
-use Sammyjo20\Saloon\Http\SaloonConnector;
-use Sammyjo20\Saloon\Interfaces\AuthenticatorInterface;
-use Sammyjo20\Saloon\Traits\Plugins\AcceptsJson;
-use Sammyjo20\Saloon\Traits\Plugins\AlwaysThrowsOnErrors;
+use Astrotomic\Tmdb\Resources\Collections;
+use Astrotomic\Tmdb\Resources\Companies;
+use Astrotomic\Tmdb\Resources\Genres;
+use Astrotomic\Tmdb\Resources\Movies;
+use Astrotomic\Tmdb\Resources\WatchProviders;
+use Saloon\Contracts\Authenticator;
+use Saloon\Http\Auth\TokenAuthenticator;
+use Saloon\Http\Connector;
+use Saloon\Traits\Plugins\AcceptsJson;
+use Saloon\Traits\Plugins\AlwaysThrowOnErrors;
 
-class TMDB extends SaloonConnector
+class TMDB extends Connector
 {
     use AcceptsJson;
-    use AlwaysThrowsOnErrors;
-
-    protected ?string $response = TmdbResponse::class;
+    use AlwaysThrowOnErrors;
 
     public function __construct(
         protected string $token,
         protected ?string $language = null,
         protected ?string $region = null,
-    ) {
-    }
+    ) {}
 
-    public function defineBaseUrl(): string
+    public function resolveBaseUrl(): string
     {
         return 'https://api.themoviedb.org/3';
     }
 
-    public function defaultAuth(): ?AuthenticatorInterface
+    public function defaultAuth(): ?Authenticator
     {
         return new TokenAuthenticator($this->token);
     }

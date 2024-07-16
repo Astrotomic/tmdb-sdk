@@ -2,33 +2,28 @@
 
 namespace Astrotomic\Tmdb\Requests\WatchProviders;
 
-use Astrotomic\Tmdb\Data\Collections\RegionCollection;
-use Astrotomic\Tmdb\TMDB;
-use Sammyjo20\Saloon\Constants\Saloon;
-use Sammyjo20\Saloon\Http\SaloonRequest;
-use Sammyjo20\Saloon\Http\SaloonResponse;
-use Sammyjo20\Saloon\Traits\Plugins\CastsToDto;
+use Astrotomic\Tmdb\Collections\RegionCollection;
+use Saloon\Enums\Method;
+use Saloon\Http\Request;
+use Saloon\Http\Response;
+use Saloon\Traits\Request\CreatesDtoFromResponse;
 
 /**
- * @link https://developers.themoviedb.org/3/watch-providers/get-available-regions
+ * @link https://developer.themoviedb.org/reference/watch-providers-available-regions
  */
-class GetAvailableRegionsRequest extends SaloonRequest
+class GetAvailableRegionsRequest extends Request
 {
-    use CastsToDto;
+    use CreatesDtoFromResponse;
 
-    protected ?string $connector = TMDB::class;
+    protected Method $method = Method::GET;
 
-    protected ?string $method = Saloon::GET;
-
-    public function defineEndpoint(): string
+    public function resolveEndpoint(): string
     {
         return '/watch/providers/regions';
     }
 
-    protected function castToDto(SaloonResponse $response): RegionCollection
+    public function createDtoFromResponse(Response $response): RegionCollection
     {
-        return RegionCollection::fromArray(
-            $response->json('results')
-        );
+        return RegionCollection::fromArray($response->json('results'));
     }
 }

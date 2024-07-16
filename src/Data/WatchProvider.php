@@ -2,7 +2,7 @@
 
 namespace Astrotomic\Tmdb\Data;
 
-use Astrotomic\Tmdb\Data\Images\Logo;
+use Astrotomic\Tmdb\Images\Logo;
 
 class WatchProvider
 {
@@ -11,8 +11,7 @@ class WatchProvider
         public readonly string $name,
         public readonly int $displayPriority,
         public readonly string $logoPath,
-    ) {
-    }
+    ) {}
 
     public static function fromArray(array $data): self
     {

@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "172",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:35:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24681",
+        "x-memc": "HIT",
+        "x-memc-key": "20dab30db1b4c9a89a722b47114f3773",
+        "x-memc-age": "155",
+        "x-memc-expires": "24681",
+        "ETag": "W\/\"57b69163dd661a5577e248569c68819c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 2b298af2bb6f21ab0dee9e764d8bcb28.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RdJj6Dq5UMopo22B5pzxEhik1OptXN2uDlvD-FnEeZ078iTVxUDZSA==",
+        "Age": "180"
+    },
+    "data": "{\"description\":\"\",\"headquarters\":\"Los Angeles, California\",\"homepage\":\"\",\"id\":14654,\"logo_path\":null,\"name\":\"EMJAG Productions\",\"origin_country\":\"US\",\"parent_company\":null}"
+}

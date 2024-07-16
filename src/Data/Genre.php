@@ -7,8 +7,7 @@ class Genre
     final public function __construct(
         public readonly int $id,
         public readonly string $name,
-    ) {
-    }
+    ) {}
 
     public static function fromArray(array $data): self
     {

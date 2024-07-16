@@ -2,33 +2,28 @@
 
 namespace Astrotomic\Tmdb\Requests\Genres;
 
-use Astrotomic\Tmdb\Data\Collections\GenreCollection;
-use Astrotomic\Tmdb\TMDB;
-use Sammyjo20\Saloon\Constants\Saloon;
-use Sammyjo20\Saloon\Http\SaloonRequest;
-use Sammyjo20\Saloon\Http\SaloonResponse;
-use Sammyjo20\Saloon\Traits\Plugins\CastsToDto;
+use Astrotomic\Tmdb\Collections\GenreCollection;
+use Saloon\Enums\Method;
+use Saloon\Http\Request;
+use Saloon\Http\Response;
+use Saloon\Traits\Request\CreatesDtoFromResponse;
 
 /**
- * @link https://developers.themoviedb.org/3/genres/get-movie-list
+ * @link https://developer.themoviedb.org/reference/genre-movie-list
  */
-class GetMovieListRequest extends SaloonRequest
+class GetMovieListRequest extends Request
 {
-    use CastsToDto;
+    use CreatesDtoFromResponse;
 
-    protected ?string $connector = TMDB::class;
+    protected Method $method = Method::GET;
 
-    protected ?string $method = Saloon::GET;
-
-    public function defineEndpoint(): string
+    public function resolveEndpoint(): string
     {
         return '/genre/movie/list';
     }
 
-    protected function castToDto(SaloonResponse $response): GenreCollection
+    public function createDtoFromResponse(Response $response): GenreCollection
     {
-        return GenreCollection::fromArray(
-            $response->json('genres')
-        );
+        return GenreCollection::fromArray($response->json('genres'));
     }
 }

@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "223",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:34:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23669",
+        "x-memc": "HIT",
+        "x-memc-key": "724f7c4a647b99d5eefcc1f8de897b83",
+        "x-memc-age": "4251",
+        "x-memc-expires": "23669",
+        "ETag": "W\/\"02474d30269dd18766916d7aac2fbedc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 b911c551065b8f78ad33b4c4564141be.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nBZjCgQ10gCxd6mKB5wvcyCnmqOIEFFvx3iE5aYFBcAXFtziZkXwsQ==",
+        "Age": "182"
+    },
+    "data": "{\"description\":\"\",\"headquarters\":\" Burbank, California\",\"homepage\":\"https:\/\/www.marvel.com\/movies\",\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\",\"parent_company\":null}"
+}

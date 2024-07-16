@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "488",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17885",
+        "x-memc": "HIT",
+        "x-memc-key": "802dfd0c0b218bb30b1dbe3917b34e76",
+        "x-memc-age": "4822",
+        "x-memc-expires": "17885",
+        "ETag": "W\/\"c9414e40a9e909888e1e74fd911cf7d1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 b619a16f6f8fe9793bf642d2a8434284.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aMe4s6R0TwpaQdU03pMg9WSHpQT4hHNwCPN1C--xe_52ngtD3SoJTA==",
+        "Age": "330"
+    },
+    "data": "{\"genres\":[{\"id\":10759,\"name\":\"Action & Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":99,\"name\":\"Documentary\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10762,\"name\":\"Kids\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":10763,\"name\":\"News\"},{\"id\":10764,\"name\":\"Reality\"},{\"id\":10765,\"name\":\"Sci-Fi & Fantasy\"},{\"id\":10766,\"name\":\"Soap\"},{\"id\":10767,\"name\":\"Talk\"},{\"id\":10768,\"name\":\"War & Politics\"},{\"id\":37,\"name\":\"Western\"}]}"
+}

@@ -8,8 +8,7 @@ class Language
         public readonly string $iso639,
         public readonly string $name,
         public readonly string $englishName,
-    ) {
-    }
+    ) {}
 
     public static function fromArray(array $data): self
     {

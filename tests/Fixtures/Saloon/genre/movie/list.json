@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "547",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20035",
+        "x-memc": "HIT",
+        "x-memc-key": "f781971c95c323df5625e30d17cbce76",
+        "x-memc-age": "4083",
+        "x-memc-expires": "20035",
+        "ETag": "W\/\"98d6f4fb3a0e0c77544a7277f32baebb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 4b28b963946514dd2cf9a90f74a8034a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2RR1pKeCdpjueY1BCMLTnWfemVw3uAfP3zrraBi7UCIgcAHYohdpDQ==",
+        "Age": "315"
+    },
+    "data": "{\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":99,\"name\":\"Documentary\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":36,\"name\":\"History\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"},{\"id\":37,\"name\":\"Western\"}]}"
+}

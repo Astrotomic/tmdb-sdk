@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1452",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7557",
+        "x-memc": "HIT",
+        "x-memc-key": "fdd33ed6b7e6d70e1619f49948400af3",
+        "x-memc-age": "16891",
+        "x-memc-expires": "7557",
+        "ETag": "W\/\"65698d03aa39c143883f6dc7a5aab61d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 f655cacd0d6f7c5dc935ea687af6f3c0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jSXlTUSJ4gRl72j3zR2Zrrhb3QEuICQbJK3UkrrW6zYWigmsEA05-Q==",
+        "Age": "321"
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg\",\"belongs_to_collection\":null,\"budget\":100000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.thewolfofwallstreet.com\/\",\"id\":106646,\"imdb_id\":\"tt0993846\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Wolf of Wall Street\",\"overview\":\"A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.\",\"popularity\":156.131,\"poster_path\":\"\/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg\",\"production_companies\":[{\"id\":19177,\"logo_path\":null,\"name\":\"Red Granite Pictures\",\"origin_country\":\"US\"},{\"id\":562,\"logo_path\":\"\/azANEzu3H3Kztzt63sdjvlzxhuB.png\",\"name\":\"Appian Way\",\"origin_country\":\"US\"},{\"id\":23243,\"logo_path\":null,\"name\":\"Sikelia Productions\",\"origin_country\":\"US\"},{\"id\":14654,\"logo_path\":null,\"name\":\"EMJAG Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-12-25\",\"revenue\":392000000,\"runtime\":180,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Earn. Spend. Party.\",\"title\":\"The Wolf of Wall Street\",\"video\":false,\"vote_average\":8.037,\"vote_count\":23458}"
+}

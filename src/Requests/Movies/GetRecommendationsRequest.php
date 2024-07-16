@@ -2,38 +2,30 @@
 
 namespace Astrotomic\Tmdb\Requests\Movies;
 
-use Astrotomic\Tmdb\Data\Collections\MovieCollection;
-use Astrotomic\Tmdb\Data\Movie;
-use Astrotomic\Tmdb\TMDB;
-use Sammyjo20\Saloon\Constants\Saloon;
-use Sammyjo20\Saloon\Http\SaloonRequest;
-use Sammyjo20\Saloon\Http\SaloonResponse;
-use Sammyjo20\Saloon\Traits\Plugins\CastsToDto;
+use Astrotomic\Tmdb\Collections\MovieCollection;
+use Saloon\Enums\Method;
+use Saloon\Http\Request;
+use Saloon\Http\Response;
+use Saloon\Traits\Request\CreatesDtoFromResponse;
 
 /**
- * @link https://developers.themoviedb.org/3/movies/get-movie-recommendations
+ * @link https://developer.themoviedb.org/reference/movie-recommendations
  */
-class GetRecommendationsRequest extends SaloonRequest
+class GetRecommendationsRequest extends Request
 {
-    use CastsToDto;
+    use CreatesDtoFromResponse;
 
-    protected ?string $connector = TMDB::class;
+    protected Method $method = Method::GET;
 
-    protected ?string $method = Saloon::GET;
+    public function __construct(public readonly int $id) {}
 
-    public function __construct(public readonly int $id)
-    {
-    }
-
-    public function defineEndpoint(): string
+    public function resolveEndpoint(): string
     {
         return "/movie/{$this->id}/recommendations";
     }
 
-    protected function castToDto(SaloonResponse $response): MovieCollection
+    public function createDtoFromResponse(Response $response): MovieCollection
     {
-        return MovieCollection::fromArray(
-            $response->json('results')
-        );
+        return MovieCollection::fromArray($response->json('results'));
     }
 }

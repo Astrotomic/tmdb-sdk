@@ -2,13 +2,13 @@
 
 namespace Astrotomic\Tmdb\Data;
 
-use Astrotomic\Tmdb\Data\Collections\CompanyCollection;
-use Astrotomic\Tmdb\Data\Collections\CountryCollection;
-use Astrotomic\Tmdb\Data\Collections\GenreCollection;
-use Astrotomic\Tmdb\Data\Collections\LanguageCollection;
-use Astrotomic\Tmdb\Data\Images\Backdrop;
-use Astrotomic\Tmdb\Data\Images\Poster;
+use Astrotomic\Tmdb\Collections\CompanyCollection;
+use Astrotomic\Tmdb\Collections\CountryCollection;
+use Astrotomic\Tmdb\Collections\GenreCollection;
+use Astrotomic\Tmdb\Collections\LanguageCollection;
 use Astrotomic\Tmdb\Enums\MovieStatus;
+use Astrotomic\Tmdb\Images\Backdrop;
+use Astrotomic\Tmdb\Images\Poster;
 use Carbon\CarbonImmutable;
 use Carbon\CarbonInterval;
 
@@ -40,8 +40,7 @@ class Movie
         public readonly bool $video,
         public readonly float $voteAverage,
         public readonly int $voteCount,
-    ) {
-    }
+    ) {}
 
     public static function fromArray(array $data): self
     {

@@ -1,6 +1,6 @@
 <?php
 
-use Astrotomic\Tmdb\Data\Collections\RegionCollection;
+use Astrotomic\Tmdb\Collections\RegionCollection;
 use Astrotomic\Tmdb\Data\Region;
 
 it('responds with available regions data', function (): void {

@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "174",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:35:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8227",
+        "x-memc": "HIT",
+        "x-memc-key": "f2bd9422ce8159438216f3a759bd4be7",
+        "x-memc-age": "16048",
+        "x-memc-expires": "8227",
+        "ETag": "W\/\"f829964f5f697cfb4e728b54421f12df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 a36403421b18ef7385d5575765e6c414.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gk_g2HxRYgh5DoowrqyvxNDuOoUtgJxGotoQBihiFgdjATL8frWS-g==",
+        "Age": "179"
+    },
+    "data": "{\"description\":\"\",\"headquarters\":\"New York City, New York\",\"homepage\":\"\",\"id\":23243,\"logo_path\":null,\"name\":\"Sikelia Productions\",\"origin_country\":\"US\",\"parent_company\":null}"
+}

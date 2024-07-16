@@ -1,22 +1,15 @@
 <?php
 
-/*
-|--------------------------------------------------------------------------
-| Test Case
-|--------------------------------------------------------------------------
-|
-| The closure you provide to your test functions is always bound to a specific PHPUnit test
-| case class. By default, that class is "PHPUnit\Framework\TestCase". Of course, you may
-| need to change it using the "uses()" function to bind a different classes or traits.
-|
-*/
-
 use Astrotomic\PhpunitAssertions\UrlAssertions;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
 use Pest\Expectation;
+use Saloon\Http\Faking\MockClient;
+use Tests\TestCase;
 
-uses(\Tests\Feature\TestCase::class)->in('Feature');
+uses(TestCase::class)->in(__DIR__);
+
+uses()->beforeEach(fn () => MockClient::destroyGlobal())->in(__DIR__);
 
 /*
 |--------------------------------------------------------------------------

@@ -2,33 +2,28 @@
 
 namespace Astrotomic\Tmdb\Requests\WatchProviders;
 
-use Astrotomic\Tmdb\Data\Collections\WatchProviderCollection;
-use Astrotomic\Tmdb\TMDB;
-use Sammyjo20\Saloon\Constants\Saloon;
-use Sammyjo20\Saloon\Http\SaloonRequest;
-use Sammyjo20\Saloon\Http\SaloonResponse;
-use Sammyjo20\Saloon\Traits\Plugins\CastsToDto;
+use Astrotomic\Tmdb\Collections\WatchProviderCollection;
+use Saloon\Enums\Method;
+use Saloon\Http\Request;
+use Saloon\Http\Response;
+use Saloon\Traits\Request\CreatesDtoFromResponse;
 
 /**
- * @link https://developers.themoviedb.org/3/watch-providers/get-tv-providers
+ * @link https://developer.themoviedb.org/reference/watch-provider-tv-list
  */
-class GetTvProvidersRequest extends SaloonRequest
+class GetTvProvidersRequest extends Request
 {
-    use CastsToDto;
+    use CreatesDtoFromResponse;
 
-    protected ?string $connector = TMDB::class;
+    protected Method $method = Method::GET;
 
-    protected ?string $method = Saloon::GET;
-
-    public function defineEndpoint(): string
+    public function resolveEndpoint(): string
     {
         return '/watch/providers/tv';
     }
 
-    protected function castToDto(SaloonResponse $response): WatchProviderCollection
+    public function createDtoFromResponse(Response $response): WatchProviderCollection
     {
-        return WatchProviderCollection::fromArray(
-            $response->json('results')
-        );
+        return WatchProviderCollection::fromArray($response->json('results'));
     }
 }

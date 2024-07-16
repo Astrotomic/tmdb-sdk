@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1196",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14444",
+        "x-memc": "HIT",
+        "x-memc-key": "4201c6de8d33ea2123ebe6452b17de97",
+        "x-memc-age": "12044",
+        "x-memc-expires": "14444",
+        "ETag": "W\/\"5db72bcc20c25ad380453b70f8521d88\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 f5e34f7c59830a3caffb7df5f36b4dae.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eRoFXYSubCii7DwRRpzrNqWv_WgZ0qomVm1QHYMGOmtEIEaNFW8y3A==",
+        "Age": "320"
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wDyM1lIIgK4RIDAgr8iuZe9N1cf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81186049\",\"id\":755566,\"imdb_id\":\"tt13314558\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Day Shift\",\"overview\":\"An LA vampire hunter has a week to come up with the cash to pay for his kid's tuition and braces. Trying to make a living these days just might kill him.\",\"popularity\":31.247,\"poster_path\":\"\/bI7lGR5HuYlENlp11brKUAaPHuO.jpg\",\"production_companies\":[{\"id\":23008,\"logo_path\":\"\/5SarYupipdiejsEqUkwu1SpYfru.png\",\"name\":\"87Eleven\",\"origin_country\":\"US\"},{\"id\":99413,\"logo_path\":null,\"name\":\"Impossible Dream Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-12\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some jobs really go for the throat.\",\"title\":\"Day Shift\",\"video\":false,\"vote_average\":6.799,\"vote_count\":1859}"
+}

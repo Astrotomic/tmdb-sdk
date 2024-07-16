@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1601",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:32:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20972",
+        "x-memc": "HIT",
+        "x-memc-key": "6b41c869c556d1c999d538d2f8d86555",
+        "x-memc-age": "3676",
+        "x-memc-expires": "20972",
+        "ETag": "W\/\"30c6e42ea10a84b3b08dd8d810081908\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 0f34c0d3b0e50b8875bcbb7d41684a58.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7dQXABrh3AWZphitP2UrLU2btERPD45Ld3htaXlhQAvBm6K7Tgd7Iw==",
+        "Age": "319"
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg\",\"belongs_to_collection\":{\"id\":558216,\"name\":\"Venom Collection\",\"poster_path\":\"\/hoTLlTIohrzQ13HQVkZrDlvffuT.jpg\",\"backdrop_path\":\"\/vq340s8DxA5Q209FT8PHA6CXYOx.jpg\"},\"budget\":110000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.venom.movie\",\"id\":580489,\"imdb_id\":\"tt7097896\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Venom: Let There Be Carnage\",\"overview\":\"After finding a host body in investigative reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the alter ego of serial killer Cletus Kasady.\",\"popularity\":135.891,\"poster_path\":\"\/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":84041,\"logo_path\":\"\/nw4kyc29QRpNtFbdsBHkRSFavvt.png\",\"name\":\"Pascal Pictures\",\"origin_country\":\"US\"},{\"id\":53462,\"logo_path\":\"\/nx8B3Phlcse02w86RW4CJqzCnfL.png\",\"name\":\"Matt Tolmach Productions\",\"origin_country\":\"US\"},{\"id\":14439,\"logo_path\":null,\"name\":\"Arad Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-09-30\",\"revenue\":506863592,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Venom: Let There Be Carnage\",\"video\":false,\"vote_average\":6.802,\"vote_count\":9780}"
+}

@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "137",
+        "Connection": "keep-alive",
+        "Date": "Tue, 16 Jul 2024 20:35:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28467",
+        "x-memc": "HIT",
+        "x-memc-key": "a257a40ac240508df63bc9ff79c855cd",
+        "x-memc-age": "158",
+        "x-memc-expires": "28467",
+        "ETag": "W\/\"aae727423987a7572ca9daab34f7da3e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Hit from cloudfront",
+        "Via": "1.1 edd6d90087c4f2b49e182778a2273adc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "AMS54-C1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lPkAeRDE03s349CwTIRPLHZfR8NHGnpf-CkeQSgzphxNj6CJYLqqeQ==",
+        "Age": "181"
+    },
+    "data": "{\"description\":\"\",\"headquarters\":\"\",\"homepage\":\"\",\"id\":7394,\"logo_path\":null,\"name\":\"Oxybot\",\"origin_country\":null,\"parent_company\":null}"
+}
