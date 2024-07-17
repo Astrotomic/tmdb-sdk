@@ -14,7 +14,7 @@ class LanguageCollection extends Collection
      * @param  array<array-key, array>  $data
      * @return self<array-key, Language>
      */
-    public static function fromArray(array $data): self
+    public static function fromArray(?array $data): self
     {
         return static::make($data)->map(
             fn (array $item): Language => Language::fromArray($item)

@@ -26,7 +26,7 @@ class Poster extends Image
     public function height(): int
     {
         return $this->size
-            ? $this->size / 2 * 3
+            ? (int) floor($this->size / 2 * 3)
             : 3000;
     }
 }

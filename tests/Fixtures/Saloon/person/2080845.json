@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "346",
+        "Connection": "keep-alive",
+        "Date": "Wed, 17 Jul 2024 15:18:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26161",
+        "x-memc": "HIT",
+        "x-memc-key": "e47b3583a72d1ef426879ed5b6f9a00c",
+        "x-memc-age": "1340",
+        "x-memc-expires": "26161",
+        "ETag": "W\/\"9637d485a6221b42a72722a0b3ebde67\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GK6-XBNwAPzivwlkXz6NpAUigm5luY6p-wPMzJRixjMMlJnY2hqL3g=="
+    },
+    "data": "{\"adult\":false,\"also_known_as\":[\"Stephanie Portnoy\",\"Stephanie Porter\",\"Stephanie Arasim Portnoy\"],\"biography\":\"\",\"birthday\":null,\"deathday\":null,\"gender\":1,\"homepage\":null,\"id\":2080845,\"imdb_id\":\"nm0692473\",\"known_for_department\":\"Costume & Make-Up\",\"name\":\"Stephanie Portnoy Porter\",\"place_of_birth\":null,\"popularity\":4.203,\"profile_path\":null}"
+}

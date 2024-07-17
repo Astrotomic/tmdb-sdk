@@ -20,7 +20,7 @@ class Backdrop extends Image
     public function height(): int
     {
         return $this->size
-            ? $this->size / 16 * 9
+            ? (int) floor($this->size / 16 * 9)
             : 1080;
     }
 }

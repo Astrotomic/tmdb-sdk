@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "476",
+        "Connection": "keep-alive",
+        "Date": "Wed, 17 Jul 2024 15:18:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13233",
+        "x-memc": "HIT",
+        "x-memc-key": "f6693941a46be5e9c6a35f272f99e358",
+        "x-memc-age": "15550",
+        "x-memc-expires": "13233",
+        "ETag": "W\/\"7e15b52f2f7f41df4054712462b6d3f9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sDO1VnMEZSKo8I_p7lQFdfZU6kl_yg8zfy4TV9qHYccon5u55yKPXw=="
+    },
+    "data": "{\"adult\":false,\"also_known_as\":[],\"biography\":\"Jake Garber was born on April 16, 1965 in St. Paul, Minnesota, USA. Jake is known for Django Unchained (2012), The Walking Dead (2010) and Captain Marvel (2019).\",\"birthday\":\"1965-04-16\",\"deathday\":null,\"gender\":2,\"homepage\":null,\"id\":1206190,\"imdb_id\":\"nm0304948\",\"known_for_department\":\"Crew\",\"name\":\"Jake Garber\",\"place_of_birth\":\"St. Paul, Minnesota, USA\",\"popularity\":2.264,\"profile_path\":\"\/bYUTYworrOBjM6fCK6QBNuJG3pI.jpg\"}"
+}

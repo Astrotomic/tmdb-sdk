@@ -4,12 +4,9 @@ use Astrotomic\PhpunitAssertions\UrlAssertions;
 use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\Http;
 use Pest\Expectation;
-use Saloon\Http\Faking\MockClient;
 use Tests\TestCase;
 
-uses(TestCase::class)->in(__DIR__);
-
-uses()->beforeEach(fn () => MockClient::destroyGlobal())->in(__DIR__);
+uses(TestCase::class)->in('Feature');
 
 /*
 |--------------------------------------------------------------------------

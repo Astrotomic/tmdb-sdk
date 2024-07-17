@@ -4,10 +4,10 @@ namespace Astrotomic\Tmdb\Enums;
 
 enum MovieStatus: string
 {
-    case RUMORED = 'Rumored';
-    case PLANNED = 'Planned';
-    case IN_PRODUCTION = 'In Production';
-    case POST_PRODUCTION = 'Post Production';
-    case RELEASED = 'Released';
-    case CANCELED = 'Canceled';
+    case Rumored = 'Rumored';
+    case Planned = 'Planned';
+    case In_Production = 'In Production';
+    case Post_Production = 'Post Production';
+    case Released = 'Released';
+    case Canceled = 'Canceled';
 }

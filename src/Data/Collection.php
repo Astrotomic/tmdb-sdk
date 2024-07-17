@@ -6,15 +6,15 @@ use Astrotomic\Tmdb\Collections\MovieCollection;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
 
-class Collection
+readonly class Collection
 {
     final public function __construct(
-        public readonly int $id,
-        public readonly string $name,
-        public readonly ?string $overview,
-        public readonly ?string $posterPath,
-        public readonly ?string $backdropPath,
-        public readonly ?MovieCollection $parts,
+        public int $id,
+        public string $name,
+        public ?string $overview,
+        public ?string $posterPath,
+        public ?string $backdropPath,
+        public MovieCollection $parts,
     ) {}
 
     public static function fromArray(array $data): self
@@ -25,7 +25,7 @@ class Collection
             overview: $data['overview'] ?? null,
             posterPath: $data['poster_path'] ?? null,
             backdropPath: $data['backdrop_path'] ?? null,
-            parts: isset($data['parts']) ? MovieCollection::fromArray($data['parts']) : null,
+            parts: MovieCollection::fromArray($data['parts'] ?? null),
         );
     }
 

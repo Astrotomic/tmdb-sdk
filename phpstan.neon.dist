@@ -3,8 +3,12 @@ parameters:
         - src
 
     # The level 9 is the highest level
-    level: 6
+    level: 8
 
     reportUnmatchedIgnoredErrors: false
-    checkMissingIterableValueType: false
-    checkGenericClassInNonGenericObjectType: false
+    ignoreErrors:
+        - identifier: missingType.iterableValue
+        - identifier: missingType.generics
+        - message: '#Method Astrotomic\\Tmdb\\Collections\\\w+Collection::fromArray\(\) should return Astrotomic\\Tmdb\\Collections\\\w+Collection but returns Illuminate\\Support\\Collection<\(int\|string\), Astrotomic\\Tmdb\\Data\\\w+>.#'
+          paths:
+              - src/Collections/*

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "257",
+        "Connection": "keep-alive",
+        "Date": "Wed, 17 Jul 2024 15:18:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7718",
+        "x-memc": "HIT",
+        "x-memc-key": "36740a694d1617eb95d2736a135b19a3",
+        "x-memc-age": "17671",
+        "x-memc-expires": "7718",
+        "ETag": "W\/\"026aa2c39cff91b2b082fb052e425ab3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZYKh0UEuJoepUu-UtTK2oIJ4GW_FeCE5hu0-l_wdSoCLlg6hHmtq7w=="
+    },
+    "data": "{\"adult\":false,\"also_known_as\":[],\"biography\":\"\",\"birthday\":null,\"deathday\":null,\"gender\":0,\"homepage\":null,\"id\":1424896,\"imdb_id\":\"nm1514408\",\"known_for_department\":\"Art\",\"name\":\"Caleb Guillotte\",\"place_of_birth\":null,\"popularity\":3.24,\"profile_path\":null}"
+}

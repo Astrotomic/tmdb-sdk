@@ -2,17 +2,17 @@
 
 namespace Astrotomic\Tmdb\Data;
 
-class Company
+readonly class Company
 {
     final public function __construct(
-        public readonly int $id,
-        public readonly string $name,
-        public readonly ?string $originCountry,
-        public readonly ?string $logoPath,
-        public readonly ?string $description,
-        public readonly ?string $headquarters,
-        public readonly ?string $homepage,
-        public readonly ?self $parentCompany,
+        public int $id,
+        public string $name,
+        public ?string $originCountry,
+        public ?string $logoPath,
+        public ?string $description,
+        public ?string $headquarters,
+        public ?string $homepage,
+        public ?self $parentCompany,
     ) {}
 
     public static function fromArray(array $data): self

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "338",
+        "Connection": "keep-alive",
+        "Date": "Wed, 17 Jul 2024 15:18:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12498",
+        "x-memc": "HIT",
+        "x-memc-key": "f61a31e84e0f5febac011d4a600fc0ab",
+        "x-memc-age": "11230",
+        "x-memc-expires": "12498",
+        "ETag": "W\/\"20e158e452440ac5ac81225671576496\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3Fk-pnGl74qSoiw38ihyQEwJn_znaQJg8-gtS3ChGz5KwZ9-yyr78A=="
+    },
+    "data": "{\"adult\":false,\"also_known_as\":[\"Michael Riva\"],\"biography\":\"\",\"birthday\":\"1948-06-28\",\"deathday\":\"2012-06-07\",\"gender\":2,\"homepage\":null,\"id\":13304,\"imdb_id\":\"nm0728951\",\"known_for_department\":\"Art\",\"name\":\"J. Michael Riva\",\"place_of_birth\":\"Manhattan, New York, USA\",\"popularity\":2.861,\"profile_path\":\"\/54ds2S5EdGOG8ynqQyYm344vGib.jpg\"}"
+}

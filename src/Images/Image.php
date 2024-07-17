@@ -48,22 +48,14 @@ abstract class Image implements Arrayable, Htmlable, Jsonable, JsonSerializable,
 
     public function fallback(): string
     {
-        return sprintf(
-            '%s/%dx%d/9ca3af/ffffff.jpg?text=%s',
-            'https://via.placeholder.com',
-            $this->width(),
-            $this->height(),
-            urlencode($this->alt)
-        );
+        $text = urlencode($this->alt ?? $this->path ?? class_basename(static::class));
+
+        return "https://via.placeholder.com/{$this->width()}x{$this->height()}/9ca3af/ffffff.jpg?text={$text}";
     }
 
     public function __toString(): string
     {
-        if (empty($this->path)) {
-            return $this->fallback();
-        }
-
-        return $this->url();
+        return $this->url() ?? $this->fallback();
     }
 
     public function toHtml(): string

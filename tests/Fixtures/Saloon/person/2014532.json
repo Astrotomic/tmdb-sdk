@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "257",
+        "Connection": "keep-alive",
+        "Date": "Wed, 17 Jul 2024 15:18:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23020",
+        "x-memc": "HIT",
+        "x-memc-key": "15aed08b9575be12ea0e368b29e4b8af",
+        "x-memc-age": "1778",
+        "x-memc-expires": "23020",
+        "ETag": "W\/\"faaa9680ac8e626345190ffad8302df3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kaFnxz0rDWuj2jGOBxPg2RQY63uI5CA5pwvm9XWTSXdr7NMHVUi7OA=="
+    },
+    "data": "{\"adult\":false,\"also_known_as\":[],\"biography\":\"\",\"birthday\":null,\"deathday\":null,\"gender\":0,\"homepage\":null,\"id\":2014532,\"imdb_id\":null,\"known_for_department\":\"Visual Effects\",\"name\":\"Greg Steele\",\"place_of_birth\":null,\"popularity\":2.86,\"profile_path\":null}"
+}

@@ -10,8 +10,8 @@ use Saloon\Http\Faking\MockClient;
 use Saloon\Http\Faking\MockResponse;
 use Saloon\Http\PendingRequest;
 
-abstract class TestCase extends \PHPUnit\Framework\TestCase {
-
+abstract class TestCase extends \PHPUnit\Framework\TestCase
+{
     protected string $token;
 
     protected TMDB $tmdb;

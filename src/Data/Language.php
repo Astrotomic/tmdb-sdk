@@ -2,12 +2,12 @@
 
 namespace Astrotomic\Tmdb\Data;
 
-class Language
+readonly class Language
 {
     final public function __construct(
-        public readonly string $iso639,
-        public readonly string $name,
-        public readonly string $englishName,
+        public string $iso639,
+        public string $name,
+        public string $englishName,
     ) {}
 
     public static function fromArray(array $data): self

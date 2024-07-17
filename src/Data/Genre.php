@@ -2,11 +2,11 @@
 
 namespace Astrotomic\Tmdb\Data;
 
-class Genre
+readonly class Genre
 {
     final public function __construct(
-        public readonly int $id,
-        public readonly string $name,
+        public int $id,
+        public string $name,
     ) {}
 
     public static function fromArray(array $data): self

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "314",
+        "Connection": "keep-alive",
+        "Date": "Wed, 17 Jul 2024 15:18:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2309",
+        "x-memc": "HIT",
+        "x-memc-key": "f16fe4567e93c021d99ef0981f2d9780",
+        "x-memc-age": "25102",
+        "x-memc-expires": "2309",
+        "ETag": "W\/\"09dca980948bb07690b09bb7b48aede0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GWReCZcFOtSM6I12kBXhhNLBKYt8HKioWPXJ1QXSA5OY7O-CsHiFGQ=="
+    },
+    "data": "{\"adult\":false,\"also_known_as\":[\"Bill Clark\",\"William P. Clark\",\"William Clark\"],\"biography\":\"\",\"birthday\":null,\"deathday\":null,\"gender\":2,\"homepage\":null,\"id\":1599143,\"imdb_id\":\"nm0164613\",\"known_for_department\":\"Directing\",\"name\":\"William Paul Clark\",\"place_of_birth\":null,\"popularity\":2.118,\"profile_path\":null}"
+}

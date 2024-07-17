@@ -4,13 +4,13 @@ namespace Astrotomic\Tmdb\Data;
 
 use Astrotomic\Tmdb\Images\Logo;
 
-class WatchProvider
+readonly class WatchProvider
 {
     final public function __construct(
-        public readonly int $id,
-        public readonly string $name,
-        public readonly int $displayPriority,
-        public readonly string $logoPath,
+        public int $id,
+        public string $name,
+        public int $displayPriority,
+        public string $logoPath,
     ) {}
 
     public static function fromArray(array $data): self

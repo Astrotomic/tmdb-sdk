@@ -6,6 +6,8 @@ use Astrotomic\Tmdb\Resources\Collections;
 use Astrotomic\Tmdb\Resources\Companies;
 use Astrotomic\Tmdb\Resources\Genres;
 use Astrotomic\Tmdb\Resources\Movies;
+use Astrotomic\Tmdb\Resources\People;
+use Astrotomic\Tmdb\Resources\TvSeries;
 use Astrotomic\Tmdb\Resources\WatchProviders;
 use Saloon\Contracts\Authenticator;
 use Saloon\Http\Auth\TokenAuthenticator;
@@ -72,5 +74,15 @@ class TMDB extends Connector
     public function watchProviders(): WatchProviders
     {
         return new WatchProviders($this);
+    }
+
+    public function tvSeries(): TvSeries
+    {
+        return new TvSeries($this);
+    }
+
+    public function people(): People
+    {
+        return new People($this);
     }
 }
