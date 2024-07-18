@@ -1,0 +1,14 @@
+name: dependency-review
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  dependency-review:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/dependency-review-action@v4
+        with:
+          comment-summary-in-pr: always
