@@ -1,29 +1,37 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\CountryWatchProvider;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends IlluminateCollection<string, CountryWatchProvider>
+ * @template TKey of int
+ * @template TValue of CountryWatchProvider
+ *
+ * @extends IlluminateCollection<TKey, TValue>
  */
 class CountryWatchProviderCollection extends IlluminateCollection
 {
     /**
      * @param  array<string, array>  $data
-     * @return self<string, CountryWatchProvider>
+     * @return self<TKey, TValue>
      */
     public static function fromArray(?array $data): self
     {
-        return static::make(Arr::map(
-            array: $data ?? [],
-            callback: fn (array $item, string $country) => CountryWatchProvider::fromArray($item, $country)
+        return new static(array_map(
+            fn (array $item, string $key) => CountryWatchProvider::fromArray($item, $key),
+            $data ?? [],
+            array_keys($data ?? [])
         ));
     }
 
-    public function __construct($items = [])
+    /**
+     * @param  iterable<TKey, TValue>|null  $items
+     */
+    final public function __construct($items = [])
     {
         parent::__construct($items);
 

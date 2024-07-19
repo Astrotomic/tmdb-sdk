@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Requests\People;
 
 use Astrotomic\Tmdb\Data\Person;

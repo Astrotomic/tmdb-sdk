@@ -1,29 +1,36 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\TvSeason;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends IlluminateCollection<array-key, TvSeason>
+ * @template TKey of int
+ * @template TValue of TvSeason
+ *
+ * @extends IlluminateCollection<TKey, TValue>
  */
 class TvSeasonCollection extends IlluminateCollection
 {
     /**
-     * @param  array<array-key, array>  $data
-     * @return self<array-key, TvSeason>
+     * @param  array<TKey, array>  $data
+     * @return self<TKey, TValue>
      */
     public static function fromArray(?array $data): self
     {
-        return static::make(Arr::map(
-            array: $data ?? [],
-            callback: fn (array $item) => TvSeason::fromArray($item)
+        return new static(array_map(
+            fn (array $item) => TvSeason::fromArray($item),
+            $data ?? []
         ));
     }
 
-    public function __construct($items = [])
+    /**
+     * @param  iterable<TKey, TValue>|null  $items
+     */
+    final public function __construct($items = [])
     {
         parent::__construct($items);
 

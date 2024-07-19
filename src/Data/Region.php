@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Data;
 
 readonly class Region

@@ -1,29 +1,36 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\Credit;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends IlluminateCollection<array-key, Credit>
+ * @template TKey of int
+ * @template TValue of Credit
+ *
+ * @extends IlluminateCollection<TKey, TValue>
  */
 class CreditCollection extends IlluminateCollection
 {
     /**
-     * @param  array<array-key, array>  $data
-     * @return self<array-key, Credit>
+     * @param  array<TKey, array>  $data
+     * @return self<TKey, TValue>
      */
     public static function fromArray(?array $data): self
     {
-        return static::make(Arr::map(
-            array: $data ?? [],
-            callback: fn (array $item) => Credit::fromArray($item)
+        return new static(array_map(
+            fn (array $item) => Credit::fromArray($item),
+            $data ?? []
         ));
     }
 
-    public function __construct($items = [])
+    /**
+     * @param  iterable<TKey, TValue>|null  $items
+     */
+    final public function __construct($items = [])
     {
         parent::__construct($items);
 

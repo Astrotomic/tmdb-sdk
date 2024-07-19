@@ -3,6 +3,7 @@
 namespace Tests;
 
 use Astrotomic\Tmdb\TMDB;
+use Dotenv\Dotenv;
 use Illuminate\Support\Str;
 use Illuminate\Support\Stringable;
 use Saloon\Http\Faking\Fixture;
@@ -19,6 +20,10 @@ abstract class TestCase extends \PHPUnit\Framework\TestCase
     protected function setUp(): void
     {
         parent::setUp();
+
+        $dotenv = Dotenv::createImmutable(__DIR__.'/..');
+        $dotenv->load();
+        ray($_ENV);
 
         $mock = new MockClient([
             TMDB::class => function (PendingRequest $request): Fixture {

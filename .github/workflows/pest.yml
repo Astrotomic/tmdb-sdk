@@ -35,4 +35,4 @@ jobs:
           extensions: curl, json
           coverage: none
       - run: composer update --prefer-dist --no-progress --no-interaction --no-suggest
-      - run: vendor/bin/pest --type-coverage
+      - run: vendor/bin/pest --type-coverage --min=95

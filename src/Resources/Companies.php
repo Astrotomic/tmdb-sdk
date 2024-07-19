@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Resources;
 
 use Astrotomic\Tmdb\Data\Company;

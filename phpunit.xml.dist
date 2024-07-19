@@ -7,8 +7,11 @@
          cacheDirectory=".phpunit.cache"
 >
     <testsuites>
-        <testsuite name="Test Suite">
-            <directory suffix="Test.php">./tests</directory>
+        <testsuite name="Feature">
+            <directory suffix="Test.php">./tests/Feature</directory>
+        </testsuite>
+        <testsuite name="Architecture">
+            <directory suffix="Test.php">./tests/Architecture</directory>
         </testsuite>
     </testsuites>
     <source>
@@ -16,7 +19,4 @@
             <directory suffix=".php">./src</directory>
         </include>
     </source>
-    <php>
-        <env name="TMDB_TOKEN" value="Add.Your.Token"/>
-    </php>
 </phpunit>

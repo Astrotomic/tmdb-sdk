@@ -9,6 +9,8 @@ parameters:
     ignoreErrors:
         - identifier: missingType.iterableValue
         - identifier: missingType.generics
+        - message: '#Method Astrotomic\\Tmdb\\Collections\\\w+Collection::fromArray\(\) should return Astrotomic\\Tmdb\\Collections\\\w+Collection but returns Illuminate\\Support\\Collection<int, Astrotomic\\Tmdb\\Data\\\w+>.#'
+        - message: '#Method Astrotomic\\Tmdb\\Collections\\\w+Collection::fromArray\(\) should return Astrotomic\\Tmdb\\Collections\\\w+Collection but returns Illuminate\\Support\\Collection<string, Astrotomic\\Tmdb\\Data\\\w+>.#'
         - message: '#Method Astrotomic\\Tmdb\\Collections\\\w+Collection::fromArray\(\) should return Astrotomic\\Tmdb\\Collections\\\w+Collection but returns Illuminate\\Support\\Collection<\(int\|string\), Astrotomic\\Tmdb\\Data\\\w+>.#'
           paths:
               - src/Collections/*

@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Data;
 
 use Astrotomic\Tmdb\Enums\Department;
@@ -25,7 +27,7 @@ readonly class Person
         public Department $knownForDepartment,
         public string $name,
         public ?string $placeOfBirth,
-        public string $popularity,
+        public float $popularity,
         public ?string $profilePath,
     ) {}
 

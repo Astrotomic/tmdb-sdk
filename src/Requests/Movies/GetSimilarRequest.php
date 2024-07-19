@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Requests\Movies;
 
 use Astrotomic\Tmdb\Collections\MovieCollection;

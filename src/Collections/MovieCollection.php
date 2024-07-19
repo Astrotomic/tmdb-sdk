@@ -1,29 +1,36 @@
 <?php
 
+declare(strict_types=1);
+
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\Movie;
-use Illuminate\Support\Arr;
 use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends IlluminateCollection<array-key, Movie>
+ * @template TKey of int
+ * @template TValue of Movie
+ *
+ * @extends IlluminateCollection<TKey, TValue>
  */
 class MovieCollection extends IlluminateCollection
 {
     /**
-     * @param  array<array-key, array>  $data
-     * @return self<array-key, Movie>
+     * @param  array<TKey, array>  $data
+     * @return self<TKey, TValue>
      */
     public static function fromArray(?array $data): self
     {
-        return static::make(Arr::map(
-            array: $data ?? [],
-            callback: fn (array $item) => Movie::fromArray($item)
+        return new static(array_map(
+            fn (array $item) => Movie::fromArray($item),
+            $data ?? []
         ));
     }
 
-    public function __construct($items = [])
+    /**
+     * @param  iterable<TKey, TValue>|null  $items
+     */
+    final public function __construct($items = [])
     {
         parent::__construct($items);
 
