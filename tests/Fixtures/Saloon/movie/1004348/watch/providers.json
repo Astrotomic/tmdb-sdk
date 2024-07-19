@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3498",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:15:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12511",
+        "x-memc": "HIT",
+        "x-memc-key": "2d33b36a885e6804f544279987339c0b",
+        "x-memc-age": "9962",
+        "x-memc-expires": "12511",
+        "ETag": "W\/\"6ea2f09565a8c7ebc323de4baafdbb89\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0usvrMi2pXcS7gUjQWLBgb1zUYyA41esVT-fCOzQSNvrv3KJL3F8rQ=="
+    },
+    "data": "{\"id\":1004348,\"results\":{\"BE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1004348-bolero\/watch?locale=BE\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":50}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":50}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1004348-bolero\/watch?locale=CH\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1004348-bolero\/watch?locale=FR\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":16},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":21},{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":16},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":21},{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42}]},\"LU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1004348-bolero\/watch?locale=LU\",\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":1}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":1}]}}}"
+}

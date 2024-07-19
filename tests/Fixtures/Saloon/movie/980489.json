@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1327",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8112",
+        "x-memc": "HIT",
+        "x-memc-key": "ca8f035aca398614aef48030a01ca48a",
+        "x-memc-age": "16684",
+        "x-memc-expires": "8112",
+        "ETag": "W\/\"e32df65bef0e4402d2c620cc9c2a4f09\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "02re-2LnUAOH8j_fxorqJ1DMnbD4cqcSHDUbtIfHCcuf-dhYzEk-Uw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xFYpUmB01nswPgbzi8EOCT1ZYFu.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.granturismo.movie\",\"id\":980489,\"imdb_id\":\"tt4495098\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Gran Turismo\",\"overview\":\"The ultimate wish-fulfillment tale of a teenage Gran Turismo player whose gaming skills won him a series of Nissan competitions to become an actual professional racecar driver.\",\"popularity\":114.893,\"poster_path\":\"\/51tqzRtKMMZEYUpSYkrUE7v9ehm.jpg\",\"production_companies\":[{\"id\":125281,\"logo_path\":\"\/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png\",\"name\":\"PlayStation Productions\",\"origin_country\":\"US\"},{\"id\":84792,\"logo_path\":\"\/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png\",\"name\":\"2.0 Entertainment\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-08-09\",\"revenue\":121700000,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"From gamer to racer.\",\"title\":\"Gran Turismo\",\"video\":false,\"vote_average\":7.84,\"vote_count\":2479}"
+}

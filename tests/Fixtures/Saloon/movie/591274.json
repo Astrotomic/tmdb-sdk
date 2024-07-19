@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1190",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=430",
+        "x-memc": "HIT",
+        "x-memc-key": "568c77d4b64df89e20372d61668b36cc",
+        "x-memc-age": "28173",
+        "x-memc-expires": "430",
+        "ETag": "W\/\"ece39c9765aecd205dee4e25f668a42e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rCdwfvt4q2gHzxlJRl6o0Wv8dWzQAGBrf-LepUmapg0-kyQSW8md5A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sXw75q37IsFWgIIrjMZwfCXO1BF.jpg\",\"belongs_to_collection\":{\"id\":790370,\"name\":\"Fear Street Collection\",\"poster_path\":\"\/nuh1egnnHA3r4dCqAQqkfbC9neK.jpg\",\"backdrop_path\":\"\/13nBFLeuhHbXmU8QAnLIrJy11cl.jpg\"},\"budget\":0,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81334749\",\"id\":591274,\"imdb_id\":\"tt9701940\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fear Street: 1978\",\"overview\":\"In 1978, two rival groups at Camp Nightwing must band together to solve a terrifying mystery when horrors from their towns' history come alive.\",\"popularity\":32.684,\"poster_path\":\"\/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg\",\"production_companies\":[{\"id\":7076,\"logo_path\":\"\/8BFxn9NUWSgp0ndih569Gm62xiC.png\",\"name\":\"Chernin Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-07-08\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Find the truth.\",\"title\":\"Fear Street: 1978\",\"video\":false,\"vote_average\":7.2,\"vote_count\":1838}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27043",
+        "x-memc": "HIT",
+        "x-memc-key": "ce81bfc5d61501cf5a748f603db2a556",
+        "x-memc-age": "641",
+        "x-memc-expires": "27043",
+        "ETag": "W\/\"7d6444c29819b44892e0d83f1240c365\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mlGmHDRrNPw1XwJ5kmZY14bdP3sbfc3G3hDaoK3Z4kSSSd-vzR3aoA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6EUCHkb3rmqy08EP07oMPZbjpZR.jpg\",\"belongs_to_collection\":{\"id\":925155,\"name\":\"Demon Slayer: Kimetsu no Yaiba Collection\",\"poster_path\":\"\/7HWkUmer2r5nVxtMAlYlZY8kclV.jpg\",\"backdrop_path\":\"\/oHx043lHsysn8klll1nPvKMBHLf.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":895003,\"imdb_id\":\"tt16492636\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u9b3c\u6ec5\u306e\u5203 \u6d45\u8349\u7de8\",\"overview\":\"Tanjiro ventures to Asakusa, Tokyo for his second mission with the Demon Slayer Corps.\",\"popularity\":51.355,\"poster_path\":\"\/t2w332ARBJxy1G65abj8C7VNjeW.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2022-08-25\",\"revenue\":161970,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Demon Slayer: Kimetsu no Yaiba - Asakusa Arc\",\"video\":true,\"vote_average\":7.934,\"vote_count\":53}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1593",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24032",
+        "x-memc": "HIT",
+        "x-memc-key": "4d6e89a12ccea16b6a3b0149f9268c06",
+        "x-memc-age": "1387",
+        "x-memc-expires": "24032",
+        "ETag": "W\/\"497dfbcc3624d0345bdc5fba94b47ac5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZAo4NNpPtAvgjDUbV0m9igXCiIraf1yLXA8AjBwPXfghIrNAztxJPw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg\",\"belongs_to_collection\":null,\"budget\":1200000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"http:\/\/www.mgm.com\/#\/our-titles\/766\/The-Good,-the-Bad-and-the-Ugly\",\"id\":429,\"imdb_id\":\"tt0060196\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Il buono, il brutto, il cattivo\",\"overview\":\"While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.\",\"popularity\":135.537,\"poster_path\":\"\/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":7508,\"logo_path\":null,\"name\":\"PEA\",\"origin_country\":\"IT\"},{\"id\":42498,\"logo_path\":null,\"name\":\"Arturo Gonz\u00e1lez Producciones Cinematogr\u00e1ficas\",\"origin_country\":\"ES\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1966-12-22\",\"revenue\":38900000,\"runtime\":161,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"For three men the Civil War wasn't hell. It was practice.\",\"title\":\"The Good, the Bad and the Ugly\",\"video\":false,\"vote_average\":8.465,\"vote_count\":8376}"
+}

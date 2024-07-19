@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1142",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6927",
+        "x-memc": "HIT",
+        "x-memc-key": "00c4476a02282c61b8f90afffaaf144d",
+        "x-memc-age": "16746",
+        "x-memc-expires": "6927",
+        "ETag": "W\/\"6bdb48e8efd9edc182c45f6dc63cd3c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sm1FK3ct4h2DkJNFBI5Nk3c7oSYH-PH7VpemWQKsMv43GewgcxVY8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gKeAl6dCzZ4AUJ1zHZ1gUCjHWbQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.animator.ru\/db\/?p=show_film&fid=2111\",\"id\":1178790,\"imdb_id\":null,\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u0421\u043b\u0443\u0447\u0430\u0439 \u0441 \u0445\u0443\u0434\u043e\u0436\u043d\u0438\u043a\u043e\u043c\",\"overview\":\"A film that \\\"exposes\\\" the creators of abstract, constructivist, surrealistic painting. The horrors experienced by the artist in the world of pictorial abstractions force him to return to \\\"realism\\\"\",\"popularity\":5.252,\"poster_path\":\"\/WU2FyOJ5D3CwlTMZ6l4bbbvlmH.jpg\",\"production_companies\":[{\"id\":14599,\"logo_path\":\"\/hz8piJ9Np1MswUyav0JDNGf42pO.png\",\"name\":\"Soyuzmultfilm\",\"origin_country\":\"SU\"}],\"production_countries\":[{\"iso_3166_1\":\"SU\",\"name\":\"Soviet Union\"}],\"release_date\":\"1962-01-01\",\"revenue\":0,\"runtime\":19,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"A parody that makes fun of abstractionism.\",\"title\":\"The Case of the Artist\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

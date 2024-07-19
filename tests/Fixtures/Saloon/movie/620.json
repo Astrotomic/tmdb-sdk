@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1601",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6908",
+        "x-memc": "HIT",
+        "x-memc-key": "b581bc74cc1489e88a7ba831f0ea7fa0",
+        "x-memc-age": "15445",
+        "x-memc-expires": "6908",
+        "ETag": "W\/\"18a7aec25cb4229d7da1ba17715f0484\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XqIMsibVWRDZvCI8J08SO_bZSmLCkpzvwVUBWDHfREW6EhO2awjOiw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c6yfABGVKuB5cjoOwdX4AJMlzUz.jpg\",\"belongs_to_collection\":{\"id\":2980,\"name\":\"Ghostbusters Collection\",\"poster_path\":\"\/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg\",\"backdrop_path\":\"\/guigdRPHN65fsgZHmvVvBOyiArf.jpg\"},\"budget\":30000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.ghostbusters.com\/\",\"id\":620,\"imdb_id\":\"tt0087332\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ghostbusters\",\"overview\":\"After losing their academic posts at a prestigious university, a team of parapsychologists goes into business as proton-pack-toting \\\"ghostbusters\\\" who exterminate ghouls, hobgoblins and supernatural pests of all stripes. An ad campaign pays off when a knockout cellist hires the squad to purge her swanky digs of demons that appear to be living in her refrigerator.\",\"popularity\":86.587,\"poster_path\":\"\/7E8nLijS9AwwUEPu2oFYOVKhdFA.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":4267,\"logo_path\":\"\/cw6C1E64Ckf5jV8ppAIz9gHaho4.png\",\"name\":\"Delphi Films\",\"origin_country\":\"US\"},{\"id\":47565,\"logo_path\":null,\"name\":\"Black Rhino Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1984-06-08\",\"revenue\":296578797,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're here to save the world.\",\"title\":\"Ghostbusters\",\"video\":false,\"vote_average\":7.487,\"vote_count\":8717}"
+}

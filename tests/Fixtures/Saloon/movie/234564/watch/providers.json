@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1336",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:04:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2706",
+        "x-memc": "HIT",
+        "x-memc-key": "3dd2304d29664b8a541146890f0ee796",
+        "x-memc-age": "24893",
+        "x-memc-expires": "2706",
+        "ETag": "W\/\"2282e13ffd29da1200caec2c2dba5c64\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6TQ4QjL4pARNeXDV9MF1bM5GwumycEtBkLjVRKfX5pACj_CwylF_KQ=="
+    },
+    "data": "{\"id\":234564,\"results\":{\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234564-feral\/watch?locale=CH\",\"free\":[{\"logo_path\":\"\/aqyyZxc2tQ1gEORXNF2d55GvD5P.jpg\",\"provider_id\":1724,\"provider_name\":\"AVA CSAL\",\"display_priority\":42}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234564-feral\/watch?locale=DE\",\"free\":[{\"logo_path\":\"\/nJlTOUfDEUD6fQLopWBnUNzo2NA.jpg\",\"provider_id\":1722,\"provider_name\":\"AVA VOBB\",\"display_priority\":79},{\"logo_path\":\"\/p1mlqlIOtPPZf7lckxX3XLAm2ia.jpg\",\"provider_id\":1723,\"provider_name\":\"AVA HBZ\",\"display_priority\":80}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234564-feral\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234564-feral\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"free\":[{\"logo_path\":\"\/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg\",\"provider_id\":191,\"provider_name\":\"Kanopy\",\"display_priority\":48}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

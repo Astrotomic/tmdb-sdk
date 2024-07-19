@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1539",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21538",
+        "x-memc": "HIT",
+        "x-memc-key": "b978a6d191d71b374deb69159cc7f02f",
+        "x-memc-age": "5736",
+        "x-memc-expires": "21538",
+        "ETag": "W\/\"f1e9087b7de1170ca3d88532dd0de855\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3NvF8zmmSGA1ehtGKQCY-u7_Bh-2StH1ddK228LT6nAsHz_NchFrmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3eQnD9CIUerbXbgtFE1zJNvEVVo.jpg\",\"belongs_to_collection\":{\"id\":94032,\"name\":\"The Lion King Collection\",\"poster_path\":\"\/oG1heUs503GV6xBnFhgyYTGWm05.jpg\",\"backdrop_path\":\"\/A9IEaj9cPAwEgFnTmteB70oxgJY.jpg\"},\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":11430,\"imdb_id\":\"tt0318403\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lion King 1\u00bd\",\"overview\":\"Timon the meerkat and Pumbaa the warthog are best pals and the unsung heroes of the African savanna. This prequel to the smash Disney animated adventure takes you back -- way back -- before Simba's adventure began. You'll find out all about Timon and Pumbaa and tag along as they search for the perfect home and attempt to raise a rambunctious lion cub.\",\"popularity\":53.647,\"poster_path\":\"\/sVJME5R1NmTXtbdnAxYPx7Xa7kr.jpg\",\"production_companies\":[{\"id\":5391,\"logo_path\":\"\/o5AcK10ViutenSa4XTD18ClCEWe.png\",\"name\":\"DisneyToon Studios\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-02-06\",\"revenue\":1465,\"runtime\":77,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You Don't Know The \u00bd Of It!\",\"title\":\"The Lion King 1\u00bd\",\"video\":false,\"vote_average\":6.583,\"vote_count\":2901}"
+}

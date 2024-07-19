@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1054",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20555",
+        "x-memc": "HIT",
+        "x-memc-key": "f640ab63ce8c317a0def8a69e70b79bb",
+        "x-memc-age": "4020",
+        "x-memc-expires": "20555",
+        "ETag": "W\/\"66cefeac18b3e512f7401b2639cdb751\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lST4NjaodVJw65DhXx4b_HD_uQPjehgj_Aw40y7m19homQ6x-H1fzQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fFut8u46jemrFjIQNfi1JmsyBGL.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3165,\"imdb_id\":\"tt0082410\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frankenstein Island\",\"overview\":\"A hot air balloon crew and a dog find themselves on an island with scantily-clad part-alien women, zombies, and other monsters.\",\"popularity\":4.996,\"poster_path\":\"\/cyQ9LrACK0ynI73ZyvW1XVEAIut.jpg\",\"production_companies\":[{\"id\":43608,\"logo_path\":null,\"name\":\"Chriswar\",\"origin_country\":\"\"},{\"id\":10784,\"logo_path\":null,\"name\":\"Cerito Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-11-27\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The power is 7,000,000 volts--it's alive!\",\"title\":\"Frankenstein Island\",\"video\":false,\"vote_average\":3.1,\"vote_count\":18}"
+}

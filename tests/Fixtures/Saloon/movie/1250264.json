@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1108",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4804",
+        "x-memc": "HIT",
+        "x-memc-key": "a45d4cc417a5a3fd55e2b441b248daf2",
+        "x-memc-age": "20657",
+        "x-memc-expires": "4804",
+        "ETag": "W\/\"b754cadd16f68d4c10bbdabbbcfa68fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5yzJ7yV-KwUGZOT8xyaHC1MQfUVOIUxEuf9FJjz_mF6uabB6mfiXjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cLssF0xlmylNr7cg6ogLD6a24gw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1250264,\"imdb_id\":\"tt31434046\",\"origin_country\":[\"GR\"],\"original_language\":\"el\",\"original_title\":\"\u039c\u03b7\u03bd \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03bd \u03c0\u03cc\u03c1\u03c4\u03b1\",\"overview\":\"Far from civilization, in a frozen forest on an inhospitable mountainside, a group of researchers is attacked by an unidentified figure. The sole survivor, a young biologist, takes refuge in the isolated cabin of a mysterious man.\",\"popularity\":4.676,\"poster_path\":\"\/vNYV7kpDjyRt5K63M5bdyaPfH8C.jpg\",\"production_companies\":[{\"id\":221808,\"logo_path\":null,\"name\":\"Black Dolphin Studios\",\"origin_country\":\"\"},{\"id\":213534,\"logo_path\":null,\"name\":\"Unboxholics\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GR\",\"name\":\"Greece\"}],\"release_date\":\"2024-04-25\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Don't Open the Door\",\"video\":false,\"vote_average\":7.0,\"vote_count\":2}"
+}

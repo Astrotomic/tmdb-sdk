@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1277",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9145",
+        "x-memc": "HIT",
+        "x-memc-key": "83812ff91b07c9d04f66c33abba88177",
+        "x-memc-age": "15651",
+        "x-memc-expires": "9145",
+        "ETag": "W\/\"0b3c3ee561b77a0f93c3737939bb2f7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BNmvEq-UF95MLqxTXUGG_W1IdVcDWaDcqHkmYjjv5ScAWcAG-7qI6w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/so48b1wCFRDkd4uXMM5eDlCzkt4.jpg\",\"belongs_to_collection\":null,\"budget\":9400000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11576,\"imdb_id\":\"tt0057193\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"It's a Mad, Mad, Mad, Mad World\",\"overview\":\"A group of strangers come across a man dying after a car crash who proceeds to tell them about the $350,000 he buried in California. What follows is the madcap adventures of those strangers as each attempts to claim the prize for himself.\",\"popularity\":30.623,\"poster_path\":\"\/z6Yy7VgLbM8t10ZlBRzBLKGZEqo.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":8040,\"logo_path\":null,\"name\":\"Casey Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1963-11-07\",\"revenue\":60000000,\"runtime\":197,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The comedy event of the century, In glorious 70mm!\",\"title\":\"It's a Mad, Mad, Mad, Mad World\",\"video\":false,\"vote_average\":6.965,\"vote_count\":569}"
+}

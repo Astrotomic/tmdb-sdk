@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1242",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12887",
+        "x-memc": "HIT",
+        "x-memc-key": "954ca3c7111da8a9204d202ba97fdb6a",
+        "x-memc-age": "12364",
+        "x-memc-expires": "12887",
+        "ETag": "W\/\"97d49fea4172ee27ac00b86e1d50bbf7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KVeoYiPQWVG3Y5_dcFFK7nouvGqniSovlgljsrdOeAFSa5q4UR6f0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/opNdWurarqYxrzqpVRPyZrbWb3K.jpg\",\"belongs_to_collection\":{\"id\":1172371,\"name\":\"Nightwatch Collection\",\"poster_path\":\"\/uOXeb4vKZLTROhKAewzUrP3dfzh.jpg\",\"backdrop_path\":null},\"budget\":4300000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":1029880,\"imdb_id\":\"tt6318608\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Nattevagten - D\u00e6moner g\u00e5r i arv\",\"overview\":\"Martin's daughter, Emma, takes up a night watch job to find out what happened to her parents almost thirty years ago. A meeting with W\u00f6rmer in his cell pulls the serial killer out of his coma and sets in motion a chain of fateful events.\",\"popularity\":15.368,\"poster_path\":\"\/7Bj9qbmTiBdOmVlHeQqoEjsDxul.jpg\",\"production_companies\":[{\"id\":235,\"logo_path\":\"\/obOynoztBEhDNfHsDXBqOuQLAZk.png\",\"name\":\"Nordisk Film Denmark\",\"origin_country\":\"DK\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"2023-12-14\",\"revenue\":0,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Nightwatch: Demons Are Forever\",\"video\":false,\"vote_average\":6.7,\"vote_count\":17}"
+}

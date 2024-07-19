@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1292",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7179",
+        "x-memc": "HIT",
+        "x-memc-key": "c634a33fb3ec8b54934bddf6fe202b6d",
+        "x-memc-age": "18254",
+        "x-memc-expires": "7179",
+        "ETag": "W\/\"394cfe0c386383ec1de41347a240f1ae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2UY6EEVXijrNKPELYCvAcxc_aIKBtVPjYY5k8OHubGGluUdHcypohA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4X9PRfirfnia6i1mm3YsmOaCd3e.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":869597,\"imdb_id\":\"tt15338966\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Reunion\",\"overview\":\"Centers on a murder that takes place at a high school reunion, unfolding during a snowstorm that leaves guests trapped in an isolated mansion.\",\"popularity\":28.508,\"poster_path\":\"\/k5XWnBAkMJIOjHbpkYb4ofLRJNy.jpg\",\"production_companies\":[{\"id\":160096,\"logo_path\":\"\/qWVmQGOKtCQgFCBCaC4zBixeE9I.png\",\"name\":\"Artists Road\",\"origin_country\":\"US\"},{\"id\":60746,\"logo_path\":null,\"name\":\"Unique Features\",\"origin_country\":\"US\"},{\"id\":158,\"logo_path\":\"\/6SHlNIype9zmyEMRsBtoueUtLsq.png\",\"name\":\"Spyglass Entertainment\",\"origin_country\":\"US\"},{\"id\":8000,\"logo_path\":\"\/f8NwLg72BByt3eav7lX1lcJfe60.png\",\"name\":\"Broken Road Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-13\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The past is a killer.\",\"title\":\"Reunion\",\"video\":false,\"vote_average\":6.462,\"vote_count\":39}"
+}

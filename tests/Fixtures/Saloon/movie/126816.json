@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1394",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19210",
+        "x-memc": "HIT",
+        "x-memc-key": "060e261b33d137c7c4e651d50db54d89",
+        "x-memc-age": "6488",
+        "x-memc-expires": "19210",
+        "ETag": "W\/\"774449a1d9417315a8dc0c74ed122a15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NuKFHgc0uszBktRLINErqnwgmXhXPr9Hhv3pr83OIGGMEPsVztGMsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pcPlJf7hw2gaW7krTSlQnLh3wMu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":126816,\"imdb_id\":\"tt0107178\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"I Can Make You Love Me\",\"overview\":\"A beautiful young computer technician starting off her career in Silicon Valley during the Eighties, is stalked and harassed by a nerdy, dangerous and mentally-unstable colleague with a twisted obsession.\",\"popularity\":7.977,\"poster_path\":\"\/7AP8Zthv8QyKnEQ1tMpJwaojkna.jpg\",\"production_companies\":[{\"id\":10368,\"logo_path\":null,\"name\":\"Leonard Hill Films\",\"origin_country\":\"US\"},{\"id\":42133,\"logo_path\":null,\"name\":\"Frank Abatemarco Productions\",\"origin_country\":\"\"},{\"id\":14504,\"logo_path\":null,\"name\":\"Joel Fields Productions\",\"origin_country\":\"\"},{\"id\":4898,\"logo_path\":\"\/nm8d7P7MJNiBLdgIzUK0gkuEA4r.png\",\"name\":\"CBS\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-02-09\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Even the most innocent relationship can become a fatal attraction.\",\"title\":\"I Can Make You Love Me\",\"video\":false,\"vote_average\":6.571,\"vote_count\":28}"
+}

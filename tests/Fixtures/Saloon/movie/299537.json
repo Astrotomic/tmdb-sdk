@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1413",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13668",
+        "x-memc": "HIT",
+        "x-memc-key": "8e5511fc0bf07847aef89d32fd9e8070",
+        "x-memc-age": "9113",
+        "x-memc-expires": "13668",
+        "ETag": "W\/\"5f8c73ada446eebad86186473cefd515\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5A8sDiiYoki-OTQ6asjK23kOlWNZkUw3e5q3HHWNAQ15M4y_j5LV1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg\",\"belongs_to_collection\":{\"id\":623911,\"name\":\"Captain Marvel Collection\",\"poster_path\":\"\/mHiMmryCureDvoAOlGP6o3oXT8Y.jpg\",\"backdrop_path\":\"\/zJrQR9g3hnpC8FY4xCXYVg3ztsA.jpg\"},\"budget\":152000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.marvel.com\/movies\/captain-marvel\",\"id\":299537,\"imdb_id\":\"tt4154664\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Captain Marvel\",\"overview\":\"The story follows Carol Danvers as she becomes one of the universe\u2019s most powerful heroes when Earth is caught in the middle of a galactic war between two alien races. Set in the 1990s, Captain Marvel is an all-new adventure from a previously unseen period in the history of the Marvel Cinematic Universe.\",\"popularity\":78.883,\"poster_path\":\"\/AtsgWhDnHTq68L0lLsUrCnM7TjG.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-03-06\",\"revenue\":1131416446,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Higher. Further. Faster.\",\"title\":\"Captain Marvel\",\"video\":false,\"vote_average\":6.82,\"vote_count\":15404}"
+}

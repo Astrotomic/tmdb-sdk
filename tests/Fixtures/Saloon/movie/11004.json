@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2074",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4453",
+        "x-memc": "HIT",
+        "x-memc-key": "62cbe67949f49666ae8883895ca894fc",
+        "x-memc-age": "18894",
+        "x-memc-expires": "4453",
+        "ETag": "W\/\"69c01e1baee394f975f9d60ebff9b2ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2O2rcs4XWIPMMkeCcVVG8ivsOl7toOYu7PVTMpbLa_4_7IyMiFNZeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/f6axPiSzkPa2ErTtTxBUGfCLFPd.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11004,\"imdb_id\":\"tt0185014\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wonder Boys\",\"overview\":\"Grady is a 50-ish English professor who hasn't had a thing published in years\u2014not since he wrote his award winning 'Great American Novel' 7 years ago. This weekend proves even worse than he could imagine as he finds himself reeling from one misadventure to another in the company of a new wonder boy author.\",\"popularity\":18.086,\"poster_path\":\"\/vGOdSLaZmu42qqwDUMgrfctJ65M.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":762,\"logo_path\":\"\/3T7EpKcS13viHu3WzRtQGvi9sTY.png\",\"name\":\"Mutual Film Company\",\"origin_country\":\"US\"},{\"id\":258,\"logo_path\":null,\"name\":\"Scott Rudin Productions\",\"origin_country\":\"US\"},{\"id\":8877,\"logo_path\":null,\"name\":\"Curtis Hanson Productions\",\"origin_country\":\"\"},{\"id\":3324,\"logo_path\":\"\/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png\",\"name\":\"BBC\",\"origin_country\":\"GB\"},{\"id\":4650,\"logo_path\":\"\/wWivtVg7gG3uNALIE5Oav3Bsiuz.png\",\"name\":\"Marubeni\",\"origin_country\":\"JP\"},{\"id\":657,\"logo_path\":\"\/mDBPrBO6hl21KhQOzCVYUBo33zt.png\",\"name\":\"TOHO-TOWA\",\"origin_country\":\"JP\"},{\"id\":1469,\"logo_path\":\"\/AwbErjR0AMpVnN9PbdHiBB3g3q0.png\",\"name\":\"Tele M\u00fcnchen\",\"origin_country\":\"DE\"},{\"id\":8878,\"logo_path\":null,\"name\":\"MFF Feature Film Productions\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-02-22\",\"revenue\":33426588,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Undependable. Unpredictable. Unforgettable.\",\"title\":\"Wonder Boys\",\"video\":false,\"vote_average\":6.819,\"vote_count\":581}"
+}

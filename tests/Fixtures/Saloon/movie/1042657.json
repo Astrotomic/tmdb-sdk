@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1196",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20282",
+        "x-memc": "HIT",
+        "x-memc-key": "3beb14b1edc8bd8b4d1946ff004f6f22",
+        "x-memc-age": "5376",
+        "x-memc-expires": "20282",
+        "ETag": "W\/\"d4e32634a02b3073863677ab7d3322ea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IjwBpoKu3uJAZ_wSsdEU-iamFAzoNSEPpOoiIUCR3za8RXIpUMn0aA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wcKoGIdHWku257um199Qjok8qq4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/deceptionworks.com\/writer-director\/\",\"id\":1042657,\"imdb_id\":\"tt23146644\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Latency\",\"overview\":\"When professional gamer Hana, who suffers from acute agoraphobia, receives new equipment that enhances her game, she begins to wonder if it is reading her mind \u2013 or controlling it.\",\"popularity\":36.966,\"poster_path\":\"\/oeSUxCFa0LFsExzTvuz2wjaObyU.jpg\",\"production_companies\":[{\"id\":72408,\"logo_path\":null,\"name\":\"Kaos Entertainment\",\"origin_country\":\"\"},{\"id\":3604,\"logo_path\":\"\/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png\",\"name\":\"Grindstone Entertainment Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-14\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fear is reality\",\"title\":\"Latency\",\"video\":false,\"vote_average\":6.727,\"vote_count\":11}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1107",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10449",
+        "x-memc": "HIT",
+        "x-memc-key": "b05900552472430e4bedd0e737b494f5",
+        "x-memc-age": "12305",
+        "x-memc-expires": "10449",
+        "ETag": "W\/\"c362385ed75bba0d87c620e9d5a018f3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C9_p8Pgt1iSOXleFD2davNxWNN2wumgN3dZIb_uec49yefBvw-vteA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/53rHETjQOfCSajPki5HGfd3FQtG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":452015,\"imdb_id\":\"tt6890582\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc5fc\ub825\",\"overview\":\"An ordinary guy suddenly finds he has superpowers he can use to help his spirited daughter and the people around them, but he also runs into trouble in the process.\",\"popularity\":21.004,\"poster_path\":\"\/tyTAYYWHyfDcAXYmNa0ifm1JrD.jpg\",\"production_companies\":[{\"id\":103875,\"logo_path\":\"\/b4VEWBV2hgvrXts7VlAcnkZTLwM.png\",\"name\":\"RedPeter Films\",\"origin_country\":\"KR\"},{\"id\":20064,\"logo_path\":\"\/2In7Heq6DuXDjOwPmJqHWkpohaL.png\",\"name\":\"Next Entertainment World\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2018-01-31\",\"revenue\":0,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Psychokinesis\",\"video\":false,\"vote_average\":6.2,\"vote_count\":289}"
+}

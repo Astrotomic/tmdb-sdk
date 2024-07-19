@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1552",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21629",
+        "x-memc": "HIT",
+        "x-memc-key": "6e9ef6ed2cea06e647ea23e77e1b2650",
+        "x-memc-age": "1449",
+        "x-memc-expires": "21629",
+        "ETag": "W\/\"089fbe1c4deddbe056d2cdc83a81ffc1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AaNz3luwZXMRPya20DWbixMou_J8UlE288KxxVzmAF67tBtFbu2EuQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wkTEdiZFa8wmZsRUxunHKsrA9r9.jpg\",\"belongs_to_collection\":{\"id\":656,\"name\":\"Saw Collection\",\"poster_path\":\"\/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg\",\"backdrop_path\":\"\/gRGF3VZjfaI1YvlcwpT1emgBXRs.jpg\"},\"budget\":1200000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":176,\"imdb_id\":\"tt0387564\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saw\",\"overview\":\"Two men wake up to find themselves shackled in a grimy, abandoned bathroom. As they struggle to comprehend their predicament, they discover a disturbing tape left behind by the sadistic mastermind known as Jigsaw. With a chilling voice and cryptic instructions, Jigsaw informs them that they must partake in a gruesome game in order to secure their freedom.\",\"popularity\":83.591,\"poster_path\":\"\/harQifr8kpIVqlLP41kTR058LZB.jpg\",\"production_companies\":[{\"id\":2061,\"logo_path\":\"\/o9LbN33hRaj4qcebUv1bikyXeoB.png\",\"name\":\"Twisted Pictures\",\"origin_country\":\"US\"},{\"id\":23019,\"logo_path\":null,\"name\":\"Evolution Entertainment\",\"origin_country\":\"\"},{\"id\":55405,\"logo_path\":null,\"name\":\"Saw Productions Inc.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-10-01\",\"revenue\":103911669,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"How much blood would you shed to stay alive?\",\"title\":\"Saw\",\"video\":false,\"vote_average\":7.417,\"vote_count\":8980}"
+}

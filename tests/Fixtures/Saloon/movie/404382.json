@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1558",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4183",
+        "x-memc": "HIT",
+        "x-memc-key": "197f20ff0ed72e9be65ab97a21748b09",
+        "x-memc-age": "22588",
+        "x-memc-expires": "4183",
+        "ETag": "W\/\"16d7bd23ecdf5613d1aca433db156a65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xCqY2UA4sudP0qhHGlQeWjWWk41KKt0DpsCwMlXKD-OqulEZFFp1WQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":404382,\"imdb_id\":\"tt4286206\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Once Upon a Time in  Sarajevo\",\"overview\":\"Can three comedians from Bosnia overcome the bitterness of the past to reunite and reconcile? Often compared to Monty Python's Flying Circus the comedy team from Sarajevo known as Top Lista Nadrealista or The Surrealist Hit Parade rose to prominence on the eve of the breakup of Yugoslavia. Nele, Zenit and Djuro became household names throughout the Balkans. The wars that followed the splintering of the country pitted each of the diverse communities against one another. The bitter conflict exposed some nationalist loyalties among the comedians and lead to the acrimonious break-up of Top Lista. The split reflecting the broader tribulations dividing their homeland.\",\"popularity\":0.955,\"poster_path\":null,\"production_companies\":[{\"id\":78734,\"logo_path\":null,\"name\":\"Four Corners Media\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"QA\",\"name\":\"Qatar\"}],\"release_date\":\"2014-12-11\",\"revenue\":0,\"runtime\":48,\"spoken_languages\":[{\"english_name\":\"Bosnian\",\"iso_639_1\":\"bs\",\"name\":\"Bosanski\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Serbian\",\"iso_639_1\":\"sr\",\"name\":\"Srpski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Once Upon a Time in  Sarajevo\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1957",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13730",
+        "x-memc": "HIT",
+        "x-memc-key": "ab77826ff1cd6a50d5d6121ffc6a7157",
+        "x-memc-age": "9042",
+        "x-memc-expires": "13730",
+        "ETag": "W\/\"d8ec856a29e35025ad15d3904e620a44\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ns5keMvuP-JKyMn0QQ-wDs-G0heEFn4Nj9kPZCsHlyiZR-xkrcWt9A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ebaq0ecL1Tu39rIExfHwE4ToFl2.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.mgm.com\/view\/movie\/1132\/The-Living-Daylights\/\",\"id\":708,\"imdb_id\":\"tt0093428\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Living Daylights\",\"overview\":\"After a defecting Russian general reveals a plot to assassinate foreign spies, James Bond is assigned a secret mission to dispatch the new head of the KGB to prevent an escalation of tensions between the Soviet Union and the West.\",\"popularity\":41.735,\"poster_path\":\"\/1oRlmWX9hewpn2B44wawBjHd7dx.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":10761,\"logo_path\":null,\"name\":\"Danjaq\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-06-29\",\"revenue\":191185897,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"},{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"The new James Bond...living on the edge.\",\"title\":\"The Living Daylights\",\"video\":false,\"vote_average\":6.516,\"vote_count\":1708}"
+}

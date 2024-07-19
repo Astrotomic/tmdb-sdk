@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1505",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16705",
+        "x-memc": "HIT",
+        "x-memc-key": "cd17a253c16f912f2a8a496166e36283",
+        "x-memc-age": "8312",
+        "x-memc-expires": "16705",
+        "ETag": "W\/\"394fc0fd1630504e93c5fdb831ab2dc5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vQ96w9b2za2Yq9ydqDAq9FBmpRLjLYzkiR9S4yueBgORfVuRP6_XFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n2pSbjJHR0g1MPJ1wq3n3OA7MPl.jpg\",\"belongs_to_collection\":{\"id\":870339,\"name\":\"The Accountant Collection\",\"poster_path\":\"\/hHfiZBIxzMmkzFds6vkQEJIurIB.jpg\",\"backdrop_path\":null},\"budget\":44000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.accountantmovie.com\/\",\"id\":302946,\"imdb_id\":\"tt2140479\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Accountant\",\"overview\":\"As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.\",\"popularity\":38.769,\"poster_path\":\"\/oHMRhVytkVApLyCNML659LQZiQ1.jpg\",\"production_companies\":[{\"id\":5357,\"logo_path\":\"\/19A0Ilxeh1bWMlyMtMgGzcNBn07.png\",\"name\":\"Zero Gravity Management\",\"origin_country\":\"US\"},{\"id\":8600,\"logo_path\":null,\"name\":\"Electric City Entertainment\",\"origin_country\":\"US\"},{\"id\":41624,\"logo_path\":\"\/wzKxIeQKlMP0y5CaAw25MD6EQmf.png\",\"name\":\"RatPac Entertainment\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-10-13\",\"revenue\":155160045,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Calculate your choices.\",\"title\":\"The Accountant\",\"video\":false,\"vote_average\":7.1,\"vote_count\":5954}"
+}

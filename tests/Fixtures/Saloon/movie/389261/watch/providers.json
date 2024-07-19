@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "699",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:18:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11035",
+        "x-memc": "HIT",
+        "x-memc-key": "920e132ad38962385ee96ca6a3b41710",
+        "x-memc-age": "11034",
+        "x-memc-expires": "11035",
+        "ETag": "W\/\"86e73cb027b4ffe4e35fc26575e2118e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AZYdkR4aaOtnOFOTzqNc9jXd17bs9NxbTTI6W9N6bkwfQRpCyqyq2w=="
+    },
+    "data": "{\"id\":389261,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389261-merci-mon-chien\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/zwTo48JWc9FNCgJ1ADPAfkhYUuA.jpg\",\"provider_id\":441,\"provider_name\":\"NFB\",\"display_priority\":51}],\"buy\":[{\"logo_path\":\"\/zwTo48JWc9FNCgJ1ADPAfkhYUuA.jpg\",\"provider_id\":441,\"provider_name\":\"NFB\",\"display_priority\":51}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389261-merci-mon-chien\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}],\"buy\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}]}}}"
+}

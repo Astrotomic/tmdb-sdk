@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1067",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10904",
+        "x-memc": "HIT",
+        "x-memc-key": "b5438afcc562304a4f2ffe34b5c65d34",
+        "x-memc-age": "13571",
+        "x-memc-expires": "10904",
+        "ETag": "W\/\"ec7861d37d43457545f7773bb0dca953\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SXUcHmuKYPyFIss20BJza63JbmmlwlI9aGMZWKy9F1WgQ8yUyWoWAQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2hAo2cw06i0xMP4eMfaqmxpbXRu.jpg\",\"belongs_to_collection\":null,\"budget\":10000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":230883,\"imdb_id\":\"tt0757931\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc190\ub2d8\uc740 \uc655\uc774\ub2e4\",\"overview\":\"In a peaceful barbershop, a timid barber confronts a stranger who has started to send blackmail notes. Whenever the stranger comes to the barbershop, the amount of money he demands becomes greater and greater. Driven to desperation, the barber hires a detective, who discovers a shocking truth about the blackmailer.\",\"popularity\":6.176,\"poster_path\":\"\/uPUR0WXSTDuZnx7TYjqRBhNoRmX.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2006-02-23\",\"revenue\":80000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Customer Is Always Right\",\"video\":false,\"vote_average\":5.5,\"vote_count\":8}"
+}

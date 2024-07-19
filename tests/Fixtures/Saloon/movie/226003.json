@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1127",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19922",
+        "x-memc": "HIT",
+        "x-memc-key": "2a1bad690b7a9eff40abc9d1f165dc9e",
+        "x-memc-age": "7768",
+        "x-memc-expires": "19922",
+        "ETag": "W\/\"7e4c5ea703d2782b8511d4c72ad53c78\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XmmR177S2T71wxKPfjw_IAExiafmgaYzT74Flkh-WQJf4jqXSIpz8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":226003,\"imdb_id\":\"tt2004332\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Random\",\"overview\":\"Interspersed with a commentary by a female narrator,who at times assumes their roles,the father,mother and daughter and son of a black,South London family commence their day and we follow them through it in all its mundanity until it climaxes in a random act of violence,killing one of the family and taking up the after-math.\",\"popularity\":4.25,\"poster_path\":null,\"production_companies\":[{\"id\":97437,\"logo_path\":null,\"name\":\"hillbilly Films\",\"origin_country\":\"\"},{\"id\":6705,\"logo_path\":\"\/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png\",\"name\":\"Film4 Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2011-08-23\",\"revenue\":0,\"runtime\":58,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Random\",\"video\":false,\"vote_average\":3.5,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1164",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16450",
+        "x-memc": "HIT",
+        "x-memc-key": "889ed1b8d116cabf7b3d32ed7cc8e062",
+        "x-memc-age": "10956",
+        "x-memc-expires": "16450",
+        "ETag": "W\/\"0207888f796826939d1387c6109dd72b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AC9SSe6-w6p1VDttKwjj-Z19MJknu4XAdVyEm9CRyI3FfFcwvh-azw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sfoGbIoxNxh9YE4UcEu3u3wsaXK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1025867,\"imdb_id\":\"tt22091962\",\"origin_country\":[\"JP\",\"US\"],\"original_language\":\"ja\",\"original_title\":\"Shark'd\",\"overview\":\"The origin story of Hololive virtual idol Gawr Gura and how she found her iconic hoodie.\",\"popularity\":2.044,\"poster_path\":\"\/9vpwqhmwZz42GONYdbZmMguBUoI.jpg\",\"production_companies\":[{\"id\":182540,\"logo_path\":null,\"name\":\"Tonari Animation\",\"origin_country\":\"\"},{\"id\":155416,\"logo_path\":\"\/zwvuAVAerog3AbqQoifmAaNvUSu.png\",\"name\":\"hololive production\",\"origin_country\":\"JP\"},{\"id\":155415,\"logo_path\":\"\/xLTH2Wf5YKObi9WRyHPYDFsNOx8.png\",\"name\":\"COVER Corp.\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-17\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"ORIGINAL ANIMATION\",\"title\":\"Shark'd\",\"video\":false,\"vote_average\":4.0,\"vote_count\":3}"
+}

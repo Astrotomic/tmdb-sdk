@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1133",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17036",
+        "x-memc": "HIT",
+        "x-memc-key": "658533dd422c701b16a3ff6ac4897090",
+        "x-memc-age": "7463",
+        "x-memc-expires": "17036",
+        "ETag": "W\/\"23ebbdc5d8483cbf7bd1ff2677b808c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ty_9I2VFH9kkm0Djj1MeSk6hUxRi9JzPdaxT52FVAh-lHivoyyzNNA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AervM22UdFoayyr64CBPk3dl4XE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":391529,\"imdb_id\":\"tt3656136\",\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Jajo\",\"overview\":\"It tells a story of a bird-monster from South America originally treated as god by Incas. Long believed to be extinct, due to genetical experiment gone awry its egg fossil hatches and the monster starts to search for females to impregnate.\",\"popularity\":0.77,\"poster_path\":\"\/2yvBa6TmLW7UiwW8WJjE3Ajh4oy.jpg\",\"production_companies\":[{\"id\":22089,\"logo_path\":null,\"name\":\"Zesp\u00f3\u0142 Filmowy \\\"Oko\\\"\",\"origin_country\":\"PL\"}],\"production_countries\":[{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"1984-11-29\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Egg\",\"video\":false,\"vote_average\":6.3,\"vote_count\":3}"
+}

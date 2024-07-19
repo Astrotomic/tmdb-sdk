@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1842",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18872",
+        "x-memc": "HIT",
+        "x-memc-key": "614d3a5b18787bc6d1ac40447fc57a9f",
+        "x-memc-age": "8313",
+        "x-memc-expires": "18872",
+        "ETag": "W\/\"62ee5b133257e82d546f365883c0f710\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HKFbPRgvkAs1oevDwAjcCcRNDV5SVuLFMH80X8-ggbYs9mZyksbIUQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":78188,\"imdb_id\":\"tt0294423\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Cabin Pressure\",\"overview\":\"A fully automated commercial jetliner is prepared to make its maiden voyage. Without an on-flight pilot, the craft relies on satellite linking for its course. But when the plane suddenly deviates from its determined route and establishes a circular pattern over Seattle, it becomes evident that the craft has been hijacked by a disgruntled former airline employee who has hacked into the flight's computer system from his apartment, somewhere in the United States. Now, a former discredited Navy pilot and an oddball technician must race against the clock to find where the angry employee is, and regain control of the plane before it crashes into the city.\",\"popularity\":3.272,\"poster_path\":\"\/jIvBfq2l8SExf5ESu5WvsYjk7DP.jpg\",\"production_companies\":[{\"id\":10395,\"logo_path\":null,\"name\":\"Crescent Entertainment\",\"origin_country\":\"\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":123367,\"logo_path\":null,\"name\":\"Avalanche Entertainment\",\"origin_country\":\"\"},{\"id\":73463,\"logo_path\":null,\"name\":\"Pressure Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2001-08-08\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What do you do when time is your enemy?\",\"title\":\"Cabin Pressure\",\"video\":false,\"vote_average\":5.6,\"vote_count\":12}"
+}

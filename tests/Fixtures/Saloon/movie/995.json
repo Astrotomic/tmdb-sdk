@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1080",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13743",
+        "x-memc": "HIT",
+        "x-memc-key": "802410280836caf94efd56c684c692ed",
+        "x-memc-age": "9480",
+        "x-memc-expires": "13743",
+        "ETag": "W\/\"43cdc428de8c3bd6df11306e97e0340a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vPNYQHovSY6du86TjW35zCpR46Ml_DcfVwgP2iGUtPvOSx1rS2rmVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7SYNEG50fKODsTP6h9phYM3BueV.jpg\",\"belongs_to_collection\":null,\"budget\":531374,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":995,\"imdb_id\":\"tt0031971\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Stagecoach\",\"overview\":\"A group of people traveling on a stagecoach find their journey complicated by the threat of Geronimo, and learn something about each other in the process.\",\"popularity\":26.185,\"poster_path\":\"\/b4RUzWOalyPbUu66TT147b5iR0M.jpg\",\"production_companies\":[{\"id\":10096,\"logo_path\":null,\"name\":\"Walter Wanger Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1939-03-03\",\"revenue\":1103757,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A powerful story of nine strange people.\",\"title\":\"Stagecoach\",\"video\":false,\"vote_average\":7.645,\"vote_count\":1071}"
+}

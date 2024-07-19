@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1465",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20438",
+        "x-memc": "HIT",
+        "x-memc-key": "3ac921ec7906e7faf8fcd2a67ca5276e",
+        "x-memc-age": "7932",
+        "x-memc-expires": "20438",
+        "ETag": "W\/\"ce5468955154108915dd44a05e941bd1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "loFZM2GFxg2np1pFYPpIpqW1sYUP53C45vg2TA69uTxveO4VWR2DFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5AIAnucJKZ3sHpm7r1ykFVIoUHK.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1272,\"imdb_id\":\"tt0448134\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Sunshine\",\"overview\":\"Fifty years into the future, the sun is dying, and Earth is threatened by arctic temperatures. A team of astronauts is sent to revive the Sun \u2014 but the mission fails. Seven years later, a new team is sent to finish the mission as mankind\u2019s last hope.\",\"popularity\":38.907,\"poster_path\":\"\/oKGGeJ8qvm0UmClz43VJ31fzPP7.jpg\",\"production_companies\":[{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"},{\"id\":20478,\"logo_path\":\"\/gSS2OBc6dRsK2ewRx5lcwnARrpl.png\",\"name\":\"Moving Picture Company\",\"origin_country\":\"GB\"},{\"id\":2452,\"logo_path\":\"\/6CLoZ59fLPG7UyxQtGTqRevjf58.png\",\"name\":\"UK Film Council\",\"origin_country\":\"GB\"},{\"id\":284,\"logo_path\":\"\/6a26if3IKy7mlrQuGHHVp6ufQtF.png\",\"name\":\"DNA Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2007-04-05\",\"revenue\":34800000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If the sun dies, so do we.\",\"title\":\"Sunshine\",\"video\":false,\"vote_average\":6.956,\"vote_count\":3661}"
+}

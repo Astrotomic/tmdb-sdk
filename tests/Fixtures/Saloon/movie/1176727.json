@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1033",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19291",
+        "x-memc": "HIT",
+        "x-memc-key": "d2d967cb1488707c4084ac54bfae2834",
+        "x-memc-age": "4045",
+        "x-memc-expires": "19291",
+        "ETag": "W\/\"88e33ae850fba2b03d945296ab846bfc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pTCcWQLvHyyElt2g0NsZZodeSO2-HYUBb4faBpNubXkmK9rEzizS7w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9GNvEqtLoC3QXdvcH3qypk2yQTj.jpg\",\"belongs_to_collection\":null,\"budget\":3250,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1176727,\"imdb_id\":null,\"origin_country\":[\"ID\"],\"original_language\":\"id\",\"original_title\":\"Rabu Yang Bahagia\",\"overview\":\"A young man who claims to work in an office job must accept the consequences when his lie is discovered by his father who visited him in Jakarta.\",\"popularity\":1.959,\"poster_path\":\"\/q1QBuCBaFjH3T58V8vfPbEYei7y.jpg\",\"production_companies\":[{\"id\":132520,\"logo_path\":null,\"name\":\"Carnival Films\",\"origin_country\":\"ID\"}],\"production_countries\":[{\"iso_3166_1\":\"ID\",\"name\":\"Indonesia\"}],\"release_date\":\"2023-10-26\",\"revenue\":0,\"runtime\":20,\"spoken_languages\":[{\"english_name\":\"Indonesian\",\"iso_639_1\":\"id\",\"name\":\"Bahasa indonesia\"},{\"english_name\":\"Javanese\",\"iso_639_1\":\"jv\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Experience joy like never before\",\"title\":\"Happy Wednesday\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

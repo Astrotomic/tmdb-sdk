@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1360",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9359",
+        "x-memc": "HIT",
+        "x-memc-key": "ef0cb5c815a091e1b970f16ae1956309",
+        "x-memc-age": "18418",
+        "x-memc-expires": "9359",
+        "ETag": "W\/\"ae3ae1126f9ba2f303cec10cb7c7c1ce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9oEVkd8S9ubW5D7Pu1mhRL8z2-ulu4VFzmJVp9Bp4MkEPfx8Ue7KmA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1frOpHNBtXXebxAs9gqcmQecWeU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":24922,\"imdb_id\":\"tt0116163\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u4f0a\u6ce2\u62c9\u75c5\u6bd2\",\"overview\":\"A violent fugitive on the run from the law makes his way from Hong Kong to South Africa, where he discovers that he's immune to the Ebola virus, and later returns home to spread the deadly disease.\",\"popularity\":31.669,\"poster_path\":\"\/3537kQNixMuzl9hS6WDY7J7v3nd.jpg\",\"production_companies\":[{\"id\":107789,\"logo_path\":null,\"name\":\"Gala Film Distribution Limited\",\"origin_country\":\"\"},{\"id\":2521,\"logo_path\":\"\/e9lXexogBN1nOXA8axzASggea8B.png\",\"name\":\"Orange Sky Golden Harvest\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"}],\"release_date\":\"1996-06-15\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Zulu\",\"iso_639_1\":\"zu\",\"name\":\"isiZulu\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ebola Syndrome\",\"video\":false,\"vote_average\":6.4,\"vote_count\":126}"
+}

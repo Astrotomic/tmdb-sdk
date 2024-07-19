@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1752",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23116",
+        "x-memc": "HIT",
+        "x-memc-key": "3651279fcae7092bd69c193390063bed",
+        "x-memc-age": "676",
+        "x-memc-expires": "23116",
+        "ETag": "W\/\"0413fb43250483301a5db6a348ca5264\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Pyb_vc3vSLU5vTeNE6cKjqZDR6xo7O2uYpy679vYacEISbfZ1zHzYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c7Mjuip0jfHLY7x8ZSEriRj45cu.jpg\",\"belongs_to_collection\":{\"id\":84,\"name\":\"Indiana Jones Collection\",\"poster_path\":\"\/lpxDrACKJhbbGOlwVMNz5YCj6SI.jpg\",\"backdrop_path\":\"\/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg\"},\"budget\":18000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.indianajones.com\",\"id\":85,\"imdb_id\":\"tt0082971\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Raiders of the Lost Ark\",\"overview\":\"When Dr. Indiana Jones \u2013 the tweed-suited professor who just happens to be a celebrated archaeologist \u2013 is hired by the government to locate the legendary Ark of the Covenant, he finds himself up against the entire Nazi regime.\",\"popularity\":95.274,\"poster_path\":\"\/ceG9VzoRAVGwivFU403Wc3AHRys.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-06-12\",\"revenue\":389925971,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"Nepali\",\"iso_639_1\":\"ne\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Indiana Jones - the new hero from the creators of JAWS and STAR WARS.\",\"title\":\"Raiders of the Lost Ark\",\"video\":false,\"vote_average\":7.928,\"vote_count\":12140}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "772",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3729",
+        "x-memc": "HIT",
+        "x-memc-key": "1f7b9a4404f9dfe2c2a08c40fee37ef1",
+        "x-memc-age": "20808",
+        "x-memc-expires": "3729",
+        "ETag": "W\/\"dde0288ff38e3219559632cbfea89f85\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jY52iMlcfyz3iI9eU4J-bqJZLoSquOtWE1jnwbdGo1q30hceioP2Dg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":222465,\"imdb_id\":\"tt2287621\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Zombie Invasion\",\"overview\":\"The inhabitants of a small town and it's very popular diner have to fend off a nasty infestation of hungry zombies.\",\"popularity\":2.408,\"poster_path\":\"\/vU3Nh0fc3DGpUTLXOLPmlIOzGIN.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2012-12-01\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Zombies!...And they're invading!\",\"title\":\"A Zombie Invasion\",\"video\":false,\"vote_average\":5.0,\"vote_count\":4}"
+}

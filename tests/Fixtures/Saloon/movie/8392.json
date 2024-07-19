@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1428",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17445",
+        "x-memc": "HIT",
+        "x-memc-key": "56dffc15481e9a7216d76f00c70cd323",
+        "x-memc-age": "11153",
+        "x-memc-expires": "17445",
+        "ETag": "W\/\"a55de941fccde7e339a6b8c3ea0c88f5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Wu8rHJOc8GVZby1Vd6rhVWxiCir7rzZpI3F8oonSLik88Lrd0m5U8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fxYazFVeOCHpHwuqGuiqcCTw162.jpg\",\"belongs_to_collection\":null,\"budget\":3700000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/gkids.com\/films\/my-neighbor-totoro\",\"id\":8392,\"imdb_id\":\"tt0096283\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u3068\u306a\u308a\u306e\u30c8\u30c8\u30ed\",\"overview\":\"Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.\",\"popularity\":87.381,\"poster_path\":\"\/rtGDOeG9LzoerkDGZF9dnVeLppL.jpg\",\"production_companies\":[{\"id\":10342,\"logo_path\":\"\/eS79pslnoKbWg7t3PMA9ayl0bGs.png\",\"name\":\"Studio Ghibli\",\"origin_country\":\"JP\"},{\"id\":12516,\"logo_path\":null,\"name\":\"Nibariki\",\"origin_country\":\"JP\"},{\"id\":1779,\"logo_path\":\"\/41nGzTdCnORYZIZzaGZtfsBwQCl.png\",\"name\":\"Tokuma Shoten\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1988-04-16\",\"revenue\":41000000,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"He's your friendly neighbourhood forest spirit!\",\"title\":\"My Neighbor Totoro\",\"video\":false,\"vote_average\":8.1,\"vote_count\":7736}"
+}

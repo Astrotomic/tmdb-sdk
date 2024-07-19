@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "929",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13878",
+        "x-memc": "HIT",
+        "x-memc-key": "232029d77161af79b897e93664f50d6e",
+        "x-memc-age": "14767",
+        "x-memc-expires": "13878",
+        "ETag": "W\/\"f1d118b6922122ca8f038279301264d8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2VMSF8Yuz0pC_SiE2Pzjs2RHfbFfLUXbalaVFz2jHfL-q2vJ2vwtNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":248782,\"imdb_id\":\"tt0298055\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Masacre en el r\u00edo Tula\",\"overview\":\"Based on a real event, twelve dead bodies are found in the Tula River, we see the events that lead up to the massacre in a tale of crime, vice, corruption and sleaze.\",\"popularity\":5.106,\"poster_path\":\"\/tlKOCIBlTZz0lKqXpleuJIBtWRN.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1985-08-22\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A real life incident that shook Mexico.\",\"title\":\"Masacre en el r\u00edo Tula\",\"video\":false,\"vote_average\":6.2,\"vote_count\":15}"
+}

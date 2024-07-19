@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1284",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3592",
+        "x-memc": "HIT",
+        "x-memc-key": "d1ce0b1b4059af0cd64da861557be5c8",
+        "x-memc-age": "24011",
+        "x-memc-expires": "3592",
+        "ETag": "W\/\"4362376e66ef24313311c0600b7b6a2d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XJoPBO5MbUdjUDbvOXUTj8wcdI-igTMMIsA2QVcXmhb1YR_jVHokDg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6MAcaCskKGZ9HhqQ0i57Z6IJZ2f.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/seedandspark.com\/fund\/give-me-an-a\",\"id\":1028359,\"imdb_id\":\"tt21942272\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Give Me An A\",\"overview\":\"Created by an all female filmmaking team, this 17-segment series focuses on the visceral gut reactions of each filmmaker to expand conversations about women\u2019s reproductive rights and the importance of bodily autonomy and also addresses the issues of a democracy that does not protect the needs of the majority of the population.\",\"popularity\":5.383,\"poster_path\":\"\/diBjRWYaFErqj433czk61rAhpAX.jpg\",\"production_companies\":[{\"id\":51838,\"logo_path\":\"\/vGdhQd0kJ4JN6a0a2mGSwFANuEo.png\",\"name\":\"Seed\\u0026Spark\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-06-21\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A reaction to the overturning of Roe v. Wade\",\"title\":\"Give Me An A\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

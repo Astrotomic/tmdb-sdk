@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "810",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11944",
+        "x-memc": "HIT",
+        "x-memc-key": "a215f97d6bf65d4dc01e37f36d4952e9",
+        "x-memc-age": "10054",
+        "x-memc-expires": "11944",
+        "ETag": "W\/\"014940059d633c51b5b93eddf68031bf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kCcrSBBR8WMX1jYTiGCIs5Ul19rTFFo7ElxI67BzCHBMccFm5eu2Vw=="
+    },
+    "data": "{\"id\":391265,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":2167293,\"known_for_department\":\"Acting\",\"name\":\"Chase Cargill\",\"original_name\":\"Chase Cargill\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Dan Warner\",\"credit_id\":\"5bdcf41e0e0a26058f0022a6\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1686465,\"known_for_department\":\"Acting\",\"name\":\"Chase Cargill\",\"original_name\":\"Chase Cargill\",\"popularity\":0.61,\"profile_path\":\"\/dmSpq6nsQKbQuPd5LQzuhObWThO.jpg\",\"cast_id\":2,\"character\":\"Lars\",\"credit_id\":\"5bdcf45ec3a3682b2f0027bb\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1600802,\"known_for_department\":\"Directing\",\"name\":\"Jackson Miller\",\"original_name\":\"Jackson Miller\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"57023ff8c3a3685694002adf\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

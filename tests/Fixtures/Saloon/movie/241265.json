@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "866",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26453",
+        "x-memc": "HIT",
+        "x-memc-key": "46c59de6984f1dbe061da9bd7c962a6c",
+        "x-memc-age": "1511",
+        "x-memc-expires": "26453",
+        "ETag": "W\/\"c6fe01ef31c55eb706c3dc52e8220d87\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Rke_cxZM_V5GF43-J-IKwoEZedFgBHV97sW8OwmkaOH38IxV7miHEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":241265,\"imdb_id\":\"tt0056156\",\"origin_country\":[\"DE\",\"CH\"],\"original_language\":\"de\",\"original_title\":\"Der 42. Himmel\",\"overview\":\"Musical comedy about a marriage registrar.\",\"popularity\":2.539,\"poster_path\":\"\/2sGpmax03Pf10EQkARCqtvGxyZa.jpg\",\"production_companies\":[{\"id\":483,\"logo_path\":\"\/uL6KIolH7ehyNrfvpKr83YpyCC2.png\",\"name\":\"Praesens-Film\",\"origin_country\":\"CH\"}],\"production_countries\":[{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"}],\"release_date\":\"1962-06-05\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The 42nd Heaven\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

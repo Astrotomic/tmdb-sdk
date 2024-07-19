@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "794",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8575",
+        "x-memc": "HIT",
+        "x-memc-key": "76a1c327eeca4d33142a20a740688946",
+        "x-memc-age": "19445",
+        "x-memc-expires": "8575",
+        "ETag": "W\/\"498d6567b6cba111b192d46316686cfc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "taOhhFpJRWAjzXWEwBqwm0a7p__Hbf4uO0qXkRR-TR85kokdVszHWg=="
+    },
+    "data": "{\"id\":221269,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":1448170,\"known_for_department\":\"Production\",\"name\":\"Sarba Das\",\"original_name\":\"Sarba Das\",\"popularity\":0.553,\"profile_path\":null,\"credit_id\":\"551b50d2c3a36876700013df\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":1,\"id\":1697264,\"known_for_department\":\"Editing\",\"name\":\"Jessica Hern\u00e1ndez\",\"original_name\":\"Jessica Hern\u00e1ndez\",\"popularity\":0.514,\"profile_path\":null,\"credit_id\":\"6491607e263462010cbd61c0\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":4121137,\"known_for_department\":\"Camera\",\"name\":\"Peter Chelkowski\",\"original_name\":\"Peter Chelkowski\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"64916085c3c89100cadbddad\",\"department\":\"Camera\",\"job\":\"Director of Photography\"}]}"
+}

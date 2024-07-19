@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1637",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17147",
+        "x-memc": "HIT",
+        "x-memc-key": "b51b5c01909d94066177ab37e65331c3",
+        "x-memc-age": "7201",
+        "x-memc-expires": "17147",
+        "ETag": "W\/\"0c5a758dc226c8a8120e188a53551443\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NRjuYnf3STffA-mkhRYqkCnKLPFuZilEjf1libzj457vJ5msJzOEZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uBHeAB2Ug9ELBzkMyls8CUjzn4i.jpg\",\"belongs_to_collection\":null,\"budget\":125000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.welcometorecall.com\/\",\"id\":64635,\"imdb_id\":\"tt1386703\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Total Recall\",\"overview\":\"Factory worker Doug Quaid takes a virtual mind-trip vacation with the Rekall company, opting for implanted memories of being a spy. When the procedure goes wrong, Quaid becomes a wanted man by the police and joins forces with a rebel fighter to stop the evil Chancellor Cohaagen.\",\"popularity\":38.533,\"poster_path\":\"\/4M5urSlUyR2PtVBIoW9hLG9NQCQ.jpg\",\"production_companies\":[{\"id\":85921,\"logo_path\":null,\"name\":\"Total Recall\",\"origin_country\":\"\"},{\"id\":333,\"logo_path\":\"\/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png\",\"name\":\"Original Film\",\"origin_country\":\"US\"},{\"id\":15357,\"logo_path\":\"\/uvaRT02pY9U8qLH8a9WwwAroDqr.png\",\"name\":\"Prime Focus\",\"origin_country\":\"IN\"},{\"id\":12676,\"logo_path\":null,\"name\":\"Rekall Productions\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-08-02\",\"revenue\":198800000,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What Is Real?\",\"title\":\"Total Recall\",\"video\":false,\"vote_average\":6.016,\"vote_count\":5348}"
+}

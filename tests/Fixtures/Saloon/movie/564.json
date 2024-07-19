@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1548",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10759",
+        "x-memc": "HIT",
+        "x-memc-key": "dab3c51587a84c987b761e66d8be3b9d",
+        "x-memc-age": "16635",
+        "x-memc-expires": "10759",
+        "ETag": "W\/\"2e2b727133c9218c1d7f2cd83bab243a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UAxVxjirN707-Z6-FDCTClvOtvcsUEdfrlzzvjRVjMNTc8ec1Z_Ymg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ygTSl89OtmXY4ESMpEF7qZcpGR8.jpg\",\"belongs_to_collection\":{\"id\":1733,\"name\":\"The Mummy Collection\",\"poster_path\":\"\/x5ZQsM90h4jmvDelgbCwPjcOn1s.jpg\",\"backdrop_path\":\"\/1BeKi6IytbfQlQocJSvP2k6sO1a.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.mummyvideo.com\/\",\"id\":564,\"imdb_id\":\"tt0120616\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Mummy\",\"overview\":\"Dashing legionnaire Rick O'Connell stumbles upon the hidden ruins of Hamunaptra while in the midst of a battle to claim the area in 1920s Egypt. It has been over three thousand years since former High Priest Imhotep suffered a fate worse than death as a punishment for a forbidden love\u2014along with a curse that guarantees eternal doom upon the world if he is ever awoken.\",\"popularity\":103.315,\"poster_path\":\"\/yhIsVvcUm7QxzLfT6HW2wLf5ajY.jpg\",\"production_companies\":[{\"id\":11462,\"logo_path\":\"\/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png\",\"name\":\"Alphaville Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-04-16\",\"revenue\":415885488,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"}],\"status\":\"Released\",\"tagline\":\"The sands will rise. The heavens will part. The power will be unleashed.\",\"title\":\"The Mummy\",\"video\":false,\"vote_average\":6.93,\"vote_count\":8834}"
+}

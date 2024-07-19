@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1009",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15540",
+        "x-memc": "HIT",
+        "x-memc-key": "82af06ad04c35a3aaa92401bc24c8b3c",
+        "x-memc-age": "6420",
+        "x-memc-expires": "15540",
+        "ETag": "W\/\"20aebf49d3146878fd89e647f8d65b2a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AM-UIgKUac_G7Tow3zyABCpYrr45hW380B81ePMxb38kR8flhMaUIw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":386569,\"imdb_id\":\"\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"112 Sabsections of Skyline\",\"overview\":\"Animation work that approached relation of score without time that undertakes expression and the blueprint with time axis of music axis. The time axis was given to the score and \\\"Made of the score an image\\\" was tried. It keeps likening the music sheet to the bird that stopped in the electric wire, and the image doing the panning.\",\"popularity\":0.557,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2007-10-20\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"112 Sabsections of Skyline\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

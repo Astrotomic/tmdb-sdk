@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1624",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12464",
+        "x-memc": "HIT",
+        "x-memc-key": "efbdfbbdd8b5bd477d03ca782ce23a5f",
+        "x-memc-age": "15099",
+        "x-memc-expires": "12464",
+        "ETag": "W\/\"0f99706d145967c107f1d7b9de8b81bb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eYyOe7x2oE23vshLbYLnjjvYWgSlOcQsFPrAN2B_uZiORXH7fxK2xQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s2XyJwZ2nmtbCT8ZE3oPlm0yq1j.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":2004,\"imdb_id\":\"tt0177882\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Kebab Connection\",\"overview\":\"In Hamburg, Ibrahim \\\"Ibo\\\" Secmez, of Turkish descent, wants to direct the first German kung-fu movie. For now, he makes commercials for his uncle's kebab restaurant. Titzie, an aspiring actress and Ibo's German girlfriend, finds she's pregnant. Ibo is uncertain about fatherhood - compounded by his father's disowning him for getting a German girl pregnant - so Titzie sends him packing. He makes attempts at getting it right, but as the birth approaches, he's still not ready. In the background are three thugs in search of good tripe soup and a Capulet-Montegue feud between the kebab joint and a Greek taverna across the street. Can Ibo be the glove upon that hand?\",\"popularity\":5.526,\"poster_path\":\"\/8pgbRb69LxSaQi0BqVVjNMHIErE.jpg\",\"production_companies\":[{\"id\":204,\"logo_path\":null,\"name\":\"W\u00fcste Filmproduktion\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2004-04-21\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kebab Connection\",\"video\":false,\"vote_average\":6.69,\"vote_count\":63}"
+}

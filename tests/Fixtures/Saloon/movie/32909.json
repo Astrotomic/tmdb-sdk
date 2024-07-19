@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1802",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16739",
+        "x-memc": "HIT",
+        "x-memc-key": "9c10bb8d97fe937790f0e04af482671a",
+        "x-memc-age": "6866",
+        "x-memc-expires": "16739",
+        "ETag": "W\/\"7defd64882f72f90a8f9721f14da584c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JFhkkPWoOpWZUVjhoR5EKakxnaBxtAtn8twf2XDa1OIFbxiCY8QWDg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rBhSUf8CHwZ442maEvF0tF4CoMd.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":32909,\"imdb_id\":\"tt1308138\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u82b1\u6728\u5170\",\"overview\":\"When barbarian hordes threaten her homeland, the brave and cunning Mulan disguises herself as a male soldier to swell the ranks in her aging father's stead. The warrior's remarkable courage drives her through powerful battle scenes and brutal wartime strategy. Mulan loses dear friends to the enemy's blade as she rises to become one of her country's most valuable leaders \u2014 but can she win the war before her secret is exposed?\",\"popularity\":24.16,\"poster_path\":\"\/6XCEeUk12wWqexUNZW6Zl4uF4P.jpg\",\"production_companies\":[{\"id\":5233,\"logo_path\":null,\"name\":\"Starlight International Media\",\"origin_country\":\"HK\"},{\"id\":3407,\"logo_path\":\"\/iVMjKOFyRvm9PW45lW1wW6TSvnj.png\",\"name\":\"Shanghai Film Group\",\"origin_country\":\"CN\"},{\"id\":30148,\"logo_path\":\"\/zerhOenUD6CkH8SMgZUhrDkOs4w.png\",\"name\":\"Bona Film Group\",\"origin_country\":\"CN\"},{\"id\":72441,\"logo_path\":null,\"name\":\"TIK Films\",\"origin_country\":\"HK\"},{\"id\":15866,\"logo_path\":null,\"name\":\"Beijing Gallop Horse Film \\u0026 TV Production\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"2009-11-26\",\"revenue\":13380561,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Warrior. Princess. Legend.\",\"title\":\"Mulan: Rise of a Warrior\",\"video\":false,\"vote_average\":7.44,\"vote_count\":414}"
+}

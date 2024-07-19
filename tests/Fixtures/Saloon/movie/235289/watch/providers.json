@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "768",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:18:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1252",
+        "x-memc": "HIT",
+        "x-memc-key": "52bf36e836f1bf3630876471bd9946b4",
+        "x-memc-age": "22182",
+        "x-memc-expires": "1252",
+        "ETag": "W\/\"dbf14ffd1ecf7e50e5b623f8413470d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L4ZbgJ7YDd6iU7yvWq8EhT7yuuXjwWiqbfweht7AJzRorn35H2jnow=="
+    },
+    "data": "{\"id\":235289,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/235289\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/235289\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}]}}}"
+}

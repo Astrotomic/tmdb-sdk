@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1052",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:29:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18395",
+        "x-memc": "HIT",
+        "x-memc-key": "418baf66729e64a53fa50c2685477501",
+        "x-memc-age": "9424",
+        "x-memc-expires": "18395",
+        "ETag": "W\/\"01304279ed1fb26d8fce4e0be675aaf3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_1IZEXTlnZeWvSpPr1hotJ1nxuy_5MSyIP3xBERqA-r1HuPrMgZ4Xw=="
+    },
+    "data": "{\"id\":34699,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":112885,\"known_for_department\":\"Acting\",\"name\":\"Roger Westberg\",\"original_name\":\"Roger Westberg\",\"popularity\":1.322,\"profile_path\":null,\"cast_id\":4,\"character\":\"Narrator\",\"credit_id\":\"52fe45769251416c9103333f\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":112880,\"known_for_department\":\"Directing\",\"name\":\"Lennart Gustafsson\",\"original_name\":\"Lennart Gustafsson\",\"popularity\":2.12,\"profile_path\":null,\"credit_id\":\"52fe45769251416c9103332f\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":112881,\"known_for_department\":\"Directing\",\"name\":\"Ylva-Li Gustafsson\",\"original_name\":\"Ylva-Li Gustafsson\",\"popularity\":1.824,\"profile_path\":null,\"credit_id\":\"52fe45769251416c91033335\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":112880,\"known_for_department\":\"Directing\",\"name\":\"Lennart Gustafsson\",\"original_name\":\"Lennart Gustafsson\",\"popularity\":2.12,\"profile_path\":null,\"credit_id\":\"52fe45769251416c9103333b\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

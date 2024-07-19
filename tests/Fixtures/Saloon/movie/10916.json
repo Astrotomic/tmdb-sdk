@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1251",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14810",
+        "x-memc": "HIT",
+        "x-memc-key": "d65b57b5732a67cc69a77347659da10a",
+        "x-memc-age": "11036",
+        "x-memc-expires": "14810",
+        "ETag": "W\/\"f5cbdea2c954f473d33d5e3b125fcef2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bDeqCl6N7ZBxM6hK0EPu7yUrGp6DnMVpY8t4C54YGUh4tAJZnqTQHA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hbIb6jNrcV406uR3LbBRmVlYZ7w.jpg\",\"belongs_to_collection\":{\"id\":10441,\"name\":\"Babylon 5 Collection\",\"poster_path\":\"\/4SmQl6eoFuyvHPj1noqqKf93yK6.jpg\",\"backdrop_path\":\"\/mpiKaJZSIDVGbuKxL1KyQPxeW6Y.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10916,\"imdb_id\":\"tt0146455\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Babylon 5: A Call to Arms\",\"overview\":\"Allies of the Shadows seek revenge against humanity. This movie sets up the series, \\\"Crusade,\\\" the sequel to \\\"Babylon 5.\\\"\",\"popularity\":10.546,\"poster_path\":\"\/dWn0TBxBOBt45cbyefRSQ6Azu9R.jpg\",\"production_companies\":[{\"id\":2181,\"logo_path\":null,\"name\":\"Babylonian Productions\",\"origin_country\":\"\"},{\"id\":678,\"logo_path\":\"\/AbIc38dGx4b8dhKS7oeRL6aXFDv.png\",\"name\":\"Turner Network Television\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-05-12\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Babylon 5: A Call to Arms\",\"video\":false,\"vote_average\":6.774,\"vote_count\":106}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1256",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1302",
+        "x-memc": "HIT",
+        "x-memc-key": "95f8dafd0ee6c93bfc2deb72861610f8",
+        "x-memc-age": "25592",
+        "x-memc-expires": "1302",
+        "ETag": "W\/\"7bc913ab3a58fc0b12a3104a77936c99\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HJTNaKs8Caiv4B4p_eslpzkueyP1wFv-JtQ6y4e7hd7DuZvIpyEuPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fGuu7bmpM7eFjHcU88SsQdtP5JF.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":10555,\"imdb_id\":\"tt0307453\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shark Tale\",\"overview\":\"Oscar is a small fish whose big aspirations often get him into trouble. Meanwhile, Lenny is a great white shark with a surprising secret that no sea creature would guess: He's a vegetarian. When a lie turns Oscar into an improbable hero and Lenny becomes an outcast, the two form an unlikely friendship.\",\"popularity\":86.417,\"poster_path\":\"\/r08DpyPyhXcJTfNZAICNGMzcQ8l.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-09-20\",\"revenue\":367300000,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Behind every little fish is a great white lie.\",\"title\":\"Shark Tale\",\"video\":false,\"vote_average\":6.033,\"vote_count\":6208}"
+}

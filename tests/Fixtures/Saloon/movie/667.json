@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1509",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13178",
+        "x-memc": "HIT",
+        "x-memc-key": "98e202507e0504ba996d52b70293c2b1",
+        "x-memc-age": "10917",
+        "x-memc-expires": "13178",
+        "ETag": "W\/\"2881eeafaf4efd1ef30b04e5c6143e40\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8ZJ5UofWFOiOC5kjxOnjdleqJtPwOpfbFZj8EbWy4HhZDMad6WjrYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cpZAXIYA0lkZMpAt7d1MmH8ojNV.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":9500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/you-only-live-twice\",\"id\":667,\"imdb_id\":\"tt0062512\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"You Only Live Twice\",\"overview\":\"A mysterious spacecraft captures Russian and American space capsules and brings the two superpowers to the brink of war. James Bond investigates the case in Japan and comes face to face with his archenemy Blofeld.\",\"popularity\":52.147,\"poster_path\":\"\/fdRbvRcEXcf2rC4ghLFZzCWPSmB.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1967-06-13\",\"revenue\":111584787,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"...and \\\"twice\\\" is the only way to live!\",\"title\":\"You Only Live Twice\",\"video\":false,\"vote_average\":6.573,\"vote_count\":2109}"
+}

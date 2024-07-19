@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1505",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16162",
+        "x-memc": "HIT",
+        "x-memc-key": "c8f0bdc099817439d162368f6cd40536",
+        "x-memc-age": "5643",
+        "x-memc-expires": "16162",
+        "ETag": "W\/\"9e0fbb69865bb462c6dc9ecc791e47f2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OAPk-iXd8ucU50EhjIBXwzBzmOhVT8pBki_qG4XtMyPJPRkqE96NIw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8lBcqakI3F19NWkXdqE0M8W76b9.jpg\",\"belongs_to_collection\":null,\"budget\":72000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":197,\"imdb_id\":\"tt0112573\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Braveheart\",\"overview\":\"Enraged at the slaughter of Murron, his new bride and childhood love, Scottish warrior William Wallace slays a platoon of the local English lord's soldiers. This leads the village to revolt and, eventually, the entire country to rise up against English rule.\",\"popularity\":61.6,\"poster_path\":\"\/or1gBugydmjToAEq7OZY0owwFk.jpg\",\"production_companies\":[{\"id\":4564,\"logo_path\":null,\"name\":\"Icon Entertainment International\",\"origin_country\":\"GB\"},{\"id\":7965,\"logo_path\":null,\"name\":\"The Ladd Company\",\"origin_country\":\"US\"},{\"id\":11353,\"logo_path\":null,\"name\":\"B.H. Finance C.V.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-05-24\",\"revenue\":213200000,\"runtime\":177,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"Gaelic\",\"iso_639_1\":\"gd\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Every man dies, not every man truly lives.\",\"title\":\"Braveheart\",\"video\":false,\"vote_average\":7.94,\"vote_count\":9882}"
+}

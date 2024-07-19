@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1056",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23016",
+        "x-memc": "HIT",
+        "x-memc-key": "480924ab61d26a3f8e0301b6def5261d",
+        "x-memc-age": "3472",
+        "x-memc-expires": "23016",
+        "ETag": "W\/\"b8540f59758ead0b877b50c44a51a0f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3199fed6c4260c9448326645d333530a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SOmZGPsf1YNpR9YKV5OKGw5Nfa0shICIjSKdO03doBXUXGBaUAb5WA=="
+    },
+    "data": "{\"id\":391321,\"results\":{\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391321\/watch?locale=AU\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":25}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391321\/watch?locale=CA\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21}]},\"MX\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391321\/watch?locale=MX\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":17}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391321\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}]}}}"
+}

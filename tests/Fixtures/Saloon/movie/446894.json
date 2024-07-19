@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1400",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18867",
+        "x-memc": "HIT",
+        "x-memc-key": "9a139d31ebcf4aa54f2d5d5a794e0b30",
+        "x-memc-age": "3931",
+        "x-memc-expires": "18867",
+        "ETag": "W\/\"d062c2e50610fdaf32dc1dff3b386aa8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zs3iYdk0emlK3x5YPAafiIapCUy4w-SEMQtuazoup-7JRiHyU3koBg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7t88SoT3Dd8DhGnQuVoSbMNUl3W.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.smallfootmovie.com\",\"id\":446894,\"imdb_id\":\"tt6182908\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Smallfoot\",\"overview\":\"A bright young yeti finds something he thought didn't exist\u2014a human. News of this \u201csmallfoot\u201d throws the simple yeti community into an uproar over what else might be out there in the big world beyond their snowy village.\",\"popularity\":24.347,\"poster_path\":\"\/zfaiO7QgpcvR8XDOMokWLRfKeTE.jpg\",\"production_companies\":[{\"id\":25120,\"logo_path\":\"\/gBFx9mk2berTzRAyuZFKjxB7zz3.png\",\"name\":\"Warner Bros. Pictures Animation\",\"origin_country\":\"US\"},{\"id\":47586,\"logo_path\":null,\"name\":\"Zaftig Films\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-09-20\",\"revenue\":214115531,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There's been a big myth-understanding\",\"title\":\"Smallfoot\",\"video\":false,\"vote_average\":6.785,\"vote_count\":1476}"
+}

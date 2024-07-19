@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1115",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:43:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1657",
+        "x-memc": "HIT",
+        "x-memc-key": "5ef225b4ee95d55773350062395dc7ae",
+        "x-memc-age": "21531",
+        "x-memc-expires": "1657",
+        "ETag": "W\/\"6bc32435a5b7077c0a3e6ee34616b06a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WyLvq650eRC6NjH5CSO9I0y1944BbLBzNipQPdJijaJctd5Q1kHBVQ=="
+    },
+    "data": "{\"id\":895003,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1256603,\"known_for_department\":\"Acting\",\"name\":\"Natsuki Hanae\",\"original_name\":\"\u82b1\u6c5f\u590f\u6a39\",\"popularity\":25.83,\"profile_path\":\"\/alTb0DlcPIbcwM08WSmxFai58sd.jpg\",\"cast_id\":2,\"character\":\"(voice)\",\"credit_id\":\"61db2731efea7a009ffcdddd\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1563442,\"known_for_department\":\"Acting\",\"name\":\"Akari Kito\",\"original_name\":\"\u9b3c\u982d\u660e\u91cc\",\"popularity\":29.025,\"profile_path\":\"\/43SgANYtj7vpsHmz68hgPDlxC15.jpg\",\"cast_id\":3,\"character\":\"(voice)\",\"credit_id\":\"61db27380bb076001cd8f57d\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1283010,\"known_for_department\":\"Directing\",\"name\":\"Haruo Sotozaki\",\"original_name\":\"\u5916\u5d0e\u6625\u96c4\",\"popularity\":19.776,\"profile_path\":\"\/9SsLeBJkFluywq7YaEQiC9iIFBq.jpg\",\"credit_id\":\"61db28d34544af00197e1a51\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":2282830,\"known_for_department\":\"Writing\",\"name\":\"Koyoharu Gotouge\",\"original_name\":\"\u543e\u5ce0\u547c\u4e16\u6674\",\"popularity\":6.149,\"profile_path\":null,\"credit_id\":\"636ceab00499f200cd3caafb\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1266",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3725",
+        "x-memc": "HIT",
+        "x-memc-key": "c0fb48ffb156167d8388c21d06de34a2",
+        "x-memc-age": "19711",
+        "x-memc-expires": "3725",
+        "ETag": "W\/\"4754722fb838f57621dac68a06614bb5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rN4hOPb7sNmRdKj-xFrV0uwreOEwEEPQacMn8k5eYR7gInOF2zEP7Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":861900,\"imdb_id\":\"tt8870442\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"We Need A Little Christmas\",\"overview\":\"This Christmas is different than any other Christmas thus far. Trisha Covington - Smith has decided to take her wife, Chris, and their children to a cabin in the woods to join her best friends Lindsay and Brighton, along with her new coworker, Angel, for a Christmas themed weekend. Santa Claus, laughter, and secrets lie ahead as the seemingly make shift bunch are forced to face each other, and heal with each other in the spirit of the season.\",\"popularity\":1.455,\"poster_path\":\"\/4jShR8uVnl7UOypJ5AM6ePw2bmR.jpg\",\"production_companies\":[{\"id\":5294,\"logo_path\":null,\"name\":\"Mpower Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-11-01\",\"revenue\":0,\"runtime\":63,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A little love, a little play, and a little pain.\",\"title\":\"We Need A Little Christmas\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

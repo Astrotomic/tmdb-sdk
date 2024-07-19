@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1592",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25534",
+        "x-memc": "HIT",
+        "x-memc-key": "05f0d9182c86f220c4f319aab99eed23",
+        "x-memc-age": "1870",
+        "x-memc-expires": "25534",
+        "ETag": "W\/\"cc5cb21ab26717f6024a85ccdc1e0718\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NbgFhZuqMcB4MEzNkKOmbK6roij7fpQSOP555kvbm4AXNEWxxVy41w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gpcJuvH1tRWfdGv6ysWVRN3EZXL.jpg\",\"belongs_to_collection\":null,\"budget\":2900000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.blackdynamitemovie.com\",\"id\":24804,\"imdb_id\":\"tt1190536\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Black Dynamite\",\"overview\":\"This is the story of 1970s African-American action legend Black Dynamite. The Man killed his brother, pumped heroin into local orphanages, and flooded the ghetto with adulterated malt liquor. Black Dynamite was the one hero willing to fight The Man all the way from the blood-soaked city streets to the hallowed halls of the Honky House.\",\"popularity\":25.066,\"poster_path\":\"\/u3oWQDz0JggzzsVlsuHY7XVxp5Y.jpg\",\"production_companies\":[{\"id\":5615,\"logo_path\":\"\/hApx1BoGBVXo1Hx0khaZxG7U97B.png\",\"name\":\"Six Point Harness\",\"origin_country\":\"US\"},{\"id\":769,\"logo_path\":\"\/j8zjbr6CzgiOj4kdtkTkwjdn0b3.png\",\"name\":\"Destination Films\",\"origin_country\":\"US\"},{\"id\":67540,\"logo_path\":null,\"name\":\"Goliath Entertainment\",\"origin_country\":\"\"},{\"id\":67535,\"logo_path\":null,\"name\":\"Ars Nova\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-10-16\",\"revenue\":296557,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"He's super bad, he's outta sight. He's Black Dynamite.\",\"title\":\"Black Dynamite\",\"video\":false,\"vote_average\":7.113,\"vote_count\":600}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1031",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=385",
+        "x-memc": "HIT",
+        "x-memc-key": "69705a0d6d2e35a331424fa3569f147a",
+        "x-memc-age": "23122",
+        "x-memc-expires": "385",
+        "ETag": "W\/\"f3e4065f4479711c5f14d6ceb7fee5b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nDF_e5HRikbi4-acD9Qr71iV86gnFU32nPkXMUs2SllvcHG1A_fS3w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":200000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.eulogyforavampire.com\/\",\"id\":235733,\"imdb_id\":\"tt1360771\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Eulogy for a Vampire\",\"overview\":\"A handsome young drifter is found unconscious near a remote monastery, where he joins forces with a vengeful spirit as he seduces and converts each of the monks to join his league of the undead.\",\"popularity\":1.83,\"poster_path\":\"\/zK0aepoaWGk6AsUFb0DY0AKvzTE.jpg\",\"production_companies\":[{\"id\":18180,\"logo_path\":null,\"name\":\"Willing Suspension Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-10-23\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He Wanted Him ... Alive or DEAD!\",\"title\":\"Eulogy for a Vampire\",\"video\":false,\"vote_average\":4.0,\"vote_count\":4}"
+}

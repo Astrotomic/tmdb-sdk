@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1433",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15578",
+        "x-memc": "HIT",
+        "x-memc-key": "7b88bc0aee20e2b907c9eafe5551bb4a",
+        "x-memc-age": "6451",
+        "x-memc-expires": "15578",
+        "ETag": "W\/\"d022e524e9d78b64e4dfed356137c5f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f3TOJhA51qZ-NUkzoJOxOa4ynjBaGR0JxaEVBJjM7pli5KmwjDGO1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/k3UyVAhitJntmSKWznd0omRJmeD.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1160018,\"imdb_id\":\"tt28259207\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0915\u093f\u0932\",\"overview\":\"When an army commando finds out his true love is engaged against her will, he boards a New Dehli-bound train in a daring quest to derail the arranged marriage. But when a gang of knife-wielding thieves begin to terrorize innocent passengers on his train, the commando takes them on himself in a death-defying kill-spree to save those around him \u2014 turning what should have been a typical commute into an adrenaline-fueled thrill ride.\",\"popularity\":29.542,\"poster_path\":\"\/bab0zLK8y6jUkTcfMN3X9H3LTD4.jpg\",\"production_companies\":[{\"id\":22486,\"logo_path\":\"\/a101r8HZ9dk6xvXyFHcEyh73Qpr.png\",\"name\":\"Sikhya Entertainment\",\"origin_country\":\"IN\"},{\"id\":19146,\"logo_path\":\"\/5Ff25ornzVNhm5skuAvMAR556NB.png\",\"name\":\"Dharma Productions\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2024-07-04\",\"revenue\":1300000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"The end of the line starts here.\",\"title\":\"Kill\",\"video\":false,\"vote_average\":7.2,\"vote_count\":12}"
+}

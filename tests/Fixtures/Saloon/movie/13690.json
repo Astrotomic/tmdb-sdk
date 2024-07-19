@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1538",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13452",
+        "x-memc": "HIT",
+        "x-memc-key": "c96fbd98444863583423ffd3a08f4dfa",
+        "x-memc-age": "13254",
+        "x-memc-expires": "13452",
+        "ETag": "W\/\"9b51ff96343222a643f4973118f6b6f2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3EIPLm_wBpqGk3B5G9yZ9rgWX7eNOty_nFB6PJo4LGJtQD-8BZHbww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aM9cOyimlKYPT64DUrOmLlZVCy.jpg\",\"belongs_to_collection\":{\"id\":66761,\"name\":\"Open Season Collection\",\"poster_path\":\"\/ePeybVSOnCmuWrrvGEp8hzWn979.jpg\",\"backdrop_path\":\"\/cnaLzqjxlqGMIp7AGCizfVXUhSn.jpg\"},\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":13690,\"imdb_id\":\"tt1107365\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Open Season 2\",\"overview\":\"After falling head over hooves in love with Giselle, Elliot's road to the altar takes a slight detour when Mr. Weenie is kidnapped by a group of pampered pets determined to return him to his owners.\",\"popularity\":39.285,\"poster_path\":\"\/lM4bahouPblYcfngZtnNSkaWxCU.jpg\",\"production_companies\":[{\"id\":2251,\"logo_path\":\"\/5ilV5mH3gxTEU7p5wjxptHvXkyr.png\",\"name\":\"Sony Pictures Animation\",\"origin_country\":\"US\"},{\"id\":2787,\"logo_path\":\"\/uPqyNmCYnjBUXadIa7JmglQ59Y8.png\",\"name\":\"Reel FX Creative Studios\",\"origin_country\":\"US\"},{\"id\":5388,\"logo_path\":\"\/i6tbNeVEi7s1uN97s2o0LhEMuF0.png\",\"name\":\"Sony Pictures Home Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-09-24\",\"revenue\":8700000,\"runtime\":76,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"This time it's pets against wilds. Wiener takes all!\",\"title\":\"Open Season 2\",\"video\":false,\"vote_average\":5.842,\"vote_count\":1190}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1186",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8246",
+        "x-memc": "HIT",
+        "x-memc-key": "3500cc6093b81e8bb11a03f67f35dbc2",
+        "x-memc-age": "17702",
+        "x-memc-expires": "8246",
+        "ETag": "W\/\"077f8046db35323875701d2390d8e4f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "H58edb447r_iDpZpTxBUxttGCmqQ37D-igYQ_sMfLlfwuQEKrnrkPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y2W7Q80soxOvqQHcYjmweI1Scy0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":422153,\"imdb_id\":\"tt6173902\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hulk: Where Monsters Dwell\",\"overview\":\"This All Hallows\u2019 Eve, Nightmare is bent on conquering our waking world by crossing through the Dream Dimension, and converting each dreamer into a monster. Can Dr. Strange, Hulk and the Howling Commandos hold the line and put an end to his nefarious scheme?\",\"popularity\":12.23,\"poster_path\":\"\/luT68rZr9wtrvn22VnRl82dkWTY.jpg\",\"production_companies\":[{\"id\":13252,\"logo_path\":\"\/1gKwYyTDNhumwBKUlKqoxXRUdpC.png\",\"name\":\"Marvel Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-10-21\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hulk: Where Monsters Dwell\",\"video\":false,\"vote_average\":6.6,\"vote_count\":74}"
+}

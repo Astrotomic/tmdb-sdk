@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1233",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5471",
+        "x-memc": "HIT",
+        "x-memc-key": "01dfc535327602e4302550d00b2f7f8f",
+        "x-memc-age": "17181",
+        "x-memc-expires": "5471",
+        "ETag": "W\/\"a9d7818470bd68a359641c30a7c7cb62\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ol5A_SBiySPG1aWbKbW-KvDZoU_YILO4RMb842U496hUYyGcPRV_jw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/73aKTjdQ46jpv3InqNVnV76Nl0K.jpg\",\"belongs_to_collection\":null,\"budget\":4500000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":534780,\"imdb_id\":\"tt8108198\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0905\u0902\u0927\u093e\u0927\u0941\u0928\",\"overview\":\"A series of mysterious events changes the life of a blind pianist who now must report a crime that was actually never witnessed by him.\",\"popularity\":18.421,\"poster_path\":\"\/dy3K6hNvwE05siGgiLJcEiwgpdO.jpg\",\"production_companies\":[{\"id\":6808,\"logo_path\":\"\/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png\",\"name\":\"Viacom18 Studios\",\"origin_country\":\"IN\"},{\"id\":115954,\"logo_path\":\"\/xjXd4fVh3nAp3fi0cJgjfAQ1yBt.png\",\"name\":\"Matchbox Pictures\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2018-10-05\",\"revenue\":40000000,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Every artist has a secret.\",\"title\":\"Andhadhun\",\"video\":false,\"vote_average\":7.665,\"vote_count\":481}"
+}

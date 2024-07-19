@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1267",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2065",
+        "x-memc": "HIT",
+        "x-memc-key": "44805714fe55392a8ca840cbfebbe0a1",
+        "x-memc-age": "23280",
+        "x-memc-expires": "2065",
+        "ETag": "W\/\"dc6e5f7a84e86c3a22251c857a8c7272\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jU0H1DPntmZQf8Ag8TqWj7PkxxUcHEE4Bgr-SD228l3IryeKozbHxw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/u1lBiR7Tw5AuZGlGkX5RpyjraEt.jpg\",\"belongs_to_collection\":null,\"budget\":2500000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":33016,\"imdb_id\":\"tt0082245\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Deadly Blessing\",\"overview\":\"When a former member of a religious cult dies in a mysterious accident, Martha, who now lives alone and close to the cult's church, begins to fear for her life and the lives of her visiting friends.\",\"popularity\":14.524,\"poster_path\":\"\/mizsEXfRudZLGoqicaauNVvnWvI.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":67889,\"logo_path\":null,\"name\":\"Polygram Pictures\",\"origin_country\":\"US\"},{\"id\":92872,\"logo_path\":null,\"name\":\"Interplanetary Pictures Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-08-14\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Pray you're not blesssed.\",\"title\":\"Deadly Blessing\",\"video\":false,\"vote_average\":5.5,\"vote_count\":170}"
+}

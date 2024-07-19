@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "753",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6573",
+        "x-memc": "HIT",
+        "x-memc-key": "80eb605e0a4d8385fde4824fde9940df",
+        "x-memc-age": "22006",
+        "x-memc-expires": "6573",
+        "ETag": "W\/\"3a63204fa5ded0792d72e0a160f940c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8lcKnkLBpxkIpqKYQMi7vEEzR8uRaTPnSS-cl0LppXgOzf2xpRglvw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lnuz8MzHS11Tpb7mmhdTwypVaIX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1284821,\"imdb_id\":\"tt13588194\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Mad Max: Fury Road - Introduction to Black & Chrome Edition by George Miller\",\"overview\":\"\",\"popularity\":6.51,\"poster_path\":\"\/hsT0ZWHyL99NbkV9Jz1GNqkucqT.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2016-05-05\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mad Max: Fury Road - Introduction to Black & Chrome Edition by George Miller\",\"video\":false,\"vote_average\":7.667,\"vote_count\":6}"
+}

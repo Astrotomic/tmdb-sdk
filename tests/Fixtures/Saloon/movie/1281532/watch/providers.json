@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3315",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:12:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2310",
+        "x-memc": "HIT",
+        "x-memc-key": "ee47bf5105832d4441bd8fef460f2ad8",
+        "x-memc-age": "24779",
+        "x-memc-expires": "2310",
+        "ETag": "W\/\"1e67fdacc7aae2e703807700ab92325e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "v8WAdKELtUwnJMRcNjHcrTT5H-8rBSOYXH9twog7uouPce24m0u1QA=="
+    },
+    "data": "{\"id\":1281532,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1281532-hard-home\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/d1mUAhpJpxy0YMjwVOZ4lxAAbeT.jpg\",\"provider_id\":140,\"provider_name\":\"Cineplex\",\"display_priority\":19},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/d1mUAhpJpxy0YMjwVOZ4lxAAbeT.jpg\",\"provider_id\":140,\"provider_name\":\"Cineplex\",\"display_priority\":19},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23},{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":32},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":59}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1281532-hard-home\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":49},{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":114},{\"logo_path\":\"\/aAb9CUHjFe9Y3O57qnrJH0KOF1B.jpg\",\"provider_id\":486,\"provider_name\":\"Spectrum On Demand\",\"display_priority\":149}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":49}]}}}"
+}

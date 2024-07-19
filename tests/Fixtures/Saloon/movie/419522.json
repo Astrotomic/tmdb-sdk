@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1829",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15029",
+        "x-memc": "HIT",
+        "x-memc-key": "1c45bba1688233562f835fbeb941d19b",
+        "x-memc-age": "7436",
+        "x-memc-expires": "15029",
+        "ETag": "W\/\"e8c4cae2db503e4090a07d5face46f25\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sTfxuOxiUapzPUAUUNA7msGvf2yLH67kAnzuq1PhxEqMsB8eJGD2Eg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e0ziCGOEXhSaNuIyfh5svpflXhT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":419522,\"imdb_id\":\"tt6197094\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Beata ignoranza\",\"overview\":\"Ernesto and Filippo, two high school teachers, couldn\u2019t be more different: Filippo is a cheerful liberal who is constantly online. Handsome and youthful, he is a serial seducer on the social networks. Ernesto, instead is a stern conservative, rigorously computerless. He is probably the last person around who still has a first-generation cell phone and his teaching methods are very traditional. They used to be best friends but an unresolved fight kept them far apart, until the day fate intervened and they found themselves teaching at the same school. Their opposite viewpoints will soon and inevitably lead to a new clash. The internet will force them to deal with their past, which resurfaces in the shape of Nina, a young woman who conducts an experiment on them: Filippo must try to leave the world of Internet and Ernesto must try to enter it.\",\"popularity\":12.688,\"poster_path\":\"\/2Jgy8eXQOPhi2Mhah0up56izZLa.jpg\",\"production_companies\":[{\"id\":1429,\"logo_path\":\"\/n1GvY0KLgk3gcEPO07L7nXncB3i.png\",\"name\":\"Italian International Film\",\"origin_country\":\"IT\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2017-02-23\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ignorance Is Bliss\",\"video\":false,\"vote_average\":5.88,\"vote_count\":442}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1497",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1518",
+        "x-memc": "HIT",
+        "x-memc-key": "e2668a58a002bd7d7c15c79480616a54",
+        "x-memc-age": "22909",
+        "x-memc-expires": "1518",
+        "ETag": "W\/\"32ecbe5a97f936b039be1ea8a416920a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VHYQX95IHSbQRpgerdIBuOVVv-0yrCZjBiGKVich8RX7mI_ZQLEcBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r9leYNa8nTRCceZrZhP1DXkgKVb.jpg\",\"belongs_to_collection\":{\"id\":479888,\"name\":\"The Thing Collection\",\"poster_path\":\"\/bOXNcyGBdpymetPPUpmWme1dMIG.jpg\",\"backdrop_path\":\"\/eJ5Atu6k56vShNymq2RQ6VExXfA.jpg\"},\"budget\":15000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.theofficialjohncarpenter.com\/the-thing\/\",\"id\":1091,\"imdb_id\":\"tt0084787\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Thing\",\"overview\":\"In the winter of 1982, a twelve-man research team at a remote Antarctic research station discovers an alien buried in the snow for over 100,000 years. Soon unfrozen, the form-changing creature wreaks havoc, creates terror... and becomes one of them.\",\"popularity\":80.45,\"poster_path\":\"\/tzGY49kseSE9QAKk47uuDGwnSCu.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":662,\"logo_path\":null,\"name\":\"The Turman-Foster Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1982-06-25\",\"revenue\":19629760,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"}],\"status\":\"Released\",\"tagline\":\"Man is the warmest place to hide.\",\"title\":\"The Thing\",\"video\":false,\"vote_average\":8.06,\"vote_count\":6734}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1061",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8289",
+        "x-memc": "HIT",
+        "x-memc-key": "3c89b7636fb53de5910196d6a60e9ad0",
+        "x-memc-age": "13458",
+        "x-memc-expires": "8289",
+        "ETag": "W\/\"4b48dc4152efa8155600f70e6c3c38ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5Ooy3KmRdQVQV4dS7btovfYuDjV2491CdqOdxw08PbgDajb9-t5VUQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dtr04NE4CXvrXJTccYp6DrpDj5E.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/brlfilms.com\",\"id\":1025840,\"imdb_id\":\"tt22093182\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"El Monarca Desvestido\",\"overview\":\"A presidential candidate and his wife organize a dinner to establish relations with political interests. But not everything will go as planned...\",\"popularity\":4.046,\"poster_path\":\"\/hujSiCrcz8D0dc7Vf6xgwBzy06G.jpg\",\"production_companies\":[{\"id\":171221,\"logo_path\":null,\"name\":\"BRL Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2022-09-24\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The goal: power. The obstacles... Everything.\",\"title\":\"The Undressed Monarch\",\"video\":false,\"vote_average\":7.5,\"vote_count\":2}"
+}

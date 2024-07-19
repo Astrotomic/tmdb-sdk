@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1072",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12914",
+        "x-memc": "HIT",
+        "x-memc-key": "80e077b629e11d17c5762960ad41be6b",
+        "x-memc-age": "10265",
+        "x-memc-expires": "12914",
+        "ETag": "W\/\"6403ab446a4701cf754824514c7b9edb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bneoR381br25TafqzlvOaALzH_BL1YLUo5UIqbVWJzG8U-avTRvnxQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kiN3zVtufR9dBReyPe8GQ8645VY.jpg\",\"belongs_to_collection\":null,\"budget\":26000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/Sanguisuga.com\",\"id\":1180484,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sanguisuga\",\"overview\":\"Armed with a mysterious website and a profile on a popular dating app, Selene, a freshly-turned vampire, lures Tyler into a \u201cdate\u201d in order to make her first kill and complete her transformation.\",\"popularity\":1.073,\"poster_path\":\"\/57T6RgCgcfoJi9NbW76oxHBj6Ap.jpg\",\"production_companies\":[{\"id\":208978,\"logo_path\":null,\"name\":\"Two Mean Girls\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-09-22\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Be Careful Who You Match With.\",\"title\":\"Sanguisuga\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

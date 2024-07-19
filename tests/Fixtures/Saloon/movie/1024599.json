@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "795",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8264",
+        "x-memc": "HIT",
+        "x-memc-key": "48833d29957084b5d0bb04393ac4aa36",
+        "x-memc-age": "14875",
+        "x-memc-expires": "8264",
+        "ETag": "W\/\"a1e6db77b13905c4ae41aea157e34ed2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UJLkkQzga7Xy3EtKVV4JCPD4PjNh5q6h6hBbk6SObzp4ZpTvlOej3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1024599,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Snip Snip!\",\"overview\":\"An unassuming gentleman finds himself deep in a kerfuffle after moving to the same street as a mysterious neighbor\",\"popularity\":4.35,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2022-08-21\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You think your neighbor is weird? Get a load of Red!\",\"title\":\"Snip Snip!\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

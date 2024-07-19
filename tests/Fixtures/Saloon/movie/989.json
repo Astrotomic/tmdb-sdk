@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1053",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18635",
+        "x-memc": "HIT",
+        "x-memc-key": "95b81e4b4e47e7d7c663e16b7f7d3603",
+        "x-memc-age": "6694",
+        "x-memc-expires": "18635",
+        "ETag": "W\/\"59bd4fb86cf17ba77ab86aa90d75a998\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ix-6MeAv_pLdha9uxsZBDKBv3B99ns6Ss_S5J2O9vKJ0U4KizoI6EA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zqgzF9zkDlLqVARJGgoMSugb1at.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":989,\"imdb_id\":\"tt0032811\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Mortal Storm\",\"overview\":\"The Roth family leads a quiet life in a small village in the German Alps during the early 1930s. After the Nazis come to power, the family is divided and Martin Breitner, a family friend, is caught up in the turmoil.\",\"popularity\":8.349,\"poster_path\":\"\/xPvS7UVrJuCyE5NsiDkW39ABLGX.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-06-20\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Most Exciting Picture!\",\"title\":\"The Mortal Storm\",\"video\":false,\"vote_average\":7.1,\"vote_count\":76}"
+}

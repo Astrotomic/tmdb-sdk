@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1282",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9959",
+        "x-memc": "HIT",
+        "x-memc-key": "2380fab70d0c2309be650f323a4c7e6e",
+        "x-memc-age": "18669",
+        "x-memc-expires": "9959",
+        "ETag": "W\/\"1310295168cfa6203923e0f4e280ab73\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U_JqHiJpDnt-PbA-Om2yOtRWpEIw6X-31IdorWo_s7agumXaRWPz2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aBQGrfJYDPGKkuiqTuTBw8UqQYF.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":542444,\"imdb_id\":\"tt7336684\",\"origin_country\":[\"ES\",\"JP\"],\"original_language\":\"es\",\"original_title\":\"Sordo\",\"overview\":\"Northern Spain, October 1944. Several groups of guerrilla fighters, former Republican soldiers exiled in France after the end of the Spanish Civil War, infiltrate the country in order to provoke a popular uprising against General Franco's dictatorship.\",\"popularity\":21.249,\"poster_path\":\"\/bj6ZuH8xf7VVt6ekbbWCuCZeqqF.jpg\",\"production_companies\":[{\"id\":107748,\"logo_path\":null,\"name\":\"La Ca\u00f1a Brothers\",\"origin_country\":\"ES\"},{\"id\":981,\"logo_path\":\"\/pkrdO9ykplO4Zc8edikoSX5APUN.png\",\"name\":\"TVE\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2019-09-13\",\"revenue\":0,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"When everything's silent, you can't hear your enemies\",\"title\":\"The (Silent) War\",\"video\":false,\"vote_average\":5.9,\"vote_count\":58}"
+}

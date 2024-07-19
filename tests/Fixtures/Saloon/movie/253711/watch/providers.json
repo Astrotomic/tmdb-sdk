@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1147",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21208",
+        "x-memc": "HIT",
+        "x-memc-key": "fe66d706c34bff6edde99f938e21de9f",
+        "x-memc-age": "5223",
+        "x-memc-expires": "21208",
+        "ETag": "W\/\"a2c57b9ecaefae81e23c420dd94f9079\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9RtVTf9vM4-aU6F0Dj2vqOv0HfORH9JGqoFRjPGnbmZgpSLswCVZ2g=="
+    },
+    "data": "{\"id\":253711,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/253711-hard-justice\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/253711-hard-justice\/watch?locale=DE\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}]},\"SM\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/253711-hard-justice\/watch?locale=SM\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1}]},\"VA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/253711-hard-justice\/watch?locale=VA\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":0}]}}}"
+}

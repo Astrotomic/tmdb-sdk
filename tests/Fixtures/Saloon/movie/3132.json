@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1261",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10064",
+        "x-memc": "HIT",
+        "x-memc-key": "4b7984e4472ab7d5bbd69f986e00dcf4",
+        "x-memc-age": "17233",
+        "x-memc-expires": "10064",
+        "ETag": "W\/\"fe030fe9d1f5bea0ec27412251f3ab0d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pR0vsg1ElBVXYt8YtEMMuXvo9oWhwS8hWgE3GrZmbf-J30f0NJJRMw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9oLrsekWm3sfEGw5HOav6roW1h7.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":3132,\"imdb_id\":\"tt0280486\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bad Company\",\"overview\":\"When a Harvard-educated CIA agent is killed during an operation, the secret agency recruits his twin brother.\",\"popularity\":19.017,\"poster_path\":\"\/umu141mcfIEhRLgyQp7TWlGJFW.jpg\",\"production_companies\":[{\"id\":11345,\"logo_path\":\"\/xhnnHfsqEimD4r0QeUz3GSvcv73.png\",\"name\":\"Stillking Films\",\"origin_country\":\"CZ\"},{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-06-07\",\"revenue\":65977295,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The world is in good hands.\",\"title\":\"Bad Company\",\"video\":false,\"vote_average\":5.462,\"vote_count\":746}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1620",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:36:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13091",
+        "x-memc": "HIT",
+        "x-memc-key": "21001cb536e9d92ccc0faa29d4d5d09d",
+        "x-memc-age": "11088",
+        "x-memc-expires": "13091",
+        "ETag": "W\/\"1dc06ab844cbad7d8df2133f529dc2b8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6294154c5c81832cf7b9d6614919fbec.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "O_yDR0_yRh93UrVx7zOYyQ8fDSsuiXWgDxcLeaGTWnK3_RvEtP2hTA=="
+    },
+    "data": "{\"id\":1215589,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4421051,\"known_for_department\":\"Acting\",\"name\":\"Maxime Tuloup\",\"original_name\":\"Maxime Tuloup\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"L\u2019homme\",\"credit_id\":\"65745854d400f300eaa594f9\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":4421052,\"known_for_department\":\"Acting\",\"name\":\"Z\u00e9lie Roche\",\"original_name\":\"Z\u00e9lie Roche\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"L\u2019amie\",\"credit_id\":\"6574585da84a470138216d6f\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":4421047,\"known_for_department\":\"Directing\",\"name\":\"Benoit Iwulski\",\"original_name\":\"Benoit Iwulski\",\"popularity\":0.001,\"profile_path\":\"\/rWws9mNiTfKbReEvQFOmLSyOxQo.jpg\",\"cast_id\":4,\"character\":\"Le docteur\",\"credit_id\":\"657458657a3c5200ca78b8fd\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4421047,\"known_for_department\":\"Directing\",\"name\":\"Benoit Iwulski\",\"original_name\":\"Benoit Iwulski\",\"popularity\":0.001,\"profile_path\":\"\/rWws9mNiTfKbReEvQFOmLSyOxQo.jpg\",\"credit_id\":\"65745777e93e9501001fac89\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4421054,\"known_for_department\":\"Sound\",\"name\":\"Timoth\u00e9e Gillet\",\"original_name\":\"Timoth\u00e9e Gillet\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65745878a1d33200e1b71bcc\",\"department\":\"Sound\",\"job\":\"Sound\"},{\"adult\":false,\"gender\":0,\"id\":4421047,\"known_for_department\":\"Directing\",\"name\":\"Benoit Iwulski\",\"original_name\":\"Benoit Iwulski\",\"popularity\":0.001,\"profile_path\":\"\/rWws9mNiTfKbReEvQFOmLSyOxQo.jpg\",\"credit_id\":\"6574588f4bfa5400e154d650\",\"department\":\"Sound\",\"job\":\"Music\"}]}"
+}

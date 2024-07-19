@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1321",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20133",
+        "x-memc": "HIT",
+        "x-memc-key": "ff288f02d1520664d64939ca9e0a2f8c",
+        "x-memc-age": "4056",
+        "x-memc-expires": "20133",
+        "ETag": "W\/\"ea504f5761fbec7d51f55b6111e73047\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "D-vwPCxLwtPbVcOQcWBTLP9pYlLMeFzf0nYfKQmTpJSQzUzx2daSgA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/GDTwA5FBvVUOjCGKoNDMflbs3Z.jpg\",\"belongs_to_collection\":{\"id\":100965,\"name\":\"Atlantis Collection\",\"poster_path\":\"\/oxwbFidNYkOLvxIJFIJjzCl9Ns8.jpg\",\"backdrop_path\":\"\/rN2E6dcbp4FvjWnNo5uVHeYHMQI.jpg\"},\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/disneydvd.disney.go.com\/atlantis-milos-return.html\",\"id\":8965,\"imdb_id\":\"tt0344864\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Atlantis: Milo's Return\",\"overview\":\"Milo and Kida reunite with their friends to investigate strange occurances around the world that seem to have links to the secrets of Atlantis.\",\"popularity\":29.818,\"poster_path\":\"\/jrZEWzSlbQTlsJobDmzuFNzlxbh.jpg\",\"production_companies\":[{\"id\":3475,\"logo_path\":\"\/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png\",\"name\":\"Disney Television Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-02-25\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The all-new adventures\",\"title\":\"Atlantis: Milo's Return\",\"video\":false,\"vote_average\":6.341,\"vote_count\":3794}"
+}

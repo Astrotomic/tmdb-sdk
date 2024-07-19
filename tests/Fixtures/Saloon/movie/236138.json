@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1049",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8444",
+        "x-memc": "HIT",
+        "x-memc-key": "c1236fcea6e7741ff2636d29965617bc",
+        "x-memc-age": "13902",
+        "x-memc-expires": "8444",
+        "ETag": "W\/\"5ad8b76f800988efd753cb99ba294083\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dySrgsUf-71UqPBAta97rKORUgwLa-t5STUxu5eGAdXYKLEOOjJjfg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":236138,\"imdb_id\":\"tt0316900\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Woman for All Men\",\"overview\":\"Irascible and domineering millionaire Walter McCoy marries the beautiful, but shady and duplicitous Karen Petrie. Walter's son Steve automatically becomes smitten with Karen while both Walter's daughter Cynthia and loyal housekeeper Sarah suspect that something is up. This provokes a tangled web of deception, infidelity, and even murder.\",\"popularity\":3.166,\"poster_path\":\"\/6G89wQ54w8kEf9kOsV5X29Ox9di.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1975-08-01\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Woman for All Men\",\"video\":false,\"vote_average\":5.5,\"vote_count\":10}"
+}

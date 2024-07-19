@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1204",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7018",
+        "x-memc": "HIT",
+        "x-memc-key": "ab72e21b914a66a32d4db7f83f4d077f",
+        "x-memc-age": "15820",
+        "x-memc-expires": "7018",
+        "ETag": "W\/\"77c5b5f85eefd611b64127a488a1d1e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YRk7-fiSjFqiJyDRy8t7fd42CWuW0jqXxc6Fn6qZLkv4-WT3TYG2kg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4YubhOmbxTSdnMBhjQGngd7TSao.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":122924,\"imdb_id\":\"tt1881024\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"One in the Chamber\",\"overview\":\"A seasoned assassin plays both sides in a Russian gang war and becomes the target of an unknown enemy.\",\"popularity\":12.853,\"poster_path\":\"\/cU0RKBWgFhqfR79dSE4Rh4d0yUx.jpg\",\"production_companies\":[{\"id\":2090,\"logo_path\":\"\/jYlUttNqcN5u1pzMQrh5AEhZ27t.png\",\"name\":\"Motion Picture Corporation of America\",\"origin_country\":\"US\"},{\"id\":8624,\"logo_path\":null,\"name\":\"Mediapro Studios\",\"origin_country\":\"\"},{\"id\":25263,\"logo_path\":null,\"name\":\"Throttle Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"RO\",\"name\":\"Romania\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-08-21\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When killers collide, every bullet counts.\",\"title\":\"One in the Chamber\",\"video\":false,\"vote_average\":5.6,\"vote_count\":155}"
+}

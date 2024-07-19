@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "267",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25298",
+        "x-memc": "HIT",
+        "x-memc-key": "1497ba31053a1b1c6431a0ad6bc2611d",
+        "x-memc-age": "3031",
+        "x-memc-expires": "25298",
+        "ETag": "W\/\"e76f5345d9c101184e7c23b962d61f21\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SEeBTAHkxYzjL184GfvmN1Tm5jaSC9fGOlJBoqlPnKylmln7bxzu-w=="
+    },
+    "data": "{\"id\":222505,\"results\":{\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/222505-l-invention-de-morel\/watch?locale=FR\",\"flatrate\":[{\"logo_path\":\"\/zg1uFDzIchkwrwOW6dq7LFxB4n6.jpg\",\"provider_id\":1737,\"provider_name\":\"INA  madelen Amazon Channel\",\"display_priority\":61}]}}}"
+}

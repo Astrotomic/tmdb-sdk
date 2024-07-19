@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1626",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23842",
+        "x-memc": "HIT",
+        "x-memc-key": "ffa836ab2ab97f9cf1f811dde21c156e",
+        "x-memc-age": "3520",
+        "x-memc-expires": "23842",
+        "ETag": "W\/\"2d972bbdf83a7a7623420e25a3e27556\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pVrkZOz9W_NLp_v136QL97kacg7QIYyiicnGuvKGFOEQWrnXhM9Q4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/skQN2UMQKQnOTmwplcYMx6ZF4jS.jpg\",\"belongs_to_collection\":{\"id\":264,\"name\":\"Back to the Future Collection\",\"poster_path\":\"\/5Xsu2o5IsZRuuxCEVZ9nVve21FP.jpg\",\"backdrop_path\":\"\/AqQotqj7XOI6GjB28nhMMa8YzOT.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.backtothefuture.com\/movies\/backtothefuture2\",\"id\":165,\"imdb_id\":\"tt0096874\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Back to the Future Part II\",\"overview\":\"Marty and Doc are at it again in this wacky sequel to the 1985 blockbuster as the time-traveling duo head to 2015 to nip some McFly family woes in the bud. But things go awry thanks to bully Biff Tannen and a pesky sports almanac. In a last-ditch attempt to set things straight, Marty finds himself bound for 1955 and face to face with his teenage parents -- again.\",\"popularity\":164.07,\"poster_path\":\"\/hQq8xZe5uLjFzSBt4LanNP7SQjl.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-11-22\",\"revenue\":332000000,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Getting back was only the beginning.\",\"title\":\"Back to the Future Part II\",\"video\":false,\"vote_average\":7.762,\"vote_count\":12489}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1002",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25050",
+        "x-memc": "HIT",
+        "x-memc-key": "5141da0311e54f691ea03e1eec8dbabe",
+        "x-memc-age": "347",
+        "x-memc-expires": "25050",
+        "ETag": "W\/\"7a4da4ff338f688e3d50b4d82c202e17\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ivraTVmMju_JfDE8KBu8-N9lyjzvkIhXI7NZf4UDoy0Cfn7lomGh-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cSZLHyKrGIRh3RqMtdYJiD3CinU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1105283,\"imdb_id\":\"tt27272780\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Mi Maestra se comi\u00f3 a mi amigo\",\"overview\":\"Tom\u00e1s, an 11-year-old boy living in his own fantasy world, must use his vast monster knowledge to fight against his new English teacher: a wicked woman who is, in fact, a child-eating monster.\",\"popularity\":12.269,\"poster_path\":\"\/5MiVG39r82aYUAtvs3bTycmbewJ.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2023-03-29\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mi Maestra se comi\u00f3 a mi amigo\",\"video\":false,\"vote_average\":6.985,\"vote_count\":33}"
+}

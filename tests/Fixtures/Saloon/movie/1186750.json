@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "967",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8147",
+        "x-memc": "HIT",
+        "x-memc-key": "fac525f1dd8f216e2341bfe1e303527f",
+        "x-memc-age": "17656",
+        "x-memc-expires": "8147",
+        "ETag": "W\/\"500aeb8189c31739e3dcad6d834c1a27\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zrRFrUm17KG1XwCNU7j8hQ1XMIEzR4oi8Bb9v6Er6DtbYZynGUsGrg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":1186750,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Chance\/Trail of the Apache\",\"overview\":\"A renegade Englishman known as \u201cThe White Apache\u201d tangles with brutal scalp hunters who fear no man! Gripping Western adventure!\",\"popularity\":1.669,\"poster_path\":null,\"production_companies\":[{\"id\":210111,\"logo_path\":null,\"name\":\"Christopher Clarke Productions\",\"origin_country\":\"\"},{\"id\":88430,\"logo_path\":null,\"name\":\"Panavision LTD\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"1977-01-01\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Chance\/Trail of the Apache\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

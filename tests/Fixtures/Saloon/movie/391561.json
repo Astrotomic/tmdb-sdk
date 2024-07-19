@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1017",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14981",
+        "x-memc": "HIT",
+        "x-memc-key": "508c450e44f6680a932d546f9c7881d1",
+        "x-memc-age": "10417",
+        "x-memc-expires": "14981",
+        "ETag": "W\/\"03c05e075ca2c39d5adc42fdda9c859d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o6oZLgD_VUVtedMRUQJ1uhTXWQe1Cl8VEdwLwDEdfLb6zvB-2hN7dQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":750,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.facebook.com\/exit14themovice\",\"id\":391561,\"imdb_id\":\"tt4202970\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Exit 14\",\"overview\":\"Laurie, a good-natured college student, embarks on a spring break vacation with her friends Faith, Joey, and her boyfriend Mick. They get off on the ghostly Exit 14 where they befriend a mysterious store clerk and are haunted by the ghost story he shares with them.\",\"popularity\":4.069,\"poster_path\":\"\/kVVinNOQzsQJaaavqXfE3tkOPae.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2016-04-05\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"Once she has you, She'll never let go\",\"title\":\"Exit 14\",\"video\":false,\"vote_average\":3.7,\"vote_count\":11}"
+}

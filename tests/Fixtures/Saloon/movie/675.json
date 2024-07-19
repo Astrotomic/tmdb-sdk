@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1577",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13496",
+        "x-memc": "HIT",
+        "x-memc-key": "75dbe07ecdf6db728328cc4ca51cc5aa",
+        "x-memc-age": "8902",
+        "x-memc-expires": "13496",
+        "ETag": "W\/\"d59176748ccf2fa15ab1eaeb8eb6362b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4KsHDSPtBkr8WzN4WNW459URIMoYPkLqDyvkG5dLe07D2t9T_pZOEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg\",\"belongs_to_collection\":{\"id\":1241,\"name\":\"Harry Potter Collection\",\"poster_path\":\"\/eVPs2Y0LyvTLZn6AP5Z6O2rtiGB.jpg\",\"backdrop_path\":\"\/xN6SBJVG8jqqKQrgxthn3J2m49S.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/harry-potter-and-order-phoenix\/\",\"id\":675,\"imdb_id\":\"tt0373889\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Harry Potter and the Order of the Phoenix\",\"overview\":\"Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.\",\"popularity\":156.133,\"poster_path\":\"\/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":437,\"logo_path\":\"\/nu20mtwbEIhUNnQ5NXVhHsNknZj.png\",\"name\":\"Heyday Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-07-08\",\"revenue\":938212738,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The rebellion begins.\",\"title\":\"Harry Potter and the Order of the Phoenix\",\"video\":false,\"vote_average\":7.682,\"vote_count\":19062}"
+}

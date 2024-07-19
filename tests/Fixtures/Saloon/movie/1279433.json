@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1032",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19138",
+        "x-memc": "HIT",
+        "x-memc-key": "07e21616e8cbcd3f5b9558c65b13e797",
+        "x-memc-age": "4444",
+        "x-memc-expires": "19138",
+        "ETag": "W\/\"df6473027a51be121f0509cdd575fc04\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nyA8uXSbkvjpRJE7mdVKaPcv0hihveV53NOqYKTJFAQ-94kiAzhZFg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dYGJ9cI3pUjCUITfxxsO5kEGKTF.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81500431\",\"id\":1279433,\"imdb_id\":\"tt32245043\",\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Spadek\",\"overview\":\"When their rich uncle passes, his mansion of intricate puzzles becomes the backdrop for his estranged family's quest to secure a portion of his wealth.\",\"popularity\":60.242,\"poster_path\":\"\/A4UklDW0DYytzK5aydQIM3vw4dL.jpg\",\"production_companies\":[{\"id\":188079,\"logo_path\":null,\"name\":\"Orphan Studio\",\"origin_country\":\"PL\"}],\"production_countries\":[{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"2024-06-19\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Inheritance\",\"video\":false,\"vote_average\":5.401,\"vote_count\":96}"
+}

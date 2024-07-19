@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1287",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4161",
+        "x-memc": "HIT",
+        "x-memc-key": "35261b817ffdc1ebd46e242c02ee4036",
+        "x-memc-age": "18797",
+        "x-memc-expires": "4161",
+        "ETag": "W\/\"42f6e0aa0417acb53fae7fa1f19e7199\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7eHtRckED5ZP8L9r4HfZzvbxDnOXbpo-G49s5A0AiSPfoLDmID3y0g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1Zoti1xJRgKMCuNKnsYLzTyNOOH.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":124459,\"imdb_id\":\"tt0790628\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Incredible Burt Wonderstone\",\"overview\":\"After breaking up with his longtime stage partner, a famous but jaded Vegas magician fights for relevance when a new, \\\"hip\\\" street magician appears on the scene.\",\"popularity\":20.094,\"poster_path\":\"\/Bl95sg5Ljo3Hu9SSL0JOvLerLh.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":7312,\"logo_path\":null,\"name\":\"Carousel\",\"origin_country\":\"US\"},{\"id\":6363,\"logo_path\":null,\"name\":\"BenderSpink\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-03-14\",\"revenue\":27437881,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Abracatastic!\",\"title\":\"The Incredible Burt Wonderstone\",\"video\":false,\"vote_average\":5.676,\"vote_count\":1388}"
+}

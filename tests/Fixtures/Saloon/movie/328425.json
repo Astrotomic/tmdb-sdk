@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1321",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1101",
+        "x-memc": "HIT",
+        "x-memc-key": "323ba4144891a7ec4fa9b358a362f0b9",
+        "x-memc-age": "26939",
+        "x-memc-expires": "1101",
+        "ETag": "W\/\"2a22540ff8646f28db5cd00041aca594\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oS_FMU1RIqvTKDkLFveCi3uDcIDQt4COHmv1FGicC1r7UhmVRXYWFw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nCoqKsxqcDB9ZcvZ0zLxulCMaof.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/uphe.com\/movies\/the-gift\",\"id\":328425,\"imdb_id\":\"tt4178092\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Gift\",\"overview\":\"Simon and Robyn are a young married couple whose life is going as planned until a chance run-in with Simon's high school acquaintance sends their world into a tailspin.\",\"popularity\":32.056,\"poster_path\":\"\/kH3qLP8pn68Xq5XwvmPkCyaAU7W.jpg\",\"production_companies\":[{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":32299,\"logo_path\":\"\/yNphx07jCXygH1Zh73tSPHnNi82.png\",\"name\":\"Blue-Tongue Films\",\"origin_country\":\"AU\"},{\"id\":69542,\"logo_path\":null,\"name\":\"Ahimsa Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-07-31\",\"revenue\":58978653,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Not every gift is welcome.\",\"title\":\"The Gift\",\"video\":false,\"vote_average\":6.7,\"vote_count\":3136}"
+}

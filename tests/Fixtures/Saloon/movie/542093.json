@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "971",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9352",
+        "x-memc": "HIT",
+        "x-memc-key": "6bb31d296d3ca43a79c73c5bc5affaa4",
+        "x-memc-age": "14408",
+        "x-memc-expires": "9352",
+        "ETag": "W\/\"4a3b4b902f04729015b9cf6c913697b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZU17MW4PdhK2nKsBZmTIuxfVUX-LhlSaUKiF0bEiJXguVFylMSUAIw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":542093,\"imdb_id\":\"tt9858794\",\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 Z\",\"overview\":\"Three years into a zombie epidemic, a group of survivors prepare to leave their wooded shelter and brave the flesh eaters in order to reach the city.\",\"popularity\":1.58,\"poster_path\":\"\/6vxAFjgkn7WhmGSaKAtnDSsWbYC.jpg\",\"production_companies\":[{\"id\":103821,\"logo_path\":null,\"name\":\"Saydam Baryl\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2018-04-12\",\"revenue\":82446,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Republic Z\",\"video\":false,\"vote_average\":5.0,\"vote_count\":3}"
+}

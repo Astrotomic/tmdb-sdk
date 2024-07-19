@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "929",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3637",
+        "x-memc": "HIT",
+        "x-memc-key": "48c6e108ee9f47989ed5427d8d5cdc82",
+        "x-memc-age": "20757",
+        "x-memc-expires": "3637",
+        "ETag": "W\/\"46735c00978a36bf7a8fc5f7e4b943a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qRqIGBZcQg1fo71j_8_9s2jOwct6JVp-2-Wp90DcCrOfa0SHS2BatQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nZqByPAkF7SsgVIoo77EF10VDOc.jpg\",\"belongs_to_collection\":null,\"budget\":50,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"http:\/\/www.honorszombiefilms.com\/2012\/06\/riverbed-2012-redux.html\",\"id\":387030,\"imdb_id\":\"tt2258710\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Riverbed\",\"overview\":\"Two soldiers lost behind enemy lines reminisce about their lives before war stole their identities.\",\"popularity\":2.299,\"poster_path\":\"\/inerIsc8STg6Btjb9YNj1Mr6DPL.jpg\",\"production_companies\":[{\"id\":74073,\"logo_path\":null,\"name\":\"Honors Zombie Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-06-24\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"Where's the front line?\",\"title\":\"The Riverbed\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

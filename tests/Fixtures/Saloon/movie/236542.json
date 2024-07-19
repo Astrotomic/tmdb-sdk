@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "980",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15532",
+        "x-memc": "HIT",
+        "x-memc-key": "cd4c32961b266813f5accd1f0b905a7b",
+        "x-memc-age": "7248",
+        "x-memc-expires": "15532",
+        "ETag": "W\/\"5f862ba88545ffa8468f006827d1696a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CeeqrO9GxPUSPY6M7MMscDujz6Eh3z8gXL1HHMokKu5LznyQ9-3c-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":236542,\"imdb_id\":\"tt0033508\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dance of the Weed\",\"overview\":\"A clumsy yokel of a male weed courts a delicate female flower ballerina by trying to dance with her.\",\"popularity\":1.789,\"poster_path\":null,\"production_companies\":[{\"id\":89238,\"logo_path\":null,\"name\":\"MGM Cartoon Studio\",\"origin_country\":\"US\"},{\"id\":62427,\"logo_path\":null,\"name\":\"Rudolf Ising Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-06-07\",\"revenue\":0,\"runtime\":9,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dance of the Weed\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

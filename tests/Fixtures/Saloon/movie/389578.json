@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1719",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19579",
+        "x-memc": "HIT",
+        "x-memc-key": "5fbe5c73e076d6c9f89113e3fa941d50",
+        "x-memc-age": "9207",
+        "x-memc-expires": "19579",
+        "ETag": "W\/\"4b7b4b7b613cf2c9156e077c51eb03e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XxWGSImrcRTywbkuVjXAD20KOHRn7f-KVVR1rMnz6728bnVRIG9fSg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":389578,\"imdb_id\":\"tt5165936\",\"origin_country\":[\"AR\"],\"original_language\":\"es\",\"original_title\":\"Daemonium : Soldado del Inframundo\",\"overview\":\"The story of Daemonium begins in an alternate universe to ours, in which magic and technology coexist with humans and demons. A powerful family hires a band of mercenaries and forces Fulcanelli, a wizard and con artist, to invoke a demon with the purpose of gaining even more power. Of course, things go terribly wrong. The wizard escapes and the demon slaughters the mercenaries, with the exception of Razor. He\u2019s the one who seals the deal to become lord of the criminal underworld. The family kidnaps Lisa, his pregnant wife, and turns her into a merciless killing machine and the spear point of their offensive against Razor. But she\u2019s not the only threat to the crime lord. It\u2019s only a question of time before the demon returns to claim Razor\u2019s soul. Fulcanelli seems to be the key to stopping the demon and Razor sends out his band of sexy killer robots to find him.\",\"popularity\":1.993,\"poster_path\":\"\/oP1DULm3ilxUqfItKzjva5QMC7a.jpg\",\"production_companies\":[{\"id\":74665,\"logo_path\":null,\"name\":\"Hydra Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"}],\"release_date\":\"2015-11-05\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Soldier of the Underworld\",\"title\":\"Daemonium: Soldier of the Underworld\",\"video\":false,\"vote_average\":4.3,\"vote_count\":15}"
+}

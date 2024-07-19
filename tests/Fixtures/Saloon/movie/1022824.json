@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1222",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4183",
+        "x-memc": "HIT",
+        "x-memc-key": "269e68a95d0827a1389729a1203edf3b",
+        "x-memc-age": "22538",
+        "x-memc-expires": "4183",
+        "ETag": "W\/\"0cc4d0bcfc87ad8f1d4c4afa87ae4ee4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6294154c5c81832cf7b9d6614919fbec.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5ebFS7OdGZADS9E0s3lgSOq_NHqKBGTfCoIwdGB_UIoefV33LoioYQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wz8kgQDBRlVaW3t5y7HRSJ9h5yB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1022824,\"imdb_id\":\"tt21819258\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Bonus Track\",\"overview\":\"George, a 16-year-old who believes he is a future star musician, can't believe his luck when the son of a famous duo takes an interest in his music. This new arrival helps him rehearse for a talent show and leads both boys to learn from each other and grow closer.\",\"popularity\":12.261,\"poster_path\":\"\/7ae4SOYdZo1aXsfUwwhho1bSRE9.jpg\",\"production_companies\":[{\"id\":88645,\"logo_path\":\"\/tvN8hY2RKdiFepU7jJ51JDVq5bV.png\",\"name\":\"Erebus Pictures\",\"origin_country\":\"GB\"},{\"id\":141444,\"logo_path\":null,\"name\":\"Lunapark Pictures\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2023-10-05\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bonus Track\",\"video\":false,\"vote_average\":5.8,\"vote_count\":5}"
+}

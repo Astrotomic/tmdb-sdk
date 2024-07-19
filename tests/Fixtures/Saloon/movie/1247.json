@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1987",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16381",
+        "x-memc": "HIT",
+        "x-memc-key": "1c803fb18f277b706a486c9f64a388e4",
+        "x-memc-age": "7658",
+        "x-memc-expires": "16381",
+        "ETag": "W\/\"551bd936407d3272592f6b16b46e256c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BkQzFTwDJbhWCENvTU5HlEodrAHghikCgHAhRZlIOFs1DUv37ofkJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xHsZnvPFTyEa5X4RyWCdyM6iVQg.jpg\",\"belongs_to_collection\":null,\"budget\":85000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"http:\/\/www.thegoodshepherdmovie.com\/\",\"id\":1247,\"imdb_id\":\"tt0343737\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Good Shepherd\",\"overview\":\"Edward Wilson, the only witness to his father's suicide and member of the Skull and Bones Society while a student at Yale, is a morally upright young man who values honor and discretion, qualities that help him to be recruited for a career in the newly founded OSS. His dedication to his work does not come without a price though, leading him to sacrifice his ideals and eventually his family.\",\"popularity\":28.658,\"poster_path\":\"\/ruyJwuDdxFJB0Tvumm1DKPRlC2p.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"},{\"id\":11391,\"logo_path\":\"\/t6m0uRTzaFHCsvEpikENE0PWJGb.png\",\"name\":\"Tribeca Productions\",\"origin_country\":\"US\"},{\"id\":70,\"logo_path\":\"\/ueaENQkPcy8rlr5fGZVBXKOhlBh.png\",\"name\":\"American Zoetrope\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-12-11\",\"revenue\":100266865,\"runtime\":167,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Lingala\",\"iso_639_1\":\"ln\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Edward Wilson believed in America, and he would sacrifice everything he loved to protect it.\",\"title\":\"The Good Shepherd\",\"video\":false,\"vote_average\":6.336,\"vote_count\":1113}"
+}

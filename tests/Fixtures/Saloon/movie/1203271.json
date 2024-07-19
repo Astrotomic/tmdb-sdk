@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "859",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3092",
+        "x-memc": "HIT",
+        "x-memc-key": "fdd98f7ed57b61953022341972101e16",
+        "x-memc-age": "20339",
+        "x-memc-expires": "3092",
+        "ETag": "W\/\"6bc6c8530cd2838816e2e6c2348c76b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DdImgeZRieSnFVnI35qGrsH2GauCRsvNcbOcGeVu7x0I2DLU_GucJg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/24W8SaWuAsviBGt054DZO1laUA2.jpg\",\"belongs_to_collection\":null,\"budget\":1300,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1203271,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"All That Remains\",\"overview\":\"After a crash, a group of soldiers are stranded on an unknown planet, fighting for survival while unraveling the mystery of why they were brought here.\",\"popularity\":0.983,\"poster_path\":\"\/oKf8RaGXyYBBLfanTi1uewmtCq9.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-11\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"All That Remains\",\"video\":false,\"vote_average\":9.0,\"vote_count\":1}"
+}

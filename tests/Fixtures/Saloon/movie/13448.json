@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1923",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:31:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15134",
+        "x-memc": "HIT",
+        "x-memc-key": "4ba789df4475a4ad15ecff5b4c9ba2ba",
+        "x-memc-age": "11088",
+        "x-memc-expires": "15134",
+        "ETag": "W\/\"701dc7990cb2d218ea16f923562fcfe7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "r5zota6NTYqu6htPU27Y3m2ZUyE0E_EP1uBKVgCSsjn383SWeI2bFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cj0VkGBTywa7WTIPPW9xgqmUVWl.jpg\",\"belongs_to_collection\":{\"id\":115776,\"name\":\"The Robert Langdon Collection\",\"poster_path\":\"\/mZDeXsVhBxnWD3tGOQ69vKS3WYL.jpg\",\"backdrop_path\":\"\/j1IqpLhCypllamjKe6C2RstjfEQ.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"http:\/\/www.angelsanddemons.com\/\",\"id\":13448,\"imdb_id\":\"tt0808151\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Angels & Demons\",\"overview\":\"Harvard symbologist Robert Langdon is recruited by the Vatican to investigate the apparent return of the Illuminati - a secret, underground organization - after four cardinals are kidnapped on the night of the papal conclave.\",\"popularity\":68.541,\"poster_path\":\"\/hrvNVd0GDeytbDhduWa3SFKmg4A.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"},{\"id\":8253,\"logo_path\":null,\"name\":\"Skylark Productions\",\"origin_country\":\"\"},{\"id\":109547,\"logo_path\":null,\"name\":\"Panorama Films\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-04-23\",\"revenue\":485900000,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"The holiest event of our time. Perfect for their return.\",\"title\":\"Angels & Demons\",\"video\":false,\"vote_average\":6.7,\"vote_count\":6648}"
+}

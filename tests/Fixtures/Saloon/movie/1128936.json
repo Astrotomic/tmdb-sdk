@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1259",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:27:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10827",
+        "x-memc": "HIT",
+        "x-memc-key": "93c2d3c95992a3eec0ae08e653292fb9",
+        "x-memc-age": "11113",
+        "x-memc-expires": "10827",
+        "ETag": "W\/\"bf54368c821b72922f697cbaf72ba77a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U9YIGn8Jbf8XFOrVNRuSRtSDPl2nFqWt_YksVqFlADNoAGSn7Yd-yA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/26HKF0JVYWp6kUIW1sMnYryuYtq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1128936,\"imdb_id\":\"tt29545351\",\"origin_country\":[\"ID\"],\"original_language\":\"id\",\"original_title\":\"Kereta Berdarah\",\"overview\":\"Purnama invited his sister to go on holiday to the Sangkara resort. To get to the resort, they have to take a special train there. During the train trip, his sister discovered many strange things. All hell breaks loose when someone gets possessed on the train and massacres one of the carriages. Then every time the train enters the tunnel, one car disappears!\",\"popularity\":76.247,\"poster_path\":\"\/1QFo8xVaWfub5fBEoiJDftNaqrw.jpg\",\"production_companies\":[{\"id\":16614,\"logo_path\":\"\/1tubNNggNsJ3xNtNigXfEwWgrEa.png\",\"name\":\"MVP Pictures\",\"origin_country\":\"ID\"}],\"production_countries\":[{\"iso_3166_1\":\"ID\",\"name\":\"Indonesia\"}],\"release_date\":\"2024-02-01\",\"revenue\":28741,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Indonesian\",\"iso_639_1\":\"id\",\"name\":\"Bahasa indonesia\"}],\"status\":\"Released\",\"tagline\":\"Setiap Kereta Ini Masuk Terowongan Satu Gerbong Hilang\",\"title\":\"The Train of Death\",\"video\":true,\"vote_average\":3.955,\"vote_count\":11}"
+}

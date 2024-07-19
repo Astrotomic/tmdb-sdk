@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "712",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14181",
+        "x-memc": "HIT",
+        "x-memc-key": "ee76ac8106fbe038ea3b7ee217f4c7c7",
+        "x-memc-age": "11301",
+        "x-memc-expires": "14181",
+        "ETag": "W\/\"ad32709f5d3f02ccd01b19b3b4b7bdb6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Tmmk4tM3VM9k68fhtSW6jhUGtOVpRfxz972zzPLOraMGDKsQwyhKIg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.farbfilm-verleih.de\/filme\/underdogs.html\",\"id\":10904,\"imdb_id\":\"tt1130898\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Underdogs\",\"overview\":\"\",\"popularity\":2.715,\"poster_path\":\"\/3Za1e9P82ut1UTSo3UjbySBjvRS.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2008-07-24\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Underdogs\",\"video\":false,\"vote_average\":6.8,\"vote_count\":4}"
+}

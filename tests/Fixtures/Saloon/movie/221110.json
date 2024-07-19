@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1094",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10534",
+        "x-memc": "HIT",
+        "x-memc-key": "b6444c98c8e1246c4c34aec7a9834f44",
+        "x-memc-age": "16486",
+        "x-memc-expires": "10534",
+        "ETag": "W\/\"a4230c85577dc7b1eb5e533d5541bb84\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-C3ZHdFYPgTs8cUqswISltSxb9kW07l19DXORK18VFyBZo7pWpk5hQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pR8oekLmk6ar3wF4vyJJwWg4JUE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":221110,\"imdb_id\":\"tt2935800\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kathleen Madigan: Madigan Again\",\"overview\":\"Kathleen Madigan drops in on Detroit to deliver material derived from time spent with her Irish Catholic Midwest family, eating random pills out of her mother's purse, touring Afghanistan, and her love of John Denver and the Lunesta butterfly.\",\"popularity\":9.041,\"poster_path\":\"\/qZvuMcFIXtrAxqkcgF3JjQGXk1B.jpg\",\"production_companies\":[{\"id\":2953,\"logo_path\":\"\/yktBfQDFq75HtbHjhRkwj1nsZX7.png\",\"name\":\"New Wave Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-09-11\",\"revenue\":0,\"runtime\":64,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kathleen Madigan: Madigan Again\",\"video\":false,\"vote_average\":7.559,\"vote_count\":93}"
+}

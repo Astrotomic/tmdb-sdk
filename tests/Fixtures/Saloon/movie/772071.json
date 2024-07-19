@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1164",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6653",
+        "x-memc": "HIT",
+        "x-memc-key": "0c40932d3d16e1f3c5586cfb92ae5898",
+        "x-memc-age": "17563",
+        "x-memc-expires": "6653",
+        "ETag": "W\/\"f01f9c56437c5890c7dcb8e43d671b92\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bBkdg-8fktax58g1O3pg7JAEDEJkKx59ltA926Ge8K1OCNPuVbPHDQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ejnlCzBd5pOGAYCpxC93NXSrdrz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":772071,\"imdb_id\":\"tt12076762\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Cuando sea joven\",\"overview\":\"70-year-old Malena gets a second chance at life when she magically turns into her 22-year-old self. Now, posing as \\\"Maria\\\" to hide her true identity, she becomes the lead singer of her grandson's band and tries to recover her dream of singing, which she had to give up at some point.\",\"popularity\":12.052,\"poster_path\":\"\/6gIJuFHh5Lj4dNaPG3TzIMl7L68.jpg\",\"production_companies\":[{\"id\":7570,\"logo_path\":\"\/gW8dfVtl1JsGIiLnvglea1OHHVr.png\",\"name\":\"Videocine\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-14\",\"revenue\":587339,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cuando sea joven\",\"video\":false,\"vote_average\":8.4,\"vote_count\":267}"
+}

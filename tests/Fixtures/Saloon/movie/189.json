@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1669",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1079",
+        "x-memc": "HIT",
+        "x-memc-key": "d8a92c7105b96c2aeaaa0db328a4b0a6",
+        "x-memc-age": "22043",
+        "x-memc-expires": "1079",
+        "ETag": "W\/\"5141634c6f8593ed43bf28ee50bd03d8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J51ImaZrbZZI7L50cvhzjZWgrIx-_7NSPPXWZG9-8Bb8Z229rUkJLA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/f4KiaxSD5B8bcg5VLsvrDhaZlFu.jpg\",\"belongs_to_collection\":{\"id\":135179,\"name\":\"Sin City Collection\",\"poster_path\":\"\/8LZQY73htfMWyK0s2AGLwYlAVkA.jpg\",\"backdrop_path\":\"\/nrn5Uogru1UPhnGZdc0g5Kvkyni.jpg\"},\"budget\":65000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/sincity-2.com\/\",\"id\":189,\"imdb_id\":\"tt0458481\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sin City: A Dame to Kill For\",\"overview\":\"Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.\",\"popularity\":59.833,\"poster_path\":\"\/90LRjhJ5N4zavCB81L5d4TYstRP.jpg\",\"production_companies\":[{\"id\":41658,\"logo_path\":null,\"name\":\"Residaco\",\"origin_country\":\"\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":10807,\"logo_path\":\"\/j0BcMaJKIiDDYHq9lriTcM0Npka.png\",\"name\":\"Troublemaker Studios\",\"origin_country\":\"US\"},{\"id\":11006,\"logo_path\":null,\"name\":\"Aldamisa Entertainment\",\"origin_country\":\"US\"},{\"id\":13241,\"logo_path\":null,\"name\":\"Demarest Films\",\"origin_country\":\"US\"},{\"id\":29076,\"logo_path\":null,\"name\":\"Solipsist Film\",\"origin_country\":\"\"},{\"id\":11005,\"logo_path\":null,\"name\":\"AR Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-08-20\",\"revenue\":39400000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There is no justice without sin.\",\"title\":\"Sin City: A Dame to Kill For\",\"video\":false,\"vote_average\":6.378,\"vote_count\":3716}"
+}

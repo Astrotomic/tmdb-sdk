@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1073",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6526",
+        "x-memc": "HIT",
+        "x-memc-key": "b4393882648d2300bf822680e962f3ed",
+        "x-memc-age": "21368",
+        "x-memc-expires": "6526",
+        "ETag": "W\/\"a379a247a2d63fd21dbf60cbc99b5bcf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tRa52DfG4gTR1XnIQReMbOAHmcZKaD2_6iCZUdEvAlSStiOnn1NkaQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aCmPq5vi3awS2Xnlm75Xtrs6oj0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":333381,\"imdb_id\":\"tt2948790\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Return to Sender\",\"overview\":\"A nurse living in a small town goes on a blind date with a man who is not the person he says he is.\",\"popularity\":18.742,\"poster_path\":\"\/idXlni6MEieEvRaDHxSPyeqP5pS.jpg\",\"production_companies\":[{\"id\":54268,\"logo_path\":\"\/Pvi7supNmOjgH2dqnKPTsmKsSL.png\",\"name\":\"Boo Pictures\",\"origin_country\":\"US\"},{\"id\":6626,\"logo_path\":\"\/A1BnMoWjzjOrjzpWimyBQkf84mS.png\",\"name\":\"Voltage Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-05-31\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She will have her revenge.\",\"title\":\"Return to Sender\",\"video\":false,\"vote_average\":6.144,\"vote_count\":1169}"
+}

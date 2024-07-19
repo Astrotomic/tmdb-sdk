@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1998",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9172",
+        "x-memc": "HIT",
+        "x-memc-key": "76b96fe51c9c9494cfb5505f830662b0",
+        "x-memc-age": "14711",
+        "x-memc-expires": "9172",
+        "ETag": "W\/\"71e9a5411986c43530a8b93a424c4e93\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1_xnCrKKkxDjNN118_6KhMLEmM4yO9fMoyXTpuFW5Dv9pEQy12FFtg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tuxPwQUg14iwoKBz58KRwqG8vU9.jpg\",\"belongs_to_collection\":{\"id\":203910,\"name\":\"Pusher Collection\",\"poster_path\":\"\/9pM6Rr8WsVqAzTxYswPTNoICNno.jpg\",\"backdrop_path\":\"\/aNQuRUYTz8CT9HxlNLj4oJ9ctut.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":11330,\"imdb_id\":\"tt0425379\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Pusher 3\",\"overview\":\"Milo is aging, he is planning his daughter's 25th birthday, and his shipment of heroin turns out to be 10,000 pills of ecstasy. When Milo tries to sell the pills anyway, all Hell breaks loose and his only chance is to ask for help from his ex-henchman and old friend Radovan.\",\"popularity\":26.131,\"poster_path\":\"\/8E2LGgDRI8N6P3u0ng10cXfyLPu.jpg\",\"production_companies\":[{\"id\":12413,\"logo_path\":null,\"name\":\"NWR Film Productions\",\"origin_country\":\"\"},{\"id\":235,\"logo_path\":\"\/obOynoztBEhDNfHsDXBqOuQLAZk.png\",\"name\":\"Nordisk Film Denmark\",\"origin_country\":\"DK\"},{\"id\":118,\"logo_path\":\"\/AiBorgNTCS1lT1FdFPYheax9jfF.png\",\"name\":\"Det Danske Filminstitut\",\"origin_country\":\"DK\"},{\"id\":758,\"logo_path\":\"\/fft3jrctrZNcgAxgN1w5Givtzip.png\",\"name\":\"TV 2\",\"origin_country\":\"DK\"},{\"id\":201248,\"logo_path\":null,\"name\":\"Pusher III Ltd.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"2005-08-22\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Albanian\",\"iso_639_1\":\"sq\",\"name\":\"shqip\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"},{\"english_name\":\"Macedonian\",\"iso_639_1\":\"mk\",\"name\":\"\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Serbian\",\"iso_639_1\":\"sr\",\"name\":\"Srpski\"}],\"status\":\"Released\",\"tagline\":\"I'm the angel of death.\",\"title\":\"Pusher 3\",\"video\":false,\"vote_average\":7.176,\"vote_count\":346}"
+}

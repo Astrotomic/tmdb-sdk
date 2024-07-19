@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1524",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20162",
+        "x-memc": "HIT",
+        "x-memc-key": "2441c3aa319fd05d792f3a3376107d85",
+        "x-memc-age": "2042",
+        "x-memc-expires": "20162",
+        "ETag": "W\/\"54bee50f8ebf668395c0489cff23bfa5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uiApC6oujydJ5uazmRTd-cj-XUGxNrEfgg8R4SUUz1FyRPYKtBaYAg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/udSev1YWgZv7KhaTV8HXnyNcFkD.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/movies.disney.com\/the-parent-trap-1998\",\"id\":9820,\"imdb_id\":\"tt0120783\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Parent Trap\",\"overview\":\"Hallie Parker and Annie James are identical twins separated at a young age because of their parents' divorce. Unknowingly to their parents, the girls are sent to the same summer camp where they meet, discover the truth about themselves, and then plot with each other to switch places.\",\"popularity\":85.433,\"poster_path\":\"\/a3XOGrrAjl1wwiumtACWBufg6AL.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":8795,\"logo_path\":null,\"name\":\"The Meyers\/Shyer Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-07-28\",\"revenue\":92108518,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Twice the Fun, Double the Trouble.\",\"title\":\"The Parent Trap\",\"video\":false,\"vote_average\":7.186,\"vote_count\":4036}"
+}

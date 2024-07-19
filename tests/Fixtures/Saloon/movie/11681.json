@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1494",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25817",
+        "x-memc": "HIT",
+        "x-memc-key": "0aa8ed32f7e9153c062fadbedd004bdb",
+        "x-memc-age": "239",
+        "x-memc-expires": "25817",
+        "ETag": "W\/\"0c180cb38f36827521967b0347a47468\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5mayp8otti__ycrRKs4wUr7F13H5c682f2NQV8Bp1pgA1Bq7_mCJww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/etPuMhVxtOEMduWkLbgwNYCynda.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11681,\"imdb_id\":\"tt0072012\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Porgi l'altra guancia\",\"overview\":\"Two missionaries (Bud Spencer and Terence Hill) come into conflict with the authorities when they turn their missionary into a parrot farm. The Bishop of Maracaibo calls them his 'black sheep' and the Monsignore has been called to check on their behavior. Like usual, our heroes help the poor to defend themselves and provoke some funny fist fights in the process. (from Wikipedia)\",\"popularity\":15.063,\"poster_path\":\"\/v0Tp0mseXNrxWjGKLyI2Pm5hb1u.jpg\",\"production_companies\":[{\"id\":1216,\"logo_path\":null,\"name\":\"DDL Cinematografica\",\"origin_country\":\"IT\"},{\"id\":1497,\"logo_path\":null,\"name\":\"Marianne Productions\",\"origin_country\":\"FR\"},{\"id\":80646,\"logo_path\":null,\"name\":\"Produzione Cinematografiche Inter.Ma.Co.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1974-12-21\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Two Missionaries\",\"video\":false,\"vote_average\":6.508,\"vote_count\":251}"
+}

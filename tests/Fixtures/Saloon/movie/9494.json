@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1579",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4970",
+        "x-memc": "HIT",
+        "x-memc-key": "ba4d639849c9b3c6cdf1b1162ca7a627",
+        "x-memc-age": "17126",
+        "x-memc-expires": "4970",
+        "ETag": "W\/\"2aff7010a7fff1be1ae5c6220895b958\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tZzliG50MJTV7hkTlKAAlJcwoUHOZIwBTDB9Ks1gpPNE-uZ6Wqke5Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7arej0TuOcjLzQzNBsTQ4lj0v8J.jpg\",\"belongs_to_collection\":{\"id\":9521,\"name\":\"Look Who's Talking Collection\",\"poster_path\":\"\/d0cjdBqxkzo9x23kVKj9Nx7wm1M.jpg\",\"backdrop_path\":\"\/2jEwMXBICqARNmhFFFDu1IvmJCK.jpg\"},\"budget\":7500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":9494,\"imdb_id\":\"tt0097778\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Look Who's Talking\",\"overview\":\"Mollie is a single working mother who's out to find the perfect father for her child. Her baby, Mikey, prefers James, a cab driver turned babysitter who has what it takes to make them both happy. But Mollie won't even consider James. It's going to take all the tricks a baby can think of to bring them together before it's too late.\",\"popularity\":22.013,\"poster_path\":\"\/uVM0D7Q6U9H6xMSZmMdfwECih5h.jpg\",\"production_companies\":[{\"id\":8821,\"logo_path\":null,\"name\":\"Management Company Entertainment Group (MCEG)\",\"origin_country\":\"\"},{\"id\":116419,\"logo_path\":null,\"name\":\"Hollywood Licensing Group\",\"origin_country\":\"\"},{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-10-12\",\"revenue\":297000000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's hip, he's cool, and he's only 3 months old.\",\"title\":\"Look Who's Talking\",\"video\":false,\"vote_average\":6.275,\"vote_count\":2239}"
+}

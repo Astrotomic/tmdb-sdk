@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "534",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1550",
+        "x-memc": "HIT",
+        "x-memc-key": "1b57ded61ce658c58b8080f658471df4",
+        "x-memc-age": "25190",
+        "x-memc-expires": "1550",
+        "ETag": "W\/\"a37c029cfe3d8e13b4403a8c117d3123\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MqY0PlGOY-bZEkm5-cWSH6loMznNiMgBWvC6gs_vGJ9HqyvoxWKm2Q=="
+    },
+    "data": "{\"id\":856597,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3182326,\"known_for_department\":\"Directing\",\"name\":\"Derek Loftis\",\"original_name\":\"Derek Loftis\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"610632357ad08c0045524e2f\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3182327,\"known_for_department\":\"Production\",\"name\":\"Margot Fleming\",\"original_name\":\"Margot Fleming\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"610632587d5f4b005e8a75eb\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

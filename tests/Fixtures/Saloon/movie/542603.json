@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1034",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18495",
+        "x-memc": "HIT",
+        "x-memc-key": "efe21d17196c8b01c6dcb6ee1f71de39",
+        "x-memc-age": "4129",
+        "x-memc-expires": "18495",
+        "ETag": "W\/\"fb6677e639f2619b0a1592e659a91bb7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i6d51PVbGz2f82-89iNkPYLltM_6zwHQtqgRyglkNDBz5ky4YZMckw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/chn0JhLycTL4iklMn8kZYZ6gkxo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/vimeo.com\/258354365\",\"id\":542603,\"imdb_id\":\"tt6760518\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Minutes\",\"overview\":\"In this comedy series, shot in single takes, six young people each experience pivotal moments in their lives that don't quite go as planned and lead to various breaking points as a result.\",\"popularity\":2.487,\"poster_path\":\"\/3MzlpJR8GlqMxeCIxvvXB7HIqYl.jpg\",\"production_companies\":[{\"id\":46453,\"logo_path\":\"\/pftS6dWlYOqNKRHektMx3UiwOgS.png\",\"name\":\"Vanishing Angle\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-01-15\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Minutes\",\"video\":false,\"vote_average\":6.1,\"vote_count\":7}"
+}

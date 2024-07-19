@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1034",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5723",
+        "x-memc": "HIT",
+        "x-memc-key": "1c7d2da939e516eee2474166d7955292",
+        "x-memc-age": "16586",
+        "x-memc-expires": "5723",
+        "ETag": "W\/\"4b794e93ec5dd80b9ce3f59354ef26ff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ekslGvMUE3EbL5iIsQNoM9LgwQPt5UjQ5pV4J5tZIt_9O1917E553Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/do6MUBALcUfeukMnzbRdPhnTHaY.jpg\",\"belongs_to_collection\":null,\"budget\":200,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":1029870,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The iEagle Movie\",\"overview\":\"Following the events of the iEagle show, the gang reunites once again after a mysterious wizard known as Elder Yomy plans to do evil with the sacred dimensional-traveling artifact, The Trophy.\",\"popularity\":4.914,\"poster_path\":\"\/wGEdZfyY4e0WyVXN9by25Y7l1Ak.jpg\",\"production_companies\":[{\"id\":183253,\"logo_path\":null,\"name\":\"iEagle Webshow Studios\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2023-12-22\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's literally beak fiction.\",\"title\":\"The iEagle Movie\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

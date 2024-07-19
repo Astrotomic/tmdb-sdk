@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1615",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16166",
+        "x-memc": "HIT",
+        "x-memc-key": "31a5b438f7f0229076d186a01e93ac8d",
+        "x-memc-age": "9780",
+        "x-memc-expires": "16166",
+        "ETag": "W\/\"7f0c2735a1305ea56a0ee92d198055e6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m0cg1Rsq03yZPIjK5y7RIZ1Q5DksvMSXDmI9lJ-VIvu38CCcFyRnRA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qyOO0dgss0oeUYFPWbbdALDgOSm.jpg\",\"belongs_to_collection\":null,\"budget\":137000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":2114,\"imdb_id\":\"tt0173840\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Final Fantasy: The Spirits Within\",\"overview\":\"Led by a strange dream, scientist Aki Ross struggles to collect the eight spirits in the hope of creating a force powerful enough to protect the planet. With the aid of the Deep Eyes Squadron and her mentor, Dr. Sid, Aki must save the Earth from its darkest hate and unleash the spirits within.\",\"popularity\":22.516,\"poster_path\":\"\/47b1EwFqqSWxYna7NtUM7iML4oT.jpg\",\"production_companies\":[{\"id\":20033,\"logo_path\":null,\"name\":\"Chris Lee Productions\",\"origin_country\":\"\"},{\"id\":96629,\"logo_path\":null,\"name\":\"Square Pictures\",\"origin_country\":\"\"},{\"id\":4164,\"logo_path\":null,\"name\":\"Square USA\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-07-02\",\"revenue\":85131830,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Unleash a new reality\",\"title\":\"Final Fantasy: The Spirits Within\",\"video\":false,\"vote_average\":6.2,\"vote_count\":1421}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1149",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16661",
+        "x-memc": "HIT",
+        "x-memc-key": "5fe3c9197e3697e3ee44fe665c68ed7c",
+        "x-memc-age": "7386",
+        "x-memc-expires": "16661",
+        "ETag": "W\/\"b77001339d0e526eb6af545751cf86ea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0vU4Uh6ltEL_lMjkdGbRteyud4QSuM3M86NIlYUcZ1iNvCGWFalX1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1qG8TfiE5mCMdaqrFioaGmhBrpY.jpg\",\"belongs_to_collection\":null,\"budget\":417000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11549,\"imdb_id\":\"tt0049366\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Invasion of the Body Snatchers\",\"overview\":\"A small-town doctor learns that the population of his community is being replaced by emotionless alien duplicates.\",\"popularity\":22.341,\"poster_path\":\"\/8BrMQmgwGzIHSyBjCDOLOdi79fJ.jpg\",\"production_companies\":[{\"id\":4928,\"logo_path\":null,\"name\":\"Allied Artists Pictures\",\"origin_country\":\"US\"},{\"id\":10096,\"logo_path\":null,\"name\":\"Walter Wanger Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1956-02-05\",\"revenue\":3000000,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There was nothing to hold onto - except each other.\",\"title\":\"Invasion of the Body Snatchers\",\"video\":false,\"vote_average\":7.468,\"vote_count\":1031}"
+}

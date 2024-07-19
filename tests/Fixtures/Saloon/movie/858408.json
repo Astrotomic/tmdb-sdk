@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1140",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16106",
+        "x-memc": "HIT",
+        "x-memc-key": "57f65816fe7b639c8bc7f6fdaefb60af",
+        "x-memc-age": "8935",
+        "x-memc-expires": "16106",
+        "ETag": "W\/\"b9f925a00ee59e61675ac8e05f0be94b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-nZJlqqg823T6Sa8GQ-iKR9gYW8yqvpzQXnLdURlRfLsvcdOo81nPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/npmipIjK7EJ2sFA7oX01Wulde3q.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81155175\",\"id\":858408,\"imdb_id\":\"tt15334430\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dog Gone\",\"overview\":\"When his beloved dog goes missing, a young man embarks on an incredible search with his parents to find him and give him life-saving medication.\",\"popularity\":11.884,\"poster_path\":\"\/eYWdLZCS9W1Xli9bynzFSddLx02.jpg\",\"production_companies\":[{\"id\":161410,\"logo_path\":null,\"name\":\"Blackjack Films\",\"origin_country\":\"US\"},{\"id\":88548,\"logo_path\":null,\"name\":\"Story Ink\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-01-12\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"To find what's lost, a father and son will do the impossible.\",\"title\":\"Dog Gone\",\"video\":false,\"vote_average\":6.2,\"vote_count\":164}"
+}

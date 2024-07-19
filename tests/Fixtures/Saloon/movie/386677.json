@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1002",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12948",
+        "x-memc": "HIT",
+        "x-memc-key": "042460fb02ca9f3209a0016225c4c481",
+        "x-memc-age": "14309",
+        "x-memc-expires": "12948",
+        "ETag": "W\/\"0410a368d8f52227eb1ff3ae0bd62467\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YCehbKMBzfHIV-yPpAcuZnVnOt_98ciL67JrCTi0YCtQEVL53KMstQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":386677,\"imdb_id\":\"tt0225445\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"The Cruise\",\"overview\":\"The dance floor of a cruise ship. As each passenger is chosen, they choose a song on the jukebox and dance to it. But one passenger, playing a joke on another, selects a different song first. He keeps choosing that song, and eventually fills the jukebox with coins. It plays the same song over and over, and everyone is compelled to dance with the ship itself getting sick, while the man who was the brunt of the joke escapes in a rowboat.\",\"popularity\":1.503,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"1966-01-01\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Cruise\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

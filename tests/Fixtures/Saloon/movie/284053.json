@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1363",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1023",
+        "x-memc": "HIT",
+        "x-memc-key": "84196600d4552fae10fc25e0f5772238",
+        "x-memc-age": "21248",
+        "x-memc-expires": "1023",
+        "ETag": "W\/\"048a716af04824eb8fe53c475f6dabb1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RHzw2-D0FpUQ50rEx41qbsyghM0ja3_aBN_aD8o3Mn7pFvXjp-QEVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kaIfm5ryEOwYg8mLbq8HkPuM1Fo.jpg\",\"belongs_to_collection\":{\"id\":131296,\"name\":\"Thor Collection\",\"poster_path\":\"\/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg\",\"backdrop_path\":\"\/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg\"},\"budget\":180000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/marvel.com\/movies\/movie\/222\/thor_ragnarok\",\"id\":284053,\"imdb_id\":\"tt3501632\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Thor: Ragnarok\",\"overview\":\"Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his home-world and the end of Asgardian civilization, at the hands of a powerful new threat, the ruthless Hela.\",\"popularity\":97.813,\"poster_path\":\"\/rzRwTcFvttcN1ZpX2xv4j3tSdJu.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-10-02\",\"revenue\":855301806,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"No hammer. No problem.\",\"title\":\"Thor: Ragnarok\",\"video\":false,\"vote_average\":7.593,\"vote_count\":20390}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1831",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13214",
+        "x-memc": "HIT",
+        "x-memc-key": "a5e92135a3dafd2a096fb1ec84587af3",
+        "x-memc-age": "8788",
+        "x-memc-expires": "13214",
+        "ETag": "W\/\"c48e4171e86799e843a74a8fadce523a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K3LrxR8Z1KcwUfQwz7bOcp2VVKnaepXUD2c9I-fV9lZcA-bZh2jcfQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vjsFyeCf5W5rxCFpS9MIAEZJkIG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1600,\"imdb_id\":\"tt0101765\",\"origin_country\":[\"FR\",\"NO\",\"PL\"],\"original_language\":\"fr\",\"original_title\":\"La Double Vie de V\u00e9ronique\",\"overview\":\"V\u00e9ronique is a beautiful young French woman who aspires to be a renowned singer; Weronika lives in Poland, has a similar career goal and looks identical to V\u00e9ronique, though the two are not related. The film follows both women as they contend with the ups and downs of their individual lives, with V\u00e9ronique embarking on an unusual romance with Alexandre Fabbri, a puppeteer who may be able to help her with her existential issues.\",\"popularity\":22.816,\"poster_path\":\"\/oqRyO9xrNBRaxqF9pCHHgLuaATx.jpg\",\"production_companies\":[{\"id\":63751,\"logo_path\":null,\"name\":\"Sid\u00e9ral Productions\",\"origin_country\":\"\"},{\"id\":12984,\"logo_path\":null,\"name\":\"Norsk Film\",\"origin_country\":\"NO\"},{\"id\":38,\"logo_path\":\"\/oZyTaSTMP9LMB6BTzPDv3q4oyMj.png\",\"name\":\"Studio Filmowe Tor\",\"origin_country\":\"PL\"},{\"id\":183,\"logo_path\":\"\/o5mj8CVyU7GhmYg8La21Nkop67R.png\",\"name\":\"Le Studio Canal+\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"NO\",\"name\":\"Norway\"},{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"1991-05-15\",\"revenue\":1999955,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"Each of us is matched somewhere in the world, by our exact double - someone who shares our thoughts and dreams.\",\"title\":\"The Double Life of V\u00e9ronique\",\"video\":false,\"vote_average\":7.5,\"vote_count\":751}"
+}

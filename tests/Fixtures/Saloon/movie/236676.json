@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "699",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14651",
+        "x-memc": "HIT",
+        "x-memc-key": "7e79804d0cf47b1fd9afbe6af919b743",
+        "x-memc-age": "8093",
+        "x-memc-expires": "14651",
+        "ETag": "W\/\"b6b7172691e01dabdf53e605e243ab78\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kG8qtb3l6MLwtoTQ793UoEWjdIqU_Fue50LjoJMLdnPA0hTLt1Wb6w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":236676,\"imdb_id\":\"tt0442441\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"O Rei da Pilantragem\",\"overview\":\"\",\"popularity\":2.954,\"poster_path\":\"\/eddgVNm1S0QgPUsT2ghy7joxCtB.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"1968-01-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"O Rei da Pilantragem\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1088",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18529",
+        "x-memc": "HIT",
+        "x-memc-key": "d18c91dbe361692f0daf037207b4f8be",
+        "x-memc-age": "5421",
+        "x-memc-expires": "18529",
+        "ETag": "W\/\"75d8191495f64d63cfacdddefd8d9e3e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kB9rwd8rC7GnbW3Tsd9UFOb0Fx9VOlipweWh544HeGIXDQiWf7uDeg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9gojytmvDsutfeDX9J3AECHHMHs.jpg\",\"belongs_to_collection\":{\"id\":2150,\"name\":\"Shrek Collection\",\"poster_path\":\"\/m3IA3X59cEup41xs4DJLptlfsza.jpg\",\"backdrop_path\":\"\/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":421892,\"imdb_id\":\"tt6113186\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shrek 5\",\"overview\":\"The next film in the Shrek franchise. Plot TBA.\",\"popularity\":121.67,\"poster_path\":\"\/8XwmMjwiQ91Rm0eU4AcxyFA3XUZ.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2026-07-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"The All-Star returns.\",\"title\":\"Shrek 5\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

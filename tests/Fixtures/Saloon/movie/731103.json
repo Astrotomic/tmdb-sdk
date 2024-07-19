@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "918",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19091",
+        "x-memc": "HIT",
+        "x-memc-key": "b00098356ace7c9b4fb65c2e8e941e61",
+        "x-memc-age": "3948",
+        "x-memc-expires": "19091",
+        "ETag": "W\/\"9f60b20f233260aaedcd91360e8e4749\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rp8RXOLrb-ml68j73ZClCFsruAHXOHyqeRkAlZgp_eAyX1ZNtqOHrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":731103,\"imdb_id\":\"tt2124549\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Resident Evil: First Hour\",\"overview\":\"Leon Kennedy and two other police officers find themselves trapped on a farm outside Raccoon City, fighting for their lives against an undead horde.\",\"popularity\":4.354,\"poster_path\":\"\/ti1Knrv1SfpuUG3wH2PTtNg29a9.jpg\",\"production_companies\":[{\"id\":138330,\"logo_path\":null,\"name\":\"Cosmic Mutt Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2011-11-29\",\"revenue\":0,\"runtime\":18,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Resident Evil: First Hour\",\"video\":false,\"vote_average\":5.75,\"vote_count\":8}"
+}

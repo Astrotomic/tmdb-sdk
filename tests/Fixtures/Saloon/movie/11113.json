@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1073",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3449",
+        "x-memc": "HIT",
+        "x-memc-key": "c39ce6de9ed1fe92d418743d89ef3d7d",
+        "x-memc-age": "20006",
+        "x-memc-expires": "3449",
+        "ETag": "W\/\"438377198bd8c1f763fab1848dc875c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NYSDzJ6-tevrMTAueuRpVVq7HY9Op1N7zEOecV2zAgkIywwGSTuNLA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xMoQjqa3JUc2unO4nF9PmM1JTQu.jpg\",\"belongs_to_collection\":null,\"budget\":17000000,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11113,\"imdb_id\":\"tt0058385\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"My Fair Lady\",\"overview\":\"A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.\",\"popularity\":30.25,\"poster_path\":\"\/bTXVc29lGSNclf94VIZ49W4gGKl.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1964-10-21\",\"revenue\":72661442,\"runtime\":170,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The loverliest motion picture of them all!\",\"title\":\"My Fair Lady\",\"video\":false,\"vote_average\":7.516,\"vote_count\":1260}"
+}

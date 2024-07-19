@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "875",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15135",
+        "x-memc": "HIT",
+        "x-memc-key": "10847471d238d28710ddbf9ef46d391a",
+        "x-memc-age": "10639",
+        "x-memc-expires": "15135",
+        "ETag": "W\/\"9e4743bce3ad4f3b72c063110a503255\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IGRu9LexckmllYasq3XprTNAaRp0h_K1kiLtiFkWzdYREyG5DsNTMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gfOUfxObnTHFpBxDFbyI1L8PPBv.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6592,\"imdb_id\":\"tt0057174\",\"origin_country\":[\"DE\",\"AT\"],\"original_language\":\"de\",\"original_title\":\"Im singenden R\u00f6ssel am K\u00f6nigssee\",\"overview\":\"\",\"popularity\":4.906,\"poster_path\":\"\/4X8Q41I3WoOVqr9aXySMW7iJjH2.jpg\",\"production_companies\":[{\"id\":2111,\"logo_path\":null,\"name\":\"Wiener Stadthalle-Station Betriebs-und Produktionsgesellschaft\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"}],\"release_date\":\"1963-10-11\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Im singenden R\u00f6ssel am K\u00f6nigssee\",\"video\":false,\"vote_average\":4.3,\"vote_count\":3}"
+}

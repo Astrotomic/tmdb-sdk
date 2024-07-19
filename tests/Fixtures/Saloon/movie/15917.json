@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1178",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:13:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22322",
+        "x-memc": "HIT",
+        "x-memc-key": "7c21e83ff62ea75b387c943cede0bd0a",
+        "x-memc-age": "1796",
+        "x-memc-expires": "22322",
+        "ETag": "W\/\"c27e5bdba9809f1effd30bca663f9c84\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5AUQlgHnIu8OzM2JPKrJ_QCJX3QYNgBjmtpoZtWdTp-50LjItD3ogg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iYawbkoQmHCdnyR5bVB9XBQS90j.jpg\",\"belongs_to_collection\":null,\"budget\":6663555,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/erosnow.com\/movie\/watch\/1000162\/devdas\",\"id\":15917,\"imdb_id\":\"tt0238936\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0926\u0947\u0935\u0926\u093e\u0938\",\"overview\":\"After his wealthy family prohibits him from marrying the woman he is in love with, Devdas Mukherjee's life spirals further and further out of control as he takes up alcohol and a life of vice to numb the pain.\",\"popularity\":21.136,\"poster_path\":\"\/n853Gvyy5tGz6BujE6jeuVqjXKM.jpg\",\"production_companies\":[{\"id\":5248,\"logo_path\":null,\"name\":\"V.I.P. Films\",\"origin_country\":\"\"},{\"id\":92961,\"logo_path\":null,\"name\":\"Mega Bollywood Private Limited\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2002-07-11\",\"revenue\":13311117,\"runtime\":185,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"A grand saga of timeless love.\",\"title\":\"Devdas\",\"video\":false,\"vote_average\":7.5,\"vote_count\":324}"
+}

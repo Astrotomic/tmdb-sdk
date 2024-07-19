@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1422",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8846",
+        "x-memc": "HIT",
+        "x-memc-key": "826b58631870665aad043ccf46cb4ca7",
+        "x-memc-age": "14121",
+        "x-memc-expires": "8846",
+        "ETag": "W\/\"41d31582eabcc3daeacd35d182bc7819\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "waorhOC2YKf0IzSqp7uS6E83Dqba-xzVAOYdSbzm3eu5CxC6g3_YAQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ciM5RFsBoWEj0tbwJy42Hr76iRd.jpg\",\"belongs_to_collection\":null,\"budget\":95000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":10501,\"imdb_id\":\"tt0138749\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Road to El Dorado\",\"overview\":\"After a failed swindle, two con-men end up with a map to El Dorado, the fabled \\\"city of gold,\\\" and an unintended trip to the New World.  Much to their surprise, the map does lead the pair to the mythical city, where the startled inhabitants promptly begin to worship them as gods.  The only question is, do they take the worshipful natives for all they're worth, or is there a bit more to El Dorado than riches?\",\"popularity\":51.481,\"poster_path\":\"\/yrx9uj1hnGKicNuMtiiAAo2alON.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-03-31\",\"revenue\":76400000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They came for the gold. They stayed for the adventure.\",\"title\":\"The Road to El Dorado\",\"video\":false,\"vote_average\":7.258,\"vote_count\":3642}"
+}

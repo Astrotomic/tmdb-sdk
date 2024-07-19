@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "657",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7299",
+        "x-memc": "HIT",
+        "x-memc-key": "10a81dcc2e92de36fb7e2b1728bb8015",
+        "x-memc-age": "16696",
+        "x-memc-expires": "7299",
+        "ETag": "W\/\"27027f865b0f79b4a1b96ee6fc00619f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b4HUjqvFqeiA7EdkFn5GT2SAZ8LfVc02PK7guRmkPmMqQUUNJiRj5w=="
+    },
+    "data": "{\"id\":831,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/831-this-island-earth\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/831-this-island-earth\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/6AKbY2ayaEuH4zKg2prqoVQ9iaY.jpg\",\"provider_id\":130,\"provider_name\":\"Sky Store\",\"display_priority\":16}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/831-this-island-earth\/watch?locale=IE\",\"buy\":[{\"logo_path\":\"\/6AKbY2ayaEuH4zKg2prqoVQ9iaY.jpg\",\"provider_id\":130,\"provider_name\":\"Sky Store\",\"display_priority\":9}]}}}"
+}

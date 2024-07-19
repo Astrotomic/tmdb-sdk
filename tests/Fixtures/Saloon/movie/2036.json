@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1325",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20997",
+        "x-memc": "HIT",
+        "x-memc-key": "db946fc496a25143adb4c3cecdd35acb",
+        "x-memc-age": "3732",
+        "x-memc-expires": "20997",
+        "ETag": "W\/\"949c603ee3f366a2cad52ff88d79409c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XlWYK2cAy880sflX2caoCU-N_kjAp4JCzfGaXP2urGCvuCe3YdU93g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2Cviczo1ADg50t97PEelSd1GpjR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":2036,\"imdb_id\":\"tt0078812\",\"origin_country\":[\"IE\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Avalanche Express\",\"overview\":\"CIA agent Harry Wargrave is sent to aid Gen. Marenkov, a senior Russian official, who is defecting to the west. Wargrave decides they should travel to safety on a train across Europe, the \\\"Atlantic Express\\\". During the journey, they must survive attacks by terrorists and an avalanche, all planned by Russian spy-catcher Nikolai Bunin.\",\"popularity\":8.034,\"poster_path\":\"\/8hOwY3dNVDeGP3g8CXpTqZ68xnR.jpg\",\"production_companies\":[{\"id\":898,\"logo_path\":\"\/pBh5kde6mhGEMglYLwCdFnqK5zh.png\",\"name\":\"Lorimar Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1979-09-27\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"The Fast Track For All-Star Adventure.\",\"title\":\"Avalanche Express\",\"video\":false,\"vote_average\":4.7,\"vote_count\":41}"
+}

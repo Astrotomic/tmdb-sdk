@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1129",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9283",
+        "x-memc": "HIT",
+        "x-memc-key": "3523cc353e8df3015fd51c3e83856a16",
+        "x-memc-age": "18234",
+        "x-memc-expires": "9283",
+        "ETag": "W\/\"cd9a77afd35a0254bd65d8aff5552d7d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dH94RRyN9S2PePE1VCVR0aTjnxN0QTYhequem-jmzyhAnduTOR2cNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mgkzNXXo94ISnkqlU4Ee4K221Tq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":11028,\"imdb_id\":\"tt0092654\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Big Easy\",\"overview\":\"Remy McSwain is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.\",\"popularity\":13.763,\"poster_path\":\"\/h1zSdBuPRtKAD5R95dMQKMs5NyT.jpg\",\"production_companies\":[{\"id\":4255,\"logo_path\":null,\"name\":\"Kings Road Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-11-27\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A cop and a lady lawyer caught in an explosive truth of police corruption.\",\"title\":\"The Big Easy\",\"video\":false,\"vote_average\":6.2,\"vote_count\":179}"
+}

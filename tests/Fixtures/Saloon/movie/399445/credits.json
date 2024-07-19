@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "317",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9942",
+        "x-memc": "HIT",
+        "x-memc-key": "9c6aa81fc4c7f709274e1f297c38df9c",
+        "x-memc-age": "17676",
+        "x-memc-expires": "9942",
+        "ETag": "W\/\"318bb3601cf7fa2bff8b3e6b57a96089\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ekrtDvA2FpG7m0tELygHiJzPnPGsdLohdi1gnRU2PQuEZdXfa10JEQ=="
+    },
+    "data": "{\"id\":399445,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1626678,\"known_for_department\":\"Directing\",\"name\":\"Beny Tchaicovsky\",\"original_name\":\"Beny Tchaicovsky\",\"popularity\":0.26,\"profile_path\":\"\/xsoWxOQRYlGGW9EqUf1bUdz5GcF.jpg\",\"credit_id\":\"5ceacfce0e0a266683cd6dbe\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

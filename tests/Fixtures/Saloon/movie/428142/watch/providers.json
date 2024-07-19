@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "601",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:28:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17496",
+        "x-memc": "HIT",
+        "x-memc-key": "9a07358eeeaa6e1d9941c0d0e66b0804",
+        "x-memc-age": "8906",
+        "x-memc-expires": "17496",
+        "ETag": "W\/\"d986c6473595d22b6e995c82347f13fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-Yk7QVic1P0yic9hK8wGK62ELjHqwLLJOWXlxMnayJ3mrZifg4W6fw=="
+    },
+    "data": "{\"id\":428142,\"results\":{\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/428142-fate-grand-order-first-order\/watch?locale=AU\",\"rent\":[{\"logo_path\":\"\/9B7l9ZSos54kFrZbliVExt2z9C9.jpg\",\"provider_id\":436,\"provider_name\":\"Fetch TV\",\"display_priority\":31}],\"buy\":[{\"logo_path\":\"\/9B7l9ZSos54kFrZbliVExt2z9C9.jpg\",\"provider_id\":436,\"provider_name\":\"Fetch TV\",\"display_priority\":31}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/428142-fate-grand-order-first-order\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}]}}}"
+}

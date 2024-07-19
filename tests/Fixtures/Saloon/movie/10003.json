@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1609",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20509",
+        "x-memc": "HIT",
+        "x-memc-key": "d78ffff14ba064f241adcc6a7a6ec9bf",
+        "x-memc-age": "1192",
+        "x-memc-expires": "20509",
+        "ETag": "W\/\"cbad4df4811d1412be38c2466a490cd8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mFj1XWUdMI9C_9L-eUDcduD6WPvCBI7fb-HynTPjGGZOFYpj809FbA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3cdfnihGSrMiQWzmVPaEs3p2Mp1.jpg\",\"belongs_to_collection\":null,\"budget\":68000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10003,\"imdb_id\":\"tt0120053\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Saint\",\"overview\":\"Simon Templar (The Saint), is a thief for hire, whose latest job to steal the secret process for cold fusion puts him at odds with a traitor bent on toppling the Russian government, as well as the woman who holds its secret.\",\"popularity\":66.707,\"poster_path\":\"\/z5FV39UVdXiwMC2cn01ZYqgqPZw.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":11661,\"logo_path\":null,\"name\":\"Rysher Entertainment\",\"origin_country\":\"US\"},{\"id\":2767,\"logo_path\":null,\"name\":\"Mace Neufeld Productions\",\"origin_country\":\"US\"},{\"id\":3467,\"logo_path\":\"\/pumbDNR4udEagb3ldNUMFSA85Fn.png\",\"name\":\"Studio Trite\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-04-03\",\"revenue\":118100000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Never reveal your name. Never turn your back. Never surrender your heart.\",\"title\":\"The Saint\",\"video\":false,\"vote_average\":6.1,\"vote_count\":1084}"
+}

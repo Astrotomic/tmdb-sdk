@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1233",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3948",
+        "x-memc": "HIT",
+        "x-memc-key": "ea1533d7eacdf7908fcd7b88f0265abe",
+        "x-memc-age": "22733",
+        "x-memc-expires": "3948",
+        "ETag": "W\/\"486757044c5e155f6af8a637d9e62794\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Acgia1RKcN0ZYRkGFIaK8V2MmxNBmSSaVVI0t9-Kz_hrhgkZpF5Oxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jqFjgNnxpXIXWuPsyfqmcLXRo9p.jpg\",\"belongs_to_collection\":null,\"budget\":1200000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":500,\"imdb_id\":\"tt0105236\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Reservoir Dogs\",\"overview\":\"A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.\",\"popularity\":45.523,\"poster_path\":\"\/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg\",\"production_companies\":[{\"id\":285,\"logo_path\":\"\/ebAB20KtEg4J0eFMFBGhFJsSoYc.png\",\"name\":\"Live Entertainment\",\"origin_country\":\"US\"},{\"id\":26198,\"logo_path\":null,\"name\":\"Dog Eat Dog Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-09-02\",\"revenue\":2859750,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Every dog has his day.\",\"title\":\"Reservoir Dogs\",\"video\":false,\"vote_average\":8.128,\"vote_count\":13997}"
+}

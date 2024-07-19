@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1087",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5916",
+        "x-memc": "HIT",
+        "x-memc-key": "247cc14be5c3b77630aff275257912da",
+        "x-memc-age": "20663",
+        "x-memc-expires": "5916",
+        "ETag": "W\/\"780233e23709520690b5221f6e43a872\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xdTAN8zs458tAkg6Q6m_TpT-oAzTI_sosKzY6dqdthDj2JfCnSTnLw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lfSyKu75brWFuZGZ5fqV45YwamA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/mapelle.com\/the-skeletons-compass\",\"id\":1020928,\"imdb_id\":\"tt6406930\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Skeleton's Compass\",\"overview\":\"A group of middle school friends go on the hunt for treasure after finding a skeleton in the woods.\",\"popularity\":9.025,\"poster_path\":\"\/sXWZ2gW5hDOlgDQwmjQPrGMZABb.jpg\",\"production_companies\":[{\"id\":181795,\"logo_path\":null,\"name\":\"Mercy Road Entertainment\",\"origin_country\":\"\"},{\"id\":132173,\"logo_path\":null,\"name\":\"Mapelle Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-08-25\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Skeleton's Compass\",\"video\":false,\"vote_average\":5.0,\"vote_count\":6}"
+}

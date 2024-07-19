@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1472",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10169",
+        "x-memc": "HIT",
+        "x-memc-key": "249a850a39a0f141dac919e825b780aa",
+        "x-memc-age": "15055",
+        "x-memc-expires": "10169",
+        "ETag": "W\/\"b3c5975226166479578d63e5c740538c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8DebyiVUJbKCLVzW12dNXa5sn4sTCRurOBUpSX12zDKnIT2zmk3IQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iNF1V0adYX4Q6xEjU4ga5zNrEfg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":224076,\"imdb_id\":\"tt2887322\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Saratov Approach\",\"overview\":\"An inspirational true story.  On what seemed like any other day, Elders Travis Tuttle (Corbin Allred) and Andrew Propst (Maclain Nelson) are approached by Nikolai (Nikita Bogolyubov) to teach a friend. But then the missionaries experience the unimaginable - they are kidnapped, beaten, and held for ransom. While their families, friends, and the world pray for their safe release, Tuttle and Propst are tested physically, emotionally, and most of all spiritually.\",\"popularity\":5.563,\"poster_path\":\"\/iRBQn1zWbtw5YbxjbuAPHqL81qg.jpg\",\"production_companies\":[{\"id\":24907,\"logo_path\":null,\"name\":\"Saratov Films\",\"origin_country\":\"\"},{\"id\":24906,\"logo_path\":null,\"name\":\"Three Coin Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"UA\",\"name\":\"Ukraine\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-10-09\",\"revenue\":0,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"Ukrainian\",\"iso_639_1\":\"uk\",\"name\":\"\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Kidnapped, Ransomed, Delivered\",\"title\":\"The Saratov Approach\",\"video\":false,\"vote_average\":6.094,\"vote_count\":32}"
+}

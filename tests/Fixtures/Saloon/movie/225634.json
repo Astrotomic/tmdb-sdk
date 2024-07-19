@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1116",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13743",
+        "x-memc": "HIT",
+        "x-memc-key": "f02b9d6c4928adef87181946a05f9587",
+        "x-memc-age": "12741",
+        "x-memc-expires": "13743",
+        "ETag": "W\/\"9cb88ac3d91240605daa459ca0075fff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y5VDIPsoz5IQbIpcsmQB2iajhN7dY8zdzLcjKtRlRR9rR9TY8v9w5Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":225634,\"imdb_id\":\"tt1523435\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"DOOR TO DOOR ~\u50d5\u306f\u8133\u6027\u307e\u3072\u306e\u30c8\u30c3\u30d7\u30bb\u30fc\u30eb\u30b9\u30de\u30f3~\",\"overview\":\"Based on a true story about about a man who was told for many years that he was not employable, but threw all of his effort into working as a door-to-door salesman. Despite the pain attributed to his cerebral palsy, he walked eight to ten miles a day to meet his customers and achieved the highest sales for his company.\",\"popularity\":5.141,\"poster_path\":\"\/2CJzGvKX8csdpgP8Kt5AftPjAt7.jpg\",\"production_companies\":[{\"id\":1393,\"logo_path\":\"\/lUACMATs6jcscXIrzNCQzbvNVN5.png\",\"name\":\"TBS\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2009-05-29\",\"revenue\":0,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Door To Door\",\"video\":false,\"vote_average\":9.5,\"vote_count\":2}"
+}

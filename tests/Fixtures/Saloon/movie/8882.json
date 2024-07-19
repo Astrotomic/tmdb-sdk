@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1327",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4188",
+        "x-memc": "HIT",
+        "x-memc-key": "9324d767caf2a00c9f35a032739ef0c6",
+        "x-memc-age": "18110",
+        "x-memc-expires": "4188",
+        "ETag": "W\/\"7344817d77902e844919c892181d302e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-oUN3LN3gZF3X4tJQID5k4kmUXCNYRpava4F4BL0MboVklqjQYFnUw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dmxAEDURAwfz6iTXTWu1GCYcOR3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":8882,\"imdb_id\":\"tt0929425\",\"origin_country\":[\"BE\",\"IT\"],\"original_language\":\"it\",\"original_title\":\"Gomorra\",\"overview\":\"An inside look at Italy's modern-day crime families, the Camorra in Naples and Caserta. Based on a book by Roberto Saviano. Power, money and blood: these are the \\\"values\\\" that the residents of the Province of Naples and Caserta have to face every day. They hardly ever have a choice and are forced to obey the rules of the Camorra. Only a lucky few can even think of leading a normal life.\",\"popularity\":24.085,\"poster_path\":\"\/3XcCTqSovFZE5GRebJmh1kHwziw.jpg\",\"production_companies\":[{\"id\":2441,\"logo_path\":\"\/7Vutdea75apwXkRyfQ4Ne6j0KcN.png\",\"name\":\"Fandango\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2008-05-16\",\"revenue\":34861529,\"runtime\":136,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gomorrah\",\"video\":false,\"vote_average\":6.878,\"vote_count\":1183}"
+}

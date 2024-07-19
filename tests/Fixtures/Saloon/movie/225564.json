@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1251",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20872",
+        "x-memc": "HIT",
+        "x-memc-key": "594c1052123a7d7c6537e8f4897afc4d",
+        "x-memc-age": "2554",
+        "x-memc-expires": "20872",
+        "ETag": "W\/\"e29996728d7d8fc97b9a54901771da06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "n3H6ktCtPoBpGF-Ul3c2ywOWXubPuwwpX9U8BGZcab9c3q8WdrgMMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AfyUkYxsfqRQnCfgD84LcS1LC9Z.jpg\",\"belongs_to_collection\":null,\"budget\":1400000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":225564,\"imdb_id\":\"tt2319018\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"100% Cachemire\",\"overview\":\"The story of Aleksandra and Cyrille, a prominent, trendy, and very well-off Parisian couple, whose life is not quite the same after seven-year-old Alekse\u00ef from Russia suddenly pops up in their 100% cashmere, childless home. Aleksandra soon realises that this little boy they have adopted is not quite what she had been hoping for...\",\"popularity\":6.633,\"poster_path\":\"\/lrNcEffsVjlAZ5NkEfKNBiKaZna.jpg\",\"production_companies\":[{\"id\":11199,\"logo_path\":\"\/ursSXLOZaDxiZ84sEgfXbiFnYaa.png\",\"name\":\"SCOPE Pictures\",\"origin_country\":\"BE\"},{\"id\":2700,\"logo_path\":\"\/h3bdysr6aNtFqK7DXQu1Rh43rwk.png\",\"name\":\"Rectangle Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2013-12-11\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Ultimate Accessory\",\"video\":false,\"vote_average\":5.3,\"vote_count\":138}"
+}

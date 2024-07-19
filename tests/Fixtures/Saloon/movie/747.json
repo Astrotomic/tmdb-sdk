@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1230",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20879",
+        "x-memc": "HIT",
+        "x-memc-key": "4d76b332258f597931e862c76f2c6179",
+        "x-memc-age": "2526",
+        "x-memc-expires": "20879",
+        "ETag": "W\/\"29c876f234a3c131558942046a45e27e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bsElkbvUkQcHMfOaKFo02RgaQGiumISsQs_HYt7I74hNtnC4ZodtaA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mrdHbaCp3ysDrzUHle5eQlY9Vzu.jpg\",\"belongs_to_collection\":null,\"budget\":6100000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.shaunofthedeadmovie.com\",\"id\":747,\"imdb_id\":\"tt0365748\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Shaun of the Dead\",\"overview\":\"Shaun lives a supremely uneventful life, which revolves around his girlfriend, his mother, and, above all, his local pub. This gentle routine is threatened when the dead return to life and make strenuous attempts to snack on ordinary Londoners.\",\"popularity\":51.604,\"poster_path\":\"\/dgXPhzNJH8HFTBjXPB177yNx6RI.jpg\",\"production_companies\":[{\"id\":443,\"logo_path\":\"\/wibNj4tELmsnCFlf5ldLik37Urr.png\",\"name\":\"Big Talk Studios\",\"origin_country\":\"GB\"},{\"id\":442,\"logo_path\":null,\"name\":\"WT\u00b2 Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2004-04-09\",\"revenue\":30100000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A romantic comedy. With zombies.\",\"title\":\"Shaun of the Dead\",\"video\":false,\"vote_average\":7.5,\"vote_count\":8207}"
+}

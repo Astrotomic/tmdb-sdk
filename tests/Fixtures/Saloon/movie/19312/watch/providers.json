@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1713",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8129",
+        "x-memc": "HIT",
+        "x-memc-key": "2770e5fc24a8916e9b55ca8c15effa1f",
+        "x-memc-age": "19022",
+        "x-memc-expires": "8129",
+        "ETag": "W\/\"21b6f3b2e48083925688e7fc43ffb0ca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2htroHSmK-LHBUgdoI57MSAQCoAIOtvIwh3TGY40wGGh-6gkl2C1pA=="
+    },
+    "data": "{\"id\":19312,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19312-the-black-hole\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1},{\"logo_path\":\"\/p4TlGiuRoH9sDZeppPJeMhizs26.jpg\",\"provider_id\":2100,\"provider_name\":\"Amazon Prime Video with Ads\",\"display_priority\":283}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17}],\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}],\"ads\":[{\"logo_path\":\"\/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg\",\"provider_id\":207,\"provider_name\":\"The Roku Channel\",\"display_priority\":27},{\"logo_path\":\"\/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg\",\"provider_id\":613,\"provider_name\":\"Freevee\",\"display_priority\":171}]}}}"
+}

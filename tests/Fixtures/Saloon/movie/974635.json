@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1680",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24002",
+        "x-memc": "HIT",
+        "x-memc-key": "b55ed68bdf0836f68ff6b32ff4ce620a",
+        "x-memc-age": "890",
+        "x-memc-expires": "24002",
+        "ETag": "W\/\"a402e9c097b196a83d0e58b2e436702f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o7ImmDBsdhdBsN4skfMYjP7FTvZH2vtWlhqNtFjKEPFSaBhV6997Ew=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/d4P97PFMG5UKyZyvRn5kIiNMBxn.jpg\",\"belongs_to_collection\":null,\"budget\":8800000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81728840\",\"id\":974635,\"imdb_id\":\"tt20215968\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hit Man\",\"overview\":\"A mild-mannered professor moonlighting as a fake hit man in police stings ignites a chain reaction of trouble when he falls for a potential client.\",\"popularity\":200.91,\"poster_path\":\"\/5BfcYFhRVlgWLFo4SCkQNsIWzyy.jpg\",\"production_companies\":[{\"id\":37361,\"logo_path\":\"\/xpbUNXnrMeEK1ynbqVnHp8ZOVKW.png\",\"name\":\"Aggregate Films\",\"origin_country\":\"US\"},{\"id\":175171,\"logo_path\":null,\"name\":\"BarnStorm Productions\",\"origin_country\":\"US\"},{\"id\":11510,\"logo_path\":\"\/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png\",\"name\":\"Detour Filmproduction\",\"origin_country\":\"US\"},{\"id\":110799,\"logo_path\":\"\/eHjtiQJjrGQTooEsBmPSYoUnNB.png\",\"name\":\"AGC Studios\",\"origin_country\":\"US\"},{\"id\":88582,\"logo_path\":\"\/zf2Akd6JvRZlnd1OacHYaN5dj0k.png\",\"name\":\"Cinetic Media\",\"origin_country\":\"US\"},{\"id\":133093,\"logo_path\":null,\"name\":\"Monarch Media\",\"origin_country\":\"US\"},{\"id\":33603,\"logo_path\":\"\/K1SdQd49Kx3QRx0djfHbzeotCz.png\",\"name\":\"Shivhans Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-16\",\"revenue\":5101673,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's not a killer, but he can pretend.\",\"title\":\"Hit Man\",\"video\":false,\"vote_average\":7.034,\"vote_count\":548}"
+}

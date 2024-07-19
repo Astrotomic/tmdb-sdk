@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1208",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11019",
+        "x-memc": "HIT",
+        "x-memc-key": "c57ef742a28243c4bdb4f105783c9be3",
+        "x-memc-age": "14355",
+        "x-memc-expires": "11019",
+        "ETag": "W\/\"d5b2639c76c62e5812553d27fd9329b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kJjDtTjjLgrR49tJ3SFBu2nTvP69KVhHf9zsNBfdYjLIiTl2UwPNyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vqZEHv2KxjyVXjbtMhIDIZ6xoLf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/blogs.loc.gov\/loc\/2018\/11\/the-first-film-version-of-frankenstein-newly-restored\/\",\"id\":2929,\"imdb_id\":\"tt0001223\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frankenstein\",\"overview\":\"Frankenstein, a young medical student, trying to create the perfect human being, instead creates a misshapen monster. Made ill by what he has done, Frankenstein is comforted by his fianc\u00e9e; but on his wedding night he is visited by the monster.\",\"popularity\":10.505,\"poster_path\":\"\/xPzF7qW6FFZEzfsnsKqNOncxJNU.jpg\",\"production_companies\":[{\"id\":18758,\"logo_path\":\"\/fe3cMUJLhbkTM9PDxdDA8hQpAxp.png\",\"name\":\"Edison Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1910-03-18\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Frankenstein\",\"video\":false,\"vote_average\":6.0,\"vote_count\":197}"
+}

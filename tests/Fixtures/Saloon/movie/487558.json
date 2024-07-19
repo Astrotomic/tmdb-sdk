@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1796",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22807",
+        "x-memc": "HIT",
+        "x-memc-key": "b1b8aced0f0efbdf038b2363ce29abd7",
+        "x-memc-age": "4212",
+        "x-memc-expires": "22807",
+        "ETag": "W\/\"4efb73b127fa89a5ba0cf5504abca063\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dDdExzS4ny6Pd1dCO4pc2f3vrjT_O-6AnilW6tmI1DViBnZFeEapeg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gMVdhfQ7q9DFHhDkehrququjGPd.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.focusfeatures.com\/blackkklansman\",\"id\":487558,\"imdb_id\":\"tt7349662\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"BlacKkKlansman\",\"overview\":\"Colorado Springs, late 1970s. Ron Stallworth, an African American police officer, and Flip Zimmerman, his Jewish colleague, run an undercover operation to infiltrate the Ku Klux Klan.\",\"popularity\":26.492,\"poster_path\":\"\/8jxqAvSDoneSKRczaK8v9X5gqBp.jpg\",\"production_companies\":[{\"id\":10146,\"logo_path\":\"\/xnFIOeq5cKw09kCWqV7foWDe4AA.png\",\"name\":\"Focus Features\",\"origin_country\":\"US\"},{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"},{\"id\":10338,\"logo_path\":\"\/a8HjeCqXlm96IKSHvwaBPTMmAIp.png\",\"name\":\"Perfect World Pictures\",\"origin_country\":\"CN\"},{\"id\":72725,\"logo_path\":\"\/gflhJ4lNROXuYMeN4giNrVQvtDw.png\",\"name\":\"QC Entertainment\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":88934,\"logo_path\":\"\/5Be96V9WXa7jJInSDPqDOqMBA0o.png\",\"name\":\"Monkeypaw Productions\",\"origin_country\":\"US\"},{\"id\":4319,\"logo_path\":\"\/AmD31n67gArsO4803tPKINE6eRP.png\",\"name\":\"40 Acres and a Mule Filmworks\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-08-09\",\"revenue\":93411426,\"runtime\":136,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Infiltrate hate.\",\"title\":\"BlacKkKlansman\",\"video\":false,\"vote_average\":7.512,\"vote_count\":7381}"
+}

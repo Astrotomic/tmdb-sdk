@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1340",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17257",
+        "x-memc": "HIT",
+        "x-memc-key": "a76c28d7e54059b0be2fdde9a0702c19",
+        "x-memc-age": "10633",
+        "x-memc-expires": "17257",
+        "ETag": "W\/\"3bab544d94633e65b4f07411a054b40b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xp-UKKn88lbUVVL7UVYV0CGYgjC06MIovPbkfJ2a_5yKQt-BvZ1MIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/clmYuR1t4TtKcakIOvYIPrjyxDc.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/thecommuter.movie\/\",\"id\":399035,\"imdb_id\":\"tt1590193\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Commuter\",\"overview\":\"A businessman, on his daily commute home, gets unwittingly caught up in a criminal conspiracy that threatens not only his life but the lives of those around him.\",\"popularity\":44.117,\"poster_path\":\"\/rDeGK6FIUfVcXmuBdEORPAGPMNg.jpg\",\"production_companies\":[{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"},{\"id\":356,\"logo_path\":\"\/tSJvuFaLIp7l0ONLUiAHA61GbXu.png\",\"name\":\"TF1 Films Production\",\"origin_country\":\"FR\"},{\"id\":99132,\"logo_path\":\"\/oKjgNvaMndJiBmcngrSWPWb8VYO.png\",\"name\":\"The Picture Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-01-11\",\"revenue\":119942387,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Lives are on the line\",\"title\":\"The Commuter\",\"video\":false,\"vote_average\":6.4,\"vote_count\":4292}"
+}

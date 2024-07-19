@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1266",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:26:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6627",
+        "x-memc": "HIT",
+        "x-memc-key": "bac137900a76147c284863e2ec948c24",
+        "x-memc-age": "17774",
+        "x-memc-expires": "6627",
+        "ETag": "W\/\"08c0c2921e5f8cb05e845dcd9d97c84e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ivUPuIKynZgr2YscJilFhSoFQbFuCbsplumJUbNmxu13nKGMlojmLw=="
+    },
+    "data": "{\"id\":225294,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":997235,\"known_for_department\":\"Acting\",\"name\":\"Jeff Newman\",\"original_name\":\"Jeff Newman\",\"popularity\":1.036,\"profile_path\":null,\"cast_id\":1,\"character\":\"Man\",\"credit_id\":\"52fe4e5a9251416c751539d9\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1210787,\"known_for_department\":\"Acting\",\"name\":\"Zack Price\",\"original_name\":\"Zack Price\",\"popularity\":0.281,\"profile_path\":null,\"cast_id\":2,\"character\":\"Ed\",\"credit_id\":\"52fe4e5a9251416c751539dd\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1210788,\"known_for_department\":\"Acting\",\"name\":\"Jennifer Lane Oakley\",\"original_name\":\"Jennifer Lane Oakley\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Wendy\",\"credit_id\":\"52fe4e5a9251416c751539e1\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1210789,\"known_for_department\":\"Directing\",\"name\":\"Peter Horn\",\"original_name\":\"Peter Horn\",\"popularity\":0.259,\"profile_path\":null,\"credit_id\":\"52fe4e5a9251416c751539e7\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1210790,\"known_for_department\":\"Directing\",\"name\":\"Jared Marshall\",\"original_name\":\"Jared Marshall\",\"popularity\":0.263,\"profile_path\":null,\"credit_id\":\"52fe4e5a9251416c751539ed\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

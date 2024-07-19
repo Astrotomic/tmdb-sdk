@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1318",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3032",
+        "x-memc": "HIT",
+        "x-memc-key": "5143cb8d73d48f83d813190c28b31ce0",
+        "x-memc-age": "22944",
+        "x-memc-expires": "3032",
+        "ETag": "W\/\"703c82f3fa0eefc6334728c33d9a0082\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tRzEuOzQozEQkLxk3uW9Lxj7ToNyXLvhPccAaE9LDAwW0IdU7BalQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rZ8VxBH8QRHGQi9YztBRm3eAsxL.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1279104,\"imdb_id\":\"tt5765240\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Legend of Catclaws Mountain\",\"overview\":\"Mindy adopts Angel, a high-spirited pony that\u2014according to legend\u2014will lead its owner to gold hidden in the nearby mountains. When Angel is kidnapped by a mad treasure hunter, Mindy and her school friends head into the hills to rescue the pony and hunt for the lost gold. But Mindy meets a mountain man that warns her the treasure is part of an ancient curse\u2014if they remove the gold, they'll destroy the beautiful forest.\",\"popularity\":217.825,\"poster_path\":\"\/4T3Gz4ZC8H6kaEpq56S4j3mI40L.jpg\",\"production_companies\":[{\"id\":3604,\"logo_path\":\"\/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png\",\"name\":\"Grindstone Entertainment Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-27\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Legend of Catclaws Mountain\",\"video\":false,\"vote_average\":6.7,\"vote_count\":10}"
+}

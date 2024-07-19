@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1352",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15925",
+        "x-memc": "HIT",
+        "x-memc-key": "e3a4a91f4a7b8a1572b8e69c8dc2f7f2",
+        "x-memc-age": "12242",
+        "x-memc-expires": "15925",
+        "ETag": "W\/\"166a35273c3287ccf014d294ead714f1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tcSsigtt2crthal4jC7B6TiNSLT8zVarpFIzrQzRFbbQ2ss0_vXjEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cFnv7rB6I9gtZ0eTR7nPgjKNe0Q.jpg\",\"belongs_to_collection\":{\"id\":109609,\"name\":\"The Fly (1986) Collection\",\"poster_path\":\"\/r6mRcDV2MIbDQ79JpeGls5DnDfr.jpg\",\"backdrop_path\":\"\/2PtGyUVjSJO3T3kuUtYqq9Lrgk5.jpg\"},\"budget\":15000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":9426,\"imdb_id\":\"tt0091064\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Fly\",\"overview\":\"When Seth Brundle makes a huge scientific and technological breakthrough in teleportation, he decides to test it on himself. Unbeknownst to him, a common housefly manages to get inside the device and the two become one.\",\"popularity\":150.552,\"poster_path\":\"\/8gZWMhJHRvaXdXsNhERtqNHYpH3.jpg\",\"production_companies\":[{\"id\":396,\"logo_path\":\"\/5iNXO7nAiSsms7ur1Qy2UwuwcDP.png\",\"name\":\"SLM Production Group\",\"origin_country\":\"US\"},{\"id\":5612,\"logo_path\":null,\"name\":\"Brooksfilms\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-08-15\",\"revenue\":60629159,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Be afraid. Be very afraid.\",\"title\":\"The Fly\",\"video\":false,\"vote_average\":7.404,\"vote_count\":4263}"
+}

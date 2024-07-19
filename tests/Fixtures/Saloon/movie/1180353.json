@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1319",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10001",
+        "x-memc": "HIT",
+        "x-memc-key": "b8cb297db517b97714146f4e88431773",
+        "x-memc-age": "16658",
+        "x-memc-expires": "10001",
+        "ETag": "W\/\"e81d5e72bccd3e2372c62d3b5e1e3fb7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vzPFpyRza4TNQ5sdeQwOvW_a1cgUG04w6kdlOOi5K-9U4-I5bJ5m5Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9OFqXInG7KF3a7x5r702KCsRePc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.greatamericanfamily.com\/movie\/journey-to-christmas\/\",\"id\":1180353,\"imdb_id\":\"tt29270965\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Journey to Christmas\",\"overview\":\"While on a charity press tour, a model ends up stranded by the weather at the family home of the driver she hired to assist her for the week.\",\"popularity\":1.591,\"poster_path\":\"\/1uOomfFceVWkRkSwyR1MDLhiYNx.jpg\",\"production_companies\":[{\"id\":6343,\"logo_path\":\"\/8poirmC5GDAKaVO7JzZOb4WlNxJ.png\",\"name\":\"Candlelight Media Group\",\"origin_country\":\"US\"},{\"id\":145549,\"logo_path\":\"\/4wMX7xT85Wr0VqrMqAkRQkxfpKg.png\",\"name\":\"SunWorld Pictures\",\"origin_country\":\"US\"},{\"id\":49924,\"logo_path\":\"\/cRZINPqnTGgCpbXdoWrgaR5aqXo.png\",\"name\":\"Silver Peak Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-10-29\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Journey to Christmas\",\"video\":false,\"vote_average\":7.9,\"vote_count\":8}"
+}

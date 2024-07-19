@@ -1,6 +1,6 @@
 <?php
 
-dataset('company_ids', [
+dataset('company_ids', collect([
     5,
     420,
     222330,
@@ -13,4 +13,4 @@ dataset('company_ids', [
     176762,
     7505,
     53462,
-]);
+])->unique()->sort()->values());

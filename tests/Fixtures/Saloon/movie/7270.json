@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1498",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18452",
+        "x-memc": "HIT",
+        "x-memc-key": "01df5e71bd6bdb93ab7f56f8422b930c",
+        "x-memc-age": "3868",
+        "x-memc-expires": "18452",
+        "ETag": "W\/\"a0de6e60cd9792475d61a519250be56c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QaQBpB_k9DfGQyeVNeeXiVYHTBnqBwCQTDWT9570wCRsZTRX46vPhA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hKHxmOZnNRjeLMhvrH61MJtcrme.jpg\",\"belongs_to_collection\":null,\"budget\":62000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":7270,\"imdb_id\":\"tt0325805\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Matchstick Men\",\"overview\":\"A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly.\",\"popularity\":19.606,\"poster_path\":\"\/mW6HZe1aoipzH8U7ucjma6E3LLx.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":11395,\"logo_path\":\"\/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png\",\"name\":\"ImageMovers\",\"origin_country\":\"US\"},{\"id\":1645,\"logo_path\":\"\/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png\",\"name\":\"Scott Free Productions\",\"origin_country\":\"GB\"},{\"id\":2201,\"logo_path\":null,\"name\":\"Rickshaw Productions\",\"origin_country\":\"\"},{\"id\":7161,\"logo_path\":null,\"name\":\"LivePlanet\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-09-12\",\"revenue\":65565672,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Lie. Cheat. Steal. Rinse. Repeat.\",\"title\":\"Matchstick Men\",\"video\":false,\"vote_average\":7.001,\"vote_count\":1677}"
+}

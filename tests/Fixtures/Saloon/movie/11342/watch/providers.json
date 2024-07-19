@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1708",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:02:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3420",
+        "x-memc": "HIT",
+        "x-memc-key": "0f1400680932f2ab23bdb370e234dd5e",
+        "x-memc-age": "24566",
+        "x-memc-expires": "3420",
+        "ETag": "W\/\"63920b3ba49a4dc44902f13e894b710a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yl1D_OUpNxz3cIp8iZWTHMQ0hMnIcEQOF8TgTDEWC3bDdBfEdC-aUw=="
+    },
+    "data": "{\"id\":11342,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11342-warlock\/watch?locale=CA\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21},{\"logo_path\":\"\/xoFyQOXR3qINRsdnCQyd7jGx8Wo.jpg\",\"provider_id\":326,\"provider_name\":\"CTV\",\"display_priority\":45}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11342-warlock\/watch?locale=KR\",\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}],\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11342-warlock\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"ads\":[{\"logo_path\":\"\/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg\",\"provider_id\":613,\"provider_name\":\"Freevee\",\"display_priority\":171}]}}}"
+}

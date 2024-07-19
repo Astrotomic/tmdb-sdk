@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1551",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=446",
+        "x-memc": "HIT",
+        "x-memc-key": "7abe9d21b84150f32afd9ce41f05eb55",
+        "x-memc-age": "26722",
+        "x-memc-expires": "446",
+        "ETag": "W\/\"e4e356c90d86a754b8f13f10522080e4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FOKUSToSNSC33THX6RRwgGLcHM1d5Ix2CYJb2IYrhc_kDTtXkYfEqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/57hqf5nKwogxUXpxVQIbkdmeDiX.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":9067,\"imdb_id\":\"tt0114614\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tank Girl\",\"overview\":\"After a comet disrupts the rain cycle of Earth, the planet has become a desolate, barren desert by the year 2033. With resources scarce, Kesslee \u2014 head of the powerful and evil Water & Power Corporation, the de facto government \u2014 has taken control of the water supply. Unwilling to cower under Kesslee's tyrannical rule, a pair of outlaws known as Tank Girl and Jet Girl rise up, joining the mysterious rebel Rippers to destroy the corrupt system.\",\"popularity\":23.277,\"poster_path\":\"\/qohdY3BcJ98sFneOUAWp0FmH4Z6.jpg\",\"production_companies\":[{\"id\":2231,\"logo_path\":\"\/zJBTkTxy0UiQETGRynEqxiFbmL8.png\",\"name\":\"Trilogy Entertainment Group\",\"origin_country\":\"US\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-03-31\",\"revenue\":4064495,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In the future, the odds of survival are 1000 to 1. That's just the way she likes it.\",\"title\":\"Tank Girl\",\"video\":false,\"vote_average\":5.4,\"vote_count\":466}"
+}

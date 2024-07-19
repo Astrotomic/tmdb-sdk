@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1057",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11025",
+        "x-memc": "HIT",
+        "x-memc-key": "ea7e33398a1ed6e96fbb853070b2bc72",
+        "x-memc-age": "16484",
+        "x-memc-expires": "11025",
+        "ETag": "W\/\"7928f7c22cce87ad2d9c5988c85598b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aLU7Ghc313Vvkb6rg51umnZ2XNviQGIM1qx3LEPBROKH6CEBTKc1Mg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/evxXVJtomJJbAXcDxF6wsCJzVDe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1019836,\"imdb_id\":\"tt22042742\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Christmas Bloody Christmas\",\"overview\":\"It's Christmas Eve and Tori just wants to get drunk and party, but when a robotic Santa Claus at a nearby toy store goes haywire and begins a rampant killing spree through her small town, she's forced into a battle for survival.\",\"popularity\":24.461,\"poster_path\":\"\/97PaQ7r4H3y0x9RTXusfedmzf86.jpg\",\"production_companies\":[{\"id\":29366,\"logo_path\":null,\"name\":\"Channel 83 Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-10-05\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You better not cry.\",\"title\":\"Christmas Bloody Christmas\",\"video\":false,\"vote_average\":5.454,\"vote_count\":186}"
+}

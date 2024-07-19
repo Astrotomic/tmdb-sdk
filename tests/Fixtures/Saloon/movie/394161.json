@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1381",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11990",
+        "x-memc": "HIT",
+        "x-memc-key": "251136722b3f7111fffc09dae973e5f1",
+        "x-memc-age": "11333",
+        "x-memc-expires": "11990",
+        "ETag": "W\/\"597f0df26a8d40d46703079e0880ff9b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BzN_9GDTQYivq40Ysx8JSnZQN6xrzENxwika-8jWPtlai6RtIPPskg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pbNj8pKCpfA8niOZmPZcuuqc23d.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":394161,\"imdb_id\":\"tt5114984\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"L'Outsider\",\"overview\":\"A drama about the less known aspects of the trading activity inside one of the biggest banks in the world - Soci\u00e9t\u00e9 G\u00e9n\u00e9rale. The movie tracks the rise and fall of anonymous trader turned superstar turned escape goat - J\u00e9r\u00f4me Kerviel - just as the 2008 financial crisis was unfolding\",\"popularity\":14.039,\"poster_path\":\"\/q12hpgdfCoZKHLWJeslJyqz9QJL.jpg\",\"production_companies\":[{\"id\":23066,\"logo_path\":null,\"name\":\"Logline Studios\",\"origin_country\":\"\"},{\"id\":5125,\"logo_path\":\"\/t3oWTsVukmEzrZzvfr37XRBibo5.png\",\"name\":\"Le Pacte\",\"origin_country\":\"FR\"},{\"id\":793,\"logo_path\":\"\/10DhIXAmAixQvBOsjZ1MOeSRyUC.png\",\"name\":\"Galat\u00e9e Films\",\"origin_country\":\"FR\"},{\"id\":83,\"logo_path\":\"\/9OQ0rm55xtlgX7KcAKMUePJSrQc.png\",\"name\":\"France 2 Cin\u00e9ma\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2016-06-22\",\"revenue\":0,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Outsider\",\"video\":false,\"vote_average\":7.0,\"vote_count\":194}"
+}

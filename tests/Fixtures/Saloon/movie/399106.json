@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1147",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6328",
+        "x-memc": "HIT",
+        "x-memc-key": "d4ea462d3237db2d88c2953c104623ac",
+        "x-memc-age": "15360",
+        "x-memc-expires": "6328",
+        "ETag": "W\/\"143b96a03b6b5081e52cf4d542e5f8db\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0H1gwZU6uQX9_IS7e0upNtolcAH_DGVFoz1eT6irH9nscIuOSooXOw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4GWYk5VP9qu1rNSeNAwNaBy9mwS.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.pixar.com\/short_films\/Theatrical-Shorts\/Piper\",\"id\":399106,\"imdb_id\":\"tt5613056\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Piper\",\"overview\":\"A mother bird tries to teach her little one how to find food by herself. In the process, she encounters a traumatic experience that she must overcome in order to survive.\",\"popularity\":16.512,\"poster_path\":\"\/rfEkkVzmrMYqGezNLl02mVyJCP2.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-16\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Piper\",\"video\":false,\"vote_average\":8.154,\"vote_count\":1579}"
+}

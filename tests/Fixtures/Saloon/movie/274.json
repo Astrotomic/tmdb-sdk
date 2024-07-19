@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1588",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19352",
+        "x-memc": "HIT",
+        "x-memc-key": "a05af641e7e85ead99862341bc91aee9",
+        "x-memc-age": "7228",
+        "x-memc-expires": "19352",
+        "ETag": "W\/\"b5a5924ff1ca8108dcc875c5fc20b86d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JaTiF3HzGldYpCbl1o6PVsMaJoVotCvXzzZMXirSiICUH7wsfL6hSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aViJxMtIxoL3IkHCauYmFv0oCXh.jpg\",\"belongs_to_collection\":{\"id\":9743,\"name\":\"The Hannibal Lecter Collection\",\"poster_path\":\"\/lTtnUnKVFLX10Ui19WGiL7CqZ1y.jpg\",\"backdrop_path\":\"\/qAtuvjXFkzUzFYn53I2vF1ueraA.jpg\"},\"budget\":19000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":274,\"imdb_id\":\"tt0102926\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Silence of the Lambs\",\"overview\":\"Clarice Starling is a top student at the FBI's training academy.  Jack Crawford wants Clarice to interview Dr. Hannibal Lecter, a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism.  Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.\",\"popularity\":20.78,\"poster_path\":\"\/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg\",\"production_companies\":[{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"},{\"id\":55072,\"logo_path\":null,\"name\":\"Strong Heart\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-02-14\",\"revenue\":272742922,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"To enter the mind of a killer she must challenge the mind of a madman.\",\"title\":\"The Silence of the Lambs\",\"video\":false,\"vote_average\":8.349,\"vote_count\":15916}"
+}

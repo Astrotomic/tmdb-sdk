@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1980",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16054",
+        "x-memc": "HIT",
+        "x-memc-key": "64aa64c77e2152083e6d2a98431f9498",
+        "x-memc-age": "11077",
+        "x-memc-expires": "16054",
+        "ETag": "W\/\"b65473646613aea7e4dac3d058f76aa1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-J_VzTCsM2edmfDjhg7jax9iv5CSypaBqcecfPkRYSRmQQj6EA1v-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pnEMDuaZeDXUQPPhhGTo9QMfMeA.jpg\",\"belongs_to_collection\":null,\"budget\":68000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"},{\"id\":36,\"name\":\"History\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":853,\"imdb_id\":\"tt0215750\",\"origin_country\":[\"US\",\"IE\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Enemy at the Gates\",\"overview\":\"A Russian and a German sniper play a game of cat-and-mouse during the Battle of Stalingrad in WWII.\",\"popularity\":61.39,\"poster_path\":\"\/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":551,\"logo_path\":\"\/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png\",\"name\":\"Mandalay Pictures\",\"origin_country\":\"US\"},{\"id\":22182,\"logo_path\":null,\"name\":\"KC Medien\",\"origin_country\":\"DE\"},{\"id\":24136,\"logo_path\":null,\"name\":\"Reperage\",\"origin_country\":\"FR\"},{\"id\":24137,\"logo_path\":null,\"name\":\"DOS\",\"origin_country\":\"DE\"},{\"id\":24138,\"logo_path\":null,\"name\":\"MP Film Management\",\"origin_country\":\"DE\"},{\"id\":550,\"logo_path\":null,\"name\":\"Little Bird\",\"origin_country\":\"IE\"},{\"id\":35,\"logo_path\":\"\/wxrHa3nZ1K4zo65p56991INkGo6.png\",\"name\":\"Lions Gate Films\",\"origin_country\":\"US\"},{\"id\":549,\"logo_path\":null,\"name\":\"Swanford Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-02-28\",\"revenue\":96976270,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"A single bullet can change history.\",\"title\":\"Enemy at the Gates\",\"video\":false,\"vote_average\":7.4,\"vote_count\":3498}"
+}

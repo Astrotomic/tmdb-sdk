@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1726",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6209",
+        "x-memc": "HIT",
+        "x-memc-key": "b0a2f3f0c44482a1df446204f97b2221",
+        "x-memc-age": "20771",
+        "x-memc-expires": "6209",
+        "ETag": "W\/\"572c7b4628a087232b8b11ed3f46075d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EA9wN0UwIRhsC-L3L68ijJXNDNxL2Y-tM4AalYBgE3gpOlsT_6EmQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uPYa165sraN2c8gZBM9C47g3JoU.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":311,\"imdb_id\":\"tt0087843\",\"origin_country\":[\"US\",\"IT\"],\"original_language\":\"en\",\"original_title\":\"Once Upon a Time in America\",\"overview\":\"A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.\",\"popularity\":73.522,\"poster_path\":\"\/i0enkzsL5dPeneWnjl1fCWm6L7k.jpg\",\"production_companies\":[{\"id\":7965,\"logo_path\":null,\"name\":\"The Ladd Company\",\"origin_country\":\"US\"},{\"id\":10214,\"logo_path\":null,\"name\":\"Embassy International Pictures\",\"origin_country\":\"US\"},{\"id\":218,\"logo_path\":null,\"name\":\"Rafran Cinematografica\",\"origin_country\":\"IT\"},{\"id\":1256,\"logo_path\":\"\/7uiQEAkpcngVIBiQEkok4G93G5E.png\",\"name\":\"PSO\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1984-05-23\",\"revenue\":5500000,\"runtime\":229,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Yiddish\",\"iso_639_1\":\"yi\",\"name\":\"\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Crime, passion and lust for power.\",\"title\":\"Once Upon a Time in America\",\"video\":false,\"vote_average\":8.4,\"vote_count\":5228}"
+}

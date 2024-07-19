@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1347",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:16:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13014",
+        "x-memc": "HIT",
+        "x-memc-key": "72c3a0d7e1cdd092c7f1cfd06d16a6dd",
+        "x-memc-age": "9734",
+        "x-memc-expires": "13014",
+        "ETag": "W\/\"f7104ef83368fad5449919d5720af58d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "d75xH_XJMapl4MQQui7cS0lpXoFRl0iGJAf0TqrDJck-VnM6dMfyqQ=="
+    },
+    "data": "{\"id\":1180493,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1180493-the-complete-story-of-film\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"flatrate\":[{\"logo_path\":\"\/jxavsObOHN6UqlbuZQ1UpVRVv6X.jpg\",\"provider_id\":433,\"provider_name\":\"OVID\",\"display_priority\":101},{\"logo_path\":\"\/3eVIcUeRXji5SBV7gEv4f5U4CqV.jpg\",\"provider_id\":199,\"provider_name\":\"Fandor Amazon Channel\",\"display_priority\":108}]}}}"
+}

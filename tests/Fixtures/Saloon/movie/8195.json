@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1387",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28287",
+        "x-memc": "HIT",
+        "x-memc-key": "82fa908acd5113614a681ddbe1f347c9",
+        "x-memc-age": "330",
+        "x-memc-expires": "28287",
+        "ETag": "W\/\"7cd6ff729068e1e7932a41b290e0ce06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OXkYIOY5m6_51qQZCluwQNZEl68DQNxMp1HtXlpm2xWLCP3suFtm-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h6UcOYmiwliqG2a0hHqvPsA4n4C.jpg\",\"belongs_to_collection\":null,\"budget\":55000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":8195,\"imdb_id\":\"tt0122690\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ronin\",\"overview\":\"A briefcase with undisclosed contents \u2013 sought by Irish terrorists and the Russian mob \u2013 makes its way into criminals' hands. An Irish liaison assembles a squad of mercenaries, or 'ronin', and gives them the thorny task of recovering the case.\",\"popularity\":31.526,\"poster_path\":\"\/AirrhRJjHwytOV0pdLu7YZ4DEyr.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":2347,\"logo_path\":null,\"name\":\"FGM Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-09-25\",\"revenue\":70692101,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Anyone is an enemy for a price.\",\"title\":\"Ronin\",\"video\":false,\"vote_average\":6.958,\"vote_count\":2291}"
+}

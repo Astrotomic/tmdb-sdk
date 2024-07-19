@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1232",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3228",
+        "x-memc": "HIT",
+        "x-memc-key": "69e7ba3635fc531e7ad1745a7e5ada03",
+        "x-memc-age": "19804",
+        "x-memc-expires": "3228",
+        "ETag": "W\/\"528e36db5db8eb9ffffe1d6a3484f96b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hGO37XJD2oB4tRoCiRFyGTeVl7g7Eoz8TMoWPRwmROsJunWRtr5NHw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wQsA4icZCFqLJI2xXDVpBdS01cu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":618346,\"imdb_id\":\"tt10736082\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"DC Showcase: Sgt. Rock\",\"overview\":\"Just after recovering from losing his entire unit in battle, Sgt. Rock leads a special army of commandos against a Nazi secret research base.\",\"popularity\":13.909,\"poster_path\":\"\/bClGDHaHOCYDKiddovjcX3XX3Jb.jpg\",\"production_companies\":[{\"id\":2785,\"logo_path\":\"\/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png\",\"name\":\"Warner Bros. Animation\",\"origin_country\":\"US\"},{\"id\":9993,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-07-20\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"DC Showcase: Sgt. Rock\",\"video\":false,\"vote_average\":6.6,\"vote_count\":84}"
+}

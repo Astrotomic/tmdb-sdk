@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "738",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6687",
+        "x-memc": "HIT",
+        "x-memc-key": "73bc3812f583e894749fea78429d77c9",
+        "x-memc-age": "18237",
+        "x-memc-expires": "6687",
+        "ETag": "W\/\"25d52f61ae149d1c2bd032adc56162a9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MKa5UtdMfAN_wubH69mXPI7gtKh8ugCZe0hV-I8LHM0Hc2mLuq-Miw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6014,\"imdb_id\":\"tt0021833\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das Ekel\",\"overview\":\"\",\"popularity\":1.56,\"poster_path\":\"\/oSKdxasA05dL0d6Y2nj0MMeSgIp.jpg\",\"production_companies\":[{\"id\":12372,\"logo_path\":\"\/9BDrZ4qumhS87ZUKcH3BTlGOeim.png\",\"name\":\"UFA\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1931-06-05\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Scoundrel\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

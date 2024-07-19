@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1644",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24176",
+        "x-memc": "HIT",
+        "x-memc-key": "ea37f37bf724c7904277390ddef2eb0b",
+        "x-memc-age": "389",
+        "x-memc-expires": "24176",
+        "ETag": "W\/\"ee2578e69b7acc7a72c5444b1d7fefc9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2TJEepVrFFNV6QIHr2a1pylLuJ1bOSpAhOt29CF_J1ZgQww-x_RYCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/FzntbxhtPGp5gVmie16ry3k7Ow.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/gfmanimation.com\/films\/10-lives\/\",\"id\":567811,\"imdb_id\":\"tt7959138\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"10 Lives\",\"overview\":\"Beckett is a pampered and selfish cat who totally takes for granted the lucky hand he has been dealt. All that is about to change, however, when he carelessly loses his ninth life.\",\"popularity\":39.74,\"poster_path\":\"\/r2D7MkNocsqKOqGnnGEQThU26JS.jpg\",\"production_companies\":[{\"id\":150709,\"logo_path\":\"\/k8bq9OvcZ8McsDtbxQQB6WPS69l.png\",\"name\":\"GFM Animation\",\"origin_country\":\"GB\"},{\"id\":76742,\"logo_path\":\"\/7DPDeTgKBiuiRUtX4VLQJo2ojpr.png\",\"name\":\"L'Atelier Animation\",\"origin_country\":\"CA\"},{\"id\":144803,\"logo_path\":\"\/yXwiJ1poBK106mUDBLNfIWcaeQg.png\",\"name\":\"Align\",\"origin_country\":\"US\"},{\"id\":219302,\"logo_path\":\"\/munI9xa0NvOj7PfTDMZkXtmoYJt.png\",\"name\":\"The Happy Producers\",\"origin_country\":\"CA\"},{\"id\":5505,\"logo_path\":\"\/lNSXnoZxWcqSFbjI62A7aRGZOPa.png\",\"name\":\"Fulwell 73 Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-18\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"9 lives just isn't enough...\",\"title\":\"10 Lives\",\"video\":false,\"vote_average\":8.348,\"vote_count\":69}"
+}

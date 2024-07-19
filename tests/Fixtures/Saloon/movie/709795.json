@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "999",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21415",
+        "x-memc": "HIT",
+        "x-memc-key": "1d59b5d38c49f4e9846e306f6d3380d1",
+        "x-memc-age": "779",
+        "x-memc-expires": "21415",
+        "ETag": "W\/\"300eba7a123f210ced8611214eb2d87d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XMzAIMM1gx0QFY-N8jXtyk2yDIhzD4F4hrui0czOKtps1StMhpq8Tg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":709795,\"imdb_id\":\"tt2823144\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"Violets are Blue\",\"overview\":\"Daniel moves into a Seniors' residence because he is lonely. There he meets Violet and they fall in love. However, Violet's daughter-in-law does not approve of her starting a new relationship and does everything in her power to keep them apart. How much autonomy are seniors given to make their own decisions? At what point do they cease to be capable of making personal choices?\",\"popularity\":1.914,\"poster_path\":\"\/hRbpMxA7novJQoJNhEs0r1n08Bl.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Violets are Blue\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

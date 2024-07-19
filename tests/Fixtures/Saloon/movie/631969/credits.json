@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "898",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:42:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28345",
+        "x-memc": "HIT",
+        "x-memc-key": "326b314624108030387e4eb6289d6fa1",
+        "x-memc-age": "338",
+        "x-memc-expires": "28345",
+        "ETag": "W\/\"c502061b82de35dd08bb581bb855bbbc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_D24njgtMnmeK5FekBn-SH6ju7-OJYE2fHT0qOgLSunBQmkfzHxe3A=="
+    },
+    "data": "{\"id\":631969,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1303037,\"known_for_department\":\"Acting\",\"name\":\"Taron Egerton\",\"original_name\":\"Taron Egerton\",\"popularity\":36.505,\"profile_path\":\"\/m2quoFahFbTJ1XQykvqmwYNkzeX.jpg\",\"cast_id\":3,\"character\":\"Gary 'Eggsy' Unwin \/ Galahad\",\"credit_id\":\"61c9b098cdbaff009cb2afb3\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":5472,\"known_for_department\":\"Acting\",\"name\":\"Colin Firth\",\"original_name\":\"Colin Firth\",\"popularity\":37.953,\"profile_path\":\"\/4VBeYEUQbfhnivdkqInM36u5fda.jpg\",\"cast_id\":2,\"character\":\"Harry Hart \/ Galahad\",\"credit_id\":\"61c9b077e72fe800857972ec\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":957,\"known_for_department\":\"Production\",\"name\":\"Matthew Vaughn\",\"original_name\":\"Matthew Vaughn\",\"popularity\":25.602,\"profile_path\":\"\/Dnbz3B7yy4u0abixuD5LakZgsy.jpg\",\"credit_id\":\"5d918976172d7f001f59d40e\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

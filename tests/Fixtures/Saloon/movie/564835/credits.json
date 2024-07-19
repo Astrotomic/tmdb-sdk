@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1831",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5879",
+        "x-memc": "HIT",
+        "x-memc-key": "a95cdfa27d448a5e106167073083aad5",
+        "x-memc-age": "18796",
+        "x-memc-expires": "5879",
+        "ETag": "W\/\"8d7fc99f7721932d9cc7c3ef673d9dae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ERtF5mseGRpJnIkV-fp4iZnfWFaWOcBzDSixltk9QHj7Pb049Bo2hQ=="
+    },
+    "data": "{\"id\":564835,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3493633,\"known_for_department\":\"Sound\",\"name\":\"Jessica Stuart\",\"original_name\":\"Jessica Stuart\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":7,\"character\":\"Self\",\"credit_id\":\"624bc2beab5e34009ea58e17\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2245071,\"known_for_department\":\"Directing\",\"name\":\"Edmund Stenson\",\"original_name\":\"Edmund Stenson\",\"popularity\":0.021,\"profile_path\":null,\"credit_id\":\"5c6adbf70e0a261e069b150b\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1932822,\"known_for_department\":\"Directing\",\"name\":\"Daniel Roher\",\"original_name\":\"Daniel Roher\",\"popularity\":2.781,\"profile_path\":\"\/A8A1kXh8X2yPDJcgBZpE1tV7zu3.jpg\",\"credit_id\":\"5c6adc169251417df4077208\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2376413,\"known_for_department\":\"Production\",\"name\":\"Felicity Justrabo\",\"original_name\":\"Felicity Justrabo\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"624bc207ed96bc009b7396a1\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":2245071,\"known_for_department\":\"Directing\",\"name\":\"Edmund Stenson\",\"original_name\":\"Edmund Stenson\",\"popularity\":0.021,\"profile_path\":null,\"credit_id\":\"624bc2247fcab30068e7c7ac\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":1932822,\"known_for_department\":\"Directing\",\"name\":\"Daniel Roher\",\"original_name\":\"Daniel Roher\",\"popularity\":2.781,\"profile_path\":\"\/A8A1kXh8X2yPDJcgBZpE1tV7zu3.jpg\",\"credit_id\":\"624bc257127778005010e7af\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3493633,\"known_for_department\":\"Sound\",\"name\":\"Jessica Stuart\",\"original_name\":\"Jessica Stuart\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"624bc2b3a3491100686d6718\",\"department\":\"Sound\",\"job\":\"Music\"}]}"
+}

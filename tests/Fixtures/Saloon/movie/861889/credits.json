@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1300",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:26:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28275",
+        "x-memc": "HIT",
+        "x-memc-key": "e4f8df3dece165be8ba514500eb47f15",
+        "x-memc-age": "505",
+        "x-memc-expires": "28275",
+        "ETag": "W\/\"471e1cc9a295cb2173d514371f735ac6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "khoyG6-unWN3JZMcw5YYmNhHGttXr2SesIdn91aXURSh2Z-qOGJXPg=="
+    },
+    "data": "{\"id\":861889,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1547352,\"known_for_department\":\"Acting\",\"name\":\"Nora J. Novak\",\"original_name\":\"Nora J. Novak\",\"popularity\":0.027,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"611d4c79cc96830045f86ffb\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2872760,\"known_for_department\":\"Acting\",\"name\":\"Heidi Kendrick\",\"original_name\":\"Heidi Kendrick\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"611d4c873a4a12002f4c5773\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1756318,\"known_for_department\":\"Directing\",\"name\":\"Christie Conochalla\",\"original_name\":\"Christie Conochalla\",\"popularity\":0.934,\"profile_path\":null,\"credit_id\":\"611d4ca02e0697002e4db1e2\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1756318,\"known_for_department\":\"Directing\",\"name\":\"Christie Conochalla\",\"original_name\":\"Christie Conochalla\",\"popularity\":0.934,\"profile_path\":null,\"credit_id\":\"611d4cbccc9683005c36405e\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":1756318,\"known_for_department\":\"Directing\",\"name\":\"Christie Conochalla\",\"original_name\":\"Christie Conochalla\",\"popularity\":0.934,\"profile_path\":null,\"credit_id\":\"611d4cd02e069700735462df\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

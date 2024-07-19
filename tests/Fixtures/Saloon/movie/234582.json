@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1104",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12388",
+        "x-memc": "HIT",
+        "x-memc-key": "dd290de47fcee2307f4281f3377aae33",
+        "x-memc-age": "9344",
+        "x-memc-expires": "12388",
+        "ETag": "W\/\"84c93ce462690471bc10b5ff467aad99\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1ilmva8iAk5eJNjmw0VXSF6Zv50urMaZc92w3kUceB2JqO8hltmcEA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dsFroh7hdsaQcx0KURInKHg5V6Y.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.41e.tv\/product\/nick-noel\/\",\"id\":234582,\"imdb_id\":\"tt0316317\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Nick & Noel\",\"overview\":\"A singer and her dog move next door to a widowed father, his little girl and her cat. Despite a rough start, the neighbors grow close, just in time for a Christmas wish to be granted thanks to their devoted pets.\",\"popularity\":2.675,\"poster_path\":\"\/39rA9EmSRQyBFjBioJORRuFW0TW.jpg\",\"production_companies\":[{\"id\":19,\"logo_path\":\"\/2XbFiOpwgdG1P1wKLqfk2kvcTdE.png\",\"name\":\"Film Roman\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-11-25\",\"revenue\":0,\"runtime\":22,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Nick & Noel\",\"video\":false,\"vote_average\":6.0,\"vote_count\":6}"
+}

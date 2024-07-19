@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2073",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8190",
+        "x-memc": "HIT",
+        "x-memc-key": "f048102302918b7f4d654498b8475738",
+        "x-memc-age": "19031",
+        "x-memc-expires": "8190",
+        "ETag": "W\/\"ef41e069f20840971b107c34932a7b4a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DeACHsRCdF4ATj6Kf0CVr4w6N53aXoYQ-rTA7eNzyte0RRYUFH0mpw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vBw4z7l3NI32th7nR34zqRgdvXS.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/theimaginariumofdoctorparnassus\",\"id\":8054,\"imdb_id\":\"tt1054606\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"The Imaginarium of Doctor Parnassus\",\"overview\":\"A travelling theatre company has more to it than meets the eye. It is an imaginary world commanded by the mind of Doctor Parnassus and the audience is in for more than just a show.\",\"popularity\":23.468,\"poster_path\":\"\/DtrqQHa0wT9AWrk2WA9beROJJx.jpg\",\"production_companies\":[{\"id\":212,\"logo_path\":null,\"name\":\"Infinity Features\",\"origin_country\":\"CA\"},{\"id\":342,\"logo_path\":\"\/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png\",\"name\":\"Davis Films\",\"origin_country\":\"FR\"},{\"id\":23116,\"logo_path\":null,\"name\":\"Poo Poo Pictures\",\"origin_country\":\"GB\"},{\"id\":232686,\"logo_path\":null,\"name\":\"Parnassus Productions\",\"origin_country\":\"US\"},{\"id\":10316,\"logo_path\":null,\"name\":\"British Columbia Film\",\"origin_country\":\"CA\"},{\"id\":806,\"logo_path\":\"\/kcNh09qqR2Pkw1JAzRW4CommrW4.png\",\"name\":\"T\u00e9l\u00e9film Canada\",\"origin_country\":\"CA\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"},{\"id\":58,\"logo_path\":\"\/voYCwlBHJQANtjvm5MNIkCF1dDH.png\",\"name\":\"Sony Pictures Classics\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-10-01\",\"revenue\":64352607,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The man who tried to cheat the devil.\",\"title\":\"The Imaginarium of Doctor Parnassus\",\"video\":false,\"vote_average\":6.38,\"vote_count\":2650}"
+}

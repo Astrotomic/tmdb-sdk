@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "896",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20761",
+        "x-memc": "HIT",
+        "x-memc-key": "a24df6c40d8c4416d4a5304e092e7e2e",
+        "x-memc-age": "6694",
+        "x-memc-expires": "20761",
+        "ETag": "W\/\"1103f08f3913946e32618d38f05142d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EQmf9hQ1H2SqZzgDjyYNeMkWQWzxdTCr20BqVaUMYdwuOmxv83DtUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/46morhqhlMtDMoSc6M8AT2KwjfU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1029843,\"imdb_id\":\"tt22398330\",\"origin_country\":[\"VI\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Guest Of The Woods\",\"overview\":\"Three friends went out for an adventure in the woods, they were attacked by unknown figures.\",\"popularity\":1.848,\"poster_path\":\"\/hfUwGlC4C3l4iPEnL2muzJTTjXF.jpg\",\"production_companies\":[{\"id\":178489,\"logo_path\":null,\"name\":\"Alpha Flicks\",\"origin_country\":\"\"},{\"id\":178490,\"logo_path\":null,\"name\":\"Vortex Corporation\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2022-11-01\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"horror-thriller, woods\",\"title\":\"Guest Of The Woods\",\"video\":false,\"vote_average\":9.0,\"vote_count\":1}"
+}

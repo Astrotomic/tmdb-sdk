@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "233",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20186",
+        "x-memc": "HIT",
+        "x-memc-key": "ffee281d86e0d1082e9a1b30de13268d",
+        "x-memc-age": "1676",
+        "x-memc-expires": "20186",
+        "ETag": "W\/\"0b9b9b5c44ac24ce4a7177050109c114\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "slUeb8tsMKN_7LXOj0NOd4zF5PQ81PADpnCnB1ktAkMpcQtyIo1rdA=="
+    },
+    "data": "{\"id\":695357,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/695357-a-prairie-story\/watch?locale=CA\",\"free\":[{\"logo_path\":\"\/zwTo48JWc9FNCgJ1ADPAfkhYUuA.jpg\",\"provider_id\":441,\"provider_name\":\"NFB\",\"display_priority\":51}]}}}"
+}

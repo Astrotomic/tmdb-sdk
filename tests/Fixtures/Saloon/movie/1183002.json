@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1240",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18014",
+        "x-memc": "HIT",
+        "x-memc-key": "e050c8081c4bde1e091ab3e5ea9f9e43",
+        "x-memc-age": "7654",
+        "x-memc-expires": "18014",
+        "ETag": "W\/\"9fbbb8493a61c73e29db04b5a92a7b02\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CRvu3GjJNVS06bFwE6sknE9Qh9t34qk-wcFQeFNosc6ZdpWKL5dM3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/x2BNtTu3WOm7LJSwZsKgbhcwa9h.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1183002,\"imdb_id\":\"tt28332336\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Image of You\",\"overview\":\"Identical twins Anna and Zoe find their bond tested over Anna's new love, Nick. While the trusting Anna is head over heels, her skeptical sister Zoe senses a web of deceit. But as Zoe digs for the truth, they're all pulled into a dangerous game where honesty could prove fatal.\",\"popularity\":13.3,\"poster_path\":\"\/gboq2oB6QNBcW32V0A8uOajTwXU.jpg\",\"production_companies\":[{\"id\":2090,\"logo_path\":\"\/jYlUttNqcN5u1pzMQrh5AEhZ27t.png\",\"name\":\"Motion Picture Corporation of America\",\"origin_country\":\"US\"},{\"id\":225147,\"logo_path\":null,\"name\":\"Brad Krevoy Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-10\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sibling rivalries don't get any deadlier.\",\"title\":\"The Image of You\",\"video\":false,\"vote_average\":4.6,\"vote_count\":7}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1327",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14566",
+        "x-memc": "HIT",
+        "x-memc-key": "fa77e48e2dd6fb1d36bd8583de50c27a",
+        "x-memc-age": "9577",
+        "x-memc-expires": "14566",
+        "ETag": "W\/\"bba8fa1d644e6bd1afb15df47aefcb59\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GbgwT4f0iGzf60CgGYE_PYs9vBOdCbinBtzeytPmjqCkxHFZIcSz_w=="
+    },
+    "data": "{\"id\":1034786,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":2360438,\"known_for_department\":\"Editing\",\"name\":\"Rodrigo Zapien\",\"original_name\":\"Rodrigo Zapien\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Dexter\",\"credit_id\":\"63472cf851c01f007ebc16fe\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1072674,\"known_for_department\":\"Acting\",\"name\":\"Paco Mufote\",\"original_name\":\"Paco Mufote\",\"popularity\":2.213,\"profile_path\":\"\/11Wjnp1dcmhKQbTm7RrkKRqbk26.jpg\",\"cast_id\":3,\"character\":\"Alex\",\"credit_id\":\"63472d071b7c5900791a0fcf\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":979448,\"known_for_department\":\"Acting\",\"name\":\"Adolfo Madera\",\"original_name\":\"Adolfo Madera\",\"popularity\":2.717,\"profile_path\":\"\/rgG1XSXOYPzZOopFc6BhmaVZ0MF.jpg\",\"cast_id\":4,\"character\":\"Charlie\",\"credit_id\":\"63472d327eb5f2007bacf982\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":3737961,\"known_for_department\":\"Acting\",\"name\":\"Linda Owlen\",\"original_name\":\"Linda Owlen\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Karime\",\"credit_id\":\"63472d63006b01007f823800\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1596911,\"known_for_department\":\"Directing\",\"name\":\"Jos\u00e9 Paredes\",\"original_name\":\"Jos\u00e9 Paredes\",\"popularity\":1.287,\"profile_path\":null,\"credit_id\":\"63472c9751c01f0079115d8e\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

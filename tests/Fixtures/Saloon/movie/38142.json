@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25796",
+        "x-memc": "HIT",
+        "x-memc-key": "f83d10e1401992afd2562764faf305be",
+        "x-memc-age": "2592",
+        "x-memc-expires": "25796",
+        "ETag": "W\/\"ce22208c99483fff777368e9616109df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-uT7embuKrIY4LZeXqJ2Fj00VtS6VvVX1jtCHeIua6NbbjCHPcym-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7Ly4Smxxp5qBBxsoIZ4otEOG1kc.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/gkids.com\/films\/5-centimeters-per-second\",\"id\":38142,\"imdb_id\":\"tt0983213\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u79d2\u901f5\u30bb\u30f3\u30c1\u30e1\u30fc\u30c8\u30eb\",\"overview\":\"Three moments in Takaki's life: his relationship with Akari and their forced separation; his friendship with Kanae, who is secretly in love with him; the demands and disappointments of adulthood, an unhappy life in a cold city.\",\"popularity\":66.709,\"poster_path\":\"\/dFipUR6W0y3PPkuVS8gjFd929m2.jpg\",\"production_companies\":[{\"id\":3756,\"logo_path\":\"\/t38uPdbKmyBB8brKKeTFWIwojRz.png\",\"name\":\"CoMix Wave Films\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2007-03-03\",\"revenue\":0,\"runtime\":63,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"At what speed must I live to see you again?\",\"title\":\"5 Centimeters per Second\",\"video\":false,\"vote_average\":7.3,\"vote_count\":1889}"
+}

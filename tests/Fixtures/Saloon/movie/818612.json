@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1357",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18135",
+        "x-memc": "HIT",
+        "x-memc-key": "bc9ce82fc48f5949cb74a82bb642a595",
+        "x-memc-age": "9012",
+        "x-memc-expires": "18135",
+        "ETag": "W\/\"7e5e2951da1bf2a3e431ff2731d3a6b0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Jbh2ZW8Cbd47jm0fO3lyXTqwLwiWoRjSzfbx7YAgkpNscH8Wgg1m2A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/28g4hWuk8bQXz2BABFY8HRGPcOS.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.netflix.com\/WeddingSeason\",\"id\":818612,\"imdb_id\":\"tt11426572\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Wedding Season\",\"overview\":\"Pressured by their immigrant parents to find spouses, two Indian-Americans pretend to date in order to survive a summer of weddings \u2013 but find themselves falling for each other as they struggle to balance who they are with who their parents want them to be.\",\"popularity\":20.349,\"poster_path\":\"\/mFeXAZ1oOECPqEu8c2i4L5LmNyY.jpg\",\"production_companies\":[{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"},{\"id\":24021,\"logo_path\":\"\/urq2p5ColCf657b5nOmBpBOrjyv.png\",\"name\":\"Jax Media\",\"origin_country\":\"US\"},{\"id\":59033,\"logo_path\":null,\"name\":\"Samosa Stories\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-04\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wedding Season\",\"video\":false,\"vote_average\":6.26,\"vote_count\":217}"
+}

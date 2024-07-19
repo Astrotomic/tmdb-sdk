@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1609",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:43:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21313",
+        "x-memc": "HIT",
+        "x-memc-key": "4f322d8735352a68112ad9b2cd871a6d",
+        "x-memc-age": "4315",
+        "x-memc-expires": "21313",
+        "ETag": "W\/\"3ef4ca41e8116ed07433aac98d90eb4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 837a869ba82f4a85a2e5810b11746698.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aFDtn-cZMvU0MSg5aDAtzmz-rH92q0U-v3lSg-wPIPUBFS7YvB5wOg=="
+    },
+    "data": "{\"id\":395812,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1614701,\"known_for_department\":\"Acting\",\"name\":\"Adjovi Koene\",\"original_name\":\"Adjovi Koene\",\"popularity\":0.895,\"profile_path\":\"\/8liC1I28neuY3TZ87rLaKRkfuCV.jpg\",\"cast_id\":0,\"character\":\"Aster\",\"credit_id\":\"5728b0f19251413568000bbd\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1614702,\"known_for_department\":\"Acting\",\"name\":\"Charlotte Rea\",\"original_name\":\"Charlotte Rea\",\"popularity\":0.353,\"profile_path\":null,\"cast_id\":1,\"character\":\"Sidney\",\"credit_id\":\"5728b0fe925141149f000f82\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":3,\"id\":1614703,\"known_for_department\":\"Directing\",\"name\":\"Sean Temple\",\"original_name\":\"Sean Temple\",\"popularity\":0.014,\"profile_path\":\"\/aqsYzNEsbczgEh2T3YngcSsGKvL.jpg\",\"credit_id\":\"5728b11dc3a3685c3700224d\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1614705,\"known_for_department\":\"Writing\",\"name\":\"Sarah Wisner\",\"original_name\":\"Sarah Wisner\",\"popularity\":0.013,\"profile_path\":null,\"credit_id\":\"5728b139925141756600044c\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":1,\"id\":1614704,\"known_for_department\":\"Camera\",\"name\":\"Mia Cioffi Henry\",\"original_name\":\"Mia Cioffi Henry\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5a8fe56b0e0a2639b200df2e\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":3,\"id\":1614703,\"known_for_department\":\"Directing\",\"name\":\"Sean Temple\",\"original_name\":\"Sean Temple\",\"popularity\":0.014,\"profile_path\":\"\/aqsYzNEsbczgEh2T3YngcSsGKvL.jpg\",\"credit_id\":\"5ec301714e52ed002038a7b6\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

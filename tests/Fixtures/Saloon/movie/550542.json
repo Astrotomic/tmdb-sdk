@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1213",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7442",
+        "x-memc": "HIT",
+        "x-memc-key": "a6b07c4c873d45a8d9f067a2c399844a",
+        "x-memc-age": "16211",
+        "x-memc-expires": "7442",
+        "ETag": "W\/\"7216167ce6a6c1a369d743c5b4053982\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "saRGyuKH6dyueW8BFdPReRzQ3xkLb_xF8JmSPc_JHWZvepBonwb_nQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":550542,\"imdb_id\":null,\"origin_country\":[\"BG\"],\"original_language\":\"bg\",\"original_title\":\"REVIEW OF INNER SPACES\",\"overview\":\"Nina is 35 years old; her husband is 53. She loves him so much that she longs to have a child with him... Max also loves her. He is even flattered that Nina is very jealous, but he does not want a child because he is afraid that the child will call him grandpa... The real reason for the conflict is that Max will soon be killed and only he knows that fact.  The film is a reflection of the emotions and experiences of two lovers, inspired by real events that happened in a provincial town in 2007.\",\"popularity\":2.379,\"poster_path\":\"\/mNaTiCMzKaf5IeN408rsMyq8IGZ.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"BG\",\"name\":\"Bulgaria\"}],\"release_date\":\"2020-01-29\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"Bulgarian\",\"iso_639_1\":\"bg\",\"name\":\"\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"REVIEW OF INNER SPACES\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

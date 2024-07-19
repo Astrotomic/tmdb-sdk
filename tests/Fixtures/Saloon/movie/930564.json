@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1415",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6249",
+        "x-memc": "HIT",
+        "x-memc-key": "e326c94bc8192ef6b04a56750efd35e1",
+        "x-memc-age": "17097",
+        "x-memc-expires": "6249",
+        "ETag": "W\/\"cfd45bb9a04cf0799d054f8440c0f2c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K1QMxiAdSoJTyVrFxKbLUdQQAx3UgulxjMSBefp0a8lJ6tEbxGj4ZA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nM0wz41xkEoVbRiEZLBAMaR9WfI.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.saltburnfilm.com\",\"id\":930564,\"imdb_id\":\"tt17351924\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Saltburn\",\"overview\":\"Struggling to find his place at Oxford University, student Oliver Quick finds himself drawn into the world of the charming and aristocratic Felix Catton, who invites him to Saltburn, his eccentric family's sprawling estate, for a summer never to be forgotten.\",\"popularity\":67.823,\"poster_path\":\"\/qjhahNLSZ705B5JP92YMEYPocPz.jpg\",\"production_companies\":[{\"id\":82968,\"logo_path\":\"\/gRROMOG5bpF6TIDMbfaa5gnFFzl.png\",\"name\":\"LuckyChap Entertainment\",\"origin_country\":\"US\"},{\"id\":2531,\"logo_path\":\"\/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png\",\"name\":\"MRC\",\"origin_country\":\"US\"},{\"id\":207685,\"logo_path\":null,\"name\":\"Lie Still\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-16\",\"revenue\":21013738,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"We're all about to lose our minds.\",\"title\":\"Saltburn\",\"video\":false,\"vote_average\":7.027,\"vote_count\":2105}"
+}

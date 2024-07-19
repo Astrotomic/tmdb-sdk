@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1644",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19933",
+        "x-memc": "HIT",
+        "x-memc-key": "2a95548318a8a9b70fe306852d768737",
+        "x-memc-age": "6372",
+        "x-memc-expires": "19933",
+        "ETag": "W\/\"38bd48e5980e5eb62f219ebbf650c5c2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Bz9m6ArfWWLElHOZh1SXnsgghqqRyZc95XEV2AdXdyZzswafG0Fgtw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8VGaEXbTOGeWGW7IvzOf1j2rjet.jpg\",\"belongs_to_collection\":{\"id\":1582,\"name\":\"Teenage Mutant Ninja Turtles Collection\",\"poster_path\":\"\/hxcTQ9aR9U2hOWyy7S1HoBDFprA.jpg\",\"backdrop_path\":\"\/7dusELv6x1ANRGorNvqbKhKIUPY.jpg\"},\"budget\":25000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1497,\"imdb_id\":\"tt0103060\",\"origin_country\":[\"HK\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Teenage Mutant Ninja Turtles II: The Secret of the Ooze\",\"overview\":\"The Turtles and the Shredder battle once again, this time for the last cannister of the ooze that created the Turtles, which Shredder wants to create an army of new mutants.\",\"popularity\":43.053,\"poster_path\":\"\/Hyvvz9Z3le1is8a0EeFJQm0aSC.jpg\",\"production_companies\":[{\"id\":2521,\"logo_path\":\"\/e9lXexogBN1nOXA8axzASggea8B.png\",\"name\":\"Orange Sky Golden Harvest\",\"origin_country\":\"HK\"},{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":30900,\"logo_path\":\"\/gyO0BxkreNepFOxc882GIdWHblX.png\",\"name\":\"Mirage Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-03-22\",\"revenue\":78656813,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Back by bodacious demand.\",\"title\":\"Teenage Mutant Ninja Turtles II: The Secret of the Ooze\",\"video\":false,\"vote_average\":6.128,\"vote_count\":1080}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1414",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15180",
+        "x-memc": "HIT",
+        "x-memc-key": "a23d4cb34d0fa7cee4e5ee9868987d8d",
+        "x-memc-age": "12709",
+        "x-memc-expires": "15180",
+        "ETag": "W\/\"85dcdaa2217f7b31698b4e4275c23568\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pob-BED-Y8L02u-kRaxVw0jP3BUEbvQO7GVOUDEC-bno0HZaczc7tw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m10uqk0HI5JcITAbxNJIIiGA8HP.jpg\",\"belongs_to_collection\":null,\"budget\":1800000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":968,\"imdb_id\":\"tt0072890\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dog Day Afternoon\",\"overview\":\"Based on the true story of would-be Brooklyn bank robbers John Wojtowicz and Salvatore Naturile. Sonny and Sal attempt a bank heist which quickly turns sour and escalates into a hostage situation and stand-off with the police. As Sonny's motives for the robbery are slowly revealed and things become more complicated, the heist turns into a media circus.\",\"popularity\":23.485,\"poster_path\":\"\/mavrhr0ig2aCRR8d48yaxtD5aMQ.jpg\",\"production_companies\":[{\"id\":612,\"logo_path\":null,\"name\":\"Artists Entertainment Complex\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1975-09-21\",\"revenue\":46665856,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Anything can happen during the dog days of summer. On August 22nd, 1972, everything did.\",\"title\":\"Dog Day Afternoon\",\"video\":false,\"vote_average\":7.8,\"vote_count\":2862}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1096",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16598",
+        "x-memc": "HIT",
+        "x-memc-key": "b1a1095a137fa84a65d71bf0a2bd0158",
+        "x-memc-age": "6650",
+        "x-memc-expires": "16598",
+        "ETag": "W\/\"5ba98cc7669a9b9e701bc98b8901efd7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vvSYYnAFK4N1-UIeZP4wECy55Tvvje-rFzG3iYfpcbQ18DJcVcw3LQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5P9b4Ehb1rYqyGCoykFDEjEdBX2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81746999\",\"id\":1260916,\"imdb_id\":\"tt31805808\",\"origin_country\":[\"PH\"],\"original_language\":\"tl\",\"original_title\":\"A Journey\",\"overview\":\"Refusing treatment for her cancer, a woman goes on a road trip across Tasmania to check off items on her bucket list with her husband and best friend.\",\"popularity\":14.18,\"poster_path\":\"\/8LbrDogBCM7BxUl5igUrY1CLUfO.jpg\",\"production_companies\":[{\"id\":111281,\"logo_path\":\"\/ayHZ1PGsPfRLBjw8NZBkEAQYAt8.png\",\"name\":\"Mavx Productions\",\"origin_country\":\"PH\"},{\"id\":226170,\"logo_path\":null,\"name\":\"Filmotion Productions\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"PH\",\"name\":\"Philippines\"}],\"release_date\":\"2024-04-13\",\"revenue\":0,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Tagalog\",\"iso_639_1\":\"tl\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Journey\",\"video\":false,\"vote_average\":7.548,\"vote_count\":21}"
+}

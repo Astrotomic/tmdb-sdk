@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1549",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14816",
+        "x-memc": "HIT",
+        "x-memc-key": "ccb0a1801167693a69d4277142f9ab87",
+        "x-memc-age": "10728",
+        "x-memc-expires": "14816",
+        "ETag": "W\/\"aeebc0a792aa3d730fb0703d16df0774\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "v80GQHdPqkMm3-jrcHiJKi5-wC5ntFNBW_Cr8hwNSYP3MgHVTCUl2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/LtrKJI6q8AAnOEvJeNhL5H6M8J.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":799,\"imdb_id\":\"tt0161935\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"P\u00fcnktchen und Anton\",\"overview\":\"Luise, called P\u00fcnktchen, and Anton are closest of friends. Being the daughter of a wealthy surgeon, young P\u00fcnktchen lives in a great house. Her mother, who always travels through the world more for public relation reasons than for the social tasks she pretends to fulfill, is never available to her as a mother. Anton, son of a single and sick mother in financial trouble, does his best to help her out of it by working late. P\u00fcnktchen decides to help her only friend (as nobody else would anyway) and starts singing in public places. Trouble arises when Anton can't resist stealing a golden lighter and P\u00fcnktchen's secret life is discovered by her parents. Two troubled families finally can see the need for actions to be taken.\",\"popularity\":4.306,\"poster_path\":\"\/d7sc2f57F3jSFew7Nz5dJBPUCFC.jpg\",\"production_companies\":[{\"id\":510,\"logo_path\":null,\"name\":\"Lunaris Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1999-03-11\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Annaluise & Anton\",\"video\":false,\"vote_average\":7.1,\"vote_count\":24}"
+}

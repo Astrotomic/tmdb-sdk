@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1449",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10539",
+        "x-memc": "HIT",
+        "x-memc-key": "ac0f50b33b781dd0ace6b8691fd91883",
+        "x-memc-age": "14079",
+        "x-memc-expires": "10539",
+        "ETag": "W\/\"6d0cffd176d721f6322abceddf68f81b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iKMb7xPkiDRPQ6vnJddYINMlwblYVrYYWHgCMRTNZmX2VGRO7eXscA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5VKTBTheoNKGlMWcJVdYZLPJW9q.jpg\",\"belongs_to_collection\":{\"id\":506940,\"name\":\"Baaghi Collection\",\"poster_path\":\"\/uuolaInUODfOY1Xnfun59Z4aCac.jpg\",\"backdrop_path\":\"\/yy7QokO7xNrwlaRjHYcDePuS49n.jpg\"},\"budget\":5103000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":391629,\"imdb_id\":\"tt4864932\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u092c\u093e\u0918\u0940\",\"overview\":\"Ronny is a rebellious man, who falls in love with Sia but circumstances separate them. Years later, Ronny learns that Sia is abducted by a martial arts champion, Raghav.\",\"popularity\":21.28,\"poster_path\":\"\/o5VJiWgGp1O2OtjESZVd37gepYQ.jpg\",\"production_companies\":[{\"id\":60536,\"logo_path\":\"\/chMIfiURhqvr6eWCrzxIwuaWVeN.png\",\"name\":\"Nadiadwala Grandson Entertainment\",\"origin_country\":\"IN\"},{\"id\":2320,\"logo_path\":\"\/nSAXfUCy16cNRiPlBMHeb700t9p.png\",\"name\":\"UTV Motion Pictures\",\"origin_country\":\"IN\"},{\"id\":6854,\"logo_path\":null,\"name\":\"Benetone Films\",\"origin_country\":\"TH\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"}],\"release_date\":\"2016-04-29\",\"revenue\":17377000,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Be a Rebel\",\"title\":\"Baaghi\",\"video\":false,\"vote_average\":6.376,\"vote_count\":125}"
+}

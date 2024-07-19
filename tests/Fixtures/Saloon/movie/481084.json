@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1871",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19166",
+        "x-memc": "HIT",
+        "x-memc-key": "c35611d6b6d81190df465e02c04f4fb6",
+        "x-memc-age": "9189",
+        "x-memc-expires": "19166",
+        "ETag": "W\/\"268f2f289efb4a8f08307f33b52f23ce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TKVqTp7K7yHo-_5BYC3BI8SWelnNv3MUTDx3d8VRmDVL9_qbDIGksw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uCAy0n0WHTGU4d3LMJtE0fQxCej.jpg\",\"belongs_to_collection\":{\"id\":750822,\"name\":\"The Addams Family (Animated) Collection\",\"poster_path\":\"\/392omPB0NlpsxEqJkagjdUJeuhb.jpg\",\"backdrop_path\":\"\/3VfaWlf8wJewGsKSTYhJsY0pnNx.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.addamsfamily.movie\/\",\"id\":481084,\"imdb_id\":\"tt1620981\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Addams Family\",\"overview\":\"The Addams family's lives begin to unravel when they face-off against a treacherous, greedy crafty reality-TV host while also preparing for their extended family to arrive for a major celebration.\",\"popularity\":60.705,\"poster_path\":\"\/q1epO0eO8DWu8Vo8tPfvVlzW48T.jpg\",\"production_companies\":[{\"id\":75234,\"logo_path\":null,\"name\":\"Cinesite Animation\",\"origin_country\":\"CA\"},{\"id\":46875,\"logo_path\":null,\"name\":\"Nitrogen Studios Canada\",\"origin_country\":\"CA\"},{\"id\":13240,\"logo_path\":\"\/aTc07YaNHo8WNgkQSnvLmG6w4nW.png\",\"name\":\"Bron Studios\",\"origin_country\":\"CA\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":53152,\"logo_path\":\"\/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png\",\"name\":\"Creative Wealth Media Finance\",\"origin_country\":\"CA\"},{\"id\":75060,\"logo_path\":\"\/iS6njjhHMBYIcwcBrjNfd53dyXQ.png\",\"name\":\"The Jackal Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-10-10\",\"revenue\":204394183,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Think your family is weird?\",\"title\":\"The Addams Family\",\"video\":false,\"vote_average\":6.62,\"vote_count\":2244}"
+}

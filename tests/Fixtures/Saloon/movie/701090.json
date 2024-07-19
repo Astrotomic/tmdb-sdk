@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1004",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13565",
+        "x-memc": "HIT",
+        "x-memc-key": "025da664d8dbe6127d824236bfed2b76",
+        "x-memc-age": "13014",
+        "x-memc-expires": "13565",
+        "ETag": "W\/\"fddc016c7156e436f3c1aba5f6a00bae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iqzE6zCIQ9_kKTfptu7aok7_Bv1jjwjLSkg02VTMfc4vkEdqmBwY1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":701090,\"imdb_id\":\"tt0161989\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Stolen Heart\",\"overview\":\"A trio of small-time hoods decide to go for the big time by kidnapping the daughter of a rich self-help guru. The kidnapping goes awry and the whole group find themselves in the midst of a family relationship problem.\",\"popularity\":2.043,\"poster_path\":\"\/8fw7pPcl9t3hKsPdMQNK7ME83sl.jpg\",\"production_companies\":[{\"id\":171241,\"logo_path\":null,\"name\":\"Backroad Film Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"1998-06-12\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Stolen Heart\",\"video\":false,\"vote_average\":8.0,\"vote_count\":2}"
+}

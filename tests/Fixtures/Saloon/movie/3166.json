@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1415",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9790",
+        "x-memc": "HIT",
+        "x-memc-key": "6bcea18f46bd08b7fa39b01b4f798ccf",
+        "x-memc-age": "17068",
+        "x-memc-expires": "9790",
+        "ETag": "W\/\"e0b61bc112604a7bd0e841b87d67fcfd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Jd8ZpkFg7t2tIszXYPubWSd4VLyrKc8yRBtDnjEawbaC81xIxK8lfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pWteX0tAn8Y4AzLKyQZ8cXJiKdE.jpg\",\"belongs_to_collection\":null,\"budget\":60000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3166,\"imdb_id\":\"tt0059199\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frankenstein Meets the Space Monster\",\"overview\":\"When an atomic war on Mars destroys the planet's women, it's up to Martian Princess Marcuzan and her right-hand man Dr. Nadir to travel to earth and kidnap women for new breeding stock. Landing in Puerto Rico, they shoot down a NASA space capsule manned by an android. With his electronic brain damaged, the android terrorizes the island while the Martians raid beaches and pool parties\",\"popularity\":4.548,\"poster_path\":\"\/39IPy2fSNn9NuzMn9kjT4uKhPHY.jpg\",\"production_companies\":[{\"id\":1348,\"logo_path\":null,\"name\":\"Vernon-Seneca Films\",\"origin_country\":\"\"},{\"id\":1349,\"logo_path\":null,\"name\":\"Futurama Entertainment\",\"origin_country\":\"\"},{\"id\":4928,\"logo_path\":null,\"name\":\"Allied Artists Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1965-09-22\",\"revenue\":0,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Frankenstein Meets the Space Monster\",\"video\":false,\"vote_average\":4.515,\"vote_count\":34}"
+}

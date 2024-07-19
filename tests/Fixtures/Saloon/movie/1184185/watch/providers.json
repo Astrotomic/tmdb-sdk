@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "527",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3760",
+        "x-memc": "HIT",
+        "x-memc-key": "95977189824214316d5d389d1142d7ec",
+        "x-memc-age": "19747",
+        "x-memc-expires": "3760",
+        "ETag": "W\/\"5ff53c911b5f5ec98b9fef9bff4311cc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ca339b9e98820e424be1609317fd0314.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FMHCGp4nO2AJjbx_KqB_TpXbez-PnqQWK_rm1wH3VertIXd1P3BlnQ=="
+    },
+    "data": "{\"id\":1184185,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1184185-first-lady-of-bmf-the-tonesa-welch-story\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/2AvUqoIHAq2lLxRy2IxOBUgCYef.jpg\",\"provider_id\":343,\"provider_name\":\"Bet+ Amazon Channel\",\"display_priority\":115},{\"logo_path\":\"\/biHGb84xAzYrNkdvX5XWQTmgzC8.jpg\",\"provider_id\":1759,\"provider_name\":\"Bet+\",\"display_priority\":180},{\"logo_path\":\"\/yFk3WffvGGUtIjJBSV0pgsciaEB.jpg\",\"provider_id\":2040,\"provider_name\":\"BET+  Apple TV channel\",\"display_priority\":271}]}}}"
+}

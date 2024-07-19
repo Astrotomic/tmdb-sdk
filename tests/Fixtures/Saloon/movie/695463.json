@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1340",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17952",
+        "x-memc": "HIT",
+        "x-memc-key": "8b8e6d665f4a7bf8cb57798b44b2dba6",
+        "x-memc-age": "9137",
+        "x-memc-expires": "17952",
+        "ETag": "W\/\"0a3460701bd95d531cca28fd02c856c4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lQjIrrIVwaPV0XuOOdk2DpQfF1RrL34c7c2xXzUYlGSKAIW9_Vo4RQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gFSFi58rWS8xzvsFtinmtF0EAL9.jpg\",\"belongs_to_collection\":null,\"budget\":12000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.oxfordfilmfest.com\",\"id\":695463,\"imdb_id\":\"tt2199661\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Show Must Go On\",\"overview\":\"When a dying theater\u2019s last hope for business suddenly goes from a murder mystery show to an actual murder mystery, the cast must play it off in order to save their jobs!\",\"popularity\":4.222,\"poster_path\":\"\/3IlrrxMZx7LUbYpUvwQamTK4IGY.jpg\",\"production_companies\":[{\"id\":191343,\"logo_path\":null,\"name\":\"Oxford Film Festival\",\"origin_country\":\"\"},{\"id\":191344,\"logo_path\":null,\"name\":\"Media \\u0026 Documentary Projects\",\"origin_country\":\"\"},{\"id\":191345,\"logo_path\":null,\"name\":\"The Loft Grant\",\"origin_country\":\"\"},{\"id\":142478,\"logo_path\":null,\"name\":\"Magnolia Hill Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-02-09\",\"revenue\":0,\"runtime\":25,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Break a leg\u2026if you\u2019re lucky.\",\"title\":\"The Show Must Go On\",\"video\":false,\"vote_average\":8.5,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1235",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17782",
+        "x-memc": "HIT",
+        "x-memc-key": "0199529c0c76adf0a8b07f771a75948a",
+        "x-memc-age": "7669",
+        "x-memc-expires": "17782",
+        "ETag": "W\/\"381b003341815acf62d4355d3386b58a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VdRHO2rjkpchHVFucIkFDmA_pBt16KP-aPlaiZspSrjFVX8Z4kUvFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lBmfYtJherlJgoBAVskC7eRgnht.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":17467,\"imdb_id\":\"tt0102293\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u529b\u738b\",\"overview\":\"In 2001, where all correctional facilities have been privatized, martial artist Ricky finds himself victim to the corrupt system, found \\\"guilty\\\" of the manslaughter of an infamous crime boss.\",\"popularity\":23.86,\"poster_path\":\"\/uPkIU5EptkWth21qAlthpiyVsoY.jpg\",\"production_companies\":[{\"id\":3326,\"logo_path\":null,\"name\":\"Diagonal Pictures\",\"origin_country\":\"\"},{\"id\":2734,\"logo_path\":null,\"name\":\"Paragon Films Ltd.\",\"origin_country\":\"HK\"},{\"id\":2521,\"logo_path\":\"\/e9lXexogBN1nOXA8axzASggea8B.png\",\"name\":\"Orange Sky Golden Harvest\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1991-10-05\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Riki-Oh: The Story of Ricky\",\"video\":false,\"vote_average\":6.831,\"vote_count\":304}"
+}

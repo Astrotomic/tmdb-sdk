@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1830",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20117",
+        "x-memc": "HIT",
+        "x-memc-key": "d6f96c2b4fc29190843acec47990669e",
+        "x-memc-age": "1654",
+        "x-memc-expires": "20117",
+        "ETag": "W\/\"ebdbfd38caa5f6485703400e434b87a6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3P9qrl5sdn3Iw8m_QVusTizKnVlOjiQmn0hefsEkQ-r87OaZS0SxoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/om47GMuXbkAtlBgBcOnklWAXg6H.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":11799,\"imdb_id\":\"tt0059956\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Viva Maria !\",\"overview\":\"Gorgeous IRA operative Marie flees the British authorities and finds herself somewhere in the American continent, where she meets a stunning woman also named Marie, a singer in a traveling circus. The new friends start a vaudeville act that grows exponentially more popular after they incorporate striptease into their routine. When the singer Maria falls for a charismatic rebel, the girls leave the circus behind and recreate themselves as wild-eyed revolutionaries.\",\"popularity\":20.628,\"poster_path\":\"\/dXoW8MNvpKn3dpFS1rhzwZAUdWF.jpg\",\"production_companies\":[{\"id\":753,\"logo_path\":null,\"name\":\"Nouvelles \u00c9ditions de Films (NEF)\",\"origin_country\":\"FR\"},{\"id\":64,\"logo_path\":null,\"name\":\"Les Productions Artistes Associ\u00e9s\",\"origin_country\":\"FR\"},{\"id\":12111,\"logo_path\":null,\"name\":\"Vides Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1965-11-22\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The world will never forget the two heroines who charged into battle undaunted, unafraid, and\u2026 undressed!\",\"title\":\"Viva Maria!\",\"video\":false,\"vote_average\":6.0,\"vote_count\":85}"
+}

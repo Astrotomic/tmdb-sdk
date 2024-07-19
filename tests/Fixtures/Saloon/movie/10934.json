@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1801",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12565",
+        "x-memc": "HIT",
+        "x-memc-key": "1225a952f8fdc8010a3b3ce7142a66b3",
+        "x-memc-age": "15011",
+        "x-memc-expires": "12565",
+        "ETag": "W\/\"73298a9c0a203fdf19caf49df3d5be1a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8NVgHU6YlUlFWYsVHGxMg7yLakxECE4GPAzbSez0mRWMn5hAU8--Mw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rIAAfzmooIehwrmqVkXDBcBUFtt.jpg\",\"belongs_to_collection\":null,\"budget\":18000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10934,\"imdb_id\":\"tt0328589\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Under the Tuscan Sun\",\"overview\":\"After a rough divorce, Frances, a 35-year-old professor and writer from San Francisco takes a tour of Tuscany at the urgings of her friends. On a whim she buys Bramasole, a run down villa in the Tuscan countryside and begins to piece her life together starting with the villa and finds that life sometimes has unexpected ways of giving her everything she wanted.\",\"popularity\":19.927,\"poster_path\":\"\/3vQUQwdtfPt1Sl2GZrIECWWA0dk.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":679,\"logo_path\":null,\"name\":\"Timnick Films\",\"origin_country\":\"US\"},{\"id\":3983,\"logo_path\":null,\"name\":\"Blue Gardenia Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-09-20\",\"revenue\":58878723,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"Life offers you a thousand chances ... all you have to do is take one.\",\"title\":\"Under the Tuscan Sun\",\"video\":false,\"vote_average\":6.877,\"vote_count\":839}"
+}

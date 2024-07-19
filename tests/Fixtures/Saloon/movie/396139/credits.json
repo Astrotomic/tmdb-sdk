@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "307",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2710",
+        "x-memc": "HIT",
+        "x-memc-key": "a4405ef07efb5450d5f1cb60087862e0",
+        "x-memc-age": "24772",
+        "x-memc-expires": "2710",
+        "ETag": "W\/\"2cd6cbf15d3c58320ce2eb1505f95cba\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8bVXCUqz12sUMYcRp_g2sn-ezmAvL7btHXZ0uv2o2QJUD4xBVwXFhg=="
+    },
+    "data": "{\"id\":396139,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":148103,\"known_for_department\":\"Directing\",\"name\":\"Shin Sang-ok\",\"original_name\":\"\uc2e0\uc0c1\uc625\",\"popularity\":14.048,\"profile_path\":\"\/z4u9xaPaSHPyoneOL1kXaxyfu1R.jpg\",\"credit_id\":\"572ae4b3c3a368480d001673\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

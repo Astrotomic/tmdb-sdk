@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "506",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=936",
+        "x-memc": "HIT",
+        "x-memc-key": "87dd9674f31d523225e44bf33b4e86fa",
+        "x-memc-age": "23040",
+        "x-memc-expires": "936",
+        "ETag": "W\/\"f9d189179d057e951a35427c8bf2f642\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "__6PF1oKxmbYQwHu6axgZ9EmnoJX0D1nnFQHkiYruMT25TieMTL8sw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[],\"homepage\":\"\",\"id\":969753,\"imdb_id\":null,\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"SOME\",\"overview\":\"\",\"popularity\":0.295,\"poster_path\":\"\/ec5mrzWgGxMYhCHwmVy8c1Pr730.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2014-09-13\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"SOME\",\"video\":false,\"vote_average\":6.0,\"vote_count\":7}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1304",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3558",
+        "x-memc": "HIT",
+        "x-memc-key": "6908cb968f9a36c530c53678f3766e52",
+        "x-memc-age": "23195",
+        "x-memc-expires": "3558",
+        "ETag": "W\/\"0b8ba0a03b45a68c77884b87c24e1b99\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JetGmiW71qlUJXCoow4yRWDS5yX8LoSZ8jkdHipHksGRysuBudbP5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ibrZ4mTkRJbFJ8UAFTCW590DM38.jpg\",\"belongs_to_collection\":null,\"budget\":14400000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":33,\"imdb_id\":\"tt0105695\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Unforgiven\",\"overview\":\"William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a prostitute. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff.\",\"popularity\":61.662,\"poster_path\":\"\/54roTwbX9fltg85zjsmrooXAs12.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":171,\"logo_path\":\"\/bqLWwuNCHcY3IjB5e4o29h7l80D.png\",\"name\":\"Malpaso Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-08-07\",\"revenue\":159157447,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some legends will never be forgotten. Some wrongs can never be forgiven.\",\"title\":\"Unforgiven\",\"video\":false,\"vote_average\":7.92,\"vote_count\":4269}"
+}

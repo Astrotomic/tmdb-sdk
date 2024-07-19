@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1161",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16719",
+        "x-memc": "HIT",
+        "x-memc-key": "ff69a97a71ecbf1442c0fc7344c9852d",
+        "x-memc-age": "6806",
+        "x-memc-expires": "16719",
+        "ETag": "W\/\"7d3bb42909645e006c8bfd60b2d2f51b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JDiR-Z34Iz7Jm-zVucTNAbEIK0yzNrhSu5qHJFIGBtT8TjSWZp4KEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9gC4GsEKKFVeqwI4tt8FV5m2R6m.jpg\",\"belongs_to_collection\":null,\"budget\":50000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.hairornohair.com\/\",\"id\":1175871,\"imdb_id\":\"tt26929410\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Hair or No Hair\",\"overview\":\"Hair or No Hair is a short dramatic film about a young Black woman. She has been hiding behind wigs for years until her Alopecia is exposed publicly. She uses this experience as a catalyst to break free of the shame she feels towards her baldness.\",\"popularity\":3.056,\"poster_path\":\"\/7vccb4zLM65lEXB4wKiKu6I2mO.jpg\",\"production_companies\":[{\"id\":173107,\"logo_path\":null,\"name\":\"BOLDLY\",\"origin_country\":\"\"},{\"id\":108961,\"logo_path\":null,\"name\":\"TELUS STORYHIVE\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2023-09-18\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Challenging societal norms, one bald woman at a time.\",\"title\":\"Hair or No Hair\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

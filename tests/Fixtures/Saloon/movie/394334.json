@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1804",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11409",
+        "x-memc": "HIT",
+        "x-memc-key": "05b571612c4b2ede9b780299e75355ed",
+        "x-memc-age": "12779",
+        "x-memc-expires": "11409",
+        "ETag": "W\/\"f615e344cadf3bffb83595236d9a531a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BKFSuW4ohrPeGQHtirNtdleUAQRLYbI9ndSQJewS8E3rUhOP0VcJyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/EZCKyaSOE9fe1hLrTeBp0jeymF.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/aardvarkfilm.com\/catalogue\/de-lautre-cote-de-la-mer\",\"id\":394334,\"imdb_id\":\"tt4883010\",\"origin_country\":[\"CH\"],\"original_language\":\"fr\",\"original_title\":\"De L'Autre C\u00f4t\u00e9 de la Mer\",\"overview\":\"A former war photographer tries to ward off his personal ghosts by taking pictures of trees only. He lives alone among olive trees in southern Italy. One day he decides to cross the sea. Once in Albania, he goes near the location where he had made his last war picture, as if he was retracing his steps. He finds a tree he wants to photograph. He is just about to do so, when he discovers a runaway girl hiding in it with the sole objective of crossing the sea and getting to the other side. The man has no choice. He has to flee with her, follow her and guide her along until a storm separates them.\",\"popularity\":3.528,\"poster_path\":\"\/p3RtZl3rwZAlWpOyWOgqomhjLPk.jpg\",\"production_companies\":[{\"id\":22587,\"logo_path\":null,\"name\":\"CAB Productions\",\"origin_country\":\"CH\"},{\"id\":13668,\"logo_path\":\"\/azhapBvZ8g1UWyyQQhhcRR9bM9x.png\",\"name\":\"RTS\",\"origin_country\":\"CH\"},{\"id\":182724,\"logo_path\":null,\"name\":\"RSI Radiotelevisione svizzera\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"}],\"release_date\":\"2015-08-27\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"Albanian\",\"iso_639_1\":\"sq\",\"name\":\"shqip\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Across the Sea\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2607",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:02:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9899",
+        "x-memc": "HIT",
+        "x-memc-key": "315a9d19d2ed67b372051a51eaadf036",
+        "x-memc-age": "13161",
+        "x-memc-expires": "9899",
+        "ETag": "W\/\"1000976e2fa8c906818a6550da1b76d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vHM6vUAdBl9naaMVScHvnKgQ4dXJtsGk4zF2Ly44_RSwgG7bSirLHw=="
+    },
+    "data": "{\"id\":1028359,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028359-give-me-an-a\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}],\"free\":[{\"logo_path\":\"\/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg\",\"provider_id\":538,\"provider_name\":\"Plex\",\"display_priority\":87}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028359-give-me-an-a\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":49}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":49}]}}}"
+}

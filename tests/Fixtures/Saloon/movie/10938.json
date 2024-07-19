@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1157",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6664",
+        "x-memc": "HIT",
+        "x-memc-key": "071235214b08406d9ed6adc2d55fd06a",
+        "x-memc-age": "15619",
+        "x-memc-expires": "6664",
+        "ETag": "W\/\"6470fc8575e9823aa8ec535999dc7ab4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bZiReA_B-huPVlY-Y6IrRbeF83KbzUXN8pN9knXcFNP1J0DdGFyGQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/da8Kj1bgPvL8Tf1PgkA70UwmYzh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.sonyclassics.com\/beautiful\/index.html\",\"id\":10938,\"imdb_id\":\"tt0115640\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Beautiful Thing\",\"overview\":\"Set during a long, hot summer on the Thamesmead Estate in Southeast London, three teenagers edge towards adulthood.\",\"popularity\":15.987,\"poster_path\":\"\/34fPI0phWQ189lc5O7aNf12jWPm.jpg\",\"production_companies\":[{\"id\":181,\"logo_path\":\"\/zhQ77XOviCBuXd74IurqqjgLNe0.png\",\"name\":\"Channel Four Films\",\"origin_country\":\"GB\"},{\"id\":10532,\"logo_path\":\"\/fgnJcdnipMiexhxaWC3w14b5Nbg.png\",\"name\":\"World Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1996-06-21\",\"revenue\":1500000,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An urban fairytale.\",\"title\":\"Beautiful Thing\",\"video\":false,\"vote_average\":7.317,\"vote_count\":292}"
+}

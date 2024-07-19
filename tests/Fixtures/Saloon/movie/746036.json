@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1371",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12762",
+        "x-memc": "HIT",
+        "x-memc-key": "976e638ad9959b4e6241c64ee4eddead",
+        "x-memc-age": "9534",
+        "x-memc-expires": "12762",
+        "ETag": "W\/\"f1ce06c8ad24a9f58672891ea7a099b8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GtHm0pMMqqoTEoGwCWFzD_p4VFU9titDBlTlKEs1r1QatcVm3K7Gtg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg\",\"belongs_to_collection\":null,\"budget\":125000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.thefallguymovie.com\",\"id\":746036,\"imdb_id\":\"tt1684562\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Fall Guy\",\"overview\":\"Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.\",\"popularity\":482.161,\"poster_path\":\"\/tSz1qsmSJon0rqjHBxXZmrotuse.jpg\",\"production_companies\":[{\"id\":121470,\"logo_path\":\"\/zvJFu1C6gB80A98n6IGXBvMtgVl.png\",\"name\":\"87North Productions\",\"origin_country\":\"US\"},{\"id\":78984,\"logo_path\":\"\/vJLYh9YHQaEryuzu7GNUa1zwKG1.png\",\"name\":\"Entertainment 360\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-24\",\"revenue\":177843881,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Fall hard.\",\"title\":\"The Fall Guy\",\"video\":false,\"vote_average\":7.2,\"vote_count\":1573}"
+}

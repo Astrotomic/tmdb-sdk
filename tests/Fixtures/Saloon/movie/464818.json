@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1067",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10487",
+        "x-memc": "HIT",
+        "x-memc-key": "0ad6a686da816e5dc3d94081bbbd20ef",
+        "x-memc-age": "15533",
+        "x-memc-expires": "10487",
+        "ETag": "W\/\"3dd751c29a5bc4b88603b63b08d8d9dd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4qjvnTGQpjnIZi82-_9EnZk11XPnnsfrHQpxr8-D0rnyVlZSQI_FPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cg75jBCHVOLOliHbzZxdo1C3nY2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.homeeducationfilm.com\",\"id\":464818,\"imdb_id\":\"tt5257464\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Home Education\",\"overview\":\"An inquisitive girl is convinced her dead father will soon be resurrected, certain he has died to test their love for him. However, when the corpse begins to rot, the girl is forced to reconsider the situation.\",\"popularity\":3.716,\"poster_path\":\"\/9xgonlYwxEu0SSYVZcvXJfdJHyH.jpg\",\"production_companies\":[{\"id\":65366,\"logo_path\":\"\/eK2NDPTQzY4ctlXuokQqeBuCrn0.png\",\"name\":\"The London Film School\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2016-10-01\",\"revenue\":0,\"runtime\":24,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's all a test\",\"title\":\"Home Education\",\"video\":false,\"vote_average\":4.8,\"vote_count\":6}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1652",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6384",
+        "x-memc": "HIT",
+        "x-memc-key": "8b9dce8fe6ea597c5e864ff877ad7812",
+        "x-memc-age": "19016",
+        "x-memc-expires": "6384",
+        "ETag": "W\/\"f978c6df39a5642aeecb728fcffdefbb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c8WT-YwzJwbSFQKznCVWHL_Z5afpmSRZif0v_DH6Rn4G8xNZelvrzw=="
+    },
+    "data": "{\"id\":1228887,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":3811920,\"known_for_department\":\"Acting\",\"name\":\"Song Seung-hyun\",\"original_name\":\"Song Seung-hyun\",\"popularity\":1.025,\"profile_path\":\"\/osdFlr2m7MwpkUBegBMcP9T8ZqM.jpg\",\"cast_id\":1,\"character\":\"Seon Ho\",\"credit_id\":\"659deac36728a800941a85e3\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":2762546,\"known_for_department\":\"Acting\",\"name\":\"Ko Chan-bin\",\"original_name\":\"Ko Chan-bin\",\"popularity\":4.984,\"profile_path\":\"\/pPQGVlwtKM5Uq4El5gkdvN5WNfX.jpg\",\"cast_id\":2,\"character\":\"Gu Mu Yeong\",\"credit_id\":\"659dead1d6590b025cb24b2a\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":3114549,\"known_for_department\":\"Acting\",\"name\":\"Lee Do-ha\",\"original_name\":\"Lee Do-ha\",\"popularity\":0.028,\"profile_path\":\"\/kxWv39Pit5rcrHxnbBkXNPs0aeU.jpg\",\"cast_id\":3,\"character\":\"Han Joon Seok\",\"credit_id\":\"659deae76728a801a52f2b03\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":3478195,\"known_for_department\":\"Acting\",\"name\":\"Seo Hyo-myeong\",\"original_name\":\"Seo Hyo-myeong\",\"popularity\":1.649,\"profile_path\":\"\/gqgPwmpnCJMmgN2tgg0DQJYCI0Y.jpg\",\"cast_id\":4,\"character\":\"Lee Min Yeong\",\"credit_id\":\"659deb286728a800941a8611\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4473204,\"known_for_department\":\"Directing\",\"name\":\"Joo Sung Min\",\"original_name\":\"Joo Sung Min\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"659debe62cff180095ba3bdc\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4473206,\"known_for_department\":\"Writing\",\"name\":\"Jung Yoo Kyung\",\"original_name\":\"Jung Yoo Kyung\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"659dec001d78f2025c16de3a\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

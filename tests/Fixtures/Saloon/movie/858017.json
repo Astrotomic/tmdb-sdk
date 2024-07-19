@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1581",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10581",
+        "x-memc": "HIT",
+        "x-memc-key": "c831b2b87816ae6997c2866790e95c2d",
+        "x-memc-age": "16738",
+        "x-memc-expires": "10581",
+        "ETag": "W\/\"27c8daca978b64c0680de29b56c6e1e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Iq2bXwaVCdsJPATTFTle26eY4jhE-4V6XyZ5c_4goJqm6q51MIvHdQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sNBnCmF1ueoERa4uW5kh929KkRO.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/a24films.com\/films\/i-saw-the-tv-glow\",\"id\":858017,\"imdb_id\":\"tt15574270\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"I Saw the TV Glow\",\"overview\":\"Teenager Owen is just trying to make it through life in the suburbs when his classmate Maddy introduces him to a mysterious late-night TV show \u2014 a vision of a supernatural world beneath their own. In the pale glow of the television, Owen\u2019s view of reality begins to crack.\",\"popularity\":122.18,\"poster_path\":\"\/hS4GYkYpN1rfl4GIxyc02sCyfAj.jpg\",\"production_companies\":[{\"id\":41077,\"logo_path\":\"\/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png\",\"name\":\"A24\",\"origin_country\":\"US\"},{\"id\":138287,\"logo_path\":\"\/3I1k679J7ZLQtVFM23dJhFZQQCH.png\",\"name\":\"Fruit Tree\",\"origin_country\":\"US\"},{\"id\":90610,\"logo_path\":\"\/aKBTv6tEC2JzA4vAi9W7a86zYqg.png\",\"name\":\"Smudge Films\",\"origin_country\":\"US\"},{\"id\":222025,\"logo_path\":null,\"name\":\"Hypnic Jerk\",\"origin_country\":\"US\"},{\"id\":103376,\"logo_path\":\"\/zAyfGEx1LJOkwNTrHugnWHzLRE.png\",\"name\":\"Access Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-03\",\"revenue\":4949699,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Look a little closer.\",\"title\":\"I Saw the TV Glow\",\"video\":false,\"vote_average\":5.808,\"vote_count\":120}"
+}

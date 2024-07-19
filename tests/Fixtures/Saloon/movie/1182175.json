@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "875",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2367",
+        "x-memc": "HIT",
+        "x-memc-key": "19e1f159e1beaba873d88743466ce969",
+        "x-memc-age": "19689",
+        "x-memc-expires": "2367",
+        "ETag": "W\/\"327ed97e56d61358b9316a7a20eaf3b5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pM2MKtmODkUrSe4tzFA1VwWqURP1SI_fOs3fHalF1CmDrPiz--tjkg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1182175,\"imdb_id\":null,\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Teenage Anti-Smoking Baby\",\"overview\":\"The sequel to Smoker of the Future, in which he has a child who will take after his father.\",\"popularity\":1.964,\"poster_path\":\"\/AhaCGdoftsH0M9MeVcDYpq6Zoyk.jpg\",\"production_companies\":[{\"id\":209328,\"logo_path\":null,\"name\":\"Spots Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1985-01-01\",\"revenue\":0,\"runtime\":1,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Teenage Anti-Smoking Baby\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

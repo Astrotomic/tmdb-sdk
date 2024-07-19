@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1980",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18661",
+        "x-memc": "HIT",
+        "x-memc-key": "8a8f89a2d278092686e13c98c9a6e4a1",
+        "x-memc-age": "9938",
+        "x-memc-expires": "18661",
+        "ETag": "W\/\"a6f473061431f0b8186037792640a20b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3PjF1EDM0kUI1Z6dmJZQcDgbTJlqn99WGbHZVBFXt3aZc0qiiFi9wQ=="
+    },
+    "data": "{\"id\":1028547,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028547-twas-the-night-before-christmas\/watch?locale=BR\",\"flatrate\":[{\"logo_path\":\"\/7Cg8esVVXOijXAm1f1vrS7jVjcN.jpg\",\"provider_id\":307,\"provider_name\":\"Globoplay\",\"display_priority\":10}]},\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028547-twas-the-night-before-christmas\/watch?locale=NL\",\"flatrate\":[{\"logo_path\":\"\/qN7uDYanT47WI0MmbwOr5HFFot.jpg\",\"provider_id\":72,\"provider_name\":\"Videoland\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028547-twas-the-night-before-christmas\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"flatrate\":[{\"logo_path\":\"\/614YTzAiVrSIm7bIVcwg4lIMQr7.jpg\",\"provider_id\":290,\"provider_name\":\"Hallmark Movies Now Amazon Channel\",\"display_priority\":85},{\"logo_path\":\"\/ce9sTSF5WsvqEHv7kxOM1LlQha5.jpg\",\"provider_id\":2058,\"provider_name\":\"Hallmark Movies Now Apple TV Channel\",\"display_priority\":266}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17}]}}}"
+}

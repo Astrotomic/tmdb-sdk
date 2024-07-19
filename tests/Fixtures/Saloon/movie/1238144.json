@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "969",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4122",
+        "x-memc": "HIT",
+        "x-memc-key": "5018d7ff78f06a32fd6366efdd923330",
+        "x-memc-age": "18655",
+        "x-memc-expires": "4122",
+        "ETag": "W\/\"b6565b6b4141a6c9e1b9308976054979\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zdlaklnKKEutRKzPHzUKU5LuND3k9Cos7LQjDwVxS77_dnDIAqnlwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xNXNVGP97UivBD7OnOptt57X2qb.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1238144,\"imdb_id\":null,\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Amea\u00e7a Cognitiva\",\"overview\":\"A new threat attacks the country, bringing a series of cases of memory loss and only one individual can end this situation.\",\"popularity\":0.867,\"poster_path\":\"\/w1HbW3fi8NvMB7BJoovFCaHCRNh.jpg\",\"production_companies\":[{\"id\":219565,\"logo_path\":null,\"name\":\"Verrouillage\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2023-08-13\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"And now, who will can defend us?\",\"title\":\"Amea\u00e7a Cognitiva\",\"video\":false,\"vote_average\":10.0,\"vote_count\":2}"
+}

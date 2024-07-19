@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "802",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1290",
+        "x-memc": "HIT",
+        "x-memc-key": "08d5852f95ace56adc7e90d7c966654a",
+        "x-memc-age": "26579",
+        "x-memc-expires": "1290",
+        "ETag": "W\/\"57013e096dbde03348736adb26de4ab4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9u8xFL9HfOdXdOc1_Ez0xS6scZYW9tfS_ilagLRWr4cKdpgglCyU9A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":861942,\"imdb_id\":\"tt15215044\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Caller #4\",\"overview\":\"A \\\"shock jock\\\" radio DJ is thrust into a game of cat and mouse with a mysterious caller claiming to be a serial killer.\",\"popularity\":0.629,\"poster_path\":\"\/gXelgkdAibNUeqkeCaycOMofkLI.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":16,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Caller #4\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

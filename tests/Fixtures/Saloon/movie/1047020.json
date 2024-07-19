@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1475",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23641",
+        "x-memc": "HIT",
+        "x-memc-key": "06b337f965f68de470c87fa9bcf6f1f1",
+        "x-memc-age": "1733",
+        "x-memc-expires": "23641",
+        "ETag": "W\/\"5667d7c038d22b4113d25da58ba54f76\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pJKS2mWowSH3Ew0lUk7bZ6SK-phCHMDkIvyBar5J43di09di7ywFBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Y91KJmQ13jNEpOlNL9j6PPRpIO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/wellgousa.com\/films\/last-stop-yuma-county\",\"id\":1047020,\"imdb_id\":\"tt11674730\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Last Stop in Yuma County\",\"overview\":\"While awaiting the next fuel truck at a middle-of-nowhere Arizona rest stop, a traveling young knife salesman is thrust into a high-stakes hostage situation by the arrival of two similarly stranded bank robbers with no qualms about using cruelty\u2014or cold, hard steel\u2014to protect their bloodstained, ill-gotten fortune.\",\"popularity\":76.335,\"poster_path\":\"\/u6ae2MMh8PpSamO3cIttLM5B18v.jpg\",\"production_companies\":[{\"id\":185930,\"logo_path\":\"\/60jCwT1WAuHb02WC3EOsFIEeloQ.png\",\"name\":\"Random Lane Productions\",\"origin_country\":\"US\"},{\"id\":127431,\"logo_path\":null,\"name\":\"Local Boogeyman\",\"origin_country\":\"US\"},{\"id\":171436,\"logo_path\":\"\/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png\",\"name\":\"Carte Blanche\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-10\",\"revenue\":94344,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never bring a knife salesman to a gunfight.\",\"title\":\"The Last Stop in Yuma County\",\"video\":false,\"vote_average\":7.0,\"vote_count\":76}"
+}

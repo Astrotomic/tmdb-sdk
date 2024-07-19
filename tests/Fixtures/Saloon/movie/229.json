@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1399",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16226",
+        "x-memc": "HIT",
+        "x-memc-key": "98b117a4dd2b94c3759ef4593a104c99",
+        "x-memc-age": "7911",
+        "x-memc-expires": "16226",
+        "ETag": "W\/\"65ea8a4e7ed23e3c202233863871c336\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FGYdSqqv_dsjlIDDKqI74oqr41fuGB8vTUy6Lme5l77tf3s3SVuOlg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/haPU3dCyYUTRN34ceyJrX4DAjZq.jpg\",\"belongs_to_collection\":{\"id\":218406,\"name\":\"Frankenstein (Universal) Collection\",\"poster_path\":\"\/nbRx9vAyYGadtbm6PCJEtJ2IMrN.jpg\",\"backdrop_path\":\"\/aP0pbkGzEpBhCYnZDf72LLS2sU5.jpg\"},\"budget\":393750,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":229,\"imdb_id\":\"tt0026138\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bride of Frankenstein\",\"overview\":\"Dr. Frankenstein and his monster both turn out to be alive, not killed as previously believed. Dr. Frankenstein wants to get out of the evil experiment business, but when a mad scientist, Dr. Pretorius, kidnaps his wife, Dr. Frankenstein agrees to help him create a new creature.\",\"popularity\":33.145,\"poster_path\":\"\/5241zUwe7rC17MNc2QpCBKKdp1N.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":59525,\"logo_path\":null,\"name\":\"James Whale Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1935-04-20\",\"revenue\":2000000,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She's Alive!\",\"title\":\"Bride of Frankenstein\",\"video\":false,\"vote_average\":7.483,\"vote_count\":921}"
+}

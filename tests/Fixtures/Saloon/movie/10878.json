@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1425",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18507",
+        "x-memc": "HIT",
+        "x-memc-key": "97ea09642c3542f7e1efb05e70d34186",
+        "x-memc-age": "9303",
+        "x-memc-expires": "18507",
+        "ETag": "W\/\"08f061373090d65a6042c51b72f2cabe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-Y3VjFk9-rKk3Bznb6gX7SdpbmT9VO4377UVeD8NBTMaWgfar5X5gA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/scrH5AMMD2o73vwgCnhcYXx8zrt.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10878,\"imdb_id\":\"tt0239948\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saving Silverman\",\"overview\":\"A pair of buddies conspire to save their best friend from marrying the wrong woman, a cold-hearted beauty who snatches him from them and breaks up their Neil Diamond cover band.\",\"popularity\":16.881,\"poster_path\":\"\/w6eEJXYECpJnCNqDu4qDCLHvONe.jpg\",\"production_companies\":[{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":172,\"logo_path\":null,\"name\":\"NPV Entertainment\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-02-09\",\"revenue\":19351569,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"}],\"status\":\"Released\",\"tagline\":\"They swore nothing would come between them. Then she came along.\",\"title\":\"Saving Silverman\",\"video\":false,\"vote_average\":5.644,\"vote_count\":514}"
+}

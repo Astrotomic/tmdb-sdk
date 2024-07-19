@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1020",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6191",
+        "x-memc": "HIT",
+        "x-memc-key": "97d804e956d04b73a0cb02e229e8f930",
+        "x-memc-age": "21618",
+        "x-memc-expires": "6191",
+        "ETag": "W\/\"2954b98b534adea74953165a4a0fcd3e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i8LBffn4-ZvFRbIc66Y8gPep8n5SEyXVqjZ_7P6PchEQYtEQIflgng=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qrkaX7B2ry6GU6z0V7iTX8GKdZw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.magnetreleasing.com\/whatyouwishfor\/\",\"id\":1126934,\"imdb_id\":\"tt13638858\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"What You Wish For\",\"overview\":\"A chef with gambling problems flees to the Latin American villa of an old friend who appears to be living an extraordinary life.\",\"popularity\":18.059,\"poster_path\":\"\/bBbceiJHq4dqrKcFEAKolBhiDx0.jpg\",\"production_companies\":[{\"id\":207138,\"logo_path\":null,\"name\":\"Evergreen Avenue\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CO\",\"name\":\"Colombia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-07-30\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Escape. Forever.\",\"title\":\"What You Wish For\",\"video\":false,\"vote_average\":6.9,\"vote_count\":27}"
+}

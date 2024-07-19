@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1380",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9400",
+        "x-memc": "HIT",
+        "x-memc-key": "df9c47341a13c30b26355be5a4e794f0",
+        "x-memc-age": "14516",
+        "x-memc-expires": "9400",
+        "ETag": "W\/\"f07d8240835b57dd254597cff500d85b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ua7GPeWR8AHuWb1vb3dM5iptSBULxNYu5_TM-sQ8SaoGVAzKiJhlVg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4m5SEJqATpHRB5M02ydYQ9hmT8y.jpg\",\"belongs_to_collection\":{\"id\":162028,\"name\":\"Stakeout Collection\",\"poster_path\":\"\/arVMKLlXLFcROIGB7o8KGeO0kwb.jpg\",\"backdrop_path\":\"\/w8iUdmVdeOIc1AAOJLAu8hEl7g3.jpg\"},\"budget\":14500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10859,\"imdb_id\":\"tt0094025\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Stakeout\",\"overview\":\"Two cops are given the 'dirty' job of staking out the home of an escaped convict's ex-girlfriend. Chris and the beautiful girlfriend accidentally meet and fall in love. Just as Chris confesses, the convict appears, but will she betray him ?\",\"popularity\":14.715,\"poster_path\":\"\/wvu6SSTOWY7DKOFvCCXZnowyG4n.jpg\",\"production_companies\":[{\"id\":10531,\"logo_path\":null,\"name\":\"Silver Screen Partners II\",\"origin_country\":\"\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-08-05\",\"revenue\":65700000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's a tough job but somebody's got to do it!\",\"title\":\"Stakeout\",\"video\":false,\"vote_average\":6.5,\"vote_count\":380}"
+}

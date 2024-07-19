@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1930",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4103",
+        "x-memc": "HIT",
+        "x-memc-key": "228548ded46b238d3bcb9cf55641d9a0",
+        "x-memc-age": "18304",
+        "x-memc-expires": "4103",
+        "ETag": "W\/\"c2f0eba4f57d599d5f3ad655be59a6e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qxrNqm1uZiUiAVq0LSZmKNDWHOgrYmZRO_tPI6Fil5ZqWkTfESo8OA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9mVgtyhmkQtsJkq5Fu4OhuU0155.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":393717,\"imdb_id\":\"tt4428728\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Braqueurs\",\"overview\":\"One of the members of a gang of thieves commits a serious mistake that force them to work for a ruthless gang of drug dealers, endangering the future of the team, their lives and those of their families.\",\"popularity\":13.849,\"poster_path\":\"\/zq4QUvbPS2bf6mesCPW04awrBoJ.jpg\",\"production_companies\":[{\"id\":12648,\"logo_path\":null,\"name\":\"Labyrinthe Films\",\"origin_country\":\"FR\"},{\"id\":2902,\"logo_path\":\"\/vFmmYSgFp8eE6C34JVCXy9bJFmc.png\",\"name\":\"SND\",\"origin_country\":\"FR\"},{\"id\":115156,\"logo_path\":null,\"name\":\"Maje Productions\",\"origin_country\":\"\"},{\"id\":115157,\"logo_path\":null,\"name\":\"Emotions Films France\",\"origin_country\":\"\"},{\"id\":109458,\"logo_path\":null,\"name\":\"Cin\u00e9france Plus\",\"origin_country\":\"\"},{\"id\":115158,\"logo_path\":null,\"name\":\"Movie Pictures\",\"origin_country\":\"\"},{\"id\":19037,\"logo_path\":\"\/tceh2aAORA5JxIZSLQ1GkzTBZDL.png\",\"name\":\"uMedia\",\"origin_country\":\"BE\"},{\"id\":22127,\"logo_path\":\"\/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png\",\"name\":\"uFund\",\"origin_country\":\"BE\"},{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"},{\"id\":10611,\"logo_path\":\"\/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png\",\"name\":\"Cin\u00e9+\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2016-05-04\",\"revenue\":0,\"runtime\":78,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"}],\"status\":\"Released\",\"tagline\":\"Thieves against dealers\",\"title\":\"The Crew\",\"video\":false,\"vote_average\":6.2,\"vote_count\":327}"
+}

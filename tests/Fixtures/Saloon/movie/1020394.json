@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1496",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12543",
+        "x-memc": "HIT",
+        "x-memc-key": "1f6625d51c3d675c462b30f3808868eb",
+        "x-memc-age": "9164",
+        "x-memc-expires": "12543",
+        "ETag": "W\/\"59c09c5efaae63ed4d7fa10eeeb33d38\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rN2_GqsfeWQMHlocyzF6JtfIhy6QI-7pDJ-F9HWtwNAsU4_btafdFg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/71oBx4HShXiJbLwDudGjeY6mHFI.jpg\",\"belongs_to_collection\":{\"id\":1083331,\"name\":\"Antigang - Saga\",\"poster_path\":\"\/ahuAsH9VQsbXE0KusJiNJd94xgS.jpg\",\"backdrop_path\":\"\/uGYKPA4dJOaEkrfn6oXh4d39jam.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1020394,\"imdb_id\":\"tt28199975\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Antigang : La Rel\u00e8ve\",\"overview\":\"Former Antigang legend Niels Cartier, known for his muscular and unconventional methods, left the force following an intervention that went wrong and led to the death of his wife. When the gang of bank robbers responsible for her death reappears eight years later, Niels won't let anyone stand in his way to seek revenge. Even if it means forming an explosive duo with his temperamental 14-year-old daughter.\",\"popularity\":23.764,\"poster_path\":\"\/kGclAzPJobEy7qg7LNuFI9grNoh.jpg\",\"production_companies\":[{\"id\":104734,\"logo_path\":null,\"name\":\"Empreinte Cin\u00e9ma\",\"origin_country\":\"FR\"},{\"id\":2902,\"logo_path\":\"\/vFmmYSgFp8eE6C34JVCXy9bJFmc.png\",\"name\":\"SND\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2023-08-25\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Squad: Home Run\",\"video\":false,\"vote_average\":6.4,\"vote_count\":116}"
+}

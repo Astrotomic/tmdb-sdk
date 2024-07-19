@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1511",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6921",
+        "x-memc": "HIT",
+        "x-memc-key": "4358756332f520a112edc14f1e1741d5",
+        "x-memc-age": "20040",
+        "x-memc-expires": "6921",
+        "ETag": "W\/\"394e96e3940f993d385af3157b506e87\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GcEtMYLClf7jIeQJXXdqHhEMxo8ehr9tMV-CpoEHpLTawE48vf8xvQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bp2nxKuLqcVmMwa5wTsgO4tYm8p.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":7453,\"imdb_id\":\"tt0371724\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hitchhiker's Guide to the Galaxy\",\"overview\":\"Mere seconds before the Earth is to be demolished by an alien construction crew, Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of \\\"The Hitchhiker's Guide to the Galaxy.\\\"\",\"popularity\":31.402,\"poster_path\":\"\/yr9A3KGQlxBh3yW0cmglsr8aMIz.jpg\",\"production_companies\":[{\"id\":158,\"logo_path\":\"\/6SHlNIype9zmyEMRsBtoueUtLsq.png\",\"name\":\"Spyglass Entertainment\",\"origin_country\":\"US\"},{\"id\":2242,\"logo_path\":null,\"name\":\"Everyman Pictures\",\"origin_country\":\"US\"},{\"id\":2243,\"logo_path\":null,\"name\":\"Hammer \\u0026 Tongs\",\"origin_country\":\"GB\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-04-28\",\"revenue\":104500000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Don't leave Earth without it\",\"title\":\"The Hitchhiker's Guide to the Galaxy\",\"video\":false,\"vote_average\":6.669,\"vote_count\":3769}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "968",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25605",
+        "x-memc": "HIT",
+        "x-memc-key": "43b725a2a77a8f2441d429751674d711",
+        "x-memc-age": "1852",
+        "x-memc-expires": "25605",
+        "ETag": "W\/\"793536e784a72ea595b793673ad56686\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zP75MiR2tZLLlPHf52iY8CuRBBalOOcIBBRNBFTqjVQcXutOqdgiQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":573728,\"name\":\"Chanoc Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":211847,\"imdb_id\":\"tt0333234\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Chanoc en el Circo Union\",\"overview\":\"The comic book hero foils animal smugglers in the circus.\",\"popularity\":2.128,\"poster_path\":null,\"production_companies\":[{\"id\":42632,\"logo_path\":null,\"name\":\"Cinematogr\u00e1fica RA\",\"origin_country\":\"MX\"},{\"id\":51090,\"logo_path\":null,\"name\":\"Producciones G\u00e9minis\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1979-09-27\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Chanoc en el Circo Union\",\"video\":false,\"vote_average\":3.7,\"vote_count\":5}"
+}

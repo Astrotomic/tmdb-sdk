@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1202",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4318",
+        "x-memc": "HIT",
+        "x-memc-key": "4e150b68c518925d1e9dfa41273de900",
+        "x-memc-age": "20196",
+        "x-memc-expires": "4318",
+        "ETag": "W\/\"1bf8867d21b3eddbf9da0001aac98fe8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b0IA2uu8WsIrGmVKfic0AJs0dqVO3PKBkjwwZ7JFXkG2-1fIQPq0kQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fC4ACY6f4QizDy0z6qEISdTvCH5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.hatchingthemovie.com\/\",\"id\":391402,\"imdb_id\":\"tt2938464\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Hatching\",\"overview\":\"On the death of his father, Tim Webber returns to his childhood village in Somerset to find something sinister is disturbing the idyllic peace of the villagers.\",\"popularity\":4.13,\"poster_path\":\"\/8UAmNsBMFSLyi8Hao3O6uxCXgLt.jpg\",\"production_companies\":[{\"id\":1071,\"logo_path\":null,\"name\":\"Spice Factory\",\"origin_country\":\"\"},{\"id\":31787,\"logo_path\":null,\"name\":\"Creativity Capital\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2014-11-22\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Does for the moors what 'Jaws' did for beaches.\",\"title\":\"The Hatching\",\"video\":false,\"vote_average\":4.481,\"vote_count\":26}"
+}

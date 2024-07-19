@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1364",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21433",
+        "x-memc": "HIT",
+        "x-memc-key": "1fe353214692cb2fc1d2a4962285f1ed",
+        "x-memc-age": "1635",
+        "x-memc-expires": "21433",
+        "ETag": "W\/\"ed4f11b4f1331752fb9fdb37fdef897a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "q9wwSGHpfAStTGwsTZPavJX0upFCEOU4Nx0VEuBbewXTtp1cpS0Dqw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4hd0aO97mEuxyb8QHxGDX1FspuK.jpg\",\"belongs_to_collection\":null,\"budget\":17000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":315064,\"imdb_id\":\"tt4155534\",\"origin_country\":[\"CN\",\"US\",\"GB\",\"ES\"],\"original_language\":\"en\",\"original_title\":\"Animal Crackers\",\"overview\":\"A family must use a magical box of Animal Crackers to save a rundown circus from being taken over by their evil uncle Horatio P. Huntington.\",\"popularity\":18.851,\"poster_path\":\"\/dxFqZiO5MqqVoFZuWOjTdjmDh6d.jpg\",\"production_companies\":[{\"id\":42622,\"logo_path\":\"\/uMW1dLhUZ9PSoSvIPnsosazuM80.png\",\"name\":\"Blue Dream Studios\",\"origin_country\":\"US\"},{\"id\":42623,\"logo_path\":null,\"name\":\"Beijing Wen Hua Dong Run Investment\",\"origin_country\":\"CN\"},{\"id\":14714,\"logo_path\":\"\/dSHaVKtBCpMU5VP9wMbTkqov62i.png\",\"name\":\"China Film Group Corporation\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2017-06-23\",\"revenue\":13285512,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A magical adventure in every bite\",\"title\":\"Animal Crackers\",\"video\":false,\"vote_average\":6.2,\"vote_count\":182}"
+}

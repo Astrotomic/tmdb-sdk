@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1188",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2733",
+        "x-memc": "HIT",
+        "x-memc-key": "dce08311153a2eaba205137a33c30de9",
+        "x-memc-age": "24060",
+        "x-memc-expires": "2733",
+        "ETag": "W\/\"5adcb33a77049b2c80263a0f2fcc2649\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aEwIdL2yBCV0toq2AMgpK4_vROz3Q7C0F9-G7U7zShY7O2SpsLrxuw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":247809,\"imdb_id\":\"tt0069263\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Short Walk to Daylight\",\"overview\":\"Eight people have to find their way out of a New York subway after being trapped following an earthquake.\",\"popularity\":3.253,\"poster_path\":\"\/xUTINF4opujr7YGLdiGXbKwL26a.jpg\",\"production_companies\":[{\"id\":26727,\"logo_path\":\"\/jeTxdjXhzgKZyLr3l9MllkTn3fy.png\",\"name\":\"Universal Television\",\"origin_country\":\"US\"},{\"id\":1253,\"logo_path\":\"\/6f0A0AqIPHYheRb90tVMutuzSnP.png\",\"name\":\"Australian Broadcasting Corporation\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1972-10-24\",\"revenue\":0,\"runtime\":73,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A subway ride. A sudden earthquake. And now, disaster and death stand between seven strangers and a...\",\"title\":\"Short Walk to Daylight\",\"video\":false,\"vote_average\":6.2,\"vote_count\":5}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1888",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3481",
+        "x-memc": "HIT",
+        "x-memc-key": "7cd17b9884bab17c182a6e23fd851d47",
+        "x-memc-age": "18932",
+        "x-memc-expires": "3481",
+        "ETag": "W\/\"4692453ae941eb24a54280a445970771\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xjMiRHkb3prCJHdyrHp01khioJzvaQuyzd6S6uTFc4wGNVYxad3VBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9UZnCIeUVHzZQLDXN7lht2T4ndB.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/thepiratesbandofmisfits\",\"id\":72197,\"imdb_id\":\"tt1430626\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Pirates! In an Adventure with Scientists!\",\"overview\":\"The luxuriantly bearded Pirate Captain is a boundlessly enthusiastic, if somewhat less-than-successful, terror of the High Seas. With a rag-tag crew at his side, and seemingly blind to the impossible odds stacked against him, the Captain has one dream: to beat his bitter rivals Black Bellamy and Cutlass Liz to the much coveted Pirate of the Year Award. It\u2019s a quest that takes our heroes from the shores of exotic Blood Island to the foggy streets of Victorian London. Along the way they battle a diabolical queen and team up with a haplessly smitten young scientist, but never lose sight of what a pirate loves best: adventure!\",\"popularity\":24.669,\"poster_path\":\"\/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg\",\"production_companies\":[{\"id\":297,\"logo_path\":\"\/58TnhYZqbMYgkHM6lg7dJoYJ4RH.png\",\"name\":\"Aardman\",\"origin_country\":\"GB\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":2251,\"logo_path\":\"\/5ilV5mH3gxTEU7p5wjxptHvXkyr.png\",\"name\":\"Sony Pictures Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2012-03-12\",\"revenue\":123054041,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's a plunderful life\",\"title\":\"The Pirates! In an Adventure with Scientists!\",\"video\":false,\"vote_average\":6.488,\"vote_count\":1067}"
+}

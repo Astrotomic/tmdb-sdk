@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1402",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17011",
+        "x-memc": "HIT",
+        "x-memc-key": "a7fbf6db6cf0336874b531f43580c0e7",
+        "x-memc-age": "6969",
+        "x-memc-expires": "17011",
+        "ETag": "W\/\"1682a67476bb33f4859470638ccff2ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lzlHM5bBgSikC23Uwv65Et1PfHrbwEcBF5hRCPPzoHnyZCczulRGCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rvUITyIhqSxFDhg3SE5J1yiwgrn.jpg\",\"belongs_to_collection\":null,\"budget\":1000000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":17831,\"imdb_id\":\"tt0027075\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Tale of Two Cities\",\"overview\":\"The exciting story of Dr. Manette, who escapes the horrors of the infamous Bastille prison in Paris. The action switches between London and Paris on the eve of the revolution where we witness 'the best of times and the worst of times' - love, hope, the uncaring French Aristocrats and the terror of a revolutionary citizen's army intent on exacting revenge.\",\"popularity\":13.981,\"poster_path\":\"\/w96kBV97DplsI1YKnhoBcFG2vL1.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1935-12-25\",\"revenue\":0,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The Immortal Story of Love and Intrigue During the French Revolution!\",\"title\":\"A Tale of Two Cities\",\"video\":false,\"vote_average\":6.8,\"vote_count\":61}"
+}

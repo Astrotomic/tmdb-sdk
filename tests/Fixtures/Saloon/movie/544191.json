@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "810",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3727",
+        "x-memc": "HIT",
+        "x-memc-key": "e43fc59ecece3d035e7972f6c79541e3",
+        "x-memc-age": "21062",
+        "x-memc-expires": "3727",
+        "ETag": "W\/\"96794429039e5377fa59c244837d42df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8GP5EZvHAxND_86-yexamPziM5O4lC7iOEDwCeJ-u250r21BncI8_A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/www.hayavlazuz.com\/\",\"id\":544191,\"imdb_id\":\"tt1340103\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"On The Move\",\"overview\":\"Ehud Banai, now Israel's biggest singer-songwriter, got in the music business when he was over thirty. This is the story of his music, his friends, and his musical inspirations - from the beginning.\",\"popularity\":0.804,\"poster_path\":\"\/jw58ZykaNJ56I62dCLwoaviWq1D.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2008-06-14\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"On The Move\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

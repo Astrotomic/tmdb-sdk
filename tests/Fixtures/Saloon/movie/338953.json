@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1629",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19015",
+        "x-memc": "HIT",
+        "x-memc-key": "5bfad94b351a29db3b97dde67eaecdb8",
+        "x-memc-age": "4686",
+        "x-memc-expires": "19015",
+        "ETag": "W\/\"0dc50b4e0d06b2856b82d1eb42b7186f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ph7MbFOe_sLXO7a-oepkrDrJ4IodjyuVub38D9mpzMFvS0GrquR_bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg\",\"belongs_to_collection\":{\"id\":435259,\"name\":\"Fantastic Beasts Collection\",\"poster_path\":\"\/oqLzqCb2old88cVuXS0SGMHkP7Z.jpg\",\"backdrop_path\":\"\/oTAuBBcUiUBNKxurftOmEAoye0a.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.fantasticbeasts.com\",\"id\":338953,\"imdb_id\":\"tt4123432\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Fantastic Beasts: The Secrets of Dumbledore\",\"overview\":\"Professor Albus Dumbledore knows the powerful, dark wizard Gellert Grindelwald is moving to seize control of the wizarding world. Unable to stop him alone, he entrusts magizoologist Newt Scamander to lead an intrepid team of wizards and witches. They soon encounter an array of old and new beasts as they clash with Grindelwald's growing legion of followers.\",\"popularity\":77.723,\"poster_path\":\"\/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":437,\"logo_path\":\"\/nu20mtwbEIhUNnQ5NXVhHsNknZj.png\",\"name\":\"Heyday Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-04-06\",\"revenue\":407200000,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Return to the magic.\",\"title\":\"Fantastic Beasts: The Secrets of Dumbledore\",\"video\":false,\"vote_average\":6.665,\"vote_count\":4310}"
+}

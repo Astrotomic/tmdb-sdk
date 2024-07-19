@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1528",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5118",
+        "x-memc": "HIT",
+        "x-memc-key": "d67d463c10525068eac4c76345c984bd",
+        "x-memc-age": "23146",
+        "x-memc-expires": "5118",
+        "ETag": "W\/\"3b7c19f098dbf63104515aae02df3249\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vOUMoi3okpxx3VsZJTIm-m1UBTLs0a0oY5oTe3S0oq3I5fzMSwD_Hg=="
+    },
+    "data": "{\"id\":234284,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234284\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234284\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234284\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/234284\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "465",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19100",
+        "x-memc": "HIT",
+        "x-memc-key": "e6f97bfa06c5c902026ef73b052039f6",
+        "x-memc-age": "6059",
+        "x-memc-expires": "19100",
+        "ETag": "W\/\"d6f7328b4443c450aa19329e5eb2aee1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4dd80d99fd5d0f6baaaf5179cd921f72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QSX1zSdLStQ-5ODJsAjdbTLQydFkZgqcmvQxVNobSZD_nBXdeJaXxA=="
+    },
+    "data": "{\"id\":1017163,\"results\":{\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1017163-4\/watch?locale=KR\",\"buy\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}],\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}]}}}"
+}

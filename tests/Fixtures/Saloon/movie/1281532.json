@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "970",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=396",
+        "x-memc": "HIT",
+        "x-memc-key": "20d3a2036b93603bb4714c6203c950ac",
+        "x-memc-age": "25726",
+        "x-memc-expires": "396",
+        "ETag": "W\/\"fc942efd06eafe0ebba787c7da3d7ec1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "02IOypMTWfLbfqfAlxcLpdM0CKZ3zu2gVUyu-nJsJh4_3xIBki1jwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e0nTta6nx70Z4yz3bU568qMsOCK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1281532,\"imdb_id\":\"tt31974111\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hard Home\",\"overview\":\"A grieving mother lures her daughter's killer into her smart home in order to take revenge, becoming involved in a distorted game where life and death are at stake.\",\"popularity\":35.735,\"poster_path\":\"\/a2zwexsQINEY2X3XQv6KCzBrvIH.jpg\",\"production_companies\":[{\"id\":177095,\"logo_path\":\"\/nfwWCvMNaK687bjyM7un8p7ilz0.png\",\"name\":\"SP Media Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-24\",\"revenue\":0,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hard Home\",\"video\":false,\"vote_average\":5.583,\"vote_count\":12}"
+}

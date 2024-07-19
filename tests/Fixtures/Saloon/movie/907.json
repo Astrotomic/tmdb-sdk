@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1421",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21074",
+        "x-memc": "HIT",
+        "x-memc-key": "4cef2a353c7dc880d6bcc83cdb83298a",
+        "x-memc-age": "7475",
+        "x-memc-expires": "21074",
+        "ETag": "W\/\"c3ecff39484426b597f2a49dd5769f5c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5lJrIpj1OPWFTjTndEbuxqy5CyW_JDeS4QmGGbobtz-XYia5YtT5Qw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y3sPNxqVBIt97EZX568OpAWBpcl.jpg\",\"belongs_to_collection\":null,\"budget\":11000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":907,\"imdb_id\":\"tt0059113\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Doctor Zhivago\",\"overview\":\"The life of a Russian physician and poet who, although married to another, falls in love with a political activist's wife and experiences hardship during World War I and then the October Revolution.\",\"popularity\":30.553,\"poster_path\":\"\/r0Iv2BiCFYDnzc6uU1q3AJ56igT.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":60762,\"logo_path\":null,\"name\":\"Carlo Ponti Production\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1965-12-22\",\"revenue\":111858363,\"runtime\":200,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Turbulent were the times and fiery was the love story of Zhivago, his wife and the passionate, tender Lara.\",\"title\":\"Doctor Zhivago\",\"video\":false,\"vote_average\":7.544,\"vote_count\":1107}"
+}

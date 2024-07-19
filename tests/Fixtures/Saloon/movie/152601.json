@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1348",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10995",
+        "x-memc": "HIT",
+        "x-memc-key": "7d6b703ad37d63b2ec72901b72f35f27",
+        "x-memc-age": "16648",
+        "x-memc-expires": "10995",
+        "ETag": "W\/\"2713d4a4e5fc24b8da896cfafc7bfef9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DUK1buS9JiovOU_spzVamgf0KlBSBzOwF2n4U5DK4cVdPjWX0thcCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sPPsR9f4K0movWVQ99u4uMqFzEL.jpg\",\"belongs_to_collection\":null,\"budget\":23000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/her\",\"id\":152601,\"imdb_id\":\"tt1798709\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Her\",\"overview\":\"In the not so distant future, Theodore, a lonely writer, purchases a newly developed operating system designed to meet the user's every need. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.\",\"popularity\":81.585,\"poster_path\":\"\/lEIaL12hSkqqe83kgADkbUqEnvk.jpg\",\"production_companies\":[{\"id\":13184,\"logo_path\":\"\/pfUB1a62jSMIqp4Xmaq6z2cgW0B.png\",\"name\":\"Annapurna Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-12-18\",\"revenue\":47351251,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Spike Jonze love story.\",\"title\":\"Her\",\"video\":false,\"vote_average\":7.858,\"vote_count\":13993}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "576",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=867",
+        "x-memc": "HIT",
+        "x-memc-key": "20690a72e734d717546f369de3d444b0",
+        "x-memc-age": "20752",
+        "x-memc-expires": "867",
+        "ETag": "W\/\"93c11f02e33e584b68881d320a418f38\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XSxTrcyqP1n_Q4KB8wm0HdsRQL72rYskYipFurcw8w3vybgh8BhFQA=="
+    },
+    "data": "{\"id\":1235336,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1958809,\"known_for_department\":\"Directing\",\"name\":\"Austin McConnell\",\"original_name\":\"Austin McConnell\",\"popularity\":6.458,\"profile_path\":\"\/dZmpi8GwijhTOWMEJnAR1LBRssA.jpg\",\"credit_id\":\"65b05e9d158c8500ebba74a2\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4479104,\"known_for_department\":\"Visual Effects\",\"name\":\"Ian Wilkins\",\"original_name\":\"Ian Wilkins\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65b05ec271ffdf00eb763d47\",\"department\":\"Visual Effects\",\"job\":\"Animation\"}]}"
+}

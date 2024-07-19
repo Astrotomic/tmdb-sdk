@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1375",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12629",
+        "x-memc": "HIT",
+        "x-memc-key": "40a338c2f327dd769923745e6772bca2",
+        "x-memc-age": "10917",
+        "x-memc-expires": "12629",
+        "ETag": "W\/\"66dd58bbfb375ce9aad04c0ea2b92d31\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ogOmEvIXuk6vxx_wVImshlm6wMIWUAR6MPw1ZdKG6sCoCLwzihhiLA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/71ZpbCXNcKB1mbUKuhPUwuLfb7Y.jpg\",\"belongs_to_collection\":{\"id\":427084,\"name\":\"The Secret Life of Pets Collection\",\"poster_path\":\"\/d83LVydlQonKdshwQyLYx48D3LH.jpg\",\"backdrop_path\":\"\/fAibj0DIT8gk5jQtsEor66QKCsR.jpg\"},\"budget\":75000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.thesecretlifeofpets.com\/\",\"id\":328111,\"imdb_id\":\"tt2709768\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Secret Life of Pets\",\"overview\":\"The quiet life of a terrier named Max is upended when his owner takes in Duke, a stray whom Max instantly dislikes.\",\"popularity\":24.251,\"poster_path\":\"\/bc3rCMgP4bbxNqGQCRlpJyU8otF.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-18\",\"revenue\":875457937,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Think this is what they do all day?\",\"title\":\"The Secret Life of Pets\",\"video\":false,\"vote_average\":6.278,\"vote_count\":7916}"
+}

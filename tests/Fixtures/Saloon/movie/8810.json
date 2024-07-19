@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1464",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10617",
+        "x-memc": "HIT",
+        "x-memc-key": "d128e8a341aecd4a32282bfca8551927",
+        "x-memc-age": "13670",
+        "x-memc-expires": "10617",
+        "ETag": "W\/\"6e85b80b25e7992a4adbcba8ad996d91\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZbyJNJqtuVdCzsi3bRKPneKBfaoBZuFOIdxBrsjuH6MnY7qviw4LDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jEuwsmFS8JPzkDIhRL3B2BVYbU4.jpg\",\"belongs_to_collection\":{\"id\":8945,\"name\":\"Mad Max Collection\",\"poster_path\":\"\/9U9QmbCDIBhqDShuIxOiS9gjKYz.jpg\",\"backdrop_path\":\"\/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg\"},\"budget\":2000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":8810,\"imdb_id\":\"tt0082694\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Mad Max 2\",\"overview\":\"Max Rockatansky returns as the heroic loner who drives the dusty roads of a postapocalyptic Australian Outback in an unending search for gasoline. Arrayed against him and the other scraggly defendants of a fuel-depot encampment are the bizarre warriors commanded by the charismatic Lord Humungus, a violent leader whose scruples are as barren as the surrounding landscape.\",\"popularity\":70.843,\"poster_path\":\"\/dhVekfpaCW3QavAwGYbaQig87Xc.jpg\",\"production_companies\":[{\"id\":2537,\"logo_path\":null,\"name\":\"Kennedy Miller Productions\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"1981-12-24\",\"revenue\":24600832,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When all that's left is one last chance, pray that he's still out there...somewhere!\",\"title\":\"Mad Max 2\",\"video\":false,\"vote_average\":7.395,\"vote_count\":3586}"
+}

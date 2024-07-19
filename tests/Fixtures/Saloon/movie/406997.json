@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1648",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7749",
+        "x-memc": "HIT",
+        "x-memc-key": "4fb43f33531a0854cccfc85e1f0e5b22",
+        "x-memc-age": "18755",
+        "x-memc-expires": "7749",
+        "ETag": "W\/\"04d0a03810104ef82c3cff02952979d2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LA4SdebDbDciBrJy07wvpxkNhkeXUjI3kx_O_lTyPcFZEi5be2Il0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4rsrxYDfIzvtAsIE9wevxPRXAk4.jpg\",\"belongs_to_collection\":{\"id\":991356,\"name\":\"Wonder Collection\",\"poster_path\":\"\/3kHmw0C0n4Fjn0JcAICbjA4yDsL.jpg\",\"backdrop_path\":\"\/yx5ImvkSRustB38mk8vHrZS9sUj.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.wonder.movie\",\"id\":406997,\"imdb_id\":\"tt2543472\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wonder\",\"overview\":\"The story of August Pullman \u2013 a boy with facial differences \u2013 who enters fifth grade, attending a mainstream elementary school for the first time.\",\"popularity\":42.936,\"poster_path\":\"\/sONh3LYGFcVDTy8pm1tbSOB13Li.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":6735,\"logo_path\":\"\/pAQW38WU8ychBvYU2aGPTEbynEN.png\",\"name\":\"Participant\",\"origin_country\":\"US\"},{\"id\":10221,\"logo_path\":\"\/99VfWRgKasZoyK9UVB39gnYvFrZ.png\",\"name\":\"Walden Media\",\"origin_country\":\"US\"},{\"id\":10227,\"logo_path\":\"\/3YfRy3DBl4abcqkzGx4RVNz12yl.png\",\"name\":\"Mandeville Films\",\"origin_country\":\"US\"},{\"id\":72441,\"logo_path\":null,\"name\":\"TIK Films\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-11-13\",\"revenue\":315025930,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Who gives you the courage to face the world?\",\"title\":\"Wonder\",\"video\":false,\"vote_average\":8.136,\"vote_count\":7728}"
+}

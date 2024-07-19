@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1265",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12071",
+        "x-memc": "HIT",
+        "x-memc-key": "bfeb8ad7411e5ea7251ed6a3bff682cc",
+        "x-memc-age": "12605",
+        "x-memc-expires": "12071",
+        "ETag": "W\/\"aa0131313a14241f1f0a173f7e8078da\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WTKqHB-jWPflgC0N-Rg3bLK7fgnf-aNaJNUTXMi-fqYq_87-9Rp9cw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ilK1JRbMjo4sMJtNKLOKnqRf1RH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":976906,\"imdb_id\":\"tt13434866\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spitfire Over Berlin\",\"overview\":\"August 1944. With the American Eighth Air Force poised to strike over Nazi Germany, British Intelligence learns that they could be flying into a deadly trap. With only hours to spare, Flight Lieutenant Edward Barnes must fly a life and death mission over Berlin in his unarmed Spitfire to obtain photographic evidence and save the lives of 1200 men.\",\"popularity\":161.81,\"poster_path\":\"\/xtPPOPTad1qopK6uDe3VlYUa22o.jpg\",\"production_companies\":[{\"id\":95706,\"logo_path\":\"\/6H2AkKh3Li9jvzfxSublaPiVPIY.png\",\"name\":\"Tin Hat Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2022-05-13\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One pilot's heroic mission to hell and back.\",\"title\":\"Spitfire Over Berlin\",\"video\":false,\"vote_average\":5.402,\"vote_count\":51}"
+}

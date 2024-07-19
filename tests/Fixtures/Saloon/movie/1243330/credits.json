@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "512",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:24:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6934",
+        "x-memc": "HIT",
+        "x-memc-key": "ee16a3d29765b5d3c899c01b3a62080c",
+        "x-memc-age": "20687",
+        "x-memc-expires": "6934",
+        "ETag": "W\/\"c1bbee477e4f3e81bbc7bfdfcf4b0d20\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "waHH9_ni3V7POat3eOv1vgKnYccpl628A6xr-nPy9OTSJJOqW2cuoA=="
+    },
+    "data": "{\"id\":1243330,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1746827,\"known_for_department\":\"Acting\",\"name\":\"Ben Tatar\",\"original_name\":\"Ben Tatar\",\"popularity\":0.216,\"profile_path\":null,\"cast_id\":1,\"character\":\"Milo\",\"credit_id\":\"65c7daff9451e701637a9bfc\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4531102,\"known_for_department\":\"Directing\",\"name\":\"Tom Tully\",\"original_name\":\"Tom Tully\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65c93d3298f1f10183d931b5\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

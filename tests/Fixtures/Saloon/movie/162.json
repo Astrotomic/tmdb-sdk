@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1040",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=76",
+        "x-memc": "HIT",
+        "x-memc-key": "d5139310372a2ecc6652595820982d46",
+        "x-memc-age": "28308",
+        "x-memc-expires": "76",
+        "ETag": "W\/\"d19745862303f9645e39b7bdb89ca19e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oPGqvafNQenfrGLmjFHigpO0KsE9SmEUw8DqbmZTD19tAfl0C4s0Gw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":162,\"imdb_id\":\"tt0099487\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Edward Scissorhands\",\"overview\":\"A small suburban town receives a visit from a castaway unfinished science experiment named Edward.\",\"popularity\":67.49,\"poster_path\":\"\/e0FqKFvGPdQNWG8tF9cZBtev9Em.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-12-07\",\"revenue\":53000000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Innocence is what he knows. Beauty is what she sees.\",\"title\":\"Edward Scissorhands\",\"video\":false,\"vote_average\":7.717,\"vote_count\":12613}"
+}

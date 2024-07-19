@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1085",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5265",
+        "x-memc": "HIT",
+        "x-memc-key": "800bf644b3f97d7c5b8b826f86245158",
+        "x-memc-age": "18839",
+        "x-memc-expires": "5265",
+        "ETag": "W\/\"2c2a38f32c053863e3a63249a527afe9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-rcKPYqii7Zo4CZ3zBgE3SsSbNDRhKIX2Y8nG5bUDkD_j8pOuAHFBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j1bOCozOQOxJpk0iAQbJDS2w8OJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81516046\",\"id\":1081676,\"imdb_id\":\"tt26596953\",\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Znachor\",\"overview\":\"A once-respected surgeon who's lost his family and his memory gets a chance at redemption when he reconnects with someone from his forgotten past.\",\"popularity\":39.383,\"poster_path\":\"\/8mHfCmc2dt6wk2DNc0NXlYXOzVj.jpg\",\"production_companies\":[{\"id\":209620,\"logo_path\":null,\"name\":\"MS Productions\",\"origin_country\":\"PL\"},{\"id\":101302,\"logo_path\":\"\/tw4ArhlRSvmHsdd3qPzjTYOA3N5.png\",\"name\":\"Endemol Shine Polska\",\"origin_country\":\"PL\"}],\"production_countries\":[{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"2023-09-27\",\"revenue\":0,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Forgotten Love\",\"video\":false,\"vote_average\":7.949,\"vote_count\":243}"
+}

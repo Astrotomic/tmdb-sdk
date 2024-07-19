@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1056",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20134",
+        "x-memc": "HIT",
+        "x-memc-key": "fc39ebb0d54922926ed8e6c91d6319ea",
+        "x-memc-age": "3613",
+        "x-memc-expires": "20134",
+        "ETag": "W\/\"5c13f048d4cc7f67e84ae83b4c766383\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PMSVXb43e_M697gUKjQwo6jh8inNgJ3BLFbRD3a8UbTj8yvoWlWxPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AuT4zNXescj0FqRPqwW7wViQrnA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":398063,\"imdb_id\":\"tt0219347\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Third Alibi\",\"overview\":\"A composer (Laurence Payne) is stuck in a middle-class marriage and finds that his affair with his wife's half-sister (Jane Griffiths) has resulted in a pregnancy. When his wife refuses to give him a divorce he hatches a murder scheme that is too clever by half.\",\"popularity\":3.842,\"poster_path\":\"\/wgt5yedpWUE60HutNnL5KjiBYPR.jpg\",\"production_companies\":[{\"id\":16047,\"logo_path\":null,\"name\":\"Eternal Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1961-03-15\",\"revenue\":0,\"runtime\":68,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Third Alibi\",\"video\":false,\"vote_average\":6.5,\"vote_count\":12}"
+}

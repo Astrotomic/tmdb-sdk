@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "558",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22666",
+        "x-memc": "HIT",
+        "x-memc-key": "49ca122e644d2c27cf62231e2b8b73e1",
+        "x-memc-age": "4171",
+        "x-memc-expires": "22666",
+        "ETag": "W\/\"275d4522000162b756366b71d1353359\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yUef38ws90Hnqy7vMW2Hjid1-7idH72P3gc4WjoYEtqzmOkdKU7zHA=="
+    },
+    "data": "{\"id\":253650,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/253650-the-ruining\/watch?locale=CA\",\"free\":[{\"logo_path\":\"\/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg\",\"provider_id\":538,\"provider_name\":\"Plex\",\"display_priority\":87}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/253650-the-ruining\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg\",\"provider_id\":538,\"provider_name\":\"Plex\",\"display_priority\":155},{\"logo_path\":\"\/27WMfRN7pQE3j5Khm8fPM7vYyLV.jpg\",\"provider_id\":2077,\"provider_name\":\"Plex Channel\",\"display_priority\":156}]}}}"
+}

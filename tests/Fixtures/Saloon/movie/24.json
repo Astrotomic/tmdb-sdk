@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1504",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=200",
+        "x-memc": "HIT",
+        "x-memc-key": "35f63c5ee4d0d1722d39ecdf649970e7",
+        "x-memc-age": "25820",
+        "x-memc-expires": "200",
+        "ETag": "W\/\"40fa33fc032eacd90e44a7753bce4145\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "brH--O02m8Mh6ION5s4xPtX86FwsQk4PAFmIfA6ejmwdtwowkM2TIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lVy5Zqcty2NfemqKYbVJfdg44rK.jpg\",\"belongs_to_collection\":{\"id\":2883,\"name\":\"Kill Bill Collection\",\"poster_path\":\"\/tf1nUtw3LJGUGv1EFFi23iz6ngr.jpg\",\"backdrop_path\":\"\/oCLKNACMNrEf4T1EP6BpMXDl5m1.jpg\"},\"budget\":30000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.miramax.com\/movie\/kill-bill-volume-1\",\"id\":24,\"imdb_id\":\"tt0266697\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kill Bill: Vol. 1\",\"overview\":\"An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle \u2013 but she lives to plot her vengeance.\",\"popularity\":80.599,\"poster_path\":\"\/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":59,\"logo_path\":\"\/yH7OMeSxhfP0AVM6iT0rsF3F4ZC.png\",\"name\":\"A Band Apart\",\"origin_country\":\"US\"},{\"id\":39121,\"logo_path\":null,\"name\":\"Super Cool ManChu\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-10-10\",\"revenue\":180906076,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"A roaring rampage of revenge.\",\"title\":\"Kill Bill: Vol. 1\",\"video\":false,\"vote_average\":7.971,\"vote_count\":17021}"
+}

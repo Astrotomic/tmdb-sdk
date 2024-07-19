@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1305",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5893",
+        "x-memc": "HIT",
+        "x-memc-key": "4063206ef9effdf5a277e2078aab336c",
+        "x-memc-age": "20727",
+        "x-memc-expires": "5893",
+        "ETag": "W\/\"244546b5572fea57f8f8e848fab7aa12\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "t9Z9XQef6SMrjiZxVIsUmRUGW5M1TvsBw3hruSOelbkv92WXZCiHJA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jks6QgJjsaDC5iT6bxLsSS0eo6L.jpg\",\"belongs_to_collection\":null,\"budget\":185000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/kongskullislandmovie.com\/\",\"id\":293167,\"imdb_id\":\"tt3731562\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kong: Skull Island\",\"overview\":\"Explore the mysterious and dangerous home of the king of the apes as a team of explorers ventures deep inside the treacherous, primordial island.\",\"popularity\":86.592,\"poster_path\":\"\/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg\",\"production_companies\":[{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"},{\"id\":81620,\"logo_path\":\"\/7LkIVuWBVScdujpKhBPx1TMnPQE.png\",\"name\":\"Tencent Pictures\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-03-08\",\"revenue\":566652812,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"}],\"status\":\"Released\",\"tagline\":\"All hail the king\",\"title\":\"Kong: Skull Island\",\"video\":false,\"vote_average\":6.545,\"vote_count\":10254}"
+}

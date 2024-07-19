@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1544",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21346",
+        "x-memc": "HIT",
+        "x-memc-key": "69024072ba7a785dc8a1df12fdf34f99",
+        "x-memc-age": "6791",
+        "x-memc-expires": "21346",
+        "ETag": "W\/\"e484ed6f8c62c232c8e9b261f5068dd7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "r3K_Mx5KlGYFLU-Cfo1Kh7ouMbKJIZMwE2em1mZUytQMxaQekx6kUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/59CCw4EtiahW0E5cfTrvdbqPQTo.jpg\",\"belongs_to_collection\":{\"id\":544670,\"name\":\"Sing Collection\",\"poster_path\":\"\/h151oRzvsxfKRznEmlQJRlnvsid.jpg\",\"backdrop_path\":\"\/z9ft5HYHzWcasR6SGcgeluxTznB.jpg\"},\"budget\":75000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/www.singmovie.com\/\",\"id\":335797,\"imdb_id\":\"tt3470600\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sing\",\"overview\":\"A koala named Buster recruits his best friend to help him drum up business for his theater by hosting a singing competition.\",\"popularity\":71.843,\"poster_path\":\"\/zZTlF2eVVUkbdmccd3bNUU9T9sD.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":3341,\"logo_path\":\"\/dTG5dXE1kU2mpmL9BNnraffckLU.png\",\"name\":\"Fuji Television Network\",\"origin_country\":\"JP\"},{\"id\":1778,\"logo_path\":\"\/b5rT6VbYza3LyfltCmz1OcqzWJM.png\",\"name\":\"dentsu\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-11-23\",\"revenue\":634151679,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Auditions begin.\",\"title\":\"Sing\",\"video\":false,\"vote_average\":7.112,\"vote_count\":7788}"
+}

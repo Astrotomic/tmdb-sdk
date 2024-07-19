@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1734",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9024",
+        "x-memc": "HIT",
+        "x-memc-key": "69ebec9ac542f8c10c26930a32e4e8fa",
+        "x-memc-age": "19511",
+        "x-memc-expires": "9024",
+        "ETag": "W\/\"52b7e1b64537aea9dad0b8e77e9357a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6U9VjZCGV3swUtG-cTMwucyL-LzVCSSjyub55YVRCd9LaeLkYK2EVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jd3Z2sAPDavjRxFhfOak6kCrUIG.jpg\",\"belongs_to_collection\":null,\"budget\":61000000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.lesmiserablesfilm.com\",\"id\":82695,\"imdb_id\":\"tt1707386\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Les Mis\u00e9rables\",\"overview\":\"An adaptation of the successful stage musical based on Victor Hugo's classic novel set in 19th-century France. Jean Valjean, a man imprisoned for stealing bread, must flee a relentless policeman named Javert. The pursuit consumes both men's lives, and soon Valjean finds himself in the midst of the student revolutions in France.\",\"popularity\":51.4,\"poster_path\":\"\/6CuzBs2Lb8At7qQr64mLXg2RYRb.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":135040,\"logo_path\":\"\/qhPk7bzBn1YFveIDhGjif21ENSj.png\",\"name\":\"Cameron Mackintosh Ltd.\",\"origin_country\":\"GB\"},{\"id\":7295,\"logo_path\":\"\/62E1B91PxZw8q4KNkge5Qemo7EM.png\",\"name\":\"Relativity Media\",\"origin_country\":\"US\"},{\"id\":221513,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-12-18\",\"revenue\":442636309,\"runtime\":158,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fight. Dream. Hope. Love.\",\"title\":\"Les Mis\u00e9rables\",\"video\":false,\"vote_average\":7.3,\"vote_count\":5195}"
+}

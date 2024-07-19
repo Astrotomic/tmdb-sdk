@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1437",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19894",
+        "x-memc": "HIT",
+        "x-memc-key": "30c216a35423a5b6cedc21e85f94b84d",
+        "x-memc-age": "5447",
+        "x-memc-expires": "19894",
+        "ETag": "W\/\"31b599422694a805fe62d8871bf756c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wnRU9Z3X6OH95aJn7XAAlJQxaYsN838qOHvBxuQ6xSRV0gGg2lRfAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xBwtP27cx8WfjHJVFkpuV6F1RES.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81260280\",\"id\":49046,\"imdb_id\":\"tt1016150\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Im Westen nichts Neues\",\"overview\":\"Paul Baumer and his friends Albert and Muller, egged on by romantic dreams of heroism, voluntarily enlist in the German army. Full of excitement and patriotic fervour, the boys enthusiastically march into a war they believe in. But once on the Western Front, they discover the soul-destroying horror of World War I.\",\"popularity\":91.268,\"poster_path\":\"\/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg\",\"production_companies\":[{\"id\":36616,\"logo_path\":\"\/ujmuIln4o5ZK08NvI7GmSuV0jj6.png\",\"name\":\"Amusement Park Films\",\"origin_country\":\"DE\"},{\"id\":223150,\"logo_path\":null,\"name\":\"Gunpowder Films\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2022-10-07\",\"revenue\":0,\"runtime\":147,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"All Quiet on the Western Front\",\"video\":false,\"vote_average\":7.739,\"vote_count\":3687}"
+}

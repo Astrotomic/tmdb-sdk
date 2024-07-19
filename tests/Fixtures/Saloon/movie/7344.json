@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1098",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7333",
+        "x-memc": "HIT",
+        "x-memc-key": "094fb63fd9a68889e0590a4bb81569bf",
+        "x-memc-age": "18016",
+        "x-memc-expires": "7333",
+        "ETag": "W\/\"c6b7785ddb5d2f87ca38218be10027df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cr4t-GqQdqv7XQMipFdnJvjSUlGFBLi8b6rgSP9X5pHcTTDxg18rUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.absudistan-derfilm.de\",\"id\":7344,\"imdb_id\":\"tt1027658\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Absurdistan\",\"overview\":\"An allegorical comedy centered on two childhood sweethearts who seem destined for one another until the women of their isolated village, angered by male indifference toward the water shortage, go on a sex strike that threatens the young couple's first night of love.\",\"popularity\":4.049,\"poster_path\":\"\/r6RchJPk6PiSX8LCw1PjQEyTyS0.jpg\",\"production_companies\":[{\"id\":2132,\"logo_path\":\"\/pXSDWOBpCn2HHnR1SXhTqE2iWfR.png\",\"name\":\"Veit Helmer-Filmproduktion\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2008-01-20\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Absurdistan\",\"video\":false,\"vote_average\":6.1,\"vote_count\":26}"
+}

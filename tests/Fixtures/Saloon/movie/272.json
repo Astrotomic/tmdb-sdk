@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1926",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5233",
+        "x-memc": "HIT",
+        "x-memc-key": "d2ffd9e80dd71277d4d7049ca8457e59",
+        "x-memc-age": "20948",
+        "x-memc-expires": "5233",
+        "ETag": "W\/\"de05f36268ea0498b9e43d771cf73a02\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2nj-UmZDWKe5jR7ifEkJiE8H9g1NyKHQ5K1kKWDBoKWlFf3iqjw3gA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lh5lbisD4oDbEKgUxoRaZU8HVrk.jpg\",\"belongs_to_collection\":{\"id\":263,\"name\":\"The Dark Knight Collection\",\"poster_path\":\"\/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg\",\"backdrop_path\":\"\/xfKot7lqaiW4XpL5TtDlVBA9ei9.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/batman-begins\/\",\"id\":272,\"imdb_id\":\"tt0372784\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Batman Begins\",\"overview\":\"Driven by tragedy, billionaire Bruce Wayne dedicates his life to uncovering and defeating the corruption that plagues his home, Gotham City.  Unable to work within the system, he instead creates a new identity, a symbol of fear for the criminal underworld - The Batman.\",\"popularity\":114.267,\"poster_path\":\"\/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":429,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Comics\",\"origin_country\":\"US\"},{\"id\":9996,\"logo_path\":\"\/3tvBqYsBhxWeHlu62SIJ1el93O7.png\",\"name\":\"Syncopy\",\"origin_country\":\"GB\"},{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"},{\"id\":19231,\"logo_path\":null,\"name\":\"Patalex III Productions Limited\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-06-10\",\"revenue\":374218673,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Urdu\",\"iso_639_1\":\"ur\",\"name\":\"\u0627\u0631\u062f\u0648\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"Evil fears the knight.\",\"title\":\"Batman Begins\",\"video\":false,\"vote_average\":7.708,\"vote_count\":20542}"
+}

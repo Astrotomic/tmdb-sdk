@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2110",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17055",
+        "x-memc": "HIT",
+        "x-memc-key": "6e861a562e64f115c6fc179e71586595",
+        "x-memc-age": "5046",
+        "x-memc-expires": "17055",
+        "ETag": "W\/\"eddf8d60d098b45435ec18d3148744cc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UJQ4-gsyNkyStyIPXsoU90DBBU0YN8qnfNKhztOdqqhYsxPR5sbe9Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2MgbRt7CHuuf87pC29hx4fAinTz.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1248,\"imdb_id\":\"tt0367959\",\"origin_country\":[\"FR\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Hannibal Rising\",\"overview\":\"The story of the early, murderous roots of the cannibalistic killer, Hannibal Lecter \u2013 from his hard-scrabble Lithuanian childhood, where he witnesses the repulsive lengths to which hungry soldiers will go to satiate themselves, through his sojourn in France, where as a med student he hones his appetite for the kill.\",\"popularity\":11.464,\"poster_path\":\"\/7FTDMQoac0uqJUquZk4KenDzLMZ.jpg\",\"production_companies\":[{\"id\":6370,\"logo_path\":null,\"name\":\"Quinta Communications\",\"origin_country\":\"FR\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"},{\"id\":215979,\"logo_path\":null,\"name\":\"Delta (Young Hannibal) Ltd.\",\"origin_country\":\"GB\"},{\"id\":308,\"logo_path\":\"\/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png\",\"name\":\"The Weinstein Company\",\"origin_country\":\"US\"},{\"id\":1216,\"logo_path\":null,\"name\":\"DDL Cinematografica\",\"origin_country\":\"IT\"},{\"id\":16923,\"logo_path\":null,\"name\":\"Zephyr Films\",\"origin_country\":\"GB\"},{\"id\":2979,\"logo_path\":null,\"name\":\"ETIC Films\",\"origin_country\":\"CZ\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CZ\",\"name\":\"Czech Republic\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-02-06\",\"revenue\":82169884,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"It started with revenge.\",\"title\":\"Hannibal Rising\",\"video\":false,\"vote_average\":6.2,\"vote_count\":2149}"
+}

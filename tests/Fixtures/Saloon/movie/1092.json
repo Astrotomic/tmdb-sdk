@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1375",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5586",
+        "x-memc": "HIT",
+        "x-memc-key": "57e0f21f777e7973cf56867c749e03c1",
+        "x-memc-age": "22891",
+        "x-memc-expires": "5586",
+        "ETag": "W\/\"8ecc495175b58aee70c253185c22f7ae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ew8YDuSXuSgs6JVCyjFhk2CVaSGS9t2ptjm-b49vtml90JbPUPw4OA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/l2iY1AgqQ8dEa3FtWkN5TQ5aVbU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":1092,\"imdb_id\":\"tt0041959\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Third Man\",\"overview\":\"In postwar Vienna, Austria, Holly Martins, a writer of pulp Westerns, arrives penniless as a guest of his childhood chum Harry Lime, only to learn he has died. Martins develops a conspiracy theory after learning of a \\\"third man\\\" present at the time of Harry's death, running into interference from British officer Major Calloway, and falling head-over-heels for Harry's grief-stricken lover, Anna.\",\"popularity\":40.333,\"poster_path\":\"\/oIF3l7Dxp7Eyye10BNyM611wtKa.jpg\",\"production_companies\":[{\"id\":659,\"logo_path\":null,\"name\":\"London Films Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1949-08-31\",\"revenue\":1226098,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Hunted by men ... Sought by WOMEN!\",\"title\":\"The Third Man\",\"video\":false,\"vote_average\":7.929,\"vote_count\":1798}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1152",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21023",
+        "x-memc": "HIT",
+        "x-memc-key": "d34f02a88f8adda423ef630e99dc271b",
+        "x-memc-age": "6755",
+        "x-memc-expires": "21023",
+        "ETag": "W\/\"706107102fcc52341e94bbb03826ca8b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "G4bSkLsLJuVtArM-YqRRwOM5G87dJBjDz5K_NfIZdJx2gPPCxzTMwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/716FGefV5R7drdoCOjJtzbPyyY8.jpg\",\"belongs_to_collection\":{\"id\":916357,\"name\":\"Jack in the Box Collection\",\"poster_path\":\"\/wX1EIWsgweGppgkLh7s5m9Aur6D.jpg\",\"backdrop_path\":\"\/tCJRbkzO4XAZpEUkKoImk3BAiz0.jpg\"},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1207898,\"imdb_id\":\"tt26628641\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Jack in the Box: Rises\",\"overview\":\"When a creepy Jack-in-the-Box is discovered and opened on the grounds of an exclusive girls' school, six brave students soon enter a fight to the finish against the unleashed demon.\",\"popularity\":609.185,\"poster_path\":\"\/oDVjlCTSyF6Fh8Fpm683MyGGnSG.jpg\",\"production_companies\":[{\"id\":150062,\"logo_path\":null,\"name\":\"Fowler Media\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-01-18\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Stronger. Faster. Deadlier...\",\"title\":\"The Jack in the Box: Rises\",\"video\":false,\"vote_average\":7.037,\"vote_count\":54}"
+}

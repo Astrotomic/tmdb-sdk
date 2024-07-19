@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1146",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19026",
+        "x-memc": "HIT",
+        "x-memc-key": "fea8fc96090ec131bbe25ed8866e3102",
+        "x-memc-age": "8198",
+        "x-memc-expires": "19026",
+        "ETag": "W\/\"4156e4b187dfdca9e51c03d29d52e835\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HU0CQIeCLJqUd01kS2og3joj0PiXwWROq2VlMTR83zZ11wBFcE87tw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pokY30PFwQbcYCzibe7lpxV7aAE.jpg\",\"belongs_to_collection\":null,\"budget\":1130000,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.eight.com.au\/story\/more-than-gold\",\"id\":1022697,\"imdb_id\":\"tt19120152\",\"origin_country\":[\"NZ\"],\"original_language\":\"en\",\"original_title\":\"Dame Valerie Adams: More Than Gold\",\"overview\":\"Olympic Champion, Kiwi Icon, Tongan Leader, Orphan, Mother...winning was just part of the journey.\",\"popularity\":1.043,\"poster_path\":\"\/zjvwbHINt9PzVXDNjL2C1IreAIg.jpg\",\"production_companies\":[{\"id\":181984,\"logo_path\":\"\/jWt2UKL7cLSHMGecxQcqtul7JXX.png\",\"name\":\"Eight Productions\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"}],\"release_date\":\"2022-10-20\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Tonga\",\"iso_639_1\":\"to\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Winning was just part of the journey\",\"title\":\"Dame Valerie Adams: More Than Gold\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

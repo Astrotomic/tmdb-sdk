@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1034",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22907",
+        "x-memc": "HIT",
+        "x-memc-key": "5237321d631ab824df21ec639d1ad01a",
+        "x-memc-age": "2492",
+        "x-memc-expires": "22907",
+        "ETag": "W\/\"9e12cc3c0b21be1cd92e69209fd61a4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tpVr1fGKkADgczo2KEAUJo7X2KexywkRdPKSjgqbMxdsC0DtjzBZVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1212602,\"imdb_id\":\"tt3776698\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Silent Echoes\",\"overview\":\"Four visual essays by Silent Echoes author John Bengtson identifying Buster Keaton's shooting locations for his many short films produced between 1920-1923, many in the streets surrounding his former Hollywood studio, the same studio where, a few years earlier, Charlie Chaplin had made his brilliant series of Mutual shorts. Written by Anonymous\",\"popularity\":1.897,\"poster_path\":null,\"production_companies\":[{\"id\":39134,\"logo_path\":\"\/sijjN3vMtjCnc1LkCM7HSBErcO3.png\",\"name\":\"Kino Lorber\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-07-12\",\"revenue\":0,\"runtime\":16,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Silent Echoes\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

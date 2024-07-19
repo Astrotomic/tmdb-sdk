@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1873",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21068",
+        "x-memc": "HIT",
+        "x-memc-key": "5e6ddf58ef03d7f0af777b3e701f84a2",
+        "x-memc-age": "6365",
+        "x-memc-expires": "21068",
+        "ETag": "W\/\"0efaeaf371e3f2d10ccaae573a8d9f67\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bbBaLWS14llzaXBkYoeOZ0c_uz91CMJL0ZZ4IjkjuC7H2Tinsa5caQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zzAErvRSasbEpe3biSLjhilvBlk.jpg\",\"belongs_to_collection\":{\"id\":5039,\"name\":\"Rambo Collection\",\"poster_path\":\"\/feGOEOVrOLyjtEnVa88rQLgD3XY.jpg\",\"backdrop_path\":\"\/ecvVwlK75evrAlsEE96V14KN6MN.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/rambo\",\"id\":7555,\"imdb_id\":\"tt0462499\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rambo\",\"overview\":\"In Thailand, ex-Green Beret John James Rambo joins a group of mercenaries to venture into war-torn neighboring Myanmar to rescue a group of Christian aid workers who have been kidnapped by a ruthless local infantry unit.\",\"popularity\":66.959,\"poster_path\":\"\/r8LPeldxskHrGJTPfhICguCip2H.jpg\",\"production_companies\":[{\"id\":925,\"logo_path\":\"\/dIb9hjXNOkgxu4kBWdIdK8nM4w.png\",\"name\":\"Nu Image\",\"origin_country\":\"US\"},{\"id\":20363,\"logo_path\":null,\"name\":\"Equity Pictures Medienfonds GmbH \\u0026 Co. KG IV\",\"origin_country\":\"\"},{\"id\":1020,\"logo_path\":\"\/kuUIHNwMec4dwOLghDhhZJzHZTd.png\",\"name\":\"Millennium Media\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":308,\"logo_path\":\"\/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png\",\"name\":\"The Weinstein Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-01-24\",\"revenue\":113200000,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Burmese\",\"iso_639_1\":\"my\",\"name\":\"\"},{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"}],\"status\":\"Released\",\"tagline\":\"Live for nothing, or die for something.\",\"title\":\"Rambo\",\"video\":false,\"vote_average\":6.677,\"vote_count\":3783}"
+}

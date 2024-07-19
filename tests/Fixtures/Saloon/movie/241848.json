@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13806",
+        "x-memc": "HIT",
+        "x-memc-key": "29470decec404c7b33b2a17eec02e0c4",
+        "x-memc-age": "8753",
+        "x-memc-expires": "13806",
+        "ETag": "W\/\"378e75b614d11ebb139d8903113289bd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8f6TwrUdQx74sxxfoU0DVSfXF4fv9NXjMDnjGN3K5cHyRz7z63874g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v4kcnmWdu8AmNncx4WmBn05JotZ.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":241848,\"imdb_id\":\"tt2980592\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Guest\",\"overview\":\"A soldier introduces himself to the Peterson family, claiming to be a friend of their son who died in action. After the young man is welcomed into their home, a series of accidental deaths seem to be connected to his presence.\",\"popularity\":44.53,\"poster_path\":\"\/6zyl8uGWYjcCb8CJVMk7BZK0SfU.jpg\",\"production_companies\":[{\"id\":2395,\"logo_path\":\"\/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png\",\"name\":\"HanWay Films\",\"origin_country\":\"GB\"},{\"id\":15159,\"logo_path\":null,\"name\":\"Snoot Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-09-05\",\"revenue\":2700051,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Be careful who you let in\",\"title\":\"The Guest\",\"video\":false,\"vote_average\":6.661,\"vote_count\":1894}"
+}

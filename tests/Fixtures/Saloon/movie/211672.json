@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1377",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 07:11:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19462",
+        "x-memc": "HIT",
+        "x-memc-key": "8ae9bf0ccd723b3d6031c392df0e2a8a",
+        "x-memc-age": "7706",
+        "x-memc-expires": "19462",
+        "ETag": "W\/\"a087a6eb514bb1e64a6ab92e0aeea6ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vughN7i7jVx2UXKbrdXqoIPEZePHwV1wgJ4rw1p7cW14CQwiEPB1wg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c7xTZ9EA6GpH72xJC5s0x0KKR1a.jpg\",\"belongs_to_collection\":{\"id\":544669,\"name\":\"Minions Collection\",\"poster_path\":\"\/9Ul4YrDQAKfkOf8TpV2RrjeLmaI.jpg\",\"backdrop_path\":\"\/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg\"},\"budget\":74000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.minionsmovie.com\/\",\"id\":211672,\"imdb_id\":\"tt2293640\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Minions\",\"overview\":\"Minions Stuart, Kevin and Bob are recruited by Scarlet Overkill, a super-villain who, alongside her inventor husband Herb, hatches a plot to take over the world.\",\"popularity\":70.903,\"poster_path\":\"\/dr02BdCNAUPVU07aOodwPYv6HCf.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-06-17\",\"revenue\":1159457503,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Before Gru, they had a history of bad bosses\",\"title\":\"Minions\",\"video\":false,\"vote_average\":6.408,\"vote_count\":10336}"
+}

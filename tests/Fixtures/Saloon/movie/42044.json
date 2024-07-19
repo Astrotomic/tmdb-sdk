@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1769",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18541",
+        "x-memc": "HIT",
+        "x-memc-key": "7f676886bf2350c2526e5c557361d812",
+        "x-memc-age": "9038",
+        "x-memc-expires": "18541",
+        "ETag": "W\/\"c13ab635de225577830a3ed9d3e9cebb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qPG7v3xu_co-Dayni_uTHt_nCfo6kpW4fvmWCBeTUKzj2OtEUKpK_A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4cVWQvHupI3jlSricUUdMeA4y8h.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":42044,\"imdb_id\":\"tt0090015\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Shoah\",\"overview\":\"Director Claude Lanzmann spent 11 years on this sprawling documentary about the Holocaust, conducting his own interviews and refusing to use a single frame of archival footage. Dividing Holocaust witnesses into three categories \u2013 survivors, bystanders, and perpetrators \u2013 Lanzmann presents testimonies from survivors of the Chelmno concentration camp, an Auschwitz escapee, and witnesses of the Warsaw Ghetto Uprising, as well as a chilling report of gas chambers from an SS officer at Treblinka.\",\"popularity\":13.252,\"poster_path\":\"\/yvwF7dfSCybFcBOklUzKpE46bHM.jpg\",\"production_companies\":[{\"id\":75643,\"logo_path\":null,\"name\":\"Historia\",\"origin_country\":\"\"},{\"id\":75642,\"logo_path\":null,\"name\":\"Les Films Aleph\",\"origin_country\":\"\"},{\"id\":10901,\"logo_path\":\"\/8dNHWgUlJNz9HHLtcdsz04jRtyi.png\",\"name\":\"Minist\u00e8re de la culture\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1985-04-21\",\"revenue\":20175,\"runtime\":566,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Yiddish\",\"iso_639_1\":\"yi\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Shoah\",\"video\":false,\"vote_average\":8.282,\"vote_count\":186}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1187",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21306",
+        "x-memc": "HIT",
+        "x-memc-key": "ad369b096952f3a1438d9dda9c185b44",
+        "x-memc-age": "408",
+        "x-memc-expires": "21306",
+        "ETag": "W\/\"5ca5cdde62a90149c496dc4b5af0ff00\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xyDk-5bld4OdM2WDwNdoOw-t1TNYn3A_1_sx_S44JbT5eWRqM6--7A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aOZ9Sd3HorqCU4P3mcQE77i1Opq.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":241258,\"imdb_id\":\"tt3216348\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Incarnate\",\"overview\":\"An exorcist comes up against an evil from his past when he uses his skills to enter the mind of a nine year old boy.\",\"popularity\":20.261,\"poster_path\":\"\/8j8PLnghBHpDEGfANNh8wc5cT4F.jpg\",\"production_companies\":[{\"id\":10339,\"logo_path\":\"\/dU7bjpBabgAd6R8INdVAyCjQ70w.png\",\"name\":\"WWE Studios\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":7437,\"logo_path\":\"\/e5CcgFrdlxMUwlsS72si8q1yHBr.png\",\"name\":\"IM Global\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-12-01\",\"revenue\":6341855,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Faith has failed us.\",\"title\":\"Incarnate\",\"video\":false,\"vote_average\":5.424,\"vote_count\":540}"
+}

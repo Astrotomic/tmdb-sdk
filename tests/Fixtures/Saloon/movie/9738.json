@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2013",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19144",
+        "x-memc": "HIT",
+        "x-memc-key": "b96b89ae9b0eb9d77d376dcaaeb0c911",
+        "x-memc-age": "8961",
+        "x-memc-expires": "19144",
+        "ETag": "W\/\"a337ccf86b67e9f1eb3f2dd017a58264\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KwC8rOqxK9qJvD8en2OJmqhB-9RpsPHTIAMab3r8ppDDAA5NAW9nSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nDYz0HDfEiNVCBwhCDay8Ud0n7M.jpg\",\"belongs_to_collection\":{\"id\":9744,\"name\":\"Fantastic Four Collection\",\"poster_path\":\"\/prObnUSCHIBC8ZjkGo2KHgjkWOo.jpg\",\"backdrop_path\":\"\/u3gPzjUY0iJr8ecZGVwChdSRFZt.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":9738,\"imdb_id\":\"tt0120667\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fantastic Four\",\"overview\":\"During a space voyage, four scientists are altered by cosmic rays: Reed Richards gains the ability to stretch his body; Sue Storm can become invisible; Johnny Storm controls fire; and Ben Grimm is turned into a super-strong \u2026 thing. Together, these \\\"Fantastic Four\\\" must now thwart the evil plans of Dr. Doom and save the world from certain destruction.\",\"popularity\":57.308,\"poster_path\":\"\/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg\",\"production_companies\":[{\"id\":26149,\"logo_path\":null,\"name\":\"Kumar Mobiliengesellschaft mbH \\u0026 Co. Projekt Nr. 3 KG\",\"origin_country\":\"\"},{\"id\":436,\"logo_path\":\"\/A7WCkG3F0NFvjGCwUnclpGdIu9E.png\",\"name\":\"1492 Pictures\",\"origin_country\":\"US\"},{\"id\":19551,\"logo_path\":\"\/2WpWp9b108hizjHKdA107hFmvQ5.png\",\"name\":\"Marvel Enterprises\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":10881,\"logo_path\":null,\"name\":\"Bernd Eichinger Productions\",\"origin_country\":\"DE\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-06-29\",\"revenue\":333535934,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"4 times the action. 4 times the adventure. 4 times the fantastic.\",\"title\":\"Fantastic Four\",\"video\":false,\"vote_average\":5.8,\"vote_count\":9101}"
+}

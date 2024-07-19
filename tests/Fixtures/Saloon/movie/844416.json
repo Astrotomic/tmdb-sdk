@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1108",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21426",
+        "x-memc": "HIT",
+        "x-memc-key": "87c186fe2a2b3b2c50ac2210c7f7fa87",
+        "x-memc-age": "5632",
+        "x-memc-expires": "21426",
+        "ETag": "W\/\"aa7868e9608f54deb80fe45b12b61ac1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8fMLhqrwBopN-2-UgwzAwd8IscCgjrA-GqwjzFeAh3uHZHBNysP6ag=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rb3QQ2TQfJoCpCZlfXBlBbzYy1D.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":844416,\"imdb_id\":\"tt10950320\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rumble Through the Dark\",\"overview\":\"Set in the dark landscape of the Mississippi Delta, where a former bare-knuckle fighter must win one last fight to pay off his debts to the local mob boss and save his childhood home\u2014the stakes nothing less than life or death.\",\"popularity\":38.279,\"poster_path\":\"\/19UbYIT9WEQS5qSD3BREDxVXk8g.jpg\",\"production_companies\":[{\"id\":63369,\"logo_path\":\"\/sCgcuxsM4wvkfwL56tkHX4j9bds.png\",\"name\":\"Elevated Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-03\",\"revenue\":0,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There is no in between.\",\"title\":\"Rumble Through the Dark\",\"video\":false,\"vote_average\":6.2,\"vote_count\":65}"
+}

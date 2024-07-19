@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1355",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20000",
+        "x-memc": "HIT",
+        "x-memc-key": "880082bb2f46b780680891b3dd31b7dd",
+        "x-memc-age": "6478",
+        "x-memc-expires": "20000",
+        "ETag": "W\/\"f6de1d20230bf6de9853733840d1e79d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FmMiDybYj1wvQqvBZGSrxuc5n_ix6JwPD0nJNPRhHidTcSBYg4sSeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/67niyZ4ayk8NxGwcWbCi7qUFEx2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":924657,\"imdb_id\":\"tt14732330\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Squeaky Clean Mysteries: Hazardous Duty\",\"overview\":\"Gabby St. Claire had to drop out of school before she can complete a degree in forensic science to help her family. Instead, she did the next best thing: she became a crime scene cleaner. When a routine cleaning job uncovers a murder weapon the police overlooked, she realizes that the wrong person is in jail.\",\"popularity\":3.496,\"poster_path\":\"\/btOa3bBylEA4A4zG3F0UqE0fdPR.jpg\",\"production_companies\":[{\"id\":167527,\"logo_path\":null,\"name\":\"Trash Panda Entertainment\",\"origin_country\":\"\"},{\"id\":93287,\"logo_path\":null,\"name\":\"American Cinema Inspires\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-02-08\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Squeaky Clean Mysteries: Hazardous Duty\",\"video\":false,\"vote_average\":6.4,\"vote_count\":8}"
+}

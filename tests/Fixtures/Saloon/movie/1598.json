@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1690",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22357",
+        "x-memc": "HIT",
+        "x-memc-key": "640d5c2be0848454db42be986e4a1a47",
+        "x-memc-age": "2211",
+        "x-memc-expires": "22357",
+        "ETag": "W\/\"7044f2162f5944256fa6bfd636256f2c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aaVHpgV319al5y0C1LFibED4kMr3q9pzWSq436vPQOdW3sPnB4r-2Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ntgpger7OwFNlEldxuvvFHDKzjW.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1598,\"imdb_id\":\"tt0101540\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cape Fear\",\"overview\":\"Sam Bowden is a small-town corporate attorney. Max Cady is a tattooed, cigar-smoking, Bible-quoting, psychotic rapist. What do they have in common? 14 years ago, Sam was a public defender assigned to Max Cady's rape trial, and he made a serious error: he hid a document from his illiterate client that could have gotten him acquitted. Now, the cagey Cady has been released, and he intends to teach Sam Bowden and his family a thing or two about loss.\",\"popularity\":33.927,\"poster_path\":\"\/8xUSdIH7Trn02m0VgvvUI6ZeVe4.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":691,\"logo_path\":null,\"name\":\"Cappa Productions\",\"origin_country\":\"US\"},{\"id\":11391,\"logo_path\":\"\/t6m0uRTzaFHCsvEpikENE0PWJGb.png\",\"name\":\"Tribeca Productions\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-11-13\",\"revenue\":182300000,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sam Bowden has always provided for his family's future. But the past is coming back to haunt them.\",\"title\":\"Cape Fear\",\"video\":false,\"vote_average\":7.267,\"vote_count\":3339}"
+}

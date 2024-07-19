@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1315",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2155",
+        "x-memc": "HIT",
+        "x-memc-key": "ed8712e332d238b16bb3b24c78e4d222",
+        "x-memc-age": "24334",
+        "x-memc-expires": "2155",
+        "ETag": "W\/\"417e311b0f3bd2ce0d6fbd3378eca466\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "t70o7B2zbqvwxN9k5anLGw4bO2GoayzUSHcJfwrc5qHb1dHIqFvu6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rLo9T9jEg67UZPq3midjLnTUYYi.jpg\",\"belongs_to_collection\":null,\"budget\":85000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/elvis.warnerbros.com\",\"id\":614934,\"imdb_id\":\"tt3704428\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Elvis\",\"overview\":\"The life story of Elvis Presley as seen through the complicated relationship with his enigmatic manager, Colonel Tom Parker.\",\"popularity\":59.317,\"poster_path\":\"\/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":240,\"logo_path\":\"\/hzZza9YnKtgU1x2tjVH0rx0ISaY.png\",\"name\":\"Bazmark\",\"origin_country\":\"AU\"},{\"id\":75060,\"logo_path\":\"\/iS6njjhHMBYIcwcBrjNfd53dyXQ.png\",\"name\":\"The Jackal Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-06-22\",\"revenue\":288670284,\"runtime\":159,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Man. The Legend. The King of Rock & Roll.\",\"title\":\"Elvis\",\"video\":false,\"vote_average\":7.54,\"vote_count\":3245}"
+}

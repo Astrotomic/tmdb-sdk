@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1103",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5266",
+        "x-memc": "HIT",
+        "x-memc-key": "4eb588ac2386674bd8113077804e25a9",
+        "x-memc-age": "18114",
+        "x-memc-expires": "5266",
+        "ETag": "W\/\"675386b7d0eadcb9ad9368a2b8c615d1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kW2D5K64zlyV6YWlw3fIZqUJfJJKRMEjtfgtL6WL-6R6sMeC29PmIg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/f2KJG11HzA6aPExhJ2ViiVpiKTN.jpg\",\"belongs_to_collection\":null,\"budget\":2292,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1028530,\"imdb_id\":\"tt12606368\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Incognito\",\"overview\":\"Set in the near future, Earth's resources are gone and humanity fight for survival. Myles, a young self-centered man, must journey to find Sanctuary with a youthful ally named Tessa. While the shadow of the cruel Cyrus creeps ever closer to Myles - and his past.\",\"popularity\":3.576,\"poster_path\":\"\/wUxDRKeGHxeipHQzYfY8EcqFMsb.jpg\",\"production_companies\":[{\"id\":183037,\"logo_path\":null,\"name\":\"Honeycomb Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2022-10-17\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Our Future is Limited\",\"title\":\"Incognito\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

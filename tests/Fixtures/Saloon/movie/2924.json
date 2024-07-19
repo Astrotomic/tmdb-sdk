@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1605",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21634",
+        "x-memc": "HIT",
+        "x-memc-key": "5a8999bd9c70f096330ea099bbd5c027",
+        "x-memc-age": "384",
+        "x-memc-expires": "21634",
+        "ETag": "W\/\"27fdbcdaaa6118f536120db7d93caace\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oydTuVnmYq53NmxtJkQ7jSjymveCD104LLB0K9-Km4SyHfN_7iNL-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sRZjzfBbBwRVI8oO5OtkaCYPFad.jpg\",\"belongs_to_collection\":{\"id\":597142,\"name\":\"Backdraft Collection\",\"poster_path\":\"\/pYjrDzhYgflAG96nLtBHhSr97IE.jpg\",\"backdrop_path\":\"\/xODyLuXCARWbEj5Allf8F3b5ZfH.jpg\"},\"budget\":75000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/backdraft\",\"id\":2924,\"imdb_id\":\"tt0101393\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Backdraft\",\"overview\":\"Firemen brothers Brian and Stephen McCaffrey battle each other over past slights while trying to stop an arsonist with a diabolical agenda from torching Chicago.\",\"popularity\":19.914,\"poster_path\":\"\/bymJtYNIdiAiBR1LRetaJXbfryc.jpg\",\"production_companies\":[{\"id\":2231,\"logo_path\":\"\/zJBTkTxy0UiQETGRynEqxiFbmL8.png\",\"name\":\"Trilogy Entertainment Group\",\"origin_country\":\"US\"},{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-05-24\",\"revenue\":152368585,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Silently behind a door, it waits. One breath of oxygen and it explodes in a deadly rage. In that instant it can create a hero...or cover a secret.\",\"title\":\"Backdraft\",\"video\":false,\"vote_average\":6.6,\"vote_count\":1368}"
+}

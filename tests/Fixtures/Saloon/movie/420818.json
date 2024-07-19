@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1719",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18467",
+        "x-memc": "HIT",
+        "x-memc-key": "4516aecc64ec97ae3e2a8e1bd3e88c9e",
+        "x-memc-age": "9318",
+        "x-memc-expires": "18467",
+        "ETag": "W\/\"c2336a6595c02730de3e67f45982f1d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tiBvIGFXSkPblv_sunpqBm55_Uqcm78s2S1Rp8f8kDKr-LhCemiR_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1TUg5pO1VZ4B0Q1amk3OlXvlpXV.jpg\",\"belongs_to_collection\":{\"id\":762512,\"name\":\"The Lion King (Reboot) Collection\",\"poster_path\":\"\/dGpIRn4Nqi63JO1RlKxjcPbQSAw.jpg\",\"backdrop_path\":\"\/jIgM7YNVft0YGeXsqrh3oG5TWLx.jpg\"},\"budget\":260000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"https:\/\/movies.disney.com\/the-lion-king-2019\",\"id\":420818,\"imdb_id\":\"tt6105098\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lion King\",\"overview\":\"Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny. But not everyone in the kingdom celebrates the new cub's arrival. Scar, Mufasa's brother\u2014and former heir to the throne\u2014has plans of his own. The battle for Pride Rock is ravaged with betrayal, tragedy and drama, ultimately resulting in Simba's exile. With help from a curious pair of newfound friends, Simba will have to figure out how to grow up and take back what is rightfully his.\",\"popularity\":115.691,\"poster_path\":\"\/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":7297,\"logo_path\":\"\/l29JYQVZbTcjZXoz4CUYFpKRmM3.png\",\"name\":\"Fairview Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-07-12\",\"revenue\":1663000000,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The King has Returned.\",\"title\":\"The Lion King\",\"video\":false,\"vote_average\":7.112,\"vote_count\":9774}"
+}

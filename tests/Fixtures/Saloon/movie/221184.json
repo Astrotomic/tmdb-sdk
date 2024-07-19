@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1016",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4806",
+        "x-memc": "HIT",
+        "x-memc-key": "26a13ca7a194893b4cce25f17b0d78fd",
+        "x-memc-age": "20053",
+        "x-memc-expires": "4806",
+        "ETag": "W\/\"4cd15522ecf1bd09d50074792c4b870a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Sj3UOg_awdk1MLtGoQnKC4mxs1ahZtoo3yEJ4PHNk9IvuFuI9GxFBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7yJ03xD3dvUGXNR6PErl9fLjKhE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.animemirai.jp\/c1.php\",\"id\":221184,\"imdb_id\":\"tt3125154\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u9f8d-RYO-\",\"overview\":\"The son of a samurai who lost his parents during the attack of English ships on a Japanese town is given the name Ryo and becomes the bodyguard of Ryoma Sakamoto, a man who has his own plan to fight for the country.\",\"popularity\":13.705,\"poster_path\":\"\/5mwrKGuTluCFJ4gEUkJhDueBcHQ.jpg\",\"production_companies\":[{\"id\":1077,\"logo_path\":\"\/1tpNgC6BptieT9oF2LJ7H6pbG6S.png\",\"name\":\"GONZO\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2013-03-02\",\"revenue\":0,\"runtime\":26,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ryo\",\"video\":false,\"vote_average\":7.571,\"vote_count\":7}"
+}

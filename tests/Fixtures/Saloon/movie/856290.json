@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1234",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16900",
+        "x-memc": "HIT",
+        "x-memc-key": "cae05cfc37da2ad7461ffabc79d85b72",
+        "x-memc-age": "11511",
+        "x-memc-expires": "16900",
+        "ETag": "W\/\"e273240688d0130b992d888297e48eb0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0N_vOhvrnxYrTLnncpAs1nROq7rftjdZX21idN0oZCQIDJMfSGqdBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iUHKLrKYcl8E1OniGUEUe1fSYyf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":856290,\"imdb_id\":\"tt12664558\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"After She Died\",\"overview\":\"A young woman is horrified to discover that her father's new girlfriend looks identical to her dead mother.\",\"popularity\":4.832,\"poster_path\":\"\/jwIDNrVV64l86RMapphoz0cz4qL.jpg\",\"production_companies\":[{\"id\":170762,\"logo_path\":\"\/9sw0KGO2UUU0RjHWdkscqj0jzHk.png\",\"name\":\"Apostle Digital\",\"origin_country\":\"AU\"},{\"id\":137628,\"logo_path\":\"\/7fNQ8e7oXpOSwz43WesfAIyVAbu.png\",\"name\":\"Cranked Up Films\",\"origin_country\":\"US\"},{\"id\":202876,\"logo_path\":null,\"name\":\"Dead Woods Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2022-09-23\",\"revenue\":0,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Descend into terror.\",\"title\":\"After She Died\",\"video\":false,\"vote_average\":6.0,\"vote_count\":5}"
+}

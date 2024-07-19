@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1003",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6039",
+        "x-memc": "HIT",
+        "x-memc-key": "e0f18aa909533fd91432727028822a71",
+        "x-memc-age": "20146",
+        "x-memc-expires": "6039",
+        "ETag": "W\/\"601034ce046ebd3010cf8646d13dccc0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s5zSwQarIgg1Z_RNZkcavUP8-spwV5N9HCpY43iUj1LKMt3qe-yErQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kvhjvX247i0ujDo6mdW0Baxj3Vp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":10231,\"imdb_id\":\"tt0048091\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Foxfire\",\"overview\":\"A part-Indian mining engineer looks for gold in an Arizona ghost town with his socialite bride.\",\"popularity\":7.391,\"poster_path\":\"\/AfDAUp7dExiRPV7oaksZ2yiSwjL.jpg\",\"production_companies\":[{\"id\":10330,\"logo_path\":\"\/vevakirICdmHxRPeZUdbjFqcFLM.png\",\"name\":\"Universal International Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1955-07-13\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Jane's got Jeff!\",\"title\":\"Foxfire\",\"video\":false,\"vote_average\":6.0,\"vote_count\":8}"
+}

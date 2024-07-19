@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1632",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9397",
+        "x-memc": "HIT",
+        "x-memc-key": "3a5f0fb742928c1b076d73f925e3dfdf",
+        "x-memc-age": "18485",
+        "x-memc-expires": "9397",
+        "ETag": "W\/\"07de686c2a2b8b0f7df69882824c5adb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lThZf5bbHGfFRMJSabNAeQ_Dgy5tD8BlBcjI7XGEc1Opi5DmkRwhVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a7RMVypNmxvEG0SzG9kXBJivfxX.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11060,\"imdb_id\":\"tt0099850\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Internal Affairs\",\"overview\":\"Keen young Raymold Avila joins the Internal Affairs Department of the Los Angeles police. He and partner Amy Wallace are soon looking closely at the activities of cop Dennis Peck whose financial holdings start to suggest something shady. Indeed Peck is involved in any number of dubious or downright criminal activities. He is also devious, a womaniser, and a clever manipulator, and he starts to turn his attention on Avila.\",\"popularity\":18.628,\"poster_path\":\"\/A4pH8DiNFEf2AgXkM4zk3ZpblV.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":21084,\"logo_path\":null,\"name\":\"Image Organization\",\"origin_country\":\"\"},{\"id\":3498,\"logo_path\":null,\"name\":\"Malofilm\",\"origin_country\":\"\"},{\"id\":146798,\"logo_path\":null,\"name\":\"Out of the Town Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-01-12\",\"revenue\":27734391,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Trust him... he's a cop.\",\"title\":\"Internal Affairs\",\"video\":false,\"vote_average\":6.275,\"vote_count\":373}"
+}

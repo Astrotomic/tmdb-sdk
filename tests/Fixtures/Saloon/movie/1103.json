@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1720",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28115",
+        "x-memc": "HIT",
+        "x-memc-key": "5c0f2e23896fe4787949582309f182c2",
+        "x-memc-age": "282",
+        "x-memc-expires": "28115",
+        "ETag": "W\/\"3d7b195dec63ff3cfbf591ddd9288f31\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Zl_lqgahs8NTZIDDmOpRKWFdrs2Bc9xAkza2LUsheEB785qwLEZJ_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aXPCXYFzFzdveVVk1HjVf9fHUcn.jpg\",\"belongs_to_collection\":{\"id\":115838,\"name\":\"Escape From ... Collection\",\"poster_path\":\"\/fCHWtXyAueRG7RXk2pyRhN7t7hu.jpg\",\"backdrop_path\":\"\/1erOKf92qvCc1v2lhvyyyrH0wH6.jpg\"},\"budget\":6000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.theofficialjohncarpenter.com\/escape-from-new-york\/\",\"id\":1103,\"imdb_id\":\"tt0082340\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Escape from New York\",\"overview\":\"In a world ravaged by crime, the entire island of Manhattan has been converted into a walled prison where brutal prisoners roam. After the US president crash-lands inside, war hero Snake Plissken has 24 hours to bring him back.\",\"popularity\":40.396,\"poster_path\":\"\/yreqWiQ7IOkXWVB2Tz4LJIs7xqA.jpg\",\"production_companies\":[{\"id\":494,\"logo_path\":\"\/ioc65azmsAeL1XQN4dFnrpdJoMO.png\",\"name\":\"AVCO Embassy Pictures\",\"origin_country\":\"US\"},{\"id\":500,\"logo_path\":\"\/yDDFvMZAEbLGAm90LxzmayEfvE5.png\",\"name\":\"Goldcrest\",\"origin_country\":\"GB\"},{\"id\":502,\"logo_path\":null,\"name\":\"International Film Investors\",\"origin_country\":\"US\"},{\"id\":10720,\"logo_path\":null,\"name\":\"City Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-05-23\",\"revenue\":50244700,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"1997. New York City is a walled maximum security prison. Breaking out is impossible. Breaking in is insane.\",\"title\":\"Escape from New York\",\"video\":false,\"vote_average\":7.072,\"vote_count\":3025}"
+}

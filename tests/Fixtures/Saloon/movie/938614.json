@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1658",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9916",
+        "x-memc": "HIT",
+        "x-memc-key": "23da027bca6ce05f7a92f2c2a4933854",
+        "x-memc-age": "11728",
+        "x-memc-expires": "9916",
+        "ETag": "W\/\"c6726f1a8f476dd7623859a400528a99\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PgkzBmLczEL5bRhbYfWA_bBpsI1h6YNbjQ6tQNG6NTDuvJAAgNz71Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4yrOyO3N55XazHQXXYoqiiPQd40.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.latenightwiththedevil.movie\",\"id\":938614,\"imdb_id\":\"tt14966898\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Late Night with the Devil\",\"overview\":\"A live broadcast of a late-night talk show in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.\",\"popularity\":234.133,\"poster_path\":\"\/jGY62i0D0zitaGz4Ema7vTEYIXw.jpg\",\"production_companies\":[{\"id\":169906,\"logo_path\":\"\/vEiG2JXNpnJD8k8jkF6cHOpsFLe.png\",\"name\":\"Spooky Pictures\",\"origin_country\":\"US\"},{\"id\":131223,\"logo_path\":\"\/cqTFMN4VU4dOQ5wl2nZtxXDEdEE.png\",\"name\":\"Future Pictures\",\"origin_country\":\"AU\"},{\"id\":195800,\"logo_path\":\"\/wT79wm2n1yeaK7HjJbQbPhnxzZr.png\",\"name\":\"Good Fiend Films\",\"origin_country\":\"US\"},{\"id\":191328,\"logo_path\":\"\/cbkGrwVcgf0aS0BAfqsF5uCBffH.png\",\"name\":\"Image Nation Abu Dhabi\",\"origin_country\":\"AE\"},{\"id\":204763,\"logo_path\":\"\/aqWMgtLOf2ClBDnK0f4DvYNTZf6.png\",\"name\":\"VicScreen\",\"origin_country\":\"AU\"},{\"id\":110799,\"logo_path\":\"\/eHjtiQJjrGQTooEsBmPSYoUnNB.png\",\"name\":\"AGC Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"AE\",\"name\":\"United Arab Emirates\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-03-19\",\"revenue\":11902746,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Do not adjust your set.\",\"title\":\"Late Night with the Devil\",\"video\":false,\"vote_average\":7.308,\"vote_count\":594}"
+}

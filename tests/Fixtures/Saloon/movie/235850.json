@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1019",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6616",
+        "x-memc": "HIT",
+        "x-memc-key": "5012d605c7cecd917dd76ce48872b75c",
+        "x-memc-age": "19373",
+        "x-memc-expires": "6616",
+        "ETag": "W\/\"d61f826f4c058d984a862548f6700200\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "khvNRWT4rtLisalE8UrAURWomIjp-J2k_RXhz5JjSRquNeqPxxQ_Og=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hwGGwSUVyoSoUhvAZkbHZOiUdvK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":235850,\"imdb_id\":\"tt0205489\",\"origin_country\":[\"NO\"],\"original_language\":\"no\",\"original_title\":\"Ung frue forsvunnet\",\"overview\":\"The young wife of an upper-class academic disappears while her husband is on holiday. In his search for her, the husband learns that there was much he did not know both about her past and about their relationship.\",\"popularity\":1.594,\"poster_path\":\"\/4xqqWUUKY4tRWUCeWgfdx9CGafr.jpg\",\"production_companies\":[{\"id\":14624,\"logo_path\":null,\"name\":\"Carlmar Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"NO\",\"name\":\"Norway\"}],\"release_date\":\"1953-08-26\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Disappearance of a Young Wife\",\"video\":false,\"vote_average\":6.2,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "973",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4018",
+        "x-memc": "HIT",
+        "x-memc-key": "751d275ae5656bf893fb14ed7117a2da",
+        "x-memc-age": "22522",
+        "x-memc-expires": "4018",
+        "ETag": "W\/\"bb3a070cbb1470b9909d47e9fded9b4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9FRZ2hYiScQnrx2nbf2vMFnUzmZFQiUiGDoVPX8pq7nYcSAA_yTEww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iVnsOj0MtVE1lzfillNAPqCdhpR.jpg\",\"belongs_to_collection\":null,\"budget\":3700000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1023,\"imdb_id\":\"tt0418455\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Adams \u00e6bler\",\"overview\":\"A neo-nazi sentenced to community service at a church clashes with the blindly devotional priest.\",\"popularity\":32.213,\"poster_path\":\"\/v5KtTI8uFWqOed7dL3nzAvOTCn2.jpg\",\"production_companies\":[{\"id\":1789,\"logo_path\":null,\"name\":\"M\\u0026M Productions\",\"origin_country\":\"DK\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2005-04-15\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"}],\"status\":\"Released\",\"tagline\":\"When it rains, it pours\",\"title\":\"Adam's Apples\",\"video\":false,\"vote_average\":7.5,\"vote_count\":667}"
+}

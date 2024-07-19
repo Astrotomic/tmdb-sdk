@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1265",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6956",
+        "x-memc": "HIT",
+        "x-memc-key": "2378d01f493972215e137e2b459dfb57",
+        "x-memc-age": "20869",
+        "x-memc-expires": "6956",
+        "ETag": "W\/\"ea7f8ca46e8f3c15a81bd6370c8404e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m4WUmJxeiXRZ880NNNF8Px3bykOshr1IJAvu0isrjsx0jRIykQfKuA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ee7nLU6c9JPzxRIqR5qxDXEo3uh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":1072074,\"imdb_id\":\"tt25869142\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Disquiet\",\"overview\":\"After a near-fatal car accident, Sam wakes to discover he is trapped in an abandoned hospital by mysterious and sinister forces that have no intention of letting him leave\u2026\",\"popularity\":38.864,\"poster_path\":\"\/rVFjtO9u58PMirVHUvyAXLYObYm.jpg\",\"production_companies\":[{\"id\":177095,\"logo_path\":\"\/nfwWCvMNaK687bjyM7un8p7ilz0.png\",\"name\":\"SP Media Group\",\"origin_country\":\"US\"},{\"id\":44311,\"logo_path\":null,\"name\":\"Steven Paul Production\",\"origin_country\":\"US\"},{\"id\":3958,\"logo_path\":\"\/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png\",\"name\":\"Front Street Pictures\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-02-10\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Disquiet\",\"video\":false,\"vote_average\":5.566,\"vote_count\":98}"
+}

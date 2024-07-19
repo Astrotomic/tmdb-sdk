@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "995",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15638",
+        "x-memc": "HIT",
+        "x-memc-key": "1ff1dc734e2f8a1cfe4e7190ed8bd351",
+        "x-memc-age": "12542",
+        "x-memc-expires": "15638",
+        "ETag": "W\/\"c724d1e4281173500f1b7ab5ef798ede\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mvK0kyB0H8Ek7qPvLJIWsDXLlXvyvct49BwSURgzm7cf1BHSBzl8aw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bjTXgFfT3tzC0jQ9pf9d7UoHrFy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":605680,\"imdb_id\":\"tt13428686\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\ub3c4\uad74\",\"overview\":\"To acquire ancient artifacts for a private collector, a cunning grave robber and his band of ingenious thieves carry out a series of risky heists.\",\"popularity\":10.087,\"poster_path\":\"\/uK4x9dw5R9zudfyLKP2SzDaqvjA.jpg\",\"production_companies\":[{\"id\":112647,\"logo_path\":null,\"name\":\"Siren Pictures\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2020-11-04\",\"revenue\":0,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"We make money by digging.\",\"title\":\"Collectors\",\"video\":false,\"vote_average\":7.241,\"vote_count\":27}"
+}

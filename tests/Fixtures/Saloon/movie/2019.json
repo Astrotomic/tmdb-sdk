@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1472",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4157",
+        "x-memc": "HIT",
+        "x-memc-key": "111a7146d9c5553a1c67dbb9af8f04fe",
+        "x-memc-age": "23158",
+        "x-memc-expires": "4157",
+        "ETag": "W\/\"447e0654a8ec3d3eeed3ae533567c38a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "POyuLf8PrIlcvQlKKvUJiG3X6VNjvBx_X1cqtOCt8hJD_xYZUgX1eg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/b4SorcTpNO11dY8beCu9KMrDp3Y.jpg\",\"belongs_to_collection\":{\"id\":412680,\"name\":\"Hard Target Collection\",\"poster_path\":\"\/g7Bc4ik16xOBz21BQOcsxrBL8BO.jpg\",\"backdrop_path\":\"\/wcBIwQY888HX1QWpnv43lAujoId.jpg\"},\"budget\":18000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":2019,\"imdb_id\":\"tt0107076\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hard Target\",\"overview\":\"When a woman's father goes missing, she enlists a local to aid in her search.  The pair soon discover that her father has died at the hands of a wealthy sportsman who hunts homeless men as a form of recreation.\",\"popularity\":49.469,\"poster_path\":\"\/kufvuQYWdl82sYzmhy2naBLyMui.jpg\",\"production_companies\":[{\"id\":11462,\"logo_path\":\"\/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png\",\"name\":\"Alphaville Films\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":467,\"logo_path\":null,\"name\":\"Renaissance Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-04-27\",\"revenue\":74189677,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Don't hunt what you can't kill.\",\"title\":\"Hard Target\",\"video\":false,\"vote_average\":6.394,\"vote_count\":1132}"
+}

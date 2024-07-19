@@ -3,12 +3,13 @@
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\Company;
-use Illuminate\Support\Collection;
+use Illuminate\Support\Arr;
+use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends Collection<array-key, Company>
+ * @extends IlluminateCollection<array-key, Company>
  */
-class CompanyCollection extends Collection
+class CompanyCollection extends IlluminateCollection
 {
     /**
      * @param  array<array-key, array>  $data
@@ -16,8 +17,16 @@ class CompanyCollection extends Collection
      */
     public static function fromArray(?array $data): self
     {
-        return static::make($data)->map(
-            fn (array $item): Company => Company::fromArray($item)
-        );
+        return static::make(Arr::map(
+            array: $data ?? [],
+            callback: fn (array $item) => Company::fromArray($item)
+        ));
+    }
+
+    public function __construct($items = [])
+    {
+        parent::__construct($items);
+
+        $this->ensure(Company::class);
     }
 }

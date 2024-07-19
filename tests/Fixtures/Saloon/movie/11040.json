@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1163",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=115",
+        "x-memc": "HIT",
+        "x-memc-key": "b5fa499731a45a2acbd532fd4a33f1bb",
+        "x-memc-age": "25417",
+        "x-memc-expires": "115",
+        "ETag": "W\/\"f5615090f5a075a6e7aa63cab5cbc12c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jrGTmk1dwXh726BEtkoYCnsk4cSWv45Q2EqaIRWlleAk3ietSC7--g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uuich47VwLn44B0gHmhgLt6hTcM.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":37,\"name\":\"Western\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11040,\"imdb_id\":\"tt0065988\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Little Big Man\",\"overview\":\"Jack Crabb, looking back from extreme old age, tells of his life being raised by Indians and fighting with General Custer.\",\"popularity\":17.843,\"poster_path\":\"\/pLvUVqadEI9cPrRlTru6ee71EWU.jpg\",\"production_companies\":[{\"id\":3070,\"logo_path\":null,\"name\":\"Cinema Center Films\",\"origin_country\":\"\"},{\"id\":5603,\"logo_path\":null,\"name\":\"Stockbridge-Hiller Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1970-12-23\",\"revenue\":31559552,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Either the most neglected hero in history or a liar of insane proportion!\",\"title\":\"Little Big Man\",\"video\":false,\"vote_average\":7.539,\"vote_count\":605}"
+}

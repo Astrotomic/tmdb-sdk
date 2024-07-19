@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1078",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10956",
+        "x-memc": "HIT",
+        "x-memc-key": "b6ab04a3b93c0d6d9a53f29d4a15eccb",
+        "x-memc-age": "15450",
+        "x-memc-expires": "10956",
+        "ETag": "W\/\"9043ee351176a08c5a7e45b7a1bd787b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-i5lpZngKh3Yk_MzCDnlGGiCP-aBcUAGRq3Uh57E-QS8eQ0kF-W_bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/g7o5O6xRWkMiwHXiYMPC690YEL4.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1542,\"imdb_id\":\"tt0151804\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Office Space\",\"overview\":\"A depressed white-collar worker tries hypnotherapy, only to find himself in a perpetual state of devil-may-care bliss that prompts him to start living by his own rules, and hatch a hapless attempt to embezzle money from his soul-killing employers.\",\"popularity\":34.209,\"poster_path\":\"\/v7fBXxHZ5WQn2PGgpXhTqHgtcJk.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-02-19\",\"revenue\":12800000,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Work sucks.\",\"title\":\"Office Space\",\"video\":false,\"vote_average\":7.382,\"vote_count\":2877}"
+}

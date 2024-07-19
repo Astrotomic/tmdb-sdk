@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2005",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3324",
+        "x-memc": "HIT",
+        "x-memc-key": "f628ef99d51a0fc7afc038cd4581f4b7",
+        "x-memc-age": "25008",
+        "x-memc-expires": "3324",
+        "ETag": "W\/\"a9ae1392d2e2f3b09cf837771e9abda6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tK465Xtu4vNJaMC2sYKiCKVqqiCJtWY_Xa5VH4B4J2Ew4bPwcgCEmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Akv9GlCCMrzcDkVz4ad8MdLl9DK.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.thegarfield-movie.com\/\",\"id\":748783,\"imdb_id\":\"tt5779228\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Garfield Movie\",\"overview\":\"Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.\",\"popularity\":2437.699,\"poster_path\":\"\/p6AbOJvMQhBmffd0PIv0u8ghWeY.jpg\",\"production_companies\":[{\"id\":1088,\"logo_path\":\"\/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png\",\"name\":\"Alcon Entertainment\",\"origin_country\":\"US\"},{\"id\":31922,\"logo_path\":\"\/omWPoru2LNayUOBqjMBLP9KrFrP.png\",\"name\":\"DNEG\",\"origin_country\":\"GB\"},{\"id\":144610,\"logo_path\":\"\/879WnwsOH1oP6NlLY7ChD6vL6lh.png\",\"name\":\"Wayfarer Studios\",\"origin_country\":\"US\"},{\"id\":129773,\"logo_path\":null,\"name\":\"One Cool Group\",\"origin_country\":\"HK\"},{\"id\":11341,\"logo_path\":\"\/xytTBODEy3p20ksHL4Ftxr483Iv.png\",\"name\":\"Stage 6 Films\",\"origin_country\":\"US\"},{\"id\":229807,\"logo_path\":\"\/p8IO8N3bIaWaebafj52xvVB1On6.png\",\"name\":\"Andrews McMeel Entertainment\",\"origin_country\":\"US\"},{\"id\":178792,\"logo_path\":null,\"name\":\"John Cohen Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-30\",\"revenue\":244865603,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Indoor cat. Outdoor adventure.\",\"title\":\"The Garfield Movie\",\"video\":false,\"vote_average\":7.274,\"vote_count\":465}"
+}

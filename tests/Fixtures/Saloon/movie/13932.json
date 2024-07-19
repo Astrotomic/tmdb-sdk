@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1230",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20724",
+        "x-memc": "HIT",
+        "x-memc-key": "7bfcd99290e52eca27cdf8e1e2a7562a",
+        "x-memc-age": "2205",
+        "x-memc-expires": "20724",
+        "ETag": "W\/\"d1579386c7cc1db8639b096ff7ce4b4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ddXIrk-KlDfiGebeE5Ol-xP6Pm-OS0F_fhOq3_BIlUmZaDZ0Wl-akA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4IwoBJFfg24wNGD7A77XdSEXNLT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.pixar.com\/short_films\/Home-Entertainment-Shorts\/Jack-Jack-Attack\",\"id\":13932,\"imdb_id\":\"tt0455565\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jack-Jack Attack\",\"overview\":\"The Parrs' baby Jack-Jack is thought to be normal, not having any super-powers like his parents or siblings. But when an outsider is hired to watch him, Jack-Jack shows his true potential.\",\"popularity\":11.98,\"poster_path\":\"\/uKMYT8aAJS9LA8IM1juMqbXTtqU.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-03-15\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Jack-Jack Attack\",\"video\":false,\"vote_average\":7.3,\"vote_count\":903}"
+}

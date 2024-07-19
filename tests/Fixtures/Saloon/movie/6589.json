@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1591",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1860",
+        "x-memc": "HIT",
+        "x-memc-key": "9c69575223dd4fcf4def75bc8ab82f00",
+        "x-memc-age": "20211",
+        "x-memc-expires": "1860",
+        "ETag": "W\/\"aedd8d4a34cb4e5b7e1a0f5967a2a170\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Yz6OBIvPkeboYRvqMjbS2mWiYC81bko35wwG8aQU9G5EFFE1N-ctMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1BEuoA7UpCF51WpiIZ7rypAhxfs.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/disney.go.com\/disneyvideos\/liveaction\/underdog\/\",\"id\":6589,\"imdb_id\":\"tt0467110\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Underdog\",\"overview\":\"A lab accident gives a beagle named Shoeshine some serious superpowers -- a secret that the dog eventually shares with the young boy who becomes his owner and friend.\",\"popularity\":25.881,\"poster_path\":\"\/pqGahPUmqrXbkeTQg7HCUa4VeHV.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":37382,\"logo_path\":\"\/8GoaFY2GaoRhDYUUqulZx8CCrhV.png\",\"name\":\"Classic Media\",\"origin_country\":\"US\"},{\"id\":102999,\"logo_path\":null,\"name\":\"Have No Fear Productions\",\"origin_country\":\"\"},{\"id\":158,\"logo_path\":\"\/6SHlNIype9zmyEMRsBtoueUtLsq.png\",\"name\":\"Spyglass Entertainment\",\"origin_country\":\"US\"},{\"id\":4000,\"logo_path\":null,\"name\":\"Maverick Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-08-03\",\"revenue\":65270477,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"NO NEED TO FEAR.. UNDERDOG IS HERE!\",\"title\":\"Underdog\",\"video\":false,\"vote_average\":5.4,\"vote_count\":661}"
+}

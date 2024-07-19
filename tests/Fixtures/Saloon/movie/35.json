@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1214",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16932",
+        "x-memc": "HIT",
+        "x-memc-key": "aa44ae359c7654be14fd87b904502442",
+        "x-memc-age": "8531",
+        "x-memc-expires": "16932",
+        "ETag": "W\/\"383f5005f11f33e918517940a38e58b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PUtFj_w-uxQivA6wSnE6pmA2CP1C5G3MzHnuBCSO0NbAMyMbxZnrDg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yajM2akz8QKOx0RdvN6OYaxe3GN.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.simpsonsmovie.com\/\",\"id\":35,\"imdb_id\":\"tt0462538\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Simpsons Movie\",\"overview\":\"After Homer accidentally pollutes the town's water supply, Springfield is encased in a gigantic dome by the EPA and the Simpsons are declared fugitives.\",\"popularity\":71.09,\"poster_path\":\"\/gzb6P78zeFTnv9eoFYnaJ2YrZ5q.jpg\",\"production_companies\":[{\"id\":18,\"logo_path\":\"\/uqhagSwM7NAkQWVCQhKTyoqF8XH.png\",\"name\":\"Gracie Films\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-07-25\",\"revenue\":527068851,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"See our family. And feel better about yours.\",\"title\":\"The Simpsons Movie\",\"video\":false,\"vote_average\":7.008,\"vote_count\":7810}"
+}

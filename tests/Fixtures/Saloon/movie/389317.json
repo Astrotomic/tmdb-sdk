@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "903",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11982",
+        "x-memc": "HIT",
+        "x-memc-key": "6ab6db4d0077200b0bdde024bc747c1f",
+        "x-memc-age": "12843",
+        "x-memc-expires": "11982",
+        "ETag": "W\/\"0b56ec090216eb23e86f4c81c0d65aa2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gBkjpvnkkHOdoRatDNzIznHOPU0GtJtfQctUM8S_BBLtw3WYYSZneA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":389317,\"imdb_id\":\"tt3623420\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Flight\",\"overview\":\"Two friends explore a city floating in the air, where their friendship is put to the test.\",\"popularity\":1.213,\"poster_path\":null,\"production_companies\":[{\"id\":41516,\"logo_path\":null,\"name\":\"Bezalel Academy of Arts and Design\",\"origin_country\":\"IL\"}],\"production_countries\":[{\"iso_3166_1\":\"IL\",\"name\":\"Israel\"}],\"release_date\":\"2013-03-23\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Flight\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

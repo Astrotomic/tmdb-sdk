@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1335",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14937",
+        "x-memc": "HIT",
+        "x-memc-key": "a69aeaf166f9c9688131796915bcac68",
+        "x-memc-age": "11612",
+        "x-memc-expires": "14937",
+        "ETag": "W\/\"218f19c76a6c495e12fc0d062a13572c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EfjbQtIJuS6aItK5Ru2gb9h075sWyfsVnVJoyLC5vI72UBoEB1mr5A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8OGYrp1Q9WabUZ8TWmAML7tctR.jpg\",\"belongs_to_collection\":null,\"budget\":25000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1275232,\"imdb_id\":\"tt31922147\",\"origin_country\":[\"IT\",\"RU\"],\"original_language\":\"ru\",\"original_title\":\"New\",\"overview\":\"Outskirts of Moscow. A girl comes to an unfamiliar apartment to look after a dog. After a while, she realizes that the owner of the apartment has disappeared. She finds herself into a series of people that have been taking care of the dog for years in that same apartment, creating a weird community around this strange absence of the owner.\",\"popularity\":6.674,\"poster_path\":\"\/wDFD6JON4iErwP09OQiPVWRrbfw.jpg\",\"production_companies\":[{\"id\":102895,\"logo_path\":\"\/l7vxt0fHlxH0mgPScm1a2Sv4ZZS.png\",\"name\":\"Stereotactic\",\"origin_country\":\"RU\"},{\"id\":154786,\"logo_path\":null,\"name\":\"Il Varco\",\"origin_country\":\"\"},{\"id\":12377,\"logo_path\":\"\/yL9lfoO2IX6sssqEJuifsOPgcxP.png\",\"name\":\"Minerva Pictures\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2024-04-04\",\"revenue\":0,\"runtime\":20,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"New\",\"video\":false,\"vote_average\":8.9,\"vote_count\":20}"
+}

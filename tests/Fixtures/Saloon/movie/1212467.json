@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "974",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22597",
+        "x-memc": "HIT",
+        "x-memc-key": "469a22695f0a7db31ca13a1b9fcdd881",
+        "x-memc-age": "1724",
+        "x-memc-expires": "22597",
+        "ETag": "W\/\"0a0f6b3536d7246952cde6cdf7565f05\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bavNz7bOjT_CJyt9Wa2N_6EkG02cUWx_b8h85eNpypIKJofhGtlhJw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1212467,\"imdb_id\":\"tt3663668\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Three Ages: Tour of Filming Locations\",\"overview\":\"This visual essay by John Bengtson, author of Silent Echoes: Discovering Early Hollywood Through the Films of Buster Keaton, reveals the locations where Keaton's 1923 comedy feature Three Ages was filmed in Hollywood, USC, and Los Angeles.\",\"popularity\":3.695,\"poster_path\":null,\"production_companies\":[{\"id\":39134,\"logo_path\":\"\/sijjN3vMtjCnc1LkCM7HSBErcO3.png\",\"name\":\"Kino Lorber\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-11-16\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Three Ages: Tour of Filming Locations\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

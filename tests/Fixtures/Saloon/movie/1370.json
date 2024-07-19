@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1594",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7099",
+        "x-memc": "HIT",
+        "x-memc-key": "780ec1c4c2d7ca885ca25caa62fd5b10",
+        "x-memc-age": "21572",
+        "x-memc-expires": "7099",
+        "ETag": "W\/\"ce9cb2e4db367b79d7298edf6d29eedb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z_uA6HL05MxhrPqFmTUiIxFOgElhxTw6uAqRwOb5TQh5GHizJBCUsw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg\",\"belongs_to_collection\":{\"id\":5039,\"name\":\"Rambo Collection\",\"poster_path\":\"\/feGOEOVrOLyjtEnVa88rQLgD3XY.jpg\",\"backdrop_path\":\"\/ecvVwlK75evrAlsEE96V14KN6MN.jpg\"},\"budget\":63000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/rambo-iii\",\"id\":1370,\"imdb_id\":\"tt0095956\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rambo III\",\"overview\":\"Combat has taken its toll on Rambo, but he's finally begun to find inner peace in a monastery. When Rambo's friend and mentor Col. Trautman asks for his help on a top secret mission to Afghanistan, Rambo declines but must reconsider when Trautman is captured.\",\"popularity\":70.706,\"poster_path\":\"\/1eSQvGuD25ezKaiaQsyDDG3e9iN.jpg\",\"production_companies\":[{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"},{\"id\":275,\"logo_path\":\"\/2MxNWlN5b3UXt1OfmznsWEQzFwq.png\",\"name\":\"Carolco Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-05-24\",\"revenue\":189015611,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"The first was for himself. The second was for his country. This time is for his friend.\",\"title\":\"Rambo III\",\"video\":false,\"vote_average\":6.193,\"vote_count\":3071}"
+}

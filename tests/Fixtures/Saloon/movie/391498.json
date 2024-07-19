@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1209",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18926",
+        "x-memc": "HIT",
+        "x-memc-key": "7507c0773284064aa911cdeffa1af7fa",
+        "x-memc-age": "5645",
+        "x-memc-expires": "18926",
+        "ETag": "W\/\"63bba6440da05f9e3ebffd1a4977efed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DIuJYItdSFooXoRO1dP5SmieClWDSnIjccaAFjCWPDm9KVq6d-k5qA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7108xVd49AGiYnoeajg3pJPRFVU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391498,\"imdb_id\":\"tt0035995\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hi'ya, Sailor\",\"overview\":\"Bob Jackson and his three Merchant Marine shipmates have each invested $50 in a song Bob has written and which he thinks will be published for a fee of $200. In a taxicab driven by Pat Rogers, they search for the publisher's office but finally realize they have been swindled. Plus, they now owe Pat a large taxi-bill.\",\"popularity\":1.931,\"poster_path\":\"\/xLHbZ7Ey6rGvY6EMPVLP9s2RUWp.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-10-08\",\"revenue\":0,\"runtime\":63,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"IT'S THRILL-FILLED with these great Song and Dance Stars!\",\"title\":\"Hi'ya, Sailor\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

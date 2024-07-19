@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1427",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11290",
+        "x-memc": "HIT",
+        "x-memc-key": "3af58325a9b6dbd9482091d286dc1410",
+        "x-memc-age": "13313",
+        "x-memc-expires": "11290",
+        "ETag": "W\/\"c87cd4c8f7b63ae535fb0f6ba16bf5f2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "adkrZ17zxrgdNn47YCALYveeqg4z9wVmYQPjM-5wjAl3Kd9bySr4Wg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hZnnUq0mrUQ3e54SJVca4mf2oAQ.jpg\",\"belongs_to_collection\":{\"id\":735,\"name\":\"Blade Collection\",\"poster_path\":\"\/o9lZCumAeH3zTGQ6DCriP3LylGg.jpg\",\"backdrop_path\":\"\/ev9QybDDzVSahJQdOb71ZuqNVAo.jpg\"},\"budget\":45000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/blade\",\"id\":36647,\"imdb_id\":\"tt0120611\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Blade\",\"overview\":\"The Daywalker known as \\\"Blade\\\" - a half-vampire, half-mortal man - becomes the protector of humanity against an underground army of vampires.\",\"popularity\":78.12,\"poster_path\":\"\/oWT70TvbsmQaqyphCZpsnQR7R32.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":421,\"logo_path\":null,\"name\":\"Amen Ra Films\",\"origin_country\":\"US\"},{\"id\":11321,\"logo_path\":null,\"name\":\"Imaginary Forces\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-08-21\",\"revenue\":131183530,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Against an army of Immortals, one warrior must draw first blood.\",\"title\":\"Blade\",\"video\":false,\"vote_average\":6.788,\"vote_count\":5810}"
+}

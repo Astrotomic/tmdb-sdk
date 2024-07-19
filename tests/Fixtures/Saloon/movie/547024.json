@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "925",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22921",
+        "x-memc": "HIT",
+        "x-memc-key": "ec485710c9fb60b0ecde009542dee28e",
+        "x-memc-age": "3347",
+        "x-memc-expires": "22921",
+        "ETag": "W\/\"5ce1c6486b767c48fc2c1df375287312\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MFahel__pFKrriD8KZdpY6Ncd8wAwaxdSXMsN7x5nxx3t39BIFdIKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pn0XRSpXAwsBUo0QXhs51HqpxO7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":547024,\"imdb_id\":\"tt1912517\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u88cf\u30db\u30e9\u30fc\",\"overview\":\"A found footage anthology horror film by K\u00f4ji Shiraishi.\",\"popularity\":6.157,\"poster_path\":\"\/7xVRDBJng8NER7exXXkfbkS2vMc.jpg\",\"production_companies\":[{\"id\":69968,\"logo_path\":\"\/cN8Qhl29ZrmWYgkYTS6CDhPK0A5.png\",\"name\":\"NBCUniversal Entertainment Japan\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2008-11-21\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ura Horror\",\"video\":false,\"vote_average\":6.5,\"vote_count\":3}"
+}

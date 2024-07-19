@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1591",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11642",
+        "x-memc": "HIT",
+        "x-memc-key": "70908164c17eec81781d7785ced8cfe7",
+        "x-memc-age": "12002",
+        "x-memc-expires": "11642",
+        "ETag": "W\/\"361906c09a8ef5b53a21520f503eec11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fvXWlbtRFFD_BpTaoray0tqHfOglefHZG3Bhyk8aTAaoMvW1mVNknQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rWaVecskbmRzakbPawiOWVMo2EJ.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.sonypictures.com\/movies\/untraceable\/\",\"id\":8090,\"imdb_id\":\"tt0880578\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Untraceable\",\"overview\":\"Special Agent Jennifer Marsh works in an elite division of the FBI dedicated to fighting cybercrime. She thinks she has seen it all, until a particularly sadistic criminal arises on the Internet. This tech-savvy killer posts live feeds of his crimes on his website; the more hits the site gets, the faster the victim dies. Marsh and her team must find the elusive killer before time runs out.\",\"popularity\":17.225,\"poster_path\":\"\/ySUwDRDEn01lKIMPQorpFCMLWqE.jpg\",\"production_companies\":[{\"id\":2397,\"logo_path\":null,\"name\":\"Cohen\/Pearl Productions\",\"origin_country\":\"\"},{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":126,\"logo_path\":\"\/kADPanRDkKTxncPXXVahvHPUvCj.png\",\"name\":\"Lakeshore Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-01-22\",\"revenue\":52659594,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A cyber killer has finally found the perfect accomplice: You.\",\"title\":\"Untraceable\",\"video\":false,\"vote_average\":6.187,\"vote_count\":852}"
+}

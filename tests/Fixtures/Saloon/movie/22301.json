@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1153",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15355",
+        "x-memc": "HIT",
+        "x-memc-key": "d6c363ee3bb93d8d17aa31e80467474a",
+        "x-memc-age": "6864",
+        "x-memc-expires": "15355",
+        "ETag": "W\/\"46a10e19b284089a3f54ef0527f26e53\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1l8zY4nsyIN_cn2jepufR0-iPHWQrr8WpVj2269RlGmcrtwjbB1ryw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wZeh4Pa9NXtvgyIngIOIS9j2C3S.jpg\",\"belongs_to_collection\":null,\"budget\":3950000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":22301,\"imdb_id\":\"tt0020960\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hell's Angels\",\"overview\":\"When World War I breaks out, brothers Roy and Monte Rutledge, each attending Oxford university, enlist with the Royal Flying Corps.\",\"popularity\":13.615,\"poster_path\":\"\/vt6zF55B9WLzYENs6cuXy8J5o1X.jpg\",\"production_companies\":[{\"id\":13866,\"logo_path\":null,\"name\":\"The Caddo Company\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1930-11-15\",\"revenue\":8000000,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Howard Hughes' Thrilling Multi-Million Dollar Air Spectacle\",\"title\":\"Hell's Angels\",\"video\":false,\"vote_average\":6.4,\"vote_count\":86}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1143",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10976",
+        "x-memc": "HIT",
+        "x-memc-key": "918cd16d7bd158552a1b950df50a6ce3",
+        "x-memc-age": "11315",
+        "x-memc-expires": "10976",
+        "ETag": "W\/\"45e32349aba2dd3f4ae684928fc8b63e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "e8QRUqirDm2b5dKJAE8weZA_twXN58RyqzSQ3b3zKyoCpx4uUXMugw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391294,\"imdb_id\":\"tt0257611\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"La pulquer\u00eda 3: Entre ficheras anda el diablo\",\"overview\":\"After regaining his manliness, he escapes from hell Satan for embezzling Secretary of infernal hacienda, being chased by a couple of poor devils good for nothing, and took refuge in the cabaret ends up working as a transvestite.\",\"popularity\":6.753,\"poster_path\":\"\/e3otPbc2Di0LHZVw7sLbVxwtVxz.jpg\",\"production_companies\":[{\"id\":11977,\"logo_path\":null,\"name\":\"Cinematogr\u00e1fica Calder\u00f3n S.A.\",\"origin_country\":\"MX\"},{\"id\":102921,\"logo_path\":null,\"name\":\"Filmadora \u00c9xito\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1984-11-01\",\"revenue\":0,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"La pulquer\u00eda 3: Entre ficheras anda el diablo\",\"video\":false,\"vote_average\":6.7,\"vote_count\":23}"
+}

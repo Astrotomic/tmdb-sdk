@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1080",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4849",
+        "x-memc": "HIT",
+        "x-memc-key": "4d4aa2f7e37216709b280e8f6f4820e9",
+        "x-memc-age": "21936",
+        "x-memc-expires": "4849",
+        "ETag": "W\/\"2b36aee47a91371ec70e8073f1ee465d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vbJPJ5b05MHsbw-Z5Ae-PbnCVylwm_QF1sTsaC75zssYn3xUfPwUmg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w4mdpbqx0NqsgNKZ170U0QDcyl3.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81252357\",\"id\":646380,\"imdb_id\":\"tt11286314\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Don't Look Up\",\"overview\":\"Two American astronomers attempt to warn humankind about an approaching comet that will wipe out life on planet Earth.\",\"popularity\":50.084,\"poster_path\":\"\/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg\",\"production_companies\":[{\"id\":125055,\"logo_path\":\"\/8iY66HqRqdQdwOjoS3sNvokcH9r.png\",\"name\":\"Hyperobject Industries\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-12-07\",\"revenue\":791863,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Based on truly possible events.\",\"title\":\"Don't Look Up\",\"video\":false,\"vote_average\":7.1,\"vote_count\":7953}"
+}

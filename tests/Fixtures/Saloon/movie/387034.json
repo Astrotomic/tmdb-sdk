@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "971",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13887",
+        "x-memc": "HIT",
+        "x-memc-key": "bcead94269eaacc6f55237fe7296e4e7",
+        "x-memc-age": "13065",
+        "x-memc-expires": "13887",
+        "ETag": "W\/\"9fd9acf5ba5ab88c3bdbcfc243261199\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NXZH7ErlgFv_7nhVHUuPyejvCKpVw4CnMgW8TxI0sN_Bb7FpEO95cw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":387034,\"imdb_id\":\"tt5450160\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Nasty Nancy\",\"overview\":\"In a school full of perverse teachers, where you earn grades by having sex, Nancy is the only honest person. But when she, despite studying a lot, fails her final exam... it\u2019s time for revenge!\",\"popularity\":0.467,\"poster_path\":null,\"production_companies\":[{\"id\":74134,\"logo_path\":null,\"name\":\"Castrum Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HR\",\"name\":\"Croatia\"}],\"release_date\":\"2010-01-01\",\"revenue\":0,\"runtime\":49,\"spoken_languages\":[{\"english_name\":\"Croatian\",\"iso_639_1\":\"hr\",\"name\":\"Hrvatski\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The School... is OVER!\",\"title\":\"Nasty Nancy\",\"video\":false,\"vote_average\":1.0,\"vote_count\":1}"
+}

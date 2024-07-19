@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1119",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21954",
+        "x-memc": "HIT",
+        "x-memc-key": "a7ece1bbe03c852bddd76d0be505886f",
+        "x-memc-age": "6042",
+        "x-memc-expires": "21954",
+        "ETag": "W\/\"4b5d7157302218e98fec7b4fed4a394d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qqo6CeaqjaP09UfxE3ALs_1qXSOfXpuzrdpjZbFntO0XCXjtkfog2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lhYlBOsmwoFlGQg9FmTsS7UMz1K.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.mybloodyvalentinein3d.com\/\",\"id\":14435,\"imdb_id\":\"tt1179891\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"My Bloody Valentine\",\"overview\":\"Ten years after a Valentine's Day tragedy claimed the lives of five miners, Harry Warden returns for a vengeful massacre among teen sweethearts gearing up for another party.\",\"popularity\":24.667,\"poster_path\":\"\/9biIVOMTdvv4aj4a5HClmrK5EHB.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-01-16\",\"revenue\":102836002,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Get your heart broken.\",\"title\":\"My Bloody Valentine\",\"video\":false,\"vote_average\":5.5,\"vote_count\":1133}"
+}

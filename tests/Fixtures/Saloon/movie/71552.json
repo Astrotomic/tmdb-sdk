@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1258",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23858",
+        "x-memc": "HIT",
+        "x-memc-key": "82f482d6755d6f7e547863112f0b6d2e",
+        "x-memc-age": "2291",
+        "x-memc-expires": "23858",
+        "ETag": "W\/\"4a7b5e6fcf987de659dc23dbd30a735a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I58XyMh46O-jjsDNtUq5uE55so093bGwC3qluIsfk57M3c7O6IzX_g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xr3a08OeCkSHwOUvJrOngQSlrC2.jpg\",\"belongs_to_collection\":{\"id\":2806,\"name\":\"American Pie Collection\",\"poster_path\":\"\/twY1eM88fu8CCGVtem5ItlrgeDA.jpg\",\"backdrop_path\":\"\/cshrhPYDGfyZz2EcN0HgFklaKdB.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":71552,\"imdb_id\":\"tt1605630\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"American Reunion\",\"overview\":\"The characters we met a little more than a decade ago return to East Great Falls for their high school reunion. In one long-overdue weekend, they will discover what has changed, who hasn\u2019t, and that time and distance can\u2019t break the bonds of friendship.\",\"popularity\":55.295,\"poster_path\":\"\/de5QBIdVR4dnkBZ4a0zjkS4lTg.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-04-04\",\"revenue\":235000000,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Save the best piece for last.\",\"title\":\"American Reunion\",\"video\":false,\"vote_average\":6.297,\"vote_count\":4322}"
+}

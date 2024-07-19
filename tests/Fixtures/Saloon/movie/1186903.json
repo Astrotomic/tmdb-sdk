@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "695",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15923",
+        "x-memc": "HIT",
+        "x-memc-key": "b092968941bfa4d181a0bd0110e5f0fb",
+        "x-memc-age": "10669",
+        "x-memc-expires": "15923",
+        "ETag": "W\/\"81f937c18e3c83fa3794938626eebf7b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "po5kLPHyUkGD8jMltUBRg73nRfVVzhYtvGHXGoiyn9sDxLX8mUu4cg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1186903,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"sk\",\"original_title\":\"Matka\",\"overview\":\"\",\"popularity\":0.971,\"poster_path\":null,\"production_companies\":[{\"id\":28449,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 telev\u00edzia Bratislava\",\"origin_country\":\"XC\"}],\"production_countries\":[],\"release_date\":\"1972-01-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Matka\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

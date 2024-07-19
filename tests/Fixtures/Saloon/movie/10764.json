@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1970",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4059",
+        "x-memc": "HIT",
+        "x-memc-key": "e272c730868be4a8de0250832ab7b5d2",
+        "x-memc-age": "19537",
+        "x-memc-expires": "4059",
+        "ETag": "W\/\"daf7dc839c46005464b0a7e6bd139bfe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sNw83hk1TT8xBhgx8FTTIFaX9iuKcFK4iWTTLC0uxwS_m0ht8bGs9Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3CqMIX3ZlrD0pU3fpBL6DM0Cneb.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/quantum-of-solace\",\"id\":10764,\"imdb_id\":\"tt0830515\",\"origin_country\":[\"IT\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Quantum of Solace\",\"overview\":\"Betrayed by Vesper, the woman he loved, 007 fights the urge to make his latest mission personal. Pursuing his determination to uncover the truth, Bond and M interrogate Mr. White, who reveals that the organization that blackmailed Vesper is far more complex and dangerous than anyone had imagined.\",\"popularity\":59.121,\"poster_path\":\"\/e3DXXLJHGqMx9yYpXsql1XNljmM.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":22790,\"logo_path\":null,\"name\":\"B22\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-10-29\",\"revenue\":589580482,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Quantum of Solace\",\"video\":false,\"vote_average\":6.327,\"vote_count\":7670}"
+}

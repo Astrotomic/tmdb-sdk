@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1260",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21352",
+        "x-memc": "HIT",
+        "x-memc-key": "94c50ff05852204c570c4895b7314fe3",
+        "x-memc-age": "2075",
+        "x-memc-expires": "21352",
+        "ETag": "W\/\"8ce7a2e877fb679245fec4d752758d19\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tCfMSlY4CUKJsGCpWv66BUvnaA3_v-63yGL7qlb4WCPw_ePF0S55Dg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6QrVSYsd5cmrThBzR8GWNm6Soa4.jpg\",\"belongs_to_collection\":null,\"budget\":1800000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":24805,\"imdb_id\":\"tt0014532\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Ten Commandments\",\"overview\":\"The first part tells the story of Moses leading the Jews from Egypt to the Promised Land, his receipt of the tablets and the worship of the golden calf. The second part shows the efficacy of the commandments in modern life through a story set in San Francisco. Two brothers, rivals for the love of Mary, also come into conflict when John discovers Dan used shoddy materials to construct a cathedral.\",\"popularity\":16.199,\"poster_path\":\"\/uQNsUtxDp5G3qq1a2Wc1ycjF5AL.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1923-11-23\",\"revenue\":0,\"runtime\":136,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Ten Commandments\",\"video\":false,\"vote_average\":6.5,\"vote_count\":73}"
+}

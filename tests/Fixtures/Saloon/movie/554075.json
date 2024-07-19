@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "863",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6553",
+        "x-memc": "HIT",
+        "x-memc-key": "70363086ed94b78186ca529bb08bfa1f",
+        "x-memc-age": "19924",
+        "x-memc-expires": "6553",
+        "ETag": "W\/\"a9b518c4cb5f333904c2a4384902f2c9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4trV13ilMorE-9qOx6-0X_5COxI74uCvbyYK8PbiY-tPL_PWp5E1yw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/k1films.com\",\"id\":554075,\"imdb_id\":\"tt7764604\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Wicked Little Witch\",\"overview\":\"Unable to deal with her mother's death, Samantha turns to her drawings for solace. She discovers she is able to bring her drawings to life and attempts to bring her mother back. In doing so, she finds out the truth behind her mother's death.\",\"popularity\":1.366,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2017-09-01\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"Be careful what you wish for.\",\"title\":\"The Wicked Little Witch\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1118",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21231",
+        "x-memc": "HIT",
+        "x-memc-key": "93edb20bc90406e86e63c0ff0c7cf6f5",
+        "x-memc-age": "6284",
+        "x-memc-expires": "21231",
+        "ETag": "W\/\"c3c3c7df0533af46b707e88c0024fa79\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ufkeNWVvukDqst5IQwyrz4E37ORXZbPaEIxO42FrhEp3dfv3KPaGcw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v9AlJeQ1hLywJZux8i9mH84vPRH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":6473,\"imdb_id\":\"tt0457090\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Marksman\",\"overview\":\"Chechen rebels take over a Russian nuclear plant and it's up to a mysterious agent (Snipes) to stop them.\",\"popularity\":17.776,\"poster_path\":\"\/sbXe9sBc7ZpyFJKwp24njaBI5kN.jpg\",\"production_companies\":[{\"id\":2100,\"logo_path\":null,\"name\":\"Andrew Stevens Entertainment\",\"origin_country\":\"\"},{\"id\":1370,\"logo_path\":\"\/uch218gB4XWNz3JNhlc65A5Q207.png\",\"name\":\"Castel Film\",\"origin_country\":\"RO\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-09-06\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Marksman\",\"video\":false,\"vote_average\":5.402,\"vote_count\":127}"
+}

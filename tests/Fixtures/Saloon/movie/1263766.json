@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1013",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20760",
+        "x-memc": "HIT",
+        "x-memc-key": "da49a30109bf63f4fde60294ffe2f9a2",
+        "x-memc-age": "5850",
+        "x-memc-expires": "20760",
+        "ETag": "W\/\"c5ad7b344ae690dea79aab704dd18cd5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "43bXAzOWdZIJ3F1Wn_S4HTI7-U9OrEGs2CTe-oQNWC5cm-rijHjfBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ao6UU1y1fctSgcRg818W9DiBYJ0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81665042\",\"id\":1263766,\"imdb_id\":\"tt26315566\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Final: Attack on Wembley\",\"overview\":\"As England reach the final of the Euros at last, 6,000 ticketless football fans storm Wembley stadium, leaving destruction in their wake.\",\"popularity\":22.841,\"poster_path\":\"\/6XQ1WAbqhBMrEB1UAEiB8Hpy5Ge.jpg\",\"production_companies\":[{\"id\":116678,\"logo_path\":\"\/iRaHzOscaMLYwQMoNNqdbGT6amU.png\",\"name\":\"Rogan Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-05-07\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Final: Attack on Wembley\",\"video\":false,\"vote_average\":6.3,\"vote_count\":23}"
+}

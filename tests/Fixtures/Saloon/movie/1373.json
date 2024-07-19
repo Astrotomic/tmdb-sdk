@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1184",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8456",
+        "x-memc": "HIT",
+        "x-memc-key": "81a9fd2d516daceb33259210b0cd87e7",
+        "x-memc-age": "16022",
+        "x-memc-expires": "8456",
+        "ETag": "W\/\"88bbe540fa2e77d1fc710e93d8d40cc4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mJk1MH7_t_1-vooxD5V-HBQoVptCuybd-fpyW6bvVG93sWO6soASHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.thediscoveryofheaven.nl\/\",\"id\":1373,\"imdb_id\":\"tt0251052\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Discovery of Heaven\",\"overview\":\"Disappointed with humanity, God wants to revoke his contract with humanity and wants to take back the stone tablets containing the ten commandments. To this end an angel is sent out to affect the personal lives of three humans so an appropriate child may be conceived.\",\"popularity\":7.973,\"poster_path\":\"\/posrSb1UQBfsoPb9U68vWqbGMOb.jpg\",\"production_companies\":[{\"id\":700,\"logo_path\":null,\"name\":\"Kanzaman S.A.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"}],\"release_date\":\"2001-10-01\",\"revenue\":0,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Coincidence doesn't exist, everything happens for a reason.\",\"title\":\"The Discovery of Heaven\",\"video\":false,\"vote_average\":6.5,\"vote_count\":31}"
+}

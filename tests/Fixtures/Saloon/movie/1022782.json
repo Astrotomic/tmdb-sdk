@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "745",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6366",
+        "x-memc": "HIT",
+        "x-memc-key": "a4464b70a36cb51cf5d4ca82d7aacbda",
+        "x-memc-age": "21725",
+        "x-memc-expires": "6366",
+        "ETag": "W\/\"f919796dde243a643131aff6c5dd852b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nK-TvIUrlM5uA62G5tsA1S51Re4ue3ZCayB4y3ylXsQEK-Z1S3mpHQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1022782,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"ko\",\"original_title\":\"\uc774\uae30\uc801\uc778 \uac83\ub4e4\",\"overview\":\"High school student, Seung Hee, is pregnant with her boyfriend Jeong Woo\u2019s child. Jeong Woo took away his life. Seung Hee visits Jeong Woo\u2019s mom\u2026\",\"popularity\":3.938,\"poster_path\":\"\/rgYyAHCsuB6LmztTsxPfCj1ftnb.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2018-01-01\",\"revenue\":0,\"runtime\":29,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Selfish\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

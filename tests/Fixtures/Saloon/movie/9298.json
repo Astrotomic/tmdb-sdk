@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1540",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23263",
+        "x-memc": "HIT",
+        "x-memc-key": "815d9c4ba0f4942f4c08cd94e0dc20bb",
+        "x-memc-age": "4094",
+        "x-memc-expires": "23263",
+        "ETag": "W\/\"fe7bff0cf62b58dc3e4f1f59f015fabd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7108wrZBJOwhX343g6IOiUImDffQ60cuPhMeNO0ESinehFQ96k1R4Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ll5ktqAG3EOlCS8bpyoC0kYSSe9.jpg\",\"belongs_to_collection\":null,\"budget\":7000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":9298,\"imdb_id\":\"tt0284837\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Ali G Indahouse\",\"overview\":\"Ali G unwittingly becomes a pawn in the evil Chancellor's plot to overthrow the Prime Minister of Great Britain. However, instead of bringing the Prime Minister down, Ali is embraced by the nation as the voice of youth and 'realness', making the Prime Minister and his government more popular than ever.\",\"popularity\":20.879,\"poster_path\":\"\/pjKvQrVpekshVM6DUDOt3ImhAVH.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":442,\"logo_path\":null,\"name\":\"WT\u00b2 Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2002-03-21\",\"revenue\":25900000,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Me iz introducin a white paper.\",\"title\":\"Ali G Indahouse\",\"video\":false,\"vote_average\":6.074,\"vote_count\":1330}"
+}

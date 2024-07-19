@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1113",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14131",
+        "x-memc": "HIT",
+        "x-memc-key": "b19322e8728653ed06e4245e4d9d0ed5",
+        "x-memc-age": "12103",
+        "x-memc-expires": "14131",
+        "ETag": "W\/\"a04214c144c4e119f8255b3fdae45bf6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GsL5c5KxZOylFEVDOIb27NUPCYU2FwA_nkXKM34QMQbfaMtT0BD97w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xj67jpSEzGdxDncArbdqTew7HM2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":225626,\"imdb_id\":\"tt3714772\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"A los ojos\",\"overview\":\"Monica is a social worker in Mexico City, whose son has a degenerative illness in both eyes. Having exhausted all other options, a corneal transplant is the only hope. Overwhelmed by the slowness of the health care system and the scarcity of resources, she decides to search for an extreme solution in her work environment: the world of street children.\",\"popularity\":1.788,\"poster_path\":\"\/7wSL7VVj2p8jxhE2lVR66Op08iT.jpg\",\"production_companies\":[{\"id\":17116,\"logo_path\":null,\"name\":\"TEOREMA\",\"origin_country\":\"MX\"},{\"id\":14531,\"logo_path\":null,\"name\":\"Pop Films\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2013-10-20\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Through the Eyes\",\"video\":false,\"vote_average\":5.0,\"vote_count\":3}"
+}

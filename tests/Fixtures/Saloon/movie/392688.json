@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1184",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13344",
+        "x-memc": "HIT",
+        "x-memc-key": "62b7c2830b0171248dc32b7423e3074f",
+        "x-memc-age": "15227",
+        "x-memc-expires": "13344",
+        "ETag": "W\/\"1a41f35f14d70d22764c681d3f89f95e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s70YPe4CqmcQhbauhXM6UOvJO2-Uzs_25JFQnGuJRg8SWUxkY7XeSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bbKdal36JliTvkBxjhyFtpLqrwg.jpg\",\"belongs_to_collection\":{\"id\":392686,\"name\":\"The Three Mesquiteers Collection\",\"poster_path\":\"\/dSsL1ye9MMIp0Gvu0YdN3WJjlER.jpg\",\"backdrop_path\":\"\/t3EHyC43xUjqbWqUvijTVR8b4YD.jpg\"},\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":392688,\"imdb_id\":\"tt0033204\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Under Texas Skies\",\"overview\":\"The story opens as Stony returns to his home town, only to discover that his sheriff father has been murdered by person or persons unknown. The new sheriff (Henry Brandon) resents the arrival of the Mesquiteers, going so far as to frame Tucson on a murder charge.\",\"popularity\":4.199,\"poster_path\":\"\/fAc2cahme9D8kZPHKy4TuRoewdX.jpg\",\"production_companies\":[{\"id\":1432,\"logo_path\":\"\/8AcaWEWQ8MFUBGlt9WxGGBAMpMG.png\",\"name\":\"Republic Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-09-29\",\"revenue\":0,\"runtime\":57,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"HE-MAN Action!\",\"title\":\"Under Texas Skies\",\"video\":false,\"vote_average\":5.0,\"vote_count\":3}"
+}

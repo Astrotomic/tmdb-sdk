@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2213",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16566",
+        "x-memc": "HIT",
+        "x-memc-key": "72bb5c6ea6ba173cf47cf2f9b5203adb",
+        "x-memc-age": "12125",
+        "x-memc-expires": "16566",
+        "ETag": "W\/\"e1149eb7f08dd1d303d2b15455d34c09\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mcThRx_ZjVsyopTAW_4iSD9ZcG_fJ61-IIsXNbpSyJVA_N6_FCIZ0w=="
+    },
+    "data": "{\"id\":373855,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/373855\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/373855\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":30}]},\"PH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/373855\/watch?locale=PH\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}],\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/373855\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1},{\"logo_path\":\"\/jCgWMxqGaq0h0VOxyJPfQdTqmii.jpg\",\"provider_id\":514,\"provider_name\":\"AsianCrush\",\"display_priority\":145},{\"logo_path\":\"\/p4TlGiuRoH9sDZeppPJeMhizs26.jpg\",\"provider_id\":2100,\"provider_name\":\"Amazon Prime Video with Ads\",\"display_priority\":283}],\"ads\":[{\"logo_path\":\"\/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg\",\"provider_id\":613,\"provider_name\":\"Freevee\",\"display_priority\":171},{\"logo_path\":\"\/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg\",\"provider_id\":1957,\"provider_name\":\"Cineverse\",\"display_priority\":229}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}]}}}"
+}

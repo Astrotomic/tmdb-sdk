@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1248",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4944",
+        "x-memc": "HIT",
+        "x-memc-key": "31947ead46f9010e550788b43e3299bb",
+        "x-memc-age": "23252",
+        "x-memc-expires": "4944",
+        "ETag": "W\/\"24c17e34f37af8093e86a8b258aa1864\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ewb0x2Ay8_eq7vz_Zlx7nf6WnQ4tgdD4Fna48cSMKJr1gBCf8dXIpg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":681327,\"name\":\"Spenser Collection\",\"poster_path\":\"\/943yCMe4jz7X7WL4N08GFXzHPIi.jpg\",\"backdrop_path\":\"\/4YWDB49QAjBpdlhbm52t8HcPsKH.jpg\"},\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":235090,\"imdb_id\":\"tt0226519\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Thin Air\",\"overview\":\"Frank Belson didn't ask too many questions about the past of his new wife Lisa St. Claire, even after she suddenly and mysteriously disappeared one night. He brings in Spenser to help locate her, who begins to piece together her complete life story while submerged in the Latino shadow world of the town of Proctor.\",\"popularity\":3.98,\"poster_path\":\"\/vOhgD0rrN9h5pPgpX7xb9Mehcc2.jpg\",\"production_companies\":[{\"id\":5003,\"logo_path\":null,\"name\":\"Jaffe\/Braunstein Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-09-12\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Thin Air\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

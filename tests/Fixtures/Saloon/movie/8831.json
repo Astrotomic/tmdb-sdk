@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1789",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10182",
+        "x-memc": "HIT",
+        "x-memc-key": "35e80ff3638a53273d5840704cf906e8",
+        "x-memc-age": "14260",
+        "x-memc-expires": "10182",
+        "ETag": "W\/\"f122ae6b8ecf5cf98bfb94916ba0def0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nL62uzppfC0WGIGUB-4J8ZS36IADBVFedC5cop-S3xrzfkipxFb05w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iNfDwioDBzqodomLbMfV8ZXj0yL.jpg\",\"belongs_to_collection\":{\"id\":170452,\"name\":\"Timecop Collection\",\"poster_path\":\"\/klrHdpn5XQob7LEiRiMXlPq5OlV.jpg\",\"backdrop_path\":\"\/mIqsp7AFmyTYjJ4N9qv3FhAUz60.jpg\"},\"budget\":27000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":8831,\"imdb_id\":\"tt0111438\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Timecop\",\"overview\":\"An officer for a security agency that regulates time travel, must fend for his life against a shady politician who has a tie to his past.\",\"popularity\":25.26,\"poster_path\":\"\/bgxP6ws8ErBiarnb4S93vv0lkf4.jpg\",\"production_companies\":[{\"id\":467,\"logo_path\":null,\"name\":\"Renaissance Pictures\",\"origin_country\":\"US\"},{\"id\":552,\"logo_path\":\"\/9dGdLfm3GteWeUDtD9c9tvlidUG.png\",\"name\":\"Dark Horse Entertainment\",\"origin_country\":\"US\"},{\"id\":1644,\"logo_path\":\"\/l5JFudbLN3vr1sSkjRoqF7To8Ky.png\",\"name\":\"Largo Entertainment\",\"origin_country\":\"US\"},{\"id\":2982,\"logo_path\":null,\"name\":\"Signature Pictures\",\"origin_country\":\"US\"},{\"id\":182,\"logo_path\":\"\/1BPbXmwi1DZS1Qp0koK7AuponY6.png\",\"name\":\"JVC\",\"origin_country\":\"JP\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"1994-09-15\",\"revenue\":101646581,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They killed his wife ten years ago. There's still time to save her.\",\"title\":\"Timecop\",\"video\":false,\"vote_average\":6.008,\"vote_count\":1121}"
+}

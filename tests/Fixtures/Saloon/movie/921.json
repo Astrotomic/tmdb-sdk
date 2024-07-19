@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1505",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12106",
+        "x-memc": "HIT",
+        "x-memc-key": "36a41abf164950e186e39cf9cbd9c741",
+        "x-memc-age": "10564",
+        "x-memc-expires": "12106",
+        "ETag": "W\/\"42438d4a5514533fb21a243264e693b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nA6I_65nhOE0Vc7n6iMN8PMUhDU2g1AssB2cmONy39kbGMsozBWrMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/40PwKtiXIZhHS1NmDko6h8EA391.jpg\",\"belongs_to_collection\":null,\"budget\":88000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"http:\/\/www.cinderellamanmovie.com\/index.php\",\"id\":921,\"imdb_id\":\"tt0352248\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cinderella Man\",\"overview\":\"The true story of boxer Jim Braddock who, following his retirement in the 1930s, makes a surprise comeback in order to lift his family out of poverty.\",\"popularity\":32.124,\"poster_path\":\"\/i7OYyyAB2pSW9YwK0M2swDz6xSc.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"},{\"id\":187063,\"logo_path\":null,\"name\":\"Brian Grazer Productions\",\"origin_country\":\"US\"},{\"id\":1350,\"logo_path\":null,\"name\":\"Parkway Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-06-02\",\"revenue\":108539911,\"runtime\":144,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One man's extraordinary fight to save the family he loved.\",\"title\":\"Cinderella Man\",\"video\":false,\"vote_average\":7.551,\"vote_count\":2120}"
+}

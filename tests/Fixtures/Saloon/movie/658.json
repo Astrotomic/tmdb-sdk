@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1581",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14197",
+        "x-memc": "HIT",
+        "x-memc-key": "bbbb6648ed268e97bd323a30892dc617",
+        "x-memc-age": "10332",
+        "x-memc-expires": "14197",
+        "ETag": "W\/\"3ccab30e117df760f0a0b41e633714bb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Qqi0f2XGOMTBbaV7Ylka9ya9DiDYj5n5jgfZbk_HZWNKyFYarldh9A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mM4WeXqJd2tu1gCF5GYyAZf2Npl.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":2500000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/goldfinger\",\"id\":658,\"imdb_id\":\"tt0058150\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Goldfinger\",\"overview\":\"Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.\",\"popularity\":49.093,\"poster_path\":\"\/hsHVGBINg9bactVjE91wFBgd51J.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":10761,\"logo_path\":null,\"name\":\"Danjaq\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1964-09-20\",\"revenue\":124881062,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Everything he touches turns into excitement!\",\"title\":\"Goldfinger\",\"video\":false,\"vote_average\":7.348,\"vote_count\":3447}"
+}

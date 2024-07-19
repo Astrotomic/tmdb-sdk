@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1567",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9901",
+        "x-memc": "HIT",
+        "x-memc-key": "5eb7010ead01e2ae0c0387d5dddea732",
+        "x-memc-age": "18633",
+        "x-memc-expires": "9901",
+        "ETag": "W\/\"66a121c5d7ed126b1d6b175a2f695f4d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NIQ4QDGjP33_oNLEfGs4PH7PZ24_HSjpT7HuXZDvgbxrpq7YMXqeZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6rZNmdFPMoKvufR5MeiNpPMWcMy.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":24264,\"imdb_id\":\"tt0088103\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Sheena\",\"overview\":\"Sheena's parents are killed while on Safari. She is raised by the mystical witch woman of an African tribe. When her foster mother is framed for the murder of a political leader, Sheena and a newsman, Vic Casey, are forced to flee while pursued by the mercenaries hired by the real killer, who hopes to assume power. Sheena's ability to talk to the animals and knowledge of jungle lore give them a chance against the high tech weapons of the mercenaries.\",\"popularity\":33.504,\"poster_path\":\"\/eCLoPrB7TKRZnJ38jHvrulR6H65.jpg\",\"production_companies\":[{\"id\":7585,\"logo_path\":null,\"name\":\"Delphi II Productions\",\"origin_country\":\"\"},{\"id\":35061,\"logo_path\":null,\"name\":\"Colgems Productions Ltd.\",\"origin_country\":\"GB\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1984-08-17\",\"revenue\":58000000,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Part animal. Part legend. All woman.\",\"title\":\"Sheena\",\"video\":false,\"vote_average\":5.7,\"vote_count\":139}"
+}

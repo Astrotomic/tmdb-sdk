@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1469",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16933",
+        "x-memc": "HIT",
+        "x-memc-key": "115cf64b16a9c913a2de09b734d8ce5d",
+        "x-memc-age": "11709",
+        "x-memc-expires": "16933",
+        "ETag": "W\/\"5974c5f8f15105caf0a64d6ddcc896d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XQmbNE4UmbJLlvv0eHRr3wuCoHmzlfUa-clcytdNIbySOEqbYcU_Iw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1K3JmSNUN8OpjYsCjc0Hy0SYxAb.jpg\",\"belongs_to_collection\":{\"id\":422834,\"name\":\"Ant-Man Collection\",\"poster_path\":\"\/9llE4J9sVv8qsvfVGkpugiPTxUV.jpg\",\"backdrop_path\":\"\/2KjtWUBiksmN8LsUouaZnxocu5N.jpg\"},\"budget\":130000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/marvel.com\/movies\/movie\/180\/ant-man\",\"id\":102899,\"imdb_id\":\"tt0478970\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ant-Man\",\"overview\":\"Armed with the astonishing ability to shrink in scale but increase in strength, master thief Scott Lang must embrace his inner-hero and help his mentor, Doctor Hank Pym, protect the secret behind his spectacular Ant-Man suit from a new generation of towering threats. Against seemingly insurmountable obstacles, Pym and Lang must plan and pull off a heist that will save the world.\",\"popularity\":120.476,\"poster_path\":\"\/rQRnQfUl3kfp78nCWq8Ks04vnq1.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-07-14\",\"revenue\":519311965,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Heroes don't get any bigger.\",\"title\":\"Ant-Man\",\"video\":false,\"vote_average\":7.078,\"vote_count\":19412}"
+}

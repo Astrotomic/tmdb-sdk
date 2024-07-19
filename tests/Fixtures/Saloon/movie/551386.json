@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "882",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13095",
+        "x-memc": "HIT",
+        "x-memc-key": "daecb1c6072c06e6733db21b286363ec",
+        "x-memc-age": "11145",
+        "x-memc-expires": "13095",
+        "ETag": "W\/\"7338315fac5a72f7936b285e2fd9e43c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U4n2vI6JPsuLrDgJe3XJ015-AvCBRCbtcBo7MWV5trVcuGcWytGxfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/luQjBsdPIbpqrrg6kVrSS2KTerL.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":551386,\"imdb_id\":\"tt8870424\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Big Boom\",\"overview\":\"A lonely service robot looks for meaning and purpose in a seemingly empty world.\",\"popularity\":2.026,\"poster_path\":\"\/bi5POXVx8vKbWrUgECm5k4ZOI5A.jpg\",\"production_companies\":[{\"id\":109495,\"logo_path\":null,\"name\":\"Lucky Drifter\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-08-16\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Big Boom\",\"video\":false,\"vote_average\":7.0,\"vote_count\":3}"
+}

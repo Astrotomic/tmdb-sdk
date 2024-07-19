@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1235",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9510",
+        "x-memc": "HIT",
+        "x-memc-key": "00e40702b9b30ae31a530a23dae046fb",
+        "x-memc-age": "13141",
+        "x-memc-expires": "9510",
+        "ETag": "W\/\"2cb29f8b4de7e9cd25002d1612e9a59d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "q_VpBFMWsKUAimrp4TpZ7dJY0GeWj9aYAKJNVkFUxsE6CNGj8fD1WQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xdzytKlYWGKWyzQyRuMGgHdyXEo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":244420,\"imdb_id\":\"tt0026742\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Murder in the Fleet\",\"overview\":\"A traitor is lurking somewhere aboard the USS Carolina, and Lt. Tom Randolph is determined to find the offender. First a revolutionary new piece of technology -- an electric firing device -- is sabotaged. Then one of the cruiser's crew is murdered. In order to catch the killer, the captain locks down the ship. With foreign dignitaries, corporate goons and even Tom's girlfriend, Betty, trapped on the vessel, there is no shortage of suspects.\",\"popularity\":6.247,\"poster_path\":\"\/hBoUqI6axzyEZDYh94xh0gel0hM.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"1935-05-24\",\"revenue\":0,\"runtime\":69,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"YOU NAME THE KILLER!...Join the thousand men on the warship who saw Duval die!\",\"title\":\"Murder in the Fleet\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

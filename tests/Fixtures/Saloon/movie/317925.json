@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1154",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10823",
+        "x-memc": "HIT",
+        "x-memc-key": "6a000173f152c394a7aa6f4799cd2f81",
+        "x-memc-age": "12995",
+        "x-memc-expires": "10823",
+        "ETag": "W\/\"10317d0e327cfeed0bc95cbdb10ff5d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ESM3yefYSujwQi0dpzNxHzC0YphIyUm6UaKYbSIE0P4kbrwsEw8Kjg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rkKBxst58iJRYOJUp0WQQuOsO85.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":317925,\"imdb_id\":\"tt4357170\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"A la mala\",\"overview\":\"Maria Laura \\\"Mala\\\" is an actress with little luck, but she is successful working for other women, seducing their boyfriends to know if they are faithful or not. But everything changes when her dream to perform in her acting career depends on a job to be performed with Santiago who breaks the pattern and shakes her professional convictions.\",\"popularity\":10.89,\"poster_path\":\"\/AinFWAtZFif4SociC1yRTqkk8WQ.jpg\",\"production_companies\":[{\"id\":58399,\"logo_path\":\"\/zhTPxItVCkuxXKicMPIvPOv1AsW.png\",\"name\":\"Pantelion Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2015-02-27\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"When she's bad, she's good\",\"title\":\"A la mala\",\"video\":false,\"vote_average\":7.709,\"vote_count\":201}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1534",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14347",
+        "x-memc": "HIT",
+        "x-memc-key": "7141c106f01df0c32c2be892ab5cfbdb",
+        "x-memc-age": "11993",
+        "x-memc-expires": "14347",
+        "ETag": "W\/\"93a2a038e9d195e767dc3523d482c77d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lrQWUh3ewatvWN24C9T05XIkL-v36j1WaO86v4VJVuMLE2cXY-uFHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/78fqm4OGHe4a1Sl1WhX12pV8Ocr.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":8067,\"imdb_id\":\"tt0119535\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"A Life Less Ordinary\",\"overview\":\"A couple of angels, O'Reilly and Jackson, are sent to Earth to make sure that their next supervised love-connection succeeds. They follow Celine, a spoiled rich girl who has just accidentally shot a suitor and, due to a misunderstanding, is kidnapped by janitor Robert. Although Celine quickly frees herself, she stays with Robert for thrills. O'Reilly and Jackson pursue, hoping to unite the prospective lovers.\",\"popularity\":11.96,\"poster_path\":\"\/tk7WNEwLZepFU2yPIIkRuQOO0Q9.jpg\",\"production_companies\":[{\"id\":359,\"logo_path\":null,\"name\":\"Figment Films\",\"origin_country\":\"\"},{\"id\":1382,\"logo_path\":\"\/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png\",\"name\":\"PolyGram Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":6705,\"logo_path\":\"\/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png\",\"name\":\"Film4 Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1997-10-24\",\"revenue\":4400000,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Did they fall in love or were they pushed?\",\"title\":\"A Life Less Ordinary\",\"video\":false,\"vote_average\":6.111,\"vote_count\":434}"
+}

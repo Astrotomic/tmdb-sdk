@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1546",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22086",
+        "x-memc": "HIT",
+        "x-memc-key": "514d923cdae9bc21dbd01c8bcab39b98",
+        "x-memc-age": "2437",
+        "x-memc-expires": "22086",
+        "ETag": "W\/\"3acb41c67ac45b5b0714116890ed6e24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kuJkrAOqWj_lGksHPben0FIRIoVq_c6eJdIvrrU81wqV0bnh4ef90g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/19Pghw34YdLbjeKpwfCRTNhaItr.jpg\",\"belongs_to_collection\":{\"id\":266672,\"name\":\"Ted Collection\",\"poster_path\":\"\/uHKT9b6ptLpttGHlUF95sKQbtqF.jpg\",\"backdrop_path\":\"\/dGrNuWhapf8T0WH98xTC4LXgk1G.jpg\"},\"budget\":68000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/ted-2\",\"id\":214756,\"imdb_id\":\"tt2637276\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ted 2\",\"overview\":\"Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.\",\"popularity\":108.022,\"poster_path\":\"\/qMOt0uy1x49OBW0jzodgRM9waW0.jpg\",\"production_companies\":[{\"id\":44783,\"logo_path\":null,\"name\":\"Smart Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":8789,\"logo_path\":\"\/1smGq637YoNgkeBZXt7TAPDYGda.png\",\"name\":\"Fuzzy Door Productions\",\"origin_country\":\"US\"},{\"id\":13778,\"logo_path\":null,\"name\":\"Bluegrass Films\",\"origin_country\":\"US\"},{\"id\":2531,\"logo_path\":\"\/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png\",\"name\":\"MRC\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-06-25\",\"revenue\":215863606,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Thunder buddies for life.\",\"title\":\"Ted 2\",\"video\":false,\"vote_average\":6.306,\"vote_count\":7309}"
+}

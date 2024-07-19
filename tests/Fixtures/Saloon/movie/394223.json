@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1220",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1298",
+        "x-memc": "HIT",
+        "x-memc-key": "64883be78a5fc54e8d7b746115cdce51",
+        "x-memc-age": "23346",
+        "x-memc-expires": "1298",
+        "ETag": "W\/\"d5c3f24d10525b64f04213a8014a7974\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vApVmmfNzXLi3WVcTSXLBnIZ3LhSJxX2RdypLJcx8MXRITZKbnyi4Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yj1HFRGCviH7Vh6Cmnylf7H3S5C.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":394223,\"imdb_id\":\"tt5344794\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sniper: Special Ops\",\"overview\":\"A Special Ops military Force, led by expert sniper Sergeant Jake Chandler, are sent to a remote Afghan village to extract an American congressman being held by the Taliban.\",\"popularity\":14.457,\"poster_path\":\"\/jgE31g7hqV9UVJKqz3LCwm5oDb8.jpg\",\"production_companies\":[{\"id\":3495,\"logo_path\":null,\"name\":\"Steamroller Productions\",\"origin_country\":\"\"},{\"id\":7119,\"logo_path\":\"\/2aFVtrHVcqGOq1qwYlPZ7VQ67Oi.png\",\"name\":\"Hybrid\",\"origin_country\":\"US\"},{\"id\":6626,\"logo_path\":\"\/A1BnMoWjzjOrjzpWimyBQkf84mS.png\",\"name\":\"Voltage Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-04-03\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's watching your six.\",\"title\":\"Sniper: Special Ops\",\"video\":false,\"vote_average\":4.3,\"vote_count\":86}"
+}

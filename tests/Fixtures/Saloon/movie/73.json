@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1516",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6182",
+        "x-memc": "HIT",
+        "x-memc-key": "67938e9f7fcf88d5ec5cef45f01c36dc",
+        "x-memc-age": "18815",
+        "x-memc-expires": "6182",
+        "ETag": "W\/\"be007bde9d85e5b42a20a9aaf6f0922e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DCd_-U57Q8Uwt-KS-8opV1JIW7VVKpCO5vVUWZl0_O-ZKnW4mSa5hA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6qHI1IYj7QlLSCwHRzkL62X175s.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":73,\"imdb_id\":\"tt0120586\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"American History X\",\"overview\":\"Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.\",\"popularity\":56.323,\"poster_path\":\"\/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":11308,\"logo_path\":null,\"name\":\"Savoy Pictures\",\"origin_country\":\"\"},{\"id\":924,\"logo_path\":null,\"name\":\"The Turman-Morrissey Company\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-07-01\",\"revenue\":23900000,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some Legacies Must End.\",\"title\":\"American History X\",\"video\":false,\"vote_average\":8.347,\"vote_count\":11323}"
+}

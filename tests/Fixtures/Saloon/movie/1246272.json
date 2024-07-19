@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "811",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19325",
+        "x-memc": "HIT",
+        "x-memc-key": "7969e32101355fc508b12d06d16156a5",
+        "x-memc-age": "8473",
+        "x-memc-expires": "19325",
+        "ETag": "W\/\"0c5a831f249eedfce0529e64eaffced9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-jV0WRCvzYUun92i8-EMKgEQduq_oIY-7iBLhrA1RdODVb3fUZx_EA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1246272,\"imdb_id\":null,\"origin_country\":[\"SE\"],\"original_language\":\"en\",\"original_title\":\"Pappersp\u00e5se\",\"overview\":\"An eerie night, supposedly outside of reality, becomes darker when \u201cUnnamed\u201d stumbles upon a white dressed man with a paper bag for a head.\",\"popularity\":0.451,\"poster_path\":\"\/1kPRJJF3ZWDEnoNWGccl3t64efq.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2021-02-28\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Paperbag\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1117",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=349",
+        "x-memc": "HIT",
+        "x-memc-key": "db63d8c94aa9d334bce5028d31bccfb9",
+        "x-memc-age": "21837",
+        "x-memc-expires": "349",
+        "ETag": "W\/\"44a3a6c535d38fd8e8158373887a70cf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "r8N87ljZVqmksF7gzswapSDk0D2TcInLGFqzwQu9t3h7FtdrPkIPPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":241856,\"imdb_id\":\"tt11815000\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uac70\ub9ac\uc758 \ubb34\ubc95\uc790\",\"overview\":\"After World War III, the world is devestated and life has become difficult. Soryong and Saeng spend their days playing Street Fighter II and fighting each other at the arcades, until one day Chun Li appears before them in real life and reveals that the 2 friends are the only ones that can stop Bison from taking over the world.\",\"popularity\":2.649,\"poster_path\":\"\/mIZgEiOLY1KmWMJMwsnROYtFxjg.jpg\",\"production_companies\":[{\"id\":18649,\"logo_path\":null,\"name\":\"Dai Won Animation Co. Ltd\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"1993-12-29\",\"revenue\":0,\"runtime\":50,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Street Fighter\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

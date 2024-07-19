@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1744",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6099",
+        "x-memc": "HIT",
+        "x-memc-key": "bd722148226eb421c4784d4674854436",
+        "x-memc-age": "18118",
+        "x-memc-expires": "6099",
+        "ETag": "W\/\"d4fc9fa75fafbb515ebf87f17c0493c2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1fHDSEJUPg2VkZx0C_VZZNu3fRbI-M50ABdb8yX6MHWiep6m8DpuOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5fXdQJrZ9h7qgUybiMpnkMtTUv4.jpg\",\"belongs_to_collection\":{\"id\":321065,\"name\":\"The Sabata Collection\",\"poster_path\":\"\/nko62DVQrJJmdPzqQtAcLmx2Fdp.jpg\",\"backdrop_path\":\"\/zteaP2qPYChmd27fVrzq5rZb111.jpg\"},\"budget\":245000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":72032,\"imdb_id\":\"tt0067672\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"\u00c8 tornato Sabata... hai chiuso un'altra volta!\",\"overview\":\"Master gunslinger Sabata arrives in Hobsonville, a town completely owned by McIntock, a robber baron who is taxing the inhabitants for the cost of future improvements to the town. Or that's what McIntock says he'll do with the money...\",\"popularity\":9.908,\"poster_path\":\"\/zNV3Vot13POUWFgIR1d3oodYPOq.jpg\",\"production_companies\":[{\"id\":64,\"logo_path\":null,\"name\":\"Les Productions Artistes Associ\u00e9s\",\"origin_country\":\"FR\"},{\"id\":168,\"logo_path\":\"\/AmNSNdDaByDpc0bzekWFeYRXDW2.png\",\"name\":\"Jadran Film\",\"origin_country\":\"HR\"},{\"id\":1521,\"logo_path\":null,\"name\":\"Artemis Film\",\"origin_country\":\"DE\"},{\"id\":7508,\"logo_path\":null,\"name\":\"PEA\",\"origin_country\":\"IT\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"YU\",\"name\":\"Yugoslavia\"}],\"release_date\":\"1971-09-03\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The man with gunsight eyes is back!\",\"title\":\"Return of Sabata\",\"video\":false,\"vote_average\":6.09,\"vote_count\":94}"
+}

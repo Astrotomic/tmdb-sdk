@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1136",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4886",
+        "x-memc": "HIT",
+        "x-memc-key": "0896a85423f31d9d0c9aefd35d7aac77",
+        "x-memc-age": "19633",
+        "x-memc-expires": "4886",
+        "ETag": "W\/\"8b7eaab3e19685165a5f8172f6e8621a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ooyS-E-Em-Td1BqBegazJ7ba-HkA_8RZYCeeNx2sueiNuzTw40JQvw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gcbZ2ZdVzfBsGmfjTy8g7UaZS16.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.focusfeatures.com\/asteroid-city\",\"id\":747188,\"imdb_id\":\"tt14230388\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Asteroid City\",\"overview\":\"In an American desert town circa 1955, the itinerary of a Junior Stargazer\/Space Cadet convention is spectacularly disrupted by world-changing events.\",\"popularity\":63.182,\"poster_path\":\"\/qdq40gRS8xKnpFt5V75t6lUHgpx.jpg\",\"production_companies\":[{\"id\":23449,\"logo_path\":null,\"name\":\"American Empirical Pictures\",\"origin_country\":\"US\"},{\"id\":9350,\"logo_path\":\"\/xz60JVoUHpOeg1cJbxzMJiwbuL7.png\",\"name\":\"Indian Paintbrush\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-06-08\",\"revenue\":47281670,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Asteroid City\",\"video\":false,\"vote_average\":6.487,\"vote_count\":1720}"
+}

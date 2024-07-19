@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1603",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12207",
+        "x-memc": "HIT",
+        "x-memc-key": "756b5d5e628ec6df5e8ac1eaf31f8165",
+        "x-memc-age": "12140",
+        "x-memc-expires": "12207",
+        "ETag": "W\/\"adda30efa9c7859f024b544696480e34\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mBCqi2FbFayp3B7pa6-uadfTiBo_Mj0WB2rs9doPyIcu4HruCm-3QQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jis0J9GstjkrmtivoVAdSTc1pFi.jpg\",\"belongs_to_collection\":null,\"budget\":100000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":157353,\"imdb_id\":\"tt2209764\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Transcendence\",\"overview\":\"Two leading computer scientists work toward their goal of Technological Singularity,  as a radical anti-technology organization fights to prevent them from creating a world where computers can transcend the abilities of the human brain.\",\"popularity\":41.63,\"poster_path\":\"\/qmOKJWl3wnXDcLhjtJHnCCCvAiO.jpg\",\"production_companies\":[{\"id\":1088,\"logo_path\":\"\/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png\",\"name\":\"Alcon Entertainment\",\"origin_country\":\"US\"},{\"id\":10289,\"logo_path\":\"\/4lXJcFjACjb34LF78AUjEz4FtB9.png\",\"name\":\"DMG Entertainment\",\"origin_country\":\"US\"},{\"id\":9996,\"logo_path\":\"\/3tvBqYsBhxWeHlu62SIJ1el93O7.png\",\"name\":\"Syncopy\",\"origin_country\":\"GB\"},{\"id\":13403,\"logo_path\":\"\/be3PT29TM4LJzmTpsEAAkfkzffK.png\",\"name\":\"Straight Up Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-04-16\",\"revenue\":103039258,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Yesterday, Dr. Will Caster was only human...\",\"title\":\"Transcendence\",\"video\":false,\"vote_average\":6.037,\"vote_count\":5286}"
+}

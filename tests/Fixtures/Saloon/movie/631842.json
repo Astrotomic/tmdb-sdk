@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1463",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17394",
+        "x-memc": "HIT",
+        "x-memc-key": "429a2eb03f5d20dcea772889327d0568",
+        "x-memc-age": "9997",
+        "x-memc-expires": "17394",
+        "ETag": "W\/\"bb6d3ef6fc6eb9904a634ecae3439a6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "csG9hL2UW1i_7q31VaOVuM94CSq0CWoQzC8iVW3gu_wts1HH5e1Rpg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1dubuCInk9DM9JBjiItBGkkkZx0.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.knockatthecabin.com\",\"id\":631842,\"imdb_id\":\"tt15679400\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Knock at the Cabin\",\"overview\":\"While vacationing at a remote cabin, a young girl and her two fathers are taken hostage by four armed strangers who demand that the family make an unthinkable choice to avert the apocalypse. With limited access to the outside world, the family must decide what they believe before all is lost.\",\"popularity\":68.198,\"poster_path\":\"\/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg\",\"production_companies\":[{\"id\":12236,\"logo_path\":\"\/bVu0qQm4GujSTCvZZz9S3rHDczA.png\",\"name\":\"Blinding Edge Pictures\",\"origin_country\":\"US\"},{\"id\":7493,\"logo_path\":\"\/fHitYiGUCkRafgt6VPYQlXWLkdp.png\",\"name\":\"FilmNation Entertainment\",\"origin_country\":\"US\"},{\"id\":152785,\"logo_path\":null,\"name\":\"Wishmore\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-02-01\",\"revenue\":54700000,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Save your family or save humanity. Make the choice.\",\"title\":\"Knock at the Cabin\",\"video\":false,\"vote_average\":6.294,\"vote_count\":2388}"
+}

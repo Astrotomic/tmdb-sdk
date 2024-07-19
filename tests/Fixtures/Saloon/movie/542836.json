@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1155",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16704",
+        "x-memc": "HIT",
+        "x-memc-key": "d8a6f644d0a1a13743dc12374173d4ef",
+        "x-memc-age": "12074",
+        "x-memc-expires": "16704",
+        "ETag": "W\/\"e84fa27ade69467714b0aaa012649efe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AP8GckgMJ7IpqcBnjBPSZUzmc_q90Z54s6LD9PO8vyG9Gf31DvsoQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3BSAzy9aXXWCBvJCgLgPxLuquEk.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":542836,\"imdb_id\":\"tt6904272\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\ud611\uc0c1\",\"overview\":\"An ace crisis negotiator attempts to figure out the real motivation of a man who has kidnapped two people and crack his calm demeanour.\",\"popularity\":15.777,\"poster_path\":\"\/i0laXgjgTysxzjaOgHJEkym9OAb.jpg\",\"production_companies\":[{\"id\":10955,\"logo_path\":\"\/7uRzBHgr2ypR31zmdkbvuvk7ney.png\",\"name\":\"JK Film\",\"origin_country\":\"KR\"},{\"id\":7036,\"logo_path\":\"\/javbyY0ZCvlFJtly3tpZqf2NwLX.png\",\"name\":\"CJ Entertainment\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2018-09-19\",\"revenue\":15229193,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"Hostage crisis at a dead end. One last call to save lives.\",\"title\":\"The Negotiation\",\"video\":false,\"vote_average\":7.1,\"vote_count\":140}"
+}

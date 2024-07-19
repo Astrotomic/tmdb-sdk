@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1653",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22657",
+        "x-memc": "HIT",
+        "x-memc-key": "ce9a6133ee613fbf078068198c08bf0a",
+        "x-memc-age": "4642",
+        "x-memc-expires": "22657",
+        "ETag": "W\/\"8fcaa38b57eb0a6dee72e72d84ea5825\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nvclIxXvlv5GjZcZCYUz2b0SLgvnb-4ZNRoJiT8n1m56_X8SyLFjbg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bIFq1s3EdKQAoe80RsXICwoiPlq.jpg\",\"belongs_to_collection\":{\"id\":491768,\"name\":\"Frankenstein (Toho) Collection\",\"poster_path\":\"\/vg1YnFLhw1FAxZiZaVlhY7BcExD.jpg\",\"backdrop_path\":\"\/7qTWrJPPyrsnGz1jJaE4HZLKhmd.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3146,\"imdb_id\":\"tt0060440\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d5\u30e9\u30f3\u30b1\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3\u306e\u602a\u7363 \u30b5\u30f3\u30c0\u5bfe\u30ac\u30a4\u30e9\",\"overview\":\"Gaira, a humanoid sea beast spawned from the discarded cells of Frankenstein's monster, attacks the shores of Tokyo. While the Japanese military prepares to take action, Gaira's Gargantua brother, Sanda, descends from the mountains to defend his kin. A battle between good and evil ensues, leaving brothers divided and a city in ruins.\",\"popularity\":11.329,\"poster_path\":\"\/q8EH0y601mhYJmchoTRoo92Q0FS.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":1333,\"logo_path\":null,\"name\":\"Benedict Pictures Corp.\",\"origin_country\":\"\"},{\"id\":8409,\"logo_path\":null,\"name\":\"United Productions of America (UPA)\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1966-07-31\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"A crisis, striking from the mountains and the sea! Greater Tokyo is the battlefield of death!\",\"title\":\"The War of the Gargantuas\",\"video\":false,\"vote_average\":6.44,\"vote_count\":91}"
+}

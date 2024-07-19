@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1330",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14202",
+        "x-memc": "HIT",
+        "x-memc-key": "bb9cc4eb9bbf451a9ff1cf60fdd822ff",
+        "x-memc-age": "13929",
+        "x-memc-expires": "14202",
+        "ETag": "W\/\"6fb926baadf526743d77de2097365e95\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BBkf4OUMB_9grFBxwXZ12rg41QDfZlAKGFCCqS8mZk1UtDm2EEeIxA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gY8essk1UcNZMK3VRkPpdaUQLDQ.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":8069,\"imdb_id\":\"tt0062711\",\"origin_country\":[\"FR\",\"IT\"],\"original_language\":\"en\",\"original_title\":\"Barbarella\",\"overview\":\"In the far future, a highly sexual woman is tasked with finding and stopping the evil Durand-Durand. Along the way she encounters various unusual people.\",\"popularity\":52.14,\"poster_path\":\"\/kfaRSR3geV3I65icyHWBBEsE9u.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":1216,\"logo_path\":null,\"name\":\"DDL Cinematografica\",\"origin_country\":\"IT\"},{\"id\":1497,\"logo_path\":null,\"name\":\"Marianne Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1968-10-10\",\"revenue\":2500000,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"See Barbarella do her thing!\",\"title\":\"Barbarella\",\"video\":false,\"vote_average\":5.972,\"vote_count\":702}"
+}

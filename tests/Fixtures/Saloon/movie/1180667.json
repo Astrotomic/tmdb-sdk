@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "818",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15434",
+        "x-memc": "HIT",
+        "x-memc-key": "ab372e58b2e8d89fb13c5dc7d447ddf3",
+        "x-memc-age": "8066",
+        "x-memc-expires": "15434",
+        "ETag": "W\/\"b046b78c9aeb35353838fe507cec999d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vNQuX57k4nKa0jVrCyP2SsKXTxnirUsHChtXhfsbROi1UfCO5mJYWw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qUgUPtEJc3RHbhcomK1aP8vyXN6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1180667,\"imdb_id\":null,\"origin_country\":[\"CZ\"],\"original_language\":\"cs\",\"original_title\":\"Kouzeln\u00fd kopec\",\"overview\":\"Documentary about Barrandov studios.\",\"popularity\":0.802,\"poster_path\":null,\"production_companies\":[{\"id\":487,\"logo_path\":\"\/x3BUIowxU2skXOpnOeOkl7kIYDo.png\",\"name\":\"\u010cesk\u00e1 televize\",\"origin_country\":\"CZ\"}],\"production_countries\":[{\"iso_3166_1\":\"CZ\",\"name\":\"Czech Republic\"}],\"release_date\":\"2023-09-09\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"Barrandov legend\",\"title\":\"Kouzeln\u00fd kopec\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1050",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7886",
+        "x-memc": "HIT",
+        "x-memc-key": "4b4c76748de44a8d25f0e534b7d45474",
+        "x-memc-age": "18074",
+        "x-memc-expires": "7886",
+        "ETag": "W\/\"684a46ae3c0e0a4bd5fba19b6943672f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lDI5imSg-NCmL2pCk9vHjGp5woH3V40JJBFYIpy2jPfFalitTIhqQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gGSm6ZmWtGazs2H1m0gOp7cx1ZZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81005258\",\"id\":726429,\"imdb_id\":\"tt11658120\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Xtremo\",\"overview\":\"Two years after the murder of his son and father, a retired hitman sets in motion a carefully crafted revenge plan against the killer: his own brother.\",\"popularity\":24.926,\"poster_path\":\"\/cwUhVcDeMYYeu8fq5q1OPOoSbZ7.jpg\",\"production_companies\":[{\"id\":137516,\"logo_path\":null,\"name\":\"Showrunner Films\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2021-06-04\",\"revenue\":0,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Running away is not an option. Revenge is his only plan.\",\"title\":\"Xtreme\",\"video\":false,\"vote_average\":6.3,\"vote_count\":241}"
+}

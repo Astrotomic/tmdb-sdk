@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1374",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13161",
+        "x-memc": "HIT",
+        "x-memc-key": "ca9c1e565a15e18ff7cc8a021502f5dc",
+        "x-memc-age": "14569",
+        "x-memc-expires": "13161",
+        "ETag": "W\/\"ebc9d2558ba3d855d65c70282fc2b5b1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I-dOdThwNb_rAxyMFqfxlKXJ8vGrcWuL-FfG5-tlXMEPXsvl6UQrug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9T8sj5io4SGCBTHsk5H8LGcfKVe.jpg\",\"belongs_to_collection\":null,\"budget\":2800000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/midnightsunmov.com\/\",\"id\":419478,\"imdb_id\":\"tt4799066\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Midnight Sun\",\"overview\":\"Katie, a 17-year-old, has been sheltered since childhood and confined to her house during the day by a rare disease that makes even the smallest amount of sunlight deadly. Fate intervenes when she meets Charlie and they embark on a summer romance.\",\"popularity\":29.148,\"poster_path\":\"\/vPG2zEKPXhovPW9S91SRnwr5JM1.jpg\",\"production_companies\":[{\"id\":17866,\"logo_path\":\"\/b6UEnuBOYgnsrq6VulNLlP5v5rz.png\",\"name\":\"Boies\/Schiller Film Group\",\"origin_country\":\"US\"},{\"id\":73118,\"logo_path\":\"\/ilgyxz2B9rTdLUy8St7hbekO0y7.png\",\"name\":\"Wrigley Pictures\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-03-22\",\"revenue\":27365467,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Love will light the way.\",\"title\":\"Midnight Sun\",\"video\":false,\"vote_average\":7.796,\"vote_count\":3338}"
+}

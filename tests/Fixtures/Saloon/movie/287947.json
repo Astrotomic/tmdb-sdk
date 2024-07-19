@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1469",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14104",
+        "x-memc": "HIT",
+        "x-memc-key": "c717804059939fea1bb4dbaeb168b137",
+        "x-memc-age": "12514",
+        "x-memc-expires": "14104",
+        "ETag": "W\/\"ed5a7a7849ec4983e3810d528efd4c63\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HjUbroujyXFLIlyU58SYqDgKZIvZMa0mQE4glNCkMElAnG37-OsbqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o7JVhqMmrex1TPbmuxl8YXVlcfl.jpg\",\"belongs_to_collection\":{\"id\":724848,\"name\":\"Shazam! Collection\",\"poster_path\":\"\/qZ5EoG97hmlqCfNI2VWeMGIXJPJ.jpg\",\"backdrop_path\":\"\/sk2QNb1myzybxWMmeYB8BQ8pS7u.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.shazammovie.com\",\"id\":287947,\"imdb_id\":\"tt0448115\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shazam!\",\"overview\":\"A boy is given the ability to become an adult superhero in times of need with a single magic word.\",\"popularity\":45.65,\"poster_path\":\"\/xnopI5Xtky18MPhK40cZAGAOVeV.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":11565,\"logo_path\":\"\/S74cHHbIrdmb5M51Pft72Uo9Gz.png\",\"name\":\"The Safran Company\",\"origin_country\":\"US\"},{\"id\":73669,\"logo_path\":\"\/9JmgzVUNvUN5KhZjmiVHEzPtFCc.png\",\"name\":\"Seven Bucks Productions\",\"origin_country\":\"US\"},{\"id\":128064,\"logo_path\":\"\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png\",\"name\":\"DC Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-03-29\",\"revenue\":367799011,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Just say the word.\",\"title\":\"Shazam!\",\"video\":false,\"vote_average\":7.016,\"vote_count\":9296}"
+}

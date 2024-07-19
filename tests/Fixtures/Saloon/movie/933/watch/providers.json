@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "229",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9642",
+        "x-memc": "HIT",
+        "x-memc-key": "8f48d61b45bc7137fbba5653f08c1311",
+        "x-memc-age": "17775",
+        "x-memc-expires": "9642",
+        "ETag": "W\/\"6de471c3235f63567a770cd6ad5e19fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FgrMxRUhihsVUF_DpzxrJYTvSkvlKHjryk1w13MttS-DXCimkv8_zw=="
+    },
+    "data": "{\"id\":933,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/933-heisser-sommer\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg\",\"provider_id\":191,\"provider_name\":\"Kanopy\",\"display_priority\":48}]}}}"
+}

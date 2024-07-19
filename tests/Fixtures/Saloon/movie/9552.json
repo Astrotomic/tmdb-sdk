@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1940",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1804",
+        "x-memc": "HIT",
+        "x-memc-key": "5023bfec3884823ff561a5ebf8952755",
+        "x-memc-age": "23829",
+        "x-memc-expires": "1804",
+        "ETag": "W\/\"6aa5483bf7716fb27e1961b751546e15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xEPIUa_omYrgB55zKDFE_ntH0tCGDeEHE4wrCxshsuzrib5I35P8wQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lNlWuDxf3EvnbpNCMc7zVtpEQAC.jpg\",\"belongs_to_collection\":{\"id\":12263,\"name\":\"The Exorcist Collection\",\"poster_path\":\"\/yKfTl0H8pMORzPLho3kz69yWwP0.jpg\",\"backdrop_path\":\"\/pgxFa9jkfOaopuw5kGZ7KgVkhwW.jpg\"},\"budget\":12000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/theexorcist.warnerbros.com\/\",\"id\":9552,\"imdb_id\":\"tt0070047\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Exorcist\",\"overview\":\"When a charming 12-year-old girl takes on the characteristics and voices of others, doctors say there is nothing they can do. As people begin to die, the girl's mother realizes her daughter has been possessed by the devil--and that her daughter's only possible hope lies with two priests and the ancient rite of demonic exorcism.\",\"popularity\":76.435,\"poster_path\":\"\/5x0CeVHJI8tcDx8tUUwYHQSNILq.jpg\",\"production_companies\":[{\"id\":48184,\"logo_path\":null,\"name\":\"Hoya Productions\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1973-12-26\",\"revenue\":441306145,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Something almost beyond comprehension is happening to a girl on this street, in this house\u2026 and a man has been sent for as a last resort. This man is The Exorcist.\",\"title\":\"The Exorcist\",\"video\":false,\"vote_average\":7.734,\"vote_count\":7764}"
+}

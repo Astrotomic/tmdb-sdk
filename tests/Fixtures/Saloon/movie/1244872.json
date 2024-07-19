@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1460",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8380",
+        "x-memc": "HIT",
+        "x-memc-key": "1e52d21b4da14964577d3a34ea171a60",
+        "x-memc-age": "20298",
+        "x-memc-expires": "8380",
+        "ETag": "W\/\"0220c61fb31bec1610512c7508f0debd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Jmr6_FAuz3q1eTZQU2Fw816tQTktktNCPnemUFuWXPv8fLw3vvvFPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hz4Nm8soNLbqoLosFqLy5yUSVUB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1244872,\"imdb_id\":\"tt13239062\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Nina\",\"overview\":\"After thirty years, Nina decides to return to the seaside town where she grew up to confront the man who changed her life and to whom the town now pays homage. The reunion with her origins, with her memories and with Blas, a childhood friend, will make her question whether revenge is the only way.\",\"popularity\":1.963,\"poster_path\":\"\/e4Dr3pExlz2qiRdQVpOPtxxzo3B.jpg\",\"production_companies\":[{\"id\":10814,\"logo_path\":\"\/eedxWwEEHmcLJfyFJPuigu170DU.png\",\"name\":\"Ic\u00f3nica\",\"origin_country\":\"ES\"},{\"id\":10054,\"logo_path\":\"\/67EvEfCho6RuijhumqsmUAGLERX.png\",\"name\":\"Irusoin\",\"origin_country\":\"ES\"},{\"id\":220879,\"logo_path\":null,\"name\":\"Lasai Producciones\",\"origin_country\":\"ES\"},{\"id\":121404,\"logo_path\":\"\/r8FASjKlLzwzzdnMSXO4EoSujkr.png\",\"name\":\"BTeam Pictures\",\"origin_country\":\"ES\"},{\"id\":222793,\"logo_path\":null,\"name\":\"Nina La Pel\u00edcula AIE\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2024-05-10\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Nina\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

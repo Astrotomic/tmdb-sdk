@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "713",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17853",
+        "x-memc": "HIT",
+        "x-memc-key": "000d274ab6bf94217055db022a328e94",
+        "x-memc-age": "5343",
+        "x-memc-expires": "17853",
+        "ETag": "W\/\"bff023a93afc5edc02f015d2df1f9ba0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DrYTIlxtfHyd4ubQ3LB75sO_q8UPbS0hVFR5LfVzyrLhWcQvTpqF7A=="
+    },
+    "data": "{\"id\":735595,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/735595-das-schaurige-haus\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/735595-das-schaurige-haus\/watch?locale=DE\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}]}}}"
+}

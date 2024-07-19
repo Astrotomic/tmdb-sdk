@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1170",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3286",
+        "x-memc": "HIT",
+        "x-memc-key": "1d025bfc91a83951c6b3f880df6c09fb",
+        "x-memc-age": "19278",
+        "x-memc-expires": "3286",
+        "ETag": "W\/\"58d0959384eacfe9753a6df9de1d8f52\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9ynCebhRm3tJQZ7ufbc7XK3_fa7UdzzsYn6wAKbQz_G8eK2cWTM0Ig=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":630000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1182598,\"imdb_id\":\"tt22769958\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"Udd Jaa Nanhe Dil\",\"overview\":\"The principal of a high profile school comes across the bright Raghu, son of a dhobi, and gives him an opportunity to learn in his school along with the kids coming from rich families. Being a dhobi's son, Raghu experiences fear and inferiority complex in the beginning, but as time passes, he makes six best friends who hail from rich families and a beautiful bond of friendship begins.\",\"popularity\":3.879,\"poster_path\":\"\/ucI3QVnT3SE5ttxu9LHtZhBxcOf.jpg\",\"production_companies\":[{\"id\":168866,\"logo_path\":null,\"name\":\"Navarasa Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2023-09-25\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Fly High Little Hearts\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

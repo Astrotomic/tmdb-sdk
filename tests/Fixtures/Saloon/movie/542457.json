@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "953",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10923",
+        "x-memc": "HIT",
+        "x-memc-key": "2a73f9f211fff2400ba9eddaff7f655b",
+        "x-memc-age": "17299",
+        "x-memc-expires": "10923",
+        "ETag": "W\/\"e2e4f7d0b9e18434e4252d75a1b33e4a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KzqOLGxSELBJLDtMhrqqDfPQEtSxl2gE5OkR8s7VJu5rH243soCsYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10752,\"name\":\"War\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":542457,\"imdb_id\":\"tt0230381\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Juan Soldado\",\"overview\":\"The murder of an 8-year-old boy by a young soldier in Tijuana, Mexico, leads to riots on the streets. Based on a true story.\",\"popularity\":0.63,\"poster_path\":\"\/ab1XHQO33riCnBGwGP8iXgym9Mq.jpg\",\"production_companies\":[{\"id\":107753,\"logo_path\":null,\"name\":\"Producciones Nacionales\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1940-08-30\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"John, the Soldier of Vengeance\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1276",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14921",
+        "x-memc": "HIT",
+        "x-memc-key": "857aa357182ce51963e0b889d6c1c738",
+        "x-memc-age": "12167",
+        "x-memc-expires": "14921",
+        "ETag": "W\/\"fcc08a0bbdec1760d49ec9261fb69ac5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tRG6l6brtTTkJ7XFDLVI8UlqMPP-tktsQ-fRxa3nKXqHKInkexmc1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ofG7o8n6EYw92pNc1OaJ95mEKs6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"http:\/\/www.burningbluefilm.com\/\",\"id\":256196,\"imdb_id\":\"tt1811307\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Burning Blue\",\"overview\":\"Two Navy fighter pilots find themselves in the midst of a forbidden relationship throwing their lives and careers into disarray.\",\"popularity\":17.945,\"poster_path\":\"\/uUpBD2EHyDpCLPATj8LFghiDCTy.jpg\",\"production_companies\":[{\"id\":24944,\"logo_path\":null,\"name\":\"Burning Blue The Film L.P.\",\"origin_country\":\"\"},{\"id\":20853,\"logo_path\":null,\"name\":\"Offhollywood Digital\",\"origin_country\":\"\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":3768,\"logo_path\":null,\"name\":\"Off Hollywood Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-06-06\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Deny nothing.\",\"title\":\"Burning Blue\",\"video\":false,\"vote_average\":6.104,\"vote_count\":72}"
+}

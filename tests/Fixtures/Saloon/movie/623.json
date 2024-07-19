@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1394",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4107",
+        "x-memc": "HIT",
+        "x-memc-key": "3cde71aaf39239105f664666a51e26f5",
+        "x-memc-age": "19139",
+        "x-memc-expires": "4107",
+        "ETag": "W\/\"31d058d0c52f337aaa2adace9ec9e3e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "P9N5vW08tqVHE9vdLAYLxEYh8jb6OZ-IZXJytg-BwSSu-nZe_De9VA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y8HaV1Ntr6nHmKxZ29B7DwxwvNU.jpg\",\"belongs_to_collection\":null,\"budget\":7500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":623,\"imdb_id\":\"tt0095159\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"A Fish Called Wanda\",\"overview\":\"While a diamond advocate attempts to steal a collection of diamonds, troubles arise when he realises he\u2019s not the only one after the collection.\",\"popularity\":26.131,\"poster_path\":\"\/hkSGFNVfEEUXFCxRZDITFHVhUlu.jpg\",\"production_companies\":[{\"id\":11352,\"logo_path\":null,\"name\":\"Prominent Features\",\"origin_country\":\"GB\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":45505,\"logo_path\":null,\"name\":\"Fish Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-07-15\",\"revenue\":188593712,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"A tale of murder, lust, greed, revenge, and seafood.\",\"title\":\"A Fish Called Wanda\",\"video\":false,\"vote_average\":7.2,\"vote_count\":2106}"
+}

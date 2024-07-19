@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1355",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17302",
+        "x-memc": "HIT",
+        "x-memc-key": "8a11f9d9992eb040ede11be0c748b458",
+        "x-memc-age": "7780",
+        "x-memc-expires": "17302",
+        "ETag": "W\/\"f9305c785a648326fe9329d3da911812\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kO0WlDaBj_1_-11WqoC9QtcG45Ka8wvkO2-76xpdEBo-1BRJkUuFVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AqPFdlxpHZ61fnUdX5yCfkD20MF.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":37,\"name\":\"Western\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":8043,\"imdb_id\":\"tt0072735\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Breakheart Pass\",\"overview\":\"At the height of the frontier era, a train races through the Rocky Mountains on a classified mission to a remote army post. But one by one the passengers are being murdered, and their only hope is the mysterious John Deakin, who's being transported to face trial for murder.\",\"popularity\":22.882,\"poster_path\":\"\/li6BdgpVeMsgIjDugiVfHJGwPTp.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":14390,\"logo_path\":null,\"name\":\"Jerry Gershwin Productions\",\"origin_country\":\"\"},{\"id\":14391,\"logo_path\":null,\"name\":\"Elliott Kastner Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1975-12-09\",\"revenue\":2130000,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Revenge Mystery Danger Ambush\",\"title\":\"Breakheart Pass\",\"video\":false,\"vote_average\":6.548,\"vote_count\":187}"
+}

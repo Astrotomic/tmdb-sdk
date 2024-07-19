@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1133",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13282",
+        "x-memc": "HIT",
+        "x-memc-key": "63ac2896a368a95cae4a2c30a9d4b03b",
+        "x-memc-age": "11989",
+        "x-memc-expires": "13282",
+        "ETag": "W\/\"f8426188b30e686fcd02c2011090b2c9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uAShnKIqqmvsUIz7606PnWrZ8E-PRKAekXBomu9CQEsrEXL0CmemHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/WJtnxUbB5kOqD0AfS4viDuHxbC.jpg\",\"belongs_to_collection\":null,\"budget\":2300000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":11807,\"imdb_id\":\"tt1093370\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u091c\u092c \u0935\u0940 \u092e\u0947\u091f\",\"overview\":\"A depressed wealthy businessman and a spunky carefree young woman embark on an unexpected journey that changes their lives.\",\"popularity\":14.877,\"poster_path\":\"\/reEzvhfp85DTapHSPRzBULCXUuz.jpg\",\"production_companies\":[{\"id\":5670,\"logo_path\":null,\"name\":\"Shree Ashtavinayak Cine Vision\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2007-10-26\",\"revenue\":4600000,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Punjabi\",\"iso_639_1\":\"pa\",\"name\":\"\u0a2a\u0a70\u0a1c\u0a3e\u0a2c\u0a40\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Don't miss the train!\",\"title\":\"Jab We Met\",\"video\":false,\"vote_average\":7.289,\"vote_count\":261}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1278",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24469",
+        "x-memc": "HIT",
+        "x-memc-key": "3af946bce1dbe8d1e5a900e5066ec5e8",
+        "x-memc-age": "1369",
+        "x-memc-expires": "24469",
+        "ETag": "W\/\"18c9f6e33228f69e788b980456e7cb22\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QX1jwCyfvlADk3cTzehQyOBzAUHpWngbOMrLfdDPBfphIK3O9MAF3A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4zLztgGLDfa1vBra0mFRrn3S32t.jpg\",\"belongs_to_collection\":null,\"budget\":130000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":2133,\"imdb_id\":\"tt0177971\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Perfect Storm\",\"overview\":\"In October 1991, a confluence of weather conditions combined to form a killer storm in the North Atlantic. Caught in the storm was the sword-fishing boat Andrea Gail.\",\"popularity\":38.57,\"poster_path\":\"\/aOYHJclz1yZdFT3hdMY8TeYU4fk.jpg\",\"production_companies\":[{\"id\":16061,\"logo_path\":null,\"name\":\"Baltimore\/Spring Creek Pictures\",\"origin_country\":\"US\"},{\"id\":18990,\"logo_path\":null,\"name\":\"Radiant Productions\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-06-29\",\"revenue\":325800000,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The storm is coming.\",\"title\":\"The Perfect Storm\",\"video\":false,\"vote_average\":6.467,\"vote_count\":2227}"
+}

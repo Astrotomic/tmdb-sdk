@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1356",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15657",
+        "x-memc": "HIT",
+        "x-memc-key": "609ca3d4d6432adc8dd09e2f88238f74",
+        "x-memc-age": "11278",
+        "x-memc-expires": "15657",
+        "ETag": "W\/\"b608e0d215e62717ae80bbf1f6dac840\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2aLTgpA2HPyGBBERe2YeyPtL7UhNDRzrIdVW6I_Vs7Y319hCamnmlw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gr2eFkS9s5uM8jwBetX1qsSkmi2.jpg\",\"belongs_to_collection\":null,\"budget\":26000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":7290,\"imdb_id\":\"tt0157262\",\"origin_country\":[\"DE\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"2001: A Space Travesty\",\"overview\":\"When odd reports are received through official channels stating that the President of the United States is being held captive on a secret international moon base called Vegan and that he has been replaced on Earth by a clone, the US Marshall Service immediately sends their 'best' man, Dix, on the mission.\",\"popularity\":11.442,\"poster_path\":\"\/jNCvJuLbHjvXPvyOubbaa54ArvH.jpg\",\"production_companies\":[{\"id\":2215,\"logo_path\":null,\"name\":\"Cinevent\",\"origin_country\":\"\"},{\"id\":2216,\"logo_path\":null,\"name\":\"Helkon Media\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-10-31\",\"revenue\":270813,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The most outer spaced-out comedy ever!\",\"title\":\"2001: A Space Travesty\",\"video\":false,\"vote_average\":4.317,\"vote_count\":263}"
+}

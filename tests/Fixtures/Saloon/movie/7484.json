@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1521",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22178",
+        "x-memc": "HIT",
+        "x-memc-key": "b90986ae1d3df9f31612a6f9a2245101",
+        "x-memc-age": "970",
+        "x-memc-expires": "22178",
+        "ETag": "W\/\"e05a5a9a297b0518c5d69dacf99afd64\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JoKJaXXQS_cAei3tock6buXqlQFLzUukWGgvu0B5qDpcVPMYbaBHSg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nnMXaofDjdWszZ7rbN9hKwK2PNg.jpg\",\"belongs_to_collection\":{\"id\":66761,\"name\":\"Open Season Collection\",\"poster_path\":\"\/ePeybVSOnCmuWrrvGEp8hzWn979.jpg\",\"backdrop_path\":\"\/cnaLzqjxlqGMIp7AGCizfVXUhSn.jpg\"},\"budget\":85000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.sonypictures.com\/movies\/openseason\/\",\"id\":7484,\"imdb_id\":\"tt0400717\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Open Season\",\"overview\":\"Boog, a domesticated 900lb. Grizzly bear finds himself stranded in the woods 3 days before Open Season. Forced to rely on Elliot, a fast-talking mule deer, the two form an unlikely friendship and must quickly rally other forest animals if they are to form a rag-tag army against the hunters.\",\"popularity\":43.109,\"poster_path\":\"\/w5Lctmkc1yah215Luxmci4djaiW.jpg\",\"production_companies\":[{\"id\":2251,\"logo_path\":\"\/5ilV5mH3gxTEU7p5wjxptHvXkyr.png\",\"name\":\"Sony Pictures Animation\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-09-27\",\"revenue\":197300000,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"All Fur One. One Fur All.\",\"title\":\"Open Season\",\"video\":false,\"vote_average\":6.154,\"vote_count\":2679}"
+}

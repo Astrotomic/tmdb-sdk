@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1064",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23947",
+        "x-memc": "HIT",
+        "x-memc-key": "2153e14ee43ea2483e1b8e07475ba8dd",
+        "x-memc-age": "3747",
+        "x-memc-expires": "23947",
+        "ETag": "W\/\"7bed9cf7cb6fbbcf6852256aa64e37cb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EjIaZ5Gjwl5J57FNFvaHnTAQzLnTrXjUnJcKjXD6T3t5PSBZ7ZwTdQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ic16B2KUfEFicIB3eiBUAYqrwz7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":326359,\"imdb_id\":\"tt4007502\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frozen Fever\",\"overview\":\"On Anna's birthday, Elsa and Kristoff are determined to give her the best celebration ever, but Elsa's icy powers may put more than just the party at risk.\",\"popularity\":32.081,\"poster_path\":\"\/mPrDJ7puYzPLG5kPM96iNszF2sM.jpg\",\"production_companies\":[{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-03-09\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Frozen Fever\",\"video\":false,\"vote_average\":6.842,\"vote_count\":1791}"
+}

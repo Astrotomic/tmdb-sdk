@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "845",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16921",
+        "x-memc": "HIT",
+        "x-memc-key": "1358c0867905a84ce364fa42de8ca346",
+        "x-memc-age": "10872",
+        "x-memc-expires": "16921",
+        "ETag": "W\/\"165d2647fdd229142ba84c5207f2e86f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U4eAN8uY20l7qX6JnFZh3DL10XMk096-TVNOfUy-C-Guq7IV5bcQtA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2AsW1GPB6Rz55I5JkZwWXiyUPf3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":544073,\"imdb_id\":\"tt12488306\",\"origin_country\":[\"TH\"],\"original_language\":\"th\",\"original_title\":\"Bittersweet Chocolate\",\"overview\":\"A mother surprises her son with a birthday treat \u2013 an ultra-dark and bittersweet chocolate cake. Its mysterious taste makes strange things happen.\",\"popularity\":2.355,\"poster_path\":\"\/5gkd6ZDR2Ea2DikqIbssCS80LP8.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"}],\"release_date\":\"2014-11-20\",\"revenue\":0,\"runtime\":62,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bittersweet Chocolate\",\"video\":false,\"vote_average\":4.0,\"vote_count\":2}"
+}

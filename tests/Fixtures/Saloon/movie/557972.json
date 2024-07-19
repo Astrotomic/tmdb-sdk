@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1408",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22441",
+        "x-memc": "HIT",
+        "x-memc-key": "d12c4d700794e76a6e5e42a2c471781f",
+        "x-memc-age": "1101",
+        "x-memc-expires": "22441",
+        "ETag": "W\/\"de6aaf405b784495b1edb9525b84a809\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "afoZBUMrqz0b92CxPGNEu3Mjm9KM1AQ78yNatAxPu45efIruvwjGSQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4tOYcEXHXclnD1B7EpVDw4guJoH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.cj-entertainment.com\/movie\/take-point\/\",\"id\":557972,\"imdb_id\":\"tt7156436\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"PMC: \ub354 \ubc99\ucee4\",\"overview\":\"On the day of the U.S. presidential election in 2024, a team of elite mercenaries embark on a secret CIA mission to abduct North Korea's politician in an underground bunker below the Korean Demilitarized Zone. However, they get caught in the crossfire which causes tensions to escalate to the brink of World War III.\",\"popularity\":16.519,\"poster_path\":\"\/fl9VBbIGHUoBY6Ixzt9lEGjhxzs.jpg\",\"production_companies\":[{\"id\":7036,\"logo_path\":\"\/javbyY0ZCvlFJtly3tpZqf2NwLX.png\",\"name\":\"CJ Entertainment\",\"origin_country\":\"KR\"},{\"id\":112425,\"logo_path\":\"\/2y7W6sMH5AtKjKnPDWJzKv1J4Xx.png\",\"name\":\"Perfect Storm Film\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2018-12-26\",\"revenue\":0,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"Stateless. Honorless. War for Money.\",\"title\":\"Take Point\",\"video\":false,\"vote_average\":6.9,\"vote_count\":108}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1879",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24860",
+        "x-memc": "HIT",
+        "x-memc-key": "e826f758aedd606062ddbf3cfd666ed4",
+        "x-memc-age": "377",
+        "x-memc-expires": "24860",
+        "ETag": "W\/\"83e313569a4132cdaa7ac2e7082b19e1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YoSqadP03ixVtXBj319eKAifAZ7p9lygaYSLulcvoHvFSQxMhFcj5g=="
+    },
+    "data": "{\"id\":225626,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":1376187,\"known_for_department\":\"Acting\",\"name\":\"M\u00f3nica del Carmen\",\"original_name\":\"M\u00f3nica del Carmen\",\"popularity\":6.572,\"profile_path\":\"\/3PwKvW9KfnoxxUlwlTxIGkHTFwy.jpg\",\"cast_id\":8,\"character\":\"M\u00f3nica\",\"credit_id\":\"5fba016e109dec00415582c3\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1211030,\"known_for_department\":\"Acting\",\"name\":\"Benjam\u00edn Espinoza\",\"original_name\":\"Benjam\u00edn Espinoza\",\"popularity\":0.766,\"profile_path\":null,\"cast_id\":6,\"character\":\"Benjam\u00edn\",\"credit_id\":\"52fe4e649251416c75154df7\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1211032,\"known_for_department\":\"Acting\",\"name\":\"Omar Moreno\",\"original_name\":\"Omar Moreno\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Omar\",\"credit_id\":\"52fe4e649251416c75154df3\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1211031,\"known_for_department\":\"Acting\",\"name\":\"Jacobo Najman\",\"original_name\":\"Jacobo Najman\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":7,\"character\":\"\",\"credit_id\":\"52fe4e649251416c75154dfb\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1082434,\"known_for_department\":\"Directing\",\"name\":\"Michel Franco\",\"original_name\":\"Michel Franco\",\"popularity\":4.141,\"profile_path\":\"\/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg\",\"credit_id\":\"52fe4e649251416c75154deb\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":false,\"gender\":2,\"id\":1082434,\"known_for_department\":\"Directing\",\"name\":\"Michel Franco\",\"original_name\":\"Michel Franco\",\"popularity\":4.141,\"profile_path\":\"\/9pcGCe3CD4woEB4D8t6V3A4q2vQ.jpg\",\"credit_id\":\"52fe4e649251416c75154ddf\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1211029,\"known_for_department\":\"Directing\",\"name\":\"Victoria Franco\",\"original_name\":\"Victoria Franco\",\"popularity\":0.526,\"profile_path\":null,\"credit_id\":\"52fe4e649251416c75154de5\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

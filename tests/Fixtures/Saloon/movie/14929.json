@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1406",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13578",
+        "x-memc": "HIT",
+        "x-memc-key": "8eecffd3ed7d4b995cff11982a8eacbe",
+        "x-memc-age": "13713",
+        "x-memc-expires": "13578",
+        "ETag": "W\/\"75237c81070dc23ccc4c69758c88b733\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NWrhT7tAfoEx6EUOZrDqRYScaE11DlOzksJjz3u2A5YiFiRj7UZqYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aDyUBdpSoLG5QbpzBcJYa2E9X23.jpg\",\"belongs_to_collection\":null,\"budget\":150,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":14929,\"imdb_id\":\"tt0081186\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mother's Day\",\"overview\":\"Three girls discover that two men are willing to do anything to impress Mother and what impresses Mother is watching her sons commit acts of rape and murder. Now these women are prisoners and lowered to pawns in the game of checkers between two dim wits and their Maniac Mommy and the question becomes, can any of them escape, alive?\",\"popularity\":12.702,\"poster_path\":\"\/qONbGJ5jMb57zThorE5ozHDztDL.jpg\",\"production_companies\":[{\"id\":4675,\"logo_path\":null,\"name\":\"Duty Productions\",\"origin_country\":\"\"},{\"id\":95947,\"logo_path\":null,\"name\":\"United Film Distribution Company (UFDC)\",\"origin_country\":\"US\"},{\"id\":3052,\"logo_path\":\"\/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png\",\"name\":\"Troma Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-09-19\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If you go down to the woods today.\",\"title\":\"Mother's Day\",\"video\":false,\"vote_average\":5.6,\"vote_count\":125}"
+}

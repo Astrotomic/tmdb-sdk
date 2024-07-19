@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1778",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5074",
+        "x-memc": "HIT",
+        "x-memc-key": "a8ad20bd734a4072856df3ef091bae1e",
+        "x-memc-age": "21980",
+        "x-memc-expires": "5074",
+        "ETag": "W\/\"e73f6c185b678462f618876d0106a37d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-T_MOwHHP9fg41fdYUJsZnebOBUvLl4kt4ZfkWbXqMFoxo8MicsosQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pYr7HL3peZQZRaAYqwWT6Ax4DAx.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":241257,\"imdb_id\":\"tt3319920\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Regression\",\"overview\":\"Minnesota, 1990. Detective Bruce Kenner investigates the case of young Angela, who accuses her father, John Gray, of an unspeakable crime. When John unexpectedly and without recollection admits guilt, renowned psychologist Dr. Raines is brought in to help him relive his memories and what they discover unmasks a horrifying nationwide mystery.\",\"popularity\":31.432,\"poster_path\":\"\/luHpMTmU1ygtEgdOTSSj0i9nd8E.jpg\",\"production_companies\":[{\"id\":5444,\"logo_path\":null,\"name\":\"Mod Producciones\",\"origin_country\":\"ES\"},{\"id\":4908,\"logo_path\":\"\/7YkjYXsxCWGqSbm3NJH82KVTBSC.png\",\"name\":\"First Generation Films\",\"origin_country\":\"CA\"},{\"id\":7493,\"logo_path\":\"\/fHitYiGUCkRafgt6VPYQlXWLkdp.png\",\"name\":\"FilmNation Entertainment\",\"origin_country\":\"US\"},{\"id\":784,\"logo_path\":null,\"name\":\"Himen\u00f3ptero\",\"origin_country\":\"ES\"},{\"id\":1182,\"logo_path\":\"\/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png\",\"name\":\"Telecinco Cinema\",\"origin_country\":\"ES\"},{\"id\":16742,\"logo_path\":null,\"name\":\"Telef\u00f3nica Studios\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-10-01\",\"revenue\":17671101,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fear always finds its victim\",\"title\":\"Regression\",\"video\":false,\"vote_average\":5.577,\"vote_count\":1749}"
+}

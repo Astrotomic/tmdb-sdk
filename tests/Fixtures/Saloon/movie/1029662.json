@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "908",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22534",
+        "x-memc": "HIT",
+        "x-memc-key": "de4758c7cef75f32daed68be162cf7df",
+        "x-memc-age": "2738",
+        "x-memc-expires": "22534",
+        "ETag": "W\/\"586ea3831f287a8f380bef7d568437b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YRytimPXW__bKr2Od6FJI9oqHe62pB2cdmpVaQ34QzVSygaIpdevEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fQKlPJSJm9z2q0pKkum7SPsiNRx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/chenoa.net\",\"id\":1029662,\"imdb_id\":\"tt1909725\",\"origin_country\":[\"MX\",\"ES\"],\"original_language\":\"es\",\"original_title\":\"Absurda Cenicienta\",\"overview\":\"A modern take on the classic Cinderella tale.\",\"popularity\":4.838,\"poster_path\":\"\/u0KvHEPxyI9pmjFrbjHMqt8soQO.jpg\",\"production_companies\":[{\"id\":183211,\"logo_path\":null,\"name\":\"Chivo Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2007-10-09\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Lost in a real tale.\",\"title\":\"Shortcut to Heaven\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

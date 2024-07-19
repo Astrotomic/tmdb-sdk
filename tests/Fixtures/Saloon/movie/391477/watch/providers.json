@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "227",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12168",
+        "x-memc": "HIT",
+        "x-memc-key": "c8c55dabbc23e1649f0f4934a60db6b7",
+        "x-memc-age": "15754",
+        "x-memc-expires": "12168",
+        "ETag": "W\/\"888e643890f1d945dba101392aac3bd7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b7b71910b45e646f6476bbd270127a4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mcyTdAdMmeiA_Sqa2NkPE_kHJJ54UUvLvspvVSNXuZNGycRJTTkb6Q=="
+    },
+    "data": "{\"id\":391477,\"results\":{\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391477\/watch?locale=TW\",\"flatrate\":[{\"logo_path\":\"\/97yvRBw1GzX7fXprcF80er19ot.jpg\",\"provider_id\":337,\"provider_name\":\"Disney Plus\",\"display_priority\":2}]}}}"
+}

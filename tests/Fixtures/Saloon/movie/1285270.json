@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1092",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5163",
+        "x-memc": "HIT",
+        "x-memc-key": "9fb63abf9f2b801b956b2842079c4318",
+        "x-memc-age": "19565",
+        "x-memc-expires": "5163",
+        "ETag": "W\/\"b450d007645c528cc39603a2602dcdbf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pQtzdDwDjXXpd7c0KxZeHZuNjfKovOGd1onVlDSDYRqRZX2_0wlE4Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w8uHTFCGBQq8GJc1TzaR7cHUiVI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.hallmarkchannel.com\/two-scoops-of-italy\",\"id\":1285270,\"imdb_id\":\"tt32422182\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Two Scoops of Italy\",\"overview\":\"When an American chef travels to a quant village in Italy for inspiration, she falls in love with the flavors, culture, gelato, and the Italian gentleman who helps her discover it all.\",\"popularity\":12.55,\"poster_path\":\"\/bNusIXksXCMYize9ldIeBOZORcY.jpg\",\"production_companies\":[{\"id\":53015,\"logo_path\":\"\/tWxubAjwO1QtLLWdnUR1bjS1vvf.png\",\"name\":\"Hallmark Media\",\"origin_country\":\"US\"}],\"production_countries\":[],\"release_date\":\"2024-06-22\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Two Scoops of Italy\",\"video\":false,\"vote_average\":6.0,\"vote_count\":6}"
+}

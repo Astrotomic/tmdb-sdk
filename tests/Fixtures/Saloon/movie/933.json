@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1200",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16554",
+        "x-memc": "HIT",
+        "x-memc-key": "487b191e202baf173ea20242a8fb7e5d",
+        "x-memc-age": "8970",
+        "x-memc-expires": "16554",
+        "ETag": "W\/\"894c1d2668743eff9caffc8a0c5e1686\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qvWDs9sPW7sNz4nKYSHHWfjbi6LtsXg-BwDRw5eVnC5_LHWmhyvJcg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qvXK2TVO2cbWi7I8VfJhvVRw0Nt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":933,\"imdb_id\":\"tt0061756\",\"origin_country\":[\"XG\"],\"original_language\":\"de\",\"original_title\":\"Hei\u00dfer Sommer\",\"overview\":\"In this East German teen musical, a group of girls are planning to take their summer vacation together on the Baltic coast. When a loud and obnoxious group of boys intrudes on their holiday, the girls are horrified to learn that the boys have the same vacations plans as them. The two groups quarrel with each other and compete over a number of things, but gradually an attraction starts to form.\",\"popularity\":4.318,\"poster_path\":\"\/6yNh51Ayu6v4VfXDPNzRJCSXMaQ.jpg\",\"production_companies\":[{\"id\":602,\"logo_path\":\"\/pVsXRFbYVDe5BhsATCAh1rt5F0k.png\",\"name\":\"DEFA\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"XG\",\"name\":\"East Germany\"}],\"release_date\":\"1968-06-20\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hot Summer\",\"video\":false,\"vote_average\":6.0,\"vote_count\":10}"
+}

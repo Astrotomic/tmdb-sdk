@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2240",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:48:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=807",
+        "x-memc": "HIT",
+        "x-memc-key": "599e5eb5e797274002ee5d55760e9911",
+        "x-memc-age": "24506",
+        "x-memc-expires": "807",
+        "ETag": "W\/\"b5e5f825715fa96535c027ae72d5391d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wlfqevxEo8Ba7YdXtnq4OlT2jGYWeFR2UJ57ro7B6JJqmdemZMq5Cw=="
+    },
+    "data": "{\"id\":543103,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/543103-forever\/watch?locale=CA\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21}]},\"HK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/543103-forever\/watch?locale=HK\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/543103-forever\/watch?locale=JP\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3},{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":4}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/543103-forever\/watch?locale=KR\",\"buy\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/543103-forever\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/y9jFndski0fRO4MHh3yg5PIL9ZI.jpg\",\"provider_id\":439,\"provider_name\":\"Shout! Factory TV\",\"display_priority\":99}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46},{\"logo_path\":\"\/dB8G41Q6tSL5NBisrIeqByfepBc.jpg\",\"provider_id\":300,\"provider_name\":\"Pluto TV\",\"display_priority\":91}]}}}"
+}

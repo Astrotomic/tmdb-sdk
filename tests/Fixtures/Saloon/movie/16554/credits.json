@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2329",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5785",
+        "x-memc": "HIT",
+        "x-memc-key": "79b31006fc348fbfde611daa6e4500f4",
+        "x-memc-age": "19074",
+        "x-memc-expires": "5785",
+        "ETag": "W\/\"a42aca8406d1e169adcfc413c21d6ca7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Pnf74mcm6BCdEiQ14XS0_c52hlQGPUqQrmm_tZ864TT9xVDgRryylQ=="
+    },
+    "data": "{\"id\":16554,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1298172,\"known_for_department\":\"Acting\",\"name\":\"Peter Bieringer\",\"original_name\":\"Peter Bieringer\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":0,\"character\":\"Narrator (voice)\",\"credit_id\":\"55897bd99251414c71001bdc\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":220679,\"known_for_department\":\"Acting\",\"name\":\"Martin Sonneborn\",\"original_name\":\"Martin Sonneborn\",\"popularity\":3.059,\"profile_path\":\"\/4F2ZdLYl40BQ1NmPYFD3R9eSmBy.jpg\",\"cast_id\":1,\"character\":\"Self\",\"credit_id\":\"55897bec9251414371001779\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1480733,\"known_for_department\":\"Editing\",\"name\":\"Tim B\u00f6hme\",\"original_name\":\"Tim B\u00f6hme\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5589815cc3a368053e004357\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":1480735,\"known_for_department\":\"Crew\",\"name\":\"Max von Dohna\",\"original_name\":\"Max von Dohna\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5589818f9251414c71001e4e\",\"department\":\"Crew\",\"job\":\"Sound Recordist\"},{\"adult\":false,\"gender\":0,\"id\":1480734,\"known_for_department\":\"Production\",\"name\":\"Georg Behrend\",\"original_name\":\"Georg Behrend\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5589818192514174220000a1\",\"department\":\"Production\",\"job\":\"Unit Production Manager\"},{\"adult\":false,\"gender\":0,\"id\":1480729,\"known_for_department\":\"Production\",\"name\":\"Birgit Mehler\",\"original_name\":\"Birgit Mehler\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"55898118c3a3680dfb000e25\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":1480731,\"known_for_department\":\"Sound\",\"name\":\"Achim Treu\",\"original_name\":\"Achim Treu\",\"popularity\":0.028,\"profile_path\":null,\"credit_id\":\"5589813ac3a36869f20005dc\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":1,\"id\":1480730,\"known_for_department\":\"Production\",\"name\":\"Susanne M\u00fcller\",\"original_name\":\"Susanne M\u00fcller\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5589812ac3a3682104001f84\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":1480732,\"known_for_department\":\"Camera\",\"name\":\"Andreas Coerper\",\"original_name\":\"Andreas Coerper\",\"popularity\":1.205,\"profile_path\":null,\"credit_id\":\"65e45df29979d2017cb237b0\",\"department\":\"Camera\",\"job\":\"Director of Photography\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1881",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20453",
+        "x-memc": "HIT",
+        "x-memc-key": "73c25cfa56da6e1a03f11d48e35202d3",
+        "x-memc-age": "5586",
+        "x-memc-expires": "20453",
+        "ETag": "W\/\"2c72f3307f63c1198ef879ee0138d1d5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b5GN7EWnzimu-WJaa9UgbST2gFaq-heNUmMILiz15F9bv7A_qTqEoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fesAgiKA0pc04vScDTAQe1f9nd4.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":110000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/tomorrow-never-dies\",\"id\":714,\"imdb_id\":\"tt0120347\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Tomorrow Never Dies\",\"overview\":\"A deranged media mogul is staging international incidents to pit the world's superpowers against each other. Now James Bond must take on this evil mastermind in an adrenaline-charged battle to end his reign of terror and prevent global pandemonium.\",\"popularity\":58.866,\"poster_path\":\"\/gZm002w7q9yLOkltxT76TWGfdZX.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":10761,\"logo_path\":null,\"name\":\"Danjaq\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-12-11\",\"revenue\":333011068,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"Yesterday is a memory. Today is history. Tomorrow is in the hands of one man.\",\"title\":\"Tomorrow Never Dies\",\"video\":false,\"vote_average\":6.361,\"vote_count\":2978}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1408",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16880",
+        "x-memc": "HIT",
+        "x-memc-key": "4ef695504efb76e3d16535e78fcd3c6b",
+        "x-memc-age": "8422",
+        "x-memc-expires": "16880",
+        "ETag": "W\/\"c1a11d003e2d5ff10e27fec9cb0a998e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yofaQJaK8ZwRwqhyQiTYsiA8zjfUaRuTUuODSlDWRyUE2LUioPf3Ow=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nd6CVurZnDebDXYOuWI5eNjnFLb.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11027,\"imdb_id\":\"tt0082934\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Postman Always Rings Twice\",\"overview\":\"The sensuous wife of a lunch wagon proprietor and a rootless drifter begin a sordidly steamy affair and conspire to murder her Greek husband.\",\"popularity\":16.012,\"poster_path\":\"\/xH3sEe7AVQ1bevdKVoBqdXWu3f5.jpg\",\"production_companies\":[{\"id\":14309,\"logo_path\":null,\"name\":\"CIP Filmproduktion GmbH\",\"origin_country\":\"\"},{\"id\":1176,\"logo_path\":null,\"name\":\"Lorimar Film Entertainment\",\"origin_country\":\"US\"},{\"id\":21541,\"logo_path\":null,\"name\":\"Northstar International\",\"origin_country\":\"\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-03-20\",\"revenue\":12376625,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You can get away with anything. Once.\",\"title\":\"The Postman Always Rings Twice\",\"video\":false,\"vote_average\":6.546,\"vote_count\":475}"
+}

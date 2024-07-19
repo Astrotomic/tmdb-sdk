@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1772",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14615",
+        "x-memc": "HIT",
+        "x-memc-key": "3a848d3125feb856326e4a992d990fc0",
+        "x-memc-age": "11473",
+        "x-memc-expires": "14615",
+        "ETag": "W\/\"a80da098265e8486edc223b7d14abe1a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ElKaxbuQtX02wh7c3IyumWEth1CY9-DRFxt1betENsRomdnuY6s4Gw=="
+    },
+    "data": "{\"id\":397366,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/397366-the-origin-iii\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/397366-the-origin-iii\/watch?locale=KR\",\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]}}}"
+}

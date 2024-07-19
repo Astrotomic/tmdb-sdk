@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1560",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:26:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19844",
+        "x-memc": "HIT",
+        "x-memc-key": "1b2d15fb05a590e2b74998bbd2666a75",
+        "x-memc-age": "4609",
+        "x-memc-expires": "19844",
+        "ETag": "W\/\"5932fd75465aea4275e0764e73ee6a28\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ITm5jdoDR-tToWv-YNRu7jM9AbRm65HeP7D2ERCaGu_0lQYLjRII1g=="
+    },
+    "data": "{\"id\":222482,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1207903,\"known_for_department\":\"Acting\",\"name\":\"Vincent Rabben\",\"original_name\":\"Vincent Rabben\",\"popularity\":0.883,\"profile_path\":null,\"cast_id\":3,\"character\":\"Mathias\",\"credit_id\":\"52fe4df09251416c75145fcd\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1182420,\"known_for_department\":\"Acting\",\"name\":\"Joakim N\u00e6ss Lea\",\"original_name\":\"Joakim N\u00e6ss Lea\",\"popularity\":0.185,\"profile_path\":null,\"cast_id\":4,\"character\":\"Joansey\",\"credit_id\":\"52fe4df09251416c75145fd1\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1207904,\"known_for_department\":\"Acting\",\"name\":\"Lisa Byrkjeland Gryt\u00e5s\",\"original_name\":\"Lisa Byrkjeland Gryt\u00e5s\",\"popularity\":0.01,\"profile_path\":null,\"cast_id\":5,\"character\":\"Emma\",\"credit_id\":\"52fe4df09251416c75145fd5\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1207905,\"known_for_department\":\"Acting\",\"name\":\"Aurora N\u00f8ringset Bjordal\",\"original_name\":\"Aurora N\u00f8ringset Bjordal\",\"popularity\":0.08,\"profile_path\":null,\"cast_id\":6,\"character\":\"Heidi\",\"credit_id\":\"52fe4df09251416c75145fd9\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1182414,\"known_for_department\":\"Directing\",\"name\":\"Stian Hafstad\",\"original_name\":\"Stian Hafstad\",\"popularity\":1.651,\"profile_path\":null,\"credit_id\":\"52fe4df09251416c75145fc3\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1207902,\"known_for_department\":\"Writing\",\"name\":\"Jim Garvey\",\"original_name\":\"Jim Garvey\",\"popularity\":0.613,\"profile_path\":null,\"credit_id\":\"52fe4df09251416c75145fc9\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

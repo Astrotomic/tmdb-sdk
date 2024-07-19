@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1069",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24753",
+        "x-memc": "HIT",
+        "x-memc-key": "5619fe9edd25395f3b3710c32a209854",
+        "x-memc-age": "974",
+        "x-memc-expires": "24753",
+        "ETag": "W\/\"a09510f648577543451ddf7652027748\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YzYL-flqTERVbuqHTYlwklCt1lB5VeOFQ_Dpr-0nV97J3jlUV18Zkg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ciwmI6O3AJ6iMcmW8douCKyb9Q6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1029965,\"imdb_id\":\"tt10831460\",\"origin_country\":[\"CA\"],\"original_language\":\"fr\",\"original_title\":\"Mistral Spatial\",\"overview\":\"The evening of his break-up with Cath, Sam is victim of an inexplicable phenomenon where he loses consciousness for few hours later. Could his heartbreak be related to the hypothesis of an alien abduction?\",\"popularity\":8.561,\"poster_path\":\"\/j6WG2fWhcq9HDl1mbu5beoFfgzo.jpg\",\"production_companies\":[{\"id\":149588,\"logo_path\":null,\"name\":\"Les films de la M\u00e9duse\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2022-10-30\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mistral Spatial\",\"video\":false,\"vote_average\":7.3,\"vote_count\":3}"
+}

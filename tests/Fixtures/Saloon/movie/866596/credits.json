@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "516",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18550",
+        "x-memc": "HIT",
+        "x-memc-key": "fcf1e23be4bba1dbeec361cbe8ab3dab",
+        "x-memc-age": "4615",
+        "x-memc-expires": "18550",
+        "ETag": "W\/\"bd8bef9af5a6e7849aaabb04c1feed62\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MOTLO6xGnSNt7m1Tiwoq2JL-rzuv2aXOGZIu1_lV_cqLX_abV8Tbkg=="
+    },
+    "data": "{\"id\":866596,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":2731266,\"known_for_department\":\"Acting\",\"name\":\"Aya Natsuki\",\"original_name\":\"Aya Natsuki\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"612f044d9c24fc008fbfa3d0\",\"order\":0}],\"crew\":[{\"adult\":true,\"gender\":0,\"id\":3215203,\"known_for_department\":\"Directing\",\"name\":\"Schwarzen III\",\"original_name\":\"Schwarzen III\",\"popularity\":0.6,\"profile_path\":null,\"credit_id\":\"612a68091bf876004217c2b0\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

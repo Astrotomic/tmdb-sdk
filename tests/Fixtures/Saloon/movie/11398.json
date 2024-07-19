@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1853",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17823",
+        "x-memc": "HIT",
+        "x-memc-key": "0195f7b2d601f1d2acec4913b9496863",
+        "x-memc-age": "4572",
+        "x-memc-expires": "17823",
+        "ETag": "W\/\"c644957aafe794d48fa93fc17f1e4ec9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sBqYDD6JAFBbeEsDbtHLhvhbxFUkg6rv3H84kIdhCVx04HDdgz6Bng=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pU7l0HGEdYXLGS0Zzpn8EpJIhAD.jpg\",\"belongs_to_collection\":{\"id\":25410,\"name\":\"The Art of War Collection\",\"poster_path\":\"\/8VJpn8DZwZvKnyA3HBfQfjGKupG.jpg\",\"backdrop_path\":\"\/9G3CBEg7QlQ9MQcNgA5IwcghNYO.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":11398,\"imdb_id\":\"tt0160009\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Art of War\",\"overview\":\"When ruthless terrorists threaten to bring down the United Nations, they frame the one man they believe can stop them: an international security expert named Shaw. Now he must run from his own allies and become a solitary force for good, as he tries to stop what could become World War III.\",\"popularity\":15.908,\"poster_path\":\"\/m3DsrJC3qzm1GPzjDeb5dRXN6AF.jpg\",\"production_companies\":[{\"id\":421,\"logo_path\":null,\"name\":\"Amen Ra Films\",\"origin_country\":\"US\"},{\"id\":1403,\"logo_path\":\"\/pMTQNUhHCwr39CsS7yUmSg503E7.png\",\"name\":\"Franchise Pictures\",\"origin_country\":\"US\"},{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":40759,\"logo_path\":null,\"name\":\"Filmline International\",\"origin_country\":\"\"},{\"id\":4253,\"logo_path\":null,\"name\":\"Don Carmody Productions\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-08-25\",\"revenue\":30199105,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Do you know who your enemy is?\",\"title\":\"The Art of War\",\"video\":false,\"vote_average\":5.7,\"vote_count\":471}"
+}

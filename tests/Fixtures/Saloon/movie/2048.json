@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1671",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19240",
+        "x-memc": "HIT",
+        "x-memc-key": "35100f407f4a040136f69a6c4db84993",
+        "x-memc-age": "4889",
+        "x-memc-expires": "19240",
+        "ETag": "W\/\"7b6316846a0c4d7b49733e7465b9447b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8IwmCFDABmGwq-fMdaSJ70GT0iamUkRlPg4XRCc30ub0eEBcv7zpjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lOXVbF2mBK0xUt8sLInF3TIk5YS.jpg\",\"belongs_to_collection\":null,\"budget\":120000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":2048,\"imdb_id\":\"tt0343818\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"I, Robot\",\"overview\":\"In 2035, where robots are commonplace and abide by the three laws of robotics, a technophobic cop investigates an apparent suicide. Suspecting that a robot may be responsible for the death, his investigation leads him to believe that humanity may be in danger.\",\"popularity\":81.69,\"poster_path\":\"\/efwv6F2lGaghjPpBRSINHtoEiZB.jpg\",\"production_companies\":[{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"},{\"id\":415,\"logo_path\":null,\"name\":\"Laurence Mark Productions\",\"origin_country\":\"US\"},{\"id\":19355,\"logo_path\":null,\"name\":\"Canlaws Productions\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":907,\"logo_path\":\"\/ca5SWI5uvU985f8Kbb4xc8AmVWH.png\",\"name\":\"Overbrook Entertainment\",\"origin_country\":\"US\"},{\"id\":19354,\"logo_path\":null,\"name\":\"Mediastream Vierte Film GmbH \\u0026 Co. Vermarktungs KG\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2004-07-15\",\"revenue\":347234916,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One man saw it coming\",\"title\":\"I, Robot\",\"video\":false,\"vote_average\":6.949,\"vote_count\":11508}"
+}

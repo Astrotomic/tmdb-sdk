@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1655",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22953",
+        "x-memc": "HIT",
+        "x-memc-key": "225b8b4bdd10fac91c858ae594128eb9",
+        "x-memc-age": "3611",
+        "x-memc-expires": "22953",
+        "ETag": "W\/\"8cbe97cd651b38ca4806648cd7aa1c1a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T0q9HhMRmMD9D-8UOfFcfZIH1zQ4FlvzFVrszWqbhvT0czrxW06ADw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e1rPzkIcBEJiAd3piGirt7qVux7.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.focusfeatures.com\/hot_fuzz\",\"id\":4638,\"imdb_id\":\"tt0425112\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Hot Fuzz\",\"overview\":\"Former London constable Nicholas Angel finds it difficult to adapt to his new assignment in the sleepy British village of Sandford. Not only does he miss the excitement of the big city, but he also has a well-meaning oaf for a partner. However, when a series of grisly accidents rocks Sandford, Angel smells something rotten in the idyllic village.\",\"popularity\":63.285,\"poster_path\":\"\/zPib4ukTSdXvHP9pxGkFCe34f3y.jpg\",\"production_companies\":[{\"id\":443,\"logo_path\":\"\/wibNj4tELmsnCFlf5ldLik37Urr.png\",\"name\":\"Big Talk Studios\",\"origin_country\":\"GB\"},{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":134,\"logo_path\":null,\"name\":\"Rogue Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-02-14\",\"revenue\":80600000,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Big cops. Small town. Moderate violence.\",\"title\":\"Hot Fuzz\",\"video\":false,\"vote_average\":7.6,\"vote_count\":7344}"
+}

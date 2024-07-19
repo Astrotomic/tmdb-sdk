@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1403",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15865",
+        "x-memc": "HIT",
+        "x-memc-key": "f6cfcedfcc823b3f034c15767287b374",
+        "x-memc-age": "10747",
+        "x-memc-expires": "15865",
+        "ETag": "W\/\"9c7a85d463887b0043b3e78a8131de24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-W-enzb6R9RacqujMmoO1gsrMxZuKbXb-BGLHDN6aXDy-VxqAKs3Pg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qe2w7OSeAtiLGrKhNoZcGSwHVA7.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":4954,\"imdb_id\":\"tt0109676\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Drop Zone\",\"overview\":\"A daring prison break from an airliner at 30,000 feet leaves U.S. Marshal Pete Nessip mourning a brother and gunning for revenge. After being ordered to turn in his badge, he seeks out Jessie Crossman, a noted skydiver, and offers to sponsor her crew for the annual Independence Day parachuting show in Washington, D.C., if she trains him. Meanwhile, the mastermind behind the mid-air jailbreak is planning a daring computer theft on Independence Day.\",\"popularity\":25.276,\"poster_path\":\"\/bbveyfmq6pGrzKL0l4waeA2WHHp.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":21156,\"logo_path\":null,\"name\":\"Nicita\/Lloyd Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-12-08\",\"revenue\":28735315,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Taking crime to new heights\",\"title\":\"Drop Zone\",\"video\":false,\"vote_average\":5.7,\"vote_count\":381}"
+}

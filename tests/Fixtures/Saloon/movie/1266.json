@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1833",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23444",
+        "x-memc": "HIT",
+        "x-memc-key": "b245faef2386fecd40cdaa50fa40a019",
+        "x-memc-age": "1058",
+        "x-memc-expires": "23444",
+        "ETag": "W\/\"d6882ae2e0fc4aa376cd5f24dbad71d8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s0hlJ1wHWhk2lljpapGoL3JHjezeSvwDisiNFSqpMfoPihgwmeVWtw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h5h2zpha5480Nea2saKTyF8KNBk.jpg\",\"belongs_to_collection\":{\"id\":124881,\"name\":\"Street Kings Collection\",\"poster_path\":\"\/r0c2hR2KQsZO3vdhFQdUsnSuUef.jpg\",\"backdrop_path\":\"\/eldKjRRasDWkcjlkUFZQ08VcorU.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1266,\"imdb_id\":\"tt0421073\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Street Kings\",\"overview\":\"Tom Ludlow is a disillusioned L.A. Police Officer, rarely playing by the rules and haunted by the death of his wife. When evidence implicates him in the execution of a fellow officer, he is forced to go up against the cop culture he's been a part of his entire career, ultimately leading him to question the loyalties of everyone around him.\",\"popularity\":36.297,\"poster_path\":\"\/csXyZ1BsDBlH0PXkOFWxggEf9WF.jpg\",\"production_companies\":[{\"id\":43,\"logo_path\":\"\/4RgIPr55kBakgupWkzdDxqXJEqr.png\",\"name\":\"Fox Searchlight Pictures\",\"origin_country\":\"US\"},{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":6332,\"logo_path\":null,\"name\":\"Dune Entertainment III\",\"origin_country\":\"US\"},{\"id\":74624,\"logo_path\":null,\"name\":\"Yari Film Group (YFG)\",\"origin_country\":\"\"},{\"id\":10405,\"logo_path\":null,\"name\":\"EFO Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-04-10\",\"revenue\":66500000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"}],\"status\":\"Released\",\"tagline\":\"Their city. Their rules. No prisoners.\",\"title\":\"Street Kings\",\"video\":false,\"vote_average\":6.62,\"vote_count\":1441}"
+}

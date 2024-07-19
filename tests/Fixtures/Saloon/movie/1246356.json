@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1056",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8335",
+        "x-memc": "HIT",
+        "x-memc-key": "fe243b60cc3f2dc7327504e10d457d19",
+        "x-memc-age": "16985",
+        "x-memc-expires": "8335",
+        "ETag": "W\/\"5a671934d296e1631baed2ce401ee170\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5AfOjdhtKGo9Nxe4sxMx6owx0FUpJj3F-1w2naTLjOTE9VfvsZFe0g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pYOch5ZnYpNGGBpmqFIbnTKg4AX.jpg\",\"belongs_to_collection\":null,\"budget\":750,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":1246356,\"imdb_id\":\"tt4071416\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Earworm\",\"overview\":\"A Man with No Face wakes up in a desolate forest with only a guitar on his back, and a haunting tune in his head. Unaware of who he is, it is his connection with 2 teenage hikers that will bring out the truths about his identity.\",\"popularity\":0.976,\"poster_path\":\"\/3LLtMUWaGZhOHiRjJPN5vVTjG3J.jpg\",\"production_companies\":[{\"id\":174629,\"logo_path\":null,\"name\":\"Long Way Down Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Can't Get It Out Of My Head\",\"title\":\"Earworm\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

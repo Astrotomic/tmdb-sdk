@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1397",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14374",
+        "x-memc": "HIT",
+        "x-memc-key": "fbb3972c76496db06003b26910c830dc",
+        "x-memc-age": "13853",
+        "x-memc-expires": "14374",
+        "ETag": "W\/\"6a2ca1317598fb0faac8790be762848d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MEa9iXEQJq_UCu47Qzzf_AwRGTy8n6dAdPGi582mdu0qohs6Q5DTIg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y3BGYpWY8ZUv2kYHmyRhiKQAab3.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":10256,\"imdb_id\":\"tt0431265\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Metamorphosis\",\"overview\":\"In the Seventeenth Century, while Hungary is fighting the Turks, the population of a small village in...\",\"popularity\":11.525,\"poster_path\":\"\/3bjEVcdBm0H7HDqYSxiNc3j0xZr.jpg\",\"production_companies\":[{\"id\":49451,\"logo_path\":null,\"name\":\"SP Films Limited\",\"origin_country\":\"\"},{\"id\":1541,\"logo_path\":null,\"name\":\"Terra Film Group\",\"origin_country\":\"AT\"},{\"id\":8265,\"logo_path\":null,\"name\":\"Schmidtz Katze Filmkollektiv\",\"origin_country\":\"DE\"},{\"id\":41213,\"logo_path\":null,\"name\":\"Film-Art Kft.\",\"origin_country\":\"\"},{\"id\":49450,\"logo_path\":null,\"name\":\"CinePartners Entertainment\",\"origin_country\":\"HU\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2007-01-01\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Hungarian\",\"iso_639_1\":\"hu\",\"name\":\"Magyar\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Metamorphosis\",\"video\":false,\"vote_average\":4.3,\"vote_count\":23}"
+}

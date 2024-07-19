@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1407",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5730",
+        "x-memc": "HIT",
+        "x-memc-key": "e2543d912acb93db4a21ea5dcdba0503",
+        "x-memc-age": "18283",
+        "x-memc-expires": "5730",
+        "ETag": "W\/\"babdabf3c0782ca9417021eb03e43c6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pX1KjssWwkVI6RNpNcukg63Om8gpt0Ti3beqmqpeTVMIQkeYgAbOQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kSdHpYoGvi7u92m9ivUhSyMuExJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":224119,\"imdb_id\":\"tt0053117\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u65e5\u672c\u8a95\u751f\",\"overview\":\"The legend of the birth of Shintoism. In Fourth Century Japan, the Emperor's son Ouso expects to succeed his father on the throne, but Otomo, the Emperor's vassal, prefers Ouso's stepbrother, and conspires to have Ouso die on a dangerous mission he has contrived. But Ouso prevails in the mission and returns to his father's castle under a new name, Prince Yamato Takeru. Otomo plots to have the Prince sent into even greater danger, but Otomo is unaware that the gods have favored the Prince and the outcome is far from what any of them expected.\",\"popularity\":9.811,\"poster_path\":\"\/qJMKNuVPayFisBeyu7AHlZDngAg.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1959-11-01\",\"revenue\":3000000,\"runtime\":182,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The Birth of Japan!\",\"title\":\"The Three Treasures\",\"video\":false,\"vote_average\":5.1,\"vote_count\":9}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1290",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1189",
+        "x-memc": "HIT",
+        "x-memc-key": "434368f780e8a4cd97bed61433ae8fcc",
+        "x-memc-age": "21195",
+        "x-memc-expires": "1189",
+        "ETag": "W\/\"b43689427f0cd4ce594c676c1e4584a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tcrluUhNU0eQfxlI7ktAg5emHXVC_R_ds_9dVaZuxrRbxtWJb88ClQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h68ilwiTesb5wmDgy2mHYkVuOBP.jpg\",\"belongs_to_collection\":null,\"budget\":750000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":961,\"imdb_id\":\"tt0017925\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The General\",\"overview\":\"During America\u2019s Civil War, Union spies steal engineer Johnny Gray's beloved locomotive, 'The General'\u2014with Johnnie's lady love aboard an attached boxcar\u2014and he single-handedly must do all in his power to both get The General back and to rescue Annabelle.\",\"popularity\":37.796,\"poster_path\":\"\/nIp4gIXogCjfB1QABNsWwa9gSca.jpg\",\"production_companies\":[{\"id\":13913,\"logo_path\":null,\"name\":\"Joseph M. Schenck Productions\",\"origin_country\":\"\"},{\"id\":12190,\"logo_path\":null,\"name\":\"Buster Keaton Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1926-12-25\",\"revenue\":1000000,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"Buster drives \\\"The General\\\" to trainload of laughter.\",\"title\":\"The General\",\"video\":false,\"vote_average\":7.966,\"vote_count\":1190}"
+}

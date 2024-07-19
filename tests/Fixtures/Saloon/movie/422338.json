@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "953",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4543",
+        "x-memc": "HIT",
+        "x-memc-key": "f5459c3503ffa4f90ea734ddb5a52108",
+        "x-memc-age": "18188",
+        "x-memc-expires": "4543",
+        "ETag": "W\/\"38870e651d0cf903a2eb10fe51f1b1e1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nw1YB2fZIqZzV-O4OXsdNFJ72Hu_Q88AZdgZOdLfFCK3Oi0wWS2EbA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":422338,\"imdb_id\":\"tt0374891\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"M\u00e1gico, el enviado de los dioses\",\"overview\":\"The forces of evil threaten Monterrey but are opposed by a flying superhero named M\u00e1gico.\",\"popularity\":2.784,\"poster_path\":\"\/94dlvQfZiBWXAmvVTRimni6OVfc.jpg\",\"production_companies\":[{\"id\":111658,\"logo_path\":null,\"name\":\"Producciones Astro\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1990-01-01\",\"revenue\":0,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Magico: The Messenger of the Gods\",\"video\":false,\"vote_average\":4.5,\"vote_count\":6}"
+}

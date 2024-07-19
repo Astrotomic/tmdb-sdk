@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1491",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18163",
+        "x-memc": "HIT",
+        "x-memc-key": "9cee1367db6cfd570813126ed6b0b79c",
+        "x-memc-age": "4745",
+        "x-memc-expires": "18163",
+        "ETag": "W\/\"fe95876591c3ea994a20c8feeb36b4a6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bBM6zNn9ktj-36hM0Z-vjOILm2GJx5Irw5Q_eoqrkujY3Pg8YZCX8g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vBnXMNsQA4DMWli2GR5oiAse7Qk.jpg\",\"belongs_to_collection\":null,\"budget\":90000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":9798,\"imdb_id\":\"tt0120660\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Enemy of the State\",\"overview\":\"When the videotape of the murder of a congressman unknowingly ends up in the hands of labor lawyer and dedicated family man Robert Clayton Dean, he\u00a0is framed for the murder. With the help of the mysterious Brill, Dean attempts to throw the NSA off his trail and prove his innocence.\",\"popularity\":32.495,\"poster_path\":\"\/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":1645,\"logo_path\":\"\/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png\",\"name\":\"Scott Free Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-11-20\",\"revenue\":250649836,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's not paranoia if they're really after you.\",\"title\":\"Enemy of the State\",\"video\":false,\"vote_average\":7.037,\"vote_count\":3719}"
+}

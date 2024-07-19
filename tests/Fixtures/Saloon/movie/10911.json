@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1567",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9076",
+        "x-memc": "HIT",
+        "x-memc-key": "415ba417a0d9035ec381327c921ac0cc",
+        "x-memc-age": "14749",
+        "x-memc-expires": "9076",
+        "ETag": "W\/\"a728cd88be1526e9fe09c74275cc5bbc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zkDmUmTifl1ex5O1ItUUGZ7dme-BVZSG2VUvIYAZJLcvQN3pKQTNCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg\",\"belongs_to_collection\":{\"id\":366826,\"name\":\"Navarone Collection\",\"poster_path\":\"\/thS5HHqTi2sFq2Qfk22LhGufHkg.jpg\",\"backdrop_path\":\"\/v7TraexqaBQi4csVwunWD1tmLm5.jpg\"},\"budget\":6000000,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":10911,\"imdb_id\":\"tt0054953\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Guns of Navarone\",\"overview\":\"A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.\",\"popularity\":36.935,\"poster_path\":\"\/d5Oo0CkPO3JllDACG1DgVvGiXZE.jpg\",\"production_companies\":[{\"id\":18705,\"logo_path\":null,\"name\":\"Highroad Productions\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1961-04-27\",\"revenue\":28900000,\"runtime\":160,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"}],\"status\":\"Released\",\"tagline\":\"The Greatest High Adventure Ever Filmed!\",\"title\":\"The Guns of Navarone\",\"video\":false,\"vote_average\":7.302,\"vote_count\":758}"
+}

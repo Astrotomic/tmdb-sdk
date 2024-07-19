@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1089",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=112",
+        "x-memc": "HIT",
+        "x-memc-key": "b26456421cf798bb7078673ce79b417c",
+        "x-memc-age": "24019",
+        "x-memc-expires": "112",
+        "ETag": "W\/\"ddfdd1b9b0a2c3943aa749d28092885e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ORT9PC8Bm4N_qI8yE_ymBT7XnHmv4kwuvai91ijct--aO_IT2hpHLQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2nlNhsOpOf3n4RWVkdlF9xqeCjQ.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":793,\"imdb_id\":\"tt0090756\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Blue Velvet\",\"overview\":\"Clean-cut Jeffrey Beaumont realizes his hometown is not so normal when he discovers a human ear in a field, the investigation soon catapulting him toward a disturbed nightclub singer and a drug-addicted sadist.\",\"popularity\":58.345,\"poster_path\":\"\/7hlgzJXLgyECS1mk3LSN3E72l5N.jpg\",\"production_companies\":[{\"id\":484,\"logo_path\":\"\/y3jYroFE9tjDTx5aSOgecXV732c.png\",\"name\":\"DEG\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-09-19\",\"revenue\":8636706,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's a strange world.\",\"title\":\"Blue Velvet\",\"video\":false,\"vote_average\":7.6,\"vote_count\":3192}"
+}

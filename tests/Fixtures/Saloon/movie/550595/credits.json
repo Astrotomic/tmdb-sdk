@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3851",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10421",
+        "x-memc": "HIT",
+        "x-memc-key": "dd46a1511da56dd037e1efec55bfabc5",
+        "x-memc-age": "12536",
+        "x-memc-expires": "10421",
+        "ETag": "W\/\"51033e48f2e1a3bf8b088b5f40ae91c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ryUIm6lCygzMK1mtgVn9kVqCWAesQzC34LT4iSWln1a2tyiB7T-nGw=="
+    },
+    "data": "{\"id\":550595,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":2458030,\"known_for_department\":\"Acting\",\"name\":\"Armando Islas\",\"original_name\":\"Armando Islas\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Pablo\",\"credit_id\":\"5dcda533b2e0740012839ac7\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":63670,\"known_for_department\":\"Writing\",\"name\":\"Winston Hibler\",\"original_name\":\"Winston Hibler\",\"popularity\":9.125,\"profile_path\":null,\"cast_id\":3,\"character\":\"Narrator\",\"credit_id\":\"61df154e676ce200429f6d74\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":1749993,\"known_for_department\":\"Acting\",\"name\":\"Francesca Jarvis\",\"original_name\":\"Francesca Jarvis\",\"popularity\":4.435,\"profile_path\":\"\/4uIKKll4vgjuMmXQEwYkzrDHi2P.jpg\",\"cast_id\":11,\"character\":\"Woman\",\"credit_id\":\"61df1697a35c8e006b8c3143\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":3380185,\"known_for_department\":\"Acting\",\"name\":\"Alberto Rios\",\"original_name\":\"Alberto Rios\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":12,\"character\":\"Balero Champion\",\"credit_id\":\"61df16a9c175b20041ca2385\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":3380187,\"known_for_department\":\"Acting\",\"name\":\"Walker Tilley\",\"original_name\":\"Walker Tilley\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":13,\"character\":\"Old Man at the Mine\",\"credit_id\":\"61df16b807291c009b3c3fa1\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1144460,\"known_for_department\":\"Acting\",\"name\":\"Walter Perkins\",\"original_name\":\"Walter Perkins\",\"popularity\":1.124,\"profile_path\":null,\"credit_id\":\"5dcda51db2e074001783877c\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":63670,\"known_for_department\":\"Writing\",\"name\":\"Winston Hibler\",\"original_name\":\"Winston Hibler\",\"popularity\":9.125,\"profile_path\":null,\"credit_id\":\"61df155fbf0f630068ebce40\",\"department\":\"Production\",\"job\":\"Co-Producer\"},{\"adult\":false,\"gender\":0,\"id\":82680,\"known_for_department\":\"Writing\",\"name\":\"Robert F. Metzler\",\"original_name\":\"Robert F. Metzler\",\"popularity\":0.711,\"profile_path\":null,\"credit_id\":\"61df15af2811a10069740c05\",\"department\":\"Production\",\"job\":\"Production Coordinator\"},{\"adult\":false,\"gender\":2,\"id\":57337,\"known_for_department\":\"Sound\",\"name\":\"George Bruns\",\"original_name\":\"George Bruns\",\"popularity\":4.868,\"profile_path\":null,\"credit_id\":\"61df15bfc175b2001c8be864\",\"department\":\"Sound\",\"job\":\"Original Music Composer\"},{\"adult\":false,\"gender\":0,\"id\":58008,\"known_for_department\":\"Editing\",\"name\":\"G. Gregg McLaughlin\",\"original_name\":\"G. Gregg McLaughlin\",\"popularity\":1.464,\"profile_path\":null,\"credit_id\":\"61df15d5676ce2001a72d4d5\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":1128230,\"known_for_department\":\"Production\",\"name\":\"Erwin L. Verity\",\"original_name\":\"Erwin L. Verity\",\"popularity\":3.603,\"profile_path\":null,\"credit_id\":\"61df15e5a6fdaa001d9dce4a\",\"department\":\"Production\",\"job\":\"Production Manager\"},{\"adult\":false,\"gender\":2,\"id\":68654,\"known_for_department\":\"Writing\",\"name\":\"Homer Brightman\",\"original_name\":\"Homer Brightman\",\"popularity\":8.863,\"profile_path\":null,\"credit_id\":\"61df1657bf0f63009a10513c\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":0,\"id\":2989618,\"known_for_department\":\"Writing\",\"name\":\"Paul Lucey\",\"original_name\":\"Paul Lucey\",\"popularity\":0.02,\"profile_path\":null,\"credit_id\":\"61df1667a35c8e001d5509fb\",\"department\":\"Writing\",\"job\":\"Teleplay\"},{\"adult\":false,\"gender\":0,\"id\":1021730,\"known_for_department\":\"Directing\",\"name\":\"Frank Zuniga\",\"original_name\":\"Frank Zuniga\",\"popularity\":0.122,\"profile_path\":null,\"credit_id\":\"61df16cdc175b2008a69d807\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":0,\"id\":3380188,\"known_for_department\":\"Sound\",\"name\":\"Tom Harvey\",\"original_name\":\"Tom Harvey\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"61df170812425c004489feab\",\"department\":\"Sound\",\"job\":\"Sound\"}]}"
+}

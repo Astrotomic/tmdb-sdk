@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1060",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20451",
+        "x-memc": "HIT",
+        "x-memc-key": "d7a74a1303e5987f10ec4a8539c1e6c3",
+        "x-memc-age": "4819",
+        "x-memc-expires": "20451",
+        "ETag": "W\/\"43432731d010dfd8c38bb3afb55d3930\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y-kwhNrHcepKsZxHAfKipxMvqw1QDkhRfv3vsAe4Xj6ulpbX7UC7UQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.ericbizzarri.com\/pressure-play\",\"id\":697218,\"imdb_id\":\"tt7953782\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Pressure Play\",\"overview\":\"Fraser, 17, is a shy and introverted only child, but he speaks volumes on the court through his passion for basketball. Fraser has a chance to prove himself when the coach catches him practicing after school hours.\",\"popularity\":2.303,\"poster_path\":\"\/uCy5PEzCgaNGPKPEfX36BH8fQfP.jpg\",\"production_companies\":[{\"id\":135291,\"logo_path\":null,\"name\":\"Eric Bizzarri Films\",\"origin_country\":\"\"},{\"id\":135292,\"logo_path\":null,\"name\":\"Ineight Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2020-06-06\",\"revenue\":0,\"runtime\":16,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pressure Play\",\"video\":false,\"vote_average\":8.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1136",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5539",
+        "x-memc": "HIT",
+        "x-memc-key": "156c409c3905a7009894e8f61608b5a4",
+        "x-memc-age": "19452",
+        "x-memc-expires": "5539",
+        "ETag": "W\/\"699cb94e0cf8db05462af8241af77c31\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NnJ-2RNLfjsHR-JU5O3vnMo76rWzlygJDgbqigNUu4HAWXro773e_g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qtxccFr9lAE9eRNo3diQ4Auawho.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/mondays-cinema.com\/\",\"id\":1040496,\"imdb_id\":\"tt27510455\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"MONDAYS\uff0f\u3053\u306e\u30bf\u30a4\u30e0\u30eb\u30fc\u30d7\u3001\u4e0a\u53f8\u306b\u6c17\u3065\u304b\u305b\u306a\u3044\u3068\u7d42\u308f\u3089\u306a\u3044\",\"overview\":\"Akemi Yoshikawa discovers that her whole office is stuck in a time loop, repeating the same stressful work week over and over. Together with her colleagues she has to find out how to break the loop.\",\"popularity\":18.246,\"poster_path\":\"\/kutBnfxGLMfhqGh5wxpdZ0evuum.jpg\",\"production_companies\":[{\"id\":153765,\"logo_path\":\"\/aOXLMR1DZF0pgY7gKMVORdHECO4.png\",\"name\":\"CHOCOLATE\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2022-10-14\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mondays: See You 'This' Week!\",\"video\":true,\"vote_average\":6.512,\"vote_count\":42}"
+}

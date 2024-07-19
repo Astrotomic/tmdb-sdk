@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3881",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5745",
+        "x-memc": "HIT",
+        "x-memc-key": "07c3a9b92c7030fc11d63a79d18a90a4",
+        "x-memc-age": "17633",
+        "x-memc-expires": "5745",
+        "ETag": "W\/\"c3720913540887b675a30e31a8809687\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mTDnu1JZaxjKL5-yTJRu38KgPXjI-LYtDQJFPJmebHGkYFFq0RJVeg=="
+    },
+    "data": "{\"id\":16440,\"results\":{\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=AU\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":10},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":13},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":21},{\"logo_path\":\"\/9B7l9ZSos54kFrZbliVExt2z9C9.jpg\",\"provider_id\":436,\"provider_name\":\"Fetch TV\",\"display_priority\":31}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":10},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":13},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":21},{\"logo_path\":\"\/9B7l9ZSos54kFrZbliVExt2z9C9.jpg\",\"provider_id\":436,\"provider_name\":\"Fetch TV\",\"display_priority\":31}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=IE\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=NL\",\"rent\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}]},\"NZ\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=NZ\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":6},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":9}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":6},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":9}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16440-tales-of-the-black-freighter\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

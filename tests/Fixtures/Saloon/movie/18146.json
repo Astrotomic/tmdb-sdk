@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1439",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14487",
+        "x-memc": "HIT",
+        "x-memc-key": "a29e5050eaac87b75c0a73c7f41bdb0a",
+        "x-memc-age": "10499",
+        "x-memc-expires": "14487",
+        "ETag": "W\/\"3d1ec628a801323388cb92968c6c9849\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "knTXqBtQHZm8gLKgg4ovMyn_xApAjbuf_twDGCao2p17myb88zb-OQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z2FgyLq9sL3K6xBSEnwKZRM7ANE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":18146,\"imdb_id\":\"tt0053399\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Up Periscope\",\"overview\":\"Lieutenant Braden discovers that Sally, the woman he's been falling in love with, has actually been checking out his qualifications to be a U.S. Navy frogman. He must put his personal life behind him after being assigned to be smuggled into a Japanese-held island via submarine to photograph radio codes.\",\"popularity\":10.814,\"poster_path\":\"\/1t0Zo7y4L7PSJV1T5K5JM8HFQqw.jpg\",\"production_companies\":[{\"id\":8476,\"logo_path\":null,\"name\":\"Lakeside Productions\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":1347,\"logo_path\":null,\"name\":\"Aubrey Schenck Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1959-03-04\",\"revenue\":0,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The man they called the 'human torpedo' - the secret underwater marauder who hit like no man hit before!\",\"title\":\"Up Periscope\",\"video\":false,\"vote_average\":6.2,\"vote_count\":30}"
+}

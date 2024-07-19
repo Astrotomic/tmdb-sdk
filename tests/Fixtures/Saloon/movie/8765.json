@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1655",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7524",
+        "x-memc": "HIT",
+        "x-memc-key": "4d3b455ddfa6c1bb019fc8b6be0fcc18",
+        "x-memc-age": "14475",
+        "x-memc-expires": "7524",
+        "ETag": "W\/\"e5ff1e4c86819a8af26c159c0f312de8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eox11Fxq9A_NxNZYdJqXWFshTog7awcPMRWWc3Xwfcs7883DmxwMkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6MIcir1IlXCCLGfyg1VZwwYeUpG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":8765,\"imdb_id\":\"tt0119794\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Nirvana\",\"overview\":\"Jimi, a computer game designer, finds that his latest product has been infected by a virus which has given consciousness to the main character of the game, Solo. Tormented by the memory of his fled girlfriend Lisa and begged by Solo to end its useless \\\"life\\\", Jimi begins a search for people who can help him both to discover what happened to Lisa and to delete his game before it is released.\",\"popularity\":13.138,\"poster_path\":\"\/1UXk8P1qY3PadOdSj5qk1qBXWMy.jpg\",\"production_companies\":[{\"id\":2534,\"logo_path\":\"\/6aizJC0RRO5oprJMYf2PBAB7lyZ.png\",\"name\":\"Colorado Film\",\"origin_country\":\"IT\"},{\"id\":342,\"logo_path\":\"\/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png\",\"name\":\"Davis Films\",\"origin_country\":\"FR\"},{\"id\":152915,\"logo_path\":null,\"name\":\"Colorado Film Production\",\"origin_country\":\"\"},{\"id\":371,\"logo_path\":null,\"name\":\"Cecchi Gori\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1997-01-24\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"This game is so advanced... it's deadly.\",\"title\":\"Nirvana\",\"video\":false,\"vote_average\":6.509,\"vote_count\":270}"
+}

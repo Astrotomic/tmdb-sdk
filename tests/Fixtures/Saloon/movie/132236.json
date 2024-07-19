@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1013",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21119",
+        "x-memc": "HIT",
+        "x-memc-key": "ccc64d6a7d9f2d0d0b61a3cfdcb01b70",
+        "x-memc-age": "3231",
+        "x-memc-expires": "21119",
+        "ETag": "W\/\"6bff08beb08fc34304ddf2d113eafb00\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4v9cSRZj36dAdHWp2w2ofno2IWzmpixRsBfOyscEXlUbBB8FLyMG9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m2fwy8KXMfT6JMj5FhukEZ8pVEm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.farawayeyes-movie.com\/\",\"id\":132236,\"imdb_id\":\"tt1478804\",\"origin_country\":[\"HK\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Four Assassins\",\"overview\":\"Four assassins meet in a hotel suite to resolve unfinished business. A tense drama set in the cosmopolitan world of Hong Kong.\",\"popularity\":3.851,\"poster_path\":\"\/kC4zQw8Vfa9mmVeuOUQxrK9wcPV.jpg\",\"production_companies\":[{\"id\":145333,\"logo_path\":null,\"name\":\"Studio Strada\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-05-14\",\"revenue\":0,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's A Matter Of Love And Death.\",\"title\":\"Four Assassins\",\"video\":false,\"vote_average\":4.3,\"vote_count\":12}"
+}

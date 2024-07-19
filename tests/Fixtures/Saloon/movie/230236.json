@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1131",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11561",
+        "x-memc": "HIT",
+        "x-memc-key": "d84bfc05c585e65e32960afa43b88505",
+        "x-memc-age": "17025",
+        "x-memc-expires": "11561",
+        "ETag": "W\/\"0484dce33257b1116a13f43ecce8fe89\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AAnJIcSU38Bsf341PED5lsTq99bKM_lLipQ7piBcq1dE3pVDVACwyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/25E0J6LxgcRtgBszTZEMjHZCdIU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":230236,\"imdb_id\":\"tt0097144\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u4ee3\u53f7\u7f8e\u6d32\u8c79\",\"overview\":\"A commercial airliner on a routine flight between Taipei and Seoul is hijacked and taken to mainland China by the Taiwan Revolutionary Army Front. Chinese authorities cannot seize the plane because of the presence of an important business figure on board, but agree to cooperate with Taiwanese authorities to defuse the tense situation.\",\"popularity\":6.808,\"poster_path\":\"\/bGWncJbmmiQQnKh5mg2alC8cyFE.jpg\",\"production_companies\":[{\"id\":4582,\"logo_path\":null,\"name\":\"Xi'an Film Studio\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"1989-11-29\",\"revenue\":0,\"runtime\":76,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Code Name: Cougar\",\"video\":false,\"vote_average\":5.5,\"vote_count\":10}"
+}

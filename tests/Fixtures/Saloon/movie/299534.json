@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1550",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24292",
+        "x-memc": "HIT",
+        "x-memc-key": "9ae98d03b3c1e66d39a5942378d25e0a",
+        "x-memc-age": "682",
+        "x-memc-expires": "24292",
+        "ETag": "W\/\"cdca3d96ae08e51684d227fb94e18cf8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GSfOwEzvoBWP3zVXWzfVsRuqRgSm4jQiUBHMFjFYMF8b7azS0esqYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg\",\"belongs_to_collection\":{\"id\":86311,\"name\":\"The Avengers Collection\",\"poster_path\":\"\/yFSIUVTCvgYrpalUktulvk3Gi5Y.jpg\",\"backdrop_path\":\"\/zuW6fOiusv4X9nnW3paHGfXcSll.jpg\"},\"budget\":356000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.marvel.com\/movies\/avengers-endgame\",\"id\":299534,\"imdb_id\":\"tt4154796\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Avengers: Endgame\",\"overview\":\"After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.\",\"popularity\":131.675,\"poster_path\":\"\/or06FN3Dka5tukK1e9sl16pB3iy.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-04-24\",\"revenue\":2799439100,\"runtime\":181,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Xhosa\",\"iso_639_1\":\"xh\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Avenge the fallen.\",\"title\":\"Avengers: Endgame\",\"video\":false,\"vote_average\":8.254,\"vote_count\":25094}"
+}

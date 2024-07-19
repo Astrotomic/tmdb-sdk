@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22310",
+        "x-memc": "HIT",
+        "x-memc-key": "f9a9f629f9e92a030bf98b58a130cde3",
+        "x-memc-age": "1212",
+        "x-memc-expires": "22310",
+        "ETag": "W\/\"ca16a9a6b589a3ac0f0db76549c7ace9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "y6lBXRcOvuDZJaZW6gyzUryKhO3wQE0ieR2jDjGNNLxY6P6oxzeogQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.irishcatholicmovie.com\",\"id\":1176570,\"imdb_id\":\"tt13671010\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Irish Catholic\",\"overview\":\"Meet Shavon O'Brien:  Her family doesn't understand her, her church ignores her, even Jesus forgets about her. With only the spirit of Sinead O'Connor to guide her, Shavon battles institutional child abuse, narcissistic group think, a talking stomach and a singing poop bucket! Shavon goes from Catholic to Crusty Punk in this very, very, very, dark musical comedy!\",\"popularity\":0.991,\"poster_path\":\"\/vnmmfbrncCMlhADrZc2jVGx198f.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2023-10-06\",\"revenue\":0,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Guilt. Punishment. Potatoes.\",\"title\":\"Irish Catholic\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

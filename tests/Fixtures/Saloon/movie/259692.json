@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "979",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1961",
+        "x-memc": "HIT",
+        "x-memc-key": "804148381e0ba238c8d253c0b102de97",
+        "x-memc-age": "20516",
+        "x-memc-expires": "1961",
+        "ETag": "W\/\"aed578fa5f1e2d7956656993afa3e8e9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FrF4ZNMdTfdjnh4U4heWcj5bO8s6sZTwXNIE2gqV-l6WgxJYbz28_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kyXhsIdS9joQcdcqggh86hOibIy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":259692,\"imdb_id\":\"tt0048047\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Eternal Sea\",\"overview\":\"Biography of Admiral John Hoskins' efforts to retain active command despite WW2 injury.\",\"popularity\":5.491,\"poster_path\":\"\/g69kQaqSrRHF0B2Rokz2Yk2Phvy.jpg\",\"production_companies\":[{\"id\":1432,\"logo_path\":\"\/8AcaWEWQ8MFUBGlt9WxGGBAMpMG.png\",\"name\":\"Republic Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1955-04-19\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Hollywood Now Brings You a Story of Heroic Greatness...\",\"title\":\"The Eternal Sea\",\"video\":false,\"vote_average\":6.4,\"vote_count\":7}"
+}

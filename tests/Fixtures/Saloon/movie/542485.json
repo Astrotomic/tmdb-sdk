@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "867",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7028",
+        "x-memc": "HIT",
+        "x-memc-key": "cdc7a19706abd05e5686dc728a2c822a",
+        "x-memc-age": "18984",
+        "x-memc-expires": "7028",
+        "ETag": "W\/\"5c9712306a0160ef5918a957ebcee01a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iBIHUcoqKWh9Wrm6b8908nVr6lOYjUdBQ33zqt2-vzLeORIMWob35g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":542485,\"imdb_id\":\"tt0290253\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Ojo por Ojo\",\"overview\":\"A couple is attacked bu thugs and the woman is killed, the boyfriend plans his revenge.\",\"popularity\":3.256,\"poster_path\":\"\/e0iw26aFJn9q3IzYD0H1nY9fQ2A.jpg\",\"production_companies\":[{\"id\":73570,\"logo_path\":null,\"name\":\"Producciones del Rey\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1981-10-08\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ojo por Ojo\",\"video\":false,\"vote_average\":4.7,\"vote_count\":3}"
+}

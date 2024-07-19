@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1346",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9674",
+        "x-memc": "HIT",
+        "x-memc-key": "2cb87c421f2d84fe061952bc1236b53f",
+        "x-memc-age": "13058",
+        "x-memc-expires": "9674",
+        "ETag": "W\/\"3a327afa113dd76f157f8ffe5b61e055\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Yn9sUf4ZlmCQe2Mdsz4S4_QNNM4C3U7S9g_qk3cYhgnVWFFLhog46Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wCLbSw3hSQBB0iwruUzuDvMq37D.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":542787,\"imdb_id\":\"tt8805150\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frenzy\",\"overview\":\"A group of friends run a popular travel vlog that helps fund their adventures. The leader of the group brings along her younger sister for the next scuba diving trip to an isolated cove. But when their plane crashes, the two sisters must use their strength, resourcefulness and immense courage to survive a pack of great white sharks.\",\"popularity\":14.916,\"poster_path\":\"\/kkTLgg5BkDFIuiRVESg8rRpsRbh.jpg\",\"production_companies\":[{\"id\":112870,\"logo_path\":null,\"name\":\"Shark Pack LD\",\"origin_country\":\"\"},{\"id\":77827,\"logo_path\":null,\"name\":\"Slightly Distorted Productions\",\"origin_country\":\"\"},{\"id\":6854,\"logo_path\":null,\"name\":\"Benetone Films\",\"origin_country\":\"TH\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-08-15\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Survival is her only option\",\"title\":\"Frenzy\",\"video\":false,\"vote_average\":3.8,\"vote_count\":57}"
+}

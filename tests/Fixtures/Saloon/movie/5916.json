@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1376",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24237",
+        "x-memc": "HIT",
+        "x-memc-key": "14651acf01c73547a33f997649f9fd42",
+        "x-memc-age": "1054",
+        "x-memc-expires": "24237",
+        "ETag": "W\/\"e36250975c29174b3236b1d44cef2400\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F2Il7tqn5piwmGGddFgkIVRgrFaikhXUoisLCZLdSC40w6bl-_GkTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zOU9FbeyMxaT6Aj2sNZMffXLOcW.jpg\",\"belongs_to_collection\":null,\"budget\":3352254,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":5916,\"imdb_id\":\"tt0068638\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Getaway\",\"overview\":\"A recently released ex-convict and his loyal wife go on the run after a heist goes wrong.\",\"popularity\":19.537,\"poster_path\":\"\/8SvnGUJsr16zUJ2CN7ONX1ZWtZ8.jpg\",\"production_companies\":[{\"id\":93222,\"logo_path\":null,\"name\":\"Foster-Brower Productions\",\"origin_country\":\"\"},{\"id\":4376,\"logo_path\":\"\/2shIzUFntbS03EEQfryoC23Ridh.png\",\"name\":\"First Artists\",\"origin_country\":\"US\"},{\"id\":599,\"logo_path\":null,\"name\":\"Solar Productions\",\"origin_country\":\"\"},{\"id\":7698,\"logo_path\":null,\"name\":\"National General Pictures\",\"origin_country\":\"\"},{\"id\":219009,\"logo_path\":null,\"name\":\"Tatiana Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1972-12-13\",\"revenue\":36734619,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"It takes two to make it \u2026 The big two.\",\"title\":\"The Getaway\",\"video\":false,\"vote_average\":7.1,\"vote_count\":536}"
+}

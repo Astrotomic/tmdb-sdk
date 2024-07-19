@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1037",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2764",
+        "x-memc": "HIT",
+        "x-memc-key": "a42f487eae796b0ef4c3edcc20addfbc",
+        "x-memc-age": "20361",
+        "x-memc-expires": "2764",
+        "ETag": "W\/\"a35ad323a0ac1418169695bd1765a1aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c7uOY8ZOYsSDmwAzgc772NZPcsyPlgJiJOdB5bbTMXNiHV3qGx2TLQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qt5scNafDllSLu4t5qUnL7poF7Q.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":298865,\"imdb_id\":\"tt3397556\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Lost After Dark\",\"overview\":\"A group of teens sneak out of their high school dance to cruise around and have some unsupervised fun. When their car runs out of gas on a deserted road, they discover an old farmhouse and the cannibal killer living inside.\",\"popularity\":9.346,\"poster_path\":\"\/u49uk8kA3qrmUY40GAsXCjjMFrb.jpg\",\"production_companies\":[{\"id\":53169,\"logo_path\":null,\"name\":\"Goldrush Entertainment\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2014-09-19\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"And you thought the '80s were dead...\",\"title\":\"Lost After Dark\",\"video\":false,\"vote_average\":4.472,\"vote_count\":72}"
+}

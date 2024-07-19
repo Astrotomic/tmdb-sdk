@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "923",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11763",
+        "x-memc": "HIT",
+        "x-memc-key": "02e6fc8873379852feb3d85487700c10",
+        "x-memc-age": "10353",
+        "x-memc-expires": "11763",
+        "ETag": "W\/\"5bc460a8a9cb11e8ad608b7533ee91c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V98Zao0AInOlbM_pwEpx8V85FohEMQt2O84QO08GkAh-1nkqhXDGeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/b0cK4FDQADySJnrYiSgwCYIGBPc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"https:\/\/otamaniki.com\/ca\/\",\"id\":1022306,\"imdb_id\":null,\"origin_country\":[\"ES\"],\"original_language\":\"ja\",\"original_title\":\"Otamaniki\",\"overview\":\"Biopic filmed in a single shot about the Majorcan musician Juanjo Monserrat.\",\"popularity\":4.539,\"poster_path\":\"\/uqxlWx4A9Tnzv1BfxjYXbF0ZlbN.jpg\",\"production_companies\":[{\"id\":112310,\"logo_path\":null,\"name\":\"Far Visuals\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2021-11-26\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In the time a song lasts, my life changed forever.\",\"title\":\"Otamaniki\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1509",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17053",
+        "x-memc": "HIT",
+        "x-memc-key": "41e53c54856baca268cccef7c6452c5d",
+        "x-memc-age": "7975",
+        "x-memc-expires": "17053",
+        "ETag": "W\/\"9f9a942de8a7c5c9762f4f933eee4c33\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6yhu1CWtBVF820gPpXRLuZEMFfhVa077q1FZOwyJccZkMtYPzBvlog=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aPvy5AX0CK7n4DOHBhVw4X2puDP.jpg\",\"belongs_to_collection\":null,\"budget\":2200000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":994,\"imdb_id\":\"tt0067800\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Straw Dogs\",\"overview\":\"David Sumner, a mild-mannered academic from the United States, marries Amy, an Englishwoman. In order to escape a hectic stateside lifestyle, David and his wife relocate to the small town in rural Cornwall where Amy was raised. There, David is ostracized by the brutish men of the village, including Amy's old flame, Charlie. Eventually the taunts escalate, and two of the locals rape Amy. This sexual assault awakes a shockingly violent side of David.\",\"popularity\":31.888,\"poster_path\":\"\/yigkfHE1OhkxPPrjrV78Y9ibGEk.jpg\",\"production_companies\":[{\"id\":634,\"logo_path\":null,\"name\":\"ABC Pictures\",\"origin_country\":\"US\"},{\"id\":18201,\"logo_path\":null,\"name\":\"Talent Associates\",\"origin_country\":\"US\"},{\"id\":211652,\"logo_path\":null,\"name\":\"Amerbroco Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1971-11-25\",\"revenue\":3251794,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In the Face of Every Coward Burns a Straw Dog.\",\"title\":\"Straw Dogs\",\"video\":false,\"vote_average\":7.157,\"vote_count\":908}"
+}

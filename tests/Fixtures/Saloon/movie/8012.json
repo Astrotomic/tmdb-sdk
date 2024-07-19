@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1547",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2860",
+        "x-memc": "HIT",
+        "x-memc-key": "79124e5c3e2bf342ad432f9a69f74c9a",
+        "x-memc-age": "19885",
+        "x-memc-expires": "2860",
+        "ETag": "W\/\"d84909fd92dae878679674712041d97c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6MESG6_yRMRlGYPvl8ZZkKDU6k3_FwZvf4K5-y4WT8fpX67k3gR5Lw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wiZT8DVmAZNwmqd8G3QjWZ1mpLB.jpg\",\"belongs_to_collection\":{\"id\":91698,\"name\":\"Chili Palmer Collection\",\"poster_path\":\"\/klwDyihoCqOZ19lMwtlaaSCGH2w.jpg\",\"backdrop_path\":\"\/6KEpKs5asAqOwEr9XrOZJSMHW7O.jpg\"},\"budget\":30250000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":8012,\"imdb_id\":\"tt0113161\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Get Shorty\",\"overview\":\"Chili Palmer is a Miami mobster who gets sent by his boss, the psychopathic \\\"Bones\\\" Barboni, to collect a bad debt from Harry Zimm, a Hollywood producer who specializes in cheesy horror films. When Chili meets Harry's leading lady, the romantic sparks fly. After pitching his own life story as a movie idea, Chili learns that being a mobster and being a Hollywood producer really aren't all that different.\",\"popularity\":30.554,\"poster_path\":\"\/r82SdPhg4fnIcLt0ogIjQxqjdcO.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":216,\"logo_path\":\"\/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png\",\"name\":\"Jersey Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-10-20\",\"revenue\":115101622,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Attitude plays a part.\",\"title\":\"Get Shorty\",\"video\":false,\"vote_average\":6.475,\"vote_count\":1006}"
+}

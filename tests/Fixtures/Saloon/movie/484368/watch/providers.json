@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "827",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5529",
+        "x-memc": "HIT",
+        "x-memc-key": "91502e6d084a802a7a160236872679a6",
+        "x-memc-age": "16109",
+        "x-memc-expires": "5529",
+        "ETag": "W\/\"80f2bfb98d129a2903d2774fe509f2c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iLfXQ0pCURQwZ5JN9JV4Qqaqu_3-YdF8jXuMyfMUwiu-67QAe9CrMg=="
+    },
+    "data": "{\"id\":484368,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/484368-the-valley\/watch?locale=GB\",\"ads\":[{\"logo_path\":\"\/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg\",\"provider_id\":613,\"provider_name\":\"Freevee\",\"display_priority\":18}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/484368-the-valley\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg\",\"provider_id\":386,\"provider_name\":\"Peacock\",\"display_priority\":13}],\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"ads\":[{\"logo_path\":\"\/4VOCKZGiAtXMtoDyOrvHAN33uc2.jpg\",\"provider_id\":613,\"provider_name\":\"Freevee\",\"display_priority\":171}],\"buy\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

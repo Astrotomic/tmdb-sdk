@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "991",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4296",
+        "x-memc": "HIT",
+        "x-memc-key": "61b71e5a9df52652a52a513890b71c5c",
+        "x-memc-age": "22668",
+        "x-memc-expires": "4296",
+        "ETag": "W\/\"88d033ab1f3080c7d0f7048eb28b6c05\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KcdUNYIocyp_u54fO-1K1dG0h0LTL9p8CbswFk5rL9zlQRXP0O_Gxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":559131,\"imdb_id\":\"tt0368465\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"Zorro\",\"overview\":\"After fathering a child, Maharaj Bahadur Singh marries and starts a family. One of his sons grows up to usurp him, the other to be Zorro.\",\"popularity\":5.356,\"poster_path\":\"\/lXkch7s2l42XyzhWCqXeu48nx8Q.jpg\",\"production_companies\":[{\"id\":83145,\"logo_path\":\"\/nf8VCbn5ctoU7ihWKPWGAYVGhrW.png\",\"name\":\"NH Studioz\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"1975-10-31\",\"revenue\":0,\"runtime\":150,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Zorro\",\"video\":false,\"vote_average\":7.5,\"vote_count\":4}"
+}

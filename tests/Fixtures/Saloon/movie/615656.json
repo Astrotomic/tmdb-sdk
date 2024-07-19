@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1846",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11762",
+        "x-memc": "HIT",
+        "x-memc-key": "d2abeed87f90247d754e73d23f72bdbd",
+        "x-memc-age": "12807",
+        "x-memc-expires": "11762",
+        "ETag": "W\/\"78bc040078ae9060bfbd2cc94a766340\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0bzbDfk2rotg1gNbuQGlraXVqcNcU90WNEUduBGnAB7ll5znqMZZsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5mzr6JZbrqnqD8rCEvPhuCE5Fw2.jpg\",\"belongs_to_collection\":{\"id\":742536,\"name\":\"The Meg Collection\",\"poster_path\":\"\/rbacYOwij2bEIvO0gKUF2funWKp.jpg\",\"backdrop_path\":\"\/rNoyJmjdhgn30bVbvd8n3DJMocB.jpg\"},\"budget\":129000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.themeg.movie\",\"id\":615656,\"imdb_id\":\"tt9224104\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Meg 2: The Trench\",\"overview\":\"An exploratory dive into the deepest depths of the ocean of a daring research team spirals into chaos when a malevolent mining operation threatens their mission and forces them into a high-stakes battle for survival.\",\"popularity\":163.883,\"poster_path\":\"\/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg\",\"production_companies\":[{\"id\":56242,\"logo_path\":\"\/1YORRYmg7hgYIgoJek8jU3cykuQ.png\",\"name\":\"Apelles Entertainment\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":435,\"logo_path\":\"\/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png\",\"name\":\"di Bonaventura Pictures\",\"origin_country\":\"US\"},{\"id\":92484,\"logo_path\":\"\/dfWwoWRp8snHjzDKO5IFkiCAUe7.png\",\"name\":\"CMC Pictures\",\"origin_country\":\"CN\"},{\"id\":208094,\"logo_path\":null,\"name\":\"Onaroll Productions\",\"origin_country\":\"\"},{\"id\":65442,\"logo_path\":\"\/mAAUTVBF4KGW4QxESHWg4N8pLdF.png\",\"name\":\"DF Pictures\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-08-02\",\"revenue\":384056482,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Back for seconds.\",\"title\":\"Meg 2: The Trench\",\"video\":false,\"vote_average\":6.534,\"vote_count\":3238}"
+}

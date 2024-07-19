@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3594",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19681",
+        "x-memc": "HIT",
+        "x-memc-key": "fa4043e12547fbf42155404b1f245320",
+        "x-memc-age": "4790",
+        "x-memc-expires": "19681",
+        "ETag": "W\/\"bd5039d757f55dfa7a8ad9ee7354faa4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jOy9ee_3-LDhHvRs97N1ea_gR6500rsHJV8ZWH1n1tDhwCg-2DS-iA=="
+    },
+    "data": "{\"id\":342,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/342-sommersturm\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":14}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/342-sommersturm\/watch?locale=CH\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/342-sommersturm\/watch?locale=DE\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":14},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":18}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":14},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":18}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/342-sommersturm\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}],\"buy\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/342-sommersturm\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

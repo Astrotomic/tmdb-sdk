@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1475",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12809",
+        "x-memc": "HIT",
+        "x-memc-key": "f785f97367da20a8df73580d1d528f77",
+        "x-memc-age": "12672",
+        "x-memc-expires": "12809",
+        "ETag": "W\/\"c129feccd7ed2e04ee60934a4d1e3292\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "foGH_7CnhAWZ4aab9_VMTcm06z4R2Tdo8XLW-PmhZbXBu8POtltu0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3dhuShnYmB0UOQrn8v8gT9DBf0T.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.storks-movie.net\/\",\"id\":332210,\"imdb_id\":\"tt4624424\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Storks\",\"overview\":\"Storks deliver babies\u2026or at least they used to. Now they deliver packages for a global internet retail giant. Junior, the company\u2019s top delivery stork, is about to be promoted when he accidentally activates the Baby Making Machine, producing an adorable and wholly unauthorized baby girl...\",\"popularity\":37.936,\"poster_path\":\"\/pwGolX8JmGJhhcUjO5SJt38Uk0m.jpg\",\"production_companies\":[{\"id\":41624,\"logo_path\":\"\/wzKxIeQKlMP0y5CaAw25MD6EQmf.png\",\"name\":\"RatPac Entertainment\",\"origin_country\":\"US\"},{\"id\":25120,\"logo_path\":\"\/gBFx9mk2berTzRAyuZFKjxB7zz3.png\",\"name\":\"Warner Bros. Pictures Animation\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-09-22\",\"revenue\":182379278,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Find Your Flock\",\"title\":\"Storks\",\"video\":false,\"vote_average\":6.65,\"vote_count\":2286}"
+}

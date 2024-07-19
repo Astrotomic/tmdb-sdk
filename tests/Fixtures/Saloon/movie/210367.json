@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1053",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3077",
+        "x-memc": "HIT",
+        "x-memc-key": "5bb8c89a3da3632928d522dd39e1fc80",
+        "x-memc-age": "22591",
+        "x-memc-expires": "3077",
+        "ETag": "W\/\"4a57b94d5ce7d59968b1beaebd6c7d27\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u2UKwz2kq0Tuy6VySTpbog0NL3z_9YdtrdOVa1p3-jS9w28KsSE86g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"http:\/\/douglasadams.com\/creations\/hype.html\",\"id\":210367,\"imdb_id\":\"tt0188677\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Hyperland\",\"overview\":\"This made-for-TV documentary introduces the layperson to concepts and technologies that were emerging in computer interface design in the late 1980s and early 1990s: hypertext, multimedia, virtual assistants, interactive video, 3D animation, and virtual reality.\",\"popularity\":5.8,\"poster_path\":\"\/7HwOIYR9p4mxDutsNAzMTBHBV0U.jpg\",\"production_companies\":[{\"id\":3324,\"logo_path\":\"\/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png\",\"name\":\"BBC\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1990-09-21\",\"revenue\":0,\"runtime\":49,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hyperland\",\"video\":false,\"vote_average\":7.0,\"vote_count\":5}"
+}

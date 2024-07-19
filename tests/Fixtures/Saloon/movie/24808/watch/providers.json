@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1210",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7097",
+        "x-memc": "HIT",
+        "x-memc-key": "77f2a59d83aac5340a42b996539a35dc",
+        "x-memc-age": "15003",
+        "x-memc-expires": "7097",
+        "ETag": "W\/\"874f174913ac7d213e60893905ab62f3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7obx5olawg7tamDCRoufdjIfjzoDtIpf5xw9mEqdO4_x9w6H82Ncyg=="
+    },
+    "data": "{\"id\":24808,\"results\":{\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24808-something-wicked-this-way-comes\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":16}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":16}]},\"LU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24808-something-wicked-this-way-comes\/watch?locale=LU\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":0}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":0}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1519",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19882",
+        "x-memc": "HIT",
+        "x-memc-key": "9bced30d3f172539f958c76039b630d6",
+        "x-memc-age": "6098",
+        "x-memc-expires": "19882",
+        "ETag": "W\/\"e365f17db4c44a0c9e44e198c20b3942\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4hVW88_AQizoc8RQnfNgfbOdYe366LmHI1AVbL2Le5GL3XkwvC2hCw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4BKETSphh3zQemLydVDhXwuYZ5i.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":248043,\"imdb_id\":\"tt1097212\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"ARIA The OVA \u301cARIETTA\u301c\",\"overview\":\"Akari finds herself nervous coaching a new undine as a Prima, until she awakens to find that it is just a dream. To soothe her worries, Alicia recalls stories of her beginnings as a Prima, as well as the memories she made.\",\"popularity\":5.506,\"poster_path\":\"\/7Cvsi3bSk05HhgJ3o5jexZ1gVCj.jpg\",\"production_companies\":[{\"id\":931,\"logo_path\":null,\"name\":\"HAL Films\",\"origin_country\":\"\"},{\"id\":192,\"logo_path\":\"\/93eAKlnQecDdMtucfOprzcjMw9V.png\",\"name\":\"Shochiku\",\"origin_country\":\"JP\"},{\"id\":7967,\"logo_path\":\"\/4W9ByL6mMDn9UOHh8oGD36l3BnN.png\",\"name\":\"Media Factory\",\"origin_country\":\"JP\"},{\"id\":170300,\"logo_path\":\"\/icYBQLIZ8FtV6gB6o4N4ihSd77q.png\",\"name\":\"TV Tokyo Medianet\",\"origin_country\":\"JP\"},{\"id\":17981,\"logo_path\":\"\/8UABNMysukRi4udTHYxcNUMbPR1.png\",\"name\":\"AT-X\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2007-09-20\",\"revenue\":0,\"runtime\":30,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The story of Aria company before the arrival of Akari.\",\"title\":\"Aria the OVA: Arietta\",\"video\":false,\"vote_average\":6.5,\"vote_count\":4}"
+}

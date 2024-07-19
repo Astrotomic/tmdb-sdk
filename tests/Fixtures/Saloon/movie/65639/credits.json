@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3683",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19441",
+        "x-memc": "HIT",
+        "x-memc-key": "d82fe8596a82bd6d28e3777df4eeb6ca",
+        "x-memc-age": "4624",
+        "x-memc-expires": "19441",
+        "ETag": "W\/\"4e62c1fd53d9e32f0a101bbb242b18d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vPQYwke0jnh8p4gTx98TDwhnhdCWdWm9tw5fXSv8Nm5AmrHOSgi2Fw=="
+    },
+    "data": "{\"id\":65639,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":65827,\"known_for_department\":\"Acting\",\"name\":\"Keith David\",\"original_name\":\"Keith David\",\"popularity\":33.091,\"profile_path\":\"\/jJLJuR7FNHYL1fB5igjj7IXzOel.jpg\",\"cast_id\":1,\"character\":\"Al Simmons \/ Spawn (voice)\",\"credit_id\":\"52fe4713c3a368484e0b3a95\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":15413,\"known_for_department\":\"Acting\",\"name\":\"Richard Dysart\",\"original_name\":\"Richard Dysart\",\"popularity\":74.299,\"profile_path\":\"\/yQOaZexN3YbqGWOguu2VrjsvX2G.jpg\",\"cast_id\":2,\"character\":\"Cogliostro (voice)\",\"credit_id\":\"52fe4713c3a368484e0b3a99\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":5504,\"known_for_department\":\"Acting\",\"name\":\"Michael Nicolosi\",\"original_name\":\"Michael Nicolosi\",\"popularity\":7.64,\"profile_path\":\"\/s3jxEzrq7RFWirtdvycXLAuNN3g.jpg\",\"cast_id\":3,\"character\":\"Clown (voice)\",\"credit_id\":\"52fe4713c3a368484e0b3a9d\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":95200,\"known_for_department\":\"Acting\",\"name\":\"Dominique Jennings\",\"original_name\":\"Dominique Jennings\",\"popularity\":6.845,\"profile_path\":\"\/gQvFevYR8dyH0TTOnOAV8tOMSEO.jpg\",\"cast_id\":5,\"character\":\"Wanda Blake (voice)\",\"credit_id\":\"52fe4713c3a368484e0b3aa5\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":79050,\"known_for_department\":\"Acting\",\"name\":\"John Rafter Lee\",\"original_name\":\"John Rafter Lee\",\"popularity\":8.158,\"profile_path\":null,\"cast_id\":6,\"character\":\"Jason Wynn (voice)\",\"credit_id\":\"52fe4713c3a368484e0b3aa9\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":121276,\"known_for_department\":\"Acting\",\"name\":\"Victor Love\",\"original_name\":\"Victor Love\",\"popularity\":6.296,\"profile_path\":\"\/cA9DY2dW9qXMS5TtagtAV2IbzPg.jpg\",\"cast_id\":7,\"character\":\"Terry Fitzgerald (voice)\",\"credit_id\":\"54d7cf98c3a368439a0060ce\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":64849,\"known_for_department\":\"Acting\",\"name\":\"Todd McFarlane\",\"original_name\":\"Todd McFarlane\",\"popularity\":13.891,\"profile_path\":\"\/fG0NF6gKK0lBwJTtTPXzp4e4yp8.jpg\",\"credit_id\":\"57e1a89392514115030010da\",\"department\":\"Crew\",\"job\":\"Creator\"},{\"adult\":false,\"gender\":2,\"id\":35270,\"known_for_department\":\"Directing\",\"name\":\"Eric Radomski\",\"original_name\":\"Eric Radomski\",\"popularity\":6.857,\"profile_path\":\"\/z1vRonppwah0DVC4bvb711ukP4a.jpg\",\"credit_id\":\"5c9ba2809251416e8ff8115f\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":56452,\"known_for_department\":\"Writing\",\"name\":\"Alan B. McElroy\",\"original_name\":\"Alan B. McElroy\",\"popularity\":11.69,\"profile_path\":\"\/uUVDalBQ2kwrlzCcZL9HaN45XsU.jpg\",\"credit_id\":\"5c9ba2ed9251411067f8177a\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":95458,\"known_for_department\":\"Writing\",\"name\":\"Gary Hardwick\",\"original_name\":\"Gary Hardwick\",\"popularity\":2.539,\"profile_path\":null,\"credit_id\":\"5c9ba2fcc3a368351939f572\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":64849,\"known_for_department\":\"Acting\",\"name\":\"Todd McFarlane\",\"original_name\":\"Todd McFarlane\",\"popularity\":13.891,\"profile_path\":\"\/fG0NF6gKK0lBwJTtTPXzp4e4yp8.jpg\",\"credit_id\":\"6295d47ecddbbc130eeae268\",\"department\":\"Production\",\"job\":\"Executive Producer\"},{\"adult\":false,\"gender\":1,\"id\":71539,\"known_for_department\":\"Production\",\"name\":\"Catherine Winder\",\"original_name\":\"Catherine Winder\",\"popularity\":2.913,\"profile_path\":\"\/qGabLBToUcMJ0xheOPj7HgoIbCC.jpg\",\"credit_id\":\"6295d49f0f21c61538990a76\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":1,\"id\":26981,\"known_for_department\":\"Sound\",\"name\":\"Shirley Walker\",\"original_name\":\"Shirley Walker\",\"popularity\":3.282,\"profile_path\":\"\/xvjsJLILyUn2Rqr8nsLccPDoLv6.jpg\",\"credit_id\":\"6295d4b70f21c61537306dfb\",\"department\":\"Sound\",\"job\":\"Original Music Composer\"}]}"
+}

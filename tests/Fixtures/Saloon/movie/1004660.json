@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1169",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4115",
+        "x-memc": "HIT",
+        "x-memc-key": "5af4ad10393c6325d4aa63c2a1ba3fbe",
+        "x-memc-age": "23076",
+        "x-memc-expires": "4115",
+        "ETag": "W\/\"e8f5044462fc4248e1776c3beea25121\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DNEDxPBiO1cCYmw4W4ep8nMpRZmCCdsyL2NaQ_u13iFKeSAEkxPGGg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1004660,\"imdb_id\":\"tt6607080\",\"origin_country\":[\"DE\",\"ES\"],\"original_language\":\"de\",\"original_title\":\"The World at Arm's Length\",\"overview\":\"Sven has a dream. Once in his life he wants to walk the Camino de Santiago - the Way of St. James. But that seems impossible, Sven has Usher syndrome, a disease which slowly, inexorably robs him of hearing and vision. Profoundly deaf and completely blind since 2010, he can only communicate using a special hearing aid in the spoken language.\",\"popularity\":5.427,\"poster_path\":null,\"production_companies\":[{\"id\":126154,\"logo_path\":null,\"name\":\"ConkerTreeFilm\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2018-12-01\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The World at Arm's Length\",\"video\":false,\"vote_average\":7.0,\"vote_count\":2}"
+}

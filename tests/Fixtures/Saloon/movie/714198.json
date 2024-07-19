@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "939",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19863",
+        "x-memc": "HIT",
+        "x-memc-key": "208018ed894a084b07e27302ae4e0d44",
+        "x-memc-age": "4807",
+        "x-memc-expires": "19863",
+        "ETag": "W\/\"5cad11a009fab5dfee0fb407ba938bcb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BYcK39hSvyYzwi5pGwIPVXjCv7wLy4iAVSQNTth3SOBdhCazf1iNrw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":714198,\"imdb_id\":\"tt0157862\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Joaquin Murrieta\",\"overview\":\"This MGM Historical Mystery short follows the life and exploits of killer outlaw Joaquin Murrieta, in California in the 1850s.\",\"popularity\":6.311,\"poster_path\":\"\/eFMt6Hx3TB2DLuaRqEvoGdQJhqE.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-06-11\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Joaquin Murrieta\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1620",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11765",
+        "x-memc": "HIT",
+        "x-memc-key": "312d8f21a98961167ab7f041a5222161",
+        "x-memc-age": "11427",
+        "x-memc-expires": "11765",
+        "ETag": "W\/\"9fa8d7b4fc87995a2cb2275b61f3306a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LuhNRhUTxUJD8OP_qcZNdKUIpEo7GD0oUjElb4QtTb4UBGWUgonbRg=="
+    },
+    "data": "{\"id\":236684,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1004823,\"known_for_department\":\"Acting\",\"name\":\"Jack Mercer\",\"original_name\":\"Jack Mercer\",\"popularity\":4.123,\"profile_path\":\"\/lCdwmzQBcgzAYOMXum6zZ4PhSrI.jpg\",\"cast_id\":2,\"character\":\"Popeye (voice) (uncredited)\",\"credit_id\":\"588980509251411bd501308c\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1238851,\"known_for_department\":\"Acting\",\"name\":\"Dave Barry\",\"original_name\":\"Dave Barry\",\"popularity\":3.458,\"profile_path\":\"\/sjBsu8FAne6NIJ77h1LLYqTWgYg.jpg\",\"cast_id\":7,\"character\":\"Bluto (voice) (uncredited)\",\"credit_id\":\"659110c151a64e020af48477\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1048527,\"known_for_department\":\"Production\",\"name\":\"Izzy Sparber\",\"original_name\":\"Izzy Sparber\",\"popularity\":3.298,\"profile_path\":null,\"credit_id\":\"52fe4e5ec3a36847f828c87d\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1115230,\"known_for_department\":\"Writing\",\"name\":\"Joe Stultz\",\"original_name\":\"Joe Stultz\",\"popularity\":1.929,\"profile_path\":null,\"credit_id\":\"642224bd08cf8700fd87a5cb\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":0,\"id\":1123201,\"known_for_department\":\"Visual Effects\",\"name\":\"James Tyer\",\"original_name\":\"James Tyer\",\"popularity\":0.336,\"profile_path\":null,\"credit_id\":\"642224df6a34480112ba48b9\",\"department\":\"Visual Effects\",\"job\":\"Animation\"},{\"adult\":false,\"gender\":2,\"id\":2711895,\"known_for_department\":\"Visual Effects\",\"name\":\"Abner Kneitel\",\"original_name\":\"Abner Kneitel\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"642224f52dc9dc007c072635\",\"department\":\"Visual Effects\",\"job\":\"Animation\"}]}"
+}

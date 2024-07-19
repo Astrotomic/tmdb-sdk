@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1648",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16984",
+        "x-memc": "HIT",
+        "x-memc-key": "d43590ab19bf86a51d6c545374188526",
+        "x-memc-age": "8695",
+        "x-memc-expires": "16984",
+        "ETag": "W\/\"025a5e1ac04fe65f377ec1ed334fbefa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xK5AG7zWHKlbVdpOJqwTpGOqPXSGe8gbca_JJsNEe42yxLbA7Ac91w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1eFJvp5t9D8rv73SkhHOCjiYUYQ.jpg\",\"belongs_to_collection\":{\"id\":1062948,\"name\":\"Twister Collection\",\"poster_path\":\"\/9dIAsn4N1t9bQJyNo5Cj8xmflyf.jpg\",\"backdrop_path\":\"\/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg\"},\"budget\":92000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/twister\",\"id\":664,\"imdb_id\":\"tt0117998\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Twister\",\"overview\":\"An unprecedented series of violent tornadoes is sweeping across Oklahoma. Tornado chasers, headed by Dr. Jo Harding, attempt to release a groundbreaking device that will allow them to track them and create a more advanced warning system. They are joined by Jo's soon to be ex-husband Bill, a former tornado chaser himself, and his girlfriend Melissa.\",\"popularity\":197.998,\"poster_path\":\"\/fZ0Y2qSDKQJolrQhIDpTwx3GlYB.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-05-10\",\"revenue\":494471524,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Don't breathe. Don't look back.\",\"title\":\"Twister\",\"video\":false,\"vote_average\":6.496,\"vote_count\":3171}"
+}

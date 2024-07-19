@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1469",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15159",
+        "x-memc": "HIT",
+        "x-memc-key": "0565af40ceaac4a95157a31c4bbc39cb",
+        "x-memc-age": "13155",
+        "x-memc-expires": "15159",
+        "ETag": "W\/\"2e1b99db8b3e695725585051d2c72aff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Uu6XzQrS4y32E5fD0gSlQ9Yx095ll7gywAi3UKkdIbDqrLhypNQ-dA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/57IDXM3ULgE1BvpS3stJhTaytjq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1227780,\"imdb_id\":\"tt29919979\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Prom Dates\",\"overview\":\"Jess and Hannah, who made a pact at 13 to have the perfect senior prom. Despite the impending changes that college will bring over the next four years, the two are committed to honoring their prom pact. But with only 24 hours left before the big event, everything falls apart when they break up with each of their dates. Jess and Hannah are left with one night to find new dates and live out their middle-school fantasies.\",\"popularity\":26.688,\"poster_path\":\"\/ojWiV81GldQSrBjY2izkayPSN05.jpg\",\"production_companies\":[{\"id\":8533,\"logo_path\":\"\/5jxaT7zoJKtnwqxniiJ9iJLsJru.png\",\"name\":\"LD Entertainment\",\"origin_country\":\"US\"},{\"id\":112397,\"logo_path\":\"\/rFyhrN607SUIlQ7wyH8lQOemqz3.png\",\"name\":\"American High\",\"origin_country\":\"US\"},{\"id\":40268,\"logo_path\":\"\/shdAxUj8uF6exNLrF0kSqYVxCzG.png\",\"name\":\"HartBeat Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-02\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They just can't get any\",\"title\":\"Prom Dates\",\"video\":false,\"vote_average\":4.875,\"vote_count\":20}"
+}

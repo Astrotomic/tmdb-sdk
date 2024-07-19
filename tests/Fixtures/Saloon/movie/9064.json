@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1534",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21922",
+        "x-memc": "HIT",
+        "x-memc-key": "a352d9593be7c051494fca47e34c82cf",
+        "x-memc-age": "267",
+        "x-memc-expires": "21922",
+        "ETag": "W\/\"6cdc147708051e69cdbf47ec69cffdbd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rLs1USjxkJNtzTqJtA5xfgU6NShxNtQ0dM1BFmkxg-Nzg9u92dmNNA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pTkCX0blroCmHp6dxTedzmzTLcN.jpg\",\"belongs_to_collection\":{\"id\":8917,\"name\":\"Hellraiser Collection\",\"poster_path\":\"\/lIK0UgJsA18Z5I1PwpucXzgyF3A.jpg\",\"backdrop_path\":\"\/g0XtsgbwFcFHNZGarpk6qAOPX7T.jpg\"},\"budget\":3000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":9064,\"imdb_id\":\"tt0095294\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Hellbound: Hellraiser II\",\"overview\":\"Julia Cotton, her step daughter Kirsty, and the sinister Dr. Channard are sent into the dominion of the Cenobites themselves.\",\"popularity\":17.846,\"poster_path\":\"\/auPOq1wgZuYSaADejOskBKG6fuV.jpg\",\"production_companies\":[{\"id\":15339,\"logo_path\":null,\"name\":\"Film Futures\",\"origin_country\":\"\"},{\"id\":1950,\"logo_path\":\"\/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png\",\"name\":\"New World Pictures\",\"origin_country\":\"US\"},{\"id\":10170,\"logo_path\":null,\"name\":\"Cinemarque Entertainment\",\"origin_country\":\"\"},{\"id\":20607,\"logo_path\":null,\"name\":\"King Video Productions\",\"origin_country\":\"\"},{\"id\":96477,\"logo_path\":null,\"name\":\"New World\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-12-23\",\"revenue\":12090735,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Time to play.\",\"title\":\"Hellbound: Hellraiser II\",\"video\":false,\"vote_average\":6.4,\"vote_count\":1059}"
+}

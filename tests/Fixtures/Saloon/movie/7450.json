@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1475",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21695",
+        "x-memc": "HIT",
+        "x-memc-key": "dde759130365643be7b5d533f55943de",
+        "x-memc-age": "1101",
+        "x-memc-expires": "21695",
+        "ETag": "W\/\"5440e425b9ce97fc9c2ded8b9f3dcd24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NILsMCGMiEfoRLVJ6A7XHGJ41JcS6UH7a7uP9Zyr_xgfqLv7HmltDA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pniACHS8KDVCldB3BlwL78RIZ7V.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":7450,\"imdb_id\":\"tt0120913\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Titan A.E.\",\"overview\":\"A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.\",\"popularity\":17.107,\"poster_path\":\"\/el2iHk3LTJWfEnwrvcRkvWY501G.jpg\",\"production_companies\":[{\"id\":11050,\"logo_path\":null,\"name\":\"David Kirschner Productions\",\"origin_country\":\"US\"},{\"id\":11231,\"logo_path\":null,\"name\":\"Fox Animation Studios\",\"origin_country\":\"US\"},{\"id\":211613,\"logo_path\":null,\"name\":\"Gary Goldman Productions\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-06-16\",\"revenue\":36754634,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"When Earth Ends, The Adventure Begins.\",\"title\":\"Titan A.E.\",\"video\":false,\"vote_average\":6.564,\"vote_count\":1050}"
+}

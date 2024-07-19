@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "311",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:41:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5721",
+        "x-memc": "HIT",
+        "x-memc-key": "5cdb89aab2ab55b13005c2b5d8194d51",
+        "x-memc-age": "20582",
+        "x-memc-expires": "5721",
+        "ETag": "W\/\"511a87e093776513cad786a86f630f70\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Mr6yaZAIxY-s623msPo4c0uDYRMJBuWqfpEeVhpufrHOjHy2VINKeQ=="
+    },
+    "data": "{\"id\":1284821,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":20629,\"known_for_department\":\"Directing\",\"name\":\"George Miller\",\"original_name\":\"George Miller\",\"popularity\":23.131,\"profile_path\":\"\/35NQ8HjFXQlGYDz9UkhT08lKl5C.jpg\",\"cast_id\":1,\"character\":\"Self\",\"credit_id\":\"66390bfe9590e30129bda20f\",\"order\":0}],\"crew\":[]}"
+}

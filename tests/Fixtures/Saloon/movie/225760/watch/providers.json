@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "687",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8907",
+        "x-memc": "HIT",
+        "x-memc-key": "69d80b8679bce1dcf98946e564707f47",
+        "x-memc-age": "14877",
+        "x-memc-expires": "8907",
+        "ETag": "W\/\"9ef13ac94095e9fb76bfdfef3c49e118\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tRCSNMjn4tsfIie8MrYx_bOQmsKsVW0xqNMh2xIjeZeZ3SSul6RsVw=="
+    },
+    "data": "{\"id\":225760,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/225760-lulu\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/225760-lulu\/watch?locale=CH\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]}}}"
+}

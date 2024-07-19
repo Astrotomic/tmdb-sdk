@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1743",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18927",
+        "x-memc": "HIT",
+        "x-memc-key": "a1d0a35754bf7d856fb863334471c7dc",
+        "x-memc-age": "3715",
+        "x-memc-expires": "18927",
+        "ETag": "W\/\"f1cc73d455c8a1ea7d1cdcb28186197a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PwFQgD2TlH2eWqTXCZpJka3w4nQcHCndE7Ia_ljcUAaKQQqb_hrPeg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nE7p7AgZtRmQdEu7Z275f4729k2.jpg\",\"belongs_to_collection\":null,\"budget\":24000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11018,\"imdb_id\":\"tt0090350\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Year of the Dragon\",\"overview\":\"In New York, racist Capt. Stanley White becomes obsessed with destroying a Chinese-American drug ring run by Joey Tai, an up-and-coming young gangster as ambitious as he is ruthless. While pursuing an unauthorized investigation, White grows increasingly willing to violate police protocol, resorting to progressively violent measures -- even as his concerned wife, Connie, and his superiors beg him to consider the consequences of his actions.\",\"popularity\":19.069,\"poster_path\":\"\/c8SfIgwR5mfu0c0qTBKbsvBfecJ.jpg\",\"production_companies\":[{\"id\":10308,\"logo_path\":\"\/pOHLwTFBPtPnz8BWP8T4w3UCTEB.png\",\"name\":\"Dino De Laurentiis Company\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-08-16\",\"revenue\":18707466,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"}],\"status\":\"Released\",\"tagline\":\"It isn't the Bronx or Brooklyn, it isn't even New York. It's Chinatown... and it's about to explode.\",\"title\":\"Year of the Dragon\",\"video\":false,\"vote_average\":6.88,\"vote_count\":403}"
+}

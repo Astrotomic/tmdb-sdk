@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1085",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3837",
+        "x-memc": "HIT",
+        "x-memc-key": "648213b81bd1895f1c2d74bd5e821222",
+        "x-memc-age": "24526",
+        "x-memc-expires": "3837",
+        "ETag": "W\/\"85bf8346d9092a23475da6b4914f4f12\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Pm5ZTWxem6e3f_WfndjqMbGqgcGkwwG2G8aOgROujeN1qMgW4CJshA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zjubAYx9JABJ9seZw64tWGM6y18.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":9299,\"imdb_id\":\"tt0117883\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Tesis\",\"overview\":\"While doing a thesis about violence, \u00c1ngela finds a snuff video where a girl is tortured to death. Soon she discovers that the girl was a former student at her college...\",\"popularity\":16.135,\"poster_path\":\"\/m9o1oQrCBgL3EnvCqBr7xQ2Haco.jpg\",\"production_companies\":[{\"id\":11955,\"logo_path\":null,\"name\":\"Sogepaq\",\"origin_country\":\"ES\"},{\"id\":18332,\"logo_path\":null,\"name\":\"Las Producciones del Escorpi\u00f3n S.L.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"1996-04-11\",\"revenue\":2647055,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"My name is \u00c1ngela. They're going to kill me.\",\"title\":\"Thesis\",\"video\":false,\"vote_average\":7.437,\"vote_count\":791}"
+}

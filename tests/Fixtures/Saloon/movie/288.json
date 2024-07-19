@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1404",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4916",
+        "x-memc": "HIT",
+        "x-memc-key": "80e60de217647f84cb8471bdba9bb2f6",
+        "x-memc-age": "21079",
+        "x-memc-expires": "4916",
+        "ETag": "W\/\"ed1d74408fa4b0b9c8dfe94550b4e2d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b_wjGSSAhRKJ9xwN-uztifPpsuGgufKvHJ4W7UkEDLzF6oLjKH_4Aw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jyUcUMvLdUon3HPjbUdAsm754G6.jpg\",\"belongs_to_collection\":null,\"budget\":730000,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":288,\"imdb_id\":\"tt0044706\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"High Noon\",\"overview\":\"Will Kane, the sheriff of a small town in New Mexico, learns a notorious outlaw he put in jail has been freed, and will be arriving on the noon train. Knowing the outlaw and his gang are coming to kill him, Kane is determined to stand his ground, so he attempts to gather a posse from among the local townspeople.\",\"popularity\":50.635,\"poster_path\":\"\/m3EzjFuSK49woacPF1PyHcNM39B.jpg\",\"production_companies\":[{\"id\":893,\"logo_path\":null,\"name\":\"Stanley Kramer Productions\",\"origin_country\":\"US\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1952-06-09\",\"revenue\":8000000,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The story of a man who was too proud to run!\",\"title\":\"High Noon\",\"video\":false,\"vote_average\":7.677,\"vote_count\":1376}"
+}

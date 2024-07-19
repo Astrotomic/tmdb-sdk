@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "844",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9437",
+        "x-memc": "HIT",
+        "x-memc-key": "6aa6fe6eed8fb96caa8d8306377b1804",
+        "x-memc-age": "12588",
+        "x-memc-expires": "9437",
+        "ETag": "W\/\"cd45908247d219ea825429152624c928\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WnHiN2OLn0ohWawuDgu6YKyvP3CTcNNTManKqlaLrqJPFu3RNT0zxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/g72VJgY8reM1zqAPBOsSJVd1f5l.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/ent.sina.com.cn\/f\/m\/wushu\/index.shtml\",\"id\":16687,\"imdb_id\":\"tt0790786\",\"origin_country\":[\"HK\"],\"original_language\":\"zh\",\"original_title\":\"\u6b66\u672f\u4e4b\u5c11\u5e74\u884c\",\"overview\":\"A group of Wushu students stumble into a child kidnapping ring run by an alumnus.\",\"popularity\":11.185,\"poster_path\":\"\/xims8UJUe91CPnwobdNwpy1kIMK.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"2008-10-23\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wushu\",\"video\":false,\"vote_average\":6.075,\"vote_count\":20}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1316",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=979",
+        "x-memc": "HIT",
+        "x-memc-key": "39a9d77ece46a5f53084db6920333e3e",
+        "x-memc-age": "25428",
+        "x-memc-expires": "979",
+        "ETag": "W\/\"e5da14f07a913cb2dcf4378a30928df5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0p-fZpmSNIpzZloquYxqdkO59S1cJi7gESFKxH6QsZ2NBcWW6rmM4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oGYRCq5eBhgXuLX20czONxa0uC8.jpg\",\"belongs_to_collection\":null,\"budget\":31000000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":606,\"imdb_id\":\"tt0089755\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Out of Africa\",\"overview\":\"Tells the life story of Danish author Karen Blixen, who at the beginning of the 20th century moved to Africa to build a new life for herself. The film is based on her 1937 autobiographical novel.\",\"popularity\":29.98,\"poster_path\":\"\/3eLAm1kuVD5QZCOydbiu7j6GAbw.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":205,\"logo_path\":null,\"name\":\"Mirage Entertainment\",\"origin_country\":\"\"},{\"id\":932,\"logo_path\":null,\"name\":\"Mirage Enterprises\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-12-20\",\"revenue\":227514205,\"runtime\":161,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Swahili\",\"iso_639_1\":\"sw\",\"name\":\"Kiswahili\"}],\"status\":\"Released\",\"tagline\":\"Based on a true story.\",\"title\":\"Out of Africa\",\"video\":false,\"vote_average\":7.175,\"vote_count\":1333}"
+}

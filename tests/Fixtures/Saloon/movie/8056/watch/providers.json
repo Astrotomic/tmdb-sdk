@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1370",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13585",
+        "x-memc": "HIT",
+        "x-memc-key": "ff8cbca692bea97766f3317215dfea09",
+        "x-memc-age": "15125",
+        "x-memc-expires": "13585",
+        "ETag": "W\/\"f416f09ad8036b7269ba82155c964d9b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "q-ez4_trILkqBU8u4bMYGPo0EG9Pq4l6agvWl_mcvyd_swrt2y1H_w=="
+    },
+    "data": "{\"id\":8056,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/8056-train-de-vie\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"free\":[{\"logo_path\":\"\/zXu75uIAMgdblYvFFPzoIHmQhxa.jpg\",\"provider_id\":542,\"provider_name\":\"filmfriend\",\"display_priority\":64}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/8056-train-de-vie\/watch?locale=CH\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"free\":[{\"logo_path\":\"\/zXu75uIAMgdblYvFFPzoIHmQhxa.jpg\",\"provider_id\":542,\"provider_name\":\"filmfriend\",\"display_priority\":50}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/8056-train-de-vie\/watch?locale=DE\",\"free\":[{\"logo_path\":\"\/zXu75uIAMgdblYvFFPzoIHmQhxa.jpg\",\"provider_id\":542,\"provider_name\":\"filmfriend\",\"display_priority\":58}]},\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/8056-train-de-vie\/watch?locale=IT\",\"flatrate\":[{\"logo_path\":\"\/rVEXDsaHzpwK1YhXEZrsmvfpdOR.jpg\",\"provider_id\":40,\"provider_name\":\"Chili\",\"display_priority\":101}]}}}"
+}

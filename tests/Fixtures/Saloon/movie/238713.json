@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1484",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17034",
+        "x-memc": "HIT",
+        "x-memc-key": "4153f99ef88602c2af43eddde2377b49",
+        "x-memc-age": "11095",
+        "x-memc-expires": "17034",
+        "ETag": "W\/\"3076783e3fcb795125bc3def14594b5b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VlnzHP3cmrAhYkB1Out5M919FgBccS_IxFCZTzhoMCRWUjS4APxu3g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a0jJMlI1Nw83EXaYmN0QHuccRXm.jpg\",\"belongs_to_collection\":null,\"budget\":65000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/spy-unrated\",\"id\":238713,\"imdb_id\":\"tt3079380\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spy\",\"overview\":\"A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.\",\"popularity\":42.851,\"poster_path\":\"\/6On9Ed52fz8W1h9PzaDQ12ZfHdn.jpg\",\"production_companies\":[{\"id\":7076,\"logo_path\":\"\/8BFxn9NUWSgp0ndih569Gm62xiC.png\",\"name\":\"Chernin Entertainment\",\"origin_country\":\"US\"},{\"id\":61791,\"logo_path\":\"\/xyiy5wZdmnxVViRa8oRMXQQvT6F.png\",\"name\":\"Feigco Entertainment\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-05-06\",\"revenue\":235666219,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"She's a risk they had to take.\",\"title\":\"Spy\",\"video\":false,\"vote_average\":6.837,\"vote_count\":5891}"
+}

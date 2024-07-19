@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1446",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2891",
+        "x-memc": "HIT",
+        "x-memc-key": "6da6a99a164944b16365a7f70574ec9c",
+        "x-memc-age": "25829",
+        "x-memc-expires": "2891",
+        "ETag": "W\/\"cf11ed162072a0b89c8fe858d94e3a8e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DiFDkXXqffWR-AdbmPqNxrAxOqRQeR8YokYCZnOtjlOvsB8Z-FEVng=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qJcUobr34c77YRQQ7zacTNrBdKj.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":171424,\"imdb_id\":\"tt2403021\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Green Inferno\",\"overview\":\"A group of student activists travel from New York City to the Amazon to save the rainforest.  However, once they arrive in this vast green landscape, they soon discover that they are not alone\u2026 and that no good deed goes unpunished.\",\"popularity\":33.09,\"poster_path\":\"\/dTnAYyUwp6lT0cKrt4aNujj5mdF.jpg\",\"production_companies\":[{\"id\":55497,\"logo_path\":null,\"name\":\"Sobras International Pictures\",\"origin_country\":\"CL\"},{\"id\":9015,\"logo_path\":\"\/pRQLCm8AAPXL7H9MzX4xuS8GGg8.png\",\"name\":\"Worldview Entertainment\",\"origin_country\":\"US\"},{\"id\":18142,\"logo_path\":null,\"name\":\"Dragonfly Entertainment\",\"origin_country\":\"US\"},{\"id\":73625,\"logo_path\":null,\"name\":\"BH Tilt\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"CL\",\"name\":\"Chile\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-09-08\",\"revenue\":12666449,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fear will eat you alive.\",\"title\":\"The Green Inferno\",\"video\":false,\"vote_average\":5.7,\"vote_count\":1381}"
+}

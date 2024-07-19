@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "862",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17081",
+        "x-memc": "HIT",
+        "x-memc-key": "83329c9a13e1c7e5c451f4b1b3850d0d",
+        "x-memc-age": "10393",
+        "x-memc-expires": "17081",
+        "ETag": "W\/\"5f569237c80144c69ad0142d3b8488e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EvI_Tlxeh0bpzfFVorIL5MB1rIj_cq4Mz6QDgtXhODHW7ebE_ZoQfg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/74v3yzteBthaRFX8t9xrzrQqXuB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":866432,\"imdb_id\":\"tt14818550\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Quarantine for Two\",\"overview\":\"A quick spreading virus has shut down the world. But when Kenzie and Chase connect in the unlikeliest of ways, they are faced with a perplexing question: how does dating work when you have to stay six feet apart?\",\"popularity\":2.134,\"poster_path\":\"\/uH9TWsDi3gC4W3qcaSBqge0jmP0.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2021-08-27\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"Dating from a Distance\",\"title\":\"Quarantine for Two\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

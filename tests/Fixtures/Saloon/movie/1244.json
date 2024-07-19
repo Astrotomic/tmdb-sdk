@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1527",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8027",
+        "x-memc": "HIT",
+        "x-memc-key": "1245abac906b03a831bf7e1e81bcf742",
+        "x-memc-age": "16200",
+        "x-memc-expires": "8027",
+        "ETag": "W\/\"5f56f9adefd75b6f7cb766873d107287\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bP_1oTsj-7lxKTAPWT44lATjaDXNiMBv6x6fQqFgNV-6d4YMxic7Bg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sTomxWxuyzUjnSvZ2Odsg6n7VOn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/pdl.warnerbros.com\/wbol\/de\/movies\/8mileshigh\/flash\/teaser.html\",\"id\":1244,\"imdb_id\":\"tt0764639\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das wilde Leben\",\"overview\":\"Achim Bornhak's movie focuses on the restless life of Uschi Obermaier, the icon of the 1968 movement in Germany and groupie. At the age of 16, Uschi is bored by her job in a photo lab, but soon becomes the \\\"it girl\\\" of Munich's club scene. When she gets to know Rainer Langhans, they move to Berlin and live in \\\"Kommune 1\\\", the first politically-motivated commune in Germany. While the other occupants claim she isn't political enough, Uschi just wants to have fun, works as fashion model and leads international music stars in temptation.\",\"popularity\":8.978,\"poster_path\":\"\/b2GT0in1R0GU3a34CN4YFztJh4X.jpg\",\"production_companies\":[{\"id\":424,\"logo_path\":null,\"name\":\"Babelsberg Film\",\"origin_country\":\"DE\"},{\"id\":1251,\"logo_path\":\"\/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png\",\"name\":\"ARD\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2007-02-01\",\"revenue\":957744,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Eight Miles High\",\"video\":false,\"vote_average\":6.513,\"vote_count\":40}"
+}

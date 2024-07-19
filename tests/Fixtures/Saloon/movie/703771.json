@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1452",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5684",
+        "x-memc": "HIT",
+        "x-memc-key": "9559b953114ec9a674895d7107d857c1",
+        "x-memc-age": "20121",
+        "x-memc-expires": "5684",
+        "ETag": "W\/\"8489d3d8027eaf916353d11ad2083c32\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zRPN6zhyp9CjxuUA5_seU7LXmdpUMUzOghO_D98c1uUnstvGd0Zb8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hdXQxlD4mep7qtC5TsvhIt840OV.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":703771,\"imdb_id\":\"tt12876132\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Deathstroke: Knights & Dragons - The Movie\",\"overview\":\"The assassin Deathstroke tries to save his family from the wrath of H.I.V.E. and the murderous Jackal.\",\"popularity\":23.341,\"poster_path\":\"\/vFIHbiy55smzi50RmF8LQjmpGcx.jpg\",\"production_companies\":[{\"id\":2785,\"logo_path\":\"\/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png\",\"name\":\"Warner Bros. Animation\",\"origin_country\":\"US\"},{\"id\":72489,\"logo_path\":\"\/ekwQYn2gVl2Y1UAYlIFgMbWGviI.png\",\"name\":\"Blue Ribbon Content\",\"origin_country\":\"US\"},{\"id\":27711,\"logo_path\":\"\/3e294jszfE6cE8TOogmj0zNd6pL.png\",\"name\":\"Berlanti Productions\",\"origin_country\":\"US\"},{\"id\":9993,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-08-04\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never give a paid killer a reason to work for free\",\"title\":\"Deathstroke: Knights & Dragons - The Movie\",\"video\":false,\"vote_average\":6.958,\"vote_count\":427}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "224",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:29:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18307",
+        "x-memc": "HIT",
+        "x-memc-key": "1551fc141e7395415c19cf108ae54e8c",
+        "x-memc-age": "10173",
+        "x-memc-expires": "18307",
+        "ETag": "W\/\"e98862794698a743ee8b764c41302704\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OuHVz9YBWH65mfxhlvuGXN-p8f5cR9jvpbIJjXtbnMeb2ZA5_SfOhg=="
+    },
+    "data": "{\"id\":1029836,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1029836\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1225",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26568",
+        "x-memc": "HIT",
+        "x-memc-key": "d4ae8dddc71598c95972bbb1f690a7e4",
+        "x-memc-age": "924",
+        "x-memc-expires": "26568",
+        "ETag": "W\/\"d9a8d3356ee45b447b901b69f4db50f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yZaYBqxl0Z3gHMd-nR2rClI6kZEZip8K9GWZCh0NMFSQAoV9oFtdWA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8wYluVq5AVXhnFFMhUYD9D4rTz5.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/www.dreamgirlsmovie.com\/\",\"id\":1125,\"imdb_id\":\"tt0443489\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dreamgirls\",\"overview\":\"A trio of female soul singers cross over to the pop charts in the early 1960s, facing their own personal struggles along the way.\",\"popularity\":27.756,\"poster_path\":\"\/sG5JyOj8Spe13QkNJMH8b5kzQUh.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":415,\"logo_path\":null,\"name\":\"Laurence Mark Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-12-25\",\"revenue\":154937680,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"All you have to do is dream.\",\"title\":\"Dreamgirls\",\"video\":false,\"vote_average\":6.747,\"vote_count\":969}"
+}

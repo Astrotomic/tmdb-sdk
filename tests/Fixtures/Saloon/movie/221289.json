@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "761",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14823",
+        "x-memc": "HIT",
+        "x-memc-key": "5b248c619f84d02ff53070a3892b4edb",
+        "x-memc-age": "10229",
+        "x-memc-expires": "14823",
+        "ETag": "W\/\"5c8d411beea29ff592c9bc372f4cde99\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MqYztRtipzQ-2uw3mFe3dvsR17tFG2CUTMN2U5yxKkhpDkVYf4fOsg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":221289,\"imdb_id\":\"tt1346284\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kidnapping Caitlynn\",\"overview\":\"A dark comedy about accidentally kidnapping your ex-boyfriend's new girlfriend.\",\"popularity\":3.395,\"poster_path\":\"\/vIZ0EOzrxUBFkP39hUo9h0bSkY5.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-04-06\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kidnapping Caitlynn\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

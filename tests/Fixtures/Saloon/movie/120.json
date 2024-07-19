@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1812",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3901",
+        "x-memc": "HIT",
+        "x-memc-key": "c08d8c0e8db4f65ba68fda321b06ca46",
+        "x-memc-age": "24042",
+        "x-memc-expires": "3901",
+        "ETag": "W\/\"7dae647b72b90f23710425533a20a92d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kCCaH5pMVA7mOUoz9Mhl5BjW-LdliPAyV_2BO7VTCYBgkDhzAOXpBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/x2RS3uTcsJJ9IfjNPcgDmukoEcQ.jpg\",\"belongs_to_collection\":{\"id\":119,\"name\":\"The Lord of the Rings Collection\",\"poster_path\":\"\/oENY593nKRVL2PnxXsMtlh8izb4.jpg\",\"backdrop_path\":\"\/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg\"},\"budget\":93000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.lordoftherings.net\/\",\"id\":120,\"imdb_id\":\"tt0120737\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lord of the Rings: The Fellowship of the Ring\",\"overview\":\"Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.\",\"popularity\":164.373,\"poster_path\":\"\/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":11,\"logo_path\":\"\/6FAuASQHybRkZUk08p9PzSs9ezM.png\",\"name\":\"WingNut Films\",\"origin_country\":\"NZ\"},{\"id\":5237,\"logo_path\":\"\/mlnr7vsBHvLye8oEb5A76C0t8x9.png\",\"name\":\"The Saul Zaentz Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-12-18\",\"revenue\":871368364,\"runtime\":179,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fate has chosen him. A fellowship will protect him . Evil will hunt them..\",\"title\":\"The Lord of the Rings: The Fellowship of the Ring\",\"video\":false,\"vote_average\":8.414,\"vote_count\":24569}"
+}

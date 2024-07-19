@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1462",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20188",
+        "x-memc": "HIT",
+        "x-memc-key": "b8883d7e4eb1a57b49fe64d7d6c7419a",
+        "x-memc-age": "2362",
+        "x-memc-expires": "20188",
+        "ETag": "W\/\"d3bffc3dafaaaeaaca5af99a2d7e98b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gOXnVWUpN47ipmS2kZvo6F3-cZpO4Q7uHAitI1B4d2seALds5sIX6Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wy3ItrIw4DmLFxvFK5LM6FPwdQw.jpg\",\"belongs_to_collection\":{\"id\":466463,\"name\":\"Descendants Collection\",\"poster_path\":\"\/dw02BxDYnmqW4h0t0qA0T3hd5MZ.jpg\",\"backdrop_path\":\"\/bPLL28xj5MqCBYiaixG4yMYKkpe.jpg\"},\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":277217,\"imdb_id\":\"tt3440298\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Descendants\",\"overview\":\"A present-day idyllic kingdom where the benevolent teenage son of King Adam and Queen Belle offers a chance of redemption for the troublemaking offspring of Disney's classic villains: Cruella De Vil (Carlos), Maleficent (Mal), the Evil Queen (Evie) and Jafar (Jay).\",\"popularity\":271.182,\"poster_path\":\"\/65DkgHPSLVjgr6IYkpY9Aqqqid5.jpg\",\"production_companies\":[{\"id\":11072,\"logo_path\":null,\"name\":\"Bad Angels Productions, Ltd.\",\"origin_country\":\"\"},{\"id\":138908,\"logo_path\":null,\"name\":\"5678 Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-07-31\",\"revenue\":0,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're not bad. They're just born that way.\",\"title\":\"Descendants\",\"video\":false,\"vote_average\":7.125,\"vote_count\":2261}"
+}

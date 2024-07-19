@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "945",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5664",
+        "x-memc": "HIT",
+        "x-memc-key": "9a22127bd17efc3e1de5cc09dbafc445",
+        "x-memc-age": "17144",
+        "x-memc-expires": "5664",
+        "ETag": "W\/\"286bd13aa904b456a0fe527bcaf2a613\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rzdvRtaPuG1RFf7M1I2SQwjQJZtLb6M8htaStcq1m5yjF05yD9-GSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":388593,\"imdb_id\":\"tt4298784\",\"origin_country\":[\"BO\"],\"original_language\":\"es\",\"original_title\":\"Olalla\",\"overview\":\"Based in the story by Robert Louis Stevenson, \\\"Olalla\\\" tells the story of a gothic and decadent family of genetic vampires who need human blood to survive, and where incest is the only way to maintain the family line.\",\"popularity\":2.988,\"poster_path\":\"\/4oRmV79cTHFYJPLyAkQE287i4iK.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"BO\",\"name\":\"Bolivia\"}],\"release_date\":\"2015-01-29\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Olalla\",\"video\":false,\"vote_average\":5.9,\"vote_count\":8}"
+}

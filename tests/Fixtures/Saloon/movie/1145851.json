@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1495",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3158",
+        "x-memc": "HIT",
+        "x-memc-key": "625d2c790692b1c3fcc11d469983ba73",
+        "x-memc-age": "19537",
+        "x-memc-expires": "3158",
+        "ETag": "W\/\"0d176412075a30e98c389ede5f1b392f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nyY68m5594RFBt8VsU2ja1-aVfhhGVRrq8bNy8sVKY4h_T2fQCgA5A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eXX9PqCgbTVYnnlbGuAz7Lk4E86.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":1145851,\"imdb_id\":\"tt22050310\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"El hombre del saco\",\"overview\":\"Explores the Spanish origins of the character's story, where he is a tuberculosis patient from Almeria who will do anything to get well, even consuming the blood of the kids he kidnaps in a sack.\",\"popularity\":17.214,\"poster_path\":\"\/3EdqlGB2ACpnqsrtKhyacaPhzHK.jpg\",\"production_companies\":[{\"id\":149886,\"logo_path\":\"\/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png\",\"name\":\"Esto Tambi\u00e9n Pasar\u00e1\",\"origin_country\":\"ES\"},{\"id\":29240,\"logo_path\":\"\/qz14qTCqR1KdkOGFsP1DQ4LcmI3.png\",\"name\":\"Mother Superior\",\"origin_country\":\"UY\"},{\"id\":91991,\"logo_path\":\"\/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png\",\"name\":\"Bowfinger\",\"origin_country\":\"ES\"},{\"id\":96809,\"logo_path\":\"\/wIXZQfxz4mm3Ag0ieXDAf2L2C9f.png\",\"name\":\"BTF Media\",\"origin_country\":\"MX\"},{\"id\":80408,\"logo_path\":\"\/e2LblDStah74O4c9E6o1U0qv0Oa.png\",\"name\":\"Glow\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"UY\",\"name\":\"Uruguay\"}],\"release_date\":\"2023-08-11\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Boogeyman: The Origin of the Myth\",\"video\":false,\"vote_average\":6.154,\"vote_count\":91}"
+}

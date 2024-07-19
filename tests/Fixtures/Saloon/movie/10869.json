@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1183",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9820",
+        "x-memc": "HIT",
+        "x-memc-key": "45d436b928997b4dd683a35b05b8b018",
+        "x-memc-age": "18569",
+        "x-memc-expires": "9820",
+        "ETag": "W\/\"c62b99036e4b0a54c7da10b0458ac6af\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eGIA082lU8QjbZhw1Lt2SC0I0XhuMDWKh25CTNMfDs54RTQSpohnNw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jzHwueypEAhp1KHza9DE32OnzIa.jpg\",\"belongs_to_collection\":{\"id\":12087,\"name\":\"Herbie Collection\",\"poster_path\":\"\/yfhSkmOHOdL0QfajTo1ZuOTDuHH.jpg\",\"backdrop_path\":\"\/hgi9EeU50KFhv9pCDmJyx4VLp5G.jpg\"},\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":10869,\"imdb_id\":\"tt0071607\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Herbie Rides Again\",\"overview\":\"The living Volkswagen Beetle helps an old lady protect her home from a corrupt developer.\",\"popularity\":17.097,\"poster_path\":\"\/1k14PPykkUQfhjn3xXDrc55lfHl.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1974-02-12\",\"revenue\":38229000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Loveable Bug's back doin' his thing!\",\"title\":\"Herbie Rides Again\",\"video\":false,\"vote_average\":6.12,\"vote_count\":387}"
+}

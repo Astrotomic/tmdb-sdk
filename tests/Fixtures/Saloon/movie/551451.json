@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1022",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1408",
+        "x-memc": "HIT",
+        "x-memc-key": "ca6edb59381617ba554de37ea2eb25c1",
+        "x-memc-age": "21811",
+        "x-memc-expires": "1408",
+        "ETag": "W\/\"08e2a7e20d4c99831b873b931a71243a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Kgih4sAl6hKp6NLY1G6PEGhB5cdL2rjodTSCFeQ6XGIkNnKhKEyf1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":551451,\"imdb_id\":null,\"origin_country\":[\"HU\"],\"original_language\":\"en\",\"original_title\":\"Skinny Puppy: Eurosolvent\",\"overview\":\"A free DVD bootleg from the fans for the fans. Not for sale. 100% free and fully downloadable. It showcases the band performing in Budapest (Diesel Club, August 19, 2010) during their In Solvent See tour. It is endorsed by the band. To all those who have asked about a DVD companion piece to the newest Skinny Puppy live album Bootlegged, Broke and In Solvent Seas, this is the answer.\",\"popularity\":1.486,\"poster_path\":\"\/uMXoe07wnQQ3IrDrQK6k9T0wUyM.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2012-01-01\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Skinny Puppy: Eurosolvent\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

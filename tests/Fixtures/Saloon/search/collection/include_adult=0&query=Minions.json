@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "625",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 13:40:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25357",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "bbe4d15c0448d10f84874c14217f5664",
+        "x-memc-age": "0",
+        "x-memc-expires": "25357",
+        "ETag": "W\/\"e6f115f245bd6813a31801c6a7743d4f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 60dc145c687858f10bb3fe6251ad4ffe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA60-P9",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JKJeHrjHkZIHvDcdZU-WpiCYxW4T5vWXHhm64AXJ3ZMmnOTqKdZCqw=="
+    },
+    "data": "{\"page\":1,\"results\":[{\"adult\":false,\"backdrop_path\":\"\/62Qe28oi9PaK3P2ljDYUDTGAyST.jpg\",\"id\":544669,\"name\":\"Minions Collection\",\"original_language\":\"en\",\"original_name\":\"Minions Collection\",\"overview\":\"'Despicable Me' spin-off series, focusing on the Minions characters.\",\"poster_path\":\"\/9Ul4YrDQAKfkOf8TpV2RrjeLmaI.jpg\"},{\"adult\":false,\"backdrop_path\":null,\"id\":1315772,\"name\":\"Minions 3\",\"original_language\":\"en\",\"original_name\":\"Minions 3\",\"overview\":\"The third installment in the Minions spin-off series, and the seventh film overall in the Despicable Me franchise.\",\"poster_path\":null}],\"total_pages\":1,\"total_results\":2}"
+}

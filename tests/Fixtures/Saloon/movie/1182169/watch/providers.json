@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "247",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27599",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "ae43106bd83567fcdc25f6bbb4661915",
+        "x-memc-age": "0",
+        "x-memc-expires": "27599",
+        "ETag": "W\/\"16af9bd2ca6f840b66df31d60a69078c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NU8dJ_sH46M1ptFBLgf6ea2IjqBnkq9f6u9mrIKvRPT6Smue2g9s6w=="
+    },
+    "data": "{\"id\":1182169,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1182169-smoker-of-the-future\/watch?locale=GB\",\"free\":[{\"logo_path\":\"\/nIm8xq1JYgHfusIcDnccEBQkoWp.jpg\",\"provider_id\":224,\"provider_name\":\"BFI Player\",\"display_priority\":15}]}}}"
+}

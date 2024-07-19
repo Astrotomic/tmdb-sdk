@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1719",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22187",
+        "x-memc": "HIT",
+        "x-memc-key": "2b416b8cdab08239dc7fd5b65641057d",
+        "x-memc-age": "2391",
+        "x-memc-expires": "22187",
+        "ETag": "W\/\"438247c78153981a43c696b13cb54cc4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TkbpifNOWCqWGqYlWM_0gepsw7_EU5OxYq7Hre_raqkdkqESkuXIEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fYr0fqT9NImOuaN1QgnDHgGh4Ci.jpg\",\"belongs_to_collection\":{\"id\":100965,\"name\":\"Atlantis Collection\",\"poster_path\":\"\/oxwbFidNYkOLvxIJFIJjzCl9Ns8.jpg\",\"backdrop_path\":\"\/rN2E6dcbp4FvjWnNo5uVHeYHMQI.jpg\"},\"budget\":120000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.disney.com\/atlantis\",\"id\":10865,\"imdb_id\":\"tt0230011\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Atlantis: The Lost Empire\",\"overview\":\"The world's most highly qualified crew of archaeologists and explorers is led by historian Milo Thatch as they board the incredible 1,000-foot submarine Ulysses and head deep into the mysteries of the sea. The underwater expedition takes an unexpected turn when the team's mission must switch from exploring Atlantis to protecting it.\",\"popularity\":43.172,\"poster_path\":\"\/rdCyK9hgoA2vYrLtVFpDc3KWBaC.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":171656,\"logo_path\":\"\/4UBohOtIr9DtxylH48Qsg6aDow6.png\",\"name\":\"Walt Disney Feature Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-06-02\",\"revenue\":186053725,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Atlantis is waiting...\",\"title\":\"Atlantis: The Lost Empire\",\"video\":false,\"vote_average\":7.008,\"vote_count\":4605}"
+}

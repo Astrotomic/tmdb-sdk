@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "730",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=362",
+        "x-memc": "HIT",
+        "x-memc-key": "c287d77361dd858162c605afc19fba33",
+        "x-memc-age": "22876",
+        "x-memc-expires": "362",
+        "ETag": "W\/\"5f10ba41b8e14bc0134820e288cf3736\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AOVlM1uXllRQy8nV8c8RyuryIBADENFWZhZpjWbasqcICaZ_Sp_LmA=="
+    },
+    "data": "{\"id\":1004660,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1004660-the-world-at-arm-s-length\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1004660-the-world-at-arm-s-length\/watch?locale=DE\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}]}}}"
+}

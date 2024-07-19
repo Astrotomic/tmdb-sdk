@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1043",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6380",
+        "x-memc": "HIT",
+        "x-memc-key": "5fd66bdca730226e5c8de7d4cfc228d9",
+        "x-memc-age": "21152",
+        "x-memc-expires": "6380",
+        "ETag": "W\/\"bcaad29782e75c124388058ef6b0f650\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GdhZ7Ck17UoPYZM0aTijPaXsoaR7IR9AwAnUs3OBbM5lGqAtt8WIXA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1Lnch5CEdeND59iAF3aSGIJFI0D.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81163835\",\"id\":1039868,\"imdb_id\":\"tt14034294\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Svaniti nella notte\",\"overview\":\"A father, immersed in a difficult divorce process, embarks on a dangerous mission when his children disappear from their isolated country house.\",\"popularity\":353.289,\"poster_path\":\"\/f83MF5KVFRs5zuFCPlb6UQV1Yo9.jpg\",\"production_companies\":[{\"id\":94785,\"logo_path\":\"\/u1DBUwYHOPsbTB7ZTqmg2kwfRQU.png\",\"name\":\"Picomedia\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2024-07-10\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Vanished into the Night\",\"video\":false,\"vote_average\":4.856,\"vote_count\":52}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1591",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3321",
+        "x-memc": "HIT",
+        "x-memc-key": "9b852d5cc1e3dc55f171a2603e59a761",
+        "x-memc-age": "18599",
+        "x-memc-expires": "3321",
+        "ETag": "W\/\"2e3a9e557c2fb8e23a7562ee67729c16\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FqjXxgZZbiMI90KAjNl-z38DW4VjO3JmuJsfec_DWaU2gQ97c2gEoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oO55Z71apssUy4Cf0obsK2kX3oK.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.hairspraymovie.com\",\"id\":2976,\"imdb_id\":\"tt0427327\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Hairspray\",\"overview\":\"Pleasantly plump teenager Tracy Turnblad auditions to be on Baltimore's most popular dance show - The Corny Collins Show - and lands a prime spot. Through her newfound fame, she becomes determined to help her friends and end the racial segregation that has been a staple of the show.\",\"popularity\":34.815,\"poster_path\":\"\/fgMka3HtFvI5OgW1eYdR9XpySxH.jpg\",\"production_companies\":[{\"id\":2378,\"logo_path\":\"\/5xDJwLbyyt8IXuRAsR7kVibLDYF.png\",\"name\":\"Offspring Entertainment\",\"origin_country\":\"US\"},{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":70994,\"logo_path\":null,\"name\":\"Zadan \/ Meron Productions\",\"origin_country\":\"\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-07-19\",\"revenue\":90450008,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When you follow your own beat, the world will follow you.\",\"title\":\"Hairspray\",\"video\":false,\"vote_average\":6.667,\"vote_count\":2425}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1293",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5725",
+        "x-memc": "HIT",
+        "x-memc-key": "579bb690163162161d31141da9dba096",
+        "x-memc-age": "18367",
+        "x-memc-expires": "5725",
+        "ETag": "W\/\"065acd2ed38e3524f3cb8f6ee24d5818\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Tp2BOer3334nhmwIjxO6lANMjgts9RLJBzoTvxDMUPm_SFPHbhNNDw=="
+    },
+    "data": "{\"id\":1028574,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028574-the-disappearance-of-cari-farver\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1028574-the-disappearance-of-cari-farver\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}],\"flatrate\":[{\"logo_path\":\"\/cpSQ9P0ntzr1gZcxHIyaryihpgH.jpg\",\"provider_id\":2055,\"provider_name\":\"Lifetime Movie Club Apple TV Channel\",\"display_priority\":265},{\"logo_path\":\"\/bKWKqZYT3wrpq1Lyi2qSmx1qlqh.jpg\",\"provider_id\":2089,\"provider_name\":\"Lifetime Movie Club Amazon Channel\",\"display_priority\":278}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

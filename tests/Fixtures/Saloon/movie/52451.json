@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1789",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20114",
+        "x-memc": "HIT",
+        "x-memc-key": "b6b8a76bd5ccec51dd6edad829b1896c",
+        "x-memc-age": "7118",
+        "x-memc-expires": "20114",
+        "ETag": "W\/\"c25dd7db979b8363e379241b42a03098\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GAVJa9aLGZjOn-9m6Ij-f2D_DaYT879yCiLDC2La3H3UTfoTvDIqSg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gxInxrSdEDUA5J3DT2wTj9vQIXr.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.threemusketeers-movie.com\/\",\"id\":52451,\"imdb_id\":\"tt1509767\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Three Musketeers\",\"overview\":\"The hot-headed young D'Artagnan along with three former legendary but now down on their luck Musketeers must unite and defeat a beautiful double agent and her villainous employer from seizing the French throne and engulfing Europe in war.\",\"popularity\":44.183,\"poster_path\":\"\/woCADkkDIIKrOMEokbFOEsAYtUa.jpg\",\"production_companies\":[{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"},{\"id\":248,\"logo_path\":null,\"name\":\"Impact Pictures\",\"origin_country\":\"GB\"},{\"id\":144244,\"logo_path\":null,\"name\":\"Nouvelles \u00c9ditions de Films (NEF)\",\"origin_country\":\"FR\"},{\"id\":939,\"logo_path\":null,\"name\":\"New Legacy Film\",\"origin_country\":\"GB\"},{\"id\":264,\"logo_path\":\"\/fA90qwUKgPhMONqtwY60GaHRyrW.png\",\"name\":\"Studio Babelsberg\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2011-08-31\",\"revenue\":132274484,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Every legend has a new beginning.\",\"title\":\"The Three Musketeers\",\"video\":false,\"vote_average\":5.801,\"vote_count\":2575}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1864",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8829",
+        "x-memc": "HIT",
+        "x-memc-key": "566c822c981b54627a3e5f31e2a2cd0d",
+        "x-memc-age": "19618",
+        "x-memc-expires": "8829",
+        "ETag": "W\/\"4c2f765eb1fb3850759c8ae37875c1a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WbdWIOjimMBJ-yQ1rdZAJfs1Iiz0GadWbXZwhUaoE4y4hbHTTyiLHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dmgFJdivUmV4vGLkbPD49KVjlHx.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.paramountpictures.com\/movies\/suburbicon\",\"id\":395458,\"imdb_id\":\"tt0491175\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Suburbicon\",\"overview\":\"In the quiet family town of Suburbicon during the 1950s, the best and worst of humanity is hilariously reflected through the deeds of seemingly ordinary people. When a home invasion turns deadly, a picture-perfect family turns to blackmail, revenge and murder.\",\"popularity\":18.082,\"poster_path\":\"\/a3IHgSwO5jWPLcGjKqbQ7pxVGkq.jpg\",\"production_companies\":[{\"id\":83645,\"logo_path\":null,\"name\":\"Huahua Media\",\"origin_country\":\"CN\"},{\"id\":1786,\"logo_path\":\"\/joLFuCWg9e2lweYnFQtRPJKSLlI.png\",\"name\":\"Dark Castle Entertainment\",\"origin_country\":\"US\"},{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":22146,\"logo_path\":\"\/jPBtpMh0AUFqf9yfOJXer9d5Rei.png\",\"name\":\"Black Bear Pictures\",\"origin_country\":\"US\"},{\"id\":1782,\"logo_path\":\"\/d1mlUfuG0NoQ4x0C7bK80wLGWA1.png\",\"name\":\"Smoke House Pictures\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":32554,\"logo_path\":null,\"name\":\"Bloom\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-10-26\",\"revenue\":12751667,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Welcome to the neighborhood\",\"title\":\"Suburbicon\",\"video\":false,\"vote_average\":5.883,\"vote_count\":1653}"
+}

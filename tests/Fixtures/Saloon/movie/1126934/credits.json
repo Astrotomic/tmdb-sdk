@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3843",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:40:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10500",
+        "x-memc": "HIT",
+        "x-memc-key": "58a7e0e6ce53460ebbcc2275c4113466",
+        "x-memc-age": "18272",
+        "x-memc-expires": "10500",
+        "ETag": "W\/\"cbaf79903d55fd1e25b127fda67e886b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9ETKmrkzBh_1tKJieFZL6fupMZZxmXO5KBgJXogB5pQ0hCOWEBGyZw=="
+    },
+    "data": "{\"id\":1126934,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":6408,\"known_for_department\":\"Acting\",\"name\":\"Nick Stahl\",\"original_name\":\"Nick Stahl\",\"popularity\":34.902,\"profile_path\":\"\/qWNe70AHt45hqnxIXh4mgPMIbCI.jpg\",\"cast_id\":3,\"character\":\"Ryan\",\"credit_id\":\"64615e57e3fa2f0103a1547b\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1605791,\"known_for_department\":\"Acting\",\"name\":\"Tamsin Topolski\",\"original_name\":\"Tamsin Topolski\",\"popularity\":8.803,\"profile_path\":\"\/fsOY0Fe3KX8zseeaYjzOy5htLUl.jpg\",\"cast_id\":4,\"character\":\"Imogene\",\"credit_id\":\"64615e6a8c44b90119cad36a\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":119883,\"known_for_department\":\"Acting\",\"name\":\"Randy Vasquez\",\"original_name\":\"Randy Vasquez\",\"popularity\":14.081,\"profile_path\":\"\/cGepuYRa1AmIzmwC2n4IrNmFXej.jpg\",\"cast_id\":5,\"character\":\"Detective Ruiz\",\"credit_id\":\"64615ea5e3fa2f00e4039072\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":1146114,\"known_for_department\":\"Acting\",\"name\":\"Penelope Mitchell\",\"original_name\":\"Penelope Mitchell\",\"popularity\":12.383,\"profile_path\":\"\/lGXfmQsOp0QWasXOG8hHHVhMbG6.jpg\",\"cast_id\":6,\"character\":\"Alice\",\"credit_id\":\"64e96c53c613ce00ac41c606\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":938029,\"known_for_department\":\"Acting\",\"name\":\"Brian Groh\",\"original_name\":\"Brian Groh\",\"popularity\":1.897,\"profile_path\":\"\/iFnNY7Q516Yf0kbFfFc9mJlWPAy.jpg\",\"cast_id\":14,\"character\":\"Jack\",\"credit_id\":\"64ed2131e894a6011ef9a5e8\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":2507665,\"known_for_department\":\"Acting\",\"name\":\"Juan Carlos Messier\",\"original_name\":\"Juan Carlos Messier\",\"popularity\":5.335,\"profile_path\":\"\/seQKDTpJB71gN4hnzZMTHXFuxa2.jpg\",\"cast_id\":13,\"character\":\"Maurice\",\"credit_id\":\"64e96e5e90ea4b0101f6d981\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":550681,\"known_for_department\":\"Directing\",\"name\":\"Nicholas Tomnay\",\"original_name\":\"Nicholas Tomnay\",\"popularity\":4.669,\"profile_path\":\"\/nDVnLDeK7HQQP85Wkzsb18w5z3i.jpg\",\"credit_id\":\"64615e2ae3fa2f0187b8ae32\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":550681,\"known_for_department\":\"Directing\",\"name\":\"Nicholas Tomnay\",\"original_name\":\"Nicholas Tomnay\",\"popularity\":4.669,\"profile_path\":\"\/nDVnLDeK7HQQP85Wkzsb18w5z3i.jpg\",\"credit_id\":\"64615e36a6725401221235ac\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":550681,\"known_for_department\":\"Directing\",\"name\":\"Nicholas Tomnay\",\"original_name\":\"Nicholas Tomnay\",\"popularity\":4.669,\"profile_path\":\"\/nDVnLDeK7HQQP85Wkzsb18w5z3i.jpg\",\"credit_id\":\"64e96d671feac100e16a56a8\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":550681,\"known_for_department\":\"Directing\",\"name\":\"Nicholas Tomnay\",\"original_name\":\"Nicholas Tomnay\",\"popularity\":4.669,\"profile_path\":\"\/nDVnLDeK7HQQP85Wkzsb18w5z3i.jpg\",\"credit_id\":\"64e96d79e894a600c728b50e\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":1812912,\"known_for_department\":\"Camera\",\"name\":\"Mateo Guzm\u00e1n\",\"original_name\":\"Mateo Guzm\u00e1n\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"64e96da85258ae012ca54bd0\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":0,\"id\":2730064,\"known_for_department\":\"Crew\",\"name\":\"Tracie Turnbull\",\"original_name\":\"Tracie Turnbull\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"64e96de75258ae00eaa44d13\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":1,\"id\":1132888,\"known_for_department\":\"Art\",\"name\":\"Diana Trujillo\",\"original_name\":\"Diana Trujillo\",\"popularity\":0.934,\"profile_path\":null,\"credit_id\":\"64ed4caf4cbe1201389d1031\",\"department\":\"Art\",\"job\":\"Production Design\"},{\"adult\":false,\"gender\":2,\"id\":1219207,\"known_for_department\":\"Sound\",\"name\":\"Jeff Russo\",\"original_name\":\"Jeff Russo\",\"popularity\":4.476,\"profile_path\":null,\"credit_id\":\"660eda416dc507017e57c689\",\"department\":\"Sound\",\"job\":\"Original Music Composer\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1700",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6613",
+        "x-memc": "HIT",
+        "x-memc-key": "a49269a5ff063d96e4a7e0f52792c523",
+        "x-memc-age": "21702",
+        "x-memc-expires": "6613",
+        "ETag": "W\/\"0ba4421aa5f77e5a29e448ccaa2fd518\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JX2cHwb8OuJnoELSE6fQsfsJwEUESyotM4TBLi6dZGFL0XfXYLWrAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dK12GIdhGP6NPGFssK2Fh265jyr.jpg\",\"belongs_to_collection\":{\"id\":932200,\"name\":\"Red Notice Collection\",\"poster_path\":\"\/m5cySJpHZ5T2LMynJo03w1pKf0H.jpg\",\"backdrop_path\":\"\/sqUIwgrX76lVaf4LGC2nUUCWGu0.jpg\"},\"budget\":160000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.rednoticemovie.com\",\"id\":512195,\"imdb_id\":\"tt7991608\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Red Notice\",\"overview\":\"An Interpol-issued Red Notice is a global alert to hunt and capture the world's most wanted. But when a daring heist brings together the FBI's top profiler and two rival criminals, there's no telling what will happen.\",\"popularity\":85.912,\"poster_path\":\"\/lAXONuqg41NwUMuzMiFvicDET9Y.jpg\",\"production_companies\":[{\"id\":34081,\"logo_path\":null,\"name\":\"Flynn Picture Company\",\"origin_country\":\"US\"},{\"id\":73669,\"logo_path\":\"\/9JmgzVUNvUN5KhZjmiVHEzPtFCc.png\",\"name\":\"Seven Bucks Productions\",\"origin_country\":\"US\"},{\"id\":102182,\"logo_path\":null,\"name\":\"Bad Version\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-11-04\",\"revenue\":178143,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Indonesian\",\"iso_639_1\":\"id\",\"name\":\"Bahasa indonesia\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Pro and cons.\",\"title\":\"Red Notice\",\"video\":false,\"vote_average\":6.777,\"vote_count\":5603}"
+}

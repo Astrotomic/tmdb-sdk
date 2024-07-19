@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1391",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11529",
+        "x-memc": "HIT",
+        "x-memc-key": "8684ceed75d348c61a6b44afb270454e",
+        "x-memc-age": "10874",
+        "x-memc-expires": "11529",
+        "ETag": "W\/\"16721c5efa46c9565244a5ea68f84e11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YgeKD0R5w-W1TuRUv99u5HhUmZZFTNpAQ0HlzLvWOaUC3jllpLnbUw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vVBcIN68kFq681b4lObiNJhEVro.jpg\",\"belongs_to_collection\":null,\"budget\":58000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/a-beautiful-mind\",\"id\":453,\"imdb_id\":\"tt0268978\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Beautiful Mind\",\"overview\":\"Brilliant mathematician, John Nash, is on the brink of international acclaim when he becomes entangled in a mysterious conspiracy.\",\"popularity\":63.973,\"poster_path\":\"\/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"},{\"id\":187063,\"logo_path\":null,\"name\":\"Brian Grazer Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-12-14\",\"revenue\":316800000,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He saw the world in a way no one could have imagined.\",\"title\":\"A Beautiful Mind\",\"video\":false,\"vote_average\":7.859,\"vote_count\":9970}"
+}

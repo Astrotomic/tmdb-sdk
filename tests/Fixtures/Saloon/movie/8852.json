@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1509",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12729",
+        "x-memc": "HIT",
+        "x-memc-key": "c5eee2d0f6c436328f2c02c70485931b",
+        "x-memc-age": "15713",
+        "x-memc-expires": "12729",
+        "ETag": "W\/\"120c228f4ed639d5a9b1f1676b5372fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "azE3jABG2v09L3wqKcnE5WVnq9t0OpRXHN_snr_ckw_UPmMjeTLvew=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3UFJqafqHbaecqEuGeW5mTvF0ao.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.theofficialjohncarpenter.com\/prince-of-darkness\/\",\"id\":8852,\"imdb_id\":\"tt0093777\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Prince of Darkness\",\"overview\":\"A group of graduate students and scientists uncover an ancient canister in an abandoned church, but when they open it, they inadvertently unleash a strange liquid and an evil force on all of humanity.\",\"popularity\":19.037,\"poster_path\":\"\/jjcAOhtGuX4p8XvlVn1WXUT1jWi.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":17823,\"logo_path\":null,\"name\":\"Alive Films\",\"origin_country\":\"US\"},{\"id\":17824,\"logo_path\":null,\"name\":\"Larry Franco Productions\",\"origin_country\":\"US\"},{\"id\":275,\"logo_path\":\"\/2MxNWlN5b3UXt1OfmznsWEQzFwq.png\",\"name\":\"Carolco Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-10-23\",\"revenue\":14182492,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Before man walked the earth... It slept for centuries. It is evil. It is real. It is awakening.\",\"title\":\"Prince of Darkness\",\"video\":false,\"vote_average\":6.783,\"vote_count\":959}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1373",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=54",
+        "x-memc": "HIT",
+        "x-memc-key": "d5116e90fa2df75ace168f9e319548a1",
+        "x-memc-age": "24658",
+        "x-memc-expires": "54",
+        "ETag": "W\/\"5e5dec3cb81dbd20a4546f91fa16bb98\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BXk0crymze-7jEBrop_cHGmr7PzhmggGOZn3aob94oFHlgvk0XChqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8PyV1YsO0ZPHZug9aEe363UUwed.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.victorymanproductions.com\/films\/humane\",\"id\":914215,\"imdb_id\":\"tt16280912\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Humane\",\"overview\":\"In the wake of an environmental collapse that has forced humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry.\",\"popularity\":35.783,\"poster_path\":\"\/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg\",\"production_companies\":[{\"id\":11221,\"logo_path\":\"\/6jVbb4ylJb74WlrtIDqcIlhwUQY.png\",\"name\":\"Victory Man\",\"origin_country\":\"CA\"},{\"id\":82552,\"logo_path\":\"\/cLEXKtCpRQs0meQwT7HK6u3QmRH.png\",\"name\":\"Elevation Pictures\",\"origin_country\":\"CA\"},{\"id\":2844,\"logo_path\":\"\/80lJ1OQzjWXI99Hj1VgUO3vu2qi.png\",\"name\":\"Prospero Pictures\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2024-04-26\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Dying makes all the difference in the world.\",\"title\":\"Humane\",\"video\":false,\"vote_average\":5.5,\"vote_count\":51}"
+}

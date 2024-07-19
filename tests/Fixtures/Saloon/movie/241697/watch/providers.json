@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1182",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6865",
+        "x-memc": "HIT",
+        "x-memc-key": "88a7fcf4bf68f088b513595ebae7b646",
+        "x-memc-age": "14987",
+        "x-memc-expires": "6865",
+        "ETag": "W\/\"196419b2606513809c1051fe3f4705c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MZzkkf6XC98xVa3uLpdNnHJ3jlVp6IxcDVHfc8QtmK7cJAHeje1nQA=="
+    },
+    "data": "{\"id\":241697,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/241697-x\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3},{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}]}}}"
+}

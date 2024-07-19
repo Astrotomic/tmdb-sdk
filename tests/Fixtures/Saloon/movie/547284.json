@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "901",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20832",
+        "x-memc": "HIT",
+        "x-memc-key": "debf5811e6a2f27c37cf6c51962049c7",
+        "x-memc-age": "1771",
+        "x-memc-expires": "20832",
+        "ETag": "W\/\"c45fce37cdab827146b8329d8e0c458a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5OvcsodYHkvUQ4nSKHjrmzvOOiHYTHACyEUUSN8HL08plDRR_uQpDA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hWVEf5Chr4DRU06uaKGCLpxH2sO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.danielaranyo.com\/work\/chuckle-boy?c=tv-and-web\",\"id\":547284,\"imdb_id\":\"tt1381544\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Chuckle Boy\",\"overview\":\"A short film about unexpected visitors with unusual demands.\",\"popularity\":1.333,\"poster_path\":null,\"production_companies\":[{\"id\":108676,\"logo_path\":null,\"name\":\"Mint 400 Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-01-16\",\"revenue\":0,\"runtime\":18,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Chuckle Boy\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

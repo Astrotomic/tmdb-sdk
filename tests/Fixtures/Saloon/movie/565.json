@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1506",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19023",
+        "x-memc": "HIT",
+        "x-memc-key": "25ff5ceed285ba98b594fc84a21af7f7",
+        "x-memc-age": "3875",
+        "x-memc-expires": "19023",
+        "ETag": "W\/\"33033d014ed194eabc2a9c354d4df3ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nvUPAyf0rGgxFfVxVf1FCiXV918kCWkF5PgqAN18k38VmzdmjzTzig=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6TBaTZCq0FdjrXcj9mKdHGpcr2D.jpg\",\"belongs_to_collection\":{\"id\":14563,\"name\":\"The Ring Collection\",\"poster_path\":\"\/500xj7l72BojMZ3tNBJY46tg5YJ.jpg\",\"backdrop_path\":\"\/jXlFymc442CEMB5h3d62GeJefnW.jpg\"},\"budget\":48000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":565,\"imdb_id\":\"tt0298130\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Ring\",\"overview\":\"Rachel Keller is a journalist investigating a videotape that may have killed four teenagers. There is an urban legend about this tape: the viewer will die seven days after watching it. Rachel tracks down the video... and watches it. Now she has just seven days to unravel the mystery of the Ring so she can save herself and her son.\",\"popularity\":55.233,\"poster_path\":\"\/gghD2ZIPjMzLnnBuT3AZQGYnIW9.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":6363,\"logo_path\":null,\"name\":\"BenderSpink\",\"origin_country\":\"US\"},{\"id\":11084,\"logo_path\":null,\"name\":\"Parkes\/MacDonald Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-10-18\",\"revenue\":249348933,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Before you die, you see the Ring.\",\"title\":\"The Ring\",\"video\":false,\"vote_average\":6.7,\"vote_count\":6009}"
+}

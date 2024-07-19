@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1171",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12207",
+        "x-memc": "HIT",
+        "x-memc-key": "5e7cd905b082ceafca88347af0ba5acf",
+        "x-memc-age": "10374",
+        "x-memc-expires": "12207",
+        "ETag": "W\/\"4d37c0e5acf67b1ba4cb42934b1b892c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JszCq79LVhheNZupFW0JthR2o0-uO_d2F9rEtkdhTDatCPZpkak_Ww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aMSrmveoCmeX3MGE4djp79o6UYc.jpg\",\"belongs_to_collection\":{\"id\":995239,\"name\":\"Beryl Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":386859,\"imdb_id\":\"tt0482352\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Body Beautiful\",\"overview\":\"A heavyset woman who keeps being harassed by her aerobics instructor and her attempts to get even with him on a Body Beautiful contest.\",\"popularity\":2.848,\"poster_path\":\"\/fbAWQdVRz93Qc1M3t4pC80scLqv.jpg\",\"production_companies\":[{\"id\":74096,\"logo_path\":null,\"name\":\"Beryl Productions\",\"origin_country\":\"GB\"},{\"id\":5075,\"logo_path\":null,\"name\":\"Sianel 4 Cymru (S4C)\",\"origin_country\":\"GB\"},{\"id\":5778,\"logo_path\":\"\/2loyoQweDxvotH3AknfL2zhsthg.png\",\"name\":\"Channel 4 Television\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1991-03-10\",\"revenue\":0,\"runtime\":13,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Body Beautiful\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1684",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24008",
+        "x-memc": "HIT",
+        "x-memc-key": "8e5b30731ab4bf77298af1fedd5481a5",
+        "x-memc-age": "4432",
+        "x-memc-expires": "24008",
+        "ETag": "W\/\"b111373d33a33db94dbc2cd3aca2c305\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8KOzk2npcm4wuP-TqIoVzRag5q_FrY6uiRNph2Puvt0XYa34IlGWlg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xcaSYLBhmDzJ6P14bcKe0KTh3QV.jpg\",\"belongs_to_collection\":null,\"budget\":52000000,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/bohemianrhapsody.com\",\"id\":424694,\"imdb_id\":\"tt1727824\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Bohemian Rhapsody\",\"overview\":\"Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet \u2013 finding a way to keep the band together amid the success and excess.\",\"popularity\":68.549,\"poster_path\":\"\/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":3281,\"logo_path\":\"\/pfmb82VUfN9VKB1YuBSY69WVNVm.png\",\"name\":\"GK Films\",\"origin_country\":\"GB\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-10-24\",\"revenue\":918355943,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fearless lives forever\",\"title\":\"Bohemian Rhapsody\",\"video\":false,\"vote_average\":7.987,\"vote_count\":16598}"
+}

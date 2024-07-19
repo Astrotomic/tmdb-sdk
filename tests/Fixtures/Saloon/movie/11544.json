@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1470",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5412",
+        "x-memc": "HIT",
+        "x-memc-key": "bac29c487bf13c97611a579a81751964",
+        "x-memc-age": "22276",
+        "x-memc-expires": "5412",
+        "ETag": "W\/\"040df85ead2fe5686445e38589d07483\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Cea9NgRpYPyK4rmVPz_-FY1lCyTAPSOhhlUS4kNV-QxrZxOtN0CGNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cxDFAic9FXPPJt2MdfX4ijVh3eC.jpg\",\"belongs_to_collection\":{\"id\":97461,\"name\":\"Lilo \\u0026 Stitch Collection\",\"poster_path\":\"\/bstyyXaLinnYwoyvo5HaDceJN07.jpg\",\"backdrop_path\":\"\/fmQpyiY2g2muOOLXQ0S0mTPij8I.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/movies.disney.com\/lilo-stitch\",\"id\":11544,\"imdb_id\":\"tt0275847\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lilo & Stitch\",\"overview\":\"As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \\\"puppy\\\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.\",\"popularity\":75.515,\"poster_path\":\"\/m13Vbzv7R2GMAl3GXFrkmMEgCFQ.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":171656,\"logo_path\":\"\/4UBohOtIr9DtxylH48Qsg6aDow6.png\",\"name\":\"Walt Disney Feature Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-06-21\",\"revenue\":273144151,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There's one in every family.\",\"title\":\"Lilo & Stitch\",\"video\":false,\"vote_average\":7.527,\"vote_count\":6014}"
+}

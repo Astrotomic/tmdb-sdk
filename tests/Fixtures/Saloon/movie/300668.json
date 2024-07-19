@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1355",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11750",
+        "x-memc": "HIT",
+        "x-memc-key": "8d8dfa93d49d846fa31b73a76550687b",
+        "x-memc-age": "12255",
+        "x-memc-expires": "11750",
+        "ETag": "W\/\"422e16b38e126e0c27f4847e1c9cb6ea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tZN2Yy_Jga4ZBNFbjYjJTcDcusNB8N2euMY-xfxlPEmfuF17Oqy2Bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vYs1YGalB8IEXxdxDtqkL0vfHjO.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/annihilationmovie.com\",\"id\":300668,\"imdb_id\":\"tt2798920\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Annihilation\",\"overview\":\"A biologist signs up for a dangerous, secret expedition into a mysterious zone where the laws of nature don't apply.\",\"popularity\":51.015,\"poster_path\":\"\/1dRweZy8DxGDhJFqiOA4Ni3I1ie.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":82819,\"logo_path\":\"\/gXfFl9pRPaoaq14jybEn1pHeldr.png\",\"name\":\"Skydance Media\",\"origin_country\":\"US\"},{\"id\":284,\"logo_path\":\"\/6a26if3IKy7mlrQuGHHVp6ufQtF.png\",\"name\":\"DNA Films\",\"origin_country\":\"GB\"},{\"id\":258,\"logo_path\":null,\"name\":\"Scott Rudin Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-02-22\",\"revenue\":43070915,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fear what's inside.\",\"title\":\"Annihilation\",\"video\":false,\"vote_average\":6.415,\"vote_count\":8420}"
+}

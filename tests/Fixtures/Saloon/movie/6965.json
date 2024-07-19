@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "659",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21757",
+        "x-memc": "HIT",
+        "x-memc-key": "1085a9cedcce8cf94fa68fbac2638665",
+        "x-memc-age": "923",
+        "x-memc-expires": "21757",
+        "ETag": "W\/\"91173b9c556ebf5b4f6ee6939558c09e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L7Rn-86wwRs1gh-0xVDJ1o5sKWMqfo_hgPsOCfbAqlWpvVaplLYsCQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":6965,\"imdb_id\":\"tt0044201\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das wei\u00dfe Abenteuer\",\"overview\":\"\",\"popularity\":2.376,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1952-02-08\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Das wei\u00dfe Abenteuer\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

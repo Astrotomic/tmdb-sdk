@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1642",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18726",
+        "x-memc": "HIT",
+        "x-memc-key": "fdb943ec9ff26c105568951eb38a115b",
+        "x-memc-age": "5589",
+        "x-memc-expires": "18726",
+        "ETag": "W\/\"3fb14b54200d548cec9e9e3231fdc40d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4LrZ7qf-tc5YnlKKYb2AVXwUK5jGT_BujDo8WYwnfQ9Lh08Q9DgrAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rj58WQ9ImI0mYDptXdM7euX1Wjt.jpg\",\"belongs_to_collection\":{\"id\":386382,\"name\":\"Frozen Collection\",\"poster_path\":\"\/dwdyvzFX9NEI7oFlRnZurRmlswQ.jpg\",\"backdrop_path\":\"\/s3vdRkK7KZFUDC8HEJo2GRKyVhW.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/movies.disney.com\/frozen\",\"id\":109445,\"imdb_id\":\"tt2294629\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frozen\",\"overview\":\"Young princess Anna of Arendelle dreams about finding true love at her sister Elsa\u2019s coronation. Fate takes her on a dangerous journey in an attempt to end the eternal winter that has fallen over the kingdom. She's accompanied by ice delivery man Kristoff, his reindeer Sven, and snowman Olaf. On an adventure where she will find out what friendship, courage, family, and true love really means.\",\"popularity\":125.286,\"poster_path\":\"\/itAKcobTYGpYT8Phwjd8c9hleTo.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-11-20\",\"revenue\":1274219009,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Only the act of true love will thaw a frozen heart.\",\"title\":\"Frozen\",\"video\":false,\"vote_average\":7.248,\"vote_count\":16207}"
+}

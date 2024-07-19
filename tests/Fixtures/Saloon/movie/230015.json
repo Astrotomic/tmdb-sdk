@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1258",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26055",
+        "x-memc": "HIT",
+        "x-memc-key": "53a47b65a1454120667613c091509110",
+        "x-memc-age": "2456",
+        "x-memc-expires": "26055",
+        "ETag": "W\/\"5fce3c0782e0197e0fc510665e575f75\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WgyzRHXWHoHX7JMHHJHsFDjTYmg4gm654CfLqXDBjuwzuWeIe6tn7g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/d9eLljUHBzZ0e88fz6T1SInNd5R.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/new.falloutentertainment.com\/project\/underdogs\/\",\"id\":230015,\"imdb_id\":\"tt2123342\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Underdogs\",\"overview\":\"The story of a small-town high school football team in rural Ohio destined to play their cross-town rival, a perennial powerhouse, while standing up for an entire community.\",\"popularity\":4.304,\"poster_path\":\"\/bk5v11Ul6n33x2sX4xgsIM3hxF8.jpg\",\"production_companies\":[{\"id\":136095,\"logo_path\":\"\/eiTCBJDJVuudWAoqgEC9RcE3BtG.png\",\"name\":\"One In A Row Films\",\"origin_country\":\"US\"},{\"id\":40340,\"logo_path\":\"\/moAcSuuBjYFrB02BzHG9SvAmnDE.png\",\"name\":\"Fallout Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-08-16\",\"revenue\":35271,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In the heart of Ohio it's God, family and football...but not always in that order.\",\"title\":\"Underdogs\",\"video\":false,\"vote_average\":6.1,\"vote_count\":22}"
+}

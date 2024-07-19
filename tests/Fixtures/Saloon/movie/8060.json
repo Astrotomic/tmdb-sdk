@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1369",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18074",
+        "x-memc": "HIT",
+        "x-memc-key": "01fd5ecce0c31275f208f43a37e847aa",
+        "x-memc-age": "9769",
+        "x-memc-expires": "18074",
+        "ETag": "W\/\"6ac5bd1f1566a7e1b57865f544191ea4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ng_KalDs6tUivVDzT9rMaTx_a-WZSRE9ZjdGVbkiAXGrtzL-pg1piw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fvIj8fo9j6DifyMWopHevGVhFUQ.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.sonyclassics.com\/marriedlife\/\",\"id\":8060,\"imdb_id\":\"tt0804505\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Married Life\",\"overview\":\"A very gentle middle-aged man is married, but when he falls in love with another woman, he decides that to divorce his wife would humiliate her too much \u2013 so instead he decides to kill her.\",\"popularity\":10.923,\"poster_path\":\"\/AdJKmRh3AKX5CVCdwdw1dNTqEJ8.jpg\",\"production_companies\":[{\"id\":737,\"logo_path\":\"\/dK1GZ1u4our8sJW0Sts1JHeNSLn.png\",\"name\":\"Sidney Kimmel Entertainment\",\"origin_country\":\"US\"},{\"id\":10039,\"logo_path\":\"\/b8w4LldQolMKiLZw4FQJBcXSDGI.png\",\"name\":\"Anonymous Content\",\"origin_country\":\"US\"},{\"id\":1838,\"logo_path\":null,\"name\":\"Firm Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-09-12\",\"revenue\":2888315,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Do you know what really goes on in the mind of the person with whom you sleep?\",\"title\":\"Married Life\",\"video\":false,\"vote_average\":5.7,\"vote_count\":155}"
+}

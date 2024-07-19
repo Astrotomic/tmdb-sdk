@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1584",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8072",
+        "x-memc": "HIT",
+        "x-memc-key": "f7e617b1862e3d82918cbbf00162664c",
+        "x-memc-age": "17397",
+        "x-memc-expires": "8072",
+        "ETag": "W\/\"da47905738a2e710d5466ae3dce821ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VxKd7yYtHAyyUomdsLjpKgOim5OxQlBDSA-Ks1bu7xe9jfKCrVJlXw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/acvE3RWjDLgvbL2RtcyzkrsAyNV.jpg\",\"belongs_to_collection\":null,\"budget\":200000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.paramountmovies.com\/movies\/killers-of-the-flower-moon\",\"id\":466420,\"imdb_id\":\"tt5537002\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Killers of the Flower Moon\",\"overview\":\"When oil is discovered in 1920s Oklahoma under Osage Nation land, the Osage people are murdered one by one\u2014until the FBI steps in to unravel the mystery.\",\"popularity\":125.293,\"poster_path\":\"\/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg\",\"production_companies\":[{\"id\":194232,\"logo_path\":\"\/oE7H93u8sy5vvW5EH3fpCp68vvB.png\",\"name\":\"Apple Studios\",\"origin_country\":\"US\"},{\"id\":81121,\"logo_path\":\"\/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png\",\"name\":\"Imperative Entertainment\",\"origin_country\":\"US\"},{\"id\":23243,\"logo_path\":null,\"name\":\"Sikelia Productions\",\"origin_country\":\"US\"},{\"id\":562,\"logo_path\":\"\/azANEzu3H3Kztzt63sdjvlzxhuB.png\",\"name\":\"Appian Way\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-10-18\",\"revenue\":156922344,\"runtime\":206,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"}],\"status\":\"Released\",\"tagline\":\"Greed is an animal that hungers for blood.\",\"title\":\"Killers of the Flower Moon\",\"video\":false,\"vote_average\":7.471,\"vote_count\":3034}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "779",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18869",
+        "x-memc": "HIT",
+        "x-memc-key": "de45b88e53d75081be5e086cc04ba215",
+        "x-memc-age": "2958",
+        "x-memc-expires": "18869",
+        "ETag": "W\/\"56147437997fc2a081d464399bb2fad5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zCIV1YTOaiuCxfijp5cgv_oWYYgmrG-vh_97kEw0FNpGwP6cyegQhQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/l7FkFPE5wgP360wNcBHF089InmB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/sentimentalcorp.org\",\"id\":1180219,\"imdb_id\":\"tt14464784\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Goat Worship: Mormon Baits\",\"overview\":\"Best pals Ronald & Mortis hang out and discuss life.\",\"popularity\":4.883,\"poster_path\":\"\/9LtgqNHzM5CdQlm7QbZUzUQp9f.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2010-10-09\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Goat Worship: Mormon Baits\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

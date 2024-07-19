@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1386",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11093",
+        "x-memc": "HIT",
+        "x-memc-key": "372c6ba88486a73558b3a482ed685027",
+        "x-memc-age": "10872",
+        "x-memc-expires": "11093",
+        "ETag": "W\/\"6e40f1ae12660d18900391a4cd3dd03c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pSHTpdgMJRorsBazKLBRmpA5a3OFUe1zHEwAFNm1zuXPZVaMlf0-wA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jXd49syV0WRWQVo5QtKAzeBfYJy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1088570,\"imdb_id\":\"tt28244038\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Karaok\u00e9\",\"overview\":\"B\u00e9n\u00e9dicte, a famous opera singer, leads the life of a diva between Parisian palaces and social gatherings. After an evening of excess, she sees her career crumble. Fatou, also a palace regular but as a cleaning lady, is the only one to reach out to her. Passionate about singing, Fatou has one idea in mind: to convince B\u00e9n\u00e9dicte to take part in the big national karaoke contest. The perfect vocal mastery of one and the tenacity of the other could well create sparks and take them very far.\",\"popularity\":6.843,\"poster_path\":\"\/9JjeH6CYkwl8KsBX4SlJIx4PdUb.jpg\",\"production_companies\":[{\"id\":17311,\"logo_path\":\"\/saew2RWH6qetZyd0AfVoTxUZCRt.png\",\"name\":\"Les Films du 24\",\"origin_country\":\"FR\"},{\"id\":356,\"logo_path\":\"\/tSJvuFaLIp7l0ONLUiAHA61GbXu.png\",\"name\":\"TF1 Films Production\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-03-20\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Karaoke\",\"video\":false,\"vote_average\":5.8,\"vote_count\":15}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "926",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24685",
+        "x-memc": "HIT",
+        "x-memc-key": "fafd2f5880b0dad9484ea6d20cf8e003",
+        "x-memc-age": "3881",
+        "x-memc-expires": "24685",
+        "ETag": "W\/\"34f050267dffcb924d12e906a3a7c6d6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mG_MVFIxjGGQOj5GHIYAH8xXxOkQZYNpg_Sn7IWv8dPvpObcyfWTxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qECLkYfJVjOcdogWo2spJlIJZrM.jpg\",\"belongs_to_collection\":null,\"budget\":31000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":709559,\"imdb_id\":\"tt7053940\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Kingdom of Var\",\"overview\":\"College student Sonja summons the demonic sorcerer Var after viewing a 500-year-old film containing his spirit.\",\"popularity\":2.716,\"poster_path\":\"\/zqxMOG7llKPx5QjXX3R16LyhPXK.jpg\",\"production_companies\":[{\"id\":134672,\"logo_path\":null,\"name\":\"Skeletonization Films\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2019-08-29\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some movies you watch, some movies watch you.\",\"title\":\"The Kingdom of Var\",\"video\":false,\"vote_average\":1.75,\"vote_count\":4}"
+}

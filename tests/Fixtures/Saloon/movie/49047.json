@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1785",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23827",
+        "x-memc": "HIT",
+        "x-memc-key": "54f13aff14bdbcd90e07888d05b5054c",
+        "x-memc-age": "515",
+        "x-memc-expires": "23827",
+        "ETag": "W\/\"e180a5b14dd889371ee4d332b761b440\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T0FQapk1xuLUeljh2MaiJn4ZYunrvIOKnh58_tH8C66daJSRqWU9Zg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg\",\"belongs_to_collection\":null,\"budget\":105000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/gravitymovie.warnerbros.com\",\"id\":49047,\"imdb_id\":\"tt1454468\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Gravity\",\"overview\":\"Dr. Ryan Stone, a brilliant medical engineer on her first Shuttle mission, with veteran astronaut Matt Kowalsky in command of his last flight before retiring. But on a seemingly routine spacewalk, disaster strikes. The Shuttle is destroyed, leaving Stone and Kowalsky completely alone-tethered to nothing but each other and spiraling out into the blackness of space. The deafening silence tells them they have lost any link to Earth and any chance for rescue. As fear turns to panic, every gulp of air eats away at what little oxygen is left. But the only way home may be to go further out into the terrifying expanse of space.\",\"popularity\":44.621,\"poster_path\":\"\/kZ2nZw8D681aphje8NJi8EfbL1U.jpg\",\"production_companies\":[{\"id\":7470,\"logo_path\":null,\"name\":\"Esperanto Filmoj\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":437,\"logo_path\":\"\/nu20mtwbEIhUNnQ5NXVhHsNknZj.png\",\"name\":\"Heyday Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-10-03\",\"revenue\":723192705,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Don't let go.\",\"title\":\"Gravity\",\"video\":false,\"vote_average\":7.167,\"vote_count\":15054}"
+}

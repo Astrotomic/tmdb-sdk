@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1356",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6370",
+        "x-memc": "HIT",
+        "x-memc-key": "a7ec58d44461b6b74b0a88c946c6ac00",
+        "x-memc-age": "22375",
+        "x-memc-expires": "6370",
+        "ETag": "W\/\"6269d1f96d233aa641154b6aef437be2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hDYMcoRl3_DztAQDYR01pvWwRB2rKwTQnSC0yUq6eGdFEYjCOJNSnQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dEhZGUNbC2QmmTrZjDZNOOCM09y.jpg\",\"belongs_to_collection\":{\"id\":1200974,\"name\":\"Yodonna Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":1243828,\"imdb_id\":\"tt31155808\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30e8\u30c9\u30f3\u30ca THE FINAL\",\"overview\":\"The final Yodonna special. Yodonna, is now living in the human world after her revival, accidentally ends up working with a group of female bank robbers.\",\"popularity\":3.14,\"poster_path\":\"\/zYFwMU4eY4JeRA4ujEYPDJo3etW.jpg\",\"production_companies\":[{\"id\":5822,\"logo_path\":\"\/qyTbRgCyU9NLKvKaiQVbadtr7RY.png\",\"name\":\"Toei Company\",\"origin_country\":\"JP\"},{\"id\":185154,\"logo_path\":null,\"name\":\"Toei Tokusatsu Fan Club\",\"origin_country\":\"JP\"},{\"id\":121739,\"logo_path\":null,\"name\":\"Toei Advertising\",\"origin_country\":\"JP\"},{\"id\":9300,\"logo_path\":\"\/9sSD1XufVCJWAadNiC9Mwu994VD.png\",\"name\":\"TV Asahi\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2024-03-03\",\"revenue\":0,\"runtime\":30,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mashin Sentai Kiramager Spin-Off: Yodonna THE FINAL\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

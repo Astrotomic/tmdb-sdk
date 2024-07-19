@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1384",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26611",
+        "x-memc": "HIT",
+        "x-memc-key": "f5a8ce5db370db5bb163a94b4b747635",
+        "x-memc-age": "1249",
+        "x-memc-expires": "26611",
+        "ETag": "W\/\"f0cd22a9c56b67552fcc1f3970eb24ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bSG4agvCaTv9CV5W2dk6RD6ttk1_anrK5S31f0X6h48zmGhUwjZfwQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/61Wj1C1hrOyu6mAHARS8J5ShOzq.jpg\",\"belongs_to_collection\":null,\"budget\":16000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":8854,\"imdb_id\":\"tt0120207\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Steel\",\"overview\":\"When a renegade military reject puts new superweapons in dangerous hands, John Henry Irons becomes Steel. Wearing body armor, wielding a fearsome electrohammer and riding a gadget-packed motorcycle, he's ready to wage war... if he can fix the untimely glitches in his untested gear.\",\"popularity\":16.044,\"poster_path\":\"\/ufA7d5LT2rGj58KaZErPhcMkJ4U.jpg\",\"production_companies\":[{\"id\":2554,\"logo_path\":null,\"name\":\"Quincy Jones-David Salzman Entertainment\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":429,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Comics\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-08-15\",\"revenue\":1686429,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Heroes don't come any bigger.\",\"title\":\"Steel\",\"video\":false,\"vote_average\":4.335,\"vote_count\":239}"
+}

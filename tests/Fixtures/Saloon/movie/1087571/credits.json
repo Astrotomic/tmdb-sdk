@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3538",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:41:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14974",
+        "x-memc": "HIT",
+        "x-memc-key": "2efc4e183a69acdc6b01f98437cc2013",
+        "x-memc-age": "8158",
+        "x-memc-expires": "14974",
+        "ETag": "W\/\"6705c34f293789cf01909c25006bec99\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LFA10QRq6Ea-YQxWruzwEwkNJL1He98x5c2kuASmy2u1g7bwIFcBVA=="
+    },
+    "data": "{\"id\":1087571,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":1425019,\"known_for_department\":\"Acting\",\"name\":\"Laia Costa\",\"original_name\":\"Laia Costa\",\"popularity\":11.28,\"profile_path\":\"\/kSbdpHWLlfzvOfZKJ0dgP0ieVL6.jpg\",\"cast_id\":1,\"character\":\"Nat\",\"credit_id\":\"63ee4086813cb60096ab9b04\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1131415,\"known_for_department\":\"Acting\",\"name\":\"Hovik Keuchkerian\",\"original_name\":\"Hovik Keuchkerian\",\"popularity\":12.957,\"profile_path\":\"\/o5cGKWHlZl4RFROYlT2hD95j0lN.jpg\",\"cast_id\":2,\"character\":\"Andreas\",\"credit_id\":\"63ee408df92532009d93d339\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":112901,\"known_for_department\":\"Acting\",\"name\":\"Hugo Silva\",\"original_name\":\"Hugo Silva\",\"popularity\":9.103,\"profile_path\":\"\/aMhffSrBefGQstniOtsJf3kEfNH.jpg\",\"cast_id\":3,\"character\":\"P\u00edter\",\"credit_id\":\"63ee409b813cb60084b3be17\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":27471,\"known_for_department\":\"Acting\",\"name\":\"Luis Bermejo\",\"original_name\":\"Luis Bermejo\",\"popularity\":8.526,\"profile_path\":\"\/rl4hG3Ou4N244hq5eKhGLz0gIBL.jpg\",\"cast_id\":4,\"character\":\"Landlord\",\"credit_id\":\"63ee40a41f3e600089dfde2d\",\"order\":3},{\"adult\":false,\"gender\":1,\"id\":1223239,\"known_for_department\":\"Acting\",\"name\":\"Ingrid Garc\u00eda Jonsson\",\"original_name\":\"Ingrid Garc\u00eda Jonsson\",\"popularity\":10.977,\"profile_path\":\"\/9stJ5SP1L1pkhK6K7LxwN9PJelE.jpg\",\"cast_id\":5,\"character\":\"Lara\",\"credit_id\":\"63ee40b31f3e6000a1c68ed1\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":1442194,\"known_for_department\":\"Acting\",\"name\":\"Francesco Carril\",\"original_name\":\"Francesco Carril\",\"popularity\":5.005,\"profile_path\":\"\/x1S2YalAc65MMv88fJenTJ0X2ma.jpg\",\"cast_id\":6,\"character\":\"Carlos\",\"credit_id\":\"63ee40ee8e87020086422dd1\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":90,\"known_for_department\":\"Directing\",\"name\":\"Isabel Coixet\",\"original_name\":\"Isabel Coixet\",\"popularity\":10.042,\"profile_path\":\"\/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg\",\"credit_id\":\"63ee4100813cb6008ec620de\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":1,\"id\":90,\"known_for_department\":\"Directing\",\"name\":\"Isabel Coixet\",\"original_name\":\"Isabel Coixet\",\"popularity\":10.042,\"profile_path\":\"\/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg\",\"credit_id\":\"63ee411d1f3e6000a1c68f0f\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":4080092,\"known_for_department\":\"Writing\",\"name\":\"Sara Mesa\",\"original_name\":\"Sara Mesa\",\"popularity\":0.011,\"profile_path\":null,\"credit_id\":\"646f66e9894ed60133b1b245\",\"department\":\"Writing\",\"job\":\"Novel\"},{\"adult\":false,\"gender\":0,\"id\":3998718,\"known_for_department\":\"Writing\",\"name\":\"Laura Ferrero\",\"original_name\":\"Laura Ferrero\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"646f670e0721660117ef0627\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":1,\"id\":90,\"known_for_department\":\"Directing\",\"name\":\"Isabel Coixet\",\"original_name\":\"Isabel Coixet\",\"popularity\":10.042,\"profile_path\":\"\/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg\",\"credit_id\":\"64e8bdb8c3c89100e36034c3\",\"department\":\"Camera\",\"job\":\"Camera Operator\"},{\"adult\":false,\"gender\":1,\"id\":1334534,\"known_for_department\":\"Camera\",\"name\":\"Bet Rourich\",\"original_name\":\"Bet Rourich\",\"popularity\":1.432,\"profile_path\":null,\"credit_id\":\"64e8bdc1594c940139c88f94\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":1,\"id\":1405371,\"known_for_department\":\"Directing\",\"name\":\"Gl\u00f2ria Blanes\",\"original_name\":\"Gl\u00f2ria Blanes\",\"popularity\":0.703,\"profile_path\":null,\"credit_id\":\"664ea4ec76e4fb6e32ec0062\",\"department\":\"Directing\",\"job\":\"Script Supervisor\"}]}"
+}

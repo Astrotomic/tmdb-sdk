@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1736",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18097",
+        "x-memc": "HIT",
+        "x-memc-key": "b483201ae479c8a4d00be1deb2a4faca",
+        "x-memc-age": "9057",
+        "x-memc-expires": "18097",
+        "ETag": "W\/\"e8479a13e212bbd615e1e8ceb1db06f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JBUplisYKVwaKviND1dsuhYhLTi3vFWpf4IAMns4kVJmoqR3FAhSFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2yHD9xcjRYbrjzANIwJC7DdsEEJ.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10955,\"imdb_id\":\"tt0265651\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Ripley's Game\",\"overview\":\"Tom Ripley - cool, urbane, wealthy, and murderous - lives in a villa in the Veneto with Luisa, his harpsichord-playing girlfriend. A former business associate from Berlin's underworld pays a call asking Ripley's help in killing a rival. Ripley - ever a student of human nature - initiates a game to turn a mild and innocent local picture framer into a hit man. The artisan, Jonathan Trevanny, who's dying of cancer, has a wife, young son, and little to leave them. If Ripley draws Jonathan into the game, can Ripley maintain control? Does it stop at one killing? What if Ripley develops a conscience?\",\"popularity\":13.418,\"poster_path\":\"\/1SoBJ38aCfvePgMAneeZYvmz9wB.jpg\",\"production_companies\":[{\"id\":2130,\"logo_path\":\"\/g0lqeY2FvhzXcOI6z8RVXbORRUY.png\",\"name\":\"Mr. Mudd Production\",\"origin_country\":\"US\"},{\"id\":93156,\"logo_path\":null,\"name\":\"Baby Films\",\"origin_country\":\"\"},{\"id\":10102,\"logo_path\":\"\/b0g4aEM39p0PwbIiaU1Cg3ZZUAq.png\",\"name\":\"Cattleya\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2002-09-02\",\"revenue\":6200000,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Older. Wiser. More Talented.\",\"title\":\"Ripley's Game\",\"video\":false,\"vote_average\":6.349,\"vote_count\":252}"
+}

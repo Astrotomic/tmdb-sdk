@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1169",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15443",
+        "x-memc": "HIT",
+        "x-memc-key": "39ed59d46fe07283b4308ad8ca32b3a6",
+        "x-memc-age": "13073",
+        "x-memc-expires": "15443",
+        "ETag": "W\/\"57d88cd89220bdcccb73589e2b15eba8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-Cvdt6LElzFpbFpmrA7Qk8D8_Dj60yf-AUIm-KPLDBpHn3l_iBvAtQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w7aIPADuAQTa7n7ooRKHclpxmYu.jpg\",\"belongs_to_collection\":null,\"budget\":175000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/movies.disney.com\/the-good-dinosaur\",\"id\":105864,\"imdb_id\":\"tt1979388\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Good Dinosaur\",\"overview\":\"An epic journey into the world of dinosaurs where an Apatosaurus named Arlo makes an unlikely human friend.\",\"popularity\":92.373,\"poster_path\":\"\/uFGLkizYHzAE5cEtWtyL6FBcBdJ.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-11-14\",\"revenue\":332207671,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Little Arms With Big Attitude\",\"title\":\"The Good Dinosaur\",\"video\":false,\"vote_average\":6.735,\"vote_count\":5413}"
+}

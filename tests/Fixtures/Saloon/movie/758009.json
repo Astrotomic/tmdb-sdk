@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1273",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:31:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22955",
+        "x-memc": "HIT",
+        "x-memc-key": "afa556fc8652d669cbef8bde39f48f94",
+        "x-memc-age": "3070",
+        "x-memc-expires": "22955",
+        "ETag": "W\/\"a8c93541c0ef9e30ff5b7e44cc8e5fc5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Qp-GMDQRPkYDl4pweLwG-Q2QGDwx99YN941HauLGA7JvDE35kZfqyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zGoZB4CboMzY1z4G3nU6BWnMDB2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.amazon.com\/dp\/B0B7729B9F\",\"id\":758009,\"imdb_id\":\"tt9686790\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shotgun Wedding\",\"overview\":\"Darcy and Tom gather their families for the ultimate destination wedding but when the entire party is taken hostage, \u201c\u2019Til Death Do Us Part\u201d takes on a whole new meaning. Now, Darcy and Tom must save their loved ones\u2014if they don\u2019t kill each other first.\",\"popularity\":56.827,\"poster_path\":\"\/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg\",\"production_companies\":[{\"id\":10227,\"logo_path\":\"\/3YfRy3DBl4abcqkzGx4RVNz12yl.png\",\"name\":\"Mandeville Films\",\"origin_country\":\"US\"},{\"id\":1620,\"logo_path\":null,\"name\":\"Nuyorican Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-12-28\",\"revenue\":4495365,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Save the day.\",\"title\":\"Shotgun Wedding\",\"video\":false,\"vote_average\":6.32,\"vote_count\":1125}"
+}

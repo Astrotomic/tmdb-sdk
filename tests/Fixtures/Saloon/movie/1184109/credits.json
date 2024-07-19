@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2353",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3830",
+        "x-memc": "HIT",
+        "x-memc-key": "ae06f43d5c0ccc4586e0d0a1d10a92db",
+        "x-memc-age": "22123",
+        "x-memc-expires": "3830",
+        "ETag": "W\/\"5589a3288af45493a3b17878782fc1c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jg_43XTzmj0XWj7JZ_qOok_THpCWNYJQPSw68SI6kFnjYQKH0Zq4sw=="
+    },
+    "data": "{\"id\":1184109,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3692686,\"known_for_department\":\"Acting\",\"name\":\"Anna Lindner\",\"original_name\":\"Anna Lindner\",\"popularity\":0.067,\"profile_path\":null,\"cast_id\":5,\"character\":\"Helen (after)\",\"credit_id\":\"6513766bcadb6b02be544494\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2033025,\"known_for_department\":\"Acting\",\"name\":\"Anna Steen\",\"original_name\":\"Anna Steen\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"Helen (before)\",\"credit_id\":\"6513767ca199a600ab16f67a\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1172833,\"known_for_department\":\"Acting\",\"name\":\"Brendan Rock\",\"original_name\":\"Brendan Rock\",\"popularity\":2.706,\"profile_path\":\"\/11zTQERJqs45QkwLwPyDyuz16jx.jpg\",\"cast_id\":7,\"character\":\"Ivan\",\"credit_id\":\"651376a8c50ad2012c16b9b3\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":4293053,\"known_for_department\":\"Acting\",\"name\":\"Elvy-Lee Quici\",\"original_name\":\"Elvy-Lee Quici\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":8,\"character\":\"Tamra\",\"credit_id\":\"651376b9a199a600ab16f71a\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":4271237,\"known_for_department\":\"Acting\",\"name\":\"Henry Cooper\",\"original_name\":\"Henry Cooper\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":9,\"character\":\"Tom\",\"credit_id\":\"651376d80745e1011c273a97\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":79696,\"known_for_department\":\"Acting\",\"name\":\"Elena Carapetis\",\"original_name\":\"Elena Carapetis\",\"popularity\":4.161,\"profile_path\":\"\/sIbZfOYmNpVNohAgRNEksbSzxVB.jpg\",\"credit_id\":\"651375dec50ad200c918af18\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":1,\"id\":79696,\"known_for_department\":\"Acting\",\"name\":\"Elena Carapetis\",\"original_name\":\"Elena Carapetis\",\"popularity\":4.161,\"profile_path\":\"\/sIbZfOYmNpVNohAgRNEksbSzxVB.jpg\",\"credit_id\":\"651375e30499f2011b091ae7\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":1,\"id\":1734701,\"known_for_department\":\"Production\",\"name\":\"Lisa Scott\",\"original_name\":\"Lisa Scott\",\"popularity\":0.413,\"profile_path\":null,\"credit_id\":\"651375faa199a600fe73cfb2\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":2787025,\"known_for_department\":\"Camera\",\"name\":\"Adam Camporeale\",\"original_name\":\"Adam Camporeale\",\"popularity\":0.008,\"profile_path\":null,\"credit_id\":\"65137605ea84c700aee781d4\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

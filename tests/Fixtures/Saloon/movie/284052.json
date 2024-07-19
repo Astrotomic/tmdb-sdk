@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1270",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 07:11:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2516",
+        "x-memc": "HIT",
+        "x-memc-key": "3c5a0b61684df8696865237c90d3160b",
+        "x-memc-age": "19690",
+        "x-memc-expires": "2516",
+        "ETag": "W\/\"c2e0414e8076d677a89319b8b0cc5f90\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lbsbZRdRG6gIODIpK7-5fcEO6wpUgZR37BBjcXP-Ui18MUilQG0ErQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg\",\"belongs_to_collection\":{\"id\":618529,\"name\":\"Doctor Strange Collection\",\"poster_path\":\"\/bm7UlW3ctMJAvD6NNXrCDdRyyKn.jpg\",\"backdrop_path\":\"\/t7Xl8fNVuETzrbpmf6dGosjIHPN.jpg\"},\"budget\":180000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/marvel.com\/doctorstrange\",\"id\":284052,\"imdb_id\":\"tt1211837\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Doctor Strange\",\"overview\":\"After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.\",\"popularity\":62.076,\"poster_path\":\"\/7WfK17BXE6szXlm4WOxfswgbdsL.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-10-25\",\"revenue\":676343174,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The impossibilities are endless.\",\"title\":\"Doctor Strange\",\"video\":false,\"vote_average\":7.424,\"vote_count\":21749}"
+}

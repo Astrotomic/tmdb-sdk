@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1236",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12701",
+        "x-memc": "HIT",
+        "x-memc-key": "7ac36f82d5e0a8eb238901c4e23a1487",
+        "x-memc-age": "10870",
+        "x-memc-expires": "12701",
+        "ETag": "W\/\"3cebb9e4526ecf47162c3890d9f20050\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "p4vSveqpwfc8rk3W1NHWln5Ta7TwPpiQOnnTsxdU1130Yf2L9R6OXg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7IgL9NzlXSSHXyYoZHXVJEKQhkg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.disneyplus.com\/movies\/may-the-12th-be-with-you\/suddSFHXbDkx\",\"id\":1284004,\"imdb_id\":\"tt32268303\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"May the 12th Be with You\",\"overview\":\"It's Mother's Day and Marge Simpson joins the moms of Disney+ on a special holiday outing that turns into an epic galactic adventure filled with heroes, villains, and Stewie from Family Guy.\",\"popularity\":288.023,\"poster_path\":\"\/sHJ2OIgpcpSmhqXkuSWxZ3nwg1S.jpg\",\"production_companies\":[{\"id\":154887,\"logo_path\":\"\/wLFPu95hIMmyLR5hdtvYaMuK0tG.png\",\"name\":\"20th Television Animation\",\"origin_country\":\"US\"},{\"id\":18,\"logo_path\":\"\/uqhagSwM7NAkQWVCQhKTyoqF8XH.png\",\"name\":\"Gracie Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-09\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"May the 12th Be with You\",\"video\":false,\"vote_average\":5.586,\"vote_count\":35}"
+}

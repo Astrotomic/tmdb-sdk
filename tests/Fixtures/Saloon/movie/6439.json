@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1494",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22648",
+        "x-memc": "HIT",
+        "x-memc-key": "87e07a3e1ed0de43df50274a02ce612f",
+        "x-memc-age": "3538",
+        "x-memc-expires": "22648",
+        "ETag": "W\/\"b45762297ae868912334de2b5ee08a9b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0i2TeUz4vUvKvv4BwV2U8fffvo0B9CjFVCV9Q4_qRN86p7m5zZh6-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/QpKBAkssvvKtJrJLJvbq5I4Ggg.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":6439,\"imdb_id\":\"tt0376105\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Racing Stripes\",\"overview\":\"Shattered illusions are hard to repair -- especially for a good-hearted zebra named Stripes who's spent his life on a Kentucky farm amidst the sorely mistaken notion that he's a debonair thoroughbred. Once he faces the fact that his stark stripes mark him as different, he decides he'll race anyway. And with help from the young girl who raised him, he just might end up in the winner's circle.\",\"popularity\":30.888,\"poster_path\":\"\/epDsuf5oUdzTFYHqV2IRcyy8Rwc.jpg\",\"production_companies\":[{\"id\":1088,\"logo_path\":\"\/9WOE5AQUXbOtLU6GTwfjS8OMF0v.png\",\"name\":\"Alcon Entertainment\",\"origin_country\":\"US\"},{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-01-06\",\"revenue\":90754475,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Cheer 'til you're horse!\",\"title\":\"Racing Stripes\",\"video\":false,\"vote_average\":5.9,\"vote_count\":597}"
+}

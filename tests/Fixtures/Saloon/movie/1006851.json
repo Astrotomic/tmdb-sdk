@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "885",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18028",
+        "x-memc": "HIT",
+        "x-memc-key": "e76e26d9299eed0bc6ba09e66c1975d0",
+        "x-memc-age": "9249",
+        "x-memc-expires": "18028",
+        "ETag": "W\/\"91da98d4c3c3e1703a2e697e3433a601\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UXpz8dTETtGue2A5uGpSHZOLX1_ZoJH3LZIqAUB_h8sL6xeDaJQGLA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bL7VIHQ4Nl0hZMw8ZeX6byoEEZJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81590587\",\"id\":1006851,\"imdb_id\":\"tt21440188\",\"origin_country\":[\"ZA\"],\"original_language\":\"en\",\"original_title\":\"Office Invasion\",\"overview\":\"Three friends come together to defend their valuable mining company from\u2026aliens?! What could possibly go wrong?\",\"popularity\":46.089,\"poster_path\":\"\/khcVwO0gwguC1CndbxtH1bzk4aj.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"}],\"release_date\":\"2022-08-10\",\"revenue\":0,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Office Invasion\",\"video\":false,\"vote_average\":5.5,\"vote_count\":106}"
+}

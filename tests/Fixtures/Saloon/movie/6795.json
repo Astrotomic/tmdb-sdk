@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1660",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8324",
+        "x-memc": "HIT",
+        "x-memc-key": "f8e66039988631b96ad542b1714f5dc0",
+        "x-memc-age": "19555",
+        "x-memc-expires": "8324",
+        "ETag": "W\/\"8ad5dba7e1be29d748b5073005b8bc49\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YtIJzRYk19XWHt57f2J-3M7kWtb0TrAkIjjKVIkZcOjiAHz2rXH64w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s9Bn7Mx4U9cWOR1WdFZjU1DTAkh.jpg\",\"belongs_to_collection\":null,\"budget\":65000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/zathura\",\"id\":6795,\"imdb_id\":\"tt0406375\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Zathura: A Space Adventure\",\"overview\":\"After their father is called into work, two young boys, Walter and Danny, are left in the care of their teenage sister, Lisa, and told they must stay inside. Walter and Danny, who anticipate a boring day, are shocked when they begin playing Zathura, a space-themed board game, which they realize has mystical powers when their house is shot into space. With the help of an astronaut, the boys attempt to return home.\",\"popularity\":53.32,\"poster_path\":\"\/gDb5BW2NLqZ9cvg9nyzkZVvmgze.jpg\",\"production_companies\":[{\"id\":2550,\"logo_path\":null,\"name\":\"Teitler Film\",\"origin_country\":\"US\"},{\"id\":11370,\"logo_path\":null,\"name\":\"Michael De Luca Productions\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":350,\"logo_path\":\"\/l4cEc8UZ3ZrPLisIOh1iYMKwAVP.png\",\"name\":\"Radar Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-11-06\",\"revenue\":65079104,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Adventure Is Waiting\",\"title\":\"Zathura: A Space Adventure\",\"video\":false,\"vote_average\":6.425,\"vote_count\":3194}"
+}

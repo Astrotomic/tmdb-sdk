@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1157",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22819",
+        "x-memc": "HIT",
+        "x-memc-key": "3c0ee11131c29cc8299094f6e88da232",
+        "x-memc-age": "2845",
+        "x-memc-expires": "22819",
+        "ETag": "W\/\"9a267ed560145b41aa3cdd61f6b7cb84\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yID38naS1gmu648HIG-bAxu6bBLCIbynPVE6ZB0J_cGrxcATVHvCYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":37,\"name\":\"Western\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/howlcoyotehowlmovie.com\/\",\"id\":1238375,\"imdb_id\":\"tt18227300\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Howl Coyote Howl\",\"overview\":\"After a bloody exchange with some bounty hunters, Anna, a veteran of the War in Afghanistan, and Gloria, her ill-prepared God-fearing friend, team up with a pair of coyotes to escape into Mexico.\",\"popularity\":5.75,\"poster_path\":null,\"production_companies\":[{\"id\":219612,\"logo_path\":null,\"name\":\"Epomania Inc.\",\"origin_country\":\"\"},{\"id\":219613,\"logo_path\":null,\"name\":\"The Magic Garage\",\"origin_country\":\"\"},{\"id\":219614,\"logo_path\":null,\"name\":\"A Handful of Nothing Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Howl Coyote Howl\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

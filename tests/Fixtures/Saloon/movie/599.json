@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "953",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16352",
+        "x-memc": "HIT",
+        "x-memc-key": "f062d61dd7fb81f305be8673d89c8fb6",
+        "x-memc-age": "10610",
+        "x-memc-expires": "16352",
+        "ETag": "W\/\"5bd7e02a64ffc46c5fb1b0923e8f6e24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L8bA_rb5cWQWeILgrKJ1_sINFZTdNxHF9Xq8KMxwOxdzeRjYPb99dw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/p47ihFj4A7EpBjmPHdTj4ipyq1S.jpg\",\"belongs_to_collection\":null,\"budget\":1752000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":599,\"imdb_id\":\"tt0043014\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sunset Boulevard\",\"overview\":\"A hack screenwriter writes a screenplay for a former silent film star who has faded into Hollywood obscurity.\",\"popularity\":37.249,\"poster_path\":\"\/sC4Dpmn87oz9AuxZ15Lmip0Ftgr.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1950-08-10\",\"revenue\":5000000,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Hollywood Story.\",\"title\":\"Sunset Boulevard\",\"video\":false,\"vote_average\":8.314,\"vote_count\":2499}"
+}

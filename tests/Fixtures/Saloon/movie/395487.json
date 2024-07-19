@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "884",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12534",
+        "x-memc": "HIT",
+        "x-memc-key": "e73be2c88409bfc62b46abb548047adc",
+        "x-memc-age": "10506",
+        "x-memc-expires": "12534",
+        "ETag": "W\/\"87fae9c47666801295925e9e626e2856\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J5FkNCxIwas1AVcTEvmFpGff0DM8AjCL8hqhmR0haRsg2yfliEm3jg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cwA9pjJ7OlV2UJGYZJOzfNSuoHg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395487,\"imdb_id\":\"tt0258169\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Small Hours\",\"overview\":\"An advertising executive and some friends go on an all-night pub crawl and lament about life, love, society, and existence in general.\",\"popularity\":2.145,\"poster_path\":null,\"production_companies\":[{\"id\":76216,\"logo_path\":null,\"name\":\"Bell Film Exchange\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1962-08-13\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Small Hours\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

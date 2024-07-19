@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1366",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7725",
+        "x-memc": "HIT",
+        "x-memc-key": "5084e9014a31fa1fb66ade3787573935",
+        "x-memc-age": "19684",
+        "x-memc-expires": "7725",
+        "ETag": "W\/\"6747d5f19a6ed9a0b5e5b571bbf7c25e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SgbhGQQU0CqtELbmnEHXoMcaqqhbOkHKllmLUohVvvBain5NamEfyA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vDf9FmgCbn9YH4JGTpIsyiKX1fa.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":816741,\"imdb_id\":\"tt10648326\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Ojos Grises\",\"overview\":\"In a post-apocalyptic future, mankind is color blind. A brilliant scientist suddenly dies, leaving his precious briefcase-filled with a highly-addictive synthetic drug that allows people to see colors again-to Ana, a mere 12-year-old girl. Possession of the briefcase makes her the target of a doctor with wicked plans for the drug, and her only hope to escape his pursuit relies on the aid of the dead scientist's two devoted bodyguards. Together, their epic, perilous journey pivots on a tremendous secret: Ana herself could be the key to salvaging a world in ruins.\",\"popularity\":51.148,\"poster_path\":\"\/5InVYa7CcbGioPvQ6ig4Lz4iLlR.jpg\",\"production_companies\":[{\"id\":159296,\"logo_path\":null,\"name\":\"Fundaci\u00f3n Dodec\u00e1\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"UY\",\"name\":\"Uruguay\"}],\"release_date\":\"2018-05-11\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Grey Eyes\",\"video\":false,\"vote_average\":5.797,\"vote_count\":59}"
+}

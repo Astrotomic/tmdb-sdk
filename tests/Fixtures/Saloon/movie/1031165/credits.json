@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1066",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:41:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5137",
+        "x-memc": "HIT",
+        "x-memc-key": "4c3f147e7acfe15d367331337a249589",
+        "x-memc-age": "16988",
+        "x-memc-expires": "5137",
+        "ETag": "W\/\"ef36a9d6ebfe96c30be674ded1dd2962\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jNG58dbpC4HJr-SDsur5MN7-rPEI1IQUAqyAuj8K16VHXPnh4xNm-g=="
+    },
+    "data": "{\"id\":1031165,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":1902933,\"known_for_department\":\"Acting\",\"name\":\"Ariana Ron Pedrique\",\"original_name\":\"Ariana Ron Pedrique\",\"popularity\":2.524,\"profile_path\":null,\"cast_id\":4,\"character\":\"Gaby Diaz\",\"credit_id\":\"633a234138469a008240ba89\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1303791,\"known_for_department\":\"Acting\",\"name\":\"Rodrigo Massa\",\"original_name\":\"Rodrigo Massa\",\"popularity\":9.158,\"profile_path\":\"\/f4XTZp79lWzCL7dogOQBjXAgMTI.jpg\",\"cast_id\":2,\"character\":\"Alex Alvarado\",\"credit_id\":\"633a2179c2ff3d007ad59759\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":3724869,\"known_for_department\":\"Acting\",\"name\":\"Luisa Muriel\",\"original_name\":\"Luisa Muriel\",\"popularity\":1.081,\"profile_path\":null,\"cast_id\":3,\"character\":\"Abuela\",\"credit_id\":\"633a218dc2ff3d007ad59764\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":3724866,\"known_for_department\":\"Directing\",\"name\":\"Alba Gil\",\"original_name\":\"Alba Gil\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"633a216f4cbe120079a27025\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

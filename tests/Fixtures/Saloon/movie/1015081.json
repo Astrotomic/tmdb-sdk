@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1070",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26294",
+        "x-memc": "HIT",
+        "x-memc-key": "daa924b307f12700d73e6407cf796708",
+        "x-memc-age": "481",
+        "x-memc-expires": "26294",
+        "ETag": "W\/\"d656552638144124d22e225eee92035d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dg1nLYv6hS3ARA6tMqXMWIPnKgzReQjuLmWnKkEoWStxMp0smZK9gA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bb3kb40953xIrYNzAcKIrvVW7pi.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1015081,\"imdb_id\":\"tt21815772\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spoonful of Sugar\",\"overview\":\"Millicent working on her thesis about children with severe allergies, is hired to babysit little Johnny, a sickly, mute child who suffers from every allergy under the sun. As she discovers Johnny\u2019s dark family secrets, things begin to become unhinged.\",\"popularity\":6.329,\"poster_path\":\"\/q4cLHdAJCHqAWIIplCHEyG6JgrR.jpg\",\"production_companies\":[{\"id\":46453,\"logo_path\":\"\/pftS6dWlYOqNKRHektMx3UiwOgS.png\",\"name\":\"Vanishing Angle\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-24\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Spoonful of Sugar\",\"video\":false,\"vote_average\":5.2,\"vote_count\":38}"
+}

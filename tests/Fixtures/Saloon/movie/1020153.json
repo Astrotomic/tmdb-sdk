@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "739",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11826",
+        "x-memc": "HIT",
+        "x-memc-key": "83f709a2f25ac645b1abdb3d0d711e28",
+        "x-memc-age": "15594",
+        "x-memc-expires": "11826",
+        "ETag": "W\/\"16f07edc7bbc0aaaecec09bdd3b6175c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lprIoTQPyeejAEwDOrrzufkVc0O4dtEXiWilrDMaWKUvb5b6w8pOQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1020153,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Sombrero\",\"overview\":\"\",\"popularity\":1.291,\"poster_path\":null,\"production_companies\":[{\"id\":121596,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 televize Ostrava\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1972-03-21\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sombrero\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

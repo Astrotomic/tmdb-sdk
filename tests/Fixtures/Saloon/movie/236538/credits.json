@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1156",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18910",
+        "x-memc": "HIT",
+        "x-memc-key": "f710ee4a3e0e51133f724cdbdbb81713",
+        "x-memc-age": "3076",
+        "x-memc-expires": "18910",
+        "ETag": "W\/\"8192f63356f682a5b165f498a0574a96\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a_swelbIDe11jr44Af-guG6tusCwSVRtHYVqvzKuezNkuRcBkjsUtQ=="
+    },
+    "data": "{\"id\":236538,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":33923,\"known_for_department\":\"Acting\",\"name\":\"Mel Blanc\",\"original_name\":\"Mel Blanc\",\"popularity\":22.46,\"profile_path\":\"\/8fevv4K06TmHsYom2XfmxgKrTcd.jpg\",\"cast_id\":2,\"character\":\"Porky Pig\/Bear\/Cow\/Dog\/Mouse (voice)\",\"credit_id\":\"5994df40c3a3685679003af6\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":930633,\"known_for_department\":\"Directing\",\"name\":\"Friz Freleng\",\"original_name\":\"Friz Freleng\",\"popularity\":12.271,\"profile_path\":\"\/v7CtAOi4eLJkyu9bZN1yC8e5Wco.jpg\",\"credit_id\":\"52fe4e5cc3a36847f828c0c9\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":362742,\"known_for_department\":\"Writing\",\"name\":\"Michael Maltese\",\"original_name\":\"Michael Maltese\",\"popularity\":7.37,\"profile_path\":\"\/kh0VmXGxAAUPybZHMFsir5beXiH.jpg\",\"credit_id\":\"643b1abf719aeb04cbeba420\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":2,\"id\":551674,\"known_for_department\":\"Sound\",\"name\":\"Carl W. Stalling\",\"original_name\":\"Carl W. Stalling\",\"popularity\":3.199,\"profile_path\":\"\/pvo2CuSZen19HwzODF9v42OhQmR.jpg\",\"credit_id\":\"643b1ac62ea6b9054650eee2\",\"department\":\"Sound\",\"job\":\"Music\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1649",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2765",
+        "x-memc": "HIT",
+        "x-memc-key": "fc1a6e07fc53d06e25f6ff944790914f",
+        "x-memc-age": "25592",
+        "x-memc-expires": "2765",
+        "ETag": "W\/\"0824fbcc5ecf47c3eea68701054fc7bd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Du0kcjUuekpmVHdNJtt8ShnoUHdPiW84iYemycFnJSdgYv974oVLGg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pAYMKtedQGyrGV006ez56PGH8hm.jpg\",\"belongs_to_collection\":null,\"budget\":9364800,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"http:\/\/www.skyone.co.uk\/hogfather\/\",\"id\":11910,\"imdb_id\":\"tt0765458\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Hogfather\",\"overview\":\"It's the night before Hogswatch, usually a time of joy on Discworld, but there are suspicious going-on and the criminal underworld is abuzz. The beloved Hogfather - the jolly bearer of glee and pork-related gifts for children everywhere - has vanished. Suddenly, Discworld's entire mythical system is under threat. The fate of this magical time rests in the hands of a very motley group: A band of wizards headed up by a mystical university president named Mustrum Ridcully (Joss Ackland), a loyal manservant called Albert (David Jason), a level-headed governess called Susan Sto Heilt (Michelle Dockery), and her grandfather, who happens to be - Death (Marnix van den Broeke).\",\"popularity\":16.727,\"poster_path\":\"\/t6HqXGne1LkRShTot23Hhlm3z5e.jpg\",\"production_companies\":[{\"id\":3126,\"logo_path\":null,\"name\":\"The Mob\",\"origin_country\":\"\"},{\"id\":20358,\"logo_path\":\"\/jPZ0jwLGGELbSxKoUrJzOytNpnp.png\",\"name\":\"RHI Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2007-10-12\",\"revenue\":0,\"runtime\":185,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"This holiday expect the unexpected\",\"title\":\"Hogfather\",\"video\":false,\"vote_average\":6.855,\"vote_count\":162}"
+}

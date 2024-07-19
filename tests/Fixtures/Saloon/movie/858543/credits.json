@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1120",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12006",
+        "x-memc": "HIT",
+        "x-memc-key": "187c14166b6f83230966fdd4db06d428",
+        "x-memc-age": "10373",
+        "x-memc-expires": "12006",
+        "ETag": "W\/\"e290738af7aa4d599df65ab59a15492c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m-gegZFcq4J_eK7E-X2yUPhW7wVuFW9bZiZE9CkQgnmlf-a5OLc98A=="
+    },
+    "data": "{\"id\":858543,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":56446,\"known_for_department\":\"Acting\",\"name\":\"John Cena\",\"original_name\":\"John Cena\",\"popularity\":53.011,\"profile_path\":\"\/rgB2eIOt7WyQjdgJCOuESdDlrjg.jpg\",\"cast_id\":4,\"character\":\"Duke Nukem\",\"credit_id\":\"6646fa1424159ce9d42e01c2\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":347335,\"known_for_department\":\"Writing\",\"name\":\"Josh Heald\",\"original_name\":\"Josh Heald\",\"popularity\":3.175,\"profile_path\":\"\/gAGqe7l5VMTdVZuah2YczbXOJUl.jpg\",\"credit_id\":\"62a48a8ce38bd814d54b2560\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":68843,\"known_for_department\":\"Writing\",\"name\":\"Jon Hurwitz\",\"original_name\":\"Jon Hurwitz\",\"popularity\":7.65,\"profile_path\":\"\/fl3yAMOLbQFF86m8amwH2Ufntjs.jpg\",\"credit_id\":\"62a48aae00bfe802556909cf\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":68844,\"known_for_department\":\"Writing\",\"name\":\"Hayden Schlossberg\",\"original_name\":\"Hayden Schlossberg\",\"popularity\":4.448,\"profile_path\":\"\/kLkKtht08e9Z451RpD5l5ebpwZu.jpg\",\"credit_id\":\"62a48ac005b5494d6d29a44a\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

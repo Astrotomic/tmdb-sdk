@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1482",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19395",
+        "x-memc": "HIT",
+        "x-memc-key": "3c666ad2df26434f632286546855e4e9",
+        "x-memc-age": "8625",
+        "x-memc-expires": "19395",
+        "ETag": "W\/\"e6c2e37f3ece68753a7e0853bd058a4f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "svadMnJrbDksU7S1qNy_C-jL33k6_L4HsM4KiNntZ1OCqYSP8ca6vA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lbkDfC6Xw4ZPaAKvXYnUMABOjmp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.breakfastonpluto.co.uk\/\",\"id\":1420,\"imdb_id\":\"tt0411195\",\"origin_country\":[\"IE\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Breakfast on Pluto\",\"overview\":\"In the 1970s, a young transgender woman called \u201cKitten\u201d leaves her small Irish town for London in search of love, acceptance, and her long-lost mother.\",\"popularity\":21.452,\"poster_path\":\"\/14tmdb1PiLNDZf3VD29S2nUKVV0.jpg\",\"production_companies\":[{\"id\":1178,\"logo_path\":null,\"name\":\"Path\u00e9 Pictures International\",\"origin_country\":\"GB\"},{\"id\":1898,\"logo_path\":\"\/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png\",\"name\":\"F\u00eds \u00c9ireann\/Screen Ireland\",\"origin_country\":\"IE\"},{\"id\":11667,\"logo_path\":\"\/dhBJdstAolGmqRfbQfElhsU1cTo.png\",\"name\":\"Northern Ireland Screen\",\"origin_country\":\"XI\"},{\"id\":128279,\"logo_path\":null,\"name\":\"Parallel Film Productions\",\"origin_country\":\"IE\"},{\"id\":11752,\"logo_path\":null,\"name\":\"Number 9 Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2005-11-16\",\"revenue\":3900000,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Same world. Different planet.\",\"title\":\"Breakfast on Pluto\",\"video\":false,\"vote_average\":7.189,\"vote_count\":371}"
+}

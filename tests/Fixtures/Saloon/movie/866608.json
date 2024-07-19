@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "828",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9263",
+        "x-memc": "HIT",
+        "x-memc-key": "3f581c67bc2b67107d415f09a1083e91",
+        "x-memc-age": "17601",
+        "x-memc-expires": "9263",
+        "ETag": "W\/\"c4b2b40bf7adb049596d2373d886ef3f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7zeSS0FJU4DGoZGZrOfRiLFsrCcA_rmeQJsIOwhQ9IKyFEBgmmBVVA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":864993,\"name\":\"Heroine Cruelty Story\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":866608,\"imdb_id\":\"tt6227186\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d2\u30ed\u30a4\u30f3\u6b8b\u9177\u7269\u8a9e8\",\"overview\":\"\",\"popularity\":0.592,\"poster_path\":\"\/mIijI65FJog9NdCKE6Hphfj5v4i.jpg\",\"production_companies\":[{\"id\":159912,\"logo_path\":null,\"name\":\"G-HISTORY\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2010-04-25\",\"revenue\":0,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Heroine Cruelty Story VIII\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

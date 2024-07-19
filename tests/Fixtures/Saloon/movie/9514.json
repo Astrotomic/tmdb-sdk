@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1211",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23377",
+        "x-memc": "HIT",
+        "x-memc-key": "c0e03744d702129dd4ca11c83a33ed13",
+        "x-memc-age": "4575",
+        "x-memc-expires": "23377",
+        "ETag": "W\/\"47bd44d98cd16cabc8990bf96a705961\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IoArQvYOEz0iXJrfW1NMdkNqd1KOq1ZgbLEu4KqvfbKLbp4W2yU5lg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5hTrlgPRIYDOFactczf0dCHVnOA.jpg\",\"belongs_to_collection\":{\"id\":9500,\"name\":\"Werner Collection\",\"poster_path\":\"\/7UdM0qg0o5Vg3eqH2LZGCzTe7Es.jpg\",\"backdrop_path\":\"\/ukLAZl7cZNjCFNN1myDy3a7jYTA.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":9514,\"imdb_id\":\"tt0118138\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Werner - Das muss kesseln!!!\",\"overview\":\"Because of a bet, Werner and his friend have to construct the fastest vehicle to win a race, because life depends on it.\",\"popularity\":10.027,\"poster_path\":\"\/jPpFMbEl5RvcHdKo5ZLrcJYffsr.jpg\",\"production_companies\":[{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"},{\"id\":25603,\"logo_path\":null,\"name\":\"TFC Trickompany Filmproduktion\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1996-06-27\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Werner - Eat my dust\",\"video\":false,\"vote_average\":5.899,\"vote_count\":109}"
+}

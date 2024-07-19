@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1154",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3231",
+        "x-memc": "HIT",
+        "x-memc-key": "2ee49a51b26025d99b41bb6bf751cf53",
+        "x-memc-age": "25177",
+        "x-memc-expires": "3231",
+        "ETag": "W\/\"b230dbb775dbbd028fb08b75168cbdff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rDJVlQ42cuGEa9ou263jdr3RBzZOglz3aJHs_-CJIoXFHhd_cdSnbw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xElmNAS4YZ4welCRJIqw733tHZC.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":268403,\"imdb_id\":\"tt0030366\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lightning Carson Rides Again\",\"overview\":\"Lightning Carson's nephew has been falsely accused of murder. To get in with the gang, Lightning poses as a Mexican. He also appears as himself making his costume changes at his sister's ranch. Just as he about to bring in the gang, a henchman finds evidence of his masquerade and arrives to expose the hoax.\",\"popularity\":2.426,\"poster_path\":\"\/ivzcmBKg0dZPPopgtDkyalP5KY4.jpg\",\"production_companies\":[{\"id\":54479,\"logo_path\":null,\"name\":\"Victory Pictures Corporation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-10-09\",\"revenue\":0,\"runtime\":58,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A WHIRLWIND WESTERN DRAMA!\",\"title\":\"Lightning Carson Rides Again\",\"video\":false,\"vote_average\":5.8,\"vote_count\":4}"
+}

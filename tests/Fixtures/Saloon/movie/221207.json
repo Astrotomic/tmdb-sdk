@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "882",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17055",
+        "x-memc": "HIT",
+        "x-memc-key": "3993ffb76891fadcec4cd262bcbb3fe6",
+        "x-memc-age": "6877",
+        "x-memc-expires": "17055",
+        "ETag": "W\/\"8347183f5e89dc8c0dfa150d0fc2236f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2UjrR1IGudDX3ax0rR4e3g-X6dW6I7sS61p27Hp21THZKo4yg0ng5Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":221207,\"imdb_id\":\"tt0042560\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Historien om Hjortholm\",\"overview\":\"The estate Hjortholm is rescued from bankruptcy, as the pleasant doctor Christian Riis fetches the young engineer Erik Kongsted to the estate.\",\"popularity\":5.37,\"poster_path\":\"\/ekiAA0czAGOsQ9emQCj8TfMTZDz.jpg\",\"production_companies\":[{\"id\":12530,\"logo_path\":null,\"name\":\"Saga Studio\",\"origin_country\":\"DK\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"1950-10-05\",\"revenue\":0,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Historien om Hjortholm\",\"video\":false,\"vote_average\":6.5,\"vote_count\":2}"
+}

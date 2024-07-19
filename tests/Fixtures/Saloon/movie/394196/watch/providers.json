@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "252",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:29:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21301",
+        "x-memc": "HIT",
+        "x-memc-key": "62c7a643bf70f73960191755e29a6ee5",
+        "x-memc-age": "3342",
+        "x-memc-expires": "21301",
+        "ETag": "W\/\"5de86c3f4ccb4ab61199a831b94decc5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YL1nNPPHqzcYvrAKMy3ki1wSyao6WeMA6YeqJqg2Qc9FOatBG3m-dw=="
+    },
+    "data": "{\"id\":394196,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/394196-sauna-the-dead-a-fairy-tale\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/nIm8xq1JYgHfusIcDnccEBQkoWp.jpg\",\"provider_id\":224,\"provider_name\":\"BFI Player\",\"display_priority\":15}]}}}"
+}

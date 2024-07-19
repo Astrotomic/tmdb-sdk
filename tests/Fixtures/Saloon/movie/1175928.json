@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "816",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18290",
+        "x-memc": "HIT",
+        "x-memc-key": "004683093f03bf9c548a7256bf4f462e",
+        "x-memc-age": "5852",
+        "x-memc-expires": "18290",
+        "ETag": "W\/\"2629db746f21c25f2834fcf7453abb7e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PCAnCVU1T8Woskvk5ycBkuOIeomJe2BsDbHyYelgPzx-JYdfi2Is8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":1175928,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Vodn\u00edk v pivova\u0159e\",\"overview\":\"\",\"popularity\":2.537,\"poster_path\":null,\"production_companies\":[{\"id\":18199,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 televize Praha\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1985-12-22\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Vodn\u00edk v pivova\u0159e\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

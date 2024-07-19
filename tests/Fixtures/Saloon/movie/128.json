@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1838",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7432",
+        "x-memc": "HIT",
+        "x-memc-key": "39dddb024abc09ce7a5d321f87040e82",
+        "x-memc-age": "20123",
+        "x-memc-expires": "7432",
+        "ETag": "W\/\"1694d7baf46fb3d8dfe89c4601a1a16d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tBFKfDYH5IF2LDTxUTcW9OA24q9kv-J2nbzO9jzDcamiANj-eHhshg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gl0jzn4BupSbL2qMVeqrjKkF9Js.jpg\",\"belongs_to_collection\":null,\"budget\":23500000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":128,\"imdb_id\":\"tt0119698\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u3082\u306e\u306e\u3051\u59eb\",\"overview\":\"Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.\",\"popularity\":95.763,\"poster_path\":\"\/cMYCDADoLKLbB83g4WnJegaZimC.jpg\",\"production_companies\":[{\"id\":10342,\"logo_path\":\"\/eS79pslnoKbWg7t3PMA9ayl0bGs.png\",\"name\":\"Studio Ghibli\",\"origin_country\":\"JP\"},{\"id\":12516,\"logo_path\":null,\"name\":\"Nibariki\",\"origin_country\":\"JP\"},{\"id\":2752,\"logo_path\":\"\/qEGEoCAV9FWAuohymR5I0vjJMgM.png\",\"name\":\"dentsu Music And Entertainment\",\"origin_country\":\"JP\"},{\"id\":67681,\"logo_path\":null,\"name\":\"TNDG\",\"origin_country\":\"\"},{\"id\":1779,\"logo_path\":\"\/41nGzTdCnORYZIZzaGZtfsBwQCl.png\",\"name\":\"Tokuma Shoten\",\"origin_country\":\"JP\"},{\"id\":6755,\"logo_path\":\"\/c0ENH8QeZLvCACpzCpwvYMy2SDr.png\",\"name\":\"Nippon Television Network Corporation\",\"origin_country\":\"JP\"},{\"id\":1778,\"logo_path\":\"\/b5rT6VbYza3LyfltCmz1OcqzWJM.png\",\"name\":\"dentsu\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1997-07-12\",\"revenue\":169000000,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The fate of the world rests on the courage of one warrior.\",\"title\":\"Princess Mononoke\",\"video\":false,\"vote_average\":8.338,\"vote_count\":7780}"
+}

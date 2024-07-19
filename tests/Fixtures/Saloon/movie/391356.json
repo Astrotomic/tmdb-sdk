@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "888",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27240",
+        "x-memc": "HIT",
+        "x-memc-key": "6345a17ce6f6c07af5091196b3bb89b1",
+        "x-memc-age": "937",
+        "x-memc-expires": "27240",
+        "ETag": "W\/\"d38ede298bddd4879bc556b0358bca0a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ho4K-pUQzeuVv6n7WbzF3_nJf2aGSn0QbwN3TosL76pL07h2sdmQew=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a5dgLcn5ZEEIP8V98OpQLYMonZq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":391356,\"imdb_id\":\"tt0026956\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rumba\",\"overview\":\"A bored society girl sets her sights on a dancer in a Broadway show.\",\"popularity\":2.656,\"poster_path\":\"\/rsNX9MLpfkpkyCUotB7EdFYuQwo.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1935-02-08\",\"revenue\":0,\"runtime\":71,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"THE DANCING LOVERS OF \\\"BOLERO\\\"\",\"title\":\"Rumba\",\"video\":false,\"vote_average\":6.0,\"vote_count\":7}"
+}

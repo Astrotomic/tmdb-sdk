@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1513",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13655",
+        "x-memc": "HIT",
+        "x-memc-key": "61587d877e888d6486a0e81d6c0edeaf",
+        "x-memc-age": "12483",
+        "x-memc-expires": "13655",
+        "ETag": "W\/\"67f2abdf6efbf626df9641db09599f3b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DS0fZfOwO3lro7vivpQR2WEAtAU_i-zLclYp87qfH6-KjGteFFWe0Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bR4U9n9YnZOvBUhOUNl316UNEyh.jpg\",\"belongs_to_collection\":null,\"budget\":2200000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":185,\"imdb_id\":\"tt0066921\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Clockwork Orange\",\"overview\":\"In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of all personal agency. In a time when conscience is a commodity, can Alex change his tune?\",\"popularity\":59.826,\"poster_path\":\"\/4sHeTAp65WrSSuc05nRBKddhBxO.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":88,\"logo_path\":null,\"name\":\"Hawk Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1971-12-19\",\"revenue\":27033812,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Being the adventures of a young man whose principal interests are rape, ultra-violence and Beethoven.\",\"title\":\"A Clockwork Orange\",\"video\":false,\"vote_average\":8.202,\"vote_count\":12579}"
+}

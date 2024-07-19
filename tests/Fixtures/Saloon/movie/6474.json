@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1026",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26382",
+        "x-memc": "HIT",
+        "x-memc-key": "4a7da1a01b3f032afa5298c45f15da09",
+        "x-memc-age": "856",
+        "x-memc-expires": "26382",
+        "ETag": "W\/\"ef5f333eca23cc2abb9c74f73c489bf3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uJ4K6dToqSGmfcb1Brb3DTODk-8BVzxJkG-taPWl4vC-HteQJcLWOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sXUHL5YpxQsbO7aD0uRjS2lWNhn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":6474,\"imdb_id\":\"tt0061587\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Navajo Joe\",\"overview\":\"The sole survivor of a bloody massacre vows revenge on his attackers and on the men who killed his wife.\",\"popularity\":10.614,\"poster_path\":\"\/hxrsKfgsPlQozvANkZy84lDRKFv.jpg\",\"production_companies\":[{\"id\":2101,\"logo_path\":null,\"name\":\"C.B. Films S.A.\",\"origin_country\":\"\"},{\"id\":1216,\"logo_path\":null,\"name\":\"DDL Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1966-11-25\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Navajo revenge slashes ...burns ...ravages the screen!\",\"title\":\"Navajo Joe\",\"video\":false,\"vote_average\":6.183,\"vote_count\":104}"
+}

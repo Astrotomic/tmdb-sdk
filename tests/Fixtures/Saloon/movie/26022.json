@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2103",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4097",
+        "x-memc": "HIT",
+        "x-memc-key": "b972667b8e8be94660278c2ef7314f06",
+        "x-memc-age": "19133",
+        "x-memc-expires": "4097",
+        "ETag": "W\/\"1eea80b4c0eeaa5d96a464214ff67826\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fCIejOkOOn_BXEwZo-nN-ezb3YKQrmJngLHNeiNv9iYs1kgJvsAMWw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s7oObbrQrfTvcIwvmcGTUdnMCiw.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":26022,\"imdb_id\":\"tt1188996\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"My Name Is Khan\",\"overview\":\"Rizwan Khan, a Muslim from the Borivali section of Mumbai, has Asperger's syndrome. He marries a Hindu single mother, Mandira, in San Francisco. After 9\/11, Rizwan is detained by authorities at LAX who treat him as a terrorist because of his condition and his race.\",\"popularity\":29.348,\"poster_path\":\"\/5Y36lCiNyyV71mjq6LavgiggbhT.jpg\",\"production_companies\":[{\"id\":19146,\"logo_path\":\"\/5Ff25ornzVNhm5skuAvMAR556NB.png\",\"name\":\"Dharma Productions\",\"origin_country\":\"IN\"},{\"id\":43,\"logo_path\":\"\/4RgIPr55kBakgupWkzdDxqXJEqr.png\",\"name\":\"Fox Searchlight Pictures\",\"origin_country\":\"US\"},{\"id\":2343,\"logo_path\":\"\/fkrlAFxgAtIHgYJGIQcDggeucKV.png\",\"name\":\"Red Chillies Entertainment\",\"origin_country\":\"IN\"},{\"id\":12154,\"logo_path\":\"\/sOHlz02xc4TmVTL4qY08dATNjxl.png\",\"name\":\"Star Studios\",\"origin_country\":\"IN\"},{\"id\":6736,\"logo_path\":\"\/cdCAYeb3K3Ajhn1tfXHPSfT1KzB.png\",\"name\":\"Imagenation Abu Dhabi FZ\",\"origin_country\":\"AE\"},{\"id\":7485,\"logo_path\":\"\/vpOrqLxZ6JkrCFdi3ZUWhHKmDEM.png\",\"name\":\"Fox International Productions\",\"origin_country\":\"US\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"},{\"id\":214866,\"logo_path\":null,\"name\":\"Star China Media\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"AE\",\"name\":\"United Arab Emirates\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-02-10\",\"revenue\":42345360,\"runtime\":165,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"An Ordinary Man, An Extraordinary Journey... FOR LOVE.\",\"title\":\"My Name Is Khan\",\"video\":false,\"vote_average\":8.038,\"vote_count\":1273}"
+}

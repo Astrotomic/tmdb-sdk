@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1690",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5274",
+        "x-memc": "HIT",
+        "x-memc-key": "a7ecabb329a552b92993d40996debe0b",
+        "x-memc-age": "17686",
+        "x-memc-expires": "5274",
+        "ETag": "W\/\"c100709aa844d41680c55042df89efb2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0a0-6Gofkv_uC_OLmb0K6J0oGiEqpzF008VN49Fp3GqSQvJ1X6E5vA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8JRNR4r7a998im5Zqb1DRJtzsjT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":7011,\"imdb_id\":\"tt0089378\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Joey\",\"overview\":\"A nine year old boy named Joey, who after the tragic death of his father, begins to experience psychic powers such as allowing him to move inanimate objects with his mind, set things on fire, and even communicate with his dead father. However, not everything is good for Joey as his newly gained powers accidentally awake an evil supernatural force that is contained inside the body of an old ventriloquist's dummy that Joey found in an abandoned house. The supernatural Dummy shows similar powers to Joey's, and soon he puts the lives of everyone near Joey in danger as the evil Dummy has dark plans for Joey's special powers.\",\"popularity\":21.811,\"poster_path\":\"\/3RM5CqGzcG5f5gnt1vtOoMDFv0t.jpg\",\"production_companies\":[{\"id\":620,\"logo_path\":null,\"name\":\"Centropolis Film Productions\",\"origin_country\":\"\"},{\"id\":1448,\"logo_path\":null,\"name\":\"Pro-ject Filmproduktion\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-11-21\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Only he can see it. Only he shares its magic. Only he knows the danger.\",\"title\":\"Making Contact\",\"video\":false,\"vote_average\":5.643,\"vote_count\":49}"
+}

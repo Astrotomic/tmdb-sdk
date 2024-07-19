@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1311",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:43:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3732",
+        "x-memc": "HIT",
+        "x-memc-key": "342de6bdf322c269fc92b03081f1a216",
+        "x-memc-age": "23101",
+        "x-memc-expires": "3732",
+        "ETag": "W\/\"aa88d0c5d040a5f1416733c36b6196dc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4pyjkTjZ4wFUUTRGIwoCSogCXLTO-aDqa-Oiy82EawhDp-jfXjBUtg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/epVMXf10WqFkONzKR8V76Ypj5Y3.jpg\",\"belongs_to_collection\":{\"id\":10,\"name\":\"Star Wars Collection\",\"poster_path\":\"\/22dj38IckjzEEUZwN1tPU5VJ1qq.jpg\",\"backdrop_path\":\"\/zZDkgOmFMVYpGAkR9Tkxw0CRnxX.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.starwars.com\/films\/star-wars-episode-viii-the-last-jedi\",\"id\":181808,\"imdb_id\":\"tt2527336\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Wars: The Last Jedi\",\"overview\":\"Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares to do battle with the First Order.\",\"popularity\":77.813,\"poster_path\":\"\/kOVEVeg59E0wsnXmF9nrh6OmWII.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-12-13\",\"revenue\":1332698830,\"runtime\":152,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Star Wars: The Last Jedi\",\"video\":false,\"vote_average\":6.8,\"vote_count\":14974}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1068",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1731",
+        "x-memc": "HIT",
+        "x-memc-key": "507bc55fdad84c3dd2d1d208dfed9509",
+        "x-memc-age": "20520",
+        "x-memc-expires": "1731",
+        "ETag": "W\/\"400cd3cecd41b5f617742413a5e053ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oIVrU_2B4ORsGi36MrDlJ_a2C_zcMqIllQhr7p8fZA8lJjhEsSpAlQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w48BzuzG3HZisoMiYPffGd587Xv.jpg\",\"belongs_to_collection\":null,\"budget\":5000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.house26productions.com\",\"id\":1202650,\"imdb_id\":\"tt29525030\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Sound of Addiction\",\"overview\":\"In the dead of night, a covert team of six operatives embark on a harrowing mission to rescue a girl named Maria from a secluded country home. Little do they know, this extraction will plunge them into a horrifying nightmare.\",\"popularity\":1.82,\"poster_path\":\"\/oFYxuuLTEYNJFOxls7DYfedbvu3.jpg\",\"production_companies\":[{\"id\":213113,\"logo_path\":null,\"name\":\"House26 Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2023-10-30\",\"revenue\":0,\"runtime\":16,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sound of Addiction\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1734",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:28:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14156",
+        "x-memc": "HIT",
+        "x-memc-key": "5e1139a2378759bcaf87e03266d372eb",
+        "x-memc-age": "12340",
+        "x-memc-expires": "14156",
+        "ETag": "W\/\"a704d1a134eb865a5a9e6c02cec012ca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4RTizgZJKzjLObECOgzVwCXCuzgOLMieUs3-gSl_QtLdt4da-9-5OA=="
+    },
+    "data": "{\"id\":395484,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1292473,\"known_for_department\":\"Acting\",\"name\":\"Michael Puzzo\",\"original_name\":\"Michael Puzzo\",\"popularity\":2.841,\"profile_path\":null,\"cast_id\":0,\"character\":\"\",\"credit_id\":\"57255efec3a36833b4000aa7\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1613414,\"known_for_department\":\"Acting\",\"name\":\"Chris Sirois\",\"original_name\":\"Chris Sirois\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"57255f12c3a3681720001672\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1347014,\"known_for_department\":\"Directing\",\"name\":\"Paul Trillo\",\"original_name\":\"Paul Trillo\",\"popularity\":1.204,\"profile_path\":null,\"credit_id\":\"57255f6692514132b8000652\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":1613416,\"known_for_department\":\"Production\",\"name\":\"Jason Smith\",\"original_name\":\"Jason Smith\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"57255f5d9251417782000c1a\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":1347014,\"known_for_department\":\"Directing\",\"name\":\"Paul Trillo\",\"original_name\":\"Paul Trillo\",\"popularity\":1.204,\"profile_path\":null,\"credit_id\":\"57255f24c3a36836a90014ea\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1613416,\"known_for_department\":\"Production\",\"name\":\"Jason Smith\",\"original_name\":\"Jason Smith\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"57255f4dc3a368180a001a8f\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":1347014,\"known_for_department\":\"Directing\",\"name\":\"Paul Trillo\",\"original_name\":\"Paul Trillo\",\"popularity\":1.204,\"profile_path\":null,\"credit_id\":\"57255f2ec3a36836a90014ee\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2126",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18215",
+        "x-memc": "HIT",
+        "x-memc-key": "2a0672f33d291ab23a57f53cef4e5677",
+        "x-memc-age": "8508",
+        "x-memc-expires": "18215",
+        "ETag": "W\/\"f1d2f062bc2be7856cc550d302f72324\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XZ1LXOsLyIlwY6__JfWlxpjUt9NFhaPYy5hFMBz4jAfqcMv3jDRylA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/JnukHKeQNTaCCpsXiCk1VYtVTH.jpg\",\"belongs_to_collection\":null,\"budget\":5800000,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":3482,\"imdb_id\":\"tt0059825\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Train\",\"overview\":\"As the Allied forces approach Paris in August 1944, German Colonel Von Waldheim is desperate to take all of France's greatest paintings to Germany. He manages to secure a train to transport the valuable art works even as the chaos of retreat descends upon them. The French resistance however wants to stop them from stealing their national treasures but have received orders from London that they are not to be destroyed. The station master, Labiche, is tasked with scheduling the train and making it all happen smoothly but he is also part of a dwindling group of resistance fighters tasked with preventing the theft. He and others stage an elaborate ruse to keep the train from ever leaving French territory.\",\"popularity\":20.139,\"poster_path\":\"\/bzgPLB7efMohled42PIn6CcOTnO.jpg\",\"production_companies\":[{\"id\":64,\"logo_path\":null,\"name\":\"Les Productions Artistes Associ\u00e9s\",\"origin_country\":\"FR\"},{\"id\":7110,\"logo_path\":null,\"name\":\"Les Films Ariane\",\"origin_country\":\"FR\"},{\"id\":11929,\"logo_path\":null,\"name\":\"Dear Film\",\"origin_country\":\"IT\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":225008,\"logo_path\":null,\"name\":\"Polyphony Digital\",\"origin_country\":\"\"},{\"id\":12111,\"logo_path\":null,\"name\":\"Vides Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1964-09-24\",\"revenue\":6800000,\"runtime\":133,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It carried their hopes, their nation's honour!\",\"title\":\"The Train\",\"video\":false,\"vote_average\":7.534,\"vote_count\":309}"
+}

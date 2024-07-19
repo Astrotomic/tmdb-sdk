@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "329",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:30:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23594",
+        "x-memc": "HIT",
+        "x-memc-key": "8b7f5c2a7f752795feed5aaf78de00f3",
+        "x-memc-age": "2427",
+        "x-memc-expires": "23594",
+        "ETag": "W\/\"5a3b0c7a71037e0eb8013f915ad15864\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K4czZ1dcTFZvAFbovXFdJ7HtZVi2lBDNZIApnLrogd6g90I21ZdY1A=="
+    },
+    "data": "{\"id\":697240,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":84527,\"known_for_department\":\"Acting\",\"name\":\"Freddie Mercury\",\"original_name\":\"Freddie Mercury\",\"popularity\":15.316,\"profile_path\":\"\/29YpQZNzrGJtoa49ZVo2XLKZuQr.jpg\",\"cast_id\":1,\"character\":\"Self (archive footage)\",\"credit_id\":\"5ea5251566f2d200243f0977\",\"order\":0}],\"crew\":[]}"
+}

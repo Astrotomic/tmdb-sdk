@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "941",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15919",
+        "x-memc": "HIT",
+        "x-memc-key": "494d9cd21d306bc1b648f3e2b0b5b2bc",
+        "x-memc-age": "7735",
+        "x-memc-expires": "15919",
+        "ETag": "W\/\"639a73d74c84c04d82629e0489c30e63\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YDEL50qyGig3cexi1s9VmNssCfuwBMkJ2-niQkQnhqwhRpeG9gvhmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dqOubBrio1sPGDUxb7Qebp1Q3F5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":37,\"name\":\"Western\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":394675,\"imdb_id\":\"tt0237448\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Me llaman el cantaclaro\",\"overview\":\"The story of the ruthless female boss of a hacienda who meets her match in the city-educated Santos Luzardo.\",\"popularity\":4.354,\"poster_path\":\"\/2LbtODp1v6sfC8oHVnIQzxztWzP.jpg\",\"production_companies\":[{\"id\":76055,\"logo_path\":null,\"name\":\"Rosas Films S.A.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1964-09-03\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Me llaman el cantaclaro\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

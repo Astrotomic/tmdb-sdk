@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1460",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17581",
+        "x-memc": "HIT",
+        "x-memc-key": "e823bad9649d5f10717701a2eac0a2bd",
+        "x-memc-age": "4484",
+        "x-memc-expires": "17581",
+        "ETag": "W\/\"0811c25cc68f60170b05c40965269153\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gxoQ8yc5eAw2lW4qTpcXb8qQoDRK6mVUSloW50Lyb6TMTf1Ic_kxJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bxQT6xCjejpGtgKl0QH8WUtrs33.jpg\",\"belongs_to_collection\":null,\"budget\":7500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.welle.film.de\/\",\"id\":7735,\"imdb_id\":\"tt1063669\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Die Welle\",\"overview\":\"A school teacher discusses types of government with his class. His students find it too boring to repeatedly go over national socialism and believe that dictatorship cannot be established in modern Germany. He starts an experiment to show how easily the masses can become manipulated.\",\"popularity\":32.704,\"poster_path\":\"\/vtJ4u0fpTZhibxAJHzXtcdCxhsL.jpg\",\"production_companies\":[{\"id\":5754,\"logo_path\":\"\/lYPqogOigbGMmErpSBBn2SnVypQ.png\",\"name\":\"Rat Pack Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":46224,\"logo_path\":null,\"name\":\"Medienfonds GFP\",\"origin_country\":\"\"},{\"id\":21948,\"logo_path\":null,\"name\":\"B.A. Produktion\",\"origin_country\":\"\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2008-03-13\",\"revenue\":19000000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Their teacher became their leader. His students became his soldiers.\",\"title\":\"The Wave\",\"video\":false,\"vote_average\":7.5,\"vote_count\":3241}"
+}

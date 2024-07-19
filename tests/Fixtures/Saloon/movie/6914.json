@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1205",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10248",
+        "x-memc": "HIT",
+        "x-memc-key": "556c388016c0e7ee740f7646aac31378",
+        "x-memc-age": "12557",
+        "x-memc-expires": "10248",
+        "ETag": "W\/\"ea1858eab3948729af4acd1d6e453c64\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9w0BKEph03GZO72XtCEZq_bPPcD2PLQcM202PpyVHrSelSQvyZrdQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jHnnUXxkuW7VU6mnHx8po7mStrJ.jpg\",\"belongs_to_collection\":{\"id\":158888,\"name\":\"Spessart Collection\",\"poster_path\":\"\/vALbN2EwXUjaYo1goM8IP8y8mD.jpg\",\"backdrop_path\":\"\/vtkE5HZQZVTsHmqStX1LiozuKcW.jpg\"},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":6914,\"imdb_id\":\"tt0051200\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das Wirtshaus im Spessart\",\"overview\":\"Countess Franziska \\\"is kidnapped\\\" by a band of robbers. However, her father is not willing to pay the ransom so Franziska changes sides.\",\"popularity\":9.023,\"poster_path\":\"\/sAlMlBMR4dWy7yfM0EGO4huz4zv.jpg\",\"production_companies\":[{\"id\":1704,\"logo_path\":\"\/sb3PuMTgJgpPUY7x634etBAhodu.png\",\"name\":\"Bavaria Film\",\"origin_country\":\"DE\"},{\"id\":33921,\"logo_path\":null,\"name\":\"Georg-Witt-Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1958-01-14\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Spessart Inn\",\"video\":false,\"vote_average\":6.7,\"vote_count\":22}"
+}

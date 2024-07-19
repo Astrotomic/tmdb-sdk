@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1381",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16159",
+        "x-memc": "HIT",
+        "x-memc-key": "d9d9f146eac9bae903ec1f5a1b5857b9",
+        "x-memc-age": "10457",
+        "x-memc-expires": "16159",
+        "ETag": "W\/\"2e342dcec030e263b766bc8e9ce1a710\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Q1H0akFfUW7BCuMpQrFnYN9WdbYsF4kZurBIOViaSlkOEZSWLZ9XQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/13UkK69iyMsB45H2p1WPXJPS87w.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11025,\"imdb_id\":\"tt0363282\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"New York Minute\",\"overview\":\"Top student Jane Ryan heads to Manhattan for a college-scholarship competition. Her rebellious twin Roxy Ryan goes along to crash a video shoot. But anything can happen - and does - in a romp involving a pursuing truant officer, a smuggler, hunkalicious guys and the girls' realization that when the chips are down, a sister can be the best friend of all.\",\"popularity\":21.035,\"poster_path\":\"\/px9hV6w6XzAjGdxCRUAUasAHQsP.jpg\",\"production_companies\":[{\"id\":813,\"logo_path\":null,\"name\":\"Di Novi Pictures\",\"origin_country\":\"US\"},{\"id\":6130,\"logo_path\":null,\"name\":\"Dualstar Productions\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-05-07\",\"revenue\":21289826,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Anything can change in a New York minute.\",\"title\":\"New York Minute\",\"video\":false,\"vote_average\":6.2,\"vote_count\":860}"
+}

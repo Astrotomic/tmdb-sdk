@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1402",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20056",
+        "x-memc": "HIT",
+        "x-memc-key": "e19122b99e45f25f56e683da9b4b1218",
+        "x-memc-age": "7480",
+        "x-memc-expires": "20056",
+        "ETag": "W\/\"3238c64aa54a3d5adb10ab4bb44ae392\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bJEc_bFkPpTuewsZG8B3Z3yML2l6FtseDC5LHcLYPQlV71hQuS-4mw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e7tMI0zVKJB2TS74TaBifIZIkCp.jpg\",\"belongs_to_collection\":{\"id\":537982,\"name\":\"Zombieland Collection\",\"poster_path\":\"\/ofvHzFYLb4TldTs82iHmvf2h71H.jpg\",\"backdrop_path\":\"\/xND97nArZixB25GxyKtYN7gCpk7.jpg\"},\"budget\":42000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.zombieland.com\/\",\"id\":338967,\"imdb_id\":\"tt1560220\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Zombieland: Double Tap\",\"overview\":\"Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.\",\"popularity\":38.363,\"poster_path\":\"\/dtRbVsUb5O12WWO54SRpiMtHKC0.jpg\",\"production_companies\":[{\"id\":11733,\"logo_path\":null,\"name\":\"Pariah\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":84792,\"logo_path\":\"\/7Rfr3Zu6QnHpXW2VdSEzUminAQd.png\",\"name\":\"2.0 Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-10-09\",\"revenue\":122800000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Zombieland: Double Tap\",\"video\":false,\"vote_average\":6.938,\"vote_count\":5538}"
+}

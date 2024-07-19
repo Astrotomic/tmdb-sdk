@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1491",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11954",
+        "x-memc": "HIT",
+        "x-memc-key": "dc614a07d1578e643b8c6b53c59115ce",
+        "x-memc-age": "12425",
+        "x-memc-expires": "11954",
+        "ETag": "W\/\"4d36d80b0a4464601bbda0833507d6d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sSrSK3kl3hl3iwOkowF7qTXOeMO-5pr_uwD8VK4MuL4gK94L9jnQ5w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mOOJm3tamy9iHg2mOEA77CM6ufZ.jpg\",\"belongs_to_collection\":{\"id\":86027,\"name\":\"Aladdin Collection\",\"poster_path\":\"\/9jAbtLbAbebtuF5q1gZIPUCuegd.jpg\",\"backdrop_path\":\"\/kUHyN9PzQ59e2n3CwqMG99yxBvh.jpg\"},\"budget\":3500000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/movies.disney.com\/aladdin-the-return-of-jafar\",\"id\":15969,\"imdb_id\":\"tt0107952\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Return of Jafar\",\"overview\":\"The evil Jafar escapes from the magic lamp as an all-powerful genie, ready to plot his revenge against Aladdin. From battling elusive villains atop winged horses, to dodging flames inside an exploding lava pit, it's up to Aladdin - with Princess Jasmine and the outrageously funny Genie by his side - to save the kingdom once and for all.\",\"popularity\":34.434,\"poster_path\":\"\/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg\",\"production_companies\":[{\"id\":3475,\"logo_path\":\"\/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png\",\"name\":\"Disney Television Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-05-20\",\"revenue\":0,\"runtime\":69,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Aladdin adventure continues...\",\"title\":\"The Return of Jafar\",\"video\":false,\"vote_average\":6.249,\"vote_count\":3291}"
+}

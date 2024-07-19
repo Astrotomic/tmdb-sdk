@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1468",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11863",
+        "x-memc": "HIT",
+        "x-memc-key": "68cad1574aa7412e4ceffa10d7049785",
+        "x-memc-age": "10924",
+        "x-memc-expires": "11863",
+        "ETag": "W\/\"cc8d1cd02a63b8cbfe9d25b342100e3b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rEAswKKmldWO1VqLvRaj8vrlMLzjSonyeTmZKYRpctc7PCAvb93kMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4sluMFpzgqGwxJPI5SlxVuNKFIO.jpg\",\"belongs_to_collection\":{\"id\":94039,\"name\":\"Asterix and Obelix (Animation) Collection\",\"poster_path\":\"\/mJ85mdtrQl2LWTNAHHcSJC55dcs.jpg\",\"backdrop_path\":\"\/7DpiEK17hH1foWyj4U0kv9ylRqG.jpg\"},\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11047,\"imdb_id\":\"tt0061369\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Ast\u00e9rix le Gaulois\",\"overview\":\"In the year 50 BC, Gaul is occupied by the Romans - nearly. But the small village of Asterix and his friends still resists the Roman legions with the aid of their druid's magic potion, which gives superhuman strength. Learning of this potion, a Roman centurion kidnaps the druid to get the secret formula out of him.\",\"popularity\":21.417,\"poster_path\":\"\/pcW9R5NHSXrpchdYiubcbdAvpV8.jpg\",\"production_companies\":[{\"id\":5851,\"logo_path\":null,\"name\":\"Dargaud Films\",\"origin_country\":\"FR\"},{\"id\":5850,\"logo_path\":\"\/26v9iO4OqZzGhKiHYfiPWCYTNiG.png\",\"name\":\"Belvision\",\"origin_country\":\"BE\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"}],\"release_date\":\"1967-12-20\",\"revenue\":0,\"runtime\":68,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Asterix the Gaul\",\"video\":false,\"vote_average\":6.453,\"vote_count\":699}"
+}

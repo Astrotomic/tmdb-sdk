@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1207",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8039",
+        "x-memc": "HIT",
+        "x-memc-key": "5faeeca0f0df3d03af6e84be51cbff1f",
+        "x-memc-age": "18701",
+        "x-memc-expires": "8039",
+        "ETag": "W\/\"e6c039525ac1db56febde48540db1baf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KZV8r951BKJckr87WqLakDx3Y9tReborWhp1aP4V7eE1I1ZU1fZu1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/adAJDB2Au3x5ve2YyWaEYy4EUw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1191610,\"imdb_id\":\"tt32598483\",\"origin_country\":[\"AR\"],\"original_language\":\"es\",\"original_title\":\"Goyo\",\"overview\":\"A young autistic museum guide lives by a strict routine \u2014 until he falls in love with his coworker and must confront a whirlwind of new, intense emotions.\",\"popularity\":1030.315,\"poster_path\":\"\/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg\",\"production_companies\":[{\"id\":110888,\"logo_path\":\"\/ApVEmLRyrJtQxhIesrXXi2EQfOP.png\",\"name\":\"Kuarzo Entertainment Argentina\",\"origin_country\":\"AR\"},{\"id\":120128,\"logo_path\":\"\/9H703SqAOpEZmCj4A7qwGrTVpo3.png\",\"name\":\"Leyenda\",\"origin_country\":\"AR\"},{\"id\":178464,\"logo_path\":\"\/tyHnxjQJLH6h4iDQKhN5iqebWmX.png\",\"name\":\"Netflix\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"}],\"release_date\":\"2024-06-27\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Goyo\",\"video\":false,\"vote_average\":6.9,\"vote_count\":27}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1126",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16009",
+        "x-memc": "HIT",
+        "x-memc-key": "aad946e76ad68fae00c54061b188b1b4",
+        "x-memc-age": "11788",
+        "x-memc-expires": "16009",
+        "ETag": "W\/\"c691b0c92cbdecaa082b20e3fba40a12\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KpKMRZLmLOGAr5s589XMVjXZHgNVPPmC_5n2m9jG6AbKC-ZdI5bqqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jm4eiprHo37I5Dy63c4RJM2Rm7f.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10087,\"imdb_id\":\"tt0397530\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Man to Man\",\"overview\":\"An epic about anthropologists who hunt and capture pygmies for study back in Europe, in an attempt to illustrate the link between man and ape.\",\"popularity\":17.073,\"poster_path\":\"\/3eV6ZfUZOa3MyQX0bDEeUjSmy3O.jpg\",\"production_companies\":[{\"id\":2756,\"logo_path\":null,\"name\":\"Vertigo Productions\",\"origin_country\":\"FR\"},{\"id\":2055,\"logo_path\":null,\"name\":\"Skyline Films\",\"origin_country\":\"GB\"},{\"id\":83,\"logo_path\":\"\/9OQ0rm55xtlgX7KcAKMUePJSrQc.png\",\"name\":\"France 2 Cin\u00e9ma\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2005-04-13\",\"revenue\":0,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Man to Man\",\"video\":false,\"vote_average\":6.2,\"vote_count\":35}"
+}

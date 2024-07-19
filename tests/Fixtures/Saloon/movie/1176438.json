@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "962",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24187",
+        "x-memc": "HIT",
+        "x-memc-key": "dd785710dc67c8a2ccfd96c2bae329df",
+        "x-memc-age": "1017",
+        "x-memc-expires": "24187",
+        "ETag": "W\/\"9e5ef4fba5983619a0c69c84e301f3e4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "p0-6IFRCqir-HLMPFkHdX6dBzkDhD7OB_MQpLi0nLOKy4Idy5EbTQQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r2o8rkYcwehBdSIXg9esCRXWoGE.jpg\",\"belongs_to_collection\":null,\"budget\":1000,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":1176438,\"imdb_id\":\"tt29650125\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Room\",\"overview\":\"Music Video on the song \\\"Room\\\" on the album \\\"Flight Time\\\" by Bloodshot.\",\"popularity\":0.726,\"poster_path\":null,\"production_companies\":[{\"id\":208943,\"logo_path\":null,\"name\":\"Misfit Films\",\"origin_country\":\"\"},{\"id\":214907,\"logo_path\":null,\"name\":\"Bloodshot\",\"origin_country\":\"\"},{\"id\":218500,\"logo_path\":null,\"name\":\"LMS Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-21\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In my room.\",\"title\":\"Room\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

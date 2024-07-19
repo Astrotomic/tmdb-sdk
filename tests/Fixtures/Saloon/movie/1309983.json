@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "750",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7638",
+        "x-memc": "HIT",
+        "x-memc-key": "375fc33236359e85e90bc37908d40604",
+        "x-memc-age": "18351",
+        "x-memc-expires": "7638",
+        "ETag": "W\/\"f3f29edd8093d3311bb975839f92b9ee\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hxsICZrF5uQXkp4Z5QO6HcuEaf85_Lz-7U5Nfo-nwmWmyQqBn_Jw2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[],\"homepage\":\"https:\/\/www.disneyplus.com\/en-gb\/movies\/inside-out-2-a-special-look\/6fvFdS0YmPuU\",\"id\":1309983,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Inside Out 2: A Special Look\",\"overview\":\"Get a special look at \\\"Inside Out 2,\\\" now playing in theaters.\",\"popularity\":15.721,\"poster_path\":\"\/unmFFYZ4NSvcGnessABsA5RfqQw.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Inside Out 2: A Special Look\",\"video\":false,\"vote_average\":8.0,\"vote_count\":2}"
+}

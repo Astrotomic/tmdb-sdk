@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1418",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3664",
+        "x-memc": "HIT",
+        "x-memc-key": "998feeef731d55d2ffb52b0111190b70",
+        "x-memc-age": "19039",
+        "x-memc-expires": "3664",
+        "ETag": "W\/\"ab4ccc3cc052666782fe57e0eb136e69\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_x9ic-L03_v3YtPFdD0YeleS9S3W6vrQ5LsbuKm9tFWzmj7qFCF54Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Abarszl1xLuhe0XjnTVCS064zC2.jpg\",\"belongs_to_collection\":{\"id\":12087,\"name\":\"Herbie Collection\",\"poster_path\":\"\/yfhSkmOHOdL0QfajTo1ZuOTDuHH.jpg\",\"backdrop_path\":\"\/hgi9EeU50KFhv9pCDmJyx4VLp5G.jpg\"},\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":14140,\"imdb_id\":\"tt0076137\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Herbie Goes to Monte Carlo\",\"overview\":\"Herbie, the Volkswagen Beetle with a mind of its own, is racing in the Monte Carlo Rally. But thieves have hidden a cache of stolen diamonds in Herbie's gas tank, and are now trying to get them back.\",\"popularity\":18.227,\"poster_path\":\"\/t6rzY3AP9rXZKi3kyKXdIvLXen6.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-06-24\",\"revenue\":29000000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Love Bug falls 'hood-over-wheels' for a classy chassis!\",\"title\":\"Herbie Goes to Monte Carlo\",\"video\":false,\"vote_average\":5.9,\"vote_count\":303}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1001",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=324",
+        "x-memc": "HIT",
+        "x-memc-key": "7192b72403b77040f2cb32e0c9e57b1b",
+        "x-memc-age": "21911",
+        "x-memc-expires": "324",
+        "ETag": "W\/\"f7f6de77ce28c6f1e9c39a9379d2f4f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JjCIjoW4cHEorZJkT8SLV3TZIBtujBv7EXhu3NnorlNhocKrFk95ZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/q5uK9e6nYbnf5wztVBKu7szkM0e.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":236186,\"imdb_id\":\"tt0030286\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Jeep\",\"overview\":\"Popeye brings his magical dog, The Jeep, over to see Olive and Swee'pea, just as the tyke has escaped from his crib. The Jeep leads Popeye on a merry chase looking for Swee'pea.\",\"popularity\":1.599,\"poster_path\":\"\/kT7EQNoo03B30acBeXlriZbYXZT.jpg\",\"production_companies\":[{\"id\":8302,\"logo_path\":null,\"name\":\"Fleischer Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-07-15\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Jeep\",\"video\":false,\"vote_average\":6.2,\"vote_count\":4}"
+}

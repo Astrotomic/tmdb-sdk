@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1917",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=141",
+        "x-memc": "HIT",
+        "x-memc-key": "748f9d0402090d678986dd9945e7ecae",
+        "x-memc-age": "25235",
+        "x-memc-expires": "141",
+        "ETag": "W\/\"3af6ca4bde3e884d1e149bf510c64a51\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Qn2lzbYijvxmJhzAOuupgMjOgK_OD1Bzlz8_RehCEhhgjd9s_aGpxw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/shqLeIkqPAAXM8iT6wVDiXUYz1p.jpg\",\"belongs_to_collection\":null,\"budget\":34000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.ghibli.jp\/works\/ponyo\/\",\"id\":12429,\"imdb_id\":\"tt0876563\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5d16\u306e\u4e0a\u306e\u30dd\u30cb\u30e7\",\"overview\":\"When Sosuke, a young boy who lives on a clifftop overlooking the sea, rescues a stranded goldfish named Ponyo, he discovers more than he bargained for. Ponyo is a curious, energetic young creature who yearns to be human, but even as she causes chaos around the house, her father, a powerful sorcerer, schemes to return Ponyo to the sea.\",\"popularity\":68.435,\"poster_path\":\"\/yp8vEZflGynlEylxEesbYasc06i.jpg\",\"production_companies\":[{\"id\":10342,\"logo_path\":\"\/eS79pslnoKbWg7t3PMA9ayl0bGs.png\",\"name\":\"Studio Ghibli\",\"origin_country\":\"JP\"},{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":6755,\"logo_path\":\"\/c0ENH8QeZLvCACpzCpwvYMy2SDr.png\",\"name\":\"Nippon Television Network Corporation\",\"origin_country\":\"JP\"},{\"id\":1778,\"logo_path\":\"\/b5rT6VbYza3LyfltCmz1OcqzWJM.png\",\"name\":\"dentsu\",\"origin_country\":\"JP\"},{\"id\":11846,\"logo_path\":\"\/es3LvDA6wLWVDvZnAYYuAT6x8lJ.png\",\"name\":\"Hakuhodo DY Media Partners\",\"origin_country\":\"JP\"},{\"id\":164892,\"logo_path\":null,\"name\":\"The Walt Disney Company (Japan)\",\"origin_country\":\"JP\"},{\"id\":11847,\"logo_path\":\"\/rZP0I1p3hZNUMNFPHUSal6rWThQ.png\",\"name\":\"Mitsubishi\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2008-07-19\",\"revenue\":202404009,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Welcome to a world where anything is possible.\",\"title\":\"Ponyo\",\"video\":false,\"vote_average\":7.741,\"vote_count\":4156}"
+}

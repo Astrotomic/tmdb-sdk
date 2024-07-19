@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1248",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23386",
+        "x-memc": "HIT",
+        "x-memc-key": "ee2d69d631a70bf7515f6d8054d83771",
+        "x-memc-age": "3953",
+        "x-memc-expires": "23386",
+        "ETag": "W\/\"ed97528151a028baf69359fd175ef01c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a058j14KfgyHsZUwZ-Hn1wDHr4frH0mr6OmRCAcrSZW9oeABUh_Pfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qfTGzbtqTBhz1krD0Zh5bCg5xlf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.bayonetta-movie.com\/\",\"id\":242546,\"imdb_id\":\"tt3306776\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d9\u30e8\u30cd\u30c3\u30bf \u30d6\u30e9\u30c3\u30c7\u30a3\u30d5\u30a7\u30a4\u30c8\",\"overview\":\"Bayonetta is an ancient witch who awakens from a five hundred-year slumber with no memory of her life. Armed with a gun in each limb, she embarks on a journey to rediscover her past, defeating all bloodthirsty angels that stand in her way.\",\"popularity\":17.929,\"poster_path\":\"\/dfg7dqm0YX16D6QYDKDdh3Qi930.jpg\",\"production_companies\":[{\"id\":1077,\"logo_path\":\"\/1tpNgC6BptieT9oF2LJ7H6pbG6S.png\",\"name\":\"GONZO\",\"origin_country\":\"JP\"},{\"id\":35971,\"logo_path\":\"\/5q5P83YiDQa34FgGd2Wtw7aWBnr.png\",\"name\":\"Graphinica\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2013-11-23\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bayonetta: Bloody Fate\",\"video\":false,\"vote_average\":6.5,\"vote_count\":86}"
+}

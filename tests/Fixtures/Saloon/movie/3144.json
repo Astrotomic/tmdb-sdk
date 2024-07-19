@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1266",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6806",
+        "x-memc": "HIT",
+        "x-memc-key": "2ff54ff3f59983364d5d8d6f56995b00",
+        "x-memc-age": "15841",
+        "x-memc-expires": "6806",
+        "ETag": "W\/\"94aa490f89e7f38770dfa188c3d88502\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "okF0azxbdmNpGhFDjaWaAEFKKxTAdDZSIagBfinENX7vLmAn3pHlyA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":250000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":3144,\"imdb_id\":\"tt0183717\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Rock 'n' Roll Frankenstein\",\"overview\":\"The movie follows Bernie, a record producer who persuades his nephew Frankie to create a new rock star that will help Bernie overcome his work related ennui. Iggy, the burnt out roadie pillages the graves of various celebrities such as Buddy Holly, Jimi Hendrix, and Sid Vicious, using the head of Elvis Presley to top things off.\",\"popularity\":2.579,\"poster_path\":\"\/aS7SkPSMxWOX5l7VZVwcMdyJVJD.jpg\",\"production_companies\":[{\"id\":1332,\"logo_path\":null,\"name\":\"R\\u0026R Productions\",\"origin_country\":\"\"},{\"id\":4708,\"logo_path\":\"\/k1zjOZ0GIZ1dxGerINlXC3lGAqh.png\",\"name\":\"Brain Damage Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1999-01-01\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Rock 'n' Roll Frankenstein\",\"video\":false,\"vote_average\":3.9,\"vote_count\":10}"
+}

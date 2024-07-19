@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9607",
+        "x-memc": "HIT",
+        "x-memc-key": "fb85124053aff24df5bd7bc3f89c21ab",
+        "x-memc-age": "17402",
+        "x-memc-expires": "9607",
+        "ETag": "W\/\"1f13c1101daf56d5e3e3044cd4cbc3e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eKMHmw0Fa4bRgPhdQWdpkizxxzdIurOjEgAXgcP0cEmebme3ydTGuQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w5IDXtifKntw0ajv2co7jFlTQDM.jpg\",\"belongs_to_collection\":{\"id\":4438,\"name\":\"The Space Odyssey Series\",\"poster_path\":\"\/bxQaNDuSLCllnMSQ0ZLg7e6HrMW.jpg\",\"backdrop_path\":\"\/15FumSExI9SRoL7QJWZAsA0b10c.jpg\"},\"budget\":12000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/2001spaceodysseymovie.com\",\"id\":62,\"imdb_id\":\"tt0062622\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"2001: A Space Odyssey\",\"overview\":\"Humanity finds a mysterious object buried beneath the lunar surface and sets off to find its origins with the help of HAL 9000, the world's most advanced super computer.\",\"popularity\":109.394,\"poster_path\":\"\/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg\",\"production_companies\":[{\"id\":385,\"logo_path\":null,\"name\":\"Stanley Kubrick Productions\",\"origin_country\":\"GB\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1968-04-02\",\"revenue\":71923560,\"runtime\":149,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"The ultimate trip.\",\"title\":\"2001: A Space Odyssey\",\"video\":false,\"vote_average\":8.077,\"vote_count\":11219}"
+}

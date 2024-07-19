@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1137",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12917",
+        "x-memc": "HIT",
+        "x-memc-key": "8f166849e648c0750098ae8ec5f708d5",
+        "x-memc-age": "8780",
+        "x-memc-expires": "12917",
+        "ETag": "W\/\"d43e89cf078dc0f6dd0986d8143bfa50\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iT-BOYCB_Vbhzaswcnp5YRVDHLdtlC1dY4ROq8AxHCXV54nPkk_69g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4rgwjCz2H4DOiq0rd1bzjTdAWkr.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":550518,\"imdb_id\":\"tt5207158\",\"origin_country\":[\"RS\"],\"original_language\":\"sr\",\"original_title\":\"\u0408\u0443\u0436\u043d\u0438 \u0432\u0435\u0442\u0430\u0440\",\"overview\":\"A story about Petar Mara\u0161, a Belgrade criminal in his late twenties, whose one reckless move causes an avalanche of events that will greatly affect the lives of those around him.\",\"popularity\":9.218,\"poster_path\":\"\/kEk3E6YMImiS4jAMNTEWt1Uojiq.jpg\",\"production_companies\":[{\"id\":109270,\"logo_path\":null,\"name\":\"Archangel Studios\",\"origin_country\":\"RS\"},{\"id\":109271,\"logo_path\":null,\"name\":\"Art Vista\",\"origin_country\":\"\"},{\"id\":109272,\"logo_path\":null,\"name\":\"Re\u017eim\",\"origin_country\":\"RS\"}],\"production_countries\":[{\"iso_3166_1\":\"RS\",\"name\":\"Serbia\"}],\"release_date\":\"2018-10-23\",\"revenue\":0,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"Serbian\",\"iso_639_1\":\"sr\",\"name\":\"Srpski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"South Wind\",\"video\":false,\"vote_average\":7.5,\"vote_count\":76}"
+}

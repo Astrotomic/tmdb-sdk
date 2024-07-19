@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3688",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20947",
+        "x-memc": "HIT",
+        "x-memc-key": "3a0b445a3345b13ec0ec59bb6c86d5da",
+        "x-memc-age": "4124",
+        "x-memc-expires": "20947",
+        "ETag": "W\/\"bddfb7357c15d29198fe5b8f657d9370\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YawMC51mZPhUmSQOJETlv1Qt4VAQ9lHI6aHcqoVFKFLcQaolgS9PNQ=="
+    },
+    "data": "{\"id\":542475,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":76872,\"known_for_department\":\"Acting\",\"name\":\"Juan Carlos Colombo\",\"original_name\":\"Juan Carlos Colombo\",\"popularity\":7.395,\"profile_path\":\"\/fZj6vegsA169QA8arkqEk01d5XE.jpg\",\"cast_id\":4,\"character\":\"\",\"credit_id\":\"5b73be1792514140641bad3a\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1240381,\"known_for_department\":\"Acting\",\"name\":\"Ana Bertha Esp\u00edn\",\"original_name\":\"Ana Bertha Esp\u00edn\",\"popularity\":7.944,\"profile_path\":\"\/ivjcWBGHtDgbphbPQHaLEltJRPz.jpg\",\"cast_id\":5,\"character\":\"\",\"credit_id\":\"5b73be200e0a267ee51b50e7\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":2107615,\"known_for_department\":\"Acting\",\"name\":\"Alvaro Garza\",\"original_name\":\"Alvaro Garza\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"\",\"credit_id\":\"5b73be2b92514140641bad57\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":262,\"known_for_department\":\"Acting\",\"name\":\"\u00c1lvaro Guerrero\",\"original_name\":\"\u00c1lvaro Guerrero\",\"popularity\":11.528,\"profile_path\":\"\/fA6I8WQTZXlU9WHwDVGsgNLjbKC.jpg\",\"cast_id\":7,\"character\":\"\",\"credit_id\":\"5b73be350e0a267ee51b510d\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":7368,\"known_for_department\":\"Acting\",\"name\":\"Ernesto G\u00f3mez Cruz\",\"original_name\":\"Ernesto G\u00f3mez Cruz\",\"popularity\":11.474,\"profile_path\":\"\/rtDS8sZw9PniGdDPW12QKsUcNSb.jpg\",\"cast_id\":8,\"character\":\"\",\"credit_id\":\"5b73be3f92514140681c0110\",\"order\":4},{\"adult\":false,\"gender\":1,\"id\":2107616,\"known_for_department\":\"Acting\",\"name\":\"Mar\u00eda Marcucci\",\"original_name\":\"Mar\u00eda Marcucci\",\"popularity\":0.3,\"profile_path\":null,\"cast_id\":9,\"character\":\"\",\"credit_id\":\"5b73be490e0a267eed1d3501\",\"order\":5},{\"adult\":false,\"gender\":1,\"id\":23873,\"known_for_department\":\"Acting\",\"name\":\"Lisa Owen\",\"original_name\":\"Lisa Owen\",\"popularity\":11.817,\"profile_path\":\"\/t6u25UXmZ3DgXt0wxwFQxz6wuNu.jpg\",\"cast_id\":10,\"character\":\"\",\"credit_id\":\"5b73be510e0a267ef41c7f05\",\"order\":6},{\"adult\":false,\"gender\":2,\"id\":1070128,\"known_for_department\":\"Acting\",\"name\":\"Salvador S\u00e1nchez\",\"original_name\":\"Salvador S\u00e1nchez\",\"popularity\":15.826,\"profile_path\":\"\/ywDIDiK39kAKQ9TLNMgq7Z4avmJ.jpg\",\"cast_id\":11,\"character\":\"\",\"credit_id\":\"5b73be5ac3a3681886218667\",\"order\":7}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":941418,\"known_for_department\":\"Directing\",\"name\":\"Rafael Montero\",\"original_name\":\"Rafael Montero\",\"popularity\":3.567,\"profile_path\":null,\"credit_id\":\"5b73bd41c3a3681894214ae8\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2107613,\"known_for_department\":\"Writing\",\"name\":\"Eliseo Alberto Diego\",\"original_name\":\"Eliseo Alberto Diego\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5b73bd4cc3a368188f1c5a2c\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":1599323,\"known_for_department\":\"Sound\",\"name\":\"Edgar Sosa\",\"original_name\":\"Edgar Sosa\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5b73bd5c0e0a267eeb1dd80e\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":2,\"id\":1501092,\"known_for_department\":\"Camera\",\"name\":\"Francisco Boj\u00f3rquez\",\"original_name\":\"Francisco Boj\u00f3rquez\",\"popularity\":2.1,\"profile_path\":null,\"credit_id\":\"5b73bdd8c3a368188f1c5acf\",\"department\":\"Crew\",\"job\":\"Cinematography\"},{\"adult\":false,\"gender\":0,\"id\":2107617,\"known_for_department\":\"Production\",\"name\":\"Gabriela Obreg\u00f3n\",\"original_name\":\"Gabriela Obreg\u00f3n\",\"popularity\":0.015,\"profile_path\":null,\"credit_id\":\"5b73be900e0a267ef81d30f7\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":1163744,\"known_for_department\":\"Editing\",\"name\":\"Jes\u00fas Paredes\",\"original_name\":\"Jes\u00fas Paredes\",\"popularity\":0.612,\"profile_path\":null,\"credit_id\":\"5b73bea292514140541a56ad\",\"department\":\"Editing\",\"job\":\"Editor\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1052",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15913",
+        "x-memc": "HIT",
+        "x-memc-key": "804e37f5d4c6982b34d3564112364947",
+        "x-memc-age": "9126",
+        "x-memc-expires": "15913",
+        "ETag": "W\/\"97f9393254af1322c4ca7e24b94a1d0c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eKKOJuwqZtISGAUYjdOAeymGnH-vYw0HzjgMt-w3PxwLnUXUtH-NNA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bGpRDAU5b0Ejc64wydAxt2ovx20.jpg\",\"belongs_to_collection\":null,\"budget\":250000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.dasweisserauschen.de\/\",\"id\":273,\"imdb_id\":\"tt0276617\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das weisse Rauschen\",\"overview\":\"Lukas, a young schizophrenic man, has to deal with a new town, a new relationship, and the paranoia in his head.\",\"popularity\":7.004,\"poster_path\":\"\/kYJLb69aANQhf6EvewCnKRpiJ5O.jpg\",\"production_companies\":[{\"id\":116,\"logo_path\":null,\"name\":\"Cameo Film- und Fernsehproduktion\",\"origin_country\":\"DE\"},{\"id\":117,\"logo_path\":\"\/twj6GjwWKt23x21fkxItt7v7lEQ.png\",\"name\":\"Kunsthochschule f\u00fcr Medien K\u00f6ln\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2001-12-31\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The White Sound\",\"video\":false,\"vote_average\":6.9,\"vote_count\":56}"
+}

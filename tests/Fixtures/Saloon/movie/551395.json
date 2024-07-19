@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "962",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14886",
+        "x-memc": "HIT",
+        "x-memc-key": "6d7ebae857b54ef67e0b717682a3f88f",
+        "x-memc-age": "11662",
+        "x-memc-expires": "14886",
+        "ETag": "W\/\"2923084f043c5ce9dd0c2d5d84e6a5d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "46ALKOP_rwtkw0f3c_nBLGSeQWJpe6Ei6SE05noon1cTaV-xDCWzcg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dnaWoxLbqyCVfy9soBSARdSw7Xx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":551395,\"imdb_id\":\"tt5985672\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Maestro\",\"overview\":\"After the Second World War, budding film composer Jerry Herst moves to Hollywood to study with infamous master teacher Mario Castelnuovo-Tedesco.\",\"popularity\":2.439,\"poster_path\":\"\/3s9fCk37kQk2uPN9FaPwBZitwRh.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-03-27\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"Behind every brilliant composer is a brilliant teacher.\",\"title\":\"The Maestro\",\"video\":false,\"vote_average\":6.8,\"vote_count\":4}"
+}

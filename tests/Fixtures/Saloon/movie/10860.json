@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1265",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9148",
+        "x-memc": "HIT",
+        "x-memc-key": "95e1a80592921313a1ed4b7d0db234af",
+        "x-memc-age": "15832",
+        "x-memc-expires": "9148",
+        "ETag": "W\/\"bb7d60e6be6dc192ac4a43e7cddafbff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "na7eSdeJafUxs_-rSFpbizbccfwXuqCvp_tAQDdgeogxaJJixw2wIg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nvrQW1NmhkQ7B4FjNik7uqMOldP.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10860,\"imdb_id\":\"tt0098384\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Steel Magnolias\",\"overview\":\"A young beautician, newly arrived in a small Louisiana town, finds work at the local salon, where a small group of women share a close bond of friendship and welcome her into the fold.\",\"popularity\":24.245,\"poster_path\":\"\/7ExUSN9s9gX9bhVM17zDLEizano.jpg\",\"production_companies\":[{\"id\":1177,\"logo_path\":\"\/gxvrQWG6byKMVEHMjTJjGhRlARQ.png\",\"name\":\"Rastar Productions\",\"origin_country\":\"US\"},{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-11-15\",\"revenue\":95904091,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Six extraordinary friends. They share each other's laughter. They dry each other's tears.\",\"title\":\"Steel Magnolias\",\"video\":false,\"vote_average\":7.193,\"vote_count\":635}"
+}

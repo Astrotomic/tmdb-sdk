@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1295",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7519",
+        "x-memc": "HIT",
+        "x-memc-key": "189a3f88ce37f8854e82275228a289f3",
+        "x-memc-age": "18437",
+        "x-memc-expires": "7519",
+        "ETag": "W\/\"7b8380e87bae620769605e28beef5618\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ub0Qp28AtwJlHy48NJwv4Uqtfu3RpLSiD6xE7cGfJCb-WUKP_riDYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lyzI5uFJC2E7sIYCCdaU0oZkDw2.jpg\",\"belongs_to_collection\":{\"id\":55427,\"name\":\"Fantasia Collection\",\"poster_path\":\"\/ldzKpOvGVl8NWQPdAYJEZpAvPIo.jpg\",\"backdrop_path\":\"\/7YanwpylLB3yzhwzf11W1tYpcQF.jpg\"},\"budget\":2280000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/movies.disney.com\/fantasia\",\"id\":756,\"imdb_id\":\"tt0032455\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fantasia\",\"overview\":\"Walt Disney's timeless masterpiece is an extravaganza of sight and sound! See the music come to life, hear the pictures burst into song and experience the excitement that is Fantasia over and over again.\",\"popularity\":38.269,\"poster_path\":\"\/5m9njnidjR0syG2gpVPVgcEMB2X.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-11-13\",\"revenue\":76411819,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The most sensational sound you'll ever see!\",\"title\":\"Fantasia\",\"video\":false,\"vote_average\":7.355,\"vote_count\":2971}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1083",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23",
+        "x-memc": "HIT",
+        "x-memc-key": "46d07b625cc8fe689db08f9a0d6765d1",
+        "x-memc-age": "28329",
+        "x-memc-expires": "23",
+        "ETag": "W\/\"8e6fc4ed7e0abe34bad88b50a3695eb0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CDKoKyPvaXBq6ICu8N8hmIAGGNu_nWrpZrRyFQGpAyOykiA-a8WoMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5hKaMeWkVgMjeoF0Wz71ohUl2S9.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"http:\/\/resolutionstory.com\",\"id\":121606,\"imdb_id\":\"tt1977895\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Resolution\",\"overview\":\"A man imprisons his estranged junkie friend in an isolated cabin in the boonies of San Diego to force him through a week of sobriety, but the events of that week are being mysteriously manipulated.\",\"popularity\":15.899,\"poster_path\":\"\/wrzbVOuiuwSPMfWVaUQUDbyqx9V.jpg\",\"production_companies\":[{\"id\":105878,\"logo_path\":\"\/1hRvAmvhGy7XrDp7xVa9d1eu8lL.png\",\"name\":\"Rustic Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-04-22\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Resolution\",\"video\":false,\"vote_average\":6.348,\"vote_count\":366}"
+}

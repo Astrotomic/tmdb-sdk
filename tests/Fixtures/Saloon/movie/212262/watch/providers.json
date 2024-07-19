@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1397",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26717",
+        "x-memc": "HIT",
+        "x-memc-key": "0bc68785770a02e2c75a0dae9bc131d9",
+        "x-memc-age": "1499",
+        "x-memc-expires": "26717",
+        "ETag": "W\/\"7ace9926de560d8f961e5a7eb1263d47\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wU4O5Bxz6U3joTFI7HzzNdUgBP2HxybT7pWOicJy4zSZydDcphlYdw=="
+    },
+    "data": "{\"id\":212262,\"results\":{\"HK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/212262-w-returns\/watch?locale=HK\",\"ads\":[{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":34}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/212262-w-returns\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/212262-w-returns\/watch?locale=TW\",\"flatrate\":[{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}],\"ads\":[{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":35}],\"rent\":[{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}]}}}"
+}

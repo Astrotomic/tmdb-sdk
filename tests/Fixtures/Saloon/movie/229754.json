@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "725",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8618",
+        "x-memc": "HIT",
+        "x-memc-key": "709d8dd291035645ab346b1e0057ce01",
+        "x-memc-age": "15160",
+        "x-memc-expires": "8618",
+        "ETag": "W\/\"95c3f1d85c01d0dd9eebe842d07de449\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dv3bIfY4D1JYpaRY4da9APL_gzh1umA_7SOW6d3UX72UZA6Ck1kdMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":229754,\"imdb_id\":\"\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"\u0e19\u0e31\u0e01\u0e2a\u0e39\u0e49\u0e40\u0e0b\u0e34\u0e49\u0e07\u0e46!\",\"overview\":\"Martial arts comedy directed by Panna Rittikrai.\",\"popularity\":1.271,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"}],\"release_date\":\"1993-01-01\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Fighting Fools\",\"video\":false,\"vote_average\":2.0,\"vote_count\":1}"
+}

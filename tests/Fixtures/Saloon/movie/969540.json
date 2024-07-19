@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "797",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7674",
+        "x-memc": "HIT",
+        "x-memc-key": "ba600e555515ba2e75e15b6d1d8c366e",
+        "x-memc-age": "14077",
+        "x-memc-expires": "7674",
+        "ETag": "W\/\"83ae755ae1ef93aa578a1eaf929563e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rRPo8nv0kN8cLoAfywZgtVRZruqsQvSI0l6trqp-fcyisekYc0hv3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":969540,\"imdb_id\":null,\"origin_country\":[\"FI\"],\"original_language\":\"fi\",\"original_title\":\"Suoer\u00e4maa\",\"overview\":\"\",\"popularity\":0.785,\"poster_path\":\"\/jIRUMuqwrDOkvvU5ULQzbQyf9FY.jpg\",\"production_companies\":[{\"id\":5975,\"logo_path\":\"\/vvjgoKygWWYZvYyidT3RmOCq5If.png\",\"name\":\"YLE\",\"origin_country\":\"FI\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"}],\"release_date\":\"2018-01-27\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Finnish\",\"iso_639_1\":\"fi\",\"name\":\"suomi\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Suoer\u00e4maa\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

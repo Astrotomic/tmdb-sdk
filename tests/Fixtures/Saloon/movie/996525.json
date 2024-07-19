@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1156",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:13:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15264",
+        "x-memc": "HIT",
+        "x-memc-key": "41592be9fb6d8399c55a46197a34cfbb",
+        "x-memc-age": "10114",
+        "x-memc-expires": "15264",
+        "ETag": "W\/\"c3c0d26ee2c379b1dbe8aeebdb6ee554\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oPsCOwGvuINxL12REqCrS04SMpf4hZ48HW_bf1OeVJQHikxvQHkb2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8l0sSbZ4Kt2a7s0wQf0hXwXwW9a.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":996525,\"imdb_id\":\"tt21109552\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uac15\ub0a8\uc880\ube44\",\"overview\":\"Citizens from upscale Gangnam in Seoul start experiencing unusual and terrifying symptoms, devolving into inhuman creatures, leaving only a few survivors with the possibility to make it out alive.\",\"popularity\":17.331,\"poster_path\":\"\/m7H2JvD18pxQr21ImBbv2vyy6kK.jpg\",\"production_companies\":[{\"id\":34883,\"logo_path\":\"\/9uQ1pa2X5TTD2ufBQyGYgUD7xrv.png\",\"name\":\"Lee Film\",\"origin_country\":\"KR\"},{\"id\":115543,\"logo_path\":\"\/kMsoq2uAziGgB3w6zjP3xMQHlOP.png\",\"name\":\"JNC Media Group\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2023-01-05\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gangnam Zombie\",\"video\":true,\"vote_average\":4.575,\"vote_count\":40}"
+}

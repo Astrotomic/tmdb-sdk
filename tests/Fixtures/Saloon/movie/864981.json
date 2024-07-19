@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "799",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13650",
+        "x-memc": "HIT",
+        "x-memc-key": "96af0eda0526c9043ec1d2f013401726",
+        "x-memc-age": "11250",
+        "x-memc-expires": "13650",
+        "ETag": "W\/\"dd3251d7e5ca96d11d08248766ec674d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "naXobppoly_CMsH8xtjgV5Bg79c1OYNshx2XsyiPx2VOvwELSCxt-Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":864993,\"name\":\"Heroine Cruelty Story\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":864981,\"imdb_id\":\"tt6155392\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d2\u30ed\u30a4\u30f3\u6b8b\u9177\u7269\u8a9eIII\",\"overview\":\"\",\"popularity\":0.363,\"poster_path\":null,\"production_companies\":[{\"id\":159912,\"logo_path\":null,\"name\":\"G-HISTORY\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2009-09-27\",\"revenue\":0,\"runtime\":71,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Heroine Cruelty Story III\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

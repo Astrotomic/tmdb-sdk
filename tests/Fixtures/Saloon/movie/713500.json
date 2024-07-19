@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1185",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10032",
+        "x-memc": "HIT",
+        "x-memc-key": "f76588590d9f804bdeb226f81d116e9a",
+        "x-memc-age": "18066",
+        "x-memc-expires": "10032",
+        "ETag": "W\/\"42f0864c24fee6b484927984c7f344b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FMpTekjcevnvLlHuzluKFvt0XUVZ8zHS5SjqlYAud0yhBuveZpU0mQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uawEBM7SlvXnbeuNxokLZGzWlIn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.youtube.com\/dearclassof2020\",\"id\":713500,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dear Class of 2020\",\"overview\":\"A virtual commencement celebration bringing together inspirational leaders, celebrities, and YouTube creators to celebrate graduates, their families, and their communities. Ring the bell to get notified when the stream goes live!\",\"popularity\":8.951,\"poster_path\":\"\/t67VPjhtfjIawqPFlSaot1KrwVp.jpg\",\"production_companies\":[{\"id\":114247,\"logo_path\":\"\/zl4nP2lBc1S8NXSAVfB4yPKwrSo.png\",\"name\":\"YouTube\",\"origin_country\":\"US\"},{\"id\":144823,\"logo_path\":\"\/3RPZRFFB8fbkxf4dACooGjKMAvM.png\",\"name\":\"YouTube Originals\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-06-07\",\"revenue\":0,\"runtime\":240,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dear Class of 2020\",\"video\":true,\"vote_average\":7.7,\"vote_count\":6}"
+}

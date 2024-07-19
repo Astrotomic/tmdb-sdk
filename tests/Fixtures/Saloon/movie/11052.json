@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1946",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9750",
+        "x-memc": "HIT",
+        "x-memc-key": "d746176e3c3d2aaa46d055b15f35cf6b",
+        "x-memc-age": "12577",
+        "x-memc-expires": "9750",
+        "ETag": "W\/\"2f91a8f41dbd95bcc2c905f6b515ab5b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_j4mLTBJ9uG2NDfrGR2-vXMnvoTzvrzMxFPaf1mQ7FkNFKr5TbM2tw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5zUnkHG3vEmng5Ersh4lHeryMsb.jpg\",\"belongs_to_collection\":{\"id\":600207,\"name\":\"Yu-Gi-Oh Collection\",\"poster_path\":\"\/ew8zdGti3i9HGsDelw1l4dE6Z1Q.jpg\",\"backdrop_path\":\"\/vey3MFgpJD040FBOy8iXAda7F2l.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/yugioh.warnerbros.com\/\",\"id\":11052,\"imdb_id\":\"tt0403703\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Yu-Gi-Oh! The Movie\",\"overview\":\"After the conclusion of the Battle City Tournament, deep below the sands of Egypt, an ancient evil has awakened. Anubis, who was defeated centuries ago by Yugi\u2019s mysterious alter ego \u2013 the ancient Pharaoh \u2013 has returned for revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.\",\"popularity\":28.734,\"poster_path\":\"\/3VD5QDTu0rQgRvERBMXtAvg0oIC.jpg\",\"production_companies\":[{\"id\":2918,\"logo_path\":\"\/gyEWUBWwqrm3H5T2hkERD9LxpOq.png\",\"name\":\"Shueisha\",\"origin_country\":\"JP\"},{\"id\":50879,\"logo_path\":null,\"name\":\"Gallop\",\"origin_country\":\"JP\"},{\"id\":3034,\"logo_path\":\"\/jnuO8pZNEBLEq5YaOP1f5OkmG91.png\",\"name\":\"TV Tokyo\",\"origin_country\":\"JP\"},{\"id\":53504,\"logo_path\":null,\"name\":\"NAS\",\"origin_country\":\"JP\"},{\"id\":3035,\"logo_path\":\"\/oi0rqK6jBfG4TbGuczGlVqFAtPL.png\",\"name\":\"4Kids Entertainment\",\"origin_country\":\"US\"},{\"id\":55914,\"logo_path\":\"\/fLZm5yRhOmaYb82wvCMOPiClMMB.png\",\"name\":\"Konami\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-08-13\",\"revenue\":29200000,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everything else was just practice!\",\"title\":\"Yu-Gi-Oh! The Movie\",\"video\":false,\"vote_average\":6.084,\"vote_count\":334}"
+}

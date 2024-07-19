@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "366",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16836",
+        "x-memc": "HIT",
+        "x-memc-key": "f324b32b7bbaeca79ab2e9b40d87f9c9",
+        "x-memc-age": "10363",
+        "x-memc-expires": "16836",
+        "ETag": "W\/\"fb7926a977f4839fc9e5741a571115e1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "akUFjyVJ4h1MMUQThWWVYfs21YYiBlYX6v3xPp5FjTW6mHwL--N1tA=="
+    },
+    "data": "{\"id\":919,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/919-blood-the-last-vampire\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}]}}}"
+}

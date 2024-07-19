@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1391",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8037",
+        "x-memc": "HIT",
+        "x-memc-key": "ec6ed5490a4f916bb6226b2c56e65186",
+        "x-memc-age": "19416",
+        "x-memc-expires": "8037",
+        "ETag": "W\/\"0dc4e9d4ef58998bfa782325b447acf2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vfdGJia3ZPiHzQtXKl5AOh0vk5SngC4s9hiwXmAHxGmTvR_yoSIr8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5GCUPT3yRkVjJ0uXJ66lR9Lrs1e.jpg\",\"belongs_to_collection\":null,\"budget\":28000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":11780,\"imdb_id\":\"tt0114287\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Rob Roy\",\"overview\":\"In the highlands of Scotland in the 1700s, Rob Roy tries to lead his small town to a better future, by borrowing money from the local nobility to buy cattle to herd to market. When the money is stolen, Rob is forced into a Robin Hood lifestyle to defend his family and honour.\",\"popularity\":14.701,\"poster_path\":\"\/4QuypgbNYmPECAAHnV3QY8qEpOz.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":225310,\"logo_path\":null,\"name\":\"Talisman Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-04-13\",\"revenue\":31600000,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Honor made him a man. Courage made him a hero. History made him a legend.\",\"title\":\"Rob Roy\",\"video\":false,\"vote_average\":6.739,\"vote_count\":604}"
+}

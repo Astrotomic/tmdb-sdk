@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1623",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16480",
+        "x-memc": "HIT",
+        "x-memc-key": "0fe3890248614add60171d3461ee0f00",
+        "x-memc-age": "7119",
+        "x-memc-expires": "16480",
+        "ETag": "W\/\"fc0bb300aa431a4da5808dae551565ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Cx8WT82XaYJX1s5Ulte1qPfnbNi02YHXmjcJPkmTa8Hg0ctNR6-yaw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v6Xxo34CHXKRmqMwjNknBTDo8Oz.jpg\",\"belongs_to_collection\":null,\"budget\":27000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":409,\"imdb_id\":\"tt0116209\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The English Patient\",\"overview\":\"In the 1930s, Count Alm\u00e1sy is a Hungarian map maker employed by the Royal Geographical Society to chart the vast expanses of the Sahara Desert along with several other prominent explorers. As World War II unfolds, Alm\u00e1sy enters into a world of love, betrayal, and politics.\",\"popularity\":27.876,\"poster_path\":\"\/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":5237,\"logo_path\":\"\/mlnr7vsBHvLye8oEb5A76C0t8x9.png\",\"name\":\"The Saul Zaentz Company\",\"origin_country\":\"US\"},{\"id\":12204,\"logo_path\":null,\"name\":\"Tiger Moth Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-11-14\",\"revenue\":231976425,\"runtime\":162,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In love, there are no boundaries.\",\"title\":\"The English Patient\",\"video\":false,\"vote_average\":7.179,\"vote_count\":2095}"
+}

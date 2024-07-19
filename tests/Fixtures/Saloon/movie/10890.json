@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1176",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20962",
+        "x-memc": "HIT",
+        "x-memc-key": "7bb9322de5986ff69a3f9ddf2e0cafd8",
+        "x-memc-age": "4775",
+        "x-memc-expires": "20962",
+        "ETag": "W\/\"7d25976fbe916b650cde156d7696d2bf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2y0oW4Aa9jqSwPzZr8ub3P37Rt7zpodkgOwH9S7WBrSLRhwBJWl67A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pcS5zYzaiIDnAtgmrRXzspY1DnM.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10890,\"imdb_id\":\"tt0083131\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Stripes\",\"overview\":\"John Winger, an indolent sad sack in his 30s, impulsively joins the US Army after losing his job, his girlfriend and his apartment.\",\"popularity\":29.155,\"poster_path\":\"\/vP8tPOgmJSNOh4bpOv1bFjid3rZ.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-06-26\",\"revenue\":85300000,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"The story of a man who wanted to keep the world safe for democracy...and meet girls.\",\"title\":\"Stripes\",\"video\":false,\"vote_average\":6.55,\"vote_count\":872}"
+}

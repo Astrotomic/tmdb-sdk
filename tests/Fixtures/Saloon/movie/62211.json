@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1288",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4010",
+        "x-memc": "HIT",
+        "x-memc-key": "11cc5b03fa77f32fda8dfed46c48064b",
+        "x-memc-age": "21956",
+        "x-memc-expires": "4010",
+        "ETag": "W\/\"304e98f0576e117f0edc8558f0de46bd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uJs8fH9sENQaKQaoPE2m5p9Sgf9MxHpeBOSUM0MUUxg5LoKOIunENw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hmAOMwVeJfdWXgK1Ikyl2eYkE99.jpg\",\"belongs_to_collection\":{\"id\":137696,\"name\":\"Monsters, Inc. Collection\",\"poster_path\":\"\/4Cp0L58Rg1bSJSsT6uw7OuU4nYc.jpg\",\"backdrop_path\":\"\/x4Mq7gDRhbqDjw4SkemLvd1yzF3.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":62211,\"imdb_id\":\"tt1453405\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Monsters University\",\"overview\":\"A look at the relationship between Mike and Sulley during their days at Monsters University \u2014 when they weren't necessarily the best of friends.\",\"popularity\":82.449,\"poster_path\":\"\/y7thwJ7z5Bplv6vwl6RI0yteaDD.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-06-19\",\"revenue\":743600000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"School never looked this scary.\",\"title\":\"Monsters University\",\"video\":false,\"vote_average\":7.041,\"vote_count\":10405}"
+}

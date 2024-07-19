@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1007",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21411",
+        "x-memc": "HIT",
+        "x-memc-key": "ed8999e55d794e340919219915fd7f63",
+        "x-memc-age": "5807",
+        "x-memc-expires": "21411",
+        "ETag": "W\/\"5cba5bb0bac5ddecf2f7b40585ec4629\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cKtKMOxDIpoovHxTvGo6KToF-Wq0jDiuZAsHpZqyFaWE8lawF6_Qfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iVAZeGHmnV8JdjxMhEwAvetySwf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":729793,\"imdb_id\":\"tt9873652\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Ein nasser Hund\",\"overview\":\"Based on a provocative autobiography, this story \u2014 set in a largely Muslim neighborhood in Berlin \u2014 follows a teenage gang member who is caught between hiding his Jewish identity and saving his life.\",\"popularity\":6.623,\"poster_path\":\"\/BJyDGHUFsKKEL7tmyoqPcs0cMk.jpg\",\"production_companies\":[{\"id\":132346,\"logo_path\":null,\"name\":\"Carte Blanche International\",\"origin_country\":\"\"},{\"id\":17466,\"logo_path\":null,\"name\":\"Warner Bros. Entertainment Germany\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2021-09-09\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wet Dog\",\"video\":false,\"vote_average\":6.833,\"vote_count\":12}"
+}

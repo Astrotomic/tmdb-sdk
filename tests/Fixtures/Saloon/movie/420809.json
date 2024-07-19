@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1441",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4934",
+        "x-memc": "HIT",
+        "x-memc-key": "1a1a22dff8be4c9e214bf2ff8faf3220",
+        "x-memc-age": "19900",
+        "x-memc-expires": "4934",
+        "ETag": "W\/\"9165258c73cf3a1358ad456b8f113df0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6294154c5c81832cf7b9d6614919fbec.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Z0fcQXqN8Mg85EAiz6TEyWnUB8rNWGgtghwawHg-7ipxzb5Le53S1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/skvI4rYFrKXS73BJxWGH54Omlvv.jpg\",\"belongs_to_collection\":{\"id\":531331,\"name\":\"Maleficent Collection\",\"poster_path\":\"\/fIDwCnWcjro8XIn6m9nhXypb2PL.jpg\",\"backdrop_path\":\"\/lTwaU142KVz4wFPjuGq0OKVjl7P.jpg\"},\"budget\":185000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/movies.disney.com\/maleficent-mistress-of-evil\",\"id\":420809,\"imdb_id\":\"tt4777008\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Maleficent: Mistress of Evil\",\"overview\":\"Maleficent and her goddaughter Aurora begin to question the complex family ties that bind them as they are pulled in different directions by impending nuptials, unexpected allies, and dark new forces at play.\",\"popularity\":82.107,\"poster_path\":\"\/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":16314,\"logo_path\":null,\"name\":\"Roth Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-10-16\",\"revenue\":491730089,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Go beyond the fairy tale\",\"title\":\"Maleficent: Mistress of Evil\",\"video\":false,\"vote_average\":7.31,\"vote_count\":5962}"
+}

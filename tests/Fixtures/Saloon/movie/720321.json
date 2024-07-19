@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1292",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20360",
+        "x-memc": "HIT",
+        "x-memc-key": "a43de705c2ff5b9465406e584c32c993",
+        "x-memc-age": "6671",
+        "x-memc-expires": "20360",
+        "ETag": "W\/\"209aca8ed2b0edf91f4a771da887d43e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EkTmV9vHEW5EyQkxewALkpZZF16J8QvT0-UhhGPJsnctkw77uvxo8g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sHJTUdNOxy77MfiwtVIqHxCB2W.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.capstonepictures.com\/breathe\",\"id\":720321,\"imdb_id\":\"tt11540468\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Breathe\",\"overview\":\"Air-supply is scarce in the near future, forcing a mother and daughter to fight for survival when two strangers arrive desperate for an oxygenated haven.\",\"popularity\":193.744,\"poster_path\":\"\/wTW2t8ocWDlHns8I7vQxuqkyK58.jpg\",\"production_companies\":[{\"id\":3528,\"logo_path\":\"\/cCzCClIzIh81Fa79hpW5nXoUsHK.png\",\"name\":\"Thunder Road\",\"origin_country\":\"US\"},{\"id\":179831,\"logo_path\":\"\/9yUvtr26VMnSRJnePouXgOLFV7K.png\",\"name\":\"Capstone Studios\",\"origin_country\":\"US\"},{\"id\":117761,\"logo_path\":\"\/4Aa24Ase2LR6wesRolVQ0vinI8T.png\",\"name\":\"Streamline Global\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-04\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Time is running out.\",\"title\":\"Breathe\",\"video\":false,\"vote_average\":5.4,\"vote_count\":89}"
+}

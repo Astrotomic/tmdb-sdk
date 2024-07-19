@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1048",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6120",
+        "x-memc": "HIT",
+        "x-memc-key": "92ebafa08e1bf0ebd7e4bab4b2c1aff5",
+        "x-memc-age": "16808",
+        "x-memc-expires": "6120",
+        "ETag": "W\/\"53145ca5de6cc3e37258f2a1032843eb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DwCPnt5Zr6tJNACgl-JGJVlHqOhylilnia1OIhNwzoH2vnwLgHhDzg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8hZkgGoEfEeOwKZxPAWT6v3bcei.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":10840,\"imdb_id\":\"tt0114038\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b8\u30d6\u30ea\u5b9f\u9a13\u5287\u5834 On Your Mark\",\"overview\":\"Set in the future: Two men learn that a mysterious winged girl has been taken prisoner, and then decide that they must free her at any cost.\",\"popularity\":18.106,\"poster_path\":\"\/bQIsgvkGaKAgqkiRi1IOmb37dlm.jpg\",\"production_companies\":[{\"id\":10342,\"logo_path\":\"\/eS79pslnoKbWg7t3PMA9ayl0bGs.png\",\"name\":\"Studio Ghibli\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1995-07-15\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"On Your Mark\",\"video\":false,\"vote_average\":7.363,\"vote_count\":146}"
+}

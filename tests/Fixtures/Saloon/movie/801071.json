@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1188",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4313",
+        "x-memc": "HIT",
+        "x-memc-key": "08c250406ed10baf0abb6809afdd10d0",
+        "x-memc-age": "17975",
+        "x-memc-expires": "4313",
+        "ETag": "W\/\"130407f3081d57f1ab39e49d686d85fe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "acNj_9uLVpS5oTpADJgD-fyGjJU_alWhmizgjzWBJ-jo89QWGGOu-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg\",\"belongs_to_collection\":{\"id\":916357,\"name\":\"Jack in the Box Collection\",\"poster_path\":\"\/wX1EIWsgweGppgkLh7s5m9Aur6D.jpg\",\"backdrop_path\":\"\/tCJRbkzO4XAZpEUkKoImk3BAiz0.jpg\"},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":801071,\"imdb_id\":\"tt12764628\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Jack in the Box: Awakening\",\"overview\":\"When a vintage Jack-in-the-box is opened by a dying woman, she enters into a deal with the demon within that would see her illness cured in return for helping it claim six innocent victims.\",\"popularity\":53.541,\"poster_path\":\"\/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg\",\"production_companies\":[{\"id\":150062,\"logo_path\":null,\"name\":\"Fowler Media\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2022-02-24\",\"revenue\":195189,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Once you open the box... you can't escape it.\",\"title\":\"The Jack in the Box: Awakening\",\"video\":false,\"vote_average\":6.299,\"vote_count\":328}"
+}

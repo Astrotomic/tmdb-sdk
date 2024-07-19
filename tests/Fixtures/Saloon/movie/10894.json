@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1128",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23734",
+        "x-memc": "HIT",
+        "x-memc-key": "e9d9fe2002b9c9f5af4a35c9f09a45c7",
+        "x-memc-age": "836",
+        "x-memc-expires": "23734",
+        "ETag": "W\/\"a2f20537278ba2a4d7e56ee01a44be24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-d2ZIbzBDBRbnzwYQW1U8ox-GKOUQb9vBhM8MBjEMoZn7a-3P3IOOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A4b1wDR4i6GU1Jj9duEGeAUChqB.jpg\",\"belongs_to_collection\":null,\"budget\":500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10894,\"imdb_id\":\"tt0303361\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"May\",\"overview\":\"A socially awkward veterinary assistant with a lazy eye and obsession with perfection descends into depravity after developing a crush on a boy with perfect hands.\",\"popularity\":45.689,\"poster_path\":\"\/oFXhJYTax1cnNtgvLdKlXuYiWPV.jpg\",\"production_companies\":[{\"id\":29693,\"logo_path\":null,\"name\":\"A Loopy Production LLC\",\"origin_country\":\"\"},{\"id\":29694,\"logo_path\":null,\"name\":\"2 Loop Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-04-11\",\"revenue\":264349,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If you can't find a friend... make one.\",\"title\":\"May\",\"video\":false,\"vote_average\":6.5,\"vote_count\":592}"
+}

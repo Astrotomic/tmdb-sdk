@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "367",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9045",
+        "x-memc": "HIT",
+        "x-memc-key": "2640c6bccb75aa90bc4cb05796e1a6cb",
+        "x-memc-age": "15307",
+        "x-memc-expires": "9045",
+        "ETag": "W\/\"1fed8fdc74466c3661e6f131009ddae7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tNcD8vWQFltwsUF5K0680zXqdC5UQTnKsg-dc3xPJZCZ3OKws2twMA=="
+    },
+    "data": "{\"id\":119441,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/119441-axis-powers-paint-it-white\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1309",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10251",
+        "x-memc": "HIT",
+        "x-memc-key": "1459de15d379b6aa555e12a858b85b78",
+        "x-memc-age": "12498",
+        "x-memc-expires": "10251",
+        "ETag": "W\/\"61b57216a2e95157f5ed469c298cda84\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sDhKhu35IsWuBWCR-QuSTdHlZJNfSwo3Ya9FFG2ypjofmRsV-xJ9bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/72kek8O1FzqKWhKzclXsJpDUlex.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10994,\"imdb_id\":\"tt0283139\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"White Oleander\",\"overview\":\"A teenager journeys through a series of foster homes after her mother goes to prison for committing a crime of passion.\",\"popularity\":25.052,\"poster_path\":\"\/oGJDrJ9gMSs87iwE0sRZrG6EBhf.jpg\",\"production_companies\":[{\"id\":1512,\"logo_path\":null,\"name\":\"John Wells Productions\",\"origin_country\":\"US\"},{\"id\":5367,\"logo_path\":null,\"name\":\"Gaylord Films\",\"origin_country\":\"\"},{\"id\":12426,\"logo_path\":null,\"name\":\"Oleandor Productions\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":140,\"logo_path\":\"\/ooz5b0ov3PLfBoOJyMmdoffVuHs.png\",\"name\":\"Pandora Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-10-11\",\"revenue\":0,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"White Oleander\",\"video\":false,\"vote_average\":7.029,\"vote_count\":360}"
+}

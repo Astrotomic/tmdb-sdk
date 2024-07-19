@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "791",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=819",
+        "x-memc": "HIT",
+        "x-memc-key": "c753f1453724556fc7fa9ea88bdc1d83",
+        "x-memc-age": "22624",
+        "x-memc-expires": "819",
+        "ETag": "W\/\"1b84b3b178f0bb114fe04ddd92f8480d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lBBRYJEjiGPkHrAtlvvgYjKnGLyvZh8HSSgKKeYrkr-d4qzCW5gjMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":1025399,\"imdb_id\":null,\"origin_country\":[\"SK\"],\"original_language\":\"sk\",\"original_title\":\"Narodil sa chrob\u00e1\u010dik\",\"overview\":\"\",\"popularity\":6.884,\"poster_path\":null,\"production_companies\":[{\"id\":24023,\"logo_path\":\"\/yz6m1ty4qGvlkfReuqPZxdmD8V2.png\",\"name\":\"RTVS\",\"origin_country\":\"SK\"}],\"production_countries\":[{\"iso_3166_1\":\"SK\",\"name\":\"Slovakia\"}],\"release_date\":\"2021-05-30\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Narodil sa chrob\u00e1\u010dik\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

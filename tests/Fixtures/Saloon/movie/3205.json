@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1371",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20353",
+        "x-memc": "HIT",
+        "x-memc-key": "a3236fa6c5b24234fd26b4469386428c",
+        "x-memc-age": "7419",
+        "x-memc-expires": "20353",
+        "ETag": "W\/\"34a163f1c5d582979261af01d920a94a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kGxVh766BWMlOEh8XjXDBMSESswE3paanxXMEedvVDpiqghonrtVmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/u2Uh69liFD5OCDU6MkRdittRgR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3205,\"imdb_id\":\"tt0067707\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Santo vs. la hija de Frankenstein\",\"overview\":\"Dr. Frankenstein and her assistant, Dr. Yanco, are going to bring one of their experiments to life in Santo Vs. Frankenstein's Daughter. She intends to use a monster named Ursus to do her evil bidding. Using a youth serum to retain their vitality, the doctors set their sights upon none other than El Santo. They need his super human blood to regenerate a stronger youth serum. They kidnap Santo's goddaughter, Norma and lure him into Dr. Frankenstein's lab where he is captured and enslaved. Will Santo make it out alive?\",\"popularity\":3.361,\"poster_path\":\"\/uGwTcVuz8TDJdkHncmz9ebzE64o.jpg\",\"production_companies\":[{\"id\":11977,\"logo_path\":null,\"name\":\"Cinematogr\u00e1fica Calder\u00f3n S.A.\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1972-08-10\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Santo vs. Frankenstein's Daughter\",\"video\":false,\"vote_average\":6.5,\"vote_count\":15}"
+}

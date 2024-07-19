@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3713",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4083",
+        "x-memc": "HIT",
+        "x-memc-key": "c32801846e50bb14193c1a7a4d796121",
+        "x-memc-age": "17917",
+        "x-memc-expires": "4083",
+        "ETag": "W\/\"913b3b5bed1efebbfd8dece05f05ecaf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WtGRDmy9HZe2hSVOzxanXi6TojP89JVLQAwlKm62_nqnYPXjXugXJw=="
+    },
+    "data": "{\"id\":1177909,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4270515,\"known_for_department\":\"Directing\",\"name\":\"Justin Poage\",\"original_name\":\"Justin Poage\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Dominic Wells\",\"credit_id\":\"65023f921bf266011c78d2c9\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":4270516,\"known_for_department\":\"Writing\",\"name\":\"Kenneth Bradley\",\"original_name\":\"Kenneth Bradley\",\"popularity\":0.008,\"profile_path\":null,\"cast_id\":6,\"character\":\"Rick Sampson\",\"credit_id\":\"65023f99ffc9de0ee209e7b2\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":1726863,\"known_for_department\":\"Acting\",\"name\":\"Erica Page\",\"original_name\":\"Erica Page\",\"popularity\":2.663,\"profile_path\":\"\/kPHD5EBUYuTQK0UpcpdIxHD8bR8.jpg\",\"cast_id\":7,\"character\":\"Kennedy Reed\",\"credit_id\":\"65023f9edb4ed61033a2d2bc\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":4270517,\"known_for_department\":\"Acting\",\"name\":\"John Dixon\",\"original_name\":\"John Dixon\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":8,\"character\":\"Wes\",\"credit_id\":\"65023fd0db4ed610344056c0\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":2462146,\"known_for_department\":\"Acting\",\"name\":\"Anthony Dalton\",\"original_name\":\"Anthony Dalton\",\"popularity\":2.372,\"profile_path\":\"\/8XhDnbJuEqxOviPhJotJabdOocQ.jpg\",\"cast_id\":9,\"character\":\"Xavier Brown\",\"credit_id\":\"65023fd5d7dcd200ffec7427\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":2024741,\"known_for_department\":\"Acting\",\"name\":\"Barry Piacente\",\"original_name\":\"Barry Piacente\",\"popularity\":1.04,\"profile_path\":\"\/i2CEWkenvmpiFHFNAD7f7dVk6D0.jpg\",\"cast_id\":10,\"character\":\"Keyser Mason\",\"credit_id\":\"65023fdaffc9de0edf618f28\",\"order\":5},{\"adult\":false,\"gender\":2,\"id\":1830360,\"known_for_department\":\"Acting\",\"name\":\"Jon Chaffin\",\"original_name\":\"Jon Chaffin\",\"popularity\":13.397,\"profile_path\":\"\/tzIrDkyqFEylQqRlZGzE6h37daU.jpg\",\"cast_id\":11,\"character\":\"Elijah Kerns\",\"credit_id\":\"65023fdfd7dcd200e2fdc21b\",\"order\":6},{\"adult\":false,\"gender\":1,\"id\":1502244,\"known_for_department\":\"Acting\",\"name\":\"Doris Morgado\",\"original_name\":\"Doris Morgado\",\"popularity\":9.983,\"profile_path\":\"\/g2qQLzvqK0kRjlMjAQ56eDKjoUO.jpg\",\"cast_id\":12,\"character\":\"Maria Santos\",\"credit_id\":\"65023fe41bf26600ac757d9b\",\"order\":7},{\"adult\":false,\"gender\":0,\"id\":2462147,\"known_for_department\":\"Acting\",\"name\":\"Andrew Fortinberry\",\"original_name\":\"Andrew Fortinberry\",\"popularity\":0.057,\"profile_path\":null,\"cast_id\":13,\"character\":\"Walcott\",\"credit_id\":\"65023febefea7a00fd1c3298\",\"order\":8},{\"adult\":false,\"gender\":0,\"id\":3167204,\"known_for_department\":\"Acting\",\"name\":\"B. Todd Johnston\",\"original_name\":\"B. Todd Johnston\",\"popularity\":0.917,\"profile_path\":null,\"cast_id\":14,\"character\":\"Brian Caplan\",\"credit_id\":\"65023ff01bf26600ffb65be1\",\"order\":9}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4270515,\"known_for_department\":\"Directing\",\"name\":\"Justin Poage\",\"original_name\":\"Justin Poage\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65023f5dd7dcd200acb11e5c\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4270515,\"known_for_department\":\"Directing\",\"name\":\"Justin Poage\",\"original_name\":\"Justin Poage\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65023f616a222700e0f3067c\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":4270516,\"known_for_department\":\"Writing\",\"name\":\"Kenneth Bradley\",\"original_name\":\"Kenneth Bradley\",\"popularity\":0.008,\"profile_path\":null,\"credit_id\":\"65023f83efea7a00e036121f\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3167204,\"known_for_department\":\"Acting\",\"name\":\"B. Todd Johnston\",\"original_name\":\"B. Todd Johnston\",\"popularity\":0.917,\"profile_path\":null,\"credit_id\":\"65023f8aefea7a00e0361224\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

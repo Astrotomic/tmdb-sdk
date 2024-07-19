@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1333",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11241",
+        "x-memc": "HIT",
+        "x-memc-key": "301fb27788643b314b7510c32cfbc402",
+        "x-memc-age": "14976",
+        "x-memc-expires": "11241",
+        "ETag": "W\/\"a3dce1a2eb4c5c5738797ea8515bd1a4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Uixz_k9o2mJIsMi4WTgGy8VgPS77HxHSqkfDZRedjny4Y9Jj7cM8Ug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iFPpb2KIWKwBfyqSJivE4JegFPP.jpg\",\"belongs_to_collection\":null,\"budget\":2600000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/movies.disney.com\/pinocchio\",\"id\":10895,\"imdb_id\":\"tt0032910\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pinocchio\",\"overview\":\"When loving Geppetto creates a wooden puppet, his wish is granted when it comes to life as a little wooden boy named Pinocchio. With his faithful friend and conscience Jiminy Cricket by his side, Pinocchio, embarks on fantastic adventures that his bravery, loyalty and honesty until triumphs in his triumphs in his quest for his heart's desire: to become a real boy.\",\"popularity\":68.159,\"poster_path\":\"\/bnZJrLRnoQHpzEJdka1KYfsAF3N.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-02-23\",\"revenue\":164000000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When you wish upon a star, your dreams come true.\",\"title\":\"Pinocchio\",\"video\":false,\"vote_average\":7.106,\"vote_count\":5707}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1346",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=225",
+        "x-memc": "HIT",
+        "x-memc-key": "fdaa0c79a0cba6a6995c698bcd47ef82",
+        "x-memc-age": "25114",
+        "x-memc-expires": "225",
+        "ETag": "W\/\"1c022b5f93fd7751ec234ffe155b7b6d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f6eIJ1RYPMjpitsAxOliVrFomySMUSW4I4jyg8FXFazpD73Oz10zIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3vUkQpnwbsFEQlMh9EORpvKJfpo.jpg\",\"belongs_to_collection\":null,\"budget\":8000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":318,\"imdb_id\":\"tt0120753\",\"origin_country\":[\"DE\",\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Million Dollar Hotel\",\"overview\":\"A federal agent searches for a potential killer among the bizarre residents of a dilapidated Los Angeles hotel.\",\"popularity\":14.812,\"poster_path\":\"\/iGRyPsZF0lfIL3IadmBdoAsYzyn.jpg\",\"production_companies\":[{\"id\":1490,\"logo_path\":null,\"name\":\"Kintop Pictures\",\"origin_country\":\"US\"},{\"id\":36229,\"logo_path\":null,\"name\":\"Wim Wenders Stiftung\",\"origin_country\":\"DE\"},{\"id\":45,\"logo_path\":\"\/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png\",\"name\":\"Road Movies\",\"origin_country\":\"DE\"},{\"id\":4564,\"logo_path\":null,\"name\":\"Icon Entertainment International\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-02-09\",\"revenue\":105983,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everyone has something to hide.\",\"title\":\"The Million Dollar Hotel\",\"video\":false,\"vote_average\":5.902,\"vote_count\":322}"
+}

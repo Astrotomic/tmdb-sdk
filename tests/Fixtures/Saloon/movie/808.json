@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1495",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14415",
+        "x-memc": "HIT",
+        "x-memc-key": "1bdde716b8ccdf3e1a1b53e3dcdef291",
+        "x-memc-age": "12603",
+        "x-memc-expires": "14415",
+        "ETag": "W\/\"cca7203a076b65d7929fffebf7189e7b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bGVuS1KArETRE1OxsVs5zZparkXcqLGi5wYNlPQfVHkSyUgEZqTOFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sRvXNDItGlWCqtO3j6wks52FmbD.jpg\",\"belongs_to_collection\":{\"id\":2150,\"name\":\"Shrek Collection\",\"poster_path\":\"\/m3IA3X59cEup41xs4DJLptlfsza.jpg\",\"backdrop_path\":\"\/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg\"},\"budget\":60000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.dreamworksanimation.com\/shrek\/\",\"id\":808,\"imdb_id\":\"tt0126029\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shrek\",\"overview\":\"It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.\",\"popularity\":195.127,\"poster_path\":\"\/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-05-18\",\"revenue\":488628188,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The greatest fairy tale never told.\",\"title\":\"Shrek\",\"video\":false,\"vote_average\":7.745,\"vote_count\":16742}"
+}

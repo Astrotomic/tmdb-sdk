@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1338",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12253",
+        "x-memc": "HIT",
+        "x-memc-key": "de0484566fb3cc569a6b7c6b0eaacea8",
+        "x-memc-age": "13647",
+        "x-memc-expires": "12253",
+        "ETag": "W\/\"01c336deefd836a42e2c21a8c493a11d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XgFFUkvoqT4OX8WqN4dSF97sWAeluj1ji-dl9TojDz5bYYD4RTHQog=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/efJb6KshAYsGhPKAtCGQVeEmRh8.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":11396,\"imdb_id\":\"tt0061376\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Les Aventuriers\",\"overview\":\"Two adventurers and best friends, Roland and Manu, are the victims of a practical joke that costs Manu his pilot's license. With seeming contrition, the jokesters tell Roland and Manu about a crashed plane lying on the ocean floor off the coast of Congo stuffed with riches. The adventurers set off to find the loot.\",\"popularity\":12.355,\"poster_path\":\"\/rsl3EbF6gwKEihyffIXXcVlvOx9.jpg\",\"production_companies\":[{\"id\":16670,\"logo_path\":null,\"name\":\"SNC\",\"origin_country\":\"FR\"},{\"id\":36855,\"logo_path\":null,\"name\":\"CGIC\",\"origin_country\":\"\"},{\"id\":36856,\"logo_path\":null,\"name\":\"Compagnia Generale Finanziaria Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1967-04-12\",\"revenue\":0,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Last Adventure\",\"video\":false,\"vote_average\":6.9,\"vote_count\":111}"
+}

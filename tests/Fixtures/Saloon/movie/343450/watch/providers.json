@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "781",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:04:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19713",
+        "x-memc": "HIT",
+        "x-memc-key": "b85b78ed23737c5f96e1aac2c6137f8e",
+        "x-memc-age": "2587",
+        "x-memc-expires": "19713",
+        "ETag": "W\/\"f43d7c1d3b44fc64afb8e44384b91279\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hwQMdtQCjYtpSQWLyGzaHzVi353rvh9F0cqAJnEjnNe20wRjr6FcyQ=="
+    },
+    "data": "{\"id\":343450,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/343450-holdudvar\/watch?locale=BR\",\"flatrate\":[{\"logo_path\":\"\/ptNJnBKMVLv3XxmLU9UMVSDop80.jpg\",\"provider_id\":1973,\"provider_name\":\"Filmicca\",\"display_priority\":84}]},\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/343450-holdudvar\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/343450-holdudvar\/watch?locale=FR\",\"buy\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}],\"rent\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}]}}}"
+}

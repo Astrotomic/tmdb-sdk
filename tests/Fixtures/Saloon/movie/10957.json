@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1749",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=202",
+        "x-memc": "HIT",
+        "x-memc-key": "1f174bd296abeb4e8b019ce0218caff2",
+        "x-memc-age": "21714",
+        "x-memc-expires": "202",
+        "ETag": "W\/\"c5b5f971ac912e181a0eeee8f1aee1e9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "y3kM8vKzlzWwcKXTFUFjCwbUSov3fUd1fuw19UdOfmJt1vkwT8XtAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zOBq7vAu9qVJFvHXFhXPAnosjxb.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":10957,\"imdb_id\":\"tt0088814\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Black Cauldron\",\"overview\":\"Taran is an assistant pigkeeper with boyish dreams of becoming a great warrior. However, he has to put the daydreaming aside when his charge, an oracular pig named Hen Wen, is kidnapped by an evil lord known as the Horned King. The villain hopes Hen will show him the way to The Black Cauldron, which has the power to create a giant army of unstoppable soldiers.\",\"popularity\":48.469,\"poster_path\":\"\/act8vtlXVEizdsUf9FcKbzSERew.jpg\",\"production_companies\":[{\"id\":10531,\"logo_path\":null,\"name\":\"Silver Screen Partners II\",\"origin_country\":\"\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-07-24\",\"revenue\":21300000,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Hidden by darkness. Guarded by witches. Discovered by a boy. Stolen by a king. Whoever owns it will rule the world. Or destroy it.\",\"title\":\"The Black Cauldron\",\"video\":false,\"vote_average\":6.436,\"vote_count\":1233}"
+}

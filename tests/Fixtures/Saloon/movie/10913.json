@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1601",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22798",
+        "x-memc": "HIT",
+        "x-memc-key": "0e076ea8cc93edcff7ce13ff1a0e65f4",
+        "x-memc-age": "2652",
+        "x-memc-expires": "22798",
+        "ETag": "W\/\"b9094088b56a8e50bc950ae595f2808b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zhA5p1LOWcVC2GH0Q6eHiNFOAh3dK5dGFWHiJ4qzLtFe9fQu7voC6g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h3EmI6sR3THbrsMe5x12qnFtsH4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10913,\"imdb_id\":\"tt0342272\",\"origin_country\":[\"DK\",\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Dear Wendy\",\"overview\":\"In a blue-collar American town, a group of teens bands together to form the Dandies, a gang of gunslingers led by Dick Dandelion. Following a code of strict pacifism at odds with the fact that they all carry guns, the group eventually lets in Sebastian, the grandson of Dick's childhood nanny, Clarabelle, who fears the other gangs in the area. Dick and company try to protect Clarabelle, but events transpire that push the gang past posturing.\",\"popularity\":12.171,\"poster_path\":\"\/2IF19Tcx5D9d8iUWa0PxFhO6MYZ.jpg\",\"production_companies\":[{\"id\":76,\"logo_path\":\"\/nebkQYtQKhZyHJfh5v0oGpNbPzu.png\",\"name\":\"Zentropa Entertainments\",\"origin_country\":\"DK\"},{\"id\":43271,\"logo_path\":null,\"name\":\"Lucky Punch\",\"origin_country\":\"\"},{\"id\":155,\"logo_path\":\"\/cDY49SOQwJixJSMun9Haerx8dAQ.png\",\"name\":\"Nimbus Film\",\"origin_country\":\"DK\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2005-02-04\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One shot is all it takes\",\"title\":\"Dear Wendy\",\"video\":false,\"vote_average\":5.8,\"vote_count\":119}"
+}

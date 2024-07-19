@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1400",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2700",
+        "x-memc": "HIT",
+        "x-memc-key": "34bdf33779bcab6f9d18818cd60cb12d",
+        "x-memc-age": "23404",
+        "x-memc-expires": "2700",
+        "ETag": "W\/\"6530dea28ed117891feebcc0b34383ff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Dse746y4gLS9VdbDtCj0JGhoe8xYJiXts6V8rLX_bk_77FmAhX8JDQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xClq7x4kE5l6NL4P0ZzD9sfJW73.jpg\",\"belongs_to_collection\":{\"id\":110021,\"name\":\"The Magnificent Seven Collection\",\"poster_path\":\"\/zsqGRVhtGJJZ0qPnNaPmimWhtSa.jpg\",\"backdrop_path\":\"\/qGbZCnfGDbK9EyYULgDN1f3f1le.jpg\"},\"budget\":2000000,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":966,\"imdb_id\":\"tt0054047\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Magnificent Seven\",\"overview\":\"An oppressed Mexican peasant village hires seven gunfighters to help defend their homes.\",\"popularity\":55.702,\"poster_path\":\"\/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg\",\"production_companies\":[{\"id\":20931,\"logo_path\":null,\"name\":\"Alpha Productions\",\"origin_country\":\"US\"},{\"id\":219,\"logo_path\":null,\"name\":\"The Mirisch Company\",\"origin_country\":\"US\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1960-10-12\",\"revenue\":4905000,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"They were seven\u2026and they fought like seven hundred!\",\"title\":\"The Magnificent Seven\",\"video\":false,\"vote_average\":7.5,\"vote_count\":1715}"
+}

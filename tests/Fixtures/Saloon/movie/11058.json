@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1416",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1015",
+        "x-memc": "HIT",
+        "x-memc-key": "ef72cee55899c996f47b3d00632bcc7c",
+        "x-memc-age": "23541",
+        "x-memc-expires": "1015",
+        "ETag": "W\/\"b758db5d4daad9bb82de4a3bfb9969f6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ArhaoqQO7RnlZGpfG4ye-FpRldnmvzOgSu0GkuM3eVA-2eKtkBs6iQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eDcuAU8mpjRYXOMtDGUYx7Y0tVR.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11058,\"imdb_id\":\"tt0335121\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Godsend\",\"overview\":\"A couple agree to have their deceased son cloned under the supervision of an enigmatic doctor, but bizarre things start to happen years after his rebirth.\",\"popularity\":19.532,\"poster_path\":\"\/lLncs8FEzKupj19wCqZ3sPmg3eU.jpg\",\"production_companies\":[{\"id\":57347,\"logo_path\":null,\"name\":\"Blue Productions\",\"origin_country\":\"\"},{\"id\":35,\"logo_path\":\"\/wxrHa3nZ1K4zo65p56991INkGo6.png\",\"name\":\"Lions Gate Films\",\"origin_country\":\"US\"},{\"id\":18620,\"logo_path\":null,\"name\":\"Artists Production Group (APG)\",\"origin_country\":\"\"},{\"id\":846,\"logo_path\":\"\/1ITLcfP6CoW7fPhJUfWsJhFwbOU.png\",\"name\":\"2929 Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-04-30\",\"revenue\":30120671,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When a miracle becomes a nightmare, evil is born.\",\"title\":\"Godsend\",\"video\":false,\"vote_average\":4.869,\"vote_count\":463}"
+}

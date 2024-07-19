@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1143",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4214",
+        "x-memc": "HIT",
+        "x-memc-key": "33b249fa76e6e32d25b8bbcbef5267e9",
+        "x-memc-age": "20424",
+        "x-memc-expires": "4214",
+        "ETag": "W\/\"d420d713c705afb03e66bf071f19eb07\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Opj-8zK2UGSQtt4hECJYLRQemqHsxE5EB06HIiPZzv3etC1_GeWgRg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1fMD4KvZ4cR04aQo6hH6R5NdIH8.jpg\",\"belongs_to_collection\":null,\"budget\":1600000,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":910,\"imdb_id\":\"tt0038355\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Big Sleep\",\"overview\":\"Private Investigator Philip Marlowe is hired by wealthy General Sternwood regarding a matter involving his youngest daughter Carmen. Before the complex case is over, Marlowe sees murder, blackmail, deception, and what might be love.\",\"popularity\":25.486,\"poster_path\":\"\/lraHo9D8c0YWfxsKqT5P5sVqMKN.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1946-08-23\",\"revenue\":4900000,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The picture they were born for!\",\"title\":\"The Big Sleep\",\"video\":false,\"vote_average\":7.6,\"vote_count\":1001}"
+}

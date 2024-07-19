@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1109",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22903",
+        "x-memc": "HIT",
+        "x-memc-key": "e2a4525bae14e1a9eb6f907267be48bc",
+        "x-memc-age": "160",
+        "x-memc-expires": "22903",
+        "ETag": "W\/\"748d021ad65adfb0b9f213acf3533b27\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Tvi-c6xJc18a8FFtqrArJt1IO4OFlH3yYHmctMQH8clBJP-uQMUBkA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":233561,\"imdb_id\":\"tt0049377\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Jacqueline\",\"overview\":\"Jacqueline is the daughter of Belfast shipyard worker Mike McNeil. The worker's worth is compromised by his crippling fear of heights. Dismissed from his job, he finds solace in the bottle. All seems hopeless until Jacqueline breaks through her father's self-imposed gloom and helps him to regenerate. An adaptation of the novel 'A Grand Man', by Catherine Cookson.\",\"popularity\":2.691,\"poster_path\":\"\/b6pve7xxaWr3Vqx9r5oGYB0E76E.jpg\",\"production_companies\":[{\"id\":14379,\"logo_path\":null,\"name\":\"George H. Brown Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1956-06-04\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Jacqueline\",\"video\":false,\"vote_average\":6.0,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1213",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13855",
+        "x-memc": "HIT",
+        "x-memc-key": "48f4be9eb97ee160dfe9af08d9199e7a",
+        "x-memc-age": "11822",
+        "x-memc-expires": "13855",
+        "ETag": "W\/\"9d789d77119d467123cc8a55db98dfbb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jLpEYaywxUV_ToDsT0GSZtpyr9qi9yUd-7p9DzmE6G8WfeIKDPB40A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pGbnwZHZRaQcjBqQtRiXedD9xlB.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":7233,\"imdb_id\":\"tt0376108\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rebound\",\"overview\":\"An acclaimed college hoops coach is demoted to a junior varsity team after a public meltdown.\",\"popularity\":21.715,\"poster_path\":\"\/4l0Q1lAf4aV3h1LJQ00EpxVQefr.jpg\",\"production_companies\":[{\"id\":73956,\"logo_path\":null,\"name\":\"Runteldat Entertainment\",\"origin_country\":\"US\"},{\"id\":3929,\"logo_path\":null,\"name\":\"Robert Simonds Productions\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-07-01\",\"revenue\":16809014,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"A comedy where old school ...meets middle school\",\"title\":\"Rebound\",\"video\":false,\"vote_average\":5.571,\"vote_count\":322}"
+}

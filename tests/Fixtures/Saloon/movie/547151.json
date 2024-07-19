@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1268",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5039",
+        "x-memc": "HIT",
+        "x-memc-key": "256d1bbe8dec8f78fd3d4727329d6b9a",
+        "x-memc-age": "20572",
+        "x-memc-expires": "5039",
+        "ETag": "W\/\"1004631cb2ed8679f4fb2a4be1847a24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TQ2bcUNW5VHs7p5JJv5nsnXtUyfIC7gwecEeapxytbZXjYJro6FRUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wUWruwJgY8MkDdidab4AbAUhBuL.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":547151,\"imdb_id\":\"tt0165232\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u6c5a\u308c\u305f\u82f1\u96c4\",\"overview\":\"The 8th All-Japan Road Race Championship. The internationally ranked A-level SUGO circuit is on the edge of its seat as the 500 cc final draws near.  Akio Kitano and Keishi Ooki face off: private team versus factory team. In the final lap, Akio is overtaken by Ooki and loses by a hair. The reason for his defeat? The difference between their two machines. With their scores tied, the two wait for the next match to settle the score for good.\",\"popularity\":9.659,\"poster_path\":\"\/c81bDIoVb0XSvIWxUiuUtQOZF04.jpg\",\"production_companies\":[{\"id\":5822,\"logo_path\":\"\/qyTbRgCyU9NLKvKaiQVbadtr7RY.png\",\"name\":\"Toei Company\",\"origin_country\":\"JP\"},{\"id\":2073,\"logo_path\":\"\/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png\",\"name\":\"KADOKAWA\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1982-12-18\",\"revenue\":14,\"runtime\":112,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Last Hero\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

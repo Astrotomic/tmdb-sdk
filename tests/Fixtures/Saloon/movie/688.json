@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1310",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15532",
+        "x-memc": "HIT",
+        "x-memc-key": "1664b47c6c9d0b3c1d7d5ed368411708",
+        "x-memc-age": "11435",
+        "x-memc-expires": "15532",
+        "ETag": "W\/\"5b3f0148af6049d8adaea4f662f50817\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "H42WFK5X8boBXH8ignC-REZQIdG39uU-JkdlcqNyiVztrZo_Kup4IA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg\",\"belongs_to_collection\":null,\"budget\":24000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":688,\"imdb_id\":\"tt0112579\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Bridges of Madison County\",\"overview\":\"Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.\",\"popularity\":30.465,\"poster_path\":\"\/teGMLWvCnJqvtPYCSuUKRM9MvFe.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":171,\"logo_path\":\"\/bqLWwuNCHcY3IjB5e4o29h7l80D.png\",\"name\":\"Malpaso Productions\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-06-02\",\"revenue\":182000000,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The path of Francesca Johnson's future seems destined due to an unexpected fork in the road...\",\"title\":\"The Bridges of Madison County\",\"video\":false,\"vote_average\":7.708,\"vote_count\":2075}"
+}

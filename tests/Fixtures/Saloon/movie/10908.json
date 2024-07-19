@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1624",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11376",
+        "x-memc": "HIT",
+        "x-memc-key": "100a2bae7b7bd39865badb4f55ceb1fe",
+        "x-memc-age": "11859",
+        "x-memc-expires": "11376",
+        "ETag": "W\/\"7da31a1c91c436a0e41d41dba7f29616\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3Iz0x-19uGfSDMYeFfXigCBy3QzCPy5dsaATgw35vDqGMlo6ds4YMw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vRx6kzCItpqwnYCcj2z8qf70gv3.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10908,\"imdb_id\":\"tt0139151\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Inferno\",\"overview\":\"Eddie Lomax is a drifter who has been in a suicidal funk since the death of his close friend Johnny. Riding his motorcycle into a small desert town where Johnny once lived, Lomax is confronted by a gang of toughs, who beat him and steal his bike. However, Lomax is not a man to take an injustice lying down, and soon he begins exacting a violent revenge on the men who stole his motorcycle, with local handyman Jubal Early lending a hand and several area ladies offering aid and comfort.\",\"popularity\":76.114,\"poster_path\":\"\/dFlI0Vb4JOsRXG1JSS2Ufs6Sp8k.jpg\",\"production_companies\":[{\"id\":7450,\"logo_path\":null,\"name\":\"KPI Productions\",\"origin_country\":\"\"},{\"id\":45792,\"logo_path\":null,\"name\":\"Lomax Productions\",\"origin_country\":\"\"},{\"id\":125558,\"logo_path\":\"\/7ZDyxnaGb2YzJXJQYYJU8HmjlQx.png\",\"name\":\"PM Entertainment Group\",\"origin_country\":\"US\"},{\"id\":217028,\"logo_path\":null,\"name\":\"Long Road International\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-09-25\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Left for dead. Burning for revenge\",\"title\":\"Inferno\",\"video\":false,\"vote_average\":6.129,\"vote_count\":303}"
+}

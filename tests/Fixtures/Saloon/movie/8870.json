@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1456",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5258",
+        "x-memc": "HIT",
+        "x-memc-key": "af70ff8bef47ec2c30cb08bbc92dd27f",
+        "x-memc-age": "19227",
+        "x-memc-expires": "5258",
+        "ETag": "W\/\"bbdd805054b72baee02be32b52f1cb31\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TDM1avZG6CCOpyKW3u3n2U7Ceh-5NCxMuzMddEPMbqMSBQIXP9shpg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nOHKrmn2H1buOGEHPBh9HL2M8eg.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":8870,\"imdb_id\":\"tt0199753\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Red Planet\",\"overview\":\"Astronauts search for solutions to save a dying Earth by searching on Mars, only to have the mission go terribly awry.\",\"popularity\":29.663,\"poster_path\":\"\/6svTVlVEJDoOOEz1G09HLeb7vtF.jpg\",\"production_companies\":[{\"id\":53997,\"logo_path\":null,\"name\":\"Mars Production Pty. Ltd.\",\"origin_country\":\"\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":172,\"logo_path\":null,\"name\":\"NPV Entertainment\",\"origin_country\":\"US\"},{\"id\":22351,\"logo_path\":null,\"name\":\"The Canton Company\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-11-10\",\"revenue\":33463969,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Not a sound. Not a warning. Not a chance. Not alone.\",\"title\":\"Red Planet\",\"video\":false,\"vote_average\":5.713,\"vote_count\":987}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1067",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3986",
+        "x-memc": "HIT",
+        "x-memc-key": "ce5c13776eab17bb5cd08bb20148baa5",
+        "x-memc-age": "23643",
+        "x-memc-expires": "3986",
+        "ETag": "W\/\"cf15b14dc940b296c0767bb9f5539188\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F6w631TUqUasiHEi7mAFhHOE7BsngB_yUSadY0z0LO3_-jEiG4ErVg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":856894,\"imdb_id\":\"tt0106465\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Born Too Soon\",\"overview\":\"American television film about the life of Emily Butterfield, a baby girl who was born prematurely and died 53 days after her birth.\",\"popularity\":5.194,\"poster_path\":\"\/aHHFmS1jXfgPHD07T4Cl7gdbYvw.jpg\",\"production_companies\":[{\"id\":5565,\"logo_path\":null,\"name\":\"Adam Productions\",\"origin_country\":\"\"},{\"id\":10348,\"logo_path\":null,\"name\":\"Republic Pictures (II)\",\"origin_country\":\"\"},{\"id\":15638,\"logo_path\":null,\"name\":\"Republic Television\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-04-25\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Born Too Soon\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

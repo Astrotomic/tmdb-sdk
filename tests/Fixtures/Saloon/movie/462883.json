@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1413",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26787",
+        "x-memc": "HIT",
+        "x-memc-key": "f6ad3aaf0307dedffe6188618fffe348",
+        "x-memc-age": "426",
+        "x-memc-expires": "26787",
+        "ETag": "W\/\"89a239582bf126c69b30e8c217aa2977\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "khALO81PGPtRKNW0Bj1RiL7U2BKC8WLlobX9C9wqEpKwZRTz-n94IA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lkCDvf3QjXpAycm896oH1LRTK5X.jpg\",\"belongs_to_collection\":{\"id\":1239686,\"name\":\"Woody Woodpecker Collection\",\"poster_path\":\"\/wJm6udqLfbY6wMGJYxfR8CDzvS9.jpg\",\"backdrop_path\":\"\/5KaeA8JTfXTBI4x1QBDAMlAXkDf.jpg\"},\"budget\":10000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":462883,\"imdb_id\":\"tt2114504\",\"origin_country\":[\"BR\",\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Woody Woodpecker\",\"overview\":\"Woody Woodpecker enters a turf war with a big city lawyer wanting to tear down his home in an effort to build a house to flip.\",\"popularity\":37.789,\"poster_path\":\"\/vFGUsJTa8z0OfDTbjdyppAireeB.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":17009,\"logo_path\":\"\/ssowAxOrrqsSR2CKeiytOXwLoCW.png\",\"name\":\"Universal 1440 Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-10-05\",\"revenue\":15316635,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Get ready for a lesson about the bird and the bees.\",\"title\":\"Woody Woodpecker\",\"video\":false,\"vote_average\":6.6,\"vote_count\":695}"
+}

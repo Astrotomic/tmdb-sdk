@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3565",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:48:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21634",
+        "x-memc": "HIT",
+        "x-memc-key": "f172de8dc30c4f1e5d89879e39e34ab8",
+        "x-memc-age": "6016",
+        "x-memc-expires": "21634",
+        "ETag": "W\/\"c6a1993a0759282843e5bda88ae8d57a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qzQTyHE1ybtL8nBVphjlbQcaLgJzWD6AKblkUMkC_Qt1CkBoQvCxpA=="
+    },
+    "data": "{\"id\":550025,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550025-christmas-in-evergreen-letters-to-santa\/watch?locale=BR\",\"flatrate\":[{\"logo_path\":\"\/7Cg8esVVXOijXAm1f1vrS7jVjcN.jpg\",\"provider_id\":307,\"provider_name\":\"Globoplay\",\"display_priority\":10}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550025-christmas-in-evergreen-letters-to-santa\/watch?locale=CA\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550025-christmas-in-evergreen-letters-to-santa\/watch?locale=GB\",\"flatrate\":[{\"logo_path\":\"\/x2cjJAyU8CLwyYHaIxzzEjXJFU8.jpg\",\"provider_id\":1746,\"provider_name\":\"Hallmark TV Amazon Channel\",\"display_priority\":89}]},\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550025-christmas-in-evergreen-letters-to-santa\/watch?locale=NL\",\"flatrate\":[{\"logo_path\":\"\/qN7uDYanT47WI0MmbwOr5HFFot.jpg\",\"provider_id\":72,\"provider_name\":\"Videoland\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550025-christmas-in-evergreen-letters-to-santa\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/dB8G41Q6tSL5NBisrIeqByfepBc.jpg\",\"provider_id\":300,\"provider_name\":\"Pluto TV\",\"display_priority\":91}],\"flatrate\":[{\"logo_path\":\"\/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg\",\"provider_id\":257,\"provider_name\":\"fuboTV\",\"display_priority\":8},{\"logo_path\":\"\/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg\",\"provider_id\":386,\"provider_name\":\"Peacock\",\"display_priority\":13},{\"logo_path\":\"\/614YTzAiVrSIm7bIVcwg4lIMQr7.jpg\",\"provider_id\":290,\"provider_name\":\"Hallmark Movies Now Amazon Channel\",\"display_priority\":85},{\"logo_path\":\"\/ce9sTSF5WsvqEHv7kxOM1LlQha5.jpg\",\"provider_id\":2058,\"provider_name\":\"Hallmark Movies Now Apple TV Channel\",\"display_priority\":266}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

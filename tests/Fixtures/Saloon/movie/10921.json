@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1234",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15524",
+        "x-memc": "HIT",
+        "x-memc-key": "29cc0942960feeb3e5a0107012570840",
+        "x-memc-age": "6175",
+        "x-memc-expires": "15524",
+        "ETag": "W\/\"ae15994f9454e79134b270c0658ee852\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ej-vmH7f54CcSAIsVuaXKi01QdyXZC5iLt225tb7mtMaOdg52S6tew=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qxYVVwDgpJJTCX2co6AHUhImdyZ.jpg\",\"belongs_to_collection\":{\"id\":10441,\"name\":\"Babylon 5 Collection\",\"poster_path\":\"\/4SmQl6eoFuyvHPj1noqqKf93yK6.jpg\",\"backdrop_path\":\"\/mpiKaJZSIDVGbuKxL1KyQPxeW6Y.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10921,\"imdb_id\":\"tt0146247\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Babylon 5: The River of Souls\",\"overview\":\"A group of Soul Hunters come to Babylon 5 demanding the return of something that was stolen from them.\",\"popularity\":9.865,\"poster_path\":\"\/bG8H9cnusrothe1HixryGGvSo9S.jpg\",\"production_companies\":[{\"id\":2181,\"logo_path\":null,\"name\":\"Babylonian Productions\",\"origin_country\":\"\"},{\"id\":678,\"logo_path\":\"\/AbIc38dGx4b8dhKS7oeRL6aXFDv.png\",\"name\":\"Turner Network Television\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-12-20\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Babylon 5: The River of Souls\",\"video\":false,\"vote_average\":6.343,\"vote_count\":99}"
+}

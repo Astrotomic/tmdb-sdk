@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1314",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=857",
+        "x-memc": "HIT",
+        "x-memc-key": "6003858721452a60369c56b77a35aed9",
+        "x-memc-age": "24916",
+        "x-memc-expires": "857",
+        "ETag": "W\/\"3b305f078553458a82b4bb3820527086\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eXvK73Kjm3d4S0d6hCDL4mCfR-n5d4aTZssh5p3NAwnVPWrJhUuIYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AuKXTyCVzeIdtTe1NAQnJa1ZC7I.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81110501\",\"id\":739547,\"imdb_id\":\"tt10442352\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Thelma the Unicorn\",\"overview\":\"Thelma dreams of being a glamorous unicorn. Then in a rare pink and glitter-filled moment of fate, Thelma's wish comes true. She rises to instant international stardom, but at an unexpected cost. After a while, Thelma realizes that she was happier as her ordinary, sparkle-free self. So she ditches her horn, scrubs off her sparkles, and returns home, where her best friend is waiting for her with a hug.\",\"popularity\":194.25,\"poster_path\":\"\/yutiEZ7taGDNau2jGjKIdDwQpDw.jpg\",\"production_companies\":[{\"id\":178464,\"logo_path\":\"\/tyHnxjQJLH6h4iDQKhN5iqebWmX.png\",\"name\":\"Netflix\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-17\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Thelma the Unicorn\",\"video\":false,\"vote_average\":7.0,\"vote_count\":125}"
+}

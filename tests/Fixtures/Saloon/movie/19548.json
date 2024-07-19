@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1039",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5254",
+        "x-memc": "HIT",
+        "x-memc-key": "6e441198e884c2f13e72ad2f0d29421b",
+        "x-memc-age": "21766",
+        "x-memc-expires": "5254",
+        "ETag": "W\/\"5676492ad014f27e1c64c50826bd51b1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KuPXE9IVaRCfosrGnuOit9JuVOsABEJ5-OEprjSEsjGfQw0uR8Arew=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zYwJESq8TQNMMbjbpDmp39CHGYw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":19548,\"imdb_id\":\"tt0061728\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le Grand Restaurant\",\"overview\":\"A great French restaurant's owner, Monsieur Septime, is thrust into intrigue and crime, when one of his famous guests disappears.\",\"popularity\":18.643,\"poster_path\":\"\/gTr2HfSlRpKf4KtJYyIQwNLADGm.jpg\",\"production_companies\":[{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1966-09-09\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Restaurant\",\"video\":false,\"vote_average\":6.8,\"vote_count\":475}"
+}

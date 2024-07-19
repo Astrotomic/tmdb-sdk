@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "961",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22923",
+        "x-memc": "HIT",
+        "x-memc-key": "08923110d5b6dc3b037b367321091663",
+        "x-memc-age": "2999",
+        "x-memc-expires": "22923",
+        "ETag": "W\/\"22fff6b50f6c4afd5a7df80054b8e0f1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ceb0E0EqEotTUFPk-2tsHm3g4Wd4Pgn6rbkj5UEnnHamxc1DE_6DMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lv9zku5sGdW4PZQLYkIqfdYrBLK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.youtube.com\/watch?v=5HJu_6G6MNE\",\"id\":566730,\"imdb_id\":\"tt5164502\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Past Tense\",\"overview\":\"After finding a mysterious note, two would-be time-travelers must face the consequences of their actions -- before they even finish building their machine.\",\"popularity\":1.97,\"poster_path\":\"\/h8eByiPENKvGcL6vMBzJYImKG67.jpg\",\"production_companies\":[{\"id\":111956,\"logo_path\":null,\"name\":\"Blue Frost Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-02-10\",\"revenue\":0,\"runtime\":12,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"Unfinished Business\",\"title\":\"Past Tense\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

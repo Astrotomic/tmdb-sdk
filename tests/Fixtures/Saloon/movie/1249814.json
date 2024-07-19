@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1171",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21665",
+        "x-memc": "HIT",
+        "x-memc-key": "5023803521e4a06759476c40a887d6c4",
+        "x-memc-age": "4747",
+        "x-memc-expires": "21665",
+        "ETag": "W\/\"49808f4a4ed7ca285a97fc25fd8fa50f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YDmBHnJJAnQ_qgvqkCfR3wvd1ymdDMVsI3ZR5gQyrjMfujrs1zj2mQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":3000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/lattertimesbandproductions1.vhx.tv\/products\/the-awakening-1\",\"id\":1249814,\"imdb_id\":\"tt31458712\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Awakening\",\"overview\":\"A young man decides to pay a visit to his deceased friend at the cemetery when he is caught up in a fight for his life against flesh eating zombies. Little does he realize that the end of the world is taking place right before his very eyes.\",\"popularity\":0.964,\"poster_path\":null,\"production_companies\":[{\"id\":221720,\"logo_path\":null,\"name\":\"Latter Times Band Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-12-21\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Zombies, Fighting, and the End of the World all come crashing down on the lives of unsuspecting people.\",\"title\":\"The Awakening\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

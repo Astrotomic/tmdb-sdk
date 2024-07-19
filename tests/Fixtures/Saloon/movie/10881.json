@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1683",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21882",
+        "x-memc": "HIT",
+        "x-memc-key": "74e300dff44ae3d245ab86701b9872ca",
+        "x-memc-age": "3457",
+        "x-memc-expires": "21882",
+        "ETag": "W\/\"0d313674f4d2e738f4d5be221e27a05d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uVOaTl_AmhX-Sc8JoyoXZHgBuH0mG3ySKtteovmECoOCsfAlWhYCZw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cf8qwkSTSuHrRH9yIKfM6QYoCtB.jpg\",\"belongs_to_collection\":null,\"budget\":8000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.miramax.com\/movie\/avalon\",\"id\":10881,\"imdb_id\":\"tt0267287\",\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Avalon\",\"overview\":\"In a future world, young people are increasingly becoming addicted to an illegal (and potentially deadly) battle simulation game called Avalon. When Ash, a star player, hears of rumors that a more advanced level of the game exists somewhere, she gives up her loner ways and joins a gang of explorers. Even if she finds the gateway to the next level, will she ever be able to come back to reality?\",\"popularity\":13.308,\"poster_path\":\"\/xm8byLTLqscSae3vFJDDggNeH1j.jpg\",\"production_companies\":[{\"id\":5853,\"logo_path\":null,\"name\":\"Deiz Production\",\"origin_country\":\"\"},{\"id\":7967,\"logo_path\":\"\/4W9ByL6mMDn9UOHh8oGD36l3BnN.png\",\"name\":\"Media Factory\",\"origin_country\":\"JP\"},{\"id\":528,\"logo_path\":\"\/fO3Aof3lXQclYpBByYC8aneTXwA.png\",\"name\":\"Bandai Visual\",\"origin_country\":\"JP\"},{\"id\":1778,\"logo_path\":\"\/b5rT6VbYza3LyfltCmz1OcqzWJM.png\",\"name\":\"dentsu\",\"origin_country\":\"JP\"},{\"id\":1598,\"logo_path\":null,\"name\":\"Nippon Herald Films\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"2001-01-20\",\"revenue\":8826094,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"Dare to enter a world of future videogames.\",\"title\":\"Avalon\",\"video\":false,\"vote_average\":6.6,\"vote_count\":302}"
+}

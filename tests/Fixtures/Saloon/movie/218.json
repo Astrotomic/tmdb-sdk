@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1679",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17323",
+        "x-memc": "HIT",
+        "x-memc-key": "24bf4e076cb15de4bd114c548ba6559a",
+        "x-memc-age": "7219",
+        "x-memc-expires": "17323",
+        "ETag": "W\/\"4847b5eb7a8189c9ce59d8aa49661a24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bQF_cYN_qbkA2keCavwRaDoUcEcRHFufK2R1XRWthAL_fymFgf-GpQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg\",\"belongs_to_collection\":{\"id\":528,\"name\":\"The Terminator Collection\",\"poster_path\":\"\/pF5GIijY2fyZcByqNDzhS8v4h1x.jpg\",\"backdrop_path\":\"\/5swQRtrFigXwLdaH4Y2UeJjZHCy.jpg\"},\"budget\":6400000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/theterminator\",\"id\":218,\"imdb_id\":\"tt0088247\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Terminator\",\"overview\":\"In the post-apocalyptic future, reigning tyrannical supercomputers teleport a cyborg assassin known as the \\\"Terminator\\\" back to 1984 to kill Sarah Connor, whose unborn son is destined to lead insurgents against 21st century mechanical hegemony. Meanwhile, the human-resistance movement dispatches a lone warrior to safeguard Sarah. Can he stop the virtually indestructible killing machine?\",\"popularity\":160.124,\"poster_path\":\"\/qvktm0BHcnmDpul4Hz01GIazWPr.jpg\",\"production_companies\":[{\"id\":3952,\"logo_path\":\"\/hLfS5FjBQjK5MUNl7kdXgIHSSWy.png\",\"name\":\"Hemdale\",\"origin_country\":\"GB\"},{\"id\":1280,\"logo_path\":null,\"name\":\"Pacific Western\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1984-10-26\",\"revenue\":78371200,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Your future is in its hands.\",\"title\":\"The Terminator\",\"video\":false,\"vote_average\":7.664,\"vote_count\":12726}"
+}

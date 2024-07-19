@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1286",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13370",
+        "x-memc": "HIT",
+        "x-memc-key": "ab1d53c064ba3f0f74d3eb93fbd33f03",
+        "x-memc-age": "15311",
+        "x-memc-expires": "13370",
+        "ETag": "W\/\"f64c13e178ba3f9f807dbd8854387bed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Sq0DyvaeKAMrpAG6ug71Yv_9z3rxT0VtlO3YE1QEUk1T3VRXbVYvMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bWg5fnzjZOtFwOz4cDHWHtvsTPU.jpg\",\"belongs_to_collection\":null,\"budget\":67000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.aquietplacemovie.com\",\"id\":762441,\"imdb_id\":\"tt13433802\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Quiet Place:\u00a0Day One\",\"overview\":\"As New York City is invaded by alien creatures who hunt by sound, a woman named Sam fights to survive.\",\"popularity\":604.242,\"poster_path\":\"\/yrpPYKijwdMHyTGIOd1iK1h0Xno.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":2481,\"logo_path\":\"\/vOQg26GjR0LnkN1Ph9uyog1UuOE.png\",\"name\":\"Platinum Dunes\",\"origin_country\":\"US\"},{\"id\":29312,\"logo_path\":\"\/v6aLhoAviWYkfOksBJTd9XbO0YH.png\",\"name\":\"Sunday Night Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-26\",\"revenue\":220729000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Hear how it all began.\",\"title\":\"A Quiet Place:\u00a0Day One\",\"video\":false,\"vote_average\":6.9,\"vote_count\":435}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3556",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:37:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12250",
+        "x-memc": "HIT",
+        "x-memc-key": "13b7348408c117aeac96a11e7fd511dc",
+        "x-memc-age": "10391",
+        "x-memc-expires": "12250",
+        "ETag": "W\/\"a4ce29e05c8f55baf114287802e14731\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aIdEonwJ6sx-tDVSuRKBcHM9hqloE0edrpAcpFvkRPQSpv0qq8cIww=="
+    },
+    "data": "{\"id\":195860,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1191337,\"known_for_department\":\"Acting\",\"name\":\"Hiroshi Tachi\",\"original_name\":\"\u8218\u3072\u308d\u3057\",\"popularity\":19.32,\"profile_path\":\"\/9e8H4eqnV2wsJLaxshVlvwxxCt.jpg\",\"cast_id\":1,\"character\":\"Tamazuro Kamiya\",\"credit_id\":\"52fe4d1f9251416c9110b613\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":46004,\"known_for_department\":\"Acting\",\"name\":\"Yumiko Shaku\",\"original_name\":\"Yumiko Shaku\",\"popularity\":11.466,\"profile_path\":\"\/dkVsRX8BgYIYsqfyKxWHpqfuHKz.jpg\",\"cast_id\":3,\"character\":\"\",\"credit_id\":\"628bdda0caef2d009c6b72e9\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":2296614,\"known_for_department\":\"Acting\",\"name\":\"Tsutomu Ikeda\",\"original_name\":\"Tsutomu Ikeda\",\"popularity\":0.024,\"profile_path\":\"\/61gesv9iu3QJvEBgaF4YvEF8ZQe.jpg\",\"cast_id\":4,\"character\":\"\",\"credit_id\":\"628bddd4df86a800505a3b27\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":133694,\"known_for_department\":\"Acting\",\"name\":\"Rika Adachi\",\"original_name\":\"Rika Adachi\",\"popularity\":13.961,\"profile_path\":\"\/c7JV5qaRaz3T6TB6oMLp67n4kXf.jpg\",\"cast_id\":5,\"character\":\"\",\"credit_id\":\"628bde196c84927187ac983e\",\"order\":3},{\"adult\":false,\"gender\":1,\"id\":1415139,\"known_for_department\":\"Acting\",\"name\":\"Akiko Nishina\",\"original_name\":\"Akiko Nishina\",\"popularity\":3.627,\"profile_path\":\"\/rri8OHq5KG9mYD12uZUbu5PhNUx.jpg\",\"cast_id\":6,\"character\":\"\",\"credit_id\":\"628bde359a643500aaf62fef\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":120804,\"known_for_department\":\"Acting\",\"name\":\"Toru Masuoka\",\"original_name\":\"Toru Masuoka\",\"popularity\":11.08,\"profile_path\":\"\/rvgRRIsXvWylqXHDWnffXay2iCK.jpg\",\"cast_id\":7,\"character\":\"\",\"credit_id\":\"628bde5d2495ab74d97b081a\",\"order\":5},{\"adult\":false,\"gender\":2,\"id\":13282,\"known_for_department\":\"Acting\",\"name\":\"Saburo Ishikura\",\"original_name\":\"Saburo Ishikura\",\"popularity\":12.211,\"profile_path\":\"\/dGA2VnbwUIP6qed2aRAycKpCAsX.jpg\",\"cast_id\":8,\"character\":\"\",\"credit_id\":\"628bde69caef2d005153ec85\",\"order\":6},{\"adult\":false,\"gender\":2,\"id\":1174071,\"known_for_department\":\"Acting\",\"name\":\"Gin Maeda\",\"original_name\":\"Gin Maeda\",\"popularity\":9.205,\"profile_path\":\"\/4imp7i79MCO6FDkrRkFy06mFTxT.jpg\",\"cast_id\":9,\"character\":\"\",\"credit_id\":\"628bde747d5db51b291dc046\",\"order\":7},{\"adult\":false,\"gender\":2,\"id\":118408,\"known_for_department\":\"Acting\",\"name\":\"Mikijiro Hira\",\"original_name\":\"Mikijiro Hira\",\"popularity\":11.379,\"profile_path\":\"\/wfLoNNd4DqfoHHn8iBZETQcmfXP.jpg\",\"cast_id\":10,\"character\":\"\",\"credit_id\":\"628bde807d5db51b2b91e179\",\"order\":8},{\"adult\":false,\"gender\":2,\"id\":551776,\"known_for_department\":\"Acting\",\"name\":\"Masahiko Tsugawa\",\"original_name\":\"\u6d25\u5ddd\u96c5\u5f66\",\"popularity\":21.717,\"profile_path\":\"\/xMLbWRu1yUiNUTrYlubmfEWX7IS.jpg\",\"cast_id\":11,\"character\":\"\",\"credit_id\":\"628bde8d2495ab74da6cd162\",\"order\":9},{\"adult\":false,\"gender\":1,\"id\":79945,\"known_for_department\":\"Acting\",\"name\":\"Keiko Matsuzaka\",\"original_name\":\"Keiko Matsuzaka\",\"popularity\":14.279,\"profile_path\":\"\/tU5Lx2jkAnyD6656tQiinw20cJZ.jpg\",\"cast_id\":13,\"character\":\"\",\"credit_id\":\"628bdef0d3d387006862fa6b\",\"order\":10}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1191338,\"known_for_department\":\"Directing\",\"name\":\"Takashi Isshiki\",\"original_name\":\"Takashi Isshiki\",\"popularity\":1.497,\"profile_path\":null,\"credit_id\":\"52fe4d1f9251416c9110b619\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":151173,\"known_for_department\":\"Sound\",\"name\":\"Reijir\u014d Koroku\",\"original_name\":\"Reijir\u014d Koroku\",\"popularity\":1.255,\"profile_path\":\"\/o7v3t6v1019DWCXM2PjKfkPsoAk.jpg\",\"credit_id\":\"628bdec87d5db51b2b91e2c2\",\"department\":\"Sound\",\"job\":\"Music\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13786",
+        "x-memc": "HIT",
+        "x-memc-key": "61eb70a69fd990d71abac202727b636e",
+        "x-memc-age": "10683",
+        "x-memc-expires": "13786",
+        "ETag": "W\/\"77ffd262723d6da3ddf1993ad0a7252c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "d2IDryv41dosiH6C2_-cjEJAZu7LS9fC7f3DdnOatzD4ennRITMaug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nWfqZoDKlR21NrPavlcWEGTb1Qo.jpg\",\"belongs_to_collection\":{\"id\":1015722,\"name\":\"Ferrero Cartoon\",\"poster_path\":\"\/4JatzBzXmb4dECiNxaOpRByok9I.jpg\",\"backdrop_path\":\"\/bbfY3pZL2Eexhlq0KOHjpUuVkcb.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":542685,\"imdb_id\":null,\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"I magicanti e i tre elementi\",\"overview\":\"\",\"popularity\":5.037,\"poster_path\":\"\/4Dz0H3EsLuIxitYzERz0Pehi3Rd.jpg\",\"production_companies\":[{\"id\":107794,\"logo_path\":\"\/zCmpzRH5lNT6nRR61verny8z8Zg.png\",\"name\":\"Kinder \\u0026 Ferrero Multimedia Production\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2003-08-24\",\"revenue\":0,\"runtime\":31,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"I magicanti e i tre elementi\",\"video\":false,\"vote_average\":6.854,\"vote_count\":24}"
+}

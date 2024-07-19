@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1699",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22",
+        "x-memc": "HIT",
+        "x-memc-key": "523bb4fec896c0b75e69ac95c4e7ce7e",
+        "x-memc-age": "23726",
+        "x-memc-expires": "22",
+        "ETag": "W\/\"33ae15d9817cff0b0346f19b567d4c68\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kFRfnU6YWNScquwlEjIOxkN-5i1mw_Y5-DS84DSHYvXwqL1YC0m4wA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/isFQiBiBiz4Xyx22sTs6CR1scL3.jpg\",\"belongs_to_collection\":{\"id\":112399,\"name\":\"Under Siege Collection\",\"poster_path\":\"\/tLU9Ki48hViJIGRvEJOsAs3bvsa.jpg\",\"backdrop_path\":\"\/yVvt3lnlhvPG6YNMBCU3K7LzCIM.jpg\"},\"budget\":35000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":8845,\"imdb_id\":\"tt0105690\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Under Siege\",\"overview\":\"A disgruntled ex-CIA operative, his assistant and their assembled group of terrorists seize a battleship with nuclear blackmail in mind. They've planned for every contingency but ignore the ship's cook, former Navy SEAL Casey Ryback\u2014an error that could be fatal.\",\"popularity\":38.96,\"poster_path\":\"\/myHxm9p8fhEsXyaLO6DawYJKolg.jpg\",\"production_companies\":[{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":644,\"logo_path\":null,\"name\":\"Alcor Films\",\"origin_country\":\"US\"},{\"id\":25087,\"logo_path\":null,\"name\":\"Arnon Milchan Productions\",\"origin_country\":\"\"},{\"id\":183,\"logo_path\":\"\/o5mj8CVyU7GhmYg8La21Nkop67R.png\",\"name\":\"Le Studio Canal+\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-10-08\",\"revenue\":156563139,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's not a job... It's an Adventure!\",\"title\":\"Under Siege\",\"video\":false,\"vote_average\":6.3,\"vote_count\":1489}"
+}

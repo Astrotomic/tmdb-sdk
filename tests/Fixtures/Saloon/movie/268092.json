@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1055",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10081",
+        "x-memc": "HIT",
+        "x-memc-key": "839d0eed73a7c78ffe4e8a93280f9549",
+        "x-memc-age": "14956",
+        "x-memc-expires": "10081",
+        "ETag": "W\/\"38159146f26cbb857b18f97ca9b4030f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QuObD3k11iGqTN9Uk72TUcW630rQwlFhlZLzUEd8hhHKbte2WDTtgA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/t0zmLLLDBEw7lS5xKuHRnjra5qn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":268092,\"imdb_id\":\"tt2788526\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Transformers Prime: Beast Hunters - Predacons Rising\",\"overview\":\"Autobots, Decepticons, Predaking and Predacons form an unlikely alliance to battle a resurrected Unicron.\",\"popularity\":13.86,\"poster_path\":\"\/4T4pQqr2RoVgWQYtIzDGMByktwq.jpg\",\"production_companies\":[{\"id\":22826,\"logo_path\":\"\/37ZxE1qShQ44VdsRPkO1zOtnMKi.png\",\"name\":\"Hasbro Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-10-04\",\"revenue\":0,\"runtime\":66,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Transformers Prime: Beast Hunters - Predacons Rising\",\"video\":false,\"vote_average\":8.1,\"vote_count\":116}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25681",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "b430abe1e7f56bbe6d2724ca92cd3985",
+        "x-memc-age": "0",
+        "x-memc-expires": "25681",
+        "ETag": "W\/\"63cd543fde1e639990fd8a861669c0eb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JLIahPp9_pnLqlmRB5C8QAVYS-Q5LhufxuFMVHTJIJJkiEQvhl9TZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":546996,\"imdb_id\":\"tt14214348\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Take Me Please\",\"overview\":\"The movie is a presentation of a breakup, and everything after that: the boy is hesitant, the girl gets bored with it, the boy meets the girl\u2019s new boyfriend, which is a bit more shocking than it was expected, the boy wants to escape, he believes his life is over, then they meet again, and fall in love again, but in the end they have to admit, that it really doesn\u2019t work.\",\"popularity\":1.853,\"poster_path\":\"\/5cxFcDTJmA6vgCvxlWPICd5Xi8q.jpg\",\"production_companies\":[{\"id\":18923,\"logo_path\":null,\"name\":\"Moholy-Nagy University of Art and Design\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"}],\"release_date\":\"2013-09-28\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Take Me Please\",\"video\":false,\"vote_average\":7.0,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1494",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7590",
+        "x-memc": "HIT",
+        "x-memc-key": "c283be7fc733e7fe70bd684e451e29c2",
+        "x-memc-age": "16287",
+        "x-memc-expires": "7590",
+        "ETag": "W\/\"712b6149f97091de38a4859436f6c891\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f9SJZxCZYuKcWndy6Ojs_dIX5XI2SC9IoyqgXzMMhOBH4_DY4cboVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/41oen4uX7sy0aKSc5P1leJqvutE.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10336,\"imdb_id\":\"tt0120177\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spawn\",\"overview\":\"After being murdered by corrupt colleagues in a covert government agency, Al Simmons makes a pact with the devil to be resurrected to see his beloved wife Wanda. In exchange for his return to Earth, Simmons agrees to lead Hell's Army in the destruction of mankind.\",\"popularity\":47.085,\"poster_path\":\"\/tfvH5YKXtMiBgkj0FNozQj4TQyp.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":3907,\"logo_path\":null,\"name\":\"Pull Down Your Pants Pictures\",\"origin_country\":\"\"},{\"id\":23364,\"logo_path\":null,\"name\":\"Todd McFarlane Entertainment\",\"origin_country\":\"\"},{\"id\":4286,\"logo_path\":null,\"name\":\"Juno Pix\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-07-31\",\"revenue\":87840042,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Born in darkness. Sworn to justice.\",\"title\":\"Spawn\",\"video\":false,\"vote_average\":5.419,\"vote_count\":1297}"
+}

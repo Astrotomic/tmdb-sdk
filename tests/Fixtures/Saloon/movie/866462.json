@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1094",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7471",
+        "x-memc": "HIT",
+        "x-memc-key": "26dcd2e613c87bce96200f3835b34663",
+        "x-memc-age": "18645",
+        "x-memc-expires": "7471",
+        "ETag": "W\/\"e6d21e0f48d4c93519f0106fde4c45f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EvbGhy7WJ1BRdKxdZ3T7UrlXan2APBlPvbiv1qxc70WfIy7z-oxxRg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lxjmQuTP2xECZI1Yj2n8GIciDbN.jpg\",\"belongs_to_collection\":{\"id\":870234,\"name\":\"Megalodon Collection\",\"poster_path\":\"\/b2AWdS2v7wNXfTIIdvln2h82R4M.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":866462,\"imdb_id\":\"tt15295912\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Megalodon Rising\",\"overview\":\"When history\u2019s greatest aquatic predator returns, the armada of modern warships sent to destroy it has no chance at all.\",\"popularity\":17.01,\"poster_path\":\"\/vWeWU43mNVzpAnjgzxnvi9xgo9d.jpg\",\"production_companies\":[{\"id\":1311,\"logo_path\":\"\/ic2bTizdzRLDVzAvN7MXdUg3WQV.png\",\"name\":\"The Asylum\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-08-27\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Too big to fail.\",\"title\":\"Megalodon Rising\",\"video\":false,\"vote_average\":5.951,\"vote_count\":133}"
+}

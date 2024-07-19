@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1090",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1449",
+        "x-memc": "HIT",
+        "x-memc-key": "80e9db171f767f7e9d3238421865a47b",
+        "x-memc-age": "25673",
+        "x-memc-expires": "1449",
+        "ETag": "W\/\"df5ec61db30fe1aa9ac1f67941ca0bc4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DZqgw-K_P5iyCSKXY_19PrleN2uZvlwC8Ybw3fE9l63r5ju0h918mA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zAnTiZvWkcdQfNYpfWILtdhLUGX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":222600,\"imdb_id\":\"tt0076374\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Matin\u00e9e\",\"overview\":\"Jorge and Aar\u00f3n, two young boys growing up in a quiet town often miss classes to go together to the cinema matinee. One day they are kidnapped by robbers while traveling in a truck. After the disintegration of the band, they begin to participate in the robberies until the adventure turns into something more sinister and dangerous.\",\"popularity\":2.135,\"poster_path\":\"\/uQGdEB6pc8pD2Ocva5PSymgL1SG.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1977-09-18\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Matin\u00e9e\",\"video\":false,\"vote_average\":5.208,\"vote_count\":12}"
+}

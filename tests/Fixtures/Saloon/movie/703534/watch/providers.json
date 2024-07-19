@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "220",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:04:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23934",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "3fcabfb6093edc2a4e6cfdb078ada25c",
+        "x-memc-age": "0",
+        "x-memc-expires": "23934",
+        "ETag": "W\/\"cd11574fd85239fb91cb021d20de7c3d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zwe5GrTNFMlm_v78cxAfiSelpSiiQ84jp8_uhhr-F8BQa0RpawUNug=="
+    },
+    "data": "{\"id\":703534,\"results\":{\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/703534\/watch?locale=RU\",\"ads\":[{\"logo_path\":\"\/yyMxS08v80D96O7NtL9supa5sn7.jpg\",\"provider_id\":557,\"provider_name\":\"More TV\",\"display_priority\":16}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16868",
+        "x-memc": "HIT",
+        "x-memc-key": "348be6bec36a43e6703ab5d1c7651984",
+        "x-memc-age": "11214",
+        "x-memc-expires": "16868",
+        "ETag": "W\/\"650d4346036e3e03c3e1c109067dd638\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qLLvCASI_2iNHSNDjZcW0t53pFEUSFyYEko2NXH37xLRwZhnJpJpMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jzXeSe3wIsSqNIFsGdNaH1SF1XP.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/manchikan.com\/kotsutsubo\/\",\"id\":230210,\"imdb_id\":\"tt2354141\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u9aa8\u58fa\",\"overview\":\"Eri (Matsubara) is a high school student who is anonymous unlike her friend Mitsuko (Yokoyama) who is the target of amorous advances from their teacher, Ichida (Tsubouchi). Eri comes across a novel way to protect Mitsuko: find a cursed funerary urn that contains ashes reputed to cause death and give said ashes to teacher.\",\"popularity\":3.248,\"poster_path\":\"\/cG2of5T6LrV2i4GfEBpizgyexef.jpg\",\"production_companies\":[{\"id\":3472,\"logo_path\":null,\"name\":\"Jolly Roger\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2012-05-26\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kotsutsubo\",\"video\":false,\"vote_average\":5.0,\"vote_count\":12}"
+}

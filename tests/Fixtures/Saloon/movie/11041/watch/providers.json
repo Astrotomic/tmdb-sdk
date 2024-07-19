@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1501",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21583",
+        "x-memc": "HIT",
+        "x-memc-key": "20a10d846ffab3f2b2b6b0448683e5ed",
+        "x-memc-age": "2142",
+        "x-memc-expires": "21583",
+        "ETag": "W\/\"8ca057955420321c40823fd4479a4055\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6TsOhl-mQwdltbDspoXEBqqfnXXdxZ5dYZFieSMEiB8fNarCSkxrPQ=="
+    },
+    "data": "{\"id\":11041,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11041-the-beverly-hillbillies\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":12}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11041-the-beverly-hillbillies\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/97yvRBw1GzX7fXprcF80er19ot.jpg\",\"provider_id\":337,\"provider_name\":\"Disney Plus\",\"display_priority\":1}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11041-the-beverly-hillbillies\/watch?locale=CH\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":5}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11041-the-beverly-hillbillies\/watch?locale=DE\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":32}]},\"PH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11041-the-beverly-hillbillies\/watch?locale=PH\",\"flatrate\":[{\"logo_path\":\"\/97yvRBw1GzX7fXprcF80er19ot.jpg\",\"provider_id\":337,\"provider_name\":\"Disney Plus\",\"display_priority\":31}]}}}"
+}

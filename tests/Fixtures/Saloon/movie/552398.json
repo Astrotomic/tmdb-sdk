@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1108",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24590",
+        "x-memc": "HIT",
+        "x-memc-key": "6bb076fe5429fa7cf4e9d234d602dffb",
+        "x-memc-age": "1750",
+        "x-memc-expires": "24590",
+        "ETag": "W\/\"e5c79059454a2ed9dd5284e7305839c8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qpTDcr9fPHIuavUL7zQRGJHTqjPoMjjm9O0aIW3Gt7-D6qYdQl-Qjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uaJmi0IyPr65L62Ik8RIPH4lv45.jpg\",\"belongs_to_collection\":{\"id\":579975,\"name\":\"Indian Collection\",\"poster_path\":\"\/lxamiwjh1MuvMRjIy12zZ59xids.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":552398,\"imdb_id\":\"tt8066940\",\"origin_country\":[\"IN\"],\"original_language\":\"ta\",\"original_title\":\"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf\u0ba9\u0bcd II\",\"overview\":\"Senapathy returns to India after learning about the ongoing corruption and injustice in the country through social media.\",\"popularity\":26.223,\"poster_path\":\"\/6sXfCuOkZhDP2n7OoKmiMwBDr7l.jpg\",\"production_companies\":[{\"id\":35124,\"logo_path\":\"\/clz3r0SYNudiGRB10yjvU9ZSgP8.png\",\"name\":\"Lyca Productions\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2024-07-12\",\"revenue\":0,\"runtime\":178,\"spoken_languages\":[{\"english_name\":\"Tamil\",\"iso_639_1\":\"ta\",\"name\":\"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\"}],\"status\":\"Released\",\"tagline\":\"Older. Wiser. Deadlier.\",\"title\":\"Indian 2\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

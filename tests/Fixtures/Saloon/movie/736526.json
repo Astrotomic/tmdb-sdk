@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1331",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15314",
+        "x-memc": "HIT",
+        "x-memc-key": "86a34849b48dd6c909332af2c8cf31af",
+        "x-memc-age": "9451",
+        "x-memc-expires": "15314",
+        "ETag": "W\/\"9d2a7df1b65f6f652299d188fd33fab0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bMJlUQjKQ2Lh5bc2JnRxE8K0CAX7nUr96Nm3ZQyBAAwcO-WTX9JP6Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e9Qb2kmBnMXHCmNMI8NX1JbWhh1.jpg\",\"belongs_to_collection\":{\"id\":1180834,\"name\":\"Troll Collection\",\"poster_path\":\"\/vxeRb2zMicwjqnwwjZoEEu7jKaU.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81245455\/\",\"id\":736526,\"imdb_id\":\"tt11116912\",\"origin_country\":[\"NO\"],\"original_language\":\"no\",\"original_title\":\"Troll\",\"overview\":\"Deep inside the mountain of Dovre, something gigantic awakens after being trapped for a thousand years. Destroying everything in its path, the creature is fast approaching the capital of Norway. But how do you stop something you thought only existed in Norwegian folklore?\",\"popularity\":49.461,\"poster_path\":\"\/ulgKdif3ubMACDltr8VZy6fyVjW.jpg\",\"production_companies\":[{\"id\":108394,\"logo_path\":\"\/d4k0i3TpLTxiJ4ZtOYftE5vL91Z.png\",\"name\":\"Motion Blur\",\"origin_country\":\"NO\"}],\"production_countries\":[{\"iso_3166_1\":\"NO\",\"name\":\"Norway\"}],\"release_date\":\"2022-12-01\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"}],\"status\":\"Released\",\"tagline\":\"Mountains will move.\",\"title\":\"Troll\",\"video\":false,\"vote_average\":6.638,\"vote_count\":1637}"
+}

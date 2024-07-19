@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1414",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16444",
+        "x-memc": "HIT",
+        "x-memc-key": "b9a1a14f0373bcf6bc2045f95505b665",
+        "x-memc-age": "5251",
+        "x-memc-expires": "16444",
+        "ETag": "W\/\"3d1c7fce7422ad47c06e49583e57ced7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yDpOTrCVQ6dEGZ-uBC5V297CEQKockC01eMDQbMBsFuMsrz28dwdBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/98Yd5iRn7J2LRDpK2xa7ibL2F4p.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10861,\"imdb_id\":\"tt0117011\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Maximum Risk\",\"overview\":\"Alain Moreau's investigation into the death of his identical twin brother leads him from the beauty of the south of France to the mean streets of New York City and into the arms of his brother's beautiful girlfriend. Pursued by ruthless Russian mobsters and renegade FBI agents, the duo race against time to solve his brother's murder and expose an international conspiracy.\",\"popularity\":23.778,\"poster_path\":\"\/18HVWwyLihWJPzGpSVl3omRRMyL.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":961,\"logo_path\":null,\"name\":\"Roger Birnbaum Productions\",\"origin_country\":\"\"},{\"id\":119937,\"logo_path\":null,\"name\":\"Moshe Diamant Production\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-09-13\",\"revenue\":51702483,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The other side of safe.\",\"title\":\"Maximum Risk\",\"video\":false,\"vote_average\":5.745,\"vote_count\":480}"
+}

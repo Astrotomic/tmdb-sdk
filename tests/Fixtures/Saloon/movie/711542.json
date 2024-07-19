@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1167",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25000",
+        "x-memc": "HIT",
+        "x-memc-key": "653f082f1caaf55d6efafc526d0a95c1",
+        "x-memc-age": "3394",
+        "x-memc-expires": "25000",
+        "ETag": "W\/\"f320e98d11d89dbb7419d0bc70ea3170\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cqwIhWFD5v5iIyqm9TKEh1wQB1X7onpqYQ2IR_E7x5OgOZcD6UlwUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uDumU0388dfJ6ish90pu9wjCR4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/finalfrequencyfilm.com\",\"id\":711542,\"imdb_id\":\"tt9023894\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Final Frequency\",\"overview\":\"A PhD student ties unusual tremors in Los Angeles to rogue scientists, who will weaponize Nikola Tesla's secrets and cause massive earthquakes, if they can only find his lost notebook\",\"popularity\":8.976,\"poster_path\":\"\/4egSeI3qLvY22lHn4yIDrrU0ZNF.jpg\",\"production_companies\":[{\"id\":154414,\"logo_path\":null,\"name\":\"8168 Productions Winter Star Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-06-11\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Nikola Tesla's secret notebook just fell into the wrong hands.\",\"title\":\"Final Frequency\",\"video\":false,\"vote_average\":3.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1509",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22649",
+        "x-memc": "HIT",
+        "x-memc-key": "c4ad3edc6a59fdfc63eed4f5dd5e700f",
+        "x-memc-age": "340",
+        "x-memc-expires": "22649",
+        "ETag": "W\/\"927bf5a067f637057350c5da6d5cd99a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gOpJ7wgA0qtvHamsfsHxUem3grobqULAtQzW2-EeEa1SyWs-7oHXrg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xgDj56UWyeWQcxQ44f5A3RTWuSs.jpg\",\"belongs_to_collection\":null,\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/disney.go.com\/disneypictures\/ratatouille\",\"id\":2062,\"imdb_id\":\"tt0382932\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ratatouille\",\"overview\":\"Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.\",\"popularity\":123.928,\"poster_path\":\"\/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-06-21\",\"revenue\":623726000,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"He's dying to become a chef.\",\"title\":\"Ratatouille\",\"video\":false,\"vote_average\":7.824,\"vote_count\":16648}"
+}

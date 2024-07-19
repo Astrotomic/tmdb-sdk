@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1335",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3385",
+        "x-memc": "HIT",
+        "x-memc-key": "7ee1945e658a526f128c5e6d6264deca",
+        "x-memc-age": "21793",
+        "x-memc-expires": "3385",
+        "ETag": "W\/\"8f0b66590b8e15aa02500b9ff8082ac4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M3-g8IY2EaJjtvY-CNpdtYefAM8di6XxZDYjT5XTKOgxm1rbK1M5oQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8BmDkWjTgFD9b9ejC206UWZTXpI.jpg\",\"belongs_to_collection\":{\"id\":803230,\"name\":\"Spooky Kitaro Collection\",\"poster_path\":\"\/ci46oKcxricOoRPJ3tzka96LImI.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":543063,\"imdb_id\":null,\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b2\u30b2\u30b2\u306e\u9b3c\u592a\u90ce \u5996\u602a\u7279\u6025\uff01\u307e\u307c\u308d\u3057\u306e\u6c7d\u8eca\",\"overview\":\"Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity. In this episode The Western demons hijacked the Phantom Train. Kitaro and his friends must stop this crime.\",\"popularity\":3.319,\"poster_path\":\"\/1TrxNUNvkxle78wBpMCGoNLItFW.jpg\",\"production_companies\":[{\"id\":5542,\"logo_path\":\"\/ayE4LIqoAWotavo7xdvYngwqGML.png\",\"name\":\"Toei Animation\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1997-07-12\",\"revenue\":0,\"runtime\":25,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Spooky Kitaro: Yokai Express! The Phantom Train\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

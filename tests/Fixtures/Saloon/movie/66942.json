@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1463",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17967",
+        "x-memc": "HIT",
+        "x-memc-key": "041e33ae44e5066339dea356f898a903",
+        "x-memc-age": "5248",
+        "x-memc-expires": "17967",
+        "ETag": "W\/\"ea3cef7d34231f4649e5890b2a0c993e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K6KzetnxROserxzbW3C4ilMt-bM03hug6Ch6ie5tse6BRlwswljcdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qKiARMqwgLw8SU14oC1qOmyWUWP.jpg\",\"belongs_to_collection\":null,\"budget\":2902660,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":66942,\"imdb_id\":\"tt1509803\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Griff the Invisible\",\"overview\":\"Griff, office worker by day, superhero by night, has his world turned upside down when he meets Melody, a beautiful young scientist who shares his passion for the impossible.\",\"popularity\":6.471,\"poster_path\":\"\/12DpWfDhBacOE09wJgR75rwCVUH.jpg\",\"production_companies\":[{\"id\":7584,\"logo_path\":\"\/eGkfvvyf4fJTvBUR1xt1669IPA3.png\",\"name\":\"Screen Australia\",\"origin_country\":\"AU\"},{\"id\":14430,\"logo_path\":null,\"name\":\"Fulcrum Media Finance\",\"origin_country\":\"AU\"},{\"id\":10951,\"logo_path\":\"\/jxfMNlkvI3GxnS41xCSOLD7goVb.png\",\"name\":\"Screen NSW\",\"origin_country\":\"AU\"},{\"id\":144284,\"logo_path\":null,\"name\":\"Frame, Set \\u0026 Match\",\"origin_country\":\"\"},{\"id\":175535,\"logo_path\":null,\"name\":\"Green Park Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2011-03-01\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's a dreamer, stuck in the real world.\",\"title\":\"Griff the Invisible\",\"video\":false,\"vote_average\":5.7,\"vote_count\":90}"
+}

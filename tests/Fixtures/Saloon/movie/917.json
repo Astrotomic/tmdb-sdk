@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "979",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=621",
+        "x-memc": "HIT",
+        "x-memc-key": "eb996d11cff50bdccad455ebe3cdd5c7",
+        "x-memc-age": "27452",
+        "x-memc-expires": "621",
+        "ETag": "W\/\"e49c92842eb0403a15de72ab6d5007c3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oOp8vawkPsrIOyjCICVrjioC_fOl3OWgwDDSDJu9tOICdvqvFJJvWw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/abU2NXnnwisg56vD1Lbg7Ui63GG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":917,\"imdb_id\":\"tt0050188\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u092e\u0926\u0930 \u0907\u0923\u094d\u0921\u093f\u092f\u093e\",\"overview\":\"A poverty-stricken woman raises her sons through many trials and tribulations. But no matter the struggles, always sticks to her own moral code.\",\"popularity\":10.196,\"poster_path\":\"\/sGFxh6zT5GxgskJShD01MsqXbuT.jpg\",\"production_companies\":[{\"id\":600,\"logo_path\":null,\"name\":\"Mehboob Productions\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"1957-02-13\",\"revenue\":0,\"runtime\":172,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Showing the path is easy, but walking it is hard.\",\"title\":\"Mother India\",\"video\":false,\"vote_average\":7.218,\"vote_count\":87}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1743",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15286",
+        "x-memc": "HIT",
+        "x-memc-key": "493b007692cc5681d7634f0ade8f49a7",
+        "x-memc-age": "11729",
+        "x-memc-expires": "15286",
+        "ETag": "W\/\"7e5d7cb7a224fc588a3fd748cdd380d5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5Q7z0I9RMrBkhfzmEKt7nuIdellMWzEeImQ5rKqOlzF4SPKcV2r5dA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hvGWyyC8wER1I8ExSXNtFBs7Mgd.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":30000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/a-view-to-a-kill\",\"id\":707,\"imdb_id\":\"tt0090264\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"A View to a Kill\",\"overview\":\"A newly-developed microchip designed by Zorin Industries for the British Government that can survive the electromagnetic radiation caused by a nuclear explosion has landed in the hands of the KGB. James Bond must find out how and why. His suspicions soon lead him to big industry leader Max Zorin who forms a plan to destroy his only competition in Silicon Valley by triggering a massive earthquake in the San Francisco Bay.\",\"popularity\":53.759,\"poster_path\":\"\/arJF829RP9cYvh0NU70dC5TtXSa.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":10761,\"logo_path\":null,\"name\":\"Danjaq\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-05-24\",\"revenue\":152427960,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Has James Bond finally met his match?\",\"title\":\"A View to a Kill\",\"video\":false,\"vote_average\":6.232,\"vote_count\":1902}"
+}

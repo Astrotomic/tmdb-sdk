@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1357",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6670",
+        "x-memc": "HIT",
+        "x-memc-key": "ab207296517bcce6d7e206221d3a9b3b",
+        "x-memc-age": "20397",
+        "x-memc-expires": "6670",
+        "ETag": "W\/\"1eadd83d05ae75e5557aac6fb47f9144\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_1ylPKyPQwvA9dWyJtDeIClZUQYZposhoJOk6gA6YQv1gcj5yh1lpQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z0Yh4N38FUntBln5YMgHGtrimOZ.jpg\",\"belongs_to_collection\":{\"id\":1064555,\"name\":\"Dreamworks Bible Stories Collection\",\"poster_path\":\"\/kdCbDnyQEhJbbDt9RyAlpL10XYa.jpg\",\"backdrop_path\":\"\/tFo4gyEfNWznOF2dpegLYEWcx9m.jpg\"},\"budget\":70000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":9837,\"imdb_id\":\"tt0120794\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Prince of Egypt\",\"overview\":\"An animated take on the biblical story of Moses, from his being a prince of Egypt to his ultimate destiny of leading the Children of Israel out of Egypt.\",\"popularity\":65.933,\"poster_path\":\"\/2xUjYwL6Ol7TLJPPKs7sYW5PWLX.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-12-16\",\"revenue\":218613188,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Power Is Real. The Story is Forever. The Time is Now.\",\"title\":\"The Prince of Egypt\",\"video\":false,\"vote_average\":7.283,\"vote_count\":3858}"
+}

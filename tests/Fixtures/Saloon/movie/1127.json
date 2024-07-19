@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1342",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7607",
+        "x-memc": "HIT",
+        "x-memc-key": "382f7a397c656c4da55cc0773b59120d",
+        "x-memc-age": "17642",
+        "x-memc-expires": "7607",
+        "ETag": "W\/\"b033081fd5cb183f0aa689c355b58066\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V0WW1khKPIlaFDGHC3sEISdykWpuPPkYKRBuMG5feJS8ya2AAikWmw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ltR2gdyFc2cbiNHW7LCfqBbQgye.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.princesaslapelicula.com\/\",\"id\":1127,\"imdb_id\":\"tt0434292\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Princesas\",\"overview\":\"Caye is a young prostitute whose family is unaware of her profession. She meets her striking Dominican neighbour Zulema, an illegal immigrant, after she finds her in the bathroom, badly beaten up. They strike up a close friendship unbeknownst to Caye's xenophobic co-workers.\",\"popularity\":13.587,\"poster_path\":\"\/ahgTyjdQfoCj9TNedozDxiMTuIs.jpg\",\"production_companies\":[{\"id\":669,\"logo_path\":null,\"name\":\"Reposado Producciones\",\"origin_country\":\"\"},{\"id\":12010,\"logo_path\":\"\/37Yr7iuWGXk849o8osIQKTQSZY5.png\",\"name\":\"Mediapro\",\"origin_country\":\"ES\"},{\"id\":9335,\"logo_path\":null,\"name\":\"Canal+ Espa\u00f1a\",\"origin_country\":\"ES\"},{\"id\":29566,\"logo_path\":\"\/wHbtRtUnXGNzX0riQIpq1fcgueq.png\",\"name\":\"Atresmedia\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2005-09-02\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Princesses\",\"video\":false,\"vote_average\":6.744,\"vote_count\":78}"
+}

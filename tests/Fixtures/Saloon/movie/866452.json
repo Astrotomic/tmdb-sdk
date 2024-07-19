@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "991",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6631",
+        "x-memc": "HIT",
+        "x-memc-key": "e10f45284691b143fd16e6acf5684fef",
+        "x-memc-age": "17557",
+        "x-memc-expires": "6631",
+        "ETag": "W\/\"850391fdb846dcfe42ffbacb4fa96322\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aDgt38CqE7tMqMQzad7KcL2Ng5wPicMTNsdZev17ydqX_wj0nm8mmA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"https:\/\/www.pbs.org\/show\/wicked-concert\",\"id\":866452,\"imdb_id\":\"tt15326776\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wicked in Concert: A Musical Celebration of the Iconic Broadway Score\",\"overview\":\"Wicked in Concert features re-imagined musical arrangements created for the event, performed by celebrity artists from the worlds of film, pop, music, and television.\",\"popularity\":5.117,\"poster_path\":\"\/eZYCFe7PZO0UmcPWRvpEzy5Ug07.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-08-29\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wicked in Concert: A Musical Celebration of the Iconic Broadway Score\",\"video\":false,\"vote_average\":10.0,\"vote_count\":2}"
+}

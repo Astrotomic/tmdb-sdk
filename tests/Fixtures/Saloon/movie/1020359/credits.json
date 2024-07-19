@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1575",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13126",
+        "x-memc": "HIT",
+        "x-memc-key": "1b060401f9f07e0832fb8061a998d95e",
+        "x-memc-age": "12823",
+        "x-memc-expires": "13126",
+        "ETag": "W\/\"95c2401cf9a69cc461ee769b6114c332\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M88XLtugR3GIjqVzBcDsukNsxT7B0T4UcKeJk0Fh6UjhudxpHRRNhg=="
+    },
+    "data": "{\"id\":1020359,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":2672752,\"known_for_department\":\"Writing\",\"name\":\"Sa\u0161a Lich\u00fd\",\"original_name\":\"Sa\u0161a Lich\u00fd\",\"popularity\":0.055,\"profile_path\":null,\"credit_id\":\"631447dd0cb335007d3c7e0d\",\"department\":\"Writing\",\"job\":\"Theatre Play\"},{\"adult\":false,\"gender\":2,\"id\":2675618,\"known_for_department\":\"Directing\",\"name\":\"Jaroslav Nedv\u011bd\",\"original_name\":\"Jaroslav Nedv\u011bd\",\"popularity\":0.29,\"profile_path\":null,\"credit_id\":\"631447e621621d008203e469\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":3480566,\"known_for_department\":\"Sound\",\"name\":\"Jan Tom\u0161\u00ed\u010dek\",\"original_name\":\"Jan Tom\u0161\u00ed\u010dek\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"631447f4e63571007a5c223f\",\"department\":\"Sound\",\"job\":\"Original Music Composer\"},{\"adult\":false,\"gender\":2,\"id\":2276751,\"known_for_department\":\"Art\",\"name\":\"Otakar Schindler\",\"original_name\":\"Otakar Schindler\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"631448010d29440081d99a49\",\"department\":\"Art\",\"job\":\"Set Designer\"},{\"adult\":false,\"gender\":2,\"id\":2276751,\"known_for_department\":\"Art\",\"name\":\"Otakar Schindler\",\"original_name\":\"Otakar Schindler\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6314480b7fcab3007a2150e9\",\"department\":\"Costume \\u0026 Make-Up\",\"job\":\"Costume Design\"},{\"adult\":false,\"gender\":2,\"id\":2675618,\"known_for_department\":\"Directing\",\"name\":\"Jaroslav Nedv\u011bd\",\"original_name\":\"Jaroslav Nedv\u011bd\",\"popularity\":0.29,\"profile_path\":null,\"credit_id\":\"6314481ce63571007a5c224b\",\"department\":\"Directing\",\"job\":\"Stage Director\"}]}"
+}

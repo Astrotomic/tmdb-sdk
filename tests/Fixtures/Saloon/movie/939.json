@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1396",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20098",
+        "x-memc": "HIT",
+        "x-memc-key": "e3a685081c3f3d3b5a8e032ffd116e6e",
+        "x-memc-age": "5260",
+        "x-memc-expires": "20098",
+        "ETag": "W\/\"7d8170c0e985e9b242306a3b9229af58\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XtCfKP7CNoRv3oGiUknyzTG9GlTzy84Kk5ZOSBVQF0s-cLnHonvX4A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oBNJAxtRdqa7xfhRc6LRk7AMnaa.jpg\",\"belongs_to_collection\":null,\"budget\":422000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":939,\"imdb_id\":\"tt0018037\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Jazz Singer\",\"overview\":\"A young Jewish man is torn between tradition and individuality when his old-fashioned family objects to his career as a jazz singer. This is the first full length feature film to use synchronized sound, and is the original film musical.\",\"popularity\":19.205,\"poster_path\":\"\/wr8Pt1GO87cwB3210TO3JTNDsUc.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":9329,\"logo_path\":\"\/aue5pVfj9TcjYEOufkcuCbAL5hE.png\",\"name\":\"The Vitaphone Corporation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1929-01-01\",\"revenue\":2600000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Yiddish\",\"iso_639_1\":\"yi\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"Hear him sing Mammy, Toot Toot Tootsie, My Gal Sal, Mother I Still Have You.\",\"title\":\"The Jazz Singer\",\"video\":false,\"vote_average\":6.1,\"vote_count\":206}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "307",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:43:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10209",
+        "x-memc": "HIT",
+        "x-memc-key": "b14f9ac6f1c3929b01b7b6c476eac486",
+        "x-memc-age": "13647",
+        "x-memc-expires": "10209",
+        "ETag": "W\/\"102fd1e54ffbc469998aecd96f783d6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HtTnDmJI9yK2lESKFKbw20LmYdF2VHLnb4banhsEivj0CmGqmP5l_w=="
+    },
+    "data": "{\"id\":1028617,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2229011,\"known_for_department\":\"Directing\",\"name\":\"Roy Spence\",\"original_name\":\"Roy Spence\",\"popularity\":0.001,\"profile_path\":\"\/tU2Ea24rp1bTEwOJ7JktGHbQVP8.jpg\",\"credit_id\":\"6330c2f0abdafc007cd9d419\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

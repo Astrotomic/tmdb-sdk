@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1337",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15108",
+        "x-memc": "HIT",
+        "x-memc-key": "608ada1dd0dacbcc9f9d6d00b40048f6",
+        "x-memc-age": "8106",
+        "x-memc-expires": "15108",
+        "ETag": "W\/\"a4a40f91d0e7237bf31d891b6e12ce8d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zZfE5kIHj3R8uqmrBoZqTBvYZfQ2peobUTKhoWCLjFai_NehcDiRyA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tl5nJ9zH3YyGMZjeRrgZMu6wHOt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":394355,\"imdb_id\":\"tt1325753\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hulk Vs.\",\"overview\":\"Two stories featuring Marvel's anti-hero The Incredible Hulk and his encounters with the X-Man Wolverine and the god known as Thor.\",\"popularity\":18.691,\"poster_path\":\"\/zTpk3zBme8LEHqocGb8PkYdGjkr.jpg\",\"production_companies\":[{\"id\":13252,\"logo_path\":\"\/1gKwYyTDNhumwBKUlKqoxXRUdpC.png\",\"name\":\"Marvel Animation\",\"origin_country\":\"US\"},{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"},{\"id\":101449,\"logo_path\":null,\"name\":\"MLG Productions 6\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-01-13\",\"revenue\":0,\"runtime\":78,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hulk Vs.\",\"video\":true,\"vote_average\":6.633,\"vote_count\":192}"
+}

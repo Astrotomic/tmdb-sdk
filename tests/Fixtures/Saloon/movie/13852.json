@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1217",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18207",
+        "x-memc": "HIT",
+        "x-memc-key": "09fd133f61510bc8d5e87f6f3000677e",
+        "x-memc-age": "3483",
+        "x-memc-expires": "18207",
+        "ETag": "W\/\"b3fccb1294777277784609e2f543fc5f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9ne47lAKXm9UtU69c0xiLtBN8VQeWPD6yXqhp6JD6pLLIP9PBkqUIg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fimwiQFQTA8KOkKVuiyxvSy5GmZ.jpg\",\"belongs_to_collection\":null,\"budget\":786675,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":13852,\"imdb_id\":\"tt0118826\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Castle\",\"overview\":\"A Melbourne family is very happy living near the Melbourne airport. However, they are forced to leave their beloved home (by the Government and airport authorities) to make way for more runways. 'The Castle' is the story of how they fight to remain in their home.\",\"popularity\":11.141,\"poster_path\":\"\/lvzFyEoojIMOgsZyl3HYDApti43.jpg\",\"production_companies\":[{\"id\":13674,\"logo_path\":null,\"name\":\"Working Dog\",\"origin_country\":\"AU\"},{\"id\":13675,\"logo_path\":\"\/tHVRMDKKx4NR3lAgZZlthCMEJFf.png\",\"name\":\"Village Roadshow Entertainment\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"1997-04-10\",\"revenue\":861789,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Ordinary Family. Extraordinary Story.\",\"title\":\"The Castle\",\"video\":false,\"vote_average\":7.134,\"vote_count\":194}"
+}

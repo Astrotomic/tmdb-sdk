@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1429",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21807",
+        "x-memc": "HIT",
+        "x-memc-key": "05f0d34763dafec3d77e973b3492d06a",
+        "x-memc-age": "5657",
+        "x-memc-expires": "21807",
+        "ETag": "W\/\"8c3bd40158be95326f55e1300da449b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DTwwc_d00ns0Hs50yPfF6r4NnhPxum3gsr9k7ZRStnzVyFiHrUzI8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c1XKKUHZIhAaZbrVjxkIxgMncSC.jpg\",\"belongs_to_collection\":null,\"budget\":13000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":6951,\"imdb_id\":\"tt0098536\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Turner & Hooch\",\"overview\":\"Scott Turner has 3 days left in the local police department before he moves to a bigger city to get some 'real' cases\u2014not just misdemeanors. When Amos Reed is murdered, Scott sets himself on the case, but the closest thing to a witness to the murder is Reed's dog, Hooch, which Scott has to take care of\u2014to avoid Hooch being 'put to sleep'.\",\"popularity\":23.36,\"poster_path\":\"\/g3LC4mc17fQIFnPsMi81zzKC5gF.jpg\",\"production_companies\":[{\"id\":554,\"logo_path\":\"\/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png\",\"name\":\"Silver Screen Partners III\",\"origin_country\":\"US\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-07-28\",\"revenue\":71100000,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The oddest couple ever unleashed!\",\"title\":\"Turner & Hooch\",\"video\":false,\"vote_average\":6.351,\"vote_count\":1253}"
+}

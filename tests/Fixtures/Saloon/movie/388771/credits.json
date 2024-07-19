@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "322",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7081",
+        "x-memc": "HIT",
+        "x-memc-key": "f139eb514e4d74686178ad1ef9da8f36",
+        "x-memc-age": "14635",
+        "x-memc-expires": "7081",
+        "ETag": "W\/\"1d2da47bff5a9fc5daa00865558ef190\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mk_Lk0Or-eF4yu5J7-eAEAZACaZ7Qnd-MZzPF7r6WtQ04VKf4CkE4g=="
+    },
+    "data": "{\"id\":388771,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":65995,\"known_for_department\":\"Directing\",\"name\":\"Solveig Hoogesteijn\",\"original_name\":\"Solveig Hoogesteijn\",\"popularity\":2.965,\"profile_path\":\"\/5rSMLl4UeCDib2zZ264li5OE5Oz.jpg\",\"credit_id\":\"56ef1b3592514108c80007cc\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

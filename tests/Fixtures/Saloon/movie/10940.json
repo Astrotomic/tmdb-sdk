@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1355",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14027",
+        "x-memc": "HIT",
+        "x-memc-key": "c3ea63d9c6e0fa6591eb1fa4bb7b5e9e",
+        "x-memc-age": "10697",
+        "x-memc-expires": "14027",
+        "ETag": "W\/\"3e1250f8ab2b280613d3477512fa0e6c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KG-VEXKqCa6Xp08L0DRRDek8J2IN7M6eQgJeRfgcSaebIM6_k6WSmg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3iKILr9RSZbDVJDKjLBgosl8o0s.jpg\",\"belongs_to_collection\":{\"id\":10441,\"name\":\"Babylon 5 Collection\",\"poster_path\":\"\/4SmQl6eoFuyvHPj1noqqKf93yK6.jpg\",\"backdrop_path\":\"\/mpiKaJZSIDVGbuKxL1KyQPxeW6Y.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10940,\"imdb_id\":\"tt0120711\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Babylon 5: In the Beginning\",\"overview\":\"Londo Mollari, the Centauri Emperor, recounts the initial contact between the Humans and Minbari, which resulted in a major incident and subsequent war, for an eager pair of youngsters wanting a story about love and conflict.\",\"popularity\":12.099,\"poster_path\":\"\/iFum9eQ5DztNMGE1c1CFm01SnJt.jpg\",\"production_companies\":[{\"id\":2181,\"logo_path\":null,\"name\":\"Babylonian Productions\",\"origin_country\":\"\"},{\"id\":678,\"logo_path\":\"\/AbIc38dGx4b8dhKS7oeRL6aXFDv.png\",\"name\":\"Turner Network Television\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-01-04\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Babylon 5: In the Beginning\",\"video\":false,\"vote_average\":7.175,\"vote_count\":140}"
+}

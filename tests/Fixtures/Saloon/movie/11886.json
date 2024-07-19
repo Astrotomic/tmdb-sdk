@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1134",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15819",
+        "x-memc": "HIT",
+        "x-memc-key": "c8e32d450ffeb417f511dd2ab97e3f64",
+        "x-memc-age": "12421",
+        "x-memc-expires": "15819",
+        "ETag": "W\/\"5461aadba1e387bfb2dcad9b7b415e6e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "scEQvSgdKEtfL_8DDpFDxeQsVORvRwJrRmtN9FRBb2e8Qff_B3AgsA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/b1JNEmsm73g16gR0U20D12pBR3w.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":11886,\"imdb_id\":\"tt0070608\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Robin Hood\",\"overview\":\"With King Richard off to the Crusades, Prince John and his slithering minion, Sir Hiss, set about taxing Nottingham's citizens with support from the corrupt sheriff - and staunch opposition by the wily Robin Hood and his band of merry men.\",\"popularity\":52.555,\"poster_path\":\"\/alcY9jZBgKw9OB7hiPYVNvh03Sb.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1973-11-08\",\"revenue\":33000000,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Meet Robin Hood and his MERRY MENagerie!\",\"title\":\"Robin Hood\",\"video\":false,\"vote_average\":7.3,\"vote_count\":4242}"
+}

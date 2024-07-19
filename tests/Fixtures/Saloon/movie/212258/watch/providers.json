@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "691",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14933",
+        "x-memc": "HIT",
+        "x-memc-key": "01abfcb4e320d8a8c6ffbe7337cbc59a",
+        "x-memc-age": "9399",
+        "x-memc-expires": "14933",
+        "ETag": "W\/\"744bbc5db7ac899349bcf9ec16adf57f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3-y0QuVbmUsYOKEkdt-7ko7fHS-DHukeWknscnDQq49Wnmb5l_5noA=="
+    },
+    "data": "{\"id\":212258,\"results\":{\"HK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/212258-w-returns\/watch?locale=HK\",\"ads\":[{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":34}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/212258-w-returns\/watch?locale=TW\",\"rent\":[{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}],\"flatrate\":[{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}],\"ads\":[{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":35}]}}}"
+}

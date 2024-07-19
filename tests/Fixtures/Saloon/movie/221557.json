@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1023",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1044",
+        "x-memc": "HIT",
+        "x-memc-key": "9a0d8894102044aa9344ef17be10f0ca",
+        "x-memc-age": "26477",
+        "x-memc-expires": "1044",
+        "ETag": "W\/\"5cf8666b937b6ed4408edd75c07cbd57\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iHPSh7RNL76BLjABVlB6ic3wZ4FpiKyHmf6MA8skdc3lUgxrPqQANA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ommQ7rSXfVQUoor1S1GE07YybNN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":221557,\"imdb_id\":\"tt0095503\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lawless Land\",\"overview\":\"Action-adventure set in a world of the near-future, where young love is forbidden among the lower classes. Nevertheless, one couple defies their police-state world to fight and hold on to whatever love they can find.\",\"popularity\":2.056,\"poster_path\":\"\/c45AWWluV6ZuAI6kH5joKFSZF2K.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-01-15\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A hellish chase in a world gone mad.\",\"title\":\"The Lawless Land\",\"video\":false,\"vote_average\":4.9,\"vote_count\":8}"
+}

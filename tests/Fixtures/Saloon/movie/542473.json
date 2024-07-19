@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "904",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1201",
+        "x-memc": "HIT",
+        "x-memc-key": "9f2ae22536cd32a9692d6f875a423a9e",
+        "x-memc-age": "25429",
+        "x-memc-expires": "1201",
+        "ETag": "W\/\"54676100527be74392003041b8ff121d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LMn5Ak0LDYwGnLxKnvcOHAhLLPE8Wgi1ViMcyORvU9z9Usy0c3xwBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":542473,\"imdb_id\":\"tt0285706\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"M\u00e1s Buenas que el Pan\",\"overview\":\"After winning a bet, Lalo goes on vacation with his two daughters and his best friend, they will try to keep Lalo's daughters away from perverted boys.\",\"popularity\":2.705,\"poster_path\":\"\/x6BWdGMGyeeO5Hvh6lsfYbQpqpQ.jpg\",\"production_companies\":[{\"id\":107330,\"logo_path\":null,\"name\":\"Producciones Tolloc\u00e1n\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1987-09-10\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"M\u00e1s Buenas que el Pan\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

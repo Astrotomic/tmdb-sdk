@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1226",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21030",
+        "x-memc": "HIT",
+        "x-memc-key": "0c9eb0b9194fb9750680711d320a36d8",
+        "x-memc-age": "7354",
+        "x-memc-expires": "21030",
+        "ETag": "W\/\"edc9bccd62d433ad55cf85970297b73e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7qrMSTGJ9vbs8Ayh7x29G-kmsZMJNEXN5Wz3HKK7RKvAFJZEO8YgyA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/85B6S6eV5uF0AyaEQ79BcyLirty.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":9028,\"imdb_id\":\"tt0063032\",\"origin_country\":[\"FR\",\"IT\"],\"original_language\":\"it\",\"original_title\":\"Il grande silenzio\",\"overview\":\"A mute gunslinger fights in the defense of a group of outlaws and a vengeful young widow, against a group of ruthless bounty hunters.\",\"popularity\":18.098,\"poster_path\":\"\/3kpxS7SZMyYSXvhDnmxQXOOxiTM.jpg\",\"production_companies\":[{\"id\":1398,\"logo_path\":null,\"name\":\"Les Films Corona\",\"origin_country\":\"FR\"},{\"id\":2259,\"logo_path\":null,\"name\":\"Adelphia Compagnia Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1968-02-21\",\"revenue\":53074,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"His voice was the silence of death!\",\"title\":\"The Great Silence\",\"video\":false,\"vote_average\":7.4,\"vote_count\":376}"
+}

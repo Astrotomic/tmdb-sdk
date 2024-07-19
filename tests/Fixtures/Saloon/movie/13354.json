@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1365",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16477",
+        "x-memc": "HIT",
+        "x-memc-key": "31807c7d7dc311b1c2c4a71fd1bd76d1",
+        "x-memc-age": "5844",
+        "x-memc-expires": "16477",
+        "ETag": "W\/\"08967e7ebe76b76e31dc8dc71859afb6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MerFiZWq91xT8zVZMlK6UFQhnBd5OzZ_kkUrJvJPyzNSqNYLavouBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/b3YTgRg33zNzn60Fi44Z1LpwAUO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/chill-out-scooby-doo\",\"id\":13354,\"imdb_id\":\"tt1097636\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Chill Out, Scooby-Doo!\",\"overview\":\"The gang's vacation to Paris takes a wrong turn when Scooby and Shaggy miss their flight and end up on a skydiving expedition in the Himalayas. To make matters worse, upon arrival they must outrun the Abominable Snowmonster.\",\"popularity\":12.184,\"poster_path\":\"\/n1SgvnX4SJ6gZEpDSQEbcmQOslJ.jpg\",\"production_companies\":[{\"id\":1353,\"logo_path\":\"\/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png\",\"name\":\"Hanna-Barbera Productions\",\"origin_country\":\"US\"},{\"id\":2785,\"logo_path\":\"\/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png\",\"name\":\"Warner Bros. Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-08-31\",\"revenue\":0,\"runtime\":73,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A chilling adventure!\",\"title\":\"Chill Out, Scooby-Doo!\",\"video\":false,\"vote_average\":7.477,\"vote_count\":260}"
+}

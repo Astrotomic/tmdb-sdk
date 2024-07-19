@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1495",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:47:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17258",
+        "x-memc": "HIT",
+        "x-memc-key": "2f57c24f076d18a7a78c98da1dbebf94",
+        "x-memc-age": "8506",
+        "x-memc-expires": "17258",
+        "ETag": "W\/\"4276568ba794afe01531115e93c502a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o4ZJjn24XgqvSx5M3n2z9rv8c0P_ti8qHDa0O7-fhFI1w_FmTbUWGg=="
+    },
+    "data": "{\"id\":236242,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/236242\/watch?locale=JP\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":4}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/236242\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":30}],\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/236242\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg\",\"provider_id\":207,\"provider_name\":\"The Roku Channel\",\"display_priority\":27}]}}}"
+}

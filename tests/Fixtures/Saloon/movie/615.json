@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1224",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14623",
+        "x-memc": "HIT",
+        "x-memc-key": "b53cb75379e5e7b87d8e4635178dea9b",
+        "x-memc-age": "11613",
+        "x-memc-expires": "14623",
+        "ETag": "W\/\"f8feb2cef544b4d9324bb98c2300f498\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yM7M_qnee_ry_RXwYbOmrECbCoZ0fKD-wlk3fWGWJ45XSaaTAH7rng=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pulJ1iY7GVeppMRipiR7ZGDW7EW.jpg\",\"belongs_to_collection\":{\"id\":985311,\"name\":\"Passion of the Christ Collection\",\"poster_path\":\"\/mQIZk7TV8xOHSeuX6O364vylhGs.jpg\",\"backdrop_path\":\"\/lpZBhgQDkiQCXZBlQh5pY6KLOtT.jpg\"},\"budget\":30000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/the-passion-of-the-christ\",\"id\":615,\"imdb_id\":\"tt0335345\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Passion of the Christ\",\"overview\":\"A graphic portrayal of the last twelve hours of Jesus of Nazareth's life.\",\"popularity\":76.202,\"poster_path\":\"\/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg\",\"production_companies\":[{\"id\":152,\"logo_path\":\"\/ttbRwgVW7EoVOS4Af7MnyxFM0FM.png\",\"name\":\"Icon Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-02-25\",\"revenue\":612060372,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"}],\"status\":\"Released\",\"tagline\":\"By his wounds, we were healed.\",\"title\":\"The Passion of the Christ\",\"video\":false,\"vote_average\":7.506,\"vote_count\":4471}"
+}

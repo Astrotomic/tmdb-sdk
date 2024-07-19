@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1002",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8079",
+        "x-memc": "HIT",
+        "x-memc-key": "7d119dfacb5a06db528ee20c70b08431",
+        "x-memc-age": "15501",
+        "x-memc-expires": "8079",
+        "ETag": "W\/\"0b71ed639c9543c2a2cc79d534bcfc32\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7h5iiatngt5UwOWC20Vob3ciGM90ffrYFBjVDF7cx1OVucDmQ-mHOQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lh8ILJFyTfmGqZyxd1NwdjbkfIs.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":1184185,\"imdb_id\":\"tt26770557\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"First Lady of BMF: The Tonesa Welch Story\",\"overview\":\"Inspired by the true life of Detroit native Tonesa Welch. It charts Welch's rise from a teenager's mother to a drug dealer, she is referred to by federal prosecutors as \\\"The First Lady of the BMF\\\"\",\"popularity\":4.904,\"poster_path\":\"\/qMUwy7XASHTUocr5UN4okEl33DG.jpg\",\"production_companies\":[{\"id\":120832,\"logo_path\":null,\"name\":\"Megamind Media\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-10-05\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"First Lady of BMF: The Tonesa Welch Story\",\"video\":false,\"vote_average\":10.0,\"vote_count\":3}"
+}

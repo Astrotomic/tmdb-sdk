@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1290",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6216",
+        "x-memc": "HIT",
+        "x-memc-key": "534f59914ff0b2438335eefdcb34375f",
+        "x-memc-age": "15565",
+        "x-memc-expires": "6216",
+        "ETag": "W\/\"323d531a332dfa5a982afe38ad0f96eb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i4RDYHFZBu-BPtNe2oFLeO0dcrmMwunizwXZ-PFPgmsr_Suz5Pejyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z3v5lEJgn759x81X6e5ieqFsYV6.jpg\",\"belongs_to_collection\":null,\"budget\":165000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/movies.disney.com\/big-hero-6\",\"id\":177572,\"imdb_id\":\"tt2245084\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Big Hero 6\",\"overview\":\"A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.\",\"popularity\":143.444,\"poster_path\":\"\/2mxS4wUimwlLmI1xp6QW6NSU361.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-10-24\",\"revenue\":657827828,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Drop everything. Save the world.\",\"title\":\"Big Hero 6\",\"video\":false,\"vote_average\":7.735,\"vote_count\":15318}"
+}

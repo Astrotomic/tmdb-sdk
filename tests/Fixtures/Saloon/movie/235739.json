@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1229",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11312",
+        "x-memc": "HIT",
+        "x-memc-key": "7cea22e6650b5590909c21fd532d0472",
+        "x-memc-age": "12830",
+        "x-memc-expires": "11312",
+        "ETag": "W\/\"7b79ff8dff99a24daef7ea2298af90fa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BIj8AvH79I7RwKpyd2_32m1ShJKELYCfvUDuNvIPtxcMj-clsNyuxQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aUrd3rY67s3tt1Oxx5HzOEiehOA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":235739,\"imdb_id\":\"tt1314350\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"La Belle vie\",\"overview\":\"Desillussioned by life, B\u00e9a decides to commit suicide. She is interrupted by a phone call with a proposal of work for a financial tycoon. Far from the watchful eyes of her boss, she practices fraud, but it seems it gonna last not so long.\",\"popularity\":3.529,\"poster_path\":\"\/uo92aNkbWYlVTcOY8fkjVbt1rVv.jpg\",\"production_companies\":[{\"id\":29378,\"logo_path\":\"\/jVyURMmtDYaZ3ky4lLDw0qrcE4S.png\",\"name\":\"Scarlett Production\",\"origin_country\":\"FR\"},{\"id\":94,\"logo_path\":\"\/huC7HqorvUThGIrENrbcHmQVUA0.png\",\"name\":\"ARTE France Cin\u00e9ma\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2009-05-07\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The life of a young woman working for an international bank\",\"title\":\"The Good Life\",\"video\":false,\"vote_average\":6.1,\"vote_count\":14}"
+}

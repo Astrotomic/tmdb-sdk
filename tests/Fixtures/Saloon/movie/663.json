@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1362",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22190",
+        "x-memc": "HIT",
+        "x-memc-key": "7150e3f2764a3b60f01d6fd8d59bf4f1",
+        "x-memc-age": "6376",
+        "x-memc-expires": "22190",
+        "ETag": "W\/\"a38a92c9c7362c8ef9226a6101fa35fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8K_JSiJZndJHY7hfjwKpkHEmhErz_EUFntyjsEvztq-z1ugcCqnNgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3lrNJ5jNqKq9UpQrXo8FNFzyoE4.jpg\",\"belongs_to_collection\":{\"id\":656,\"name\":\"Saw Collection\",\"poster_path\":\"\/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg\",\"backdrop_path\":\"\/gRGF3VZjfaI1YvlcwpT1emgBXRs.jpg\"},\"budget\":10000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/saw-4\",\"id\":663,\"imdb_id\":\"tt0890870\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saw IV\",\"overview\":\"Despite Jigsaw's death, and in order to save the lives of two of his colleagues, Lieutenant Rigg is forced to take part in a new game, which promises to test him to the limit.\",\"popularity\":41.366,\"poster_path\":\"\/ku1QdCXOU4ckz3zxLLlis8MIJVm.jpg\",\"production_companies\":[{\"id\":2061,\"logo_path\":\"\/o9LbN33hRaj4qcebUv1bikyXeoB.png\",\"name\":\"Twisted Pictures\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-10-25\",\"revenue\":139352633,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You thought it was over...but the games have just begun.\",\"title\":\"Saw IV\",\"video\":false,\"vote_average\":6.167,\"vote_count\":3652}"
+}

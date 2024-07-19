@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1680",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:41:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10226",
+        "x-memc": "HIT",
+        "x-memc-key": "a39192ca76e85c178efb0ce52afe9e3e",
+        "x-memc-age": "18491",
+        "x-memc-expires": "10226",
+        "ETag": "W\/\"e7faa5cd1cadbfe1a61fcf03ef87796a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "D1TGj6OEulBlNdhsuB5Eu8NXvbkGJH_qlIbjzWFnFcPIhxVu8RnxBg=="
+    },
+    "data": "{\"id\":235811,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":33923,\"known_for_department\":\"Acting\",\"name\":\"Mel Blanc\",\"original_name\":\"Mel Blanc\",\"popularity\":22.46,\"profile_path\":\"\/8fevv4K06TmHsYom2XfmxgKrTcd.jpg\",\"cast_id\":3,\"character\":\"Bugs Bunny, Yosemite Sam, Minister\",\"credit_id\":\"56149a179251410d8000c72c\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":153265,\"known_for_department\":\"Acting\",\"name\":\"Bea Benaderet\",\"original_name\":\"Bea Benaderet\",\"popularity\":10.895,\"profile_path\":\"\/8iarXcmhYVON1AJG2SyzJvez7f.jpg\",\"cast_id\":4,\"character\":\"Granny\",\"credit_id\":\"56149a279251417051004354\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":149366,\"known_for_department\":\"Writing\",\"name\":\"Warren Foster\",\"original_name\":\"Warren Foster\",\"popularity\":7.405,\"profile_path\":\"\/dxwLVoPzik5tR2nbdLg0seYN99X.jpg\",\"credit_id\":\"561499f3c3a368680e0196e8\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":930633,\"known_for_department\":\"Directing\",\"name\":\"Friz Freleng\",\"original_name\":\"Friz Freleng\",\"popularity\":12.271,\"profile_path\":\"\/v7CtAOi4eLJkyu9bZN1yC8e5Wco.jpg\",\"credit_id\":\"52fe4e50c3a36847f8289817\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":551674,\"known_for_department\":\"Sound\",\"name\":\"Carl W. Stalling\",\"original_name\":\"Carl W. Stalling\",\"popularity\":3.199,\"profile_path\":\"\/pvo2CuSZen19HwzODF9v42OhQmR.jpg\",\"credit_id\":\"56149a45925141233d0001fe\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":2,\"id\":457819,\"known_for_department\":\"Production\",\"name\":\"Edward Selzer\",\"original_name\":\"Edward Selzer\",\"popularity\":2.475,\"profile_path\":null,\"credit_id\":\"56149a3bc3a36868240183ba\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

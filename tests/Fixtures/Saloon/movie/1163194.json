@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1322",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20837",
+        "x-memc": "HIT",
+        "x-memc-key": "89b03efd2700fa074f705ae9a305f21f",
+        "x-memc-age": "1720",
+        "x-memc-expires": "20837",
+        "ETag": "W\/\"90ca00a3b03e596c8085f0523d112820\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6CKaY7eiO831sZRr8Cq-Gca8duja5HQJ_eGefKDeWWc-V-6A-28w8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uUVXEEyMsyWxrcbmAppUCYg6egV.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/tiff.net\/events\/lost-ladies\",\"id\":1163194,\"imdb_id\":\"tt21626284\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0932\u093e\u092a\u0924\u093e \u0932\u0947\u0921\u0940\u091c\u093c\",\"overview\":\"Set in 2001, somewhere in rural India, two young brides get accidentally swapped on a train. In the ensuing chaos, they each encounter a host of colourful characters, resulting in hilarious and unexpected consequences.\",\"popularity\":15.852,\"poster_path\":\"\/g8kvGupn62RdywcE85QO2S0v3r8.jpg\",\"production_companies\":[{\"id\":2140,\"logo_path\":\"\/yJIGEhIk3yAWAIiZ4p3xEV1dzwR.png\",\"name\":\"Aamir Khan Productions\",\"origin_country\":\"IN\"},{\"id\":115477,\"logo_path\":\"\/6CkBjiSlfAJFaMjwB44ILbOhFuV.png\",\"name\":\"Jio Studios\",\"origin_country\":\"IN\"},{\"id\":200087,\"logo_path\":\"\/3yVBoe31XHpBC1FyvbLuvYBLU4d.png\",\"name\":\"Kindling Pictures\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2024-03-01\",\"revenue\":0,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Laapataa Ladies\",\"video\":false,\"vote_average\":8.0,\"vote_count\":40}"
+}

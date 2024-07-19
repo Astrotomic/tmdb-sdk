@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1172",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22769",
+        "x-memc": "HIT",
+        "x-memc-key": "15916902d12d485df6f762a39171aef0",
+        "x-memc-age": "3878",
+        "x-memc-expires": "22769",
+        "ETag": "W\/\"219405acb0748ae396f35a79d6815972\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z98oR5A0Yn47klYg5wfPwXdchfUhlZWj9M-EkPoo5GbrBP2EHr-EkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kqpVQfGQyADVGX0ZhAO2KvvYOZR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/reeloneent.com\/programming\/view\/8\",\"id\":229839,\"imdb_id\":\"tt2805748\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Grave Halloween\",\"overview\":\"After inadvertently unleashing an ancient curse, a documentary crew of American exchange students is haunted by angry spirits in Japan's infamous Suicide Forest.\",\"popularity\":7.413,\"poster_path\":\"\/SSr17CBHhh0gmno7rThPaDrcsN.jpg\",\"production_companies\":[{\"id\":15645,\"logo_path\":\"\/uX2ZxAA6TeLQZUHb0IqMrhAb1kL.png\",\"name\":\"Reel One Entertainment\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2013-10-19\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"No one survives in the suicide forest.\",\"title\":\"Grave Halloween\",\"video\":false,\"vote_average\":4.6,\"vote_count\":58}"
+}

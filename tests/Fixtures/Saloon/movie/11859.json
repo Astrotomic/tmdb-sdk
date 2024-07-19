@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1247",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6252",
+        "x-memc": "HIT",
+        "x-memc-key": "8fc618e573f05ad94ecb5c5ea9374a99",
+        "x-memc-age": "20665",
+        "x-memc-expires": "6252",
+        "ETag": "W\/\"cebb7b4e06722f95574ddd09df7f01c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4OtXa66PbvdEYiNzMVyUUlwLsCSuqq6Py4Br29ewl7G2EkROo2nThA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iFfbBL8vtiuTkqb9Os7lO8y3KnY.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":11859,\"imdb_id\":\"tt0113010\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fair Game\",\"overview\":\"Max Kirkpatrick is a cop who protects Kate McQuean, a civil law attorney, from a renegade KGB team out to terminate her\",\"popularity\":35.231,\"poster_path\":\"\/qcxsWOzBaF7MZNNThtRQWQ9Wrdk.jpg\",\"production_companies\":[{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-11-03\",\"revenue\":11500000,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's a cop on the edge. She's a woman with a dangerous secret. They've been targeted by the Russian mob, and now they're both Fair Game.\",\"title\":\"Fair Game\",\"video\":false,\"vote_average\":5.05,\"vote_count\":282}"
+}

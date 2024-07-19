@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "960",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14363",
+        "x-memc": "HIT",
+        "x-memc-key": "564216827bff19163ff9d191272fd5be",
+        "x-memc-age": "10769",
+        "x-memc-expires": "14363",
+        "ETag": "W\/\"ea7ad212979414ed79114cdd3255e29a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fiali_ShksygJNdB52NjFBK1WSFsLhGcRSJzREOXKDJhs1auRIa-1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2qnSpRmOI0OTfj7fbLLuPoi4BKD.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":221104,\"imdb_id\":\"tt0039133\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Adventure Island\",\"overview\":\"Travelers find themselves marooned on an island with a maniacal self-made ruler.\",\"popularity\":2.712,\"poster_path\":\"\/yhqbI7QkT1MfsBTZvCCbBLYzriN.jpg\",\"production_companies\":[{\"id\":4182,\"logo_path\":null,\"name\":\"Pine-Thomas Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1947-08-13\",\"revenue\":0,\"runtime\":66,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The magic of the tropics ! Adventure ... mystery ... romance !\",\"title\":\"Adventure Island\",\"video\":false,\"vote_average\":4.4,\"vote_count\":4}"
+}

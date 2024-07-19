@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "951",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8422",
+        "x-memc": "HIT",
+        "x-memc-key": "10f883fd312a916a8df4e5b43bfe0cfa",
+        "x-memc-age": "14929",
+        "x-memc-expires": "8422",
+        "ETag": "W\/\"eac3eae8cbc7a9fe548c677e3bf12320\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OtpUo8PZ0fjQEkUPN99zUCYacfID0NHeEXsxtwnLg_4M4QtF1mCGRA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":542459,\"imdb_id\":\"tt0364267\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Cholos Malditos\",\"overview\":\"A man named Lucio decides to avenge the death of his sister-in-law after she is killed during a break-in. In order to complete this task, he must become part of a gang.\",\"popularity\":0.914,\"poster_path\":\"\/8s0CtvxehQR5TR6piiHksC0H3L1.jpg\",\"production_companies\":[{\"id\":107755,\"logo_path\":null,\"name\":\"Cristal Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1999-01-01\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cholos Malditos\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1145",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18156",
+        "x-memc": "HIT",
+        "x-memc-key": "4d291b734eae2497e020fb7f8ce9e51c",
+        "x-memc-age": "7462",
+        "x-memc-expires": "18156",
+        "ETag": "W\/\"0faf111d6b79895e121e13684d3595a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WXEbeS0kot6Mg8mu5XOAoMrvvLrx2imAjrXgjx9iS0W-M_SekJjhxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6mFKiT0fjA3MFwXPuAsbtqAqFmX.jpg\",\"belongs_to_collection\":{\"id\":1055253,\"name\":\"Faith Heist Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":1035896,\"imdb_id\":\"tt21373840\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Faith Heist: A Christmas Caper\",\"overview\":\"On Christmas Eve, Pastor Benjamin and his motley crew of congregants find themselves locked in the local mall just as a fearsome team of armed thieves breaks in to rob the place.\",\"popularity\":0.925,\"poster_path\":\"\/r5caZG6exxsgEgZOzrGVZ3yQ0UI.jpg\",\"production_companies\":[{\"id\":32187,\"logo_path\":null,\"name\":\"No Equal Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2022-11-26\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Faith Heist: A Christmas Caper\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

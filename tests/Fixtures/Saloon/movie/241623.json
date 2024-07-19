@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "763",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=240",
+        "x-memc": "HIT",
+        "x-memc-key": "5848369cb474653d555c2bac74d903f3",
+        "x-memc-age": "21661",
+        "x-memc-expires": "240",
+        "ETag": "W\/\"0a4597f96c16fd35bd5fae60184fedc6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iIiUGZOKxXGdYHEwOaRoRbpR587cva67Kq20vk1-0B8ETggeAVMb4A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":241623,\"imdb_id\":\"tt0306627\",\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"\u010carod\u011bjky z p\u0159edm\u011bst\u00ed\",\"overview\":\"Two little girls get ahold of magic and hijinks ensue.\",\"popularity\":1.52,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1991-06-01\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Witches of the Suburbs\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "286",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8869",
+        "x-memc": "HIT",
+        "x-memc-key": "49ae3f34f1a99479699acf505eb22dbf",
+        "x-memc-age": "12994",
+        "x-memc-expires": "8869",
+        "ETag": "W\/\"ecb4ce1dabe379637eb3e658ffa362f1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KyYzOoUXZ2OWUGWJlXNFT_c-RD-OulLWC4fdrbeZ0c_PDX4oinKu9Q=="
+    },
+    "data": "{\"id\":220893,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":3206653,\"known_for_department\":\"Directing\",\"name\":\"Han Heon-myeong\",\"original_name\":\"Han Heon-myeong\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6600d8440929f6017e9d2d0e\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

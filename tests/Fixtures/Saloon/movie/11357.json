@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1420",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5268",
+        "x-memc": "HIT",
+        "x-memc-key": "b1f2b6212affb6a2d544a2939ce7b8ef",
+        "x-memc-age": "21717",
+        "x-memc-expires": "5268",
+        "ETag": "W\/\"f6adcf201e86c0bca045958d0b562d21\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UkcyaOEhtej41n88xyRfkzMM80JI9UB-_E3enDk_YKTbkpwD41z1bQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zE4I9YvrrMUfwDZ3zLiN10eRZxG.jpg\",\"belongs_to_collection\":{\"id\":91361,\"name\":\"Halloween Collection\",\"poster_path\":\"\/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg\",\"backdrop_path\":\"\/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg\"},\"budget\":5000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11357,\"imdb_id\":\"tt0095271\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Halloween 4: The Return of Michael Myers\",\"overview\":\"Michael returns to Haddonfield for Jamie Lloyd -- the orphaned daughter of Laurie Strode -- and her babysitter Rachel. Can Dr. Sam Loomis stop him before the unholy slaughter reaches his innocent young niece?\",\"popularity\":28.459,\"poster_path\":\"\/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg\",\"production_companies\":[{\"id\":15822,\"logo_path\":\"\/Aodu1OPI0LHTWYr7Jlm4R2XY2og.png\",\"name\":\"Trancas International Films\",\"origin_country\":\"US\"},{\"id\":167282,\"logo_path\":null,\"name\":\"Galaxy International Releasing\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-10-21\",\"revenue\":17800000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Ten years ago he changed the face of Halloween. Tonight, HE'S BACK.\",\"title\":\"Halloween 4: The Return of Michael Myers\",\"video\":false,\"vote_average\":6.2,\"vote_count\":1837}"
+}

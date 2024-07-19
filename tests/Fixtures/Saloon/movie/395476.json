@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1160",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10769",
+        "x-memc": "HIT",
+        "x-memc-key": "26bb8c50bcfd482c5c4e926dda33aac9",
+        "x-memc-age": "17254",
+        "x-memc-expires": "10769",
+        "ETag": "W\/\"3bebe890b89a87ec8c71f157e941484e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DkDWjEr1CiAj8eRO9VDAfb0Ajnt9ewJPrlc4s_mbXe518Emx3rOWNw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dePKWFMeqcFEG3zXsjN2nYaBQhf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":10752,\"name\":\"War\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":395476,\"imdb_id\":\"tt0036724\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cowboy Canteen\",\"overview\":\"Song and comedy revue, featuring Western talents, along with a theatrical troupe taking their vacation on the Lazy B Ranch run by Steve Bradley. Steve is about to enter the army and he and Tex Coulter compete for the love of Connie Grey.\",\"popularity\":6.445,\"poster_path\":\"\/nwUpuydNGxvc7nnwvTM9oB4Xluw.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1944-02-09\",\"revenue\":0,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"REWARD - $1,000,000 worth of fun if you catch this entertainer!\",\"title\":\"Cowboy Canteen\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

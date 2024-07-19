@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1321",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:16:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20444",
+        "x-memc": "HIT",
+        "x-memc-key": "d05f0984636f406a65f510d7893493cd",
+        "x-memc-age": "1754",
+        "x-memc-expires": "20444",
+        "ETag": "W\/\"7057f2d4a88db8e6b08aa649185a7a89\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Wn0vZ5pN8MImVslyrsT0OGDsF3hBT4WZOf8pMhB4YO6Mi6myhaOzsA=="
+    },
+    "data": "{\"id\":1087571,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1087571-un-amor\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/7K6rVbpWXB6ByDI0PRzGGRXRBSY.jpg\",\"provider_id\":149,\"provider_name\":\"Movistar Plus\",\"display_priority\":11}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/ozZU2vSlyL11rFGEkq1HE0yxIJq.jpg\",\"provider_id\":64,\"provider_name\":\"Filmin Plus\",\"display_priority\":9},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":12},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":14},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":34}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":12},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":14},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":34}]}}}"
+}

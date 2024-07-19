@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1231",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10021",
+        "x-memc": "HIT",
+        "x-memc-key": "14fa0c2184997f8f1cb03508f6104f3f",
+        "x-memc-age": "13362",
+        "x-memc-expires": "10021",
+        "ETag": "W\/\"62bd99ff00ab191159be77ad3d8a1de1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jjBjlejIjubJwQGfdZY3JZ01MB6vFnDi-FBFX7xpRRrKk2l0hp4dcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4cUi9ofXTqCwrU6qVNZOU5BtMTx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.imdb.com\/title\/tt9129686\/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_days%2520of%2520daisy\",\"id\":1025893,\"imdb_id\":\"tt9129686\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Days of Daisy\",\"overview\":\"As her 40th birthday draws near, high school librarian Daisy feels societal pressure to settle down and start a family. When the art teacher at Daisy's school abruptly quits mid-term, she teams up with a local photographer to give the students the art program they deserve.\",\"popularity\":6.119,\"poster_path\":\"\/q52rZHyfVJ5gbN42TNtz79ctqb.jpg\",\"production_companies\":[{\"id\":49937,\"logo_path\":\"\/j14jwTsJj6ok9IkUFewX7acufKu.png\",\"name\":\"Good Deed Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-05-26\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Days of Daisy\",\"video\":false,\"vote_average\":5.0,\"vote_count\":5}"
+}

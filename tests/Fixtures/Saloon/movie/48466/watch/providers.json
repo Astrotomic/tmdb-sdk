@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "671",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=529",
+        "x-memc": "HIT",
+        "x-memc-key": "bf9dd5e1e38f3d827ebbbf33df163b80",
+        "x-memc-age": "25218",
+        "x-memc-expires": "529",
+        "ETag": "W\/\"1bf7376108eaa12a395448e5020f6786\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EAzo-nAjGjSJreHXSm3iSZcgrZbVSpX_xyDsGpoxJBi1zsEdR9D2BA=="
+    },
+    "data": "{\"id\":48466,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/48466-scared-shrekless\/watch?locale=BR\",\"flatrate\":[{\"logo_path\":\"\/7Cg8esVVXOijXAm1f1vrS7jVjcN.jpg\",\"provider_id\":307,\"provider_name\":\"Globoplay\",\"display_priority\":10}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/48466-scared-shrekless\/watch?locale=CH\",\"flatrate\":[{\"logo_path\":\"\/eBXzkFEupZjKaIKY7zBUaSdCY8I.jpg\",\"provider_id\":381,\"provider_name\":\"Canal+\",\"display_priority\":41}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/48466-scared-shrekless\/watch?locale=FR\",\"flatrate\":[{\"logo_path\":\"\/eBXzkFEupZjKaIKY7zBUaSdCY8I.jpg\",\"provider_id\":381,\"provider_name\":\"Canal+\",\"display_priority\":6}]}}}"
+}

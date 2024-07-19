@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1320",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11152",
+        "x-memc": "HIT",
+        "x-memc-key": "7b0327a324cb14b1468f875794f60849",
+        "x-memc-age": "17477",
+        "x-memc-expires": "11152",
+        "ETag": "W\/\"10cc26038d4d2c0c67e94ee53a71e7b1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hNzQ551Dc1us5vJJPpNAsQ_BKmsRL7W1YNN4jpMVqhtj6WuCy3OEMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1HWNGfaYB4GPwMg8piXYdQHWNuF.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":10882,\"imdb_id\":\"tt0053285\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sleeping Beauty\",\"overview\":\"A beautiful princess born in a faraway kingdom is destined by a terrible curse to prick her finger on the spindle of a spinning wheel and fall into a deep sleep that can only be awakened by true love's first kiss. Determined to protect her, her parents ask three fairies to raise her in hiding. But the evil Maleficent is just as determined to seal the princess's fate.\",\"popularity\":96.512,\"poster_path\":\"\/dK4OZwFFxnfK7MvqfVqw94mavL7.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1959-02-17\",\"revenue\":51600000,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Awaken to a World of Wonders!\",\"title\":\"Sleeping Beauty\",\"video\":false,\"vote_average\":7.0,\"vote_count\":5012}"
+}

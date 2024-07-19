@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1257",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16734",
+        "x-memc": "HIT",
+        "x-memc-key": "34eb2577ac243ec23732270804f03195",
+        "x-memc-age": "9130",
+        "x-memc-expires": "16734",
+        "ETag": "W\/\"65b3744c5fd8170c25824f3ee59d7042\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rW4C3_d59JlIg6knJ8XAEQkb0InctWwOcWFhC6kcJSeqvBOEVl3JOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v4L45eJn9PDhB1ODoPaZzhshjBB.jpg\",\"belongs_to_collection\":null,\"budget\":60000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.theboyinthebubble.net\/\",\"id\":214673,\"imdb_id\":\"tt1990340\",\"origin_country\":[\"US\",\"IE\"],\"original_language\":\"en\",\"original_title\":\"The Boy in the Bubble\",\"overview\":\"Rupert, a ten year old boy, falls hopelessly in love for the first time. When it all goes terribly wrong, he wishes never to experience heartache again. Turning to a book of magic, he invokes a spell to shield him from emotion forever.\",\"popularity\":3.303,\"poster_path\":\"\/uc7BlUmhFmca56VSjVK3UP3Opcd.jpg\",\"production_companies\":[{\"id\":48125,\"logo_path\":null,\"name\":\"Igloo Films\",\"origin_country\":\"\"},{\"id\":1923,\"logo_path\":\"\/ilgktofJY7OsURHfccJrug4GKdQ.png\",\"name\":\"RT\u00c9\",\"origin_country\":\"IE\"},{\"id\":227425,\"logo_path\":null,\"name\":\"Network Ireland Television\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"}],\"release_date\":\"2011-07-08\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Boy in the Bubble\",\"video\":false,\"vote_average\":7.0,\"vote_count\":5}"
+}

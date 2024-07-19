@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1127",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1220",
+        "x-memc": "HIT",
+        "x-memc-key": "0f5b38d66747643601c9f6446a32a4f1",
+        "x-memc-age": "22106",
+        "x-memc-expires": "1220",
+        "ETag": "W\/\"143bae57145f4ba085155adf86b85021\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0pJJT7o2jTgcbZTvIB8f-1ER4W7FMX-Ji4U5E4Yd-L3ogr5qRK1fEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dXebgZzOQEuvJOaNWXP5wzNy4Q0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":423549,\"imdb_id\":\"tt5478806\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"No Touching\",\"overview\":\"In a shady haunted house attraction where the performers are assaulting female patrons in order to make a name for themselves, the tables are turned when the performers attempt to take on two women who bring a new level of terror as they do some ass kicking of their own.\",\"popularity\":2.383,\"poster_path\":\"\/oQwRYnLIAj8t2mtbvjThfDJEIXR.jpg\",\"production_companies\":[{\"id\":147131,\"logo_path\":null,\"name\":\"No Touching\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-08-28\",\"revenue\":0,\"runtime\":13,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The most important rule. No Touching.\",\"title\":\"No Touching\",\"video\":false,\"vote_average\":5.6,\"vote_count\":5}"
+}

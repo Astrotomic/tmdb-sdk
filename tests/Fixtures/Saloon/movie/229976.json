@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1050",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9628",
+        "x-memc": "HIT",
+        "x-memc-key": "ed92ef9c2bc670d0fcc21594fd3be69a",
+        "x-memc-age": "17304",
+        "x-memc-expires": "9628",
+        "ETag": "W\/\"a87470b988f697528b66478694bf1755\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-nKiIDs6OIfEYKyCD47zmu-Ktz-VZ5AevVn4OQ7XyjwYbTGVJE2B1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3lx0J40MyKZluyD33UrznUkwutX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":229976,\"imdb_id\":\"tt0042425\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dynamite Pass\",\"overview\":\"A cowhand becomes involved in a war between a road construction crew and the greedy toll-owner hoping to thwart the new project.\",\"popularity\":2.86,\"poster_path\":\"\/5aapYJAVqMx0iJwqsPihfwu8DvP.jpg\",\"production_companies\":[{\"id\":6,\"logo_path\":\"\/n53F7K9scQWFXYbrCablqLKqJdp.png\",\"name\":\"RKO Radio Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1950-03-23\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"IT'S PAY...OR DIE! Gun-point terror grips the prairie life-line...but Tim don't scare easy!\",\"title\":\"Dynamite Pass\",\"video\":false,\"vote_average\":5.8,\"vote_count\":6}"
+}

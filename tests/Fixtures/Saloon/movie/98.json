@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1937",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4631",
+        "x-memc": "HIT",
+        "x-memc-key": "3aaf9ead7f4751319d77c5af1a746257",
+        "x-memc-age": "23333",
+        "x-memc-expires": "4631",
+        "ETag": "W\/\"71d18720734dbe903f58a468092726d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3-9EFNHs0ZBaNIhTwIopoPXuFjhZTfZyUzQPRuKuSkaiNBNkBOGRjg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hND7xAaxxBgaIspp9iMsaEXOSTz.jpg\",\"belongs_to_collection\":{\"id\":1069584,\"name\":\"Gladiator Collection\",\"poster_path\":null,\"backdrop_path\":\"\/sXuMcx6HLKIBmYFGeDR4MvakIKK.jpg\"},\"budget\":103000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":98,\"imdb_id\":\"tt0172495\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Gladiator\",\"overview\":\"In the year 180, the death of emperor Marcus Aurelius throws the Roman Empire into chaos.  Maximus is one of the Roman army's most capable and trusted generals and a key advisor to the emperor.  As Marcus' devious son Commodus ascends to the throne, Maximus is set to be executed.  He escapes, but is captured by slave traders.  Renamed Spaniard and forced to become a gladiator, Maximus must battle to the death with other men for the amusement of paying audiences.\",\"popularity\":124.471,\"poster_path\":\"\/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":1645,\"logo_path\":\"\/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png\",\"name\":\"Scott Free Productions\",\"origin_country\":\"GB\"},{\"id\":14440,\"logo_path\":\"\/5QbaGiuxc91D6qf75JZGX6OKXoU.png\",\"name\":\"Red Wagon Entertainment\",\"origin_country\":\"US\"},{\"id\":21904,\"logo_path\":null,\"name\":\"Mill Film\",\"origin_country\":\"GB\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-05-04\",\"revenue\":465361176,\"runtime\":155,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What we do in life echoes in eternity.\",\"title\":\"Gladiator\",\"video\":false,\"vote_average\":8.218,\"vote_count\":18023}"
+}

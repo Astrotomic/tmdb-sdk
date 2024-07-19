@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3348",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11429",
+        "x-memc": "HIT",
+        "x-memc-key": "f01d3c1883992894b4303019c0413731",
+        "x-memc-age": "17211",
+        "x-memc-expires": "11429",
+        "ETag": "W\/\"c0f03a6d4b333f8b8babc4fbd032c012\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vVWRYHjYDRGe_ngFBWkhg9m6fD_x0Vo3aeIyH7JgkLyJD7KlyDjisA=="
+    },
+    "data": "{\"id\":13391,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"ads\":[{\"logo_path\":\"\/krduN1ScpvEt0dTaqmAZWOK89RZ.jpg\",\"provider_id\":171,\"provider_name\":\"Watchbox\",\"display_priority\":17}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}]},\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=AU\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":13},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":21}],\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":13},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":21}]},\"BY\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=BY\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":0}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":0}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=CH\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"ads\":[{\"logo_path\":\"\/krduN1ScpvEt0dTaqmAZWOK89RZ.jpg\",\"provider_id\":171,\"provider_name\":\"Watchbox\",\"display_priority\":14}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=DE\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":19}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":19}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=KR\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}],\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]},\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=RU\",\"flatrate\":[{\"logo_path\":\"\/51wuCkUdkEQTUtB8TrtZzzxp3Tj.jpg\",\"provider_id\":117,\"provider_name\":\"Kinopoisk\",\"display_priority\":23}]},\"UA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=UA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":2}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":2}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13391-2077\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

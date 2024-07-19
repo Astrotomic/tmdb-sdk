@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1356",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9807",
+        "x-memc": "HIT",
+        "x-memc-key": "5c18753e07ec0d4dbc9061d2253cc06d",
+        "x-memc-age": "18253",
+        "x-memc-expires": "9807",
+        "ETag": "W\/\"290149704ae181d8f028ae4ba7085280\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "co6gZVsgDkzNsXFk5d1uPnVjWaqlTNzKNoN2E5q86Yh0ldzgOVw6qQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":395575,\"imdb_id\":\"tt0201107\",\"origin_country\":[\"HK\"],\"original_language\":\"zh\",\"original_title\":\"\u86c7\u738b\u5b50\",\"overview\":\"Snake Prince (Ti Lung) is wandering with his snake buddies when he happens upon a beautiful maiden (Lin Chen-Chi) singing a prayer for rain. The song soon turns into a funky dance with the whole drought-blighted village, so the prince and his pals assume human form and join the party. The prince is so smitten with the maiden that he offers to share the snakes' river with the village if he can marry her. The villagers aren't too fond on the idea of marrying off their No. 1 babe to a snake, prince or no, but they really do need that water.\",\"popularity\":5.186,\"poster_path\":\"\/iIzD1CWKFl0pytkaCmkDRaPKt5Z.jpg\",\"production_companies\":[{\"id\":5798,\"logo_path\":\"\/tmuI9BGXgpWLmokhlxpnG3IGNQB.png\",\"name\":\"Shaw Brothers\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1976-07-31\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Snake Prince\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

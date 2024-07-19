@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "965",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3987",
+        "x-memc": "HIT",
+        "x-memc-key": "57ad54ff9de831b32a103f0b7214ef92",
+        "x-memc-age": "21823",
+        "x-memc-expires": "3987",
+        "ETag": "W\/\"a7ec2d518cb9b85dd9f4683cdbe75006\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mJZwA1ExxgVpiDtbWsxgQdULutb811-wGI-hqFSOf4AhIVeGvGfdjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1mOmjXFjYIs9GhFozLQUaYPi3oC.jpg\",\"belongs_to_collection\":null,\"budget\":300,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.youtube.com\/channel\/UCrbYWrd7zHSO8-OJqqhIoHg\",\"id\":1259422,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Resident Evil\",\"overview\":\"Follow Leon Kennedy (Holden Hall) as he goes through the wilderness of Spain to find and exfil with the President's daughter.\",\"popularity\":4.253,\"poster_path\":\"\/AbaJGqRQCs5xYknZ8TeTsEZTNRk.jpg\",\"production_companies\":[{\"id\":206087,\"logo_path\":null,\"name\":\"GingyBread Productions\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2023-10-27\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Where's everyone going? Bingo?\",\"title\":\"Resident Evil\",\"video\":false,\"vote_average\":4.714,\"vote_count\":14}"
+}

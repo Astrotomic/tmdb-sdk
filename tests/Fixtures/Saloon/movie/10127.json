@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1245",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1320",
+        "x-memc": "HIT",
+        "x-memc-key": "17364fadf8d16166ddfcc85bbbd4f1fa",
+        "x-memc-age": "26627",
+        "x-memc-expires": "1320",
+        "ETag": "W\/\"28b957c58bcf1b93e08a17dab5d7b2d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T-scGdqLues8Orak7hSECszX_GE1oGkZfCBeqIOELIQNFEjbYlbblw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/q7gPXI8wvXIUVD9XTSRoqtWfHve.jpg\",\"belongs_to_collection\":{\"id\":10893,\"name\":\"Critters Collection\",\"poster_path\":\"\/6DTwPOGG1FVebElsUqH9UAJg2Qw.jpg\",\"backdrop_path\":\"\/wqqvfXVm6fQwEVLSWImt4yYdgCD.jpg\"},\"budget\":4500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":10127,\"imdb_id\":\"tt0094919\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Critters 2\",\"overview\":\"Three bounty hunters from space fly back to the town of Grovers Bend, hoping to save local residents from a new batch of Critter eggs.\",\"popularity\":43.915,\"poster_path\":\"\/m1ZDq4ugCqKrgtqAda7ibzNKR4a.jpg\",\"production_companies\":[{\"id\":1532,\"logo_path\":null,\"name\":\"Sho Films\",\"origin_country\":\"\"},{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-04-29\",\"revenue\":3813293,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's Everyone's Turn For Seconds\",\"title\":\"Critters 2\",\"video\":false,\"vote_average\":5.98,\"vote_count\":401}"
+}

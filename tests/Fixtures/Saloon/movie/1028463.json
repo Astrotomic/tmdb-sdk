@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "640",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13654",
+        "x-memc": "HIT",
+        "x-memc-key": "2ef504da0f84c86adff68f7cec32748e",
+        "x-memc-age": "9772",
+        "x-memc-expires": "13654",
+        "ETag": "W\/\"107b4312e654f53af7c3ada1584d33ba\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "thn0R7_z9yhhN1ADQWWUpiif5_vS-C0D_KT9L-3z0qboezzym8Uymg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1100,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1028463,\"imdb_id\":\"tt22243992\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Nacho\",\"overview\":\"\",\"popularity\":4.791,\"poster_path\":\"\/9SpP5JzGiuUTsz8vUieybhB6lwO.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2022-10-17\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Nacho\",\"video\":false,\"vote_average\":2.0,\"vote_count\":1}"
+}

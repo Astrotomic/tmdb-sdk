@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1141",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11724",
+        "x-memc": "HIT",
+        "x-memc-key": "6c8d4b175c1e0e1d7f0bd0f591480840",
+        "x-memc-age": "14567",
+        "x-memc-expires": "11724",
+        "ETag": "W\/\"40ddf668d178c761a8594bf86199b1a8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YETAhYHDWi4rsYaETObSXrPqzHj-MZzvwfkVWYTNtYIc8eizIAoLaQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xjjUSZnZugtGgVNtLEF92D0I9dI.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":7091,\"imdb_id\":\"tt0098577\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Vampire's Kiss\",\"overview\":\"A publishing executive is visited and bitten by a vampire and starts exhibiting erratic behavior. He pushes his secretary to extremes as he tries to come to terms with his affliction.\",\"popularity\":19.611,\"poster_path\":\"\/bEwvlXvvrVLPFwCOND5E38qly01.jpg\",\"production_companies\":[{\"id\":60303,\"logo_path\":null,\"name\":\"Magellan Pictures\",\"origin_country\":\"\"},{\"id\":469,\"logo_path\":null,\"name\":\"Hemdale Film Corporation\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-09-17\",\"revenue\":725131,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Seduction. Romance. Murder. The things one does for love.\",\"title\":\"Vampire's Kiss\",\"video\":false,\"vote_average\":5.9,\"vote_count\":377}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2310",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4343",
+        "x-memc": "HIT",
+        "x-memc-key": "45e46dde3f12b15c694e123a4d1f93a2",
+        "x-memc-age": "19064",
+        "x-memc-expires": "4343",
+        "ETag": "W\/\"8df185e2f806d69b33c3c270e781874b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6294154c5c81832cf7b9d6614919fbec.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EVf2Ji_sVzZ1GbG5EeIaGfcixu1ZkmjmRzwKBoM-TgysWrPv3RnI0g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fX8e94MEWSuTJExndVYxKsmA4Hw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":604822,\"imdb_id\":\"tt9695722\",\"origin_country\":[\"TW\",\"GB\",\"CN\",\"HK\"],\"original_language\":\"zh\",\"original_title\":\"\u6025\u5148\u950b\",\"overview\":\"Covert security company Vanguard is the last hope of survival for an accountant after he is targeted by the world's deadliest mercenary organization.\",\"popularity\":37.482,\"poster_path\":\"\/mKvw1Ic9enfFlCPBNJGiejRPMUO.jpg\",\"production_companies\":[{\"id\":90980,\"logo_path\":null,\"name\":\"China Film (Shanghai) International Media Co.\",\"origin_country\":\"CN\"},{\"id\":14714,\"logo_path\":\"\/dSHaVKtBCpMU5VP9wMbTkqov62i.png\",\"name\":\"China Film Group Corporation\",\"origin_country\":\"CN\"},{\"id\":110797,\"logo_path\":null,\"name\":\"Epitome Capital\",\"origin_country\":\"CN\"},{\"id\":140473,\"logo_path\":null,\"name\":\"Shanghai Lix Entertainment\",\"origin_country\":\"CN\"},{\"id\":140475,\"logo_path\":null,\"name\":\"Shenzhen Media Film \\u0026 Television\",\"origin_country\":\"CN\"},{\"id\":81620,\"logo_path\":\"\/7LkIVuWBVScdujpKhBPx1TMnPQE.png\",\"name\":\"Tencent Pictures\",\"origin_country\":\"CN\"},{\"id\":69437,\"logo_path\":null,\"name\":\"One Cool Film Production\",\"origin_country\":\"HK\"},{\"id\":199804,\"logo_path\":null,\"name\":\"India Film Services\",\"origin_country\":\"IN\"},{\"id\":199805,\"logo_path\":null,\"name\":\"Huayu International Entertainment\",\"origin_country\":\"TW\"},{\"id\":199806,\"logo_path\":null,\"name\":\"JP Media Limited\",\"origin_country\":\"GB\"},{\"id\":103323,\"logo_path\":\"\/6erRU1smLcM353NKVldsYyAFh56.png\",\"name\":\"Dexter Studios\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"},{\"iso_3166_1\":\"TW\",\"name\":\"Taiwan\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2020-09-30\",\"revenue\":50866901,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Vanguard\",\"video\":false,\"vote_average\":6.3,\"vote_count\":489}"
+}

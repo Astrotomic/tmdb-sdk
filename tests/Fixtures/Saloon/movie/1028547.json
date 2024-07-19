@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1515",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20259",
+        "x-memc": "HIT",
+        "x-memc-key": "7bc61981c991f962ef06939f3a2a878b",
+        "x-memc-age": "7869",
+        "x-memc-expires": "20259",
+        "ETag": "W\/\"1ceda49f30779dafcb98e382667a0703\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "25CTTowfjeacnuLCi5W2VnXqqssuX4Y02uNcbeAbRhOte0JxSq__DA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7sXnIzZ256XwAicYw5js2KCHG4k.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.hallmarkchannel.com\/twas-the-night-before-christmas\",\"id\":1028547,\"imdb_id\":\"tt22307338\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"'Twas the Night Before Christmas\",\"overview\":\"A former actress trying to break into directing tests her skills with a town\u2019s annual Christmas Eve courtroom production in which the true authorship of the famous poem \u201cA Visit from St. Nick\u201d is debated.\",\"popularity\":6.613,\"poster_path\":\"\/aTpIRq1CzhLiAu5zUIhVPV6cj80.jpg\",\"production_companies\":[{\"id\":6438,\"logo_path\":\"\/hQVRii7CRnfG0rowSEc6ibt2Pke.png\",\"name\":\"Muse Entertainment\",\"origin_country\":\"CA\"},{\"id\":193011,\"logo_path\":\"\/scBUxQJmJnU2QQ849t9DYy9149s.png\",\"name\":\"1Department Entertainment Services\",\"origin_country\":\"CA\"},{\"id\":53015,\"logo_path\":\"\/tWxubAjwO1QtLLWdnUR1bjS1vvf.png\",\"name\":\"Hallmark Media\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-12-17\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Raise the curtain. Lift your spirits.\",\"title\":\"'Twas the Night Before Christmas\",\"video\":false,\"vote_average\":6.31,\"vote_count\":21}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1209",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9871",
+        "x-memc": "HIT",
+        "x-memc-key": "8bf28c725a4f28c727aa72f9bfffc7b8",
+        "x-memc-age": "16380",
+        "x-memc-expires": "9871",
+        "ETag": "W\/\"b52bf991a0ee166b2e950028bd457d65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kKu0Nsydb-QFMSw2vKhjCrAP-esVBb1N3K3BbjW-XmVlPfHi1S68Zg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":388214,\"imdb_id\":\"tt4539816\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Barbie Dance Club\",\"overview\":\"Dance along to six hot songs written exclusively for Barbie. learn to do the Barbie dance from Paula Abdul (yes, Paula herself). She takes you step by easy step...you'll love it! Try to guess the winners in the dance contest! See Barbie doll in her own music videos and sizzling fashion show video! Watch interviews with the Barbie Dance Club D.J. It's all right here on home video! So put on your dancin' shoes and join the fun!\",\"popularity\":3.533,\"poster_path\":\"\/5Y5SsCGRutmxw2SCq7gAII3NRbl.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-01-01\",\"revenue\":0,\"runtime\":30,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everybody's dancin' at the Barbie Dance Club!\",\"title\":\"Barbie Dance Club\",\"video\":false,\"vote_average\":7.5,\"vote_count\":2}"
+}

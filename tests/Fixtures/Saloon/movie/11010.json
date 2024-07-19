@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1414",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14888",
+        "x-memc": "HIT",
+        "x-memc-key": "f217cacc96a0f60ad0555512433e130d",
+        "x-memc-age": "7143",
+        "x-memc-expires": "14888",
+        "ETag": "W\/\"b7bde4e6adbb3d8f44dcc483f30c7fdb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pK3nqe9vzK1RpQ30nBi0nkhxbwGBHfkp28JxeUzfnmVWrFPAs7-vIg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/32pvxFiXNo2TdNpBiuHN8k2Mr4K.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":11010,\"imdb_id\":\"tt0110877\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Il postino\",\"overview\":\"Simple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.\",\"popularity\":22.16,\"poster_path\":\"\/cUaCpjVDefYShKyLmkcDsiPaBHn.jpg\",\"production_companies\":[{\"id\":119744,\"logo_path\":null,\"name\":\"Esterno Mediterraneo Film\",\"origin_country\":\"IT\"},{\"id\":371,\"logo_path\":null,\"name\":\"Cecchi Gori\",\"origin_country\":\"IT\"},{\"id\":119746,\"logo_path\":null,\"name\":\"K2 Two\",\"origin_country\":\"BE\"},{\"id\":8209,\"logo_path\":null,\"name\":\"Blue Dahlia Productions\",\"origin_country\":\"FR\"},{\"id\":6651,\"logo_path\":null,\"name\":\"Penta Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1994-04-07\",\"revenue\":33000000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Dreams do come true.\",\"title\":\"The Postman\",\"video\":false,\"vote_average\":7.935,\"vote_count\":1115}"
+}

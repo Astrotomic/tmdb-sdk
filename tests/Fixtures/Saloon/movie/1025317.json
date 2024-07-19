@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1108",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20144",
+        "x-memc": "HIT",
+        "x-memc-key": "52bebc42b2a20c03006f9cf3ca7c5ddd",
+        "x-memc-age": "3757",
+        "x-memc-expires": "20144",
+        "ETag": "W\/\"0854b0dfa41da5c415b24bc1cf5df559\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i7cc7nWUnR-XZ2Ce1krCwAZtRpu2iFvRHPh7Dt9WDbhumu5Ud3wjfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jLVIbcqCqGNm1Vd6aSMn7O56dVD.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1025317,\"imdb_id\":\"tt22202978\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"El color de la habitaci\u00f3n\",\"overview\":\"Ramiro has been diagnosed with autism. He loves order, his music, his sheets, the rhythm of the day, and the color of his room. His mother, Aurora, who has cared for him for years, will not reveal the reason why she has decided to move her son to her best friend Elsa\u2019s house. Ramiro\u2019s life as he knows it is destined to fall apart.\",\"popularity\":6.254,\"poster_path\":\"\/9G2pHJBtpwLhCVWptyrVDq2MMq2.jpg\",\"production_companies\":[{\"id\":114125,\"logo_path\":null,\"name\":\"Procine\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2023-09-01\",\"revenue\":0,\"runtime\":16,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Color of The Room\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

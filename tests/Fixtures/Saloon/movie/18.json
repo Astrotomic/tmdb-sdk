@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1419",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17516",
+        "x-memc": "HIT",
+        "x-memc-key": "50de8a0bf01bd1fa5e03255dea67c44e",
+        "x-memc-age": "9273",
+        "x-memc-expires": "17516",
+        "ETag": "W\/\"2b1c9994d75812a5c6022ce1a9c80171\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EfT9YtNQEuHFrkD10k1p7QLh6faAVreLAAK1EtPr0OKPl755UJVb1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gEFe2joIQUopBmMPXOHPxuX2f4u.jpg\",\"belongs_to_collection\":null,\"budget\":90000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":18,\"imdb_id\":\"tt0119116\",\"origin_country\":[\"FR\"],\"original_language\":\"en\",\"original_title\":\"The Fifth Element\",\"overview\":\"In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.\",\"popularity\":78.921,\"poster_path\":\"\/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg\",\"production_companies\":[{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-05-02\",\"revenue\":263920180,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"There is no future without it.\",\"title\":\"The Fifth Element\",\"video\":false,\"vote_average\":7.6,\"vote_count\":10488}"
+}

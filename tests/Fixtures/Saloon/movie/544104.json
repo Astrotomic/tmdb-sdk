@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1059",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8847",
+        "x-memc": "HIT",
+        "x-memc-key": "f0690944a168ed230a5080695d72a99d",
+        "x-memc-age": "17992",
+        "x-memc-expires": "8847",
+        "ETag": "W\/\"123b3cdaf30e97ba33419502908ac83a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vn4kqHieD9b3USBGlM0M0m145h8JErk6kJsU2oT5nf7CxzdHX5_lDQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":544104,\"imdb_id\":\"tt8769164\",\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u0417\u0430\u0442\u0430\u0438\u0432 \u0434\u044b\u0445\u0430\u043d\u0438\u0435\",\"overview\":\"A committed synchronized swimmer tries to win the championship and the heart of the coach.\",\"popularity\":1.012,\"poster_path\":\"\/14b7xqwNdIrsOeoeOh8z4BSHNr.jpg\",\"production_companies\":[{\"id\":108077,\"logo_path\":null,\"name\":\"VGNC\",\"origin_country\":\"\"},{\"id\":90244,\"logo_path\":null,\"name\":\"Bushey Studios\",\"origin_country\":\"\"},{\"id\":104745,\"logo_path\":null,\"name\":\"Fancy Shot\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"},{\"iso_3166_1\":\"UA\",\"name\":\"Ukraine\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-07-20\",\"revenue\":0,\"runtime\":12,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Breathless\",\"video\":false,\"vote_average\":8.0,\"vote_count\":1}"
+}

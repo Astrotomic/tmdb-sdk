@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1587",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5702",
+        "x-memc": "HIT",
+        "x-memc-key": "ceaa85c655717222084e55ecf13cb796",
+        "x-memc-age": "22141",
+        "x-memc-expires": "5702",
+        "ETag": "W\/\"46068c06abb19c0414982f6f6c7bc0bc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gwUzqaut893GHNeOECGlJAGrQXBkdCIUhGc8FKEBMhjTaam-ufbqCw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y2Ca1neKke2mGPMaHzlCNDVZqsK.jpg\",\"belongs_to_collection\":null,\"budget\":90000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.bullettrainmovie.com\",\"id\":718930,\"imdb_id\":\"tt12593682\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bullet Train\",\"overview\":\"Unlucky assassin Ladybug is determined to do his job peacefully after one too many gigs gone off the rails. Fate, however, may have other plans, as Ladybug's latest mission puts him on a collision course with lethal adversaries from around the globe\u2014all with connected, yet conflicting, objectives\u2014on the world's fastest train.\",\"popularity\":83.001,\"poster_path\":\"\/j8szC8OgrejDQjjMKSVXyaAjw3V.jpg\",\"production_companies\":[{\"id\":121470,\"logo_path\":\"\/zvJFu1C6gB80A98n6IGXBvMtgVl.png\",\"name\":\"87North Productions\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-03\",\"revenue\":239300000,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The end of the line is just the beginning.\",\"title\":\"Bullet Train\",\"video\":false,\"vote_average\":7.47,\"vote_count\":5831}"
+}

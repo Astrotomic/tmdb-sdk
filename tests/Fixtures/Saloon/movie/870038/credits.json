@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3627",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15891",
+        "x-memc": "HIT",
+        "x-memc-key": "9d9d536d71983953f98e1fdf0365015b",
+        "x-memc-age": "12137",
+        "x-memc-expires": "15891",
+        "ETag": "W\/\"c854300ba2f4b34cdba808940b1b4e16\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "S7TK_HZwQm0FpCoSvMGEo_F0dnsd8ABliVnypjtyGjLz5TKoUD8CgA=="
+    },
+    "data": "{\"id\":870038,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4629543,\"known_for_department\":\"Acting\",\"name\":\"\u7d2b\u9ce9\u7fbd\",\"original_name\":\"\u7d2b\u9ce9\u7fbd\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":12,\"character\":\"\u7d50\u57ce\u5bc6\",\"credit_id\":\"660be394c8a5ac017c797902\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":4629544,\"known_for_department\":\"Acting\",\"name\":\"\u7f8e\u6708\",\"original_name\":\"\u7f8e\u6708\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":13,\"character\":\"\u98a8\u65e9\u7e54\u5973\",\"credit_id\":\"660be40215dea0016233719e\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":4629545,\"known_for_department\":\"Acting\",\"name\":\"\u5c0f\u9ce5\u5c45\u5915\u82b1\",\"original_name\":\"\u5c0f\u9ce5\u5c45\u5915\u82b1\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":14,\"character\":\"\u6b63\u6a39\u7f8e\u73b2\u8863\",\"credit_id\":\"660be4166dc507017e556657\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":4629546,\"known_for_department\":\"Acting\",\"name\":\"\u304f\u3059\u306f\u3089\u3086\u3044\",\"original_name\":\"\u304f\u3059\u306f\u3089\u3086\u3044\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":15,\"character\":\"\u8328\u93e1\u5b50\",\"credit_id\":\"660be423149565017dbb1a68\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":4629547,\"known_for_department\":\"Acting\",\"name\":\"\u3088\u3082\u304e\u3059\u3075\u308c\",\"original_name\":\"\u3088\u3082\u304e\u3059\u3075\u308c\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":16,\"character\":\"\u4f0a\u6f84\u82b1\",\"credit_id\":\"660be4336dc507017e55666c\",\"order\":4},{\"adult\":true,\"gender\":1,\"id\":2134112,\"known_for_department\":\"Acting\",\"name\":\"Miu Yuzuhara\",\"original_name\":\"Miu Yuzuhara\",\"popularity\":3.892,\"profile_path\":\"\/qIoQNuPEL2ztESkwmPKYcmk4Iat.jpg\",\"cast_id\":17,\"character\":\"\u7551\u4e2d\u7f8e\u6d77\",\"credit_id\":\"660be445149565017dbb1a7e\",\"order\":5}],\"crew\":[{\"adult\":true,\"gender\":2,\"id\":2413512,\"known_for_department\":\"Directing\",\"name\":\"Fumio Itou\",\"original_name\":\"\u4f0a\u85e4\u53f2\u592b\",\"popularity\":1.38,\"profile_path\":null,\"credit_id\":\"6131ab2fbc8657008dbe0c96\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3220914,\"known_for_department\":\"Writing\",\"name\":\"Misato Tousaka\",\"original_name\":\"Misato Tousaka\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6131abd12b8a430029d7b3b0\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":true,\"gender\":1,\"id\":2990369,\"known_for_department\":\"Visual Effects\",\"name\":\"Hirayama Shinobu\",\"original_name\":\"Hirayama Shinobu\",\"popularity\":0.6,\"profile_path\":null,\"credit_id\":\"6131abf6cf48a1002a82300e\",\"department\":\"Editing\",\"job\":\"Colorist\"},{\"adult\":true,\"gender\":0,\"id\":2942242,\"known_for_department\":\"Camera\",\"name\":\"Kasumi Kyouka\",\"original_name\":\"Kasumi Kyouka\",\"popularity\":27.359,\"profile_path\":null,\"credit_id\":\"6131ac0f6cf3d5004281f96a\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":2,\"id\":2536500,\"known_for_department\":\"Editing\",\"name\":\"Keisuke Yanagi\",\"original_name\":\"\u67f3\u572d\u4ecb\",\"popularity\":5.302,\"profile_path\":null,\"credit_id\":\"6131ac266dea3a008c2a4f03\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":3221753,\"known_for_department\":\"Visual Effects\",\"name\":\"Tatsuya Takahashi\",\"original_name\":\"\u9ad8\u6a4b\u7adc\u5f25\",\"popularity\":0.558,\"profile_path\":null,\"credit_id\":\"6132a68815a4a1004375abd2\",\"department\":\"Visual Effects\",\"job\":\"Character Designer\"},{\"adult\":false,\"gender\":2,\"id\":3221753,\"known_for_department\":\"Visual Effects\",\"name\":\"Tatsuya Takahashi\",\"original_name\":\"\u9ad8\u6a4b\u7adc\u5f25\",\"popularity\":0.558,\"profile_path\":null,\"credit_id\":\"6132a6d0924ce50089fedae4\",\"department\":\"Visual Effects\",\"job\":\"Animation Director\"},{\"adult\":true,\"gender\":2,\"id\":2413512,\"known_for_department\":\"Directing\",\"name\":\"Fumio Itou\",\"original_name\":\"\u4f0a\u85e4\u53f2\u592b\",\"popularity\":1.38,\"profile_path\":null,\"credit_id\":\"65634901b234b9011c864fd1\",\"department\":\"Art\",\"job\":\"Storyboard Artist\"}]}"
+}

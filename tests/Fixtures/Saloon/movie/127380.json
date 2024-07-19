@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1416",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25508",
+        "x-memc": "HIT",
+        "x-memc-key": "a0ab26b2723f3b9108acde5c877fab0a",
+        "x-memc-age": "2354",
+        "x-memc-expires": "25508",
+        "ETag": "W\/\"2c8935307bf4cd59296244604047371d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eGI411aUslx0PO6EJRX5SAOrX-3-A9EBGiqQ29S2QsUAzrX3lycTPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o11rDwFa7nZMVI57Mm3C44YwmmF.jpg\",\"belongs_to_collection\":{\"id\":137697,\"name\":\"Finding Nemo Collection\",\"poster_path\":\"\/xwggrEugjcJDuabIWvK2CpmK91z.jpg\",\"backdrop_path\":\"\/2hC8HHRUvwRljYKIcQDMyMbLlxz.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/movies.disney.com\/finding-dory\",\"id\":127380,\"imdb_id\":\"tt2277860\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Finding Dory\",\"overview\":\"Dory is reunited with her friends Nemo and Marlin in the search for answers about her past. What can she remember? Who are her parents? And where did she learn to speak Whale?\",\"popularity\":56.312,\"poster_path\":\"\/yFjVlsJmEMacU0BNUwdGZlo2ixq.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-16\",\"revenue\":1028600000,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An unforgettable journey she probably won't remember.\",\"title\":\"Finding Dory\",\"video\":false,\"vote_average\":7.043,\"vote_count\":11836}"
+}

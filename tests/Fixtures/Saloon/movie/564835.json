@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "978",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17050",
+        "x-memc": "HIT",
+        "x-memc-key": "b30960529da1af45b59fb05d0c6674c9",
+        "x-memc-age": "7660",
+        "x-memc-expires": "17050",
+        "ETag": "W\/\"805cf114552d71005ce198bfacd81b2e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jFQlm8ewohev3Bj5sjAAeynR6FSQWZkqVPQW-PNrFcneqopj5FsnCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.cbc.ca\/shortdocs\/shorts\/finding-fukue\",\"id\":564835,\"imdb_id\":\"tt8589820\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Finding Fukue\",\"overview\":\"A Canadian woman returns to Japan in order to solve the mystery of her long-lost friend.\",\"popularity\":1.229,\"poster_path\":\"\/7mdu69QDYJxk0aCmdqEWDruytbJ.jpg\",\"production_companies\":[{\"id\":98000,\"logo_path\":null,\"name\":\"Loud Roar Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2018-11-14\",\"revenue\":0,\"runtime\":21,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Finding Fukue\",\"video\":false,\"vote_average\":9.0,\"vote_count\":1}"
+}

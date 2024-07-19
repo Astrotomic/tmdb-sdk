@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1375",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4440",
+        "x-memc": "HIT",
+        "x-memc-key": "985d4c33946fa8db275e21626ea5f47b",
+        "x-memc-age": "23523",
+        "x-memc-expires": "4440",
+        "ETag": "W\/\"907edddce4803e2731f5d69514b2e1a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8F3Otcgz8p60YBTTYgXZx0_cJsJu-3THEiODnkUnxAOU8t3rvovRlQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1TOB9YhatqxIj5IMIZmnrwdL7AL.jpg\",\"belongs_to_collection\":null,\"budget\":1800000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1052,\"imdb_id\":\"tt0060176\",\"origin_country\":[\"IT\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Blow-Up\",\"overview\":\"A successful mod photographer in London whose world is bounded by fashion, pop music, marijuana, and easy sex, feels his life is boring and despairing. But in the course of a single day he unknowingly captures a death on film.\",\"popularity\":25.113,\"poster_path\":\"\/iVtUdWsT6Ed2DK762zZxjaQAdHy.jpg\",\"production_companies\":[{\"id\":650,\"logo_path\":null,\"name\":\"Bridge Films\",\"origin_country\":\"\"},{\"id\":60762,\"logo_path\":null,\"name\":\"Carlo Ponti Production\",\"origin_country\":\"\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1966-12-18\",\"revenue\":0,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sometimes, reality is the strangest fantasy of all.\",\"title\":\"Blow-Up\",\"video\":false,\"vote_average\":7.369,\"vote_count\":1198}"
+}

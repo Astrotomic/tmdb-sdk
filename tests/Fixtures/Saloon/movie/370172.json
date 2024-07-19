@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1980",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14044",
+        "x-memc": "HIT",
+        "x-memc-key": "0dbb1fc77f83861759432d9d805740cc",
+        "x-memc-age": "12049",
+        "x-memc-expires": "14044",
+        "ETag": "W\/\"237fb61df0a016d1ff4d19d0775d9347\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IGmem4KIPEtdCHZSnD6eztzzD7cDK3PXygsespHtiXQzKFFvG3K-eQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":301000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.007.com\/no-time-to-die\/\",\"id\":370172,\"imdb_id\":\"tt2382320\",\"origin_country\":[\"CA\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"No Time to Die\",\"overview\":\"Bond has left active service and is enjoying a tranquil life in Jamaica. His peace is short-lived when his old friend Felix Leiter from the CIA turns up asking for help. The mission to rescue a kidnapped scientist turns out to be far more treacherous than expected, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.\",\"popularity\":119.424,\"poster_path\":\"\/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-09-29\",\"revenue\":774153007,\"runtime\":163,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The mission that changes everything begins\u2026\",\"title\":\"No Time to Die\",\"video\":false,\"vote_average\":7.38,\"vote_count\":6049}"
+}

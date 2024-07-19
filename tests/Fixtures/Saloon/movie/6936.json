@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "997",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26836",
+        "x-memc": "HIT",
+        "x-memc-key": "ecab210a3cb682f831ae406f3b64c896",
+        "x-memc-age": "712",
+        "x-memc-expires": "26836",
+        "ETag": "W\/\"6ce18a911bea9c80d60cddc77daa7042\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2Ybd8IOrOu0DAUf_W7b4k7VsZmrNBp3tYeSpueMO54N7GmYfJ5FwbA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9Ce5KKinhLiQl9Hh3pLAWhTOMNZ.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":6936,\"imdb_id\":\"tt0953318\",\"origin_country\":[\"NL\"],\"original_language\":\"nl\",\"original_title\":\"Ben X\",\"overview\":\"Harassed by bullies because of his mild autism, teen Ben finds refuge in an online computer game, which leads him to his virtual dream girl, Scarlite. Together, the odd couple seeks revenge against Ben's tormentors.\",\"popularity\":9.945,\"poster_path\":\"\/azxAJ9DlfhpvlKd6jSP3cLqOM99.jpg\",\"production_companies\":[{\"id\":2075,\"logo_path\":null,\"name\":\"MMG Film \\u0026 TV Production\",\"origin_country\":\"BE\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"}],\"release_date\":\"2007-08-26\",\"revenue\":27,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Dutch\",\"iso_639_1\":\"nl\",\"name\":\"Nederlands\"}],\"status\":\"Released\",\"tagline\":\"Everything's dare\",\"title\":\"Ben X\",\"video\":false,\"vote_average\":6.948,\"vote_count\":286}"
+}

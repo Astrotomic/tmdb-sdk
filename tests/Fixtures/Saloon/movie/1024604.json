@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1081",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4246",
+        "x-memc": "HIT",
+        "x-memc-key": "e87aa7760f8a1478c1b38b2526f47d4b",
+        "x-memc-age": "21726",
+        "x-memc-expires": "4246",
+        "ETag": "W\/\"d0152930533be40f9e8a2146dfe7fa6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EJJn1eX3Mr9z4UE8pwpVQqnvvrSTCExPyznhuDaJFBEkYURkKMrZVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":386382,\"name\":\"Frozen Collection\",\"poster_path\":\"\/dwdyvzFX9NEI7oFlRnZurRmlswQ.jpg\",\"backdrop_path\":\"\/s3vdRkK7KZFUDC8HEJo2GRKyVhW.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":1024604,\"imdb_id\":\"tt26680923\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frozen 3\",\"overview\":\"Third installment in the Disney animated franchise. Plot TBA.\",\"popularity\":25.949,\"poster_path\":\"\/8eUfD6fzNWWyuwUYxeSI3grxpy0.jpg\",\"production_companies\":[{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Frozen 3\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1282",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15063",
+        "x-memc": "HIT",
+        "x-memc-key": "8f764d517c36907456772c1297c3747e",
+        "x-memc-age": "12985",
+        "x-memc-expires": "15063",
+        "ETag": "W\/\"f2f1732cbd70e654be3091bacd9c12ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BmJMex6JJRWpr-_m0lu0jYvbny3wW0Z0gNuCSEZTA2dtAngs2Rjakg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fObbVTDvJEg4u6Z5xu3KSAS3EbJ.jpg\",\"belongs_to_collection\":null,\"budget\":250000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":51942,\"imdb_id\":\"tt0119346\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"I Married a Strange Person!\",\"overview\":\"On their wedding night, Grant begins experiencing strange, supernatural powers and his bride Keri can't cope. Whenever Grant thinks of something, it becomes reality, yet he doesn't know where this magic came from. Things become more complicated when a megalomaniac CEO sends the military to capture Grant in order to weaponize his abilities.\",\"popularity\":5.76,\"poster_path\":\"\/QSqcWpefohh9kyMoFB1DChEzu7.jpg\",\"production_companies\":[{\"id\":41680,\"logo_path\":null,\"name\":\"Bill Plympton Studios\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-08-28\",\"revenue\":206272,\"runtime\":73,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The honeymoon is definitely over!\",\"title\":\"I Married a Strange Person!\",\"video\":false,\"vote_average\":7.1,\"vote_count\":39}"
+}

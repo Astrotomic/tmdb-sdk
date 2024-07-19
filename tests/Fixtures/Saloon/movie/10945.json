@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1527",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15765",
+        "x-memc": "HIT",
+        "x-memc-key": "e429d3027555c462102778a0657669a5",
+        "x-memc-age": "8193",
+        "x-memc-expires": "15765",
+        "ETag": "W\/\"7d529cfd8116779f8d0549f0aa7fa465\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-cr4729EaDP1XFeXhpYN4QW_vh2ln3gUA7-C-xzx0u6Xet3HH2T9hw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zXabz6uE55bq8LD8QMyohI1nqNo.jpg\",\"belongs_to_collection\":null,\"budget\":18000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10945,\"imdb_id\":\"tt0091306\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jumpin' Jack Flash\",\"overview\":\"Terry works for a bank, and uses computers to communicate with clients all over the world. One day, she gets a strange coded message from an unknown source. After decoding the message, Terry becomes embroiled in an espionage ring. People are killed, and Terry is chased. Throughout, she remains in contact with this mysterious person, who needs Terry's help save his life.\",\"popularity\":15.566,\"poster_path\":\"\/znVUM7RUBwQ16Q9lTmuMpaWJ7so.jpg\",\"production_companies\":[{\"id\":840,\"logo_path\":null,\"name\":\"Lawrence Gordon Productions\",\"origin_country\":\"US\"},{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-10-09\",\"revenue\":29844101,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A man named Jack has got her jumpin' and the world may never be the same!\",\"title\":\"Jumpin' Jack Flash\",\"video\":false,\"vote_average\":6.1,\"vote_count\":338}"
+}

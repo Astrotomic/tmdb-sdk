@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1857",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:15:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14869",
+        "x-memc": "HIT",
+        "x-memc-key": "c7d9e42189bccff2aea98821421a7f66",
+        "x-memc-age": "7508",
+        "x-memc-expires": "14869",
+        "ETag": "W\/\"b7d427e59cc06c37d0cf7cd5784b1830\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XtR85U8tEKUDcgIXUjoLCS8BvWr3-I_gznb0RLXQes_1bKuuGoSkEQ=="
+    },
+    "data": "{\"id\":395697,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/395697-il-ministro\/watch?locale=IT\",\"rent\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":38}],\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":2}],\"buy\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":38}]},\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/395697-il-ministro\/watch?locale=RU\",\"ads\":[{\"logo_path\":\"\/yyMxS08v80D96O7NtL9supa5sn7.jpg\",\"provider_id\":557,\"provider_name\":\"More TV\",\"display_priority\":16}]},\"SM\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/395697-il-ministro\/watch?locale=SM\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1}]},\"VA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/395697-il-ministro\/watch?locale=VA\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":0}]}}}"
+}

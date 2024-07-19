@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "766",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8508",
+        "x-memc": "HIT",
+        "x-memc-key": "e450f9b3310516b068bcc8d0f6bf71f4",
+        "x-memc-age": "17788",
+        "x-memc-expires": "8508",
+        "ETag": "W\/\"a387879ec08292c1b76552d86e3fbb05\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zufF-19Epb8s1SoaexYLjvTQfsIMI8dupnc_Wbc04oj0wijVzZxLgQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1028321,\"imdb_id\":\"tt1667072\",\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Dru\u017eina \u010dern\u00e9ho pera\",\"overview\":\"\",\"popularity\":3.933,\"poster_path\":null,\"production_companies\":[{\"id\":1931,\"logo_path\":\"\/5erHhgvym2cTORao8ajtn2gbiTH.png\",\"name\":\"Filmov\u00e9 studio Barrandov\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1974-04-19\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dru\u017eina \u010dern\u00e9ho pera\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

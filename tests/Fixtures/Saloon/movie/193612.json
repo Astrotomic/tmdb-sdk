@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1227",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27951",
+        "x-memc": "HIT",
+        "x-memc-key": "1c182a6a0ec4f4847d373b07e8835226",
+        "x-memc-age": "472",
+        "x-memc-expires": "27951",
+        "ETag": "W\/\"110117df449a95d773d84141430b960f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2OlTKznEycMc5rc4VXOH0mauZ_5RSeG4sunx5SAWdXrv2RAUux94vg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bYnKB3jMHz6OB4fOHqLQhzCibx9.jpg\",\"belongs_to_collection\":null,\"budget\":200000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":193612,\"imdb_id\":\"tt2235779\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Quiet Ones\",\"overview\":\"A professor and his students perform a dangerous experiment that causes a young woman to lose her sanity.\",\"popularity\":12.304,\"poster_path\":\"\/icMhj5NKKm5Uw0RcMzR9NYSROE.jpg\",\"production_companies\":[{\"id\":1314,\"logo_path\":\"\/gQBluDqe6dc2ZdzfJbabEHoSGoG.png\",\"name\":\"Hammer Film Productions\",\"origin_country\":\"GB\"},{\"id\":11448,\"logo_path\":\"\/twhX9HMUuGW4Mhb45AyWDhRqkvR.png\",\"name\":\"Exclusive Media\",\"origin_country\":\"US\"},{\"id\":20791,\"logo_path\":null,\"name\":\"Travelling Picture Show Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-04-01\",\"revenue\":17834867,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A shocking experiment. An unspeakable evil.\",\"title\":\"The Quiet Ones\",\"video\":false,\"vote_average\":5.08,\"vote_count\":627}"
+}

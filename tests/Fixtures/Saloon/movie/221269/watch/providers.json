@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1921",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:15:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14693",
+        "x-memc": "HIT",
+        "x-memc-key": "85a863b1c9a0e0714942c3ba3ac8c988",
+        "x-memc-age": "7175",
+        "x-memc-expires": "14693",
+        "ETag": "W\/\"838758a292b1fe08c8c5b4e144a74bed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AD7koQfbhyqa4q-oLGWj6hWmZgDYtBXqGh5p6q2A-z-omJ4eNWSHyA=="
+    },
+    "data": "{\"id\":221269,\"results\":{\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/221269-karma-calling\/watch?locale=AU\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":25}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/221269-karma-calling\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21}],\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":10}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"IN\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/221269-karma-calling\/watch?locale=IN\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":16}]},\"MX\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/221269-karma-calling\/watch?locale=MX\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":17}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/221269-karma-calling\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg\",\"provider_id\":207,\"provider_name\":\"The Roku Channel\",\"display_priority\":27},{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}]}}}"
+}

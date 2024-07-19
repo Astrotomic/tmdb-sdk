@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "828",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23525",
+        "x-memc": "HIT",
+        "x-memc-key": "b3d6b1fb5bd35a339709d844a4f33b0b",
+        "x-memc-age": "680",
+        "x-memc-expires": "23525",
+        "ETag": "W\/\"4d42df9ea154a1dbc8e853a04310d923\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5XAD_Y7w77BaxMhFqIK8BoBo0X2cOdUTPGk7RXW9QX_jKNtUkA7GUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":423407,\"imdb_id\":\"tt0184500\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u4e39\u5fc3\u4ee4\",\"overview\":\"During the Sung regime, the Chins executed Yao Fei without giving him a trial. Li Pao and Liang Hsing who were Yao Fei's generals receive a treasure map which they divide into halves. Thus the drama begins.\",\"popularity\":2.008,\"poster_path\":\"\/zgj9VidAdncD1aMzuDdJ9TwCB5t.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"1969-05-25\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Gallant Knights\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

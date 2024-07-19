@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1477",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16816",
+        "x-memc": "HIT",
+        "x-memc-key": "6c3abd317d18b286b983c49ae123836c",
+        "x-memc-age": "6183",
+        "x-memc-expires": "16816",
+        "ETag": "W\/\"28bd03a0ab6b1905f72b102c863c791d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Cm3A8EdQVdCwO4nl_jmTFEcB5ZMyIZs-HP0zHxL5zxFz72jVaRRGxA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg\",\"belongs_to_collection\":{\"id\":131296,\"name\":\"Thor Collection\",\"poster_path\":\"\/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg\",\"backdrop_path\":\"\/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg\"},\"budget\":170000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.marvel.com\/movies\/thor-the-dark-world\",\"id\":76338,\"imdb_id\":\"tt1981115\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Thor: The Dark World\",\"overview\":\"Thor fights to restore order across the cosmos\u2026 but an ancient race led by the vengeful Malekith returns to plunge the universe back into darkness. Faced with an enemy that even Odin and Asgard cannot withstand, Thor must embark on his most perilous and personal journey yet, one that will reunite him with Jane Foster and force him to sacrifice everything to save us all.\",\"popularity\":102.515,\"poster_path\":\"\/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-10-30\",\"revenue\":644783140,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Delve into the darkness\",\"title\":\"Thor: The Dark World\",\"video\":false,\"vote_average\":6.528,\"vote_count\":16983}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1565",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5283",
+        "x-memc": "HIT",
+        "x-memc-key": "8be86e46409e13e0c44e9d45e896887c",
+        "x-memc-age": "22870",
+        "x-memc-expires": "5283",
+        "ETag": "W\/\"b5e6cdc6773496d494164bce391854dd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i9xP7PfsnAnqAe_p0atVFwu_VF-k-ezK1Yw0kgyMo8TYnlhzIwYIsA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4cxxnXQyTu4hHQpJsxU9FcT8vDy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":388440,\"imdb_id\":\"tt4118606\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Curse of Sleeping Beauty\",\"overview\":\"Thomas Kaiser inherits an ancestral mansion that has been in his family for generations \u2014 only to learn that he has also inherited an ancient curse stemming back to the Crusades. Forced into his new role as \u201cprotector\u201d \u2014 the guardian appointed to keep the evil demons in the house at bay \u2014 Thomas teams with an ambitious local realtor and paranormal cleric to unravel the mystery of the house, while struggling to awaken the beautiful Briar Rose, held captive in a terrifying netherworld seen previously in his dreams.\",\"popularity\":12.642,\"poster_path\":\"\/wO6If1l2Uv5RIngEyZmcAcI2k28.jpg\",\"production_companies\":[{\"id\":50074,\"logo_path\":null,\"name\":\"2B Films\",\"origin_country\":\"\"},{\"id\":74419,\"logo_path\":null,\"name\":\"Nexus Motion Picture Company\",\"origin_country\":\"\"},{\"id\":74420,\"logo_path\":null,\"name\":\"Briar Rose Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-05-05\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The fairytale was only the beginning\",\"title\":\"The Curse of Sleeping Beauty\",\"video\":false,\"vote_average\":5.074,\"vote_count\":209}"
+}

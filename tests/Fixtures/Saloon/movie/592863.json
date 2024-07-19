@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1325",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4966",
+        "x-memc": "HIT",
+        "x-memc-key": "a32e9be25c622e15f0fbcf7e77459f35",
+        "x-memc-age": "22149",
+        "x-memc-expires": "4966",
+        "ETag": "W\/\"1d9c8627cf4b5467dba48d7ac5d66fb3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nNpXXSelwa9PoypakyEEvhqn_LabWIscWHj31mmRKn48canamtS2qw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m0ppE0yXQeFWzlwLdDUFRfanp9R.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/respect.movie\/\",\"id\":592863,\"imdb_id\":\"tt2452150\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Respect\",\"overview\":\"The rise of Aretha Franklin\u2019s career from a child singing in her father\u2019s church\u2019s choir to her international superstardom.\",\"popularity\":19.747,\"poster_path\":\"\/iUtPwOBZJc8uJnDqlCXTibdgxKz.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":13240,\"logo_path\":\"\/aTc07YaNHo8WNgkQSnvLmG6w4nW.png\",\"name\":\"Bron Studios\",\"origin_country\":\"CA\"},{\"id\":136987,\"logo_path\":null,\"name\":\"Cinesite\",\"origin_country\":\"US\"},{\"id\":129446,\"logo_path\":null,\"name\":\"Glickmania\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-08-12\",\"revenue\":31217372,\"runtime\":145,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Find out what it means.\",\"title\":\"Respect\",\"video\":false,\"vote_average\":6.825,\"vote_count\":394}"
+}

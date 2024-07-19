@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1321",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18367",
+        "x-memc": "HIT",
+        "x-memc-key": "5013e7ddc3f9c5a7673a904d59471e87",
+        "x-memc-age": "3571",
+        "x-memc-expires": "18367",
+        "ETag": "W\/\"20121a5d1d5a6a96265484a4b987fbb8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SFDAkFbUNlYjLx1WWslCA-0b0bptni-0yKtRqIyqXevAnn6EMySUOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z6ft15yUCswGRu3rvCy2wY4VhkQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1153419,\"imdb_id\":\"tt29142525\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tell Them You Love Me\",\"overview\":\"A true crime documentary inspired by one of the most polarising criminal trials of recent history. It explores themes including disability, race, sex and perception of consent by looking back on the controversial case of philosophy professor Anna Stubblefield.\",\"popularity\":4.882,\"poster_path\":\"\/p2RXFst8nhayAsed8EdkJxZ6ezN.jpg\",\"production_companies\":[{\"id\":152159,\"logo_path\":\"\/dU2XfRqh0GfrZF85xJDYHrWmLAr.png\",\"name\":\"Mindhouse Productions\",\"origin_country\":\"GB\"},{\"id\":230414,\"logo_path\":\"\/oJhiza5o8GefWN6wLgn78ntbMjT.png\",\"name\":\"Sky Documentaries\",\"origin_country\":\"GB\"},{\"id\":99366,\"logo_path\":\"\/r5UIazzNzEOUSEbxOfwWzEOBe5F.png\",\"name\":\"Topic Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-01\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Tell Them You Love Me\",\"video\":false,\"vote_average\":6.5,\"vote_count\":6}"
+}

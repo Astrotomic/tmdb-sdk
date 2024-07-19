@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1179",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25192",
+        "x-memc": "HIT",
+        "x-memc-key": "0f942b88131e238d9b73e7da9c1f00d9",
+        "x-memc-age": "158",
+        "x-memc-expires": "25192",
+        "ETag": "W\/\"80b51b9159995fdd0e993f3d5f7947c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I16LN7JJgafonR9gE8-jL2_eZj5wPjjgTn0n_14h7rtLJUHNnpyhNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":399191,\"imdb_id\":\"tt4741618\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Erotic Vampires of Beverly Hills\",\"overview\":\"Beverly Hills will never be the same after the Dracula family moves into the neighborhood. As the bodies begin the pile up, it becomes clear that vampires are making a meal out of Society's upper crust, attracting the attention of the beautiful Vampire Slayer, whose sexy charms are backed up by her deadly talent for loving and killing.\",\"popularity\":5.377,\"poster_path\":\"\/v9vwf5CYF6ZwasqxCHa7P4LvDwA.jpg\",\"production_companies\":[{\"id\":4681,\"logo_path\":null,\"name\":\"Retromedia Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-08-25\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They can last all night\",\"title\":\"Erotic Vampires of Beverly Hills\",\"video\":false,\"vote_average\":2.6,\"vote_count\":10}"
+}

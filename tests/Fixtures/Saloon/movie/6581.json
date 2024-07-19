@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "861",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14244",
+        "x-memc": "HIT",
+        "x-memc-key": "c9822510a67afbd19c3a6f1ed8581eee",
+        "x-memc-age": "8135",
+        "x-memc-expires": "14244",
+        "ETag": "W\/\"1029bda7376b93dbedec5516c6e0a053\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Mc0r1O4gRBBSXa74crFPcGB_DO8eKln7AHlB_uccJgHRsAd8pt0VwQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":6581,\"imdb_id\":\"tt0090622\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Am n\u00e4chsten Morgen kehrte der Minister nicht an seinen Arbeitsplatz zur\u00fcck\",\"overview\":\"\",\"popularity\":1.764,\"poster_path\":\"\/hR6jFx8orz2RxBAY1IWjfXpkycW.jpg\",\"production_companies\":[{\"id\":2109,\"logo_path\":null,\"name\":\"Flash \\u0026 Star\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1986-04-23\",\"revenue\":0,\"runtime\":70,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Am n\u00e4chsten Morgen kehrte der Minister nicht an seinen Arbeitsplatz zur\u00fcck\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

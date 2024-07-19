@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "257",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:01:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26963",
+        "x-memc": "HIT",
+        "x-memc-key": "aeb39fe2f02bd46b2809d31d31d60b1b",
+        "x-memc-age": "111",
+        "x-memc-expires": "26963",
+        "ETag": "W\/\"0fb44eb1aaff93d41a9da91eef7d261a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XS6YTxzmr-f2HxiElmOfkGR45irLulnUI3Za3ECMefcA5dIsPTcQcg=="
+    },
+    "data": "{\"id\":42982,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/42982-robot-chicken-star-wars-episode-ii\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg\",\"provider_id\":257,\"provider_name\":\"fuboTV\",\"display_priority\":97}]}}}"
+}

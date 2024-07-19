@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "834",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12530",
+        "x-memc": "HIT",
+        "x-memc-key": "7fbabdf0cf44ada617b09372796d1a85",
+        "x-memc-age": "11713",
+        "x-memc-expires": "12530",
+        "ETag": "W\/\"5e496eff5841d72e7f708f27800ed6f3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eZK196J-rRuh-O_gWdpqwEFxUF7DAaX6w5vPtUfz2EaY6DpJqfIdqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":1027625,\"imdb_id\":null,\"origin_country\":[\"BR\"],\"original_language\":\"en\",\"original_title\":\"Rodrigo Teaser - Tributo ao Rei do Pop\",\"overview\":\"\",\"popularity\":0.844,\"poster_path\":\"\/rPtEMDI1CTTzaMMe7tE4X23YOZo.jpg\",\"production_companies\":[{\"id\":182886,\"logo_path\":null,\"name\":\"Casa Beatz\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2019-06-30\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Rodrigo Teaser - Tributo ao Rei do Pop\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

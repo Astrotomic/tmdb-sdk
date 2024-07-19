@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1445",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18560",
+        "x-memc": "HIT",
+        "x-memc-key": "1871420b223c4cc8a1045d69b0210419",
+        "x-memc-age": "7643",
+        "x-memc-expires": "18560",
+        "ETag": "W\/\"a2996c3d16ec45ce8448e36202742339\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C9nYSl6F_k4-5k4oPBWn1oFZkNHxcrqLE3QBetnNLAor8V70eYAbQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pfAZP7JvTTxqgq7n6A1OYgkAdEW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.disneyplus.com\/movies\/werewolf-by-night\/J1sCDfT3MaDl\",\"id\":894205,\"imdb_id\":\"tt15318872\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Werewolf by Night\",\"overview\":\"On a dark and somber night, a secret cabal of monster hunters emerge from the shadows and gather at the foreboding Bloodstone Temple following the death of their leader. In a strange and macabre memorial to the leader\u2019s life, the attendees are thrust into a mysterious and deadly competition for a powerful relic\u2014a hunt that will ultimately bring them face to face with a dangerous monster.\",\"popularity\":46.802,\"poster_path\":\"\/jmv7EbqBuEk4V1U7OoSBaxkwawO.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"},{\"id\":176762,\"logo_path\":null,\"name\":\"Kevin Feige Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-25\",\"revenue\":0,\"runtime\":55,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There's no escaping the night.\",\"title\":\"Werewolf by Night\",\"video\":false,\"vote_average\":6.994,\"vote_count\":1206}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1096",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19661",
+        "x-memc": "HIT",
+        "x-memc-key": "1965ecc9374179536672e15c58d363a8",
+        "x-memc-age": "8295",
+        "x-memc-expires": "19661",
+        "ETag": "W\/\"742cfbc4067c2a61a1df042644da8411\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HqYjrCS59nPAj7S3n6_ljiGfa3g7rPi7aYCoE7WFyFA8y7oUyANb-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dLE6mHjABhAcT6iQCM5CiJmyIts.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":3063,\"imdb_id\":\"tt0023969\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Duck Soup\",\"overview\":\"Rufus T. Firefly is named president\/dictator of bankrupt Freedonia and declares war on neighboring Sylvania over the love of wealthy Mrs. Teasdale.\",\"popularity\":20.909,\"poster_path\":\"\/31t63plEGKHhYuuCpC9bFWO9SBS.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1933-11-12\",\"revenue\":0,\"runtime\":69,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"War is swell...when the Marx Brothers are in it. They'll be out of the trenches by Christmas...if the food doesn't improve!\",\"title\":\"Duck Soup\",\"video\":false,\"vote_average\":7.323,\"vote_count\":744}"
+}

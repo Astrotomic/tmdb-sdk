@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "860",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16390",
+        "x-memc": "HIT",
+        "x-memc-key": "f0d091910ef7cd0a8433fd2839834476",
+        "x-memc-age": "7807",
+        "x-memc-expires": "16390",
+        "ETag": "W\/\"15d74a5c1a1311617795724a37d11328\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "khYDNw1rKo7yPxk5wsLLyHcI03RAEZmVP0ARPA3c02OtPxcFV5AkmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kqdR4iGaKhCG1HTG7YmceYrjZUS.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81578388\",\"id\":992302,\"imdb_id\":\"tt21030216\",\"origin_country\":[\"ZA\"],\"original_language\":\"en\",\"original_title\":\"Jewel\",\"overview\":\"While visiting a massacre memorial, a photographer finds herself drawn to a local woman. But their romance stirs up painful memories of a shared past.\",\"popularity\":6.178,\"poster_path\":\"\/e3i8sjACOzE7wojqZhqIjBfnsk0.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"}],\"release_date\":\"2022-07-08\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Jewel\",\"video\":false,\"vote_average\":6.4,\"vote_count\":5}"
+}

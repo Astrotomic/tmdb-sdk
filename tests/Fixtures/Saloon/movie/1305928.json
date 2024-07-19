@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "827",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16749",
+        "x-memc": "HIT",
+        "x-memc-key": "ab237367dd492581ebcdda4bf64adc27",
+        "x-memc-age": "7246",
+        "x-memc-expires": "16749",
+        "ETag": "W\/\"2c2ce478f6f82c133d888fb96786bf81\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TZvXRZaKqIjOSoWwHEF2fLdCb8r3iZoctgoq-bvGYPJl_KQWyzF5tQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1305928,\"imdb_id\":\"tt16408474\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Cult\",\"overview\":\"When a young woman relocates to a small town in Europe, she notices the place has something weird. As time goes by, she starts to fear for her life. Based on actual events and in the book the day she became plastic.\",\"popularity\":215.829,\"poster_path\":\"\/mmDEyYd66Et6GsuB0Etj9ifQwTr.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2024-06-01\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Cult\",\"video\":false,\"vote_average\":10.0,\"vote_count\":5}"
+}

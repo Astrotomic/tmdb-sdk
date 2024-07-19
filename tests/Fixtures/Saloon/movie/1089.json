@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1504",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11599",
+        "x-memc": "HIT",
+        "x-memc-key": "893f53ebb28e43399aab5c85f31de37b",
+        "x-memc-age": "16447",
+        "x-memc-expires": "11599",
+        "ETag": "W\/\"f0ec9afbbd39f25a10fb71e3cff2ed9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4tng9eTqX9GlGaL3kFO0n5t9aHLoY7vk25gpcepE0WlGxNAqR4lHUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3PQLohxgvjUQgF94sY5SEgVKSS6.jpg\",\"belongs_to_collection\":null,\"budget\":24000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1089,\"imdb_id\":\"tt0102685\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Point Break\",\"overview\":\"In Los Angeles, a gang of bank robbers who call themselves The Ex-Presidents commit their crimes while wearing masks of Reagan, Carter, Nixon and Johnson. Believing that the members of the gang could be surfers, the F.B.I. sends young agent Johnny Utah to the beach undercover to mix with the surfers and gather information.\",\"popularity\":57.441,\"poster_path\":\"\/tlbERIghrQ4oofqlbF7H0K0EYnx.jpg\",\"production_companies\":[{\"id\":1644,\"logo_path\":\"\/l5JFudbLN3vr1sSkjRoqF7To8Ky.png\",\"name\":\"Largo Entertainment\",\"origin_country\":\"US\"},{\"id\":182,\"logo_path\":\"\/1BPbXmwi1DZS1Qp0koK7AuponY6.png\",\"name\":\"JVC\",\"origin_country\":\"JP\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-07-12\",\"revenue\":83531958,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Twenty-seven banks in three years. Anything to catch the perfect wave.\",\"title\":\"Point Break\",\"video\":false,\"vote_average\":7.158,\"vote_count\":3437}"
+}

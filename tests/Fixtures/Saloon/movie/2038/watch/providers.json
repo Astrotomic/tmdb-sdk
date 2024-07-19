@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1156",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9519",
+        "x-memc": "HIT",
+        "x-memc-key": "403682579f71b6b69923cd10b1649740",
+        "x-memc-age": "17331",
+        "x-memc-expires": "9519",
+        "ETag": "W\/\"80a9cbb29fe2995debdd4ab62fc0a83d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UKE330_VgXdjA9jkhBqNhFMHzqWhxlq5hbCBKEAOcwF9MfnhSmcPNQ=="
+    },
+    "data": "{\"id\":2038,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2038-iron-eagle-iii\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2038-iron-eagle-iii\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42},{\"logo_path\":\"\/cAUTwxqoI7zc9XtYr1SMtWZEsXg.jpg\",\"provider_id\":58,\"provider_name\":\"Canal VOD\",\"display_priority\":120}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42},{\"logo_path\":\"\/cAUTwxqoI7zc9XtYr1SMtWZEsXg.jpg\",\"provider_id\":58,\"provider_name\":\"Canal VOD\",\"display_priority\":120}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2038-iron-eagle-iii\/watch?locale=KR\",\"buy\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}]}}}"
+}

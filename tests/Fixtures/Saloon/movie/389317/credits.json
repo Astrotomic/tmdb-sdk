@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "516",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16135",
+        "x-memc": "HIT",
+        "x-memc-key": "a322a3401e67a7d1008de03a4bf2b837",
+        "x-memc-age": "10931",
+        "x-memc-expires": "16135",
+        "ETag": "W\/\"da492d1bf1f9281d03d1e8dbc8463d6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mqMJdfUSP8Zd82kPBa7dFakMUeu2KrdK8MyuNWt3Uil6qdFNldDRkg=="
+    },
+    "data": "{\"id\":389317,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1595017,\"known_for_department\":\"Writing\",\"name\":\"Inbal Breda\",\"original_name\":\"Inbal Breda\",\"popularity\":2.054,\"profile_path\":null,\"credit_id\":\"56f343ecc3a3682fd5000e4f\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1595017,\"known_for_department\":\"Writing\",\"name\":\"Inbal Breda\",\"original_name\":\"Inbal Breda\",\"popularity\":2.054,\"profile_path\":null,\"credit_id\":\"56f343f99251415fc60004b9\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

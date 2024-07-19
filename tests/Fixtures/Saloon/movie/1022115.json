@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1068",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19651",
+        "x-memc": "HIT",
+        "x-memc-key": "9605a019310954602b552feed55469e6",
+        "x-memc-age": "2407",
+        "x-memc-expires": "19651",
+        "ETag": "W\/\"96d4dd21b66b06d53d2896967417a3b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zr6L4PiWtUT3K3p9Rt10BqOz9GIIG6qyli4hoPqqUcIYkBLDodOgVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8X3NRghZtIAEpcqXsug0NLSeHO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1022115,\"imdb_id\":\"tt13924374\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mutant Vampires from the Planet Neptune\",\"overview\":\"Five friends embark on a weekend of partying at a secluded cabin, where unbeknownst to them a murderous space vampire lurks in the shadows.\",\"popularity\":3.508,\"poster_path\":\"\/r6KezTGiJtsE7CsyBpR39zbPU3s.jpg\",\"production_companies\":[{\"id\":145867,\"logo_path\":null,\"name\":\"7th Street Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-07-12\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He is coming and he wants blood.\",\"title\":\"Mutant Vampires from the Planet Neptune\",\"video\":false,\"vote_average\":3.3,\"vote_count\":3}"
+}

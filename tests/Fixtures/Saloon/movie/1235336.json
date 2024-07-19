@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1161",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17188",
+        "x-memc": "HIT",
+        "x-memc-key": "4aec91ec1f74b7cb3101b4f4422a5822",
+        "x-memc-age": "11593",
+        "x-memc-expires": "17188",
+        "ETag": "W\/\"2a5454d48bfd9bf3293b42e119dcb2fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XqqmshAt6Eljl54T5GK1-Aau6Q8ENijBtDy-vSdFE_4eyDcnkUjKpQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vqgQtW4Fsa8DL5Nd5EinnXbkU5H.jpg\",\"belongs_to_collection\":null,\"budget\":55821,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.kickstarter.com\/projects\/austinmcconnellyt\/the-sensational-cat-man-cartoon\/\",\"id\":1235336,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Sensational Cat-Man\",\"overview\":\"Loosely based on a now-defunct 1940s comic book hero, the story follows private detective David Merryweather as he wages a crusade on crime. A noir mystery featuring Filmation-esque aesthetics and exciting hijinks.\",\"popularity\":3.779,\"poster_path\":null,\"production_companies\":[{\"id\":218288,\"logo_path\":null,\"name\":\"Spikey Tortoise\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2025-06-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"\",\"title\":\"The Sensational Cat-Man\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

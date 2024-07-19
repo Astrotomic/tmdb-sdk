@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1380",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23340",
+        "x-memc": "HIT",
+        "x-memc-key": "864c2ecccca035aaac3ed5bbbdf6ad4a",
+        "x-memc-age": "4973",
+        "x-memc-expires": "23340",
+        "ETag": "W\/\"16c3a296a2a10c0de8f21a1b9ddc45b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "71iSnKHC0jjxbEh49N8pcDe3_EeSXH9eL9N2wuDHq-JFarc8IFxPbw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/riiT83kvwWhlBTaVTDA4RmDYrDh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.meandyoumovie.com\/\",\"id\":1382,\"imdb_id\":\"tt0415978\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Me and You and Everyone We Know\",\"overview\":\"A lonely shoe salesman and an eccentric performance artist struggle to connect in this unique take on contemporary life.\",\"popularity\":14.875,\"poster_path\":\"\/tDRTtvEJs4L8wj35GKiczUQXCSR.jpg\",\"production_companies\":[{\"id\":307,\"logo_path\":\"\/gUi3pAUznQJpR296lw4mSVbB7zx.png\",\"name\":\"IFC Films\",\"origin_country\":\"US\"},{\"id\":6705,\"logo_path\":\"\/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png\",\"name\":\"Film4 Productions\",\"origin_country\":\"GB\"},{\"id\":860,\"logo_path\":\"\/aWrTeKCGu9jjsiiVSDsALC3vxu4.png\",\"name\":\"Celluloid Dreams\",\"origin_country\":\"FR\"},{\"id\":26468,\"logo_path\":null,\"name\":\"IFC Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-06-17\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Me and You and Everyone We Know\",\"video\":false,\"vote_average\":7.0,\"vote_count\":310}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1036",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10710",
+        "x-memc": "HIT",
+        "x-memc-key": "7d39c0ab0d8d30cff3d3fdf7b6909fec",
+        "x-memc-age": "13777",
+        "x-memc-expires": "10710",
+        "ETag": "W\/\"ca1ba7d243123e1ac5fe0b26109270bf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "30CApkR1Lgbe7msrfs3KlRx_IE3SXF_xJkpQDYCcX8HThUCrgLKVgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oWpmzSXmtmKiHNoPrpcPlrXuJZh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":386453,\"imdb_id\":\"tt6614620\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b9\u30a6\u30a7\u30c3\u30c8\u30d1\u30f3\u30c1\",\"overview\":\"A series of five Studio 4\u00b0C shorts collected in January 2007 as a direct-to-DVD package film titled Deep Imagination. Featuring Professor Dan Petory's Blues, End of the World, Comedy, Beyond, and Junk Town.\",\"popularity\":2.121,\"poster_path\":\"\/fK5fCKRyrS73hhe7nVO5NLeXIRM.jpg\",\"production_companies\":[{\"id\":10868,\"logo_path\":\"\/9779IFPDaVxYmmWOHHfRyH17qnx.png\",\"name\":\"STUDIO4\u2103\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2002-03-02\",\"revenue\":0,\"runtime\":52,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Deep Imagination\",\"video\":false,\"vote_average\":7.0,\"vote_count\":2}"
+}

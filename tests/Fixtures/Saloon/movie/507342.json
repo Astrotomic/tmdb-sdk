@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "714",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5209",
+        "x-memc": "HIT",
+        "x-memc-key": "525a5c677246a83fa2a01903d47b41d9",
+        "x-memc-age": "22956",
+        "x-memc-expires": "5209",
+        "ETag": "W\/\"a11bfa7639cb64f00eb280227a958add\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3QL7MlImPW0nzLaCj3CJIMn8OWuwzIfXcz_-wxKhKPYDGaxw0BZbWQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":507342,\"imdb_id\":null,\"origin_country\":[\"VE\"],\"original_language\":\"xx\",\"original_title\":\"Todo Lo Que Sab\u00eda Sobre Amar\",\"overview\":\"A young couple struggles with jealousy.\",\"popularity\":1.485,\"poster_path\":\"\/2xEH4xZw3FlHLW6uH7d3JtpEao5.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"VE\",\"name\":\"Venezuela\"}],\"release_date\":\"2019-01-12\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Everything I Knew About Love\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

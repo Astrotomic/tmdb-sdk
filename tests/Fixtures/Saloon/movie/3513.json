@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1287",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23682",
+        "x-memc": "HIT",
+        "x-memc-key": "f6b22bce96e59e480275ba860d8c4654",
+        "x-memc-age": "4419",
+        "x-memc-expires": "23682",
+        "ETag": "W\/\"2d3c49aba20acbc88c9771815ccead81\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BSvi1E7yoicoubM9Ic6ist-XHDXP8dYRk7InfeClDkmmRR0Uojat5Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uDicXMIFyQKDUgMaXq0YAHNPs5I.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":3513,\"imdb_id\":\"tt0126388\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Legionnaire\",\"overview\":\"Alain Lefevre is a boxer paid by a Marseille mobster to take a dive. When he wins the fight he attempts to flee to America with the mobster's girlfriend Katrina. This plan fails and he seeks escape by joining the foreign legion. As part of the legion he tangles with abusive lieutenant Steinkampf and bonds with legionnaires Luther, Mackintosh and Rosetti.\",\"popularity\":28.837,\"poster_path\":\"\/sBeI7TeJzVw103iacL03v7Y5mCX.jpg\",\"production_companies\":[{\"id\":1438,\"logo_path\":null,\"name\":\"Quadra Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-12-03\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A fugitive from a killer. A remote outpost. A fight to the death.\",\"title\":\"Legionnaire\",\"video\":false,\"vote_average\":5.722,\"vote_count\":525}"
+}

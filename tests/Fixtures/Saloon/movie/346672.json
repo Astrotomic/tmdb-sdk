@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1608",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12538",
+        "x-memc": "HIT",
+        "x-memc-key": "75912aad51e6b72f5d3b4f7e7bc90d13",
+        "x-memc-age": "15380",
+        "x-memc-expires": "12538",
+        "ETag": "W\/\"0e42b8733fd420dd1ea2fd17e3d549c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y1Wv8xsIRjAitrjrAZXSEpVdfC88JTsrilayh9kRXgMjrt_Y6sdnww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dxyUN2kMhr0gMBKQpE79Z4sWAp5.jpg\",\"belongs_to_collection\":{\"id\":2326,\"name\":\"Underworld Collection\",\"poster_path\":\"\/aK8qq0X0pZbf5ncE3JLQ27hdC4F.jpg\",\"backdrop_path\":\"\/2gSaXagD9ZCuBHOsXF4tvtW7Djd.jpg\"},\"budget\":35000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/underworldbloodwars\",\"id\":346672,\"imdb_id\":\"tt3717252\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Underworld: Blood Wars\",\"overview\":\"Vampire death dealer Selene fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David and his father Thomas, she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.\",\"popularity\":78.374,\"poster_path\":\"\/v1ciDCWMG47gdT4kMyjyQbnLQQn.jpg\",\"production_companies\":[{\"id\":126,\"logo_path\":\"\/kADPanRDkKTxncPXXVahvHPUvCj.png\",\"name\":\"Lakeshore Entertainment\",\"origin_country\":\"US\"},{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":7738,\"logo_path\":null,\"name\":\"Sketch Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-11-24\",\"revenue\":81093313,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Protect the Bloodline\",\"title\":\"Underworld: Blood Wars\",\"video\":false,\"vote_average\":5.9,\"vote_count\":3580}"
+}

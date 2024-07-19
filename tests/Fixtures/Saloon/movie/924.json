@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1881",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15591",
+        "x-memc": "HIT",
+        "x-memc-key": "880501337ec9f3926836bfa034faefe1",
+        "x-memc-age": "12429",
+        "x-memc-expires": "15591",
+        "ETag": "W\/\"2eec75196163c88a309725572f8dd0eb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TIj-69R2KE6mMvz8rf2VfnSkp6QJNPoZGZ-1fsFtFTuV9TxClF8qlQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ex2N7etWyKwDMw7mVhjKrA2GCy6.jpg\",\"belongs_to_collection\":null,\"budget\":26000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.dawnofthedeadmovie.net\/\",\"id\":924,\"imdb_id\":\"tt0363547\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Dawn of the Dead\",\"overview\":\"A group of survivors take refuge in a shopping mall after the world is taken over by aggressive, flesh-eating zombies.\",\"popularity\":76.971,\"poster_path\":\"\/fNw87FZ6u258qmbkNNjrPtGZuvB.jpg\",\"production_companies\":[{\"id\":572,\"logo_path\":null,\"name\":\"New Amsterdam Entertainment\",\"origin_country\":\"\"},{\"id\":655,\"logo_path\":null,\"name\":\"Strike Entertainment\",\"origin_country\":\"US\"},{\"id\":657,\"logo_path\":\"\/mDBPrBO6hl21KhQOzCVYUBo33zt.png\",\"name\":\"TOHO-TOWA\",\"origin_country\":\"JP\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":9995,\"logo_path\":\"\/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png\",\"name\":\"Cruel \\u0026 Unusual Films\",\"origin_country\":\"US\"},{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":16419,\"logo_path\":\"\/8ppVamMu9jnA72kOi4e9grvx6Ex.png\",\"name\":\"Metropolitan Filmexport\",\"origin_country\":\"FR\"},{\"id\":830,\"logo_path\":null,\"name\":\"Senator International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-03-19\",\"revenue\":102278712,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When there's no more room in Hell, the dead will walk the Earth.\",\"title\":\"Dawn of the Dead\",\"video\":false,\"vote_average\":7.058,\"vote_count\":3878}"
+}

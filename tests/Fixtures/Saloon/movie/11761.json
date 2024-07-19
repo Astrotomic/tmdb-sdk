@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1402",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6357",
+        "x-memc": "HIT",
+        "x-memc-key": "28aa440356a838159648d1e78b16ca6d",
+        "x-memc-age": "22112",
+        "x-memc-expires": "6357",
+        "ETag": "W\/\"9229145646d6c00bc94a719d33f247c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SANvfhFVzyZb7VeXamzGkgBnbZP0laLvjbU10q6OnjpfC_ImadRYag=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xcVFSwhksFLvhrzDpRxhqzv781C.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.peacockthemovie.com\/\",\"id\":11761,\"imdb_id\":\"tt1188113\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Peacock\",\"overview\":\"A man with a split personality fools his small town into believing his two alter egos are a man and a wife, although a struggling young mother holds the key to his past and sparks a battle between the two personalities.\",\"popularity\":20.175,\"poster_path\":\"\/iEtrsxfNw9qmAeML3QSzOe0hrS0.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":771,\"logo_path\":null,\"name\":\"Mandate Pictures\",\"origin_country\":\"US\"},{\"id\":85885,\"logo_path\":\"\/oLbUgPkkTmlwGDUO4pYp2OtPkfG.png\",\"name\":\"Lionsgate Premiere\",\"origin_country\":\"US\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-04-20\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If he only knew what she was doing?\",\"title\":\"Peacock\",\"video\":false,\"vote_average\":6.168,\"vote_count\":223}"
+}

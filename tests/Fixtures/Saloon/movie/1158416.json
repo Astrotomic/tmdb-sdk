@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1384",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22382",
+        "x-memc": "HIT",
+        "x-memc-key": "465ef96c747d387b0b33bfb6cd999bb7",
+        "x-memc-age": "963",
+        "x-memc-expires": "22382",
+        "ETag": "W\/\"89fa45206874e7313fe1305f02993b1e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OIkjbshpY-N67X8dnbL_W_nnq3jJ7liRuXQfsVlP4Z3eTDfFuSIvkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aRaZsCMMYvN7KCQKdyntiEiyqF7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1158416,\"imdb_id\":\"tt22986716\",\"origin_country\":[\"BE\",\"FR\"],\"original_language\":\"fr\",\"original_title\":\"En attendant la nuit\",\"overview\":\"The day they move into a new neighborhood, the Feral family plans to look as normal and friendly as possible. But their son, Philemon, is no ordinary teenager. When he gets closer to his new neighbor, Camila, his thirst for blood grows and his difference becomes impossible to hide\u2026\",\"popularity\":10.235,\"poster_path\":\"\/6mcoRtBJZm7RmxWoaL1AbBxNEjJ.jpg\",\"production_companies\":[{\"id\":66180,\"logo_path\":null,\"name\":\"ElianeAntoinette\",\"origin_country\":\"FR\"},{\"id\":85486,\"logo_path\":null,\"name\":\"Reboot Films\",\"origin_country\":\"FR\"},{\"id\":152238,\"logo_path\":\"\/asq3ny2PPCcQOS0pxJhAgI5Ihht.png\",\"name\":\"Altitude100\",\"origin_country\":\"BE\"},{\"id\":171659,\"logo_path\":\"\/ha1f2fPtUQpNi7AUo80ie6EapXm.png\",\"name\":\"Tandem\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-06-05\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Waiting for the Night\",\"video\":false,\"vote_average\":5.909,\"vote_count\":11}"
+}

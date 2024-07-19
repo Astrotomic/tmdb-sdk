@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1395",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13762",
+        "x-memc": "HIT",
+        "x-memc-key": "0bf5e1653197361261248bab66ade0c5",
+        "x-memc-age": "13811",
+        "x-memc-expires": "13762",
+        "ETag": "W\/\"23912a6c973845919a86315b7f80a7ea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "69K9bzIT9knjB3nNHBOHG_RcyBQjipgEqAmCa9V41Jv0NHDtuMnctw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg\",\"belongs_to_collection\":null,\"budget\":29000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.newline.com\/properties\/notebookthe.html\",\"id\":11036,\"imdb_id\":\"tt0332280\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Notebook\",\"overview\":\"An epic love story centered around an older man who reads aloud to a woman with Alzheimer's. From a faded notebook, the old man's words bring to life the story about a couple who is separated by World War II, and is then passionately reunited, seven years later, after they have taken different paths.\",\"popularity\":79.015,\"poster_path\":\"\/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":1565,\"logo_path\":null,\"name\":\"Avery Pix\",\"origin_country\":\"US\"},{\"id\":2605,\"logo_path\":null,\"name\":\"Gran Via Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-06-25\",\"revenue\":115600000,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Behind every great love is a great story.\",\"title\":\"The Notebook\",\"video\":false,\"vote_average\":7.888,\"vote_count\":11231}"
+}

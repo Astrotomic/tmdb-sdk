@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1840",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7414",
+        "x-memc": "HIT",
+        "x-memc-key": "668fb36f17847af1dfc7784937660e58",
+        "x-memc-age": "19943",
+        "x-memc-expires": "7414",
+        "ETag": "W\/\"c4441896246ed912a55ec49e5ad135b3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zyOOuMNXhNq2UOOGyfOxoNRcTo85ZohZlrCmCSH-rBfXMWmBfKnPNg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lcLyZzhB1ctfdH0hGBsTFrbflqP.jpg\",\"belongs_to_collection\":{\"id\":149704,\"name\":\"Alone in the Dark Collection\",\"poster_path\":\"\/pCUq2wPTjmpRRTsatXWseAoMzyi.jpg\",\"backdrop_path\":\"\/uxhIfa4gqxh9rjGq3vPLoXjQLIY.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":12142,\"imdb_id\":\"tt0369226\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Alone in the Dark\",\"overview\":\"Edward Carnby is a private investigator specializing in unexplainable supernatural phenomena. His cases delve into the dark corners of the world, searching for truth in the occult remnants of ancient civilizations. Now, the greatest mystery of his past is about to become the most dangerous case he has ever faced.\",\"popularity\":15.383,\"poster_path\":\"\/bSxrbVCyWW077zhtpuYlo3zgyug.jpg\",\"production_companies\":[{\"id\":1062,\"logo_path\":null,\"name\":\"Boll Kino Beteiligungs GmbH \\u0026 Co. KG\",\"origin_country\":\"DE\"},{\"id\":1063,\"logo_path\":\"\/fpVBhNnopOZwGuF0gg99oBHp1ht.png\",\"name\":\"Brightlight Pictures\",\"origin_country\":\"CA\"},{\"id\":1064,\"logo_path\":null,\"name\":\"Herold Productions\",\"origin_country\":\"DE\"},{\"id\":2998,\"logo_path\":null,\"name\":\"Infogrames Entertainment\",\"origin_country\":\"FR\"},{\"id\":102932,\"logo_path\":null,\"name\":\"AITD Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-01-28\",\"revenue\":12693645,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Can mankind defeat the army of darkness unleashed by an ancient evil cult?\",\"title\":\"Alone in the Dark\",\"video\":false,\"vote_average\":3.247,\"vote_count\":589}"
+}

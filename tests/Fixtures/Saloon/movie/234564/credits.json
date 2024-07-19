@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1055",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8513",
+        "x-memc": "HIT",
+        "x-memc-key": "ea4c4bec287e35db4f6d9fcc07004952",
+        "x-memc-age": "16197",
+        "x-memc-expires": "8513",
+        "ETag": "W\/\"33ea25f7b928480d1989c03ffb060eb6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RCOcB1vHx6HF3VL7KOugwZsS7LWy6gs2kWoEGAubQZN_ckKdS0cm0Q=="
+    },
+    "data": "{\"id\":234564,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1363465,\"known_for_department\":\"Acting\",\"name\":\"Elsie McKendry\",\"original_name\":\"Elsie McKendry\",\"popularity\":0.006,\"profile_path\":null,\"cast_id\":3,\"character\":\"Children's Voices (voice)\",\"credit_id\":\"5413fdfd0e0a26199b001363\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1363466,\"known_for_department\":\"Acting\",\"name\":\"Brett Tobasky\",\"original_name\":\"Brett Tobasky\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Children's Voices (voice)\",\"credit_id\":\"5413fe11c3a3687dc1001387\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1270047,\"known_for_department\":\"Writing\",\"name\":\"Daniel Sousa\",\"original_name\":\"Daniel Sousa\",\"popularity\":0.461,\"profile_path\":null,\"credit_id\":\"52fe4e35c3a36847f8283df3\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":1270047,\"known_for_department\":\"Writing\",\"name\":\"Daniel Sousa\",\"original_name\":\"Daniel Sousa\",\"popularity\":0.461,\"profile_path\":null,\"credit_id\":\"52fe4e35c3a36847f8283ded\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

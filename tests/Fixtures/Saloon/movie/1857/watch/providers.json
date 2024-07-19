@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "824",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1986",
+        "x-memc": "HIT",
+        "x-memc-key": "b3f95393e55019ea7e49685fa85a3f9a",
+        "x-memc-age": "25481",
+        "x-memc-expires": "1986",
+        "ETag": "W\/\"dd4d39ae8e0f92c6b10c3257e3b92aae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AmzifW3yJyjxuVVGnX3HQnn5zvxU-XENVml7SZjdlw-gRmPYB21JnA=="
+    },
+    "data": "{\"id\":1857,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1857-the-transformers-the-movie\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/6AKbY2ayaEuH4zKg2prqoVQ9iaY.jpg\",\"provider_id\":130,\"provider_name\":\"Sky Store\",\"display_priority\":16}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1857-the-transformers-the-movie\/watch?locale=IE\",\"buy\":[{\"logo_path\":\"\/6AKbY2ayaEuH4zKg2prqoVQ9iaY.jpg\",\"provider_id\":130,\"provider_name\":\"Sky Store\",\"display_priority\":9}]},\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1857-the-transformers-the-movie\/watch?locale=NL\",\"buy\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}],\"rent\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}]}}}"
+}

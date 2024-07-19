@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2209",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4144",
+        "x-memc": "HIT",
+        "x-memc-key": "d5bfa8fc59f91a8b8298294136f0086a",
+        "x-memc-age": "17858",
+        "x-memc-expires": "4144",
+        "ETag": "W\/\"e4bfa99d31915a5ed5a846c2d61ef2a7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R8F2WDenRnujsZs6iv3vedap4pFBBxJUFuBqbJf3EHYNSLd2yIv5WA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a7V3ZXCDAk3P7GjpgfN0IInjh0r.jpg\",\"belongs_to_collection\":{\"id\":256322,\"name\":\"The Purge Collection\",\"poster_path\":\"\/kklRqw1Mp7xTnHm2ifmPNshGB4D.jpg\",\"backdrop_path\":\"\/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg\"},\"budget\":10000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.purgeelectionyear.com\",\"id\":316727,\"imdb_id\":\"tt4094724\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Purge: Election Year\",\"overview\":\"Two years after choosing not to kill the man who killed his son, former police sergeant Leo Barnes has become head of security for Senator Charlene Roan, the front runner in the next Presidential election due to her vow to eliminate the Purge. On the night of what should be the final Purge, a betrayal from within the government forces Barnes and Roan out onto the street where they must fight to survive the night.\",\"popularity\":80.621,\"poster_path\":\"\/dx5pKJpGbJc9xrFQ8UR1XrrqmPj.jpg\",\"production_companies\":[{\"id\":729,\"logo_path\":\"\/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png\",\"name\":\"Why Not Productions\",\"origin_country\":\"FR\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":2481,\"logo_path\":\"\/vOQg26GjR0LnkN1Ph9uyog1UuOE.png\",\"name\":\"Platinum Dunes\",\"origin_country\":\"US\"},{\"id\":141584,\"logo_path\":null,\"name\":\"Dentsu Entertainment\",\"origin_country\":\"US\"},{\"id\":3341,\"logo_path\":\"\/dTG5dXE1kU2mpmL9BNnraffckLU.png\",\"name\":\"Fuji Television Network\",\"origin_country\":\"JP\"},{\"id\":138783,\"logo_path\":\"\/dCzNhv0G1Gz4u5piPyJy6n3wYWU.png\",\"name\":\"Man In a Tree\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-29\",\"revenue\":118587880,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Keep America great\",\"title\":\"The Purge: Election Year\",\"video\":false,\"vote_average\":6.396,\"vote_count\":5130}"
+}

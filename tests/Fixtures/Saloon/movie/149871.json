@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1800",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21655",
+        "x-memc": "HIT",
+        "x-memc-key": "eb9c7755ce10b8cccf87ab20363d2690",
+        "x-memc-age": "4585",
+        "x-memc-expires": "21655",
+        "ETag": "W\/\"e73531eec5fcecc87fd5071d71a88dd0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BAHmm2kH467K6k4Rt3YHo947rLbFyQa0tm4xUtmmLTtJ9gyzbimUQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/imUJOrtNf8EWameChpaRLXSaX4w.jpg\",\"belongs_to_collection\":null,\"budget\":49300000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/gkids.com\/films\/the-tale-of-the-princess-kaguya\/\",\"id\":149871,\"imdb_id\":\"tt2576852\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u304b\u3050\u3084\u59eb\u306e\u7269\u8a9e\",\"overview\":\"Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.\",\"popularity\":52.629,\"poster_path\":\"\/cQidJuA546OSSXKWXoiCeINDxuj.jpg\",\"production_companies\":[{\"id\":10342,\"logo_path\":\"\/eS79pslnoKbWg7t3PMA9ayl0bGs.png\",\"name\":\"Studio Ghibli\",\"origin_country\":\"JP\"},{\"id\":11846,\"logo_path\":\"\/es3LvDA6wLWVDvZnAYYuAT6x8lJ.png\",\"name\":\"Hakuhodo DY Media Partners\",\"origin_country\":\"JP\"},{\"id\":11848,\"logo_path\":\"\/A3abKfh7dXwPdXJc3A551q8XnOC.png\",\"name\":\"KDDI\",\"origin_country\":\"JP\"},{\"id\":20191,\"logo_path\":null,\"name\":\"Mitsubishi Shoji\",\"origin_country\":\"\"},{\"id\":6755,\"logo_path\":\"\/c0ENH8QeZLvCACpzCpwvYMy2SDr.png\",\"name\":\"Nippon Television Network Corporation\",\"origin_country\":\"JP\"},{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":28086,\"logo_path\":null,\"name\":\"T2 Studio\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2013-11-23\",\"revenue\":24366656,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"A princess's crime and punishment.\",\"title\":\"The Tale of The Princess Kaguya\",\"video\":false,\"vote_average\":8.076,\"vote_count\":1701}"
+}

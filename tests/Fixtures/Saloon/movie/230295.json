@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1033",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25512",
+        "x-memc": "HIT",
+        "x-memc-key": "2b681aca3406d28966b323c1be9f1fc4",
+        "x-memc-age": "2621",
+        "x-memc-expires": "25512",
+        "ETag": "W\/\"8aae602c705b77bbddaf27c18154465d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u0RPisyyVAzAI6P16NBpDHus_TQMkNSETmctRGXtxfPhJ0GqzLJkrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2wvbJHNigmBJjJMiYi04Ra2L9g2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":230295,\"imdb_id\":\"tt0223490\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Hur som helst \u00e4r han j\u00e4vligt d\u00f6d\",\"overview\":\"Two men meet in a detached house in the Stockholm archipelago to write a play, hunt roe dear and relax in a sauna. But a tabloid got a news story about the authors and sends a journalist to take photographs and bug their conversations.\",\"popularity\":2.421,\"poster_path\":\"\/vaPysi2CVehwcRDLvjUzgCdmdpy.jpg\",\"production_companies\":[{\"id\":17806,\"logo_path\":null,\"name\":\"LB Film \\u0026 Video\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2000-08-31\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Anyway, He's Definitely Dead\",\"video\":false,\"vote_average\":4.0,\"vote_count\":4}"
+}

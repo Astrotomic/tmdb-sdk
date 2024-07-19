@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1696",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17216",
+        "x-memc": "HIT",
+        "x-memc-key": "edec57731b655d458ee186acbb21ef21",
+        "x-memc-age": "8390",
+        "x-memc-expires": "17216",
+        "ETag": "W\/\"d581ef6feb564ac6dc4ed31795c1c6b6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xJkOdaYktGGyE8KgD8vMXl3DyBwpR3AxJ1HhpQr5kT_o4stJpySv6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9hWiNbvLR3nPDanTdEWOc4EeBGp.jpg\",\"belongs_to_collection\":null,\"budget\":560000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":704,\"imdb_id\":\"tt0058182\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"A Hard Day's Night\",\"overview\":\"Capturing John Lennon, Paul McCartney, George Harrison and Ringo Starr in their electrifying element, 'A Hard Day's Night' is a wildly irreverent journey through this pastiche of a day in the life of The Beatles during 1964. The band have to use all their guile and wit to avoid the pursuing fans and press to reach their scheduled television performance, in spite of Paul's troublemaking grandfather and Ringo's arrest.\",\"popularity\":18.035,\"poster_path\":\"\/6Ulsccp2VkaVU5qbya3bxm9JG4x.jpg\",\"production_companies\":[{\"id\":413,\"logo_path\":null,\"name\":\"Proscenium Films\",\"origin_country\":\"\"},{\"id\":3462,\"logo_path\":null,\"name\":\"Walter Shenson Films\",\"origin_country\":\"\"},{\"id\":11506,\"logo_path\":null,\"name\":\"Maljack Productions\",\"origin_country\":\"\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1964-07-07\",\"revenue\":11000000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Beatles, starring in their first full-length, hilarious, action-packed film!\",\"title\":\"A Hard Day's Night\",\"video\":false,\"vote_average\":7.4,\"vote_count\":648}"
+}

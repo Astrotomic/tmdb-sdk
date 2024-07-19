@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1009",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12818",
+        "x-memc": "HIT",
+        "x-memc-key": "22771582ebdb18c196724b938633c6e2",
+        "x-memc-age": "12660",
+        "x-memc-expires": "12818",
+        "ETag": "W\/\"a26eba425d20cc9b00abdcbf7bd76ea1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HsEmOx8XBeAi41x4a6BEr8hKFs-h7jndD8B1tRsRUZoYpbALbpJl1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sZmK1Gh5Y6oomDPLYlsv4JPoJFc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":705387,\"imdb_id\":\"tt12317522\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Live Forever\",\"overview\":\"A musical love letter and tribute to the victims in horror films that didn\u2019t make it to the sequel. In an anthemic song the dead unite across genres and time.\",\"popularity\":1.743,\"poster_path\":\"\/2vdsvoLg2zoqqY1LIKoBoFpo3nm.jpg\",\"production_companies\":[{\"id\":159294,\"logo_path\":null,\"name\":\"Film de Libert\u00e9\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2020-03-07\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Why Did They All Have To Die?\",\"title\":\"Live Forever\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

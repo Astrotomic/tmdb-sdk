@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1406",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17470",
+        "x-memc": "HIT",
+        "x-memc-key": "b5140fff40b34a34e10e7f4c910fd2a3",
+        "x-memc-age": "6835",
+        "x-memc-expires": "17470",
+        "ETag": "W\/\"ffcfb4e6b102060aac25b31a8e539562\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0iU1Udtn_HCTDBfV2WcGOr18BNYrNh1qmIafngstL1lkzp_DaxaTrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9QusGjxcYvfPD1THg6oW3RLeNn7.jpg\",\"belongs_to_collection\":{\"id\":573693,\"name\":\"Aquaman Collection\",\"poster_path\":\"\/rNQompSTfAG5O2iXSH8Phay4L45.jpg\",\"backdrop_path\":\"\/5iidzov8DrsSyZdefeo7jBLDNUW.jpg\"},\"budget\":160000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/aquaman\",\"id\":297802,\"imdb_id\":\"tt1477834\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Aquaman\",\"overview\":\"Half-human, half-Atlantean Arthur Curry is taken on the journey of his lifetime to discover if he is worth of being a king.\",\"popularity\":59.236,\"poster_path\":\"\/zdw7Wf97vsQ0YnGomxDqfcEdUjX.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":11565,\"logo_path\":\"\/S74cHHbIrdmb5M51Pft72Uo9Gz.png\",\"name\":\"The Safran Company\",\"origin_country\":\"US\"},{\"id\":128064,\"logo_path\":\"\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png\",\"name\":\"DC Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-12-07\",\"revenue\":1152028393,\"runtime\":143,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Home is calling.\",\"title\":\"Aquaman\",\"video\":false,\"vote_average\":6.895,\"vote_count\":13816}"
+}

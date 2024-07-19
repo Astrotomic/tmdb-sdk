@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1143",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25771",
+        "x-memc": "HIT",
+        "x-memc-key": "076030ba62417a7ad56a6b66449bf0c5",
+        "x-memc-age": "2940",
+        "x-memc-expires": "25771",
+        "ETag": "W\/\"a690ab64a8271bb07123329cc78b23d8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yhdxlIDanltbWFsteJ5BpDW7qApLn4xhRJw_QZ6PNrgxRLm276Fy-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3DW3xHM7FgdE8XzpODbEfvlR9qR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":899,\"imdb_id\":\"tt0009968\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Broken Blossoms\",\"overview\":\"The love story of an abused English girl and a Chinese Buddhist in a time when London was a brutal and harsh place to live.\",\"popularity\":12.238,\"poster_path\":\"\/l9rHRp7Yb2PVy5Qd5wUR9coXZoy.jpg\",\"production_companies\":[{\"id\":4759,\"logo_path\":null,\"name\":\"D.W. Griffith Productions\",\"origin_country\":\"US\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1919-05-13\",\"revenue\":2400000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"A Tale of Forbidden Love\",\"title\":\"Broken Blossoms\",\"video\":false,\"vote_average\":6.9,\"vote_count\":211}"
+}

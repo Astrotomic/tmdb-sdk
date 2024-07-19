@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1408",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10342",
+        "x-memc": "HIT",
+        "x-memc-key": "0e63bdbd95c07a01bc317005c54b0508",
+        "x-memc-age": "17445",
+        "x-memc-expires": "10342",
+        "ETag": "W\/\"65d4bb4dfd008befb9c4c85558b39536\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WoPRFUucLwkdgsDlvYJ1qhSr3s_uKsV7279NuZSvjs6SR6H909VeQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/f5om3g9gCPscPhIz1Aky0oy7LqX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":550172,\"imdb_id\":\"tt6905442\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"High Voltage\",\"overview\":\"An emerging rock band, managed by industry vet Jimmy Kleen, strike a deal with record executive Rick Roland. Things take a sinister turn when the band's lead singer, Rachel, and her mother Barb are struck by lightning and killed. Rachel is brought back to life, but she is different than before. Lightning courses through her veins and she uses her new strange electrical powers to drain the life from men, turning it into electrifying stage performances, but just how far are the band willing to go to make it.\",\"popularity\":5.476,\"poster_path\":\"\/44TEBlWUctxG9K3T1niiLdBINSx.jpg\",\"production_companies\":[{\"id\":111921,\"logo_path\":null,\"name\":\"SP Releasing\",\"origin_country\":\"\"},{\"id\":111922,\"logo_path\":null,\"name\":\"Echo Bridge\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-10-19\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Revenge is worth dying for\",\"title\":\"High Voltage\",\"video\":false,\"vote_average\":4.8,\"vote_count\":14}"
+}

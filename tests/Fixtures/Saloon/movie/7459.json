@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1787",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22432",
+        "x-memc": "HIT",
+        "x-memc-key": "a070408b5458d401636093c1b1d1c3f2",
+        "x-memc-age": "1453",
+        "x-memc-expires": "22432",
+        "ETag": "W\/\"fbe3dba2878add33d76c78bb0d524ac0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LjMDLc9dkN6SWEPuO3o4IEtFQKLAfLrBm4y62oP_1vwAgamSRcB-IQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kH14XvCHKfMRz1sNsAMY0KpAKb0.jpg\",\"belongs_to_collection\":null,\"budget\":120000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.speedracerthemovie.warnerbros.com\/\",\"id\":7459,\"imdb_id\":\"tt0811080\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Speed Racer\",\"overview\":\"Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.\",\"popularity\":28.753,\"poster_path\":\"\/x800OyHuJ9JDuhHLtdPLkH1vBjw.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":450,\"logo_path\":null,\"name\":\"Anarchos Productions\",\"origin_country\":\"US\"},{\"id\":12170,\"logo_path\":null,\"name\":\"Velocity Productions\",\"origin_country\":\"GB\"},{\"id\":264,\"logo_path\":\"\/fA90qwUKgPhMONqtwY60GaHRyrW.png\",\"name\":\"Studio Babelsberg\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-05-07\",\"revenue\":93900000,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A world built for speed.\",\"title\":\"Speed Racer\",\"video\":false,\"vote_average\":6.265,\"vote_count\":1498}"
+}

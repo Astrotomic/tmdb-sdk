@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1331",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6352",
+        "x-memc": "HIT",
+        "x-memc-key": "a84820f49b285ffec84d2162ebd9db0e",
+        "x-memc-age": "16404",
+        "x-memc-expires": "6352",
+        "ETag": "W\/\"20209a70c077cff90a29b6bc78f0b9d1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "v-qaXGmt07j_9SCO_272XMyATDDlkEvWQZWcZmmnOF_Efq75QdzbOw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":20000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":221972,\"imdb_id\":\"tt1185234\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Caregiver\",\"overview\":\"When Paige Hopkins begins working at a halfway house for degenerate teenage girls, she believes that her syrupy sweet disposition is just what the girls need to find their path to redemption. But these hardened street girls show Paige that she couldn't be more out of place. So Paige quickly adapts to their ways - which includes beatings, torture and even murder - all delivered with a smile. Gradually, it becomes clear that she may be more troubled than any of her charges. Written by Brain Damage Films\",\"popularity\":2.679,\"poster_path\":\"\/kkq73Bn2oO3nsHkJVbdDS1gCz5V.jpg\",\"production_companies\":[{\"id\":4708,\"logo_path\":\"\/k1zjOZ0GIZ1dxGerINlXC3lGAqh.png\",\"name\":\"Brain Damage Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-04\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She kills with kindness\",\"title\":\"Caregiver\",\"video\":false,\"vote_average\":2.0,\"vote_count\":3}"
+}

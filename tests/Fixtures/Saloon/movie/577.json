@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1357",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20721",
+        "x-memc": "HIT",
+        "x-memc-key": "e00ef8885f7eb2548035a926c0542b87",
+        "x-memc-age": "5213",
+        "x-memc-expires": "20721",
+        "ETag": "W\/\"097fbc17d30b71b6251189f8914303a0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "g2yQ6YAUo1vr2yUwoD3Zg-fDoJW2Ix9SvPHJKxgTL-V57z_EGW1hcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sYjMTf2TPSDp90NXACZZT7ksFAz.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":577,\"imdb_id\":\"tt0114681\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"To Die For\",\"overview\":\"Suzanne Stone wants to be a world-famous news anchor and she is willing to do anything to get what she wants. What she lacks in intelligence, she makes up for in cold determination and diabolical wiles. As she pursues her goal with relentless focus, she is forced to destroy anything and anyone that may stand in her way, regardless of the ultimate cost or means necessary.\",\"popularity\":22.424,\"poster_path\":\"\/bEY2XKUlCY03KA7XT59W2OPCGZm.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":326,\"logo_path\":null,\"name\":\"Laura Ziskin Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-09-22\",\"revenue\":21300000,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"All she wanted was a little attention.\",\"title\":\"To Die For\",\"video\":false,\"vote_average\":6.6,\"vote_count\":753}"
+}

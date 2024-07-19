@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1405",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28360",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "f9d0959bbc30f6a21fcceea0f6b048cf",
+        "x-memc-age": "0",
+        "x-memc-expires": "28360",
+        "ETag": "W\/\"9dc8f450db196a6c77b70469ea40d4da\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c5mT3Ug_2C7nwG9RX_Yc07bZcsxB2u7Pgu1-dK29aRNlzCtX9yZHOw=="
+    },
+    "data": "{\"id\":1020496,\"results\":{\"HK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1020496-collarxmalice-deep-cover\/watch?locale=HK\",\"ads\":[{\"logo_path\":\"\/r9rEesXJjzY8sH3NLqNdkPdZ714.jpg\",\"provider_id\":624,\"provider_name\":\"KKTV\",\"display_priority\":33},{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":34}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1020496-collarxmalice-deep-cover\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1020496-collarxmalice-deep-cover\/watch?locale=TW\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"ads\":[{\"logo_path\":\"\/r9rEesXJjzY8sH3NLqNdkPdZ714.jpg\",\"provider_id\":624,\"provider_name\":\"KKTV\",\"display_priority\":34},{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":35}],\"flatrate\":[{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}]}}}"
+}

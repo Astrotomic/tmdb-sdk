@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1532",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14697",
+        "x-memc": "HIT",
+        "x-memc-key": "c76dc34a305b9fa1b45ea2dbc0009f79",
+        "x-memc-age": "11433",
+        "x-memc-expires": "14697",
+        "ETag": "W\/\"95acc37e9750be9ee10680459e994913\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Gg-9-9qD-HNkHWOhX02BjWmKbR2a1l9d98Owc3M3xrAiL3jYzSyPrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e7PNkfrcy4EYIM4QxH3CCifXSTF.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.warnerbros.com\/bucket-list\",\"id\":7350,\"imdb_id\":\"tt0825232\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Bucket List\",\"overview\":\"Corporate billionaire Edward Cole and working class mechanic Carter Chambers are worlds apart. At a crossroads in their lives, they share a hospital room and discover they have two things in common: a desire to spend the time they have left doing everything they ever wanted to do and an unrealized need to come to terms with who they are. Together they embark on the road trip of a lifetime, becoming friends along the way and learning to live life to the fullest, with insight and humor.\",\"popularity\":28.037,\"poster_path\":\"\/idbNSe8zsYKQL97dJApfOrDSdya.jpg\",\"production_companies\":[{\"id\":17049,\"logo_path\":null,\"name\":\"Two Ton Films\",\"origin_country\":\"\"},{\"id\":70994,\"logo_path\":null,\"name\":\"Zadan \/ Meron Productions\",\"origin_country\":\"\"},{\"id\":86256,\"logo_path\":null,\"name\":\"Reiner \/ Greisman Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-25\",\"revenue\":175400000,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Find the joy.\",\"title\":\"The Bucket List\",\"video\":false,\"vote_average\":7.18,\"vote_count\":3668}"
+}

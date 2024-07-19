@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1212",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21006",
+        "x-memc": "HIT",
+        "x-memc-key": "b0d2baf1ab1410dc7b136748a61eb1b9",
+        "x-memc-age": "5968",
+        "x-memc-expires": "21006",
+        "ETag": "W\/\"35c9380a642d392e09309f0e3bbba021\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YyifBc1UweTQhRGDmNE_ToAUQzo7ljEm76dSawJ4SyzpciiqeY2ANw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":391349,\"imdb_id\":\"tt0034190\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sing Another Chorus\",\"overview\":\"In this musical, an idealistic college graduate is bitten by the show business bug after he finds success writing and producing the campus variety show. Wanting to launch his career, he convinces his father to allow him to create a production using the workers at the old man's clothing factory. Unfortunately, the young man is naive and an unscrupulous producer bilks his father's advance money from him.\",\"popularity\":2.226,\"poster_path\":null,\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-09-19\",\"revenue\":0,\"runtime\":64,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"HERE'S A TUNEFUL LOVE-IN-BLOOMFUL JOY JAMBOREE!\",\"title\":\"Sing Another Chorus\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

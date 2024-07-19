@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2561",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7500",
+        "x-memc": "HIT",
+        "x-memc-key": "88c4a9b654b33db6bda79213d15f9508",
+        "x-memc-age": "20244",
+        "x-memc-expires": "7500",
+        "ETag": "W\/\"5aead44720115de7807382004edef99a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1xxEODcLO7_CDBvSgyOyCqKBGoNKmXD78CroxHkWha9nAB92Cns7dw=="
+    },
+    "data": "{\"id\":705652,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":2643228,\"known_for_department\":\"Acting\",\"name\":\"Paula Salamanca\",\"original_name\":\"Paula Salamanca\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Camila\",\"credit_id\":\"5ec230a5cdf2e600214f6560\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2643229,\"known_for_department\":\"Acting\",\"name\":\"Marianne Serra\",\"original_name\":\"Marianne Serra\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Paula\",\"credit_id\":\"5ec230c34e52ed001f3806f1\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2643234,\"known_for_department\":\"Camera\",\"name\":\"Carlos Mu\u00f1\u00f3z\",\"original_name\":\"Carlos Mu\u00f1\u00f3z\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec2314728723c002146f4fb\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":0,\"id\":2643232,\"known_for_department\":\"Production\",\"name\":\"Mauricio Ca\u00f1\u00f3n\",\"original_name\":\"Mauricio Ca\u00f1\u00f3n\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec2311f3d3557001ee7b590\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":2643230,\"known_for_department\":\"Directing\",\"name\":\"Santiago Guevara\",\"original_name\":\"Santiago Guevara\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec230e13d3557001ce3d8e5\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2643230,\"known_for_department\":\"Directing\",\"name\":\"Santiago Guevara\",\"original_name\":\"Santiago Guevara\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec231814e52ed002037af26\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":2643230,\"known_for_department\":\"Directing\",\"name\":\"Santiago Guevara\",\"original_name\":\"Santiago Guevara\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec230f84e52ed001f38077b\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":2643235,\"known_for_department\":\"Art\",\"name\":\"Jessica Sierra\",\"original_name\":\"Jessica Sierra\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec2315c28723c002047f211\",\"department\":\"Art\",\"job\":\"Art Designer\"},{\"adult\":false,\"gender\":0,\"id\":2643230,\"known_for_department\":\"Directing\",\"name\":\"Santiago Guevara\",\"original_name\":\"Santiago Guevara\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec231e7cdf2e600204fb432\",\"department\":\"Sound\",\"job\":\"Sound Designer\"},{\"adult\":false,\"gender\":0,\"id\":2643235,\"known_for_department\":\"Art\",\"name\":\"Jessica Sierra\",\"original_name\":\"Jessica Sierra\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec23217d2147c0021b31410\",\"department\":\"Sound\",\"job\":\"Sound Director\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1887",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9734",
+        "x-memc": "HIT",
+        "x-memc-key": "bbb9d270aea26b953de2404258b2be9c",
+        "x-memc-age": "12219",
+        "x-memc-expires": "9734",
+        "ETag": "W\/\"c37c12fa52ad53d3673f8e1c455cee22\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "l0lkBQORtrmJGfL8v7uO3OHYHaHjUntsyqzQVQ4BSWHiNylVuWtbqg=="
+    },
+    "data": "{\"id\":858532,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":25035,\"known_for_department\":\"Acting\",\"name\":\"Maurice Aufair\",\"original_name\":\"Maurice Aufair\",\"popularity\":6.202,\"profile_path\":\"\/hS8hyGcrscFGQrnOUQFueOZPJMX.jpg\",\"cast_id\":1,\"character\":\"Le grand-p\u00e8re\",\"credit_id\":\"610d31957719d70045798741\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3188457,\"known_for_department\":\"Acting\",\"name\":\"Dan Queroub\",\"original_name\":\"Dan Queroub\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"L'enfant\",\"credit_id\":\"610d31a4dcf87500485d8967\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3188458,\"known_for_department\":\"Acting\",\"name\":\"Marie-Claire Dewarrat\",\"original_name\":\"Marie-Claire Dewarrat\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"La grand-m\u00e8re\",\"credit_id\":\"610d31b6dcf875006072d187\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":3188459,\"known_for_department\":\"Acting\",\"name\":\"Ylana Queroub\",\"original_name\":\"Ylana Queroub\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"La m\u00e8re\",\"credit_id\":\"610d31c538469a00724ce039\",\"order\":3}],\"crew\":[{\"adult\":true,\"gender\":2,\"id\":3188201,\"known_for_department\":\"Directing\",\"name\":\"dcpa.Christophe-Philippe\",\"original_name\":\"dcpa.Christophe-Philippe\",\"popularity\":0.6,\"profile_path\":\"\/rAWWc97A6hSfZiyR5F7bx3tvafl.jpg\",\"credit_id\":\"610d31e1f6fd18002dfe6b94\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":true,\"gender\":0,\"id\":3188202,\"known_for_department\":\"Crew\",\"name\":\"Didier De Giorgi\",\"original_name\":\"Didier De Giorgi\",\"popularity\":0.6,\"profile_path\":null,\"credit_id\":\"610d31f65a4690008049b8db\",\"department\":\"Crew\",\"job\":\"Compositor\"},{\"adult\":false,\"gender\":0,\"id\":2209347,\"known_for_department\":\"Writing\",\"name\":\"Christophe Chabout\u00e9\",\"original_name\":\"Christophe Chabout\u00e9\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"610d324fdcf87500303e4d55\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

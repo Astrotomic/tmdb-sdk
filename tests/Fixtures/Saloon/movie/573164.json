@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1333",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:31:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21522",
+        "x-memc": "HIT",
+        "x-memc-key": "dc9fd97e5aec723dad150ceaeb9cb66e",
+        "x-memc-age": "4271",
+        "x-memc-expires": "21522",
+        "ETag": "W\/\"9e8c92c96bdeaf1cfeb9182a50e3a944\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "klOJQPMP4K_UoYysUgX-g5i0je5ZewS-qnsAcVN0-zoE8Hf7Yq7P9A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sIMyHMcbFR1jeQ8OC1Y2b93EhXN.jpg\",\"belongs_to_collection\":{\"id\":483535,\"name\":\"Huevos - Collection\",\"poster_path\":\"\/8HgFimfu8zkJ7NbA5LB0IOdknJA.jpg\",\"backdrop_path\":\"\/gzIxxusMXfPiXLR4179HXEppsYx.jpg\"},\"budget\":6400000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":573164,\"imdb_id\":\"tt8049994\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Un rescate de huevitos\",\"overview\":\"Toto and his friends must rescue his egg children after they're taken away for a gourmet food event in Africa.\",\"popularity\":20.663,\"poster_path\":\"\/7he8glf7j41d3amgf4Nbpt3HVq1.jpg\",\"production_companies\":[{\"id\":58366,\"logo_path\":\"\/iu0HfKm2Xh3fnTB0OK3ygoUE4VY.png\",\"name\":\"Huevocartoon Producciones\",\"origin_country\":\"MX\"},{\"id\":7570,\"logo_path\":\"\/gW8dfVtl1JsGIiLnvglea1OHHVr.png\",\"name\":\"Videocine\",\"origin_country\":\"MX\"},{\"id\":74139,\"logo_path\":null,\"name\":\"EFICINE 189\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2021-08-12\",\"revenue\":4093345,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"An Egg Rescue\",\"video\":false,\"vote_average\":7.851,\"vote_count\":399}"
+}

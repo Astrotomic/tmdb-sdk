@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "954",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7704",
+        "x-memc": "HIT",
+        "x-memc-key": "752e9288df0a055ad36080d0463629af",
+        "x-memc-age": "19660",
+        "x-memc-expires": "7704",
+        "ETag": "W\/\"97476ee1ad4a0319014821a9c85d5edb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "S8WmEHZTjymr7jCpQT6UEno-oiLW-_M5T_Szt2EPZjHq-rMAZi5rKw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/d8y4XvVNJNNAT51bI7ES3eFUtnk.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":226251,\"imdb_id\":\"tt0102174\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jumpin' at the Boneyard\",\"overview\":\"Manny tries to get his crack addict brother, Danny, to clean up.\",\"popularity\":7.013,\"poster_path\":\"\/zsfmHzlblEOC9iU0oNB99YtIEpj.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-11-01\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Brothers don't always love each other but sometimes they have to.\",\"title\":\"Jumpin' at the Boneyard\",\"video\":false,\"vote_average\":6.4,\"vote_count\":11}"
+}

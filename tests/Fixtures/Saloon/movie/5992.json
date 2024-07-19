@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1479",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6151",
+        "x-memc": "HIT",
+        "x-memc-key": "77a27521a3df0fc77ff069398341d301",
+        "x-memc-age": "16347",
+        "x-memc-expires": "6151",
+        "ETag": "W\/\"0d0731340acf38317ee0c611f692b684\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qyz811qxGr9tTiuBoXHI8ey9h8vK3-eCL1lm4_YtpvUkOrGBZoSoeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/koHortEXdZGrtQiqIsneTPO8Skz.jpg\",\"belongs_to_collection\":{\"id\":646041,\"name\":\"Willi Filmreihe\",\"poster_path\":\"\/lhRsHASSNGZOuy5EusKbFZWRUr1.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":5992,\"imdb_id\":\"tt0065614\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das kann doch unsren Willi nicht ersch\u00fcttern\",\"overview\":\"Summer in Germany, anno 1970. Italy is the number one destination. As every year, swarms of Teutonic tourists make their way to the Adriatic Sea. Only Willi Hirsekorn from Castrop-Rauxel has so far no plans to break south. That changes, however, as the bitchy neighbor Mizzi Buntje proudly tells of their upcoming holiday in Italy. Willi can not afford this boasting. Shortly determined, the bags are packed, and already rushes Willi in the car with his wife Sieglinde, daughter Lotti and son Kuno the sun.\",\"popularity\":6.409,\"poster_path\":\"\/vNECjYWQGKqu3XRVgYC4LD0h2Tn.jpg\",\"production_companies\":[{\"id\":619,\"logo_path\":null,\"name\":\"Terra-Filmkunst\",\"origin_country\":\"DE\"},{\"id\":1054,\"logo_path\":null,\"name\":\"Allianz\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1970-11-26\",\"revenue\":0,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"That Can't Shake Our Willi!\",\"video\":false,\"vote_average\":5.583,\"vote_count\":12}"
+}

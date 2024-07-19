@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1665",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20822",
+        "x-memc": "HIT",
+        "x-memc-key": "ed70359272e1b89d0766c73122d2c044",
+        "x-memc-age": "4581",
+        "x-memc-expires": "20822",
+        "ETag": "W\/\"69fa7874052914746c43989808192b24\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CXk5Ztzs4HpjTF-c1m_ntirM1aa7_BlQEFYGirhDKVxp9lexaSKrmw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rW2xRFlJRbTnBJlQTSjQmjevIwb.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":857,\"imdb_id\":\"tt0120815\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saving Private Ryan\",\"overview\":\"As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.\",\"popularity\":94.584,\"poster_path\":\"\/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":762,\"logo_path\":\"\/3T7EpKcS13viHu3WzRtQGvi9sTY.png\",\"name\":\"Mutual Film Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-07-24\",\"revenue\":481840909,\"runtime\":169,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The mission is a man.\",\"title\":\"Saving Private Ryan\",\"video\":false,\"vote_average\":8.217,\"vote_count\":15472}"
+}

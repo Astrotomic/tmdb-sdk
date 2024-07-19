@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1142",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5297",
+        "x-memc": "HIT",
+        "x-memc-key": "af8ba8d8b8cedf269074da3a37b92cca",
+        "x-memc-age": "22887",
+        "x-memc-expires": "5297",
+        "ETag": "W\/\"21e1d3f3bb9f2ce5564614c158aaca81\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3TYlcxu4DKgwA7JxYr1EiDK44zLsr5S4OLNvK_5YY6n1vKJ8pwHu-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pZv3qb5wK3h0kOUL2HOloYioAT9.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81156676\",\"id\":864959,\"imdb_id\":\"tt15289240\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Curse of Bridge Hollow\",\"overview\":\"A Halloween-hating dad reluctantly teams up with his teenage daughter when an evil spirit wreaks havoc by making their town's decorations come to life.\",\"popularity\":25.195,\"poster_path\":\"\/t6P9l6tcVnWLS1ADUAfkUCGQhm0.jpg\",\"production_companies\":[{\"id\":157300,\"logo_path\":\"\/yzZpFqfovEIH7ST0JCSpThJFrYy.png\",\"name\":\"Ugly Baby Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-10-14\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Halloween comes to life.\",\"title\":\"The Curse of Bridge Hollow\",\"video\":false,\"vote_average\":6.537,\"vote_count\":438}"
+}

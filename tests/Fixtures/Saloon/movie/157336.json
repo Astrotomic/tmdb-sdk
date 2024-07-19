@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1407",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13551",
+        "x-memc": "HIT",
+        "x-memc-key": "2ef89e85e5e279129937d60cbb9b35b9",
+        "x-memc-age": "8674",
+        "x-memc-expires": "13551",
+        "ETag": "W\/\"26daf3514d556d3aa7adeeaf925674e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DjK24r-9U7TZ6RhGsFFjZPPTHB77T6rh1xlmg9Y5Im_qKlXoQPXTdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xJHokMbljvjADYdit5fK5VQsXEG.jpg\",\"belongs_to_collection\":null,\"budget\":165000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.interstellarmovie.net\/\",\"id\":157336,\"imdb_id\":\"tt0816692\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Interstellar\",\"overview\":\"The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.\",\"popularity\":199.467,\"poster_path\":\"\/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg\",\"production_companies\":[{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"},{\"id\":9996,\"logo_path\":\"\/3tvBqYsBhxWeHlu62SIJ1el93O7.png\",\"name\":\"Syncopy\",\"origin_country\":\"GB\"},{\"id\":13769,\"logo_path\":null,\"name\":\"Lynda Obst Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-11-05\",\"revenue\":701729206,\"runtime\":169,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Mankind was born on Earth. It was never meant to die here.\",\"title\":\"Interstellar\",\"video\":false,\"vote_average\":8.437,\"vote_count\":34730}"
+}

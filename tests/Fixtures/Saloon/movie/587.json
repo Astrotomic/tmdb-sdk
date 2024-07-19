@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1449",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13077",
+        "x-memc": "HIT",
+        "x-memc-key": "29c36192f48e57527ae66ee330bcbc6c",
+        "x-memc-age": "8812",
+        "x-memc-expires": "13077",
+        "ETag": "W\/\"1c379cde710e88264613264689290506\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RikD3hnIDjsFBU_-PMbrqp87H-sRYZJ2s3PxIwoCPUfn8r4-V7mr0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bLqUd0tBvKezDr9MEla7k34i3rp.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":587,\"imdb_id\":\"tt0319061\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Big Fish\",\"overview\":\"Throughout his life Edward Bloom has always been a man of big appetites, enormous passions and tall tales. In his later years, he remains a huge mystery to his son, William. Now, to get to know the real man, Will begins piecing together a true picture of his father from flashbacks of his amazing adventures.\",\"popularity\":26.98,\"poster_path\":\"\/tjK063yCgaBAluVU72rZ6PKPH2l.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":80,\"logo_path\":null,\"name\":\"The Zanuck Company\",\"origin_country\":\"US\"},{\"id\":2721,\"logo_path\":null,\"name\":\"Jinks\/Cohen Company\",\"origin_country\":\"US\"},{\"id\":8601,\"logo_path\":null,\"name\":\"Tim Burton Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-12-25\",\"revenue\":123200000,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An adventure as big as life itself.\",\"title\":\"Big Fish\",\"video\":false,\"vote_average\":7.762,\"vote_count\":7026}"
+}

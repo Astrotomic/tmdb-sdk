@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "732",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8356",
+        "x-memc": "HIT",
+        "x-memc-key": "adf39b2acc6e52fac8eed5c501b44909",
+        "x-memc-age": "16091",
+        "x-memc-expires": "8356",
+        "ETag": "W\/\"1ecf1e28c29e536d49cec3dc821b3e66\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c5Ow6CFmWfYQjKVTKKSKLqdSxvNfnTAREZo7DSa0-7GHNReS-d2WtQ=="
+    },
+    "data": "{\"id\":24043,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24043-god-s-army-2-states-of-grace\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24043-god-s-army-2-states-of-grace\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

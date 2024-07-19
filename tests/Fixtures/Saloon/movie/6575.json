@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1324",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14369",
+        "x-memc": "HIT",
+        "x-memc-key": "1455bfb2076e3ad5548c08326f6e9282",
+        "x-memc-age": "14261",
+        "x-memc-expires": "14369",
+        "ETag": "W\/\"f5129e8a733eef1272b8758399459bb9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fp6iyJgKKoMIGgrFL_OiQXBDYTvp6O3ivbQ6OWbyaPeVnLX-d3HVvQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/axg73mVxiZcE9Pzynu2uj1TYIgj.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.walkhard-movie.com\/\",\"id\":6575,\"imdb_id\":\"tt0841046\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Walk Hard: The Dewey Cox Story\",\"overview\":\"Following a childhood tragedy, Dewey Cox follows a long and winding road to music stardom. Dewey perseveres through changing musical styles, an addiction to nearly every drug known and bouts of uncontrollable rage.\",\"popularity\":20.038,\"poster_path\":\"\/Aa1IQ4Cuin3d7qIahvPheMmR4E5.jpg\",\"production_companies\":[{\"id\":10105,\"logo_path\":\"\/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png\",\"name\":\"Apatow Productions\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-21\",\"revenue\":18317151,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Life made him tough. Love made him strong. Music made him hard.\",\"title\":\"Walk Hard: The Dewey Cox Story\",\"video\":false,\"vote_average\":6.581,\"vote_count\":650}"
+}

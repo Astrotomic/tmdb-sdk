@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1120",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5699",
+        "x-memc": "HIT",
+        "x-memc-key": "2f91569d562c8ba58b1583a361e7b27c",
+        "x-memc-age": "16645",
+        "x-memc-expires": "5699",
+        "ETag": "W\/\"cca771207f9e7659bb40be1b472c411f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y_DU6iQ_gxLQoc08IP0GBF9n3kJlWH9xLab3wBjz_82diktXfwHUGQ=="
+    },
+    "data": "{\"id\":1176570,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4265189,\"known_for_department\":\"Acting\",\"name\":\"Charles Sweeney Ortiz\",\"original_name\":\"Charles Sweeney Ortiz\",\"popularity\":0.004,\"profile_path\":null,\"cast_id\":1,\"character\":\"Hot Jesus\",\"credit_id\":\"64fec0b2db4ed61043085610\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":2170627,\"known_for_department\":\"Acting\",\"name\":\"Chloe Roe\",\"original_name\":\"Chloe Roe\",\"popularity\":1.231,\"profile_path\":\"\/edZi5HKoxI5pUXpeV1xLA4MSESG.jpg\",\"cast_id\":2,\"character\":\"Pike\",\"credit_id\":\"64fec0c1db4ed610363e35a7\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":3968440,\"known_for_department\":\"Production\",\"name\":\"Ann Myrna\",\"original_name\":\"Ann Myrna\",\"popularity\":0.014,\"profile_path\":null,\"cast_id\":3,\"character\":\"Stressed Out Mother\",\"credit_id\":\"64fec10cefea7a0137d19229\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":2545540,\"known_for_department\":\"Directing\",\"name\":\"Katie Madonna Lee\",\"original_name\":\"Katie Madonna Lee\",\"popularity\":1.031,\"profile_path\":\"\/kMrVtOHXB9pkVSUMlxOe1QCGJMF.jpg\",\"cast_id\":4,\"character\":\"Stuck Up Mom\",\"credit_id\":\"64fec11fe0ca7f010de95044\",\"order\":3}],\"crew\":[]}"
+}

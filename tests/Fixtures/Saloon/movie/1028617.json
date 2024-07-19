@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "988",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8337",
+        "x-memc": "HIT",
+        "x-memc-key": "734459ab1cf63775a6d1a855da939fad",
+        "x-memc-age": "20408",
+        "x-memc-expires": "8337",
+        "ETag": "W\/\"2e61cdd843513e07c4fa5aae56013020\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2q7a3mfEgsZLS0pswZPQ8A6QjD9bcmAwX0JZEAXiEqJI3uaUPLDX6g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1028617,\"imdb_id\":\"tt23787576\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Tomb of Frankenstein\",\"overview\":\"A strange old hermit uses witchcraft to give life to the Frankenstein monster. Will the creature be his instrument of revenge, or will it turn on its creator?\",\"popularity\":2.873,\"poster_path\":\"\/4OZXh5RNeEjq95S6VLCAckpMSrH.jpg\",\"production_companies\":[{\"id\":114083,\"logo_path\":null,\"name\":\"Gothic Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1964-01-01\",\"revenue\":0,\"runtime\":26,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Tomb of Frankenstein\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

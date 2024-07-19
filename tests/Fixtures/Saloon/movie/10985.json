@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1309",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7091",
+        "x-memc": "HIT",
+        "x-memc-key": "1c53f00c3c7bc45e0d1f40acc0c4d49b",
+        "x-memc-age": "17257",
+        "x-memc-expires": "7091",
+        "ETag": "W\/\"5d3e338c8a173c725835e24afecff631\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oBWRq0lwu8sMEaFBiTIC-REve-QcGh0PjKHHNzbtn98Azc11rvuqvg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6ZqUsZETugFWPmL11ukvYC7jqQD.jpg\",\"belongs_to_collection\":null,\"budget\":13000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.sonypictures.com\/movies\/thenewguy\/\",\"id\":10985,\"imdb_id\":\"tt0241760\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The New Guy\",\"overview\":\"Nerdy high school senior Dizzy Harrison has finally gotten lucky -- after purposely getting expelled, he takes lessons in 'badass cool' from a convict and enrolls at a new school. But can he keep up the ruse?\",\"popularity\":26.394,\"poster_path\":\"\/aekXSzkn3zry6aummMl7AU4rSa8.jpg\",\"production_companies\":[{\"id\":51753,\"logo_path\":null,\"name\":\"Bedlam Pictures\",\"origin_country\":\"US\"},{\"id\":497,\"logo_path\":\"\/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png\",\"name\":\"Revolution Studios\",\"origin_country\":\"US\"},{\"id\":11837,\"logo_path\":null,\"name\":\"Frontier Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-05-10\",\"revenue\":31200000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A zero will rise.\",\"title\":\"The New Guy\",\"video\":false,\"vote_average\":5.964,\"vote_count\":565}"
+}

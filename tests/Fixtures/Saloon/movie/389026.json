@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1306",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8011",
+        "x-memc": "HIT",
+        "x-memc-key": "69cb09b9873aded247b30bd89bf82c5e",
+        "x-memc-age": "16289",
+        "x-memc-expires": "8011",
+        "ETag": "W\/\"8cb97b2e145ea24190f464d8210b1a47\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BKN8fuCPJ0URd0MaGK68qXEc8ewA_GzSWKNi8T-cpWr9cNurHkxPdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":389026,\"imdb_id\":\"tt0067973\",\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Wezwanie\",\"overview\":\"A young farm boy spends his days dreaming and making totem-pole like sculptures out of wood. His brother is a go-getter: studies agricultural engineering, comes back with diploma to marry the pretty girl next door. The dreamer graces puts his sculptures around, invoking anger of his father and ridicule of the peasants who find him useless. During the brother's wedding he sets his totems ablaze. He makes a pass at his new sister-in-law, but returns to his own reveries. In the end he hears a call to bring a log out of the marshes, but during the escapade sinks into the bog.\",\"popularity\":2.131,\"poster_path\":\"\/n3H59D4lkXnbFh1KcyDD4jaORuy.jpg\",\"production_companies\":[{\"id\":115400,\"logo_path\":null,\"name\":\"Zesp\u00f3\u0142 Filmowy \\\"Wektor\\\"\",\"origin_country\":\"PL\"}],\"production_countries\":[{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"1971-03-20\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wezwanie\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

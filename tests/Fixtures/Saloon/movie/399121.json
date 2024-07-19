@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1778",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26195",
+        "x-memc": "HIT",
+        "x-memc-key": "874e31672dfa970104f7056766caf4e4",
+        "x-memc-age": "1035",
+        "x-memc-expires": "26195",
+        "ETag": "W\/\"5aed3c23d826b585fca8749f0f39d76e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JOzWc6wnutFJxILGaKbpq670ltZRfIEqm7K0tmPD-kEMIfSAjXsIqg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jArl1j9sL2mYjRW23EaZKWAr2E8.jpg\",\"belongs_to_collection\":null,\"budget\":25300000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":399121,\"imdb_id\":\"tt2398149\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"J'accuse\",\"overview\":\"In 1894, French Captain Alfred Dreyfus is wrongfully convicted of treason and sentenced to life imprisonment at the Devil\u2019s Island penal colony.\",\"popularity\":19.502,\"poster_path\":\"\/kqlzmKVBpGz7OMWfOXlK4y1m9Uz.jpg\",\"production_companies\":[{\"id\":81796,\"logo_path\":null,\"name\":\"ToMmY K. PICTURES\",\"origin_country\":\"\"},{\"id\":635,\"logo_path\":null,\"name\":\"Les Films Alain Sarde\",\"origin_country\":\"FR\"},{\"id\":355,\"logo_path\":null,\"name\":\"R.P. Productions\",\"origin_country\":\"FR\"},{\"id\":114788,\"logo_path\":\"\/qIARCGI6GCNqQsfomg3pr0au3T.png\",\"name\":\"\u00c8liseo Entertainment\",\"origin_country\":\"IT\"},{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"},{\"id\":591,\"logo_path\":\"\/q5I5RDwMEiqoNmfaJgd2LraEOJY.png\",\"name\":\"France 3 Cin\u00e9ma\",\"origin_country\":\"FR\"},{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"},{\"id\":11359,\"logo_path\":\"\/aqWJRi66t2oMPMmC60CdK9I3WQd.png\",\"name\":\"France 2\",\"origin_country\":\"FR\"},{\"id\":1583,\"logo_path\":\"\/6EFUenZrAK7IBbirooJ4ZLzJpJ5.png\",\"name\":\"RAI\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2019-09-30\",\"revenue\":18878646,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"An Officer and a Spy\",\"video\":false,\"vote_average\":7.075,\"vote_count\":1462}"
+}

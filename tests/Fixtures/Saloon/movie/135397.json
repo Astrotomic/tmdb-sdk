@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1397",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21677",
+        "x-memc": "HIT",
+        "x-memc-key": "bddfe60b71d2608afb5b90fcef7d0c41",
+        "x-memc-age": "1197",
+        "x-memc-expires": "21677",
+        "ETag": "W\/\"534d38c27b11a3f5413cddbaa9f3fa32\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M4qaAYVv_lxlEs7XlkZEtfUsKUU1fDNP3Um6ztJyAUKOrRF0Z0AhJw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dF6FjTZzRTENfB4R17HDN20jLT2.jpg\",\"belongs_to_collection\":{\"id\":328,\"name\":\"Jurassic Park Collection\",\"poster_path\":\"\/jcUXVtJ6s0NG0EaxllQCAUtqdr0.jpg\",\"backdrop_path\":\"\/njFixYzIxX8jsn6KMSEtAzi4avi.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.jurassicworld.com\/\",\"id\":135397,\"imdb_id\":\"tt0369610\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jurassic World\",\"overview\":\"Twenty-two years after the events of Jurassic Park, Isla Nublar now features a fully functioning dinosaur theme park, Jurassic World, as originally envisioned by John Hammond.\",\"popularity\":99.527,\"poster_path\":\"\/A0LZHXUzo5C60Oahvt7VxvwuzHw.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-06-06\",\"revenue\":1671537444,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The park is open.\",\"title\":\"Jurassic World\",\"video\":false,\"vote_average\":6.689,\"vote_count\":20052}"
+}

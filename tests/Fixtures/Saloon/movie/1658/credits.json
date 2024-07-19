@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1024",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:40:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20601",
+        "x-memc": "HIT",
+        "x-memc-key": "e9777b2c3c37d477c08f5828983172a1",
+        "x-memc-age": "4939",
+        "x-memc-expires": "20601",
+        "ETag": "W\/\"2fecbbb171386aa5f8d5428d5f12bd1f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qGhi04sIIItOl3_Wj9nirj9qI0-Rz6Bx1Q7s34eaLy7eXNSLd7bXWQ=="
+    },
+    "data": "{\"id\":1658,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":18428,\"known_for_department\":\"Directing\",\"name\":\"Malte Ludin\",\"original_name\":\"Malte Ludin\",\"popularity\":2.482,\"profile_path\":null,\"credit_id\":\"52fe4309c3a36847f8035bb1\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":18428,\"known_for_department\":\"Directing\",\"name\":\"Malte Ludin\",\"original_name\":\"Malte Ludin\",\"popularity\":2.482,\"profile_path\":null,\"credit_id\":\"52fe4309c3a36847f8035bbd\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":false,\"gender\":0,\"id\":18429,\"known_for_department\":\"Production\",\"name\":\"Iva Svarcov\u00e1\",\"original_name\":\"Iva Svarcov\u00e1\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"52fe4309c3a36847f8035bb7\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":18428,\"known_for_department\":\"Directing\",\"name\":\"Malte Ludin\",\"original_name\":\"Malte Ludin\",\"popularity\":2.482,\"profile_path\":null,\"credit_id\":\"52fe4309c3a36847f8035bc3\",\"department\":\"Camera\",\"job\":\"Director of Photography\"}]}"
+}

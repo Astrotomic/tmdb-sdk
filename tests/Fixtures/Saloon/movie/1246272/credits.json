@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1928",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:29:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2564",
+        "x-memc": "HIT",
+        "x-memc-key": "9ac8bd604bec3ab9d9ff43e26d6bd3ce",
+        "x-memc-age": "19710",
+        "x-memc-expires": "2564",
+        "ETag": "W\/\"3e030e5d32be750ac7fcc91fad4fab38\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zNmBf6lvNFdOCZiaIWRTpqwwtdmvq-ciHVWT4HtFBRJk5SfXntFSQg=="
+    },
+    "data": "{\"id\":1246272,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3767825,\"known_for_department\":\"Acting\",\"name\":\"Alvin Roth\",\"original_name\":\"Alvin Roth\",\"popularity\":0.001,\"profile_path\":\"\/vkmr3VFuVNH9VlSrnaSNECC6wR1.jpg\",\"cast_id\":1,\"character\":\"Unnamed\",\"credit_id\":\"65d0ee5269c70f018698c851\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":4542097,\"known_for_department\":\"Acting\",\"name\":\"Hampus Wers\u00e9n\",\"original_name\":\"Hampus Wers\u00e9n\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Therapist\/Tree\",\"credit_id\":\"65d0ee642dda890162dcfbc7\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":3767824,\"known_for_department\":\"Acting\",\"name\":\"Hannes Wers\u00e9n\",\"original_name\":\"Hannes Wers\u00e9n\",\"popularity\":0.001,\"profile_path\":\"\/edSnX2fEVrmkKz2Z0ISL6UlL83A.jpg\",\"credit_id\":\"65d0ee7afcb8cc017b4585f3\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":3767824,\"known_for_department\":\"Acting\",\"name\":\"Hannes Wers\u00e9n\",\"original_name\":\"Hannes Wers\u00e9n\",\"popularity\":0.001,\"profile_path\":\"\/edSnX2fEVrmkKz2Z0ISL6UlL83A.jpg\",\"credit_id\":\"65d0ee87e6271901627122f5\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":3767824,\"known_for_department\":\"Acting\",\"name\":\"Hannes Wers\u00e9n\",\"original_name\":\"Hannes Wers\u00e9n\",\"popularity\":0.001,\"profile_path\":\"\/edSnX2fEVrmkKz2Z0ISL6UlL83A.jpg\",\"credit_id\":\"65d0ee9320ecaf01632f03b4\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":3767824,\"known_for_department\":\"Acting\",\"name\":\"Hannes Wers\u00e9n\",\"original_name\":\"Hannes Wers\u00e9n\",\"popularity\":0.001,\"profile_path\":\"\/edSnX2fEVrmkKz2Z0ISL6UlL83A.jpg\",\"credit_id\":\"65d0eea1e62719016271230e\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":0,\"id\":4542097,\"known_for_department\":\"Acting\",\"name\":\"Hampus Wers\u00e9n\",\"original_name\":\"Hampus Wers\u00e9n\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65d0eead69c70f018698c895\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

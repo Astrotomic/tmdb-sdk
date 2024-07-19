@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1743",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20739",
+        "x-memc": "HIT",
+        "x-memc-key": "5966ceadab6fd90a65c85596491fd552",
+        "x-memc-age": "873",
+        "x-memc-expires": "20739",
+        "ETag": "W\/\"480f56c450a858363f6e5119ae7321db\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xhByk6y7O9q0GRwKS7Z7XVUcDddkeUtrhaVCGWco-wDS4moTLmpMww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iZScbVabDDKlQteQc8dIyqXMDz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":222041,\"imdb_id\":\"tt0154003\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Adventures of Young Indiana Jones: Travels with Father\",\"overview\":\"In the fourth film in the series, in 1910's Russia, a few acts of clumsiness puts Indy at odds with his father who is greatly displeased with Indy. Indy runs away into the Russian countryside and wakes in the morning on a haystack. He encounters colorful Gypsies, fierce Imperial Cossack troops, and an odd, cantankerous old man named Leo Tolstoy, who is in full agreement that \\\"hell\\\" is other people. Later, in Greece, Indy meets Nikos Kazantzakis, the writer who would some day write Zorba the Greek.\",\"popularity\":5.612,\"poster_path\":\"\/43GEiQvu1INP24LlqeyWiuWAtrz.jpg\",\"production_companies\":[{\"id\":7671,\"logo_path\":\"\/r7KeUsNVv0iggZRh6XmNNq2OEw1.png\",\"name\":\"Amblin Television\",\"origin_country\":\"US\"},{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-10-04\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Adventures of Young Indiana Jones: Travels with Father\",\"video\":false,\"vote_average\":6.3,\"vote_count\":19}"
+}

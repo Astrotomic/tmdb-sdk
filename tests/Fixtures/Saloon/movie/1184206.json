@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1166",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14031",
+        "x-memc": "HIT",
+        "x-memc-key": "3bf6c1ea113df1c4252c9f52cac691d2",
+        "x-memc-age": "8872",
+        "x-memc-expires": "14031",
+        "ETag": "W\/\"ba5bcdb17ae6b7cc7e77cd7102feff7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bZRLBdCTu5ScmaPbckJmHogQf38cHWQpKxy3gnZZGWJFlVY3XTtU4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1184206,\"imdb_id\":\"tt27512559\",\"origin_country\":[\"IN\"],\"original_language\":\"mr\",\"original_title\":\"\u0924\u0940\u0928 \u0905\u0921\u0915\u0942\u0928 \u0938\u0940\u0924\u093e\u0930\u093e\u092e\",\"overview\":\"Pushkar, Ajinkya and Kautilya are extremely reckless and mischievous. Life seemed really easy for them until their fathers order them to go into hiding because their recklessness has led to a giant ruckus.\",\"popularity\":5.445,\"poster_path\":\"\/t4mHKCYiC1fEeRsb4HFbgIk4R56.jpg\",\"production_companies\":[{\"id\":145999,\"logo_path\":null,\"name\":\"Nitin Vaidya Productions\",\"origin_country\":\"\"},{\"id\":99574,\"logo_path\":null,\"name\":\"Supreme Motion Pictures\",\"origin_country\":\"\"},{\"id\":209608,\"logo_path\":null,\"name\":\"K Film Production (GB)\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2023-09-29\",\"revenue\":0,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"Marathi\",\"iso_639_1\":\"mr\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Teen Adkun Sitaram\",\"video\":false,\"vote_average\":2.0,\"vote_count\":1}"
+}

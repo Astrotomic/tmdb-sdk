@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1328",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:31:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4215",
+        "x-memc": "HIT",
+        "x-memc-key": "5e1f03d023557954c3327f21b53c73ba",
+        "x-memc-age": "21758",
+        "x-memc-expires": "4215",
+        "ETag": "W\/\"e93fcfaf482e63dd308791f8e6ac9b14\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eJ5odLeimUf3kumWFzB-FdTGtSERbOAN5HOrpJJCwVtoZitkcDC14A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ftRkFtAGuHngHnLiOxktq0aCVMF.jpg\",\"belongs_to_collection\":{\"id\":86066,\"name\":\"Despicable Me Collection\",\"poster_path\":\"\/95prV91f4DxkBnLU43YjLbU1m3q.jpg\",\"backdrop_path\":\"\/37xamYKRUGCRux532lKcZdVGYuR.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/www.despicable.me\",\"id\":324852,\"imdb_id\":\"tt3469046\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Despicable Me 3\",\"overview\":\"Gru and his wife Lucy must stop former '80s child star Balthazar Bratt from achieving world domination.\",\"popularity\":127.71,\"poster_path\":\"\/6t3YWl7hrr88lCEFlGVqW5yV99R.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-06-15\",\"revenue\":1034800131,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Oh brother.\",\"title\":\"Despicable Me 3\",\"video\":false,\"vote_average\":6.467,\"vote_count\":6951}"
+}

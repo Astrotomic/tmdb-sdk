@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1499",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12615",
+        "x-memc": "HIT",
+        "x-memc-key": "e9b869c7cc534bc98db327a79b9af191",
+        "x-memc-age": "15442",
+        "x-memc-expires": "12615",
+        "ETag": "W\/\"9bdba99a956ab44f989ffce52667dc52\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "izO9wz3tGZHCwFE8G_cB0wv9c3Qf3hvhyIzvSUN8XElnlFTVDqd5kw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mMoG4nPSDupXIXOwVvpexZY2W0N.jpg\",\"belongs_to_collection\":null,\"budget\":110000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.sanandreasmovie.com\/\",\"id\":254128,\"imdb_id\":\"tt2126355\",\"origin_country\":[\"AU\",\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"San Andreas\",\"overview\":\"In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.\",\"popularity\":110.825,\"poster_path\":\"\/2Gfjn962aaFSD6eST6QU3oLDZTo.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":34081,\"logo_path\":null,\"name\":\"Flynn Picture Company\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2015-05-27\",\"revenue\":473990832,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"We always knew this day would come.\",\"title\":\"San Andreas\",\"video\":false,\"vote_average\":6.242,\"vote_count\":8369}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1090",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11010",
+        "x-memc": "HIT",
+        "x-memc-key": "16615cf84c8d6b074892b76f8b6ee8d0",
+        "x-memc-age": "12152",
+        "x-memc-expires": "11010",
+        "ETag": "W\/\"82962a33527bce4c9d1d9e4ef1727852\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rVQOCQpMPdYSXHJAc_quInwbsnJGmdb3ylyfWu1iQhF5NyEXShe1zQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oVtHv1CuDI0ifda9gKtTbHX9O0R.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":25664,\"imdb_id\":\"tt0415380\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u67d4\u9053\u9f8d\u864e\u699c\",\"overview\":\"A former Judo champion is given the chance to redeem himself after he befriends a competitor and an aspiring singer.\",\"popularity\":14.903,\"poster_path\":\"\/s1YNISzxpfbIx2noLvd3tEt7FWV.jpg\",\"production_companies\":[{\"id\":5632,\"logo_path\":null,\"name\":\"Milkyway Image\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"2004-07-08\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"In the world of Judo, failure is not an option.\",\"title\":\"Throw Down\",\"video\":false,\"vote_average\":6.768,\"vote_count\":95}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1862",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15955",
+        "x-memc": "HIT",
+        "x-memc-key": "29487ba2d412406b5d7da3744150cddd",
+        "x-memc-age": "6242",
+        "x-memc-expires": "15955",
+        "ETag": "W\/\"d04cb53105c1459c06f00f4e1a1ea941\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1kEwzT4gtgGv-s9_DxBDcumGKKBlgCh4DKSy2pHwLQqRsF0m5YwY4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mXozjXZse3g5fBqiahVLZnudIw1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"http:\/\/www.finale-film.com\/\",\"id\":462347,\"imdb_id\":\"tt5039416\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Finale\",\"overview\":\"Nationwide quietness. The streets are empty. Everyone\u2019s glued to their screens at home, watching the final game. In the outskirts of Denmark, close to the German border, a small gas station needs to be open for service, even on this special night.  Two young women have the shift. Ambitious Agnes is in the backroom putting finishing touches on her thesis, while free-spirited Belinda is on her phone, hoping to get the attention of her boyfriend. Unfortunately, the shift is not going to be as uneventful as they think, because no customers also means no witnesses, and the girls have been spotted to play a special part in a very different sort of game.\",\"popularity\":13.475,\"poster_path\":\"\/icbD0G01qRvAoj0Rpn7DAkEGXnK.jpg\",\"production_companies\":[{\"id\":111981,\"logo_path\":null,\"name\":\"Frightgeist Film\",\"origin_country\":\"\"},{\"id\":150550,\"logo_path\":null,\"name\":\"2Feet Entertainment\",\"origin_country\":\"\"},{\"id\":150551,\"logo_path\":null,\"name\":\"The Danish Film Institute\",\"origin_country\":\"\"},{\"id\":150552,\"logo_path\":null,\"name\":\"Bang Over Buck\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"2018-11-25\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Entertainment Knows No Boundaries\",\"title\":\"The Ringmaster\",\"video\":false,\"vote_average\":5.83,\"vote_count\":53}"
+}

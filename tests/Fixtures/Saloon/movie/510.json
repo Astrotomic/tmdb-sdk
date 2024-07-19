@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1177",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11778",
+        "x-memc": "HIT",
+        "x-memc-key": "26a2610f63095afce67833ff0b8dc1af",
+        "x-memc-age": "16927",
+        "x-memc-expires": "11778",
+        "ETag": "W\/\"da0d56e976e3d18ff8d2a1e3ae48a771\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "N2YBofuXZfiRa5Ti5fh7WkzmDBOSLGOvbEx0onVfHS300ITFesiwZA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6Oa3zTiluBz2W8D2ou1MY16dUiF.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":510,\"imdb_id\":\"tt0073486\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"One Flew Over the Cuckoo's Nest\",\"overview\":\"A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients\u2014and an enemy to the cruel, domineering nurse who runs the ward.\",\"popularity\":59.48,\"poster_path\":\"\/biejlC9yx8W66KHrD5tp9YiSqmV.jpg\",\"production_companies\":[{\"id\":286,\"logo_path\":null,\"name\":\"Fantasy Films\",\"origin_country\":\"\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1975-11-19\",\"revenue\":108981275,\"runtime\":133,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If he's crazy, what does that make you?\",\"title\":\"One Flew Over the Cuckoo's Nest\",\"video\":false,\"vote_average\":8.421,\"vote_count\":10209}"
+}

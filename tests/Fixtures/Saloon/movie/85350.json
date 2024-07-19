@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1256",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5013",
+        "x-memc": "HIT",
+        "x-memc-key": "11353b2a2d36085178cfe715704ee872",
+        "x-memc-age": "22648",
+        "x-memc-expires": "5013",
+        "ETag": "W\/\"5b4a847ca0ac38e025c8cf3073db5e9d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NmSAIIIEj4EVgaj6Wo0dAAnP6Yv_3XwEl8-e0KKdqrn5TC26wy_-wg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qRwkMMZhQRKM4uDaXpd2XbZZmkE.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.ifcfilms.com\/films\/boyhood\",\"id\":85350,\"imdb_id\":\"tt1065073\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Boyhood\",\"overview\":\"The film tells a story of a divorced couple trying to raise their young son. The story follows the boy for twelve years, from first grade at age 6 through 12th grade at age 17-18, and examines his relationship with his parents as he grows.\",\"popularity\":30.749,\"poster_path\":\"\/2BvtvDUyxiMJ4dmKfiQf4qdOHQN.jpg\",\"production_companies\":[{\"id\":11510,\"logo_path\":\"\/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png\",\"name\":\"Detour Filmproduction\",\"origin_country\":\"US\"},{\"id\":26468,\"logo_path\":null,\"name\":\"IFC Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-06-05\",\"revenue\":48137666,\"runtime\":166,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"12 years in the making.\",\"title\":\"Boyhood\",\"video\":false,\"vote_average\":7.504,\"vote_count\":5042}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1491",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22154",
+        "x-memc": "HIT",
+        "x-memc-key": "a9bd8f8333c2ae204ab5c20db0e309f2",
+        "x-memc-age": "3898",
+        "x-memc-expires": "22154",
+        "ETag": "W\/\"a90e9afc97241161931abc573ad33561\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "t02NPWXQBz5sdaaEV5-Ux-3lqZsVOuqYzFPbpBjOgknU6pIjqmpocQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395437,\"imdb_id\":\"tt2554786\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sink Hole\",\"overview\":\"After a massive sinkhole swallows a nearby town, a school bus filled with students is dropped deep underground. After the crash, the students realize the bus is hanging precariously against the side of the sinkhole, held in place by a broken pipe. Any sudden move could send the bus plummeting into the darkness below. Alone and with all the adults injured, the teens struggle for survival with the story taking on shades of Lord of the Flies. Their only hope is a small-town paramedic, who must overcome a tragic past to rescue the students.\",\"popularity\":3.787,\"poster_path\":\"\/lBrY7yokXZpbxTnqlBe4td5h3bj.jpg\",\"production_companies\":[{\"id\":36152,\"logo_path\":\"\/tNNer8tei7eO1IASyCOzJGutdj5.png\",\"name\":\"The Cartel\",\"origin_country\":\"US\"},{\"id\":17161,\"logo_path\":\"\/kNErUmYFM5oyYeNfDfB6YaXU3oX.png\",\"name\":\"Odyssey Media\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-04-01\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Earth Will Open\",\"title\":\"Sink Hole\",\"video\":false,\"vote_average\":5.3,\"vote_count\":15}"
+}

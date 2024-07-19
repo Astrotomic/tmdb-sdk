@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1507",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24464",
+        "x-memc": "HIT",
+        "x-memc-key": "e9e5d738bdae255248ec2c82c8068f6e",
+        "x-memc-age": "954",
+        "x-memc-expires": "24464",
+        "ETag": "W\/\"b4f1c9a726a266f5a7362494bf361d52\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V8h9PqaWuygvHJqU6tblKu9bjaZxlSobRuDJI8GK24purhHGcyDLUQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/86TlYSntBzD4pxLNM6U3GoOfGdD.jpg\",\"belongs_to_collection\":{\"id\":87118,\"name\":\"Cars Collection\",\"poster_path\":\"\/ooYvY9DMEdUHH2dOPHbZmyfMENy.jpg\",\"backdrop_path\":\"\/A8DqaTGwZ8iCEjWMNRsZumzfKLw.jpg\"},\"budget\":175000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/cars.disney.com\",\"id\":260514,\"imdb_id\":\"tt3606752\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cars 3\",\"overview\":\"Blindsided by a new generation of blazing-fast racers, the legendary Lightning McQueen is suddenly pushed out of the sport he loves. To get back in the game, he will need the help of an eager young race technician with her own plan to win, inspiration from the late Fabulous Hudson Hornet, and a few unexpected turns. Proving that #95 isn't through yet will test the heart of a champion on Piston Cup Racing\u2019s biggest stage!\",\"popularity\":77.446,\"poster_path\":\"\/jJ8TnHvWHaVadW5JJjGYsM07j9i.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-06-15\",\"revenue\":383925276,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's not over until lightning strikes.\",\"title\":\"Cars 3\",\"video\":false,\"vote_average\":6.856,\"vote_count\":5632}"
+}

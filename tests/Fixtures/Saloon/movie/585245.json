@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2127",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6513",
+        "x-memc": "HIT",
+        "x-memc-key": "0843672acc01993ede73e27d871de7ff",
+        "x-memc-age": "21518",
+        "x-memc-expires": "6513",
+        "ETag": "W\/\"6e7078d96067a3a3edc15ea58a0949a9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "r2g8y1sDKAG8NwKVUwQ28d_HWK6gWSGQw0n7qtZOrGSzSg4nbG6t4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zBkHCpLmHjW2uVURs5uZkaVmgKR.jpg\",\"belongs_to_collection\":{\"id\":1079241,\"name\":\"Clifford the Big Red Dog Collection\",\"poster_path\":\"\/pJYBwEsrIRHj1BfWO5tlPMjApZB.jpg\",\"backdrop_path\":null},\"budget\":64000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"https:\/\/www.cliffordmovie.com\/\",\"id\":585245,\"imdb_id\":\"tt2397461\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Clifford the Big Red Dog\",\"overview\":\"As Emily struggles to fit in at home and at school, she discovers a small red puppy who is destined to become her best friend. When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic dog and attracts the attention of a genetics company, Emily and her Uncle Casey have to fight the forces of greed as they go on the run across New York City. Along the way, Clifford affects the lives of everyone around him and teaches Emily and her uncle the true meaning of acceptance and unconditional love.\",\"popularity\":71.723,\"poster_path\":\"\/oifhfVhUcuDjE61V5bS5dfShQrm.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":8147,\"logo_path\":\"\/q6HOAdSNgCbeOqwoMVRc6REgbXF.png\",\"name\":\"Entertainment One\",\"origin_country\":\"CA\"},{\"id\":114732,\"logo_path\":\"\/tNCbisMxO5mX2X2bOQxHHQZVYnT.png\",\"name\":\"New Republic Pictures\",\"origin_country\":\"US\"},{\"id\":30246,\"logo_path\":null,\"name\":\"Scholastic Entertainment\",\"origin_country\":\"US\"},{\"id\":7311,\"logo_path\":\"\/8DWpM8VVlblzLas4JezvPk4L3YU.png\",\"name\":\"Kerner Entertainment Company\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-11-10\",\"revenue\":107347356,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Adventure has never been bigger.\",\"title\":\"Clifford the Big Red Dog\",\"video\":false,\"vote_average\":7.191,\"vote_count\":1699}"
+}

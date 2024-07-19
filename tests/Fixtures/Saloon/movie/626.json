@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "930",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=96",
+        "x-memc": "HIT",
+        "x-memc-key": "164046476d5e3706094227d1321933e3",
+        "x-memc-age": "27955",
+        "x-memc-expires": "96",
+        "ETag": "W\/\"fd68b2d7116433ce3cdbb9b8eaeb0272\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SlRJGcHC-K6KMt5y3xGYgj8ZDXkNCE_VeuapIsJYJSMud8x6dxLC2Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jQywhaFDVLPlFw864Bgw5eNtWfi.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":626,\"imdb_id\":\"tt0020530\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Un chien andalou\",\"overview\":\"Un Chien Andalou is an European avant-garde surrealist film, a collaboration between director Luis Bu\u00f1uel and Salvador Dali.\",\"popularity\":24.115,\"poster_path\":\"\/e4NcFlKkyTBN9ZtBuK4RUiEzouw.jpg\",\"production_companies\":[{\"id\":218841,\"logo_path\":null,\"name\":\"Billancourt Studios\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1929-06-05\",\"revenue\":0,\"runtime\":21,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Un Chien Andalou\",\"video\":false,\"vote_average\":7.437,\"vote_count\":1252}"
+}

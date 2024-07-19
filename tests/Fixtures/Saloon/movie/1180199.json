@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1282",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24890",
+        "x-memc": "HIT",
+        "x-memc-key": "a3da57b751118317f21ca99fe26c79bd",
+        "x-memc-age": "897",
+        "x-memc-expires": "24890",
+        "ETag": "W\/\"24466aabfbcd59ebd19694ea9918eee3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L4H62HXFZYc3KvpDTlLm_DeCuwP5n7VRBketJAOnwI4knsKSCKdwSg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4B3oS9lESptSBvlZxFw2ymLhUJd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81502828\",\"id\":1180199,\"imdb_id\":\"tt21211474\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30af\u30ec\u30a4\u30b8\u30fc\u30af\u30eb\u30fc\u30ba\",\"overview\":\"On a massive luxury cruise ship while at sea, the loyal butler and a mysterious woman cross paths as they try to uncover a murder-mystery that occurs on the ship.\",\"popularity\":18.264,\"poster_path\":\"\/bQddqjvARsJjxrnC9FyTE7iA0uG.jpg\",\"production_companies\":[{\"id\":955,\"logo_path\":\"\/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png\",\"name\":\"Nikkatsu Corporation\",\"origin_country\":\"JP\"},{\"id\":146106,\"logo_path\":null,\"name\":\"Django Film\",\"origin_country\":\"JP\"},{\"id\":185004,\"logo_path\":\"\/tyHnxjQJLH6h4iDQKhN5iqebWmX.png\",\"name\":\"Netflix\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2023-11-16\",\"revenue\":0,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"In Love and Deep Water\",\"video\":false,\"vote_average\":5.5,\"vote_count\":35}"
+}

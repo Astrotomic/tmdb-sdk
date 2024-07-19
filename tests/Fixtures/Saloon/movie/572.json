@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1330",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10779",
+        "x-memc": "HIT",
+        "x-memc-key": "798b9081cb1402dd478847adff03aff0",
+        "x-memc-age": "17314",
+        "x-memc-expires": "10779",
+        "ETag": "W\/\"395421e0894004c34ed698d0ed83880c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PV_jn-RPwyEPb2DKnLII54d1AFNSS-T9bN3imrtIaZWU0K1FVePkPw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/k0tUeAfV591707I9A5Irl702Q8L.jpg\",\"belongs_to_collection\":null,\"budget\":2400000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":572,\"imdb_id\":\"tt0453383\",\"origin_country\":[\"DK\",\"NO\"],\"original_language\":\"no\",\"original_title\":\"Naboer\",\"overview\":\"After Ingrid leaves John, he allows himself to be pulled into a mystical and scary world where it is impossible to separate truth from lies.\",\"popularity\":17.335,\"poster_path\":\"\/xqS5Y8f6EQy9i9YFuPuTlPRopV4.jpg\",\"production_companies\":[{\"id\":327,\"logo_path\":\"\/vodjjKlAbwGeERPjrAhxZMBGPUc.png\",\"name\":\"Nordisk Film Sweden\",\"origin_country\":\"SE\"},{\"id\":158113,\"logo_path\":null,\"name\":\"Produksjon 4 1\/2\",\"origin_country\":\"\"},{\"id\":7843,\"logo_path\":\"\/v293yOJQyswsz3bLQ7eylTcsvdp.png\",\"name\":\"4 1\/2\",\"origin_country\":\"NO\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"},{\"iso_3166_1\":\"NO\",\"name\":\"Norway\"},{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2005-03-11\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"},{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"}],\"status\":\"Released\",\"tagline\":\"Some doors should never be opened.\",\"title\":\"Next Door\",\"video\":false,\"vote_average\":6.303,\"vote_count\":198}"
+}

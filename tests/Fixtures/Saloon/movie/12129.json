@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1220",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15730",
+        "x-memc": "HIT",
+        "x-memc-key": "1a7f9d9927e9b90821a52a205693c8fb",
+        "x-memc-age": "9907",
+        "x-memc-expires": "15730",
+        "ETag": "W\/\"57fd437b780b1984ee4f4ac358a7c42a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "d6bsHOWDfnTulp5xPJiI5TmhXth7k0pIfFT8Ha7sojwZ29eIGS__yQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m9k7LpVtTOiNTQZ3x9oDr0H40IP.jpg\",\"belongs_to_collection\":{\"id\":12087,\"name\":\"Herbie Collection\",\"poster_path\":\"\/yfhSkmOHOdL0QfajTo1ZuOTDuHH.jpg\",\"backdrop_path\":\"\/hgi9EeU50KFhv9pCDmJyx4VLp5G.jpg\"},\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":12129,\"imdb_id\":\"tt0080861\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Herbie Goes Bananas\",\"overview\":\"The adorable little VW helps its owners break up a counterfeiting ring in Mexico.\",\"popularity\":25.213,\"poster_path\":\"\/7cBOYLDhHMA351ndLthSxBCwO5N.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-06-25\",\"revenue\":18000000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Yes, We Have A Bananza!\",\"title\":\"Herbie Goes Bananas\",\"video\":false,\"vote_average\":5.2,\"vote_count\":217}"
+}

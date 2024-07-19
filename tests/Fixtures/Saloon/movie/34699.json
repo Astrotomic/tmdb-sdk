@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "921",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25375",
+        "x-memc": "HIT",
+        "x-memc-key": "23b2439a250f6228e50911c288df89f8",
+        "x-memc-age": "1137",
+        "x-memc-expires": "25375",
+        "ETag": "W\/\"8bd9dd4ebcaba7dfef7a7916f4fe2aa6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PWV0BGH95ZUUIbkuMuFU4RtDGPfPcTvuqNS7L_3DhmCa3W0v9NGbGg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sksEqJmSfLY3hIDdiUQ6w5YAcZx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.kanalfilm.com\/Flugsoppan.htm\",\"id\":34699,\"imdb_id\":\"tt0192031\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Flugsoppan\",\"overview\":\"Flugsoppan \u00e4r en prisbel\u00f6nad tecknad barnfilm av Lennart och Ylva-Li Gustafsson om lilla grodan Grobi och Katten. Ett omaka par om blir de b\u00e4sta v\u00e4nner i ett \u00e4ventyr genom ett \u00f6versv\u00e4mmat landskap.\",\"popularity\":0.331,\"poster_path\":\"\/sxpAtZijXYTqy8Z8H0vlifakLGE.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"1999-01-01\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Flugsoppan\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

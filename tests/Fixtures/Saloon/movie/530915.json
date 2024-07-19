@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1890",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2224",
+        "x-memc": "HIT",
+        "x-memc-key": "a0b84be2eca121bd420ed35118f4a1f1",
+        "x-memc-age": "24291",
+        "x-memc-expires": "2224",
+        "ETag": "W\/\"13cab76bc29d19793835ba8dcc8f2795\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0r7JvTdKDsiWrZk1zIZaM_b9U49nexM5Ab-cjMwiw8QHtxfDBPyujw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2lBOQK06tltt8SQaswgb8d657Mv.jpg\",\"belongs_to_collection\":null,\"budget\":100000000,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/www.1917.movie\/\",\"id\":530915,\"imdb_id\":\"tt8579674\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"1917\",\"overview\":\"At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.\",\"popularity\":75.126,\"poster_path\":\"\/iZf0KyrE25z1sage4SYFLCCrMi9.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":7294,\"logo_path\":\"\/kK4PRgceWp9KNrycD8xx8seWxYU.png\",\"name\":\"Reliance Entertainment\",\"origin_country\":\"IN\"},{\"id\":114732,\"logo_path\":\"\/tNCbisMxO5mX2X2bOQxHHQZVYnT.png\",\"name\":\"New Republic Pictures\",\"origin_country\":\"US\"},{\"id\":1522,\"logo_path\":\"\/8uaoEVgNxFH0R94O53gUiByahVr.png\",\"name\":\"Neal Street Productions\",\"origin_country\":\"GB\"},{\"id\":103476,\"logo_path\":\"\/1Wj9FXynetoCaNxUoBRvKxcKDsB.png\",\"name\":\"Mogambo Films\",\"origin_country\":\"ES\"},{\"id\":121685,\"logo_path\":\"\/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png\",\"name\":\"Amblin Partners\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-12-25\",\"revenue\":394638258,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Time is the enemy\",\"title\":\"1917\",\"video\":false,\"vote_average\":7.994,\"vote_count\":12083}"
+}

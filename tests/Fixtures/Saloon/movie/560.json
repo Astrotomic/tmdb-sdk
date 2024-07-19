@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1461",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24066",
+        "x-memc": "HIT",
+        "x-memc-key": "eb004afc89af28f80302706af6514ec9",
+        "x-memc-age": "2620",
+        "x-memc-expires": "24066",
+        "ETag": "W\/\"66b259efe3c498fb19ee02a2f1172736\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TzU5Sjz1pbuxR6YYLvNJbt3QBTduQnh68R0YLbaFB35FbOaCPlyfww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xMZJwdGMDEQWKavwMWB4Lpkuixg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":560,\"imdb_id\":\"tt0040766\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Secret Beyond the Door...\",\"overview\":\"After a whirlwind romance in Mexico, a beautiful heiress marries a man she barely knows with hardly a second thought. She finds his New York home full of his strange relations, and macabre rooms that are replicas of famous murder sites. One locked room contains the secret to her husband's obsession, and the truth about what happened to his first wife.\",\"popularity\":11.246,\"poster_path\":\"\/hlBm0wromGeiFBGlV7RzjwQBPbw.jpg\",\"production_companies\":[{\"id\":323,\"logo_path\":null,\"name\":\"Diana Productions\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":108266,\"logo_path\":null,\"name\":\"Melange Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1947-12-24\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some Men Destroy What They Love Most!\",\"title\":\"Secret Beyond the Door...\",\"video\":false,\"vote_average\":6.47,\"vote_count\":134}"
+}

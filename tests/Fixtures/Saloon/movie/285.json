@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1574",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17189",
+        "x-memc": "HIT",
+        "x-memc-key": "1e935b5caf206f46583a44e7285aa604",
+        "x-memc-age": "6397",
+        "x-memc-expires": "17189",
+        "ETag": "W\/\"7d3c54cc121b8a533ab538004ad97490\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aSGHgF02MCyHPqtvwqvfw-QMG4PY2lrdf9qB3iZzr2uwEVMIrPELgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kPcHuPYqzkSo4bmPHtH82GaeEgX.jpg\",\"belongs_to_collection\":{\"id\":295,\"name\":\"Pirates of the Caribbean Collection\",\"poster_path\":\"\/mx2IHsrdLVgqCTB149H6WONjyqM.jpg\",\"backdrop_path\":\"\/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg\"},\"budget\":300000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/movies.disney.com\/pirates-of-the-caribbean-at-worlds-end\",\"id\":285,\"imdb_id\":\"tt0449088\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pirates of the Caribbean: At World's End\",\"overview\":\"Captain Barbossa, long believed to be dead, has come back to life and is headed to the edge of the Earth with Will Turner and Elizabeth Swann. But nothing is quite as it seems.\",\"popularity\":143.682,\"poster_path\":\"\/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg\",\"production_companies\":[{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":19936,\"logo_path\":null,\"name\":\"Second Mate Productions\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-05-19\",\"revenue\":961000000,\"runtime\":169,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"At the end of the world, the adventure begins.\",\"title\":\"Pirates of the Caribbean: At World's End\",\"video\":false,\"vote_average\":7.257,\"vote_count\":14003}"
+}

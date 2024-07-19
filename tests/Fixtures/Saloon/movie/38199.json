@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1412",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10407",
+        "x-memc": "HIT",
+        "x-memc-key": "9bad9d401aa7751bdfac7ff930028875",
+        "x-memc-age": "14787",
+        "x-memc-expires": "10407",
+        "ETag": "W\/\"281a108a2ee1c2e4909216645b92b0ff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GKyl3KU7dFim5G3zX5wtEweThfG2zFQQxL_uVoLUOAP11a2zMByd_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/49jYVh3QB35kw8HNYj81Z4LI5QL.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":38199,\"imdb_id\":\"tt0914863\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Unthinkable\",\"overview\":\"The government gets wind of a plot to destroy America involving a trio of nuclear weapons for which the whereabouts are unknown. It's up to a seasoned interrogator and an FBI agent to find out exactly where the nukes are.\",\"popularity\":19.417,\"poster_path\":\"\/6yQqguytl10FhImngDHV90Aqewa.jpg\",\"production_companies\":[{\"id\":3319,\"logo_path\":null,\"name\":\"Senator Entertainment\",\"origin_country\":\"US\"},{\"id\":12410,\"logo_path\":null,\"name\":\"Lleju Productions\",\"origin_country\":\"\"},{\"id\":737,\"logo_path\":\"\/dK1GZ1u4our8sJW0Sts1JHeNSLn.png\",\"name\":\"Sidney Kimmel Entertainment\",\"origin_country\":\"US\"},{\"id\":12411,\"logo_path\":null,\"name\":\"Kimmel International\",\"origin_country\":\"\"},{\"id\":5683,\"logo_path\":null,\"name\":\"ChubbCo Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-06-14\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Right and Wrong no longer exist\",\"title\":\"Unthinkable\",\"video\":false,\"vote_average\":6.76,\"vote_count\":1150}"
+}

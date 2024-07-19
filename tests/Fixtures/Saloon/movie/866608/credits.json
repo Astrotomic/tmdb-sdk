@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "281",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20456",
+        "x-memc": "HIT",
+        "x-memc-key": "a124f19d5370f34737e7c7b7a58a5ec0",
+        "x-memc-age": "4875",
+        "x-memc-expires": "20456",
+        "ETag": "W\/\"314003cf8f0d7db1bd70c36012039db9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cx95iNg_syWWtC7YufTSWAtnBW5Sc--qL4HVYpIJl05CrfJ2FQ9avQ=="
+    },
+    "data": "{\"id\":866608,\"cast\":[],\"crew\":[{\"adult\":true,\"gender\":0,\"id\":2621472,\"known_for_department\":\"Directing\",\"name\":\"Shige Kawamori\",\"original_name\":\"Shige Kawamori\",\"popularity\":0.6,\"profile_path\":null,\"credit_id\":\"612a71e8a4af8f00624d2a6b\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

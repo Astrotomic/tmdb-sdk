@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1193",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17454",
+        "x-memc": "HIT",
+        "x-memc-key": "f5ed0233f123163361337e7fb3643f82",
+        "x-memc-age": "10868",
+        "x-memc-expires": "17454",
+        "ETag": "W\/\"0b5707b22ad17c1872c6d77921055ae6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0FzZk6EcDWVjk55V_KV52sfyiKPyGQsEjuNmWFFUJzQfS61YunMclw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i1oWUGVDNBhGBykcCRBlX326udb.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":36,\"name\":\"History\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":117,\"imdb_id\":\"tt0094226\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Untouchables\",\"overview\":\"Elliot Ness, an ambitious prohibition agent, is determined to take down Al Capone. In order to achieve this goal, he forms a group given the nickname \u201cThe Untouchables\u201d.\",\"popularity\":51.041,\"poster_path\":\"\/jB8ROzQOr3p4ygSzyPjLhUqCOFu.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":4700,\"logo_path\":\"\/A32wmjrs9Psf4zw0uaixF0GXfxq.png\",\"name\":\"The Linson Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-06-03\",\"revenue\":76270454,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What are you prepared to do?\",\"title\":\"The Untouchables\",\"video\":false,\"vote_average\":7.772,\"vote_count\":5462}"
+}

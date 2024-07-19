@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1386",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19590",
+        "x-memc": "HIT",
+        "x-memc-key": "b942d746bfc4d1f07e68f837df0a17cf",
+        "x-memc-age": "4344",
+        "x-memc-expires": "19590",
+        "ETag": "W\/\"b8da61d5e72dbaf55b1313c8e682b5e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I6AZrq1ioVDQQuGAcARMKq0evlrliL4wjguVviE_Upr26mmjrU1YDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6FbWhRR5B7OWVgzXuTkIFiaI2N3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":848123,\"imdb_id\":\"tt13918550\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Black Site\",\"overview\":\"A group of officers based in a labyrinthine top-secret prison must fight for their lives against Hatchet, a brilliant and infamous high-value detainee. When he escapes, his mysterious and deadly agenda has far reaching and dire consequences.\",\"popularity\":25.656,\"poster_path\":\"\/ipn8khVVC4eToWiGf89WF9J5PJn.jpg\",\"production_companies\":[{\"id\":156843,\"logo_path\":null,\"name\":\"Asbury Park Pictures\",\"origin_country\":\"\"},{\"id\":18988,\"logo_path\":null,\"name\":\"Story Bridge Films\",\"origin_country\":\"AU\"},{\"id\":3528,\"logo_path\":\"\/cCzCClIzIh81Fa79hpW5nXoUsHK.png\",\"name\":\"Thunder Road\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-05-05\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Black Site\",\"video\":false,\"vote_average\":6.2,\"vote_count\":240}"
+}

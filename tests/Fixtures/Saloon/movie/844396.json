@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1231",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11022",
+        "x-memc": "HIT",
+        "x-memc-key": "2483ecc719362fa82051c0ddedcafe2e",
+        "x-memc-age": "13490",
+        "x-memc-expires": "11022",
+        "ETag": "W\/\"0ddd561c26db22f7d36381bccd3c0c78\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bEQ8f2SCPyBBKdLTnhiZCalquafwU9JXkTVpGhV9XcuSxlnkxUMp_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/729a5iDNxr5l2Zbc8lcwndlJavN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":844396,\"imdb_id\":\"tt7339862\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Friendship Game\",\"overview\":\"A group of teens in a small town come across a strange object that tests their loyalties to each other with increasingly destructive consequences the deeper into the game they go.\",\"popularity\":10.907,\"poster_path\":\"\/qXaJkaVTNMhrOylFi6xrWnBQGE8.jpg\",\"production_companies\":[{\"id\":61011,\"logo_path\":\"\/kDPeollsOtUtGqqEF4P29NwEjf5.png\",\"name\":\"Scythia Films\",\"origin_country\":\"CA\"},{\"id\":20319,\"logo_path\":\"\/weCmPzIfz1pGupRVFngpLYX2lJE.png\",\"name\":\"Social Construct\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-11-11\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Win together or die alone\",\"title\":\"The Friendship Game\",\"video\":false,\"vote_average\":5.0,\"vote_count\":51}"
+}

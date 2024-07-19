@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1873",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:38:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13210",
+        "x-memc": "HIT",
+        "x-memc-key": "add3a36995d02cb59b1a5814c39de4ac",
+        "x-memc-age": "9757",
+        "x-memc-expires": "13210",
+        "ETag": "W\/\"18812f58cbb9ed884433bbc9d108e20b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "B-lmu0_90Ibm65PW7CjiXOOVRhOHXLkZKKwOLKYujhT5nPytjQCEPw=="
+    },
+    "data": "{\"id\":45745,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":39847,\"known_for_department\":\"Acting\",\"name\":\"Halina Reijn\",\"original_name\":\"Halina Reijn\",\"popularity\":10.447,\"profile_path\":\"\/ypsQjJrnuL1QyxHmYFnVAokpO5h.jpg\",\"cast_id\":5,\"character\":\"Sintel (voice)\",\"credit_id\":\"52fe46d1c3a36847f8113e3f\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":7572,\"known_for_department\":\"Acting\",\"name\":\"Thom Hoffman\",\"original_name\":\"Thom Hoffman\",\"popularity\":13.745,\"profile_path\":\"\/9idfzAANRjFDPnPHsRVVBb2LbNR.jpg\",\"cast_id\":6,\"character\":\"Shaman (voice)\",\"credit_id\":\"52fe46d1c3a36847f8113e43\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":133631,\"known_for_department\":\"Directing\",\"name\":\"Colin Levy\",\"original_name\":\"Colin Levy\",\"popularity\":1.513,\"profile_path\":\"\/aGFVsKopffZafgZjeF7GLlUvxO7.jpg\",\"credit_id\":\"52fe46d1c3a36847f8113e29\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":133632,\"known_for_department\":\"Production\",\"name\":\"Ton Roosendaal\",\"original_name\":\"Ton Roosendaal\",\"popularity\":1.873,\"profile_path\":\"\/2iRRkA2oCsPLSSLz1HKDhwJZlgy.jpg\",\"credit_id\":\"52fe46d1c3a36847f8113e2f\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":133633,\"known_for_department\":\"Writing\",\"name\":\"Esther Wouda\",\"original_name\":\"Esther Wouda\",\"popularity\":2.982,\"profile_path\":null,\"credit_id\":\"52fe46d1c3a36847f8113e35\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":133634,\"known_for_department\":\"Sound\",\"name\":\"Jan Morgenstern\",\"original_name\":\"Jan Morgenstern\",\"popularity\":1.025,\"profile_path\":null,\"credit_id\":\"52fe46d1c3a36847f8113e3b\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":1097826,\"known_for_department\":\"Art\",\"name\":\"David Revoy\",\"original_name\":\"David Revoy\",\"popularity\":0.015,\"profile_path\":null,\"credit_id\":\"5ebfb79c8e2e00002117e6d5\",\"department\":\"Art\",\"job\":\"Art Direction\"}]}"
+}

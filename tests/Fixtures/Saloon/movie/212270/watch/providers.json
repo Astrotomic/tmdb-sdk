@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "26",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16417",
+        "x-memc": "HIT",
+        "x-memc-key": "dd9648fa6995bec08ecbf6ed9aec932f",
+        "x-memc-age": "8018",
+        "x-memc-expires": "16417",
+        "ETag": "W\/\"0bcf28b0df498a17af2ecf5f743b25c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ManyPlclit5g8tiOrhoMgzsi9GENz1p7fg2DXoTFx7FEZFuvW3Jz9A=="
+    },
+    "data": "{\"id\":212270,\"results\":{}}"
+}

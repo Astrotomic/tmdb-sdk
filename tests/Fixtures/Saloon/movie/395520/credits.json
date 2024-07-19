@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "274",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25531",
+        "x-memc": "HIT",
+        "x-memc-key": "6127b469b53c3d144d3e82c704732757",
+        "x-memc-age": "3195",
+        "x-memc-expires": "25531",
+        "ETag": "W\/\"2709766eef64571be071defb41e39c1e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OUVYl2wVzVONAonI9Ivqr9BV71umiNmmn9nlEsjilTpy7rbHQAVt7Q=="
+    },
+    "data": "{\"id\":395520,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1130502,\"known_for_department\":\"Directing\",\"name\":\"Al Jarnow\",\"original_name\":\"Al Jarnow\",\"popularity\":2.437,\"profile_path\":null,\"credit_id\":\"5725cd94c3a368546e000a00\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

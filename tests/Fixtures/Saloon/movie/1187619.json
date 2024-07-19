@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1272",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8711",
+        "x-memc": "HIT",
+        "x-memc-key": "970c939197739640f8799aaff341f5be",
+        "x-memc-age": "19201",
+        "x-memc-expires": "8711",
+        "ETag": "W\/\"abe7939c4ee92044c1e09babfeedbfe2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GB7ktmiaYhJ33NqzRYPw6u93m1AGBXsdyEYRU-E57EtlvYPzvsq7WA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bsG7mUCLL66lP3rq70lkKtivewz.jpg\",\"belongs_to_collection\":null,\"budget\":7800000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1187619,\"imdb_id\":\"tt27744786\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0936\u0948\u0924\u093e\u0928\",\"overview\":\"Kabir and his family's fun weekend retreat takes terrifying turn when an intruder takes over the control of the  body of his teenage daughter, putting her at the mercy of his increasingly sinister orders.\",\"popularity\":24.251,\"poster_path\":\"\/nCK46DFCOMInVfSLraWDEOhMciE.jpg\",\"production_companies\":[{\"id\":128365,\"logo_path\":\"\/9UnLNX7mfB1FzieJcjA9xyni8wY.png\",\"name\":\"Ajay Devgn FFilms\",\"origin_country\":\"IN\"},{\"id\":44223,\"logo_path\":\"\/dXTCqVltThpRPYeSeDUIFssM5Wu.png\",\"name\":\"Panorama Studios\",\"origin_country\":\"IN\"},{\"id\":115477,\"logo_path\":\"\/6CkBjiSlfAJFaMjwB44ILbOhFuV.png\",\"name\":\"Jio Studios\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2024-03-08\",\"revenue\":9600000,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Hell comes home\",\"title\":\"Shaitaan\",\"video\":false,\"vote_average\":6.1,\"vote_count\":30}"
+}

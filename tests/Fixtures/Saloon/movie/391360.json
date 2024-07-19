@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1052",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18352",
+        "x-memc": "HIT",
+        "x-memc-key": "c511af9e08deb6aa1f66ab4293b4a932",
+        "x-memc-age": "6854",
+        "x-memc-expires": "18352",
+        "ETag": "W\/\"d345ff1544bd07d66eefd48ec0a4a52b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HVqEp25M2D7b55JUZKkFzR05wA9iAt6KiN5RAhg1mvKTtaa3G03nDA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gr7Ts2NMwpEFPEDUHehIUFjGQ39.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":391360,\"imdb_id\":\"tt0034451\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Almost Married\",\"overview\":\"To avoid a costly breach of contract suit, a rich young man marries a nightclub singer.\",\"popularity\":3.462,\"poster_path\":\"\/p3txhW4VLWW8d9EEE9G6ZnjaGxn.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1942-05-22\",\"revenue\":0,\"runtime\":65,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Believe it or not-it took a hurricane...three pups...and a horse doctor...to make their love legal!\",\"title\":\"Almost Married\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

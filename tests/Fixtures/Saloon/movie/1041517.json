@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1220",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19521",
+        "x-memc": "HIT",
+        "x-memc-key": "36339b96bb0fdce8daa3117a3fdc3688",
+        "x-memc-age": "8284",
+        "x-memc-expires": "19521",
+        "ETag": "W\/\"d24f84cd80770c0543f688018590a9d5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iPvnE2jPBmcL8hasQYuRSbJ-WGPIkEL0JaARsS2BMBQtHiH2eeOxXw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ogumeypv8XwqmpuORMIdLpyRlkc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.deercamp86.com\",\"id\":1041517,\"imdb_id\":\"tt22184520\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Deer Camp \u201886\",\"overview\":\"In the fall of 1986, six knuckleheads from Detroit travel north to partake in the annual tradition of deer hunting. But something horrific has been awakened and the hunters become the hunted.\",\"popularity\":13.944,\"poster_path\":\"\/tpab6Dm7hvoCXhz1zH0pulh6uQy.jpg\",\"production_companies\":[{\"id\":48509,\"logo_path\":\"\/v5vpYRWkeD2TXhRChYZqlwLqZrt.png\",\"name\":\"10 West Studios\",\"origin_country\":\"\"},{\"id\":230606,\"logo_path\":null,\"name\":\"Creative Alley Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-31\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They should've stayed in Detroit ... where it was safe!\",\"title\":\"Deer Camp \u201886\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

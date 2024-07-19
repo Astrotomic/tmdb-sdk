@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "935",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18422",
+        "x-memc": "HIT",
+        "x-memc-key": "560bc683de1a5dd91a187ab7fa790226",
+        "x-memc-age": "7049",
+        "x-memc-expires": "18422",
+        "ETag": "W\/\"9fc55d6facbc6a0e728e2e4690c02395\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WZoWTun5anJInoc7SOBLCPGQy_OzU8EMFKm2683nwtp6TKTDfuw18w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":5500,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/homebodypictures.com\",\"id\":395812,\"imdb_id\":\"tt5474440\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Aster and Sidney\",\"overview\":\"\",\"popularity\":1.203,\"poster_path\":\"\/rmug8ZjXSkZl5cWY1vpltM8YbqQ.jpg\",\"production_companies\":[{\"id\":134081,\"logo_path\":null,\"name\":\"Homebody Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-04-28\",\"revenue\":0,\"runtime\":17,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Two women struggle to survive after the collapse of society.\",\"title\":\"Aster and Sidney\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

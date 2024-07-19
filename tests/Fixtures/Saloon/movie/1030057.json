@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1034",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14490",
+        "x-memc": "HIT",
+        "x-memc-key": "fe79760e2d761b332e8928b7db6c4729",
+        "x-memc-age": "8775",
+        "x-memc-expires": "14490",
+        "ETag": "W\/\"9474e876093283b0e44df22fa971acb8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jlVT2vWEM2Q2DcEcnC--OI3D2GT5byCstOHHw186NMXotg2YJ-RJ9Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/phZ9nghCCq7LQEGR4GVC3pieCPM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.mazgoproductions.com\/collect-your-roadkill\",\"id\":1030057,\"imdb_id\":\"tt14591328\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Collect Your Roadkill\",\"overview\":\"When two strangers cross paths while trying to escape their past, they form an unlikely music partnership that will take them running across rural Australia.\",\"popularity\":1.926,\"poster_path\":\"\/wV2ApbpMRPNz3MK6j0WgFMmrwCw.jpg\",\"production_companies\":[{\"id\":183283,\"logo_path\":null,\"name\":\"Mazgo Production\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2021-11-11\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"On the run with a beaten car and an acoustic guitar\",\"title\":\"Collect Your Roadkill\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

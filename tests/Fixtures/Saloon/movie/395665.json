@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "677",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8265",
+        "x-memc": "HIT",
+        "x-memc-key": "2c32bbf703230100c006686a3029d1d1",
+        "x-memc-age": "19816",
+        "x-memc-expires": "8265",
+        "ETag": "W\/\"aeb64f70c7c201c69950a99c6c61e21f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F9J32xkc0_UzJ7v-LgRfVx0C1H5s-tR6sw2yZV0ObqlYYFWc7WxclQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e0yCgADXjdMQARF5AmuKpW35cG1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395665,\"imdb_id\":\"tt0290465\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Big House\",\"overview\":\"Within the concrete confines of a life sentence, one man rediscovers his capacity for love.\",\"popularity\":1.415,\"poster_path\":\"\/qDhCMmOegwEgxiWalOrznmvdUwZ.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2001-10-17\",\"revenue\":0,\"runtime\":24,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Big House\",\"video\":false,\"vote_average\":3.0,\"vote_count\":3}"
+}

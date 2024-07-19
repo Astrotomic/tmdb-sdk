@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1570",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13605",
+        "x-memc": "HIT",
+        "x-memc-key": "b13923f467c16d05501703b3979ff52c",
+        "x-memc-age": "12663",
+        "x-memc-expires": "13605",
+        "ETag": "W\/\"343c1c0c45b046c7968042d63953f05b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rEuHuq4p7f7sVgfMlu-1SjNIMcq8NNYQKwWT_X60R-z5gilI-qFskA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/70AV2Xx5FQYj20labp0EGdbjI6E.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.miramax.com\/movie\/wrath-of-man\",\"id\":637649,\"imdb_id\":\"tt11083552\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Wrath of Man\",\"overview\":\"A cold and mysterious new security guard for a Los Angeles cash truck company surprises his co-workers when he unleashes precision skills during a heist. The crew is left wondering who he is and where he came from. Soon, the marksman's ultimate motive becomes clear as he takes dramatic and irrevocable steps to settle a score.\",\"popularity\":119.87,\"poster_path\":\"\/M7SUK85sKjaStg4TKhlAVyGlz3.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":2900,\"logo_path\":null,\"name\":\"Toff Guy Films\",\"origin_country\":\"GB\"},{\"id\":175813,\"logo_path\":null,\"name\":\"Flic Films\",\"origin_country\":\"GB\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-04-22\",\"revenue\":103966489,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wrath of Man\",\"video\":false,\"vote_average\":7.64,\"vote_count\":5101}"
+}

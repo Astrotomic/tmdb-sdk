@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1501",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1960",
+        "x-memc": "HIT",
+        "x-memc-key": "2f25b5adf3e0b52563aba934ad976143",
+        "x-memc-age": "21416",
+        "x-memc-expires": "1960",
+        "ETag": "W\/\"969776f5ddf44f07392dc8599ce2a1b5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b1RvOvhGd_NS2ZAqOL4qi3wwkw6HQ_F2lWLmFvizisfythDsBnBQ9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iZGiMD0p1M2AOmzKknFo5bkuz94.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":524,\"imdb_id\":\"tt0112641\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Casino\",\"overview\":\"In early-1970s Las Vegas, Sam \\\"Ace\\\" Rothstein gets tapped by his bosses to head the Tangiers Casino. At first, he's a great success in the job, but over the years, problems with his loose-cannon enforcer Nicky Santoro, his ex-hustler wife Ginger, her con-artist ex Lester Diamond and a handful of corrupt politicians put Sam in ever-increasing danger.\",\"popularity\":46.461,\"poster_path\":\"\/4TS5O1IP42bY2BvgMxL156EENy.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":11583,\"logo_path\":null,\"name\":\"Syalis DA\",\"origin_country\":\"\"},{\"id\":11584,\"logo_path\":null,\"name\":\"De Fina-Cappa\",\"origin_country\":\"\"},{\"id\":22997,\"logo_path\":\"\/niPdWsCgM1HoAEnh3Z200V4nDIo.png\",\"name\":\"L\u00e9gende Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-11-22\",\"revenue\":116112375,\"runtime\":179,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"No one stays at the top forever.\",\"title\":\"Casino\",\"video\":false,\"vote_average\":8.0,\"vote_count\":5652}"
+}

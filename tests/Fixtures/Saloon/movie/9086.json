@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1409",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12939",
+        "x-memc": "HIT",
+        "x-memc-key": "7e9821cbc3a3d4584ac8c91cbbb78575",
+        "x-memc-age": "12866",
+        "x-memc-expires": "12939",
+        "ETag": "W\/\"0a5727fb05c051183f4e6d1dcba5e867\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "60oiNjFcCzjYIA-g7StW9QpY0_lKrsmwmyGXqBSO6l6Q9JMv0QbqBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sQNPWOTzl5kkZTW5ogSu0uSnreB.jpg\",\"belongs_to_collection\":{\"id\":9329,\"name\":\"Young Guns Collection\",\"poster_path\":\"\/rGfhkCc12JGpcD2Jl6L5vGXv5xF.jpg\",\"backdrop_path\":\"\/AoFo9HeJU7jiHAUNawpwhs3zQbd.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":9086,\"imdb_id\":\"tt0100994\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Young Guns II\",\"overview\":\"Three of the original five \\\"young guns\\\" \u2014 Billy the Kid, Jose Chavez y Chavez, and Doc Scurlock \u2014 return in Young Guns, Part 2, which is the story of Billy the Kid and his race to safety in Old Mexico while being trailed by a group of government agents led by Pat Garrett.\",\"popularity\":20.548,\"poster_path\":\"\/7kMjla98srGHlFzAEmoGRcr6GN1.jpg\",\"production_companies\":[{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-08-01\",\"revenue\":59000000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The west just got wilder.\",\"title\":\"Young Guns II\",\"video\":false,\"vote_average\":6.5,\"vote_count\":511}"
+}

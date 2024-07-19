@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1533",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7740",
+        "x-memc": "HIT",
+        "x-memc-key": "d4e252743c1a18a0aa8e8c08e4822090",
+        "x-memc-age": "14852",
+        "x-memc-expires": "7740",
+        "ETag": "W\/\"ddce0c8ab07e9598fd4c32574bea97ee\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LtyF6vZpWVmvJO7L5BshXb4ZfLDvKTflB6j16pRuW5EbQQEh8OSFDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xhZq2hvIMCDNlVOP7sEiqxPFKfs.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":6470,\"imdb_id\":\"tt0099575\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fire Birds\",\"overview\":\"A joint task force operation between the Drug Enforcement Administration and the U.S. Army has been formed to dismantle one of the largest drug cartels operating in South America. Multiple attempts to assault the cartel's mountainous compound have been thwarted by a Scorpion-attack helicopter piloted by a cartel leader, Eric Stoller (Bert Rhine). After having several aircraft shot down, most notably a pair of UH\u201360 Black Hawks and their AH\u20131 Cobra escorts, the army turns to the new AH\u201364 Apache attack helicopter, which can match its enemies' maneuverability and firepower.\",\"popularity\":17.007,\"poster_path\":\"\/ccqyNqhesnxc090uNKgMOeIef3n.jpg\",\"production_companies\":[{\"id\":2098,\"logo_path\":null,\"name\":\"Nova International Films\",\"origin_country\":\"\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-05-25\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The best just got better\",\"title\":\"Fire Birds\",\"video\":false,\"vote_average\":5.135,\"vote_count\":171}"
+}

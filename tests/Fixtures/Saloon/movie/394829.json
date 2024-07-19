@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1194",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26752",
+        "x-memc": "HIT",
+        "x-memc-key": "3600e7d1e5f8f8794326082898d095c5",
+        "x-memc-age": "735",
+        "x-memc-expires": "26752",
+        "ETag": "W\/\"5165996895e13dfcf13f149817dee454\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SMVfBaJ3LbLlfP0FC5lLHQ-UMoImdhEOcsImplh1L_cghoC6HmBwtA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ewDQRC66RGDHtsOkRxRmMLt3SFO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":394829,\"imdb_id\":\"tt0185162\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30a2\u30ec\u30a4\u306e\u93e1 Way to the Virgin Space\",\"overview\":\"Meguru and Mayu are two future-wanderers hoping to find the mythical Mirror of Arei that is said to allow all who glimpse it to pass beyond the edge if the universe. Highjacked by renegade android Zero, the trio joins forces when they realise that they are all searching for the same thing.\",\"popularity\":5.616,\"poster_path\":\"\/axdrzSPPtA7E0ww2czZKG0CC3Ya.jpg\",\"production_companies\":[{\"id\":5542,\"logo_path\":\"\/ayE4LIqoAWotavo7xdvYngwqGML.png\",\"name\":\"Toei Animation\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1985-03-16\",\"revenue\":0,\"runtime\":22,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Arei's Mirror ~ Way to Virgin Space\",\"video\":false,\"vote_average\":6.5,\"vote_count\":4}"
+}

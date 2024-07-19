@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1386",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27173",
+        "x-memc": "HIT",
+        "x-memc-key": "ee5b2533cc13d4ea6bd17d6d3f2fe642",
+        "x-memc-age": "832",
+        "x-memc-expires": "27173",
+        "ETag": "W\/\"f1693e8960ffa051237505d671825916\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bDiIPoln3ERpFD4gCzHy_Xas6Wb-xMdmpQW9V9MG5FrPu1ADFE0Nyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bteDcUwfahrRfBEsXUlSqv1Hjvu.jpg\",\"belongs_to_collection\":null,\"budget\":6500000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":13715,\"imdb_id\":\"tt0090670\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"At Close Range\",\"overview\":\"Brad Whitewood Jr. lives in rural Pennsylvania and has few prospects. Against his mother's wishes, he seeks out his estranged father, the head of a gang of thieves in a nearby town. Though his new girlfriend supports his criminal ambitions, Brad Jr. soon learns that his father is a dangerous man. Inspired by the real events that led to the end of the Johnston Gang, who operated in the northeastern United States in the 1970s.\",\"popularity\":14.334,\"poster_path\":\"\/bOkXqMmLowHBZY9lptWi3ljOXx4.jpg\",\"production_companies\":[{\"id\":469,\"logo_path\":null,\"name\":\"Hemdale Film Corporation\",\"origin_country\":\"GB\"},{\"id\":218473,\"logo_path\":null,\"name\":\"Cinema '85\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-04-18\",\"revenue\":2347000,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Like father. Like son. Like hell.\",\"title\":\"At Close Range\",\"video\":false,\"vote_average\":6.9,\"vote_count\":250}"
+}

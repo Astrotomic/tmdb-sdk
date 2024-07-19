@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1634",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6950",
+        "x-memc": "HIT",
+        "x-memc-key": "d9536a46f9eb769e5bc19a343af0d7c6",
+        "x-memc-age": "16563",
+        "x-memc-expires": "6950",
+        "ETag": "W\/\"c76076d1efba85420f49f0d509ca96a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_hSkXxSKafb7DTkG0AYrfNxyZmuG48FhgPoDAOh0gaARARVMAv3Qkg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/urBBFQrrVxy7T8uytrn7dOoHqZn.jpg\",\"belongs_to_collection\":null,\"budget\":120456666,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":13855,\"imdb_id\":\"tt1190539\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\ucd94\uaca9\uc790\",\"overview\":\"Joong-ho is a dirty detective turned pimp in financial trouble as several of his girls have recently disappeared without clearing their debts. While trying to track them down, he finds a clue that the vanished girls were all called up by the same client whom one of his girls is meeting with right now.\",\"popularity\":31.159,\"poster_path\":\"\/hy49xJiKN1nakkN1ZmKuOf6vQYR.jpg\",\"production_companies\":[{\"id\":11589,\"logo_path\":null,\"name\":\"Bidangil Pictures\",\"origin_country\":\"KR\"},{\"id\":11591,\"logo_path\":null,\"name\":\"Hanhwa Venture Capital\",\"origin_country\":\"\"},{\"id\":81594,\"logo_path\":null,\"name\":\"Michigan Venture Capital\",\"origin_country\":\"KR\"},{\"id\":14285,\"logo_path\":null,\"name\":\"Vantage Holdings\",\"origin_country\":\"KR\"},{\"id\":11590,\"logo_path\":\"\/7OOrgnVw0RAX3tq8ikWUmNud8qT.png\",\"name\":\"Finecut\",\"origin_country\":\"KR\"},{\"id\":3491,\"logo_path\":\"\/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png\",\"name\":\"Showbox\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2008-02-14\",\"revenue\":0,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"The hunter and the hunted, the ultimate chase begins.\",\"title\":\"The Chaser\",\"video\":false,\"vote_average\":7.755,\"vote_count\":1270}"
+}

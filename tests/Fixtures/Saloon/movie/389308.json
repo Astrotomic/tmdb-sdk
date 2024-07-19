@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "890",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5027",
+        "x-memc": "HIT",
+        "x-memc-key": "928baa80a6462034c6768f1873f51416",
+        "x-memc-age": "17282",
+        "x-memc-expires": "5027",
+        "ETag": "W\/\"b5540bc159b681c7190afa180cdc856c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UAS80gCH7qE3dvLliTlmtStx0Dxkng6qLMxcgTJ_CqZAx1lDCa963g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":389308,\"imdb_id\":\"tt3271078\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Gala & Godfrey The Classics\",\"overview\":\"Love, Sex, Marriage, Divorce... just not in that order. Within the framework of a record album, Gala &amp; Godfrey tracks the classic moments in the lives of a charming, exasperating British expat and his American wife through 12 years of their sexy, chaotic romance and divorce.\",\"popularity\":1.491,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2016-04-08\",\"revenue\":0,\"runtime\":119,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gala & Godfrey The Classics\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

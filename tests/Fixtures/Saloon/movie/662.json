@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1377",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21707",
+        "x-memc": "HIT",
+        "x-memc-key": "04cb95dd1b40928751205e735582f2b1",
+        "x-memc-age": "3560",
+        "x-memc-expires": "21707",
+        "ETag": "W\/\"c0e35ad81722fd6fa1711fd93808dc88\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KTrZbMOO8L8CZaCu2L6p5qiAUBP3VliqdeG0pCCaF8bdIcvkTANIdw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qNbl3TFwxIm0fyFqQ1iRxzs4hb7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":662,\"imdb_id\":\"tt0056119\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"La Jet\u00e9e\",\"overview\":\"A man is sent back and forth and in and out of time in an experiment that attempts to unravel the fate and the solution to the problems of a post-apocalyptic world during the aftermath of WW3. The experiment results in him getting caught up in a perpetual reminiscence of past events that are recreated on an airport\u2019s viewing pier.\",\"popularity\":21.072,\"poster_path\":\"\/sqbvjbJRzTduUj4lVm2FmPkqJkS.jpg\",\"production_companies\":[{\"id\":6116,\"logo_path\":\"\/yCu2D15iD7lcYsBWqXjU65U9nkH.png\",\"name\":\"Argos Films\",\"origin_country\":\"FR\"},{\"id\":24119,\"logo_path\":\"\/iNcPopycyTGDgWy6dDl5cnlfS3n.png\",\"name\":\"Radio-T\u00e9l\u00e9vision Fran\u00e7aise\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1962-02-16\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"A man's obsession with an image of his past.\",\"title\":\"La Jet\u00e9e\",\"video\":false,\"vote_average\":7.876,\"vote_count\":858}"
+}

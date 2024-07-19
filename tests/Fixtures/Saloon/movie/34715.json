@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1579",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23753",
+        "x-memc": "HIT",
+        "x-memc-key": "005d9df349b756a90d8cf3e77072f550",
+        "x-memc-age": "1476",
+        "x-memc-expires": "23753",
+        "ETag": "W\/\"77e44f47e4a38ee191cfc1d071440b2a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XV-utWdEmMz5s94OPwdF7UvLkAUQUbJ-4U73fT5wH6ua3mihMSdkCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":34709,\"name\":\"Hades Project: Zeorymer\",\"poster_path\":\"\/ejpuENWmPiCvhexUgsSmsCKvnq5.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":34715,\"imdb_id\":\"tt0158772\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u51a5\u738b\u8a08\u753b\u30bc\u30aa\u30e9\u30a4\u30de\u30fc\",\"overview\":\"Parts 1 & 2. When high school student Masato discovers that his parents aren't really his parents and that he's been selected to pilot the giant robot Zeorymer, he decides he must fight the evil corporation that built it. Unfortunately, the bad guys have already launched the mysterious Hades Project, and their giant robots outnumber Masato 7-to-1 in this Japanese anim\u00e9 series.\",\"popularity\":2.612,\"poster_path\":\"\/aUFVEUqsmxzUq8uQ8ft97pBXC5N.jpg\",\"production_companies\":[{\"id\":4690,\"logo_path\":\"\/bQXkraSwoBDVd8xEAOkxGQLBB1S.png\",\"name\":\"Anime International Company\",\"origin_country\":\"JP\"},{\"id\":12302,\"logo_path\":\"\/lkxJXc0o9M2vVoQOyWeZfiNAsXl.png\",\"name\":\"ARTMIC Co., Ltd.\",\"origin_country\":\"JP\"},{\"id\":104646,\"logo_path\":null,\"name\":\"Tokyo Laboratory\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1988-11-26\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hades Project: Zeorymer Separation\",\"video\":false,\"vote_average\":3.8,\"vote_count\":5}"
+}

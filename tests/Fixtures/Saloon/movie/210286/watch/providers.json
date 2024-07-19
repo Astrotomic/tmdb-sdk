@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1279",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12540",
+        "x-memc": "HIT",
+        "x-memc-key": "65d660810f9b3284a4ab26c719947941",
+        "x-memc-age": "16121",
+        "x-memc-expires": "12540",
+        "ETag": "W\/\"09f954c190f50045054562397e4e56a7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZIi_6SzkPps53JENUKALZlIWomCa4KvTo5T4xeoCReQuBbsJUZQoCw=="
+    },
+    "data": "{\"id\":210286,\"results\":{\"HK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/210286-x-x-the-movie-episode-red\/watch?locale=HK\",\"ads\":[{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":34}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/210286-x-x-the-movie-episode-red\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/210286-x-x-the-movie-episode-red\/watch?locale=TW\",\"ads\":[{\"logo_path\":\"\/j35eayHG7RC9Ll0ehtbOuek0TZL.jpg\",\"provider_id\":625,\"provider_name\":\"LINE TV\",\"display_priority\":35}]}}}"
+}

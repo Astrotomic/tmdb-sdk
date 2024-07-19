@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1416",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17194",
+        "x-memc": "HIT",
+        "x-memc-key": "fada655b943aeeb1b8f9550c616480a9",
+        "x-memc-age": "10170",
+        "x-memc-expires": "17194",
+        "ETag": "W\/\"91f958b1866147c4a14b2fbf4a9c7e01\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oFjXcTIryPHrqMK7xCSluGtUrmU0AHhWlANulELjxcTwa8xky2488w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7RxhC2ntrglVl1nkKjAgNoO0XP.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":998022,\"imdb_id\":\"tt26612950\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das Lehrerzimmer\",\"overview\":\"When one of her students is suspected of theft, teacher Carla Nowak decides to get to the bottom of the matter. Caught between her ideals and the school system, the consequences of her actions threaten to break her.\",\"popularity\":34.19,\"poster_path\":\"\/kWXA6PfQ0PpZpoCXoeBFRciRrUw.jpg\",\"production_companies\":[{\"id\":56655,\"logo_path\":\"\/2Jph4XYeNfvNZMYQ0Cc8PhBlNPu.png\",\"name\":\"if... Productions\",\"origin_country\":\"DE\"},{\"id\":4606,\"logo_path\":\"\/otZHbf1HmzLRQsZFSqJXkf8EHz7.png\",\"name\":\"ZDF\",\"origin_country\":\"DE\"},{\"id\":587,\"logo_path\":\"\/6UIpEURdjnmcJPwgTDRzVRuwADr.png\",\"name\":\"ARTE\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2023-05-04\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Teachers' Lounge\",\"video\":false,\"vote_average\":7.348,\"vote_count\":342}"
+}

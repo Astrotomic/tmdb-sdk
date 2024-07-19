@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "343",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:18:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23870",
+        "x-memc": "HIT",
+        "x-memc-key": "1a5c836db0f8fabe45dc11ad2306e011",
+        "x-memc-age": "4295",
+        "x-memc-expires": "23870",
+        "ETag": "W\/\"2d6ac1aa0183a86b7a69d9260309259a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tBXZpdoLVsr9z1UjCEI2sIjiRaOUQgl7KjwVEnRcGjDvNSL1lS98Ow=="
+    },
+    "data": "{\"id\":3173,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/3173\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1},{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]}}}"
+}

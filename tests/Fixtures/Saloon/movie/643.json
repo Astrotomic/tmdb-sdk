@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1346",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1286",
+        "x-memc": "HIT",
+        "x-memc-key": "cef48780c96f928b13aaa10b477d26f3",
+        "x-memc-age": "24131",
+        "x-memc-expires": "1286",
+        "ETag": "W\/\"dd33db3fe1a737d1e95cf78baca287be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9a76zqcMIq4TtWM9XWnYHM9nxBxo1Higzz8hQB4aoQx-ZtNwr1fEHQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uzr65Z3xDCjuMW7fw8Whm5curr7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":643,\"imdb_id\":\"tt0015648\",\"origin_country\":[\"SU\"],\"original_language\":\"ru\",\"original_title\":\"\u0411\u0440\u043e\u043d\u0435\u043d\u043e\u0441\u0435\u0446 \u041f\u043e\u0442\u0451\u043c\u043a\u0438\u043d\",\"overview\":\"A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre. The film had an incredible impact on the development of cinema and is a masterful example of montage editing.\",\"popularity\":22.993,\"poster_path\":\"\/tjnaRiHUsxBADaOwrQpnTnjHVwi.jpg\",\"production_companies\":[{\"id\":344,\"logo_path\":\"\/xenuUvcunUNpbaDOYGhWZERaym7.png\",\"name\":\"Mosfilm\",\"origin_country\":\"SU\"},{\"id\":105448,\"logo_path\":\"\/zPCdjtL8Ti2NHGSMoGSuEjSgkxZ.png\",\"name\":\"Goskino USSR\",\"origin_country\":\"SU\"}],\"production_countries\":[{\"iso_3166_1\":\"SU\",\"name\":\"Soviet Union\"}],\"release_date\":\"1925-12-24\",\"revenue\":45100,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"Revolution is the only lawful, equal, effectual war. It was in Russia that this war was declared and begun.\",\"title\":\"Battleship Potemkin\",\"video\":false,\"vote_average\":7.623,\"vote_count\":1119}"
+}

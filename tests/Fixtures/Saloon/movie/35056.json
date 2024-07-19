@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1455",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8355",
+        "x-memc": "HIT",
+        "x-memc-key": "79a024887acfcf878cf26dce9056b9f1",
+        "x-memc-age": "16030",
+        "x-memc-expires": "8355",
+        "ETag": "W\/\"76064b00de314723893f40228e5a2a7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sksHGO3gogcEYCWlvfyNtePyuijndAnOfjVxbG6U-WDIgUjQrOndUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2p119wtWAbsBkLBYbiF4qRULAIJ.jpg\",\"belongs_to_collection\":null,\"budget\":55000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":35056,\"imdb_id\":\"tt1279935\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Date Night\",\"overview\":\"Phil and Claire Foster fear that their mild-mannered relationship may be falling into a stale rut. During their weekly date night, their dinner reservation leads to their being mistaken for a couple of thieves\u2014and now a number of unsavoury characters want Phil and Claire killed.\",\"popularity\":24.724,\"poster_path\":\"\/ucEWhj32KEDcFKHMWVeu8r1Q4ld.jpg\",\"production_companies\":[{\"id\":444,\"logo_path\":null,\"name\":\"Dune Entertainment\",\"origin_country\":\"US\"},{\"id\":2575,\"logo_path\":\"\/9YJrHYlcfHtwtulkFMAies3aFEl.png\",\"name\":\"21 Laps Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-04-08\",\"revenue\":152300000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One ordinary couple. One little white lie.\",\"title\":\"Date Night\",\"video\":false,\"vote_average\":6.091,\"vote_count\":2784}"
+}

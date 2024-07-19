@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1546",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:29:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21946",
+        "x-memc": "HIT",
+        "x-memc-key": "36ae7ea6e91df4210e44b5d39dc91603",
+        "x-memc-age": "676",
+        "x-memc-expires": "21946",
+        "ETag": "W\/\"78bae3dfdb18bb4ff9d430b9d8e4fdd0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OrG3SKAvLc-ddhlDUuNhuvsKhrTS2FjBXH1buI083Rh6COQt7Q05Iw=="
+    },
+    "data": "{\"id\":1293078,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4725434,\"known_for_department\":\"Acting\",\"name\":\"Emily Zullo\",\"original_name\":\"Emily Zullo\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Ruby\/Allruby (Voice)\",\"credit_id\":\"664b912c7ac3faa57d79984a\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1850261,\"known_for_department\":\"Acting\",\"name\":\"Toni Senatore\",\"original_name\":\"Toni Senatore\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Narrator (Voice)\",\"credit_id\":\"664b914a184a46317292bac1\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":4725439,\"known_for_department\":\"Acting\",\"name\":\"Gino Meucci\",\"original_name\":\"Gino Meucci\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Bartender (Voice)\",\"credit_id\":\"664b9167b70f990006f2a9a5\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1251098,\"known_for_department\":\"Writing\",\"name\":\"Toby Jones\",\"original_name\":\"Toby Jones\",\"popularity\":1.565,\"profile_path\":null,\"cast_id\":5,\"character\":\"Toby Jones (Voice)\",\"credit_id\":\"664b9237cd84d8b4bf89cd85\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4725429,\"known_for_department\":\"Directing\",\"name\":\"Cris Mestre\",\"original_name\":\"Cris Mestre\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"664b910473cdb44bbf2feeb8\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4725429,\"known_for_department\":\"Directing\",\"name\":\"Cris Mestre\",\"original_name\":\"Cris Mestre\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"664b92d2020642a34ced4225\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

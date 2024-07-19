@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1716",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22233",
+        "x-memc": "HIT",
+        "x-memc-key": "fc6e1b10724b5fc90b76756828fddd7f",
+        "x-memc-age": "1220",
+        "x-memc-expires": "22233",
+        "ETag": "W\/\"25b09ee6975c976a0aa66b31c51e937a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gV6qs_tdK4SmZx5APBB37qig0isjmfPhdF5oISLc9ROpaqgh7Qz8Vg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/npCPnwDyWfQltGfIZKN6WqeUXGI.jpg\",\"belongs_to_collection\":{\"id\":121938,\"name\":\"The Hobbit Collection\",\"poster_path\":\"\/hQghXOjSS2xfzx9XnMyZqt8brCF.jpg\",\"backdrop_path\":\"\/sLy2GcCPrZcMlfaSSvoGeThWXBA.jpg\"},\"budget\":250000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.thehobbit.com\/\",\"id\":57158,\"imdb_id\":\"tt1170358\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hobbit: The Desolation of Smaug\",\"overview\":\"The Dwarves, Bilbo and Gandalf have successfully escaped the Misty Mountains, and Bilbo has gained the One Ring. They all continue their journey to get their gold back from the Dragon, Smaug.\",\"popularity\":98.492,\"poster_path\":\"\/xQYiXsheRCDBA39DOrmaw1aSpbk.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":11,\"logo_path\":\"\/6FAuASQHybRkZUk08p9PzSs9ezM.png\",\"name\":\"WingNut Films\",\"origin_country\":\"NZ\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-12-11\",\"revenue\":958400000,\"runtime\":161,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Beyond darkness... beyond desolation... lies the greatest danger of all.\",\"title\":\"The Hobbit: The Desolation of Smaug\",\"video\":false,\"vote_average\":7.577,\"vote_count\":12864}"
+}

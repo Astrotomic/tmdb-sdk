@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1039",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:18:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1880",
+        "x-memc": "HIT",
+        "x-memc-key": "a56f7d1b843855ad2b68783a69944582",
+        "x-memc-age": "21644",
+        "x-memc-expires": "1880",
+        "ETag": "W\/\"4eb3ee0b34b1edb89b273a70b513ad48\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vkEAUyIK1sBrrE5RkZCMJJE1-vRqedewabiBMTmmABCAVZ3ITckfYg=="
+    },
+    "data": "{\"id\":78188,\"results\":{\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/78188-cabin-pressure\/watch?locale=DE\",\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":14}]},\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/78188-cabin-pressure\/watch?locale=IT\",\"buy\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3}]},\"NZ\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/78188-cabin-pressure\/watch?locale=NZ\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":2}]}}}"
+}

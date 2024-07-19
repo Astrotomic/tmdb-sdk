@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1436",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20000",
+        "x-memc": "HIT",
+        "x-memc-key": "0a0eabcb4fb9f73845cf0ce927489190",
+        "x-memc-age": "3635",
+        "x-memc-expires": "20000",
+        "ETag": "W\/\"f33ad3a791dc796bb5b24ce70f1e5db5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y2tASGls035PAVZFidpxtzCc31gjj9o5cpbnizgX2ueofVT2m9n8gw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uYoQtSEwSY9mdcLoEgeD96k32Hk.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395706,\"imdb_id\":\"tt4173336\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Era d'estate\",\"overview\":\"Judges Giovanni Falcone and Paolo Borsellino would eventually fall at the hands of Italy\u2019s Cosa Nostra in 1992. However, before that, in 1985, they were preparing for the \u2018Mafia Maxi Trial\u2019 when a tip-off of a planned attack against their families sees them taken to an island in Sardinia to wait out the threat. This situation, somewhere between a forced vacation and witness protection, sees the men delve further into their work, the retreat allowing them to hone their case. Fate, however, is not to be escaped, and all too soon danger returns.\",\"popularity\":6.061,\"poster_path\":\"\/cOo9KiMaLnPrl0aVYMXfa3CnIlX.jpg\",\"production_companies\":[{\"id\":2441,\"logo_path\":\"\/7Vutdea75apwXkRyfQ4Ne6j0KcN.png\",\"name\":\"Fandango\",\"origin_country\":\"IT\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2016-05-23\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Era d'estate\",\"video\":false,\"vote_average\":6.7,\"vote_count\":24}"
+}

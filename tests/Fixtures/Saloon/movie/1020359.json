@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "815",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12716",
+        "x-memc": "HIT",
+        "x-memc-key": "4d7691b50caef2898220ec91b486eaaf",
+        "x-memc-age": "13407",
+        "x-memc-expires": "12716",
+        "ETag": "W\/\"e6222d6ac2686f2a85a02157819ce7dd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IFokpa-lixsdpIFgwzeS4FOgsvO4605Khv6Unt0H8xbABv2erZggPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1020359,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"\u010cern\u00e1 ruka aneb P\u0159\u00edb\u011bh z Ji\u017en\u00edho m\u011bsta\",\"overview\":\"\",\"popularity\":3.281,\"poster_path\":null,\"production_companies\":[{\"id\":121596,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 televize Ostrava\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1972-07-11\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"\u010cern\u00e1 ruka aneb P\u0159\u00edb\u011bh z Ji\u017en\u00edho m\u011bsta\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

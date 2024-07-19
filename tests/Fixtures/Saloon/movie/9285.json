@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1512",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19862",
+        "x-memc": "HIT",
+        "x-memc-key": "d76b9988af78bfdff28f08f3d820ec2f",
+        "x-memc-age": "6773",
+        "x-memc-expires": "19862",
+        "ETag": "W\/\"e8090ca47bbb3047b12810d4a9f801fc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yWH15h9mbLt3gZsk5SZ6VyENbY0aILixOb-l0A05gg8H4cBXiXS3iA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ghkFy6CriA1f0OPaCF67byRoazy.jpg\",\"belongs_to_collection\":{\"id\":96679,\"name\":\"Road Trip Collection\",\"poster_path\":\"\/7YC8Fa5nkyNvNHosNuWUJNPMBRS.jpg\",\"backdrop_path\":\"\/jGEnRLNK6fq7KMmw5rmApzfjVtw.jpg\"},\"budget\":16000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":9285,\"imdb_id\":\"tt0215129\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Road Trip\",\"overview\":\"After an Ithaca College student films his one-night stand with a beautiful sorority girl, he discovers one of his friends has accidentally mailed the homemade sex tape to his girlfriend in Austin. In a frenzy, he must borrow a car and hit the road in a desperate bid to intercept the tape.\",\"popularity\":35.903,\"poster_path\":\"\/jee4eY5tZprI0V18S6PXUloBzSk.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":2364,\"logo_path\":\"\/oZyR5maGM96jReVgW7oJ7mXN8ts.png\",\"name\":\"The Montecito Picture Company\",\"origin_country\":\"US\"},{\"id\":6443,\"logo_path\":null,\"name\":\"Ivan Reitman Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-05-19\",\"revenue\":119800000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The greatest college tradition of all.\",\"title\":\"Road Trip\",\"video\":false,\"vote_average\":6.2,\"vote_count\":1879}"
+}

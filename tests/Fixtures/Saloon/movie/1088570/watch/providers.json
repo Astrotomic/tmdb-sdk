@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "570",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22729",
+        "x-memc": "HIT",
+        "x-memc-key": "8802a090486bc0b152b686e0312333b3",
+        "x-memc-age": "1406",
+        "x-memc-expires": "22729",
+        "ETag": "W\/\"3c2ae9c8df2a64c9c61377f79c41965a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oDx3QwjH6XerwJJIlf2XdoTttXf4LJAoxMjD_3uprJABJiS5BQINMw=="
+    },
+    "data": "{\"id\":1088570,\"results\":{\"BE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1088570-karaoke\/watch?locale=BE\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1088570-karaoke\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1645",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20926",
+        "x-memc": "HIT",
+        "x-memc-key": "05315ff658fef61d8aa48e982de88966",
+        "x-memc-age": "6686",
+        "x-memc-expires": "20926",
+        "ETag": "W\/\"b37ede01cca03c5f50e090c5a41690c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1gIFZYWOPqhDw7wNsSaYu3Wa9Sqm98y-mCKq1lV2Og3Um3XA_tZmgQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rmNlWyez5cniGtXkgixG1ezdqVk.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1093995,\"imdb_id\":\"tt21301418\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Chief of Station\",\"overview\":\"After learning that the death of his wife was not an accident, a former CIA Station Chief is forced back into the espionage underworld, teaming up with an adversary to unravel a conspiracy that challenges everything he thought he knew.\",\"popularity\":192.564,\"poster_path\":\"\/uuA01PTtPombRPvL9dvsBqOBJWm.jpg\",\"production_companies\":[{\"id\":5641,\"logo_path\":null,\"name\":\"Bee Holder Productions\",\"origin_country\":\"US\"},{\"id\":62709,\"logo_path\":null,\"name\":\"Concourse Media\",\"origin_country\":\"US\"},{\"id\":189103,\"logo_path\":\"\/hu0qcD4k7kfWpdAewqmJSUyZPa7.png\",\"name\":\"Ashland Hill Media Finance\",\"origin_country\":\"US\"},{\"id\":173156,\"logo_path\":null,\"name\":\"TDP FILMS\",\"origin_country\":\"\"},{\"id\":159674,\"logo_path\":\"\/2NAHsquI5QpycL3RnnxlESGgS7C.png\",\"name\":\"Filmology Finance\",\"origin_country\":\"\"},{\"id\":90423,\"logo_path\":\"\/8KJcTfZZx3IV4dLYLIO7ogkD615.png\",\"name\":\"Tip-Top Productions\",\"origin_country\":\"US\"},{\"id\":80609,\"logo_path\":null,\"name\":\"Mirror Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-02\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Revenge knows no limits.\",\"title\":\"Chief of Station\",\"video\":false,\"vote_average\":5.565,\"vote_count\":54}"
+}

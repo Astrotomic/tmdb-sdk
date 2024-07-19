@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1375",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21155",
+        "x-memc": "HIT",
+        "x-memc-key": "7d57fe4fd37fceb8f7f2c41b7bbc181c",
+        "x-memc-age": "4997",
+        "x-memc-expires": "21155",
+        "ETag": "W\/\"8363c931e5447ff01b0d1ce80395d580\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tI8AamYZ5eFlwX5fmeBt7XIFCKM7XOxm-VT3d5DXx0BjIXO9SeEa7w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vo3cB6xkMswMz9gB2X517TmxmI2.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":430,\"imdb_id\":\"tt0055256\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"One, Two, Three\",\"overview\":\"C.R. MacNamara is a managing director for Coca Cola in West Berlin during the Cold War, just before the Wall is put up. When Scarlett, the rebellious daughter of his boss, comes to West Berlin, MacNamara has to look after her, but this turns out to be a difficult task when she reveals to be married to a communist.\",\"popularity\":15.621,\"poster_path\":\"\/yWQE227ub1frfnjP5HZy0wLF0wu.jpg\",\"production_companies\":[{\"id\":219,\"logo_path\":null,\"name\":\"The Mirisch Company\",\"origin_country\":\"US\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1961-12-15\",\"revenue\":4000000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Billy Wilder's Explosive New Comedy\",\"title\":\"One, Two, Three\",\"video\":false,\"vote_average\":7.5,\"vote_count\":356}"
+}

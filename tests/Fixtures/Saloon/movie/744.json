@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1487",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=404",
+        "x-memc": "HIT",
+        "x-memc-key": "1432f43329f017628a8e007cd339ccbd",
+        "x-memc-age": "25421",
+        "x-memc-expires": "404",
+        "ETag": "W\/\"d7cca2da9b5f5c7a6fef9cc71b568f4a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VL1JsyTi3RTkg9YWVIAebiTzom5qTvzArUQ0cFmYfmySa6tRhZsewA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j6sAlNz354qtzvG01LLYF16Uufg.jpg\",\"belongs_to_collection\":{\"id\":531330,\"name\":\"Top Gun Collection\",\"poster_path\":\"\/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg\",\"backdrop_path\":\"\/9MGm0XT04ob99MyGQfMT7I8y3UE.jpg\"},\"budget\":15000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.paramountpictures.com\/movies\/top-gun\",\"id\":744,\"imdb_id\":\"tt0092099\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Top Gun\",\"overview\":\"For Lieutenant Pete 'Maverick' Mitchell and his friend and co-pilot Nick 'Goose' Bradshaw, being accepted into an elite training school for fighter pilots is a dream come true. But a tragedy, as well as personal demons, will threaten Pete's dreams of becoming an ace pilot.\",\"popularity\":177.408,\"poster_path\":\"\/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":10288,\"logo_path\":\"\/Aszf09kIVXR6cwG9lwjZIawbYVS.png\",\"name\":\"Don Simpson\/Jerry Bruckheimer Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-05-16\",\"revenue\":356830601,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Up there with the best of the best.\",\"title\":\"Top Gun\",\"video\":false,\"vote_average\":7.058,\"vote_count\":8330}"
+}

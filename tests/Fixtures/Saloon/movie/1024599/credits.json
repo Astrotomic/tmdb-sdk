@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1770",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19118",
+        "x-memc": "HIT",
+        "x-memc-key": "95fd630fbf93933a92a99ec631180377",
+        "x-memc-age": "5546",
+        "x-memc-expires": "19118",
+        "ETag": "W\/\"209b2fd5cad17d78db8c02c9729c6d7c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eBQK10fitIQg0KqmLMmBjvvacJjg9QaucFI6rnLBagyw7fScWqauBg=="
+    },
+    "data": "{\"id\":1024599,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":2487542,\"known_for_department\":\"Acting\",\"name\":\"Joe Wilcox\",\"original_name\":\"Joe Wilcox\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Unassuming Man\",\"credit_id\":\"63227648db154f007d3b32b3\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3701363,\"known_for_department\":\"Acting\",\"name\":\"Dusty Moore\",\"original_name\":\"Dusty Moore\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Red Herring\",\"credit_id\":\"6322767c2973380083d05049\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3701364,\"known_for_department\":\"Acting\",\"name\":\"Austin Woodbury\",\"original_name\":\"Austin Woodbury\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"The Old Man\",\"credit_id\":\"632276b1f14dad0082884394\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":2487545,\"known_for_department\":\"Acting\",\"name\":\"Ben Howes\",\"original_name\":\"Ben Howes\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Ben Shapiro\",\"credit_id\":\"632276ebfd4a960091846ae6\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":2487546,\"known_for_department\":\"Acting\",\"name\":\"Ari St. Peter\",\"original_name\":\"Ari St. Peter\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"The Friend\",\"credit_id\":\"63227716244182007f8c2042\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":2487544,\"known_for_department\":\"Acting\",\"name\":\"Tom Young\",\"original_name\":\"Tom Young\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"The Smoker\",\"credit_id\":\"6322773e511d090098521f99\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2487542,\"known_for_department\":\"Acting\",\"name\":\"Joe Wilcox\",\"original_name\":\"Joe Wilcox\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6322779fa4af8f007bec5f9a\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

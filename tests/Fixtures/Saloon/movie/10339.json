@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1384",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5133",
+        "x-memc": "HIT",
+        "x-memc-key": "d8021a0718f98d4b3712eaf7d97e8513",
+        "x-memc-age": "17292",
+        "x-memc-expires": "5133",
+        "ETag": "W\/\"374fe04e5205212f01fb8c95fe1d2946\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kwouVdsG93UlMhk9e-sEUadT_KZur5vCqTgZUWPz6WySBF9QUql4UQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2k31QkcjDaCEWNMDpNkEgvUBFYd.jpg\",\"belongs_to_collection\":null,\"budget\":4500000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10339,\"imdb_id\":\"tt0049513\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Moby Dick\",\"overview\":\"In 1841, young Ishmael signs up for service aboard the Pequod, a whaler sailing out of New Bedford. The ship is under the command of Captain Ahab, a strict disciplinarian who exhorts his men to find Moby Dick, the great white whale. Ahab lost his his leg to that creature and is desperate for revenge. As the crew soon learns, he will stop at nothing to gain satisfaction.\",\"popularity\":40.734,\"poster_path\":\"\/7JXcm3RyWlGsRCZ0YlOliWr6TNv.jpg\",\"production_companies\":[{\"id\":14373,\"logo_path\":null,\"name\":\"Moulin Productions Inc.\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1956-06-27\",\"revenue\":10400000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The man\u00a0\u2013 The whale\u00a0\u2013 The vengeance\u00a0\u2013 The mightiest adventure ever seen!\",\"title\":\"Moby Dick\",\"video\":false,\"vote_average\":6.997,\"vote_count\":393}"
+}

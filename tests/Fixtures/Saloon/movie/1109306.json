@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "895",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5465",
+        "x-memc": "HIT",
+        "x-memc-key": "2fd32e411f09cf8e077d626ab0659b26",
+        "x-memc-age": "19856",
+        "x-memc-expires": "5465",
+        "ETag": "W\/\"0b295f7cc1350d045af65779c77e0dfc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-4SC4txaHkw5dWlyXKq0dukcWhEiQsbPq0c9U2uYyZib43au98mKuA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a0Q0LvfvcWn2wSWShjSTqDW8W0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1109306,\"imdb_id\":\"tt23769946\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Un mondo a parte\",\"overview\":\"\",\"popularity\":14.829,\"poster_path\":\"\/f5ZibJ7crzGLLQ5AygBexzQMtR4.jpg\",\"production_companies\":[{\"id\":21246,\"logo_path\":\"\/e5NWP10OYWCUa0T363WxkNzL78s.png\",\"name\":\"Wildside\",\"origin_country\":\"IT\"},{\"id\":6246,\"logo_path\":\"\/7X6pfxldTiOD7MLo2EQqUQlmOUw.png\",\"name\":\"Medusa Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2024-03-28\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Un mondo a parte\",\"video\":false,\"vote_average\":6.685,\"vote_count\":46}"
+}

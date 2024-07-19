@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1001",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2888",
+        "x-memc": "HIT",
+        "x-memc-key": "861523f66ca85d1ef7fc9402664da9ee",
+        "x-memc-age": "20755",
+        "x-memc-expires": "2888",
+        "ETag": "W\/\"e1505e550a8a3fcd6bed63fb9bd87cbd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QDZc2ORl0sFbZkNYz4HYoFTBaYJvqhmdnyZBc76U5kq_zWRpem8vCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3fIELwQezqPoIrfgzCf19r9TymE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":628866,\"imdb_id\":\"tt8429394\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Return\",\"overview\":\"After the death of his father, a brilliant college student returns to his family home where he learns that the horrors from his childhood aren't as dead and gone as he once thought.\",\"popularity\":30.778,\"poster_path\":\"\/rK2gW2kOIC5hG3JjVB81vU9v8gC.jpg\",\"production_companies\":[{\"id\":43384,\"logo_path\":null,\"name\":\"Strata Studios\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2020-09-05\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Childhood horrors can kill.\",\"title\":\"The Return\",\"video\":false,\"vote_average\":6.8,\"vote_count\":283}"
+}

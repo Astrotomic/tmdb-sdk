@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1222",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26865",
+        "x-memc": "HIT",
+        "x-memc-key": "7c5ef4eed1f631ee1e94fd16a749df29",
+        "x-memc-age": "855",
+        "x-memc-expires": "26865",
+        "ETag": "W\/\"25f398841a5acc4bb7e8186266f0ebe1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MhCOwQ5Og7QEwuVueX2Qiw37QloVkIv2i5gEbRwvTHfPLEucNGd5lA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3H5vs160CBhmBqn1fevnjNrg9R5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":221179,\"imdb_id\":\"tt6356834\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30ac\u30c7\u30e5\u30ea\u30f3\",\"overview\":\"Due to a spacecraft malfunction, saleryman Ryu and his robot companion \\\"MOS-01\\\" crash land on the space ship\/planet Gdleen. Ryu meets a cute Euredonian fairy called Fana and the two are soon entangled in a long standing war between the monsterous Babaress and the spell casting Miyorl tribes.\",\"popularity\":3.742,\"poster_path\":\"\/m8pif6GGWrAf5sLyEJztH6lsCdj.jpg\",\"production_companies\":[{\"id\":50437,\"logo_path\":\"\/8jq5FaCCOGeayLOuyCS5HX6PkcL.png\",\"name\":\"Ashi Productions\",\"origin_country\":\"JP\"},{\"id\":135642,\"logo_path\":null,\"name\":\"Seta Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1990-03-01\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gdleen\",\"video\":false,\"vote_average\":3.5,\"vote_count\":1}"
+}

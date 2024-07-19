@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1392",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:59:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9000",
+        "x-memc": "HIT",
+        "x-memc-key": "7d39cd93e8a50f11d05332ce7a343e81",
+        "x-memc-age": "17205",
+        "x-memc-expires": "9000",
+        "ETag": "W\/\"30939433dd472fa0b62ca34ea4cf6497\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ch69bFBmLgDuWEPHNEKMxd-9Fu5Y1rsjHdY6iSakec6f10pFgekjzg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5ps2H3srzXZgmpI0yPv2xH6gc2W.jpg\",\"belongs_to_collection\":null,\"budget\":4500000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":698128,\"imdb_id\":\"tt9005184\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dual\",\"overview\":\"A terminally ill woman opts for a cloning procedure to ease her loss on her friends and family. When she makes a miraculous recovery, her attempts to have her clone decommissioned fail and lead to a court-mandated duel to the death.\",\"popularity\":30.228,\"poster_path\":\"\/wDEse2TQRiyfhdlusSXBdkDOQRj.jpg\",\"production_companies\":[{\"id\":12142,\"logo_path\":\"\/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png\",\"name\":\"XYZ Films\",\"origin_country\":\"US\"},{\"id\":142269,\"logo_path\":\"\/ggrWFqk5mPMks0vE3aCy3l9e0dv.png\",\"name\":\"IPR.VC\",\"origin_country\":\"FI\"},{\"id\":24195,\"logo_path\":null,\"name\":\"Resolute Films and Entertainment\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-03-18\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The only thing that can stop you is you.\",\"title\":\"Dual\",\"video\":false,\"vote_average\":5.993,\"vote_count\":288}"
+}

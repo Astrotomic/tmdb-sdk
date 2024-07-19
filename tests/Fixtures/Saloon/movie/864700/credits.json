@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1577",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8649",
+        "x-memc": "HIT",
+        "x-memc-key": "f1660c353dc044aae9189d76d61f6419",
+        "x-memc-age": "14472",
+        "x-memc-expires": "8649",
+        "ETag": "W\/\"509a7d9b72c11eea741bd9f0859cd833\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EhuIIIL62dRmmDX-1sD8mXTCZ4_gFON5d9BDKmNUXPLK5cjEaw-zLw=="
+    },
+    "data": "{\"id\":864700,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3158000,\"known_for_department\":\"Acting\",\"name\":\"Billy Dubose\",\"original_name\":\"Billy Dubose\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Matt \\\"Razor Shark\\\" Kennedy\",\"credit_id\":\"65ca259f03726400e799adf0\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1094101,\"known_for_department\":\"Acting\",\"name\":\"Robert Scott Field\",\"original_name\":\"Robert Scott Field\",\"popularity\":1.132,\"profile_path\":null,\"cast_id\":5,\"character\":\"Agent M11\",\"credit_id\":\"65ca25cfce6c4c0149b9fb8e\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":18615,\"known_for_department\":\"Acting\",\"name\":\"Akira Takarada\",\"original_name\":\"Akira Takarada\",\"popularity\":14.032,\"profile_path\":\"\/bnL8ZbICuHSXrTJlLYf3EDa3zfW.jpg\",\"cast_id\":6,\"character\":\"Sec. General Fuji\",\"credit_id\":\"65ca25e6ce6c4c0149b9fb9d\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3158000,\"known_for_department\":\"Acting\",\"name\":\"Billy Dubose\",\"original_name\":\"Billy Dubose\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ca24e5266778017c5a7b8e\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3158000,\"known_for_department\":\"Acting\",\"name\":\"Billy Dubose\",\"original_name\":\"Billy Dubose\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ca24f0ce6c4c0149b9fb38\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3158000,\"known_for_department\":\"Acting\",\"name\":\"Billy Dubose\",\"original_name\":\"Billy Dubose\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ca25019451e701637bb0d4\",\"department\":\"Editing\",\"job\":\"Editor\"}]}"
+}

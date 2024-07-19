@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1148",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15926",
+        "x-memc": "HIT",
+        "x-memc-key": "0f96a97710ddf241d3153e690d1f4ba7",
+        "x-memc-age": "8070",
+        "x-memc-expires": "15926",
+        "ETag": "W\/\"d0c47b406681628cd59a640295eaac6c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Xv4CPYBtZg1pUMgpa8-F67a0t2SRZb69TVvBjfhGJcaUZgjJS4CsmA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/t5QXxomB1NjblNmIKFe1VgnPQ9U.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":555294,\"imdb_id\":\"tt12975374\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30a6\u30eb\u30c8\u30e9\u30cb\u30e3\u30f3\uff12\u3000\u30cf\u30c3\u30d4\u30fc\u5927\u4f5c\u6226\",\"overview\":\"Ultra-Nyan's adventures continue. This time, he is tasked with finding the cause of the crows' sudden declaration of war upon the cats.\",\"popularity\":5.274,\"poster_path\":\"\/tdGngDY6e3hbiyooI2BEc8s9beW.jpg\",\"production_companies\":[{\"id\":192,\"logo_path\":\"\/93eAKlnQecDdMtucfOprzcjMw9V.png\",\"name\":\"Shochiku\",\"origin_country\":\"JP\"},{\"id\":3530,\"logo_path\":null,\"name\":\"Triangle Staff\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1998-03-14\",\"revenue\":0,\"runtime\":30,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ultra Nyan 2: The Great Happy Operation\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1379",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20005",
+        "x-memc": "HIT",
+        "x-memc-key": "a96dc00e1e4357435bea5c7eeac1df06",
+        "x-memc-age": "6746",
+        "x-memc-expires": "20005",
+        "ETag": "W\/\"6448d76b04eb05472e3263975d4aa400\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "khRVTOIB_1LIyR_Anyuyr-2zXQvaZon302iKNMhHmWKeLi1JzhEP8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dmyWErK0752dyJnA0YT1Vfi9HzU.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.ratchetandclankmovie.com\",\"id\":234004,\"imdb_id\":\"tt2865120\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ratchet & Clank\",\"overview\":\"When the galaxy comes under the threat of a nefarious space captain, a mechanic and his newfound robot ally join an elite squad of combatants to save the universe.\",\"popularity\":26.726,\"poster_path\":\"\/649xP2LST4VIrZ5cLPw7Ys9movF.jpg\",\"production_companies\":[{\"id\":30786,\"logo_path\":null,\"name\":\"Blockade Entertainment\",\"origin_country\":\"US\"},{\"id\":143508,\"logo_path\":null,\"name\":\"CNHK Media China\",\"origin_country\":\"HK\"},{\"id\":102897,\"logo_path\":\"\/ackYRJXIse2uoLDawNVs1HzEJgm.png\",\"name\":\"Rainmaker Entertainment\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-04-13\",\"revenue\":8800000,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Kick Some Asteroid.\",\"title\":\"Ratchet & Clank\",\"video\":false,\"vote_average\":5.764,\"vote_count\":604}"
+}

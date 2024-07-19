@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1094",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26827",
+        "x-memc": "HIT",
+        "x-memc-key": "3d057140328c3bfd88bda1790a26b597",
+        "x-memc-age": "1843",
+        "x-memc-expires": "26827",
+        "ETag": "W\/\"44da3beb2942a9e9736590bc78baa2a9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xZ6EdJz92gKpkHA8WYioWyYoju1M2xYkfTHfbJ3pNqFaN6tQD_AFyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dJww8jI8Zqx1vL70lDK3EcxiZ04.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":222339,\"imdb_id\":\"tt0099474\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dune Warriors\",\"overview\":\"After the end of the world, Earth is a thirsty planet ruled by vicious warlords. One woman is brave enough to fight back; she bands together five warriors to save her town and their precious water\",\"popularity\":9.755,\"poster_path\":\"\/gIdY8sYd3joPeHqnK5qUxABNieD.jpg\",\"production_companies\":[{\"id\":20235,\"logo_path\":null,\"name\":\"New Horizons Picture\",\"origin_country\":\"\"},{\"id\":4688,\"logo_path\":null,\"name\":\"Concorde-New Horizons\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-01-18\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dune Warriors\",\"video\":false,\"vote_average\":4.1,\"vote_count\":19}"
+}

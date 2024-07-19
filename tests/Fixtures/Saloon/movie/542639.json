@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "833",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5680",
+        "x-memc": "HIT",
+        "x-memc-key": "db9bc77cb20a34c17e124ebd8eef1fa6",
+        "x-memc-age": "16013",
+        "x-memc-expires": "5680",
+        "ETag": "W\/\"2daca7a334b972bfd7f99275be508938\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qYfKsHD0UA4r1m5YNDfj3nY6N0hgK-ZoONHvO94nm7Gm2z1ufAcwLQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gRxtargRux25LWuVXInASkkojzU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":542639,\"imdb_id\":\"tt0197439\",\"origin_country\":[\"GR\"],\"original_language\":\"el\",\"original_title\":\"\u0395\u03b8\u03b5\u03bb\u03bf\u03bd\u03c4\u03ae\u03c2 \u03c3\u03c4\u03bf\u03bd \u0388\u03c1\u03c9\u03c4\u03b1\",\"overview\":\"\",\"popularity\":4.618,\"poster_path\":\"\/o8nrPhkYYU3DmpqRUdbOotnwSVp.jpg\",\"production_companies\":[{\"id\":22155,\"logo_path\":\"\/qLSar0cnYCEvazUsnP9UkBsY0GJ.png\",\"name\":\"Karagiannis-Karatzopoulos\",\"origin_country\":\"GR\"}],\"production_countries\":[{\"iso_3166_1\":\"GR\",\"name\":\"Greece\"}],\"release_date\":\"1971-08-23\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Volunteer in Eros\",\"video\":false,\"vote_average\":5.3,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1050",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13233",
+        "x-memc": "HIT",
+        "x-memc-key": "5aab592216d3df4ec66339dbb3f3326c",
+        "x-memc-age": "9405",
+        "x-memc-expires": "13233",
+        "ETag": "W\/\"0bc22be6e331c587fe8376dda504ab10\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "12qTMayvodDpxRNar5uDrRQmRMXEj3wLwn_tP6beNj6iaWaATjljRA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iJCJ1ThBmuYtJyi3rgQWl56qVXt.jpg\",\"belongs_to_collection\":null,\"budget\":17000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.roarthemovie.com\/\",\"id\":2989,\"imdb_id\":\"tt0083001\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Roar\",\"overview\":\"Roar follows a family who are attacked by various African animals at the secluded home of their keeper.\",\"popularity\":27.531,\"poster_path\":\"\/dFI2504MT4JrhQuzDXNB1zwzt3d.jpg\",\"production_companies\":[{\"id\":8310,\"logo_path\":null,\"name\":\"American Filmworks\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-11-12\",\"revenue\":2000000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"No animals were harmed in the making of this movie. 70 members of the cast and crew were.\",\"title\":\"Roar\",\"video\":false,\"vote_average\":6.0,\"vote_count\":112}"
+}

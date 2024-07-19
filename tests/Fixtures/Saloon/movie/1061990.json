@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1089",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9965",
+        "x-memc": "HIT",
+        "x-memc-key": "3e931222f9f7f54a54bb6bc2a2cb1e36",
+        "x-memc-age": "16187",
+        "x-memc-expires": "9965",
+        "ETag": "W\/\"f61b1005974aa602429d5bb7e0596976\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BeuPDh9WgEx_VRR2sNb3bPluX4xfypFkKf8HFrgYd17vGYE_dMz29g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/68afPR6EPV5wkE85whdO6al7FUx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81454087\",\"id\":1061990,\"imdb_id\":\"tt24478470\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b7\u30c6\u30a3\u30fc\u30cf\u30f3\u30bf\u30fc\",\"overview\":\"An exceptional marksman and hopeless playboy, private eye Ryo Saeba reluctantly forms an alliance with his late partner's sister to investigate his death.\",\"popularity\":95.99,\"poster_path\":\"\/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg\",\"production_companies\":[{\"id\":4330,\"logo_path\":\"\/n8v5Ii8FCPHAg0KaIXviDRFSqhG.png\",\"name\":\"Horipro\",\"origin_country\":\"JP\"},{\"id\":185004,\"logo_path\":\"\/tyHnxjQJLH6h4iDQKhN5iqebWmX.png\",\"name\":\"Netflix\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2024-04-24\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"City Hunter\",\"video\":false,\"vote_average\":6.443,\"vote_count\":150}"
+}

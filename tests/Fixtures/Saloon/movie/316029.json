@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1255",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2267",
+        "x-memc": "HIT",
+        "x-memc-key": "b6b6d1918b378aced180b74e402419e7",
+        "x-memc-age": "23793",
+        "x-memc-expires": "2267",
+        "ETag": "W\/\"89becb9dad513f4c793db8445ecfd014\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RJas_nzoZmRKYGMSJSsW7UOV4ebPdX9iYe2Os2gTufdjb6liq9ZbsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg\",\"belongs_to_collection\":null,\"budget\":84000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/thegreatestshowman.com\/\",\"id\":316029,\"imdb_id\":\"tt1485796\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Greatest Showman\",\"overview\":\"The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.\",\"popularity\":78.788,\"poster_path\":\"\/b9CeobiihCx1uG1tpw8hXmpi7nm.jpg\",\"production_companies\":[{\"id\":7076,\"logo_path\":\"\/8BFxn9NUWSgp0ndih569Gm62xiC.png\",\"name\":\"Chernin Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-12-20\",\"revenue\":432800000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The impossible comes true.\",\"title\":\"The Greatest Showman\",\"video\":false,\"vote_average\":7.89,\"vote_count\":9215}"
+}

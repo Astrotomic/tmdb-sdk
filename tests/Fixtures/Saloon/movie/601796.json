@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1329",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16650",
+        "x-memc": "HIT",
+        "x-memc-key": "cccea6e4658ddde6dcd49eda74beccde",
+        "x-memc-age": "5736",
+        "x-memc-expires": "16650",
+        "ETag": "W\/\"f68955626aaa0fd317095726912b5c71\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wZufrLQspl08O6b_MjeC9i1Y037KsypolveOyrdVe7WoceFvAEFC_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg\",\"belongs_to_collection\":{\"id\":1000386,\"name\":\"Alienoid Collection\",\"poster_path\":\"\/jNFe0AY1W7RtOjhMt7qipS3TCfK.jpg\",\"backdrop_path\":\"\/tySCSCVveLrYl4RpTQIQXMMYcF6.jpg\"},\"budget\":24500000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":601796,\"imdb_id\":\"tt20168564\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc678\uacc4+\uc778 1\ubd80\",\"overview\":\"Gurus in the late Goryeo dynasty try to obtain a fabled, holy sword, and humans in 2022 hunt down an alien prisoner that is locked in a human's body. The two parties cross paths when a time-traveling portal opens up.\",\"popularity\":263.558,\"poster_path\":\"\/8QVDXDiOGHRcAD4oM6MXjE0osSj.jpg\",\"production_companies\":[{\"id\":118358,\"logo_path\":\"\/57u7ny0hdDRaDdwdrNTTj9np6Cx.png\",\"name\":\"Caper Film\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2022-07-20\",\"revenue\":12600000,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"For ages, aliens have locked up their prisoners in humans bodies.\",\"title\":\"Alienoid\",\"video\":false,\"vote_average\":6.9,\"vote_count\":378}"
+}

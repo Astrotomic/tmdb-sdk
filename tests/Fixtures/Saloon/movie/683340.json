@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1294",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3343",
+        "x-memc": "HIT",
+        "x-memc-key": "4735068a1a4ec22625176aa1d4844582",
+        "x-memc-age": "21626",
+        "x-memc-expires": "3343",
+        "ETag": "W\/\"3ac3832f6703f19745c8334db031350a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ld9ulLajR8GyvaAe6LErg35cXzp-7QxodI6k9LlizEK58YX3UVdMSQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jwFBzWabfWpnN9P5YIVVX5W8WUY.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.focusfeatures.com\/vengeance\",\"id\":683340,\"imdb_id\":\"tt11976532\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Vengeance\",\"overview\":\"A journalist and podcaster from New York City travels to West Texas in order to report on the death of a girl he was hooking up with.\",\"popularity\":28.525,\"poster_path\":\"\/n1SlTeEv3dNJB3gF9AHAVElQ6LO.jpg\",\"production_companies\":[{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":10146,\"logo_path\":\"\/xnFIOeq5cKw09kCWqV7foWDe4AA.png\",\"name\":\"Focus Features\",\"origin_country\":\"US\"},{\"id\":89115,\"logo_path\":\"\/zQwTHJVIruUlGsa7zIdfXuSm9GG.png\",\"name\":\"Divide \/ Conquer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-07-29\",\"revenue\":4225720,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Find the story before it finds you.\",\"title\":\"Vengeance\",\"video\":false,\"vote_average\":6.621,\"vote_count\":336}"
+}

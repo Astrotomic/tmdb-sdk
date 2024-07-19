@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3763",
+        "x-memc": "HIT",
+        "x-memc-key": "166b30fa7f7481674823d8746c7e24e3",
+        "x-memc-age": "24083",
+        "x-memc-expires": "3763",
+        "ETag": "W\/\"c01f4027e8d1435e73c69f421a6a5bb2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GuUyz76da3gMnCsykDUgqryL72Pnmwxkdq4Oy_2xRVRLFCvXyCLtbg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bYJyQqqJV30RJX6VPE3Rz1lPZhH.jpg\",\"belongs_to_collection\":null,\"budget\":72000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":2100,\"imdb_id\":\"tt0272020\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Last Castle\",\"overview\":\"A court-martialed general rallies together 1200 inmates to rise against the system that put him away.\",\"popularity\":25.422,\"poster_path\":\"\/9OHuF3SFLc16XnSkosAAlFbI1YD.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":12245,\"logo_path\":null,\"name\":\"Robert Lawrence Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-10-19\",\"revenue\":27642707,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Castle Can Only Have One King\",\"title\":\"The Last Castle\",\"video\":false,\"vote_average\":7.156,\"vote_count\":1212}"
+}

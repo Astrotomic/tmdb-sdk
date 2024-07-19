@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1635",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=106",
+        "x-memc": "HIT",
+        "x-memc-key": "b8323e6324cdeb2b6a5c5016b2f48d01",
+        "x-memc-age": "21902",
+        "x-memc-expires": "106",
+        "ETag": "W\/\"47868adec79625572fd056d4dd8a13d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CROcCNW0X9SGzXEo-LYzosOswEKJv3pPvQ8Jn52YjmuVFQcdHDclQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pPiSOLhGcwgfvtzWLU4hDNSg35N.jpg\",\"belongs_to_collection\":{\"id\":1139100,\"name\":\"The Jungle Bunch Collection\",\"poster_path\":\"\/3vhIR6Hm8CeclZEuYiXncmkS7sc.jpg\",\"backdrop_path\":\"\/g75zHMHQ0bU9JJFJmQ4bQEQhxw5.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1034055,\"imdb_id\":\"tt21810762\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Les As de la jungle 2 : Op\u00e9ration tour du monde\",\"overview\":\"A vicious beaver blankets the jungle with a dangerous pink substance that explodes when coming into contact with water. With the rainy season approaching, the miscellaneous team of animals must hurry to find the antidote.\",\"popularity\":12.007,\"poster_path\":\"\/uxkvv9KAhJFeIRDtg7OKtYsHziC.jpg\",\"production_companies\":[{\"id\":28792,\"logo_path\":null,\"name\":\"TAT Productions\",\"origin_country\":\"FR\"},{\"id\":2902,\"logo_path\":\"\/vFmmYSgFp8eE6C34JVCXy9bJFmc.png\",\"name\":\"SND\",\"origin_country\":\"FR\"},{\"id\":1115,\"logo_path\":\"\/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png\",\"name\":\"M6 Films\",\"origin_country\":\"FR\"},{\"id\":591,\"logo_path\":\"\/q5I5RDwMEiqoNmfaJgd2LraEOJY.png\",\"name\":\"France 3 Cin\u00e9ma\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2023-08-16\",\"revenue\":8870834,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Jungle Bunch 2: World Tour\",\"video\":false,\"vote_average\":7.406,\"vote_count\":16}"
+}

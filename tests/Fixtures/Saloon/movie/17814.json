@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1160",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18679",
+        "x-memc": "HIT",
+        "x-memc-key": "c23dc1f215baeceaa86ee33ce0255cb8",
+        "x-memc-age": "4153",
+        "x-memc-expires": "18679",
+        "ETag": "W\/\"2fc6e843188bf3def35b4e2a72b945db\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "N6vAeCkoM-PsP2_cnOSfGyKPcbudJ3v93ypKRdvkpXJ5JY2o6LxHKQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/28lA2YGj74GU4CG4S5DoRmi9mNl.jpg\",\"belongs_to_collection\":null,\"budget\":150000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.theofficialjohncarpenter.com\/assault-of-precinct-13\/\",\"id\":17814,\"imdb_id\":\"tt0074156\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Assault on Precinct 13\",\"overview\":\"The lone inhabitants of an abandoned police station are under attack by the overwhelming numbers of a seemingly unstoppable street gang.\",\"popularity\":18.039,\"poster_path\":\"\/RtGDEmXbSxE8NThCCY1SXFXLLw.jpg\",\"production_companies\":[{\"id\":888,\"logo_path\":null,\"name\":\"Overseas FilmGroup\",\"origin_country\":\"US\"},{\"id\":3403,\"logo_path\":null,\"name\":\"The CKK Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1976-10-08\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A white-hot night of hate!\",\"title\":\"Assault on Precinct 13\",\"video\":false,\"vote_average\":7.285,\"vote_count\":1039}"
+}

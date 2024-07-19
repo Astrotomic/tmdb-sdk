@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1318",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3442",
+        "x-memc": "HIT",
+        "x-memc-key": "634ec4091a4a0bbe4bc6ac78051ed815",
+        "x-memc-age": "22169",
+        "x-memc-expires": "3442",
+        "ETag": "W\/\"18aca3dcf843acd0e4d18522eb12ebbf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "layCfAwtWQnVGSr220xhiOWyzl9V-nQrA7F2wSYRrNAWCBeorG4akQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.saintnickfilm.com\/\",\"id\":1205925,\"imdb_id\":\"tt27694684\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saint Nick of Bethlehem\",\"overview\":\"Distraught over losing his son, Nick finds closure and discovers a new purpose when he takes on the role of Santa Claus.\",\"popularity\":5.395,\"poster_path\":\"\/joRJmlyvWPj7Uv2zWfelWHrKzf6.jpg\",\"production_companies\":[{\"id\":185629,\"logo_path\":null,\"name\":\"Hard Faith\",\"origin_country\":\"\"},{\"id\":213652,\"logo_path\":null,\"name\":\"Scatter Brothers Productions\",\"origin_country\":\"\"},{\"id\":133554,\"logo_path\":null,\"name\":\"SpenceTF Productions\",\"origin_country\":\"\"},{\"id\":181700,\"logo_path\":null,\"name\":\"Magic Bean Entertainment\",\"origin_country\":\"\"},{\"id\":167585,\"logo_path\":null,\"name\":\"The Marlowe-Pugnetti Company\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-11-14\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"\",\"title\":\"Saint Nick of Bethlehem\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

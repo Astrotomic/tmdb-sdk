@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1184",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12048",
+        "x-memc": "HIT",
+        "x-memc-key": "a0dbb0bbe04a1bdbba02bae0311248ab",
+        "x-memc-age": "15460",
+        "x-memc-expires": "12048",
+        "ETag": "W\/\"2979b7461e6298780ccf7b73b6ed6064\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FU1l_kYonGZd5d8HTTDV9keMxT2FYKHNn78vcVq9wy4pxQeyfCUzNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":10,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.thecinemasnob.com\",\"id\":268392,\"imdb_id\":\"tt1884447\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hooker with a Heart of Gold\",\"overview\":\"An out of work surgeon creates a powerful prosthetic heart (made of solid gold) which he transplants into the body of a beautiful prostitute he accidentally runs over with his car. The two then find themselves on the run from her former pimp, and a team of gangsters the doctor owes money to.\",\"popularity\":0.945,\"poster_path\":\"\/7KvVJxF90aQTB3PCyvK3C01UVbq.jpg\",\"production_companies\":[{\"id\":11002,\"logo_path\":null,\"name\":\"Stoned Gremlin\",\"origin_country\":\"\"},{\"id\":11001,\"logo_path\":null,\"name\":\"Walkaway Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2011-02-04\",\"revenue\":0,\"runtime\":149,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Hooker with a Heart of Gold\",\"video\":false,\"vote_average\":5.5,\"vote_count\":5}"
+}

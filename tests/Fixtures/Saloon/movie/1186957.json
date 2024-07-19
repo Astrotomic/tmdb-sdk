@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1100",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1157",
+        "x-memc": "HIT",
+        "x-memc-key": "3b40d5a6bca40a70182c889206708b07",
+        "x-memc-age": "22838",
+        "x-memc-expires": "1157",
+        "ETag": "W\/\"6a51fe8e397127989df76b27f283967e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7C5rfRuF4L70nuJoA4inyER4zmpsA_L7a92oIEsuZH0Dvex6rw4SDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pTIny6C5BQYuvHJXmmxuociYcMw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/tv.apple.com\/movie\/umc.cmc.7kjdwwm5m1cnk7t080steajqz\",\"id\":1186957,\"imdb_id\":\"tt9900816\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Velveteen Rabbit\",\"overview\":\"When seven-year-old William receives a new favorite toy for Christmas, he discovers a lifelong friend and unlocks a world of magic.\",\"popularity\":54.524,\"poster_path\":\"\/aM0ViG6LVkN1PQGe9Bon1gQXpc7.jpg\",\"production_companies\":[{\"id\":5644,\"logo_path\":\"\/uuj37wq2xE3Vru17BOs86ScNRc5.png\",\"name\":\"Magic Light Pictures\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2023-11-21\",\"revenue\":0,\"runtime\":44,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Imagine how love makes us real.\",\"title\":\"The Velveteen Rabbit\",\"video\":false,\"vote_average\":7.045,\"vote_count\":55}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1478",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10240",
+        "x-memc": "HIT",
+        "x-memc-key": "026377c5bcadcc90e91f759af3a83833",
+        "x-memc-age": "18317",
+        "x-memc-expires": "10240",
+        "ETag": "W\/\"8dbacce7b25bbd4553cc9fbd36d7f6c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YhzbLn00NLXtHv5vWcLJMiaqMXY8N2nuel4_vQlkx5bfj8cBVIftvw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":736349,\"imdb_id\":\"tt1542397\",\"origin_country\":[\"BG\"],\"original_language\":\"bg\",\"original_title\":\"\u0411\u0438\u043d\u043a\u0430: \u0414\u0430 \u0440\u0430\u0437\u043a\u0430\u0436\u0435\u0448 \u043f\u0440\u0438\u043a\u0430\u0437\u043a\u0430 \u0437\u0430 \u043c\u044a\u043b\u0447\u0430\u043d\u0438\u0435\u0442\u043e\",\"overview\":\"A film pioneer, Binka Zhelyazkova was at the forefront of political cinema under Bulgaria's Communist dictatorship. Though she remained faithful to the communist ideals she became an avid critic of the regime and brought upon herself the wrath of its censorship. As a result four of her nine films were shelved and released to the public only after the fall of the regime in 1989, and Binka Zhelyazkova became known as the bad girl of Bulgarian cinema. A provocative portrait that reveals the pressures and complexities that arise when art is made under totalitarianism.\",\"popularity\":1.277,\"poster_path\":\"\/ztilhByHcBIzWSos13VBFXXI6jG.jpg\",\"production_companies\":[{\"id\":184930,\"logo_path\":null,\"name\":\"VREME Film Studios\",\"origin_country\":\"BG\"}],\"production_countries\":[{\"iso_3166_1\":\"BG\",\"name\":\"Bulgaria\"}],\"release_date\":\"2007-01-01\",\"revenue\":0,\"runtime\":48,\"spoken_languages\":[{\"english_name\":\"Bulgarian\",\"iso_639_1\":\"bg\",\"name\":\"\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438 \u0435\u0437\u0438\u043a\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Binka: To Tell a Story About Silence\",\"video\":false,\"vote_average\":9.0,\"vote_count\":1}"
+}

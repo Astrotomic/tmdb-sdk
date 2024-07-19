@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "434",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20618",
+        "x-memc": "HIT",
+        "x-memc-key": "e45794e304646424e3054add0465066e",
+        "x-memc-age": "2170",
+        "x-memc-expires": "20618",
+        "ETag": "W\/\"91cab13da0fbd423268f867d065950ba\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uk1qurkEOYZOwwkz27F7hl0_O_9vyMsgpospoT6mSBLwOBIdz0yJfA=="
+    },
+    "data": "{\"id\":34750,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/34750-raw-justice\/watch?locale=CA\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/34750-raw-justice\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}]}}}"
+}

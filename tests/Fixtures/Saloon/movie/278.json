@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1321",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4513",
+        "x-memc": "HIT",
+        "x-memc-key": "a82a2c8a9c6a51913fe064810ce45134",
+        "x-memc-age": "19384",
+        "x-memc-expires": "4513",
+        "ETag": "W\/\"f73d7b7f9252199255eaeab12fe65df3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zw8ieiWb7pWjq4IVJeNmhCPvBjTPyhvG37ZIN5tL-y2rDsnMRUbFqw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":278,\"imdb_id\":\"tt0111161\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Shawshank Redemption\",\"overview\":\"Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.\",\"popularity\":160.835,\"poster_path\":\"\/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg\",\"production_companies\":[{\"id\":97,\"logo_path\":\"\/7znWcbDd4PcJzJUlJxYqAlPPykp.png\",\"name\":\"Castle Rock Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-09-23\",\"revenue\":28341469,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fear can hold you prisoner. Hope can set you free.\",\"title\":\"The Shawshank Redemption\",\"video\":false,\"vote_average\":8.706,\"vote_count\":26462}"
+}

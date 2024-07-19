@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1689",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12765",
+        "x-memc": "HIT",
+        "x-memc-key": "175bf76f1ae5f13a4afdbc7e4edc8193",
+        "x-memc-age": "10679",
+        "x-memc-expires": "12765",
+        "ETag": "W\/\"e084982c275d3164b8f6b07b4f749ecf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SGpNfkkQ239g3z2tg_ctZVIrKTcwmdSSyvtTeemi3Yj3V3KA3NszZA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jTx4XlVsLJkDwbEQkFYwpApD556.jpg\",\"belongs_to_collection\":{\"id\":87118,\"name\":\"Cars Collection\",\"poster_path\":\"\/ooYvY9DMEdUHH2dOPHbZmyfMENy.jpg\",\"backdrop_path\":\"\/A8DqaTGwZ8iCEjWMNRsZumzfKLw.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.disney.go.com\/cars\/\",\"id\":49013,\"imdb_id\":\"tt1216475\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cars 2\",\"overview\":\"Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.\",\"popularity\":84.749,\"poster_path\":\"\/okIz1HyxeVOMzYwwHUjH2pHi74I.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-06-11\",\"revenue\":559852396,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Take a trip. See the sights. Save the world.\",\"title\":\"Cars 2\",\"video\":false,\"vote_average\":6.121,\"vote_count\":7574}"
+}

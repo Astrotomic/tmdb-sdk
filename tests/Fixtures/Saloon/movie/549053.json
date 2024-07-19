@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1480",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7144",
+        "x-memc": "HIT",
+        "x-memc-key": "32ff036f895cc58e30f2f87386c2a964",
+        "x-memc-age": "20668",
+        "x-memc-expires": "7144",
+        "ETag": "W\/\"c125d6790aaa6bdb0da068bcf0337276\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RkvhPDUb4Ji70CIR7ByI7eHwWsmQ2klpv8pGId4OMAMOjL5kdlD7mg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vQYwarUtaeyDYgwmcaTJYX1yix2.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":549053,\"imdb_id\":\"tt8623904\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Last Christmas\",\"overview\":\"Kate is a young woman who has a habit of making bad decisions, and her last date with disaster occurs after she accepts work as Santa's elf for a department store. However, after she meets Tom there, her life takes a new turn.\",\"popularity\":50.726,\"poster_path\":\"\/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":61791,\"logo_path\":\"\/xyiy5wZdmnxVViRa8oRMXQQvT6F.png\",\"name\":\"Feigco Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-11-07\",\"revenue\":121600000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"Croatian\",\"iso_639_1\":\"hr\",\"name\":\"Hrvatski\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Who doesn't have a little Christmas baggage?\",\"title\":\"Last Christmas\",\"video\":false,\"vote_average\":7.245,\"vote_count\":2289}"
+}

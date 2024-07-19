@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1225",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5432",
+        "x-memc": "HIT",
+        "x-memc-key": "1930d37f9664e7e91bf95b13059868f3",
+        "x-memc-age": "22465",
+        "x-memc-expires": "5432",
+        "ETag": "W\/\"2945d1355bc6cca380eb5d6e2145ebb8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_H2ALKANaj4AqbPxpfxFPOqKX8NvTU9veavHWYNesQCJR7cmzikCjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lKcnwEruAPjwVUxUqx1r3nCHh1p.jpg\",\"belongs_to_collection\":{\"id\":93369,\"name\":\"Ring Collection\",\"poster_path\":\"\/pcoGavLJsMDPZ4skO2f4TW4ozxb.jpg\",\"backdrop_path\":\"\/aS42DTtR6UYNLfKdKJBKYL1OS1U.jpg\"},\"budget\":2900000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":9706,\"imdb_id\":\"tt0134928\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u3089\u305b\u3093\",\"overview\":\"A young pathologist seeks answers to the mysterious death of a friend and soon comes into contact with the same cursed videotape that caused the death of the friend's wife and son, which is haunted by the curse of Sadako, a relentless spirit.\",\"popularity\":12.32,\"poster_path\":\"\/bRJwuJCkZZMsqzCyiM6frbDXljk.jpg\",\"production_companies\":[{\"id\":17337,\"logo_path\":null,\"name\":\"Basara Pictures\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1998-01-31\",\"revenue\":12662948,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Spiral\",\"video\":false,\"vote_average\":5.3,\"vote_count\":132}"
+}

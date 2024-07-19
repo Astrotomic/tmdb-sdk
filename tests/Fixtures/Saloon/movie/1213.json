@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1472",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3568",
+        "x-memc": "HIT",
+        "x-memc-key": "e7a92513c3c07c8e764962b271843c13",
+        "x-memc-age": "21339",
+        "x-memc-expires": "3568",
+        "ETag": "W\/\"56799e8a4671096e527d84130443c761\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lrhozNQtNvX0iT5MhLmIP_6hUnIz6d6y_smWk6GfAnkcCEcicN_mrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nGVe984XESYhn5V5zspqQexPekA.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.miramax.com\/movie\/the-talented-mr-ripley\",\"id\":1213,\"imdb_id\":\"tt0134119\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Talented Mr. Ripley\",\"overview\":\"Tom Ripley is a calculating young man who believes it's better to be a fake somebody than a real nobody. Opportunity knocks in the form of a wealthy U.S. shipbuilder who hires Tom to travel to Italy to bring back his playboy son, Dickie. Ripley worms his way into the idyllic lives of Dickie and his girlfriend, plunging into a daring scheme of duplicity, lies and murder.\",\"popularity\":41.933,\"poster_path\":\"\/6ojHgqtIR41O2qLKa7LFUVj0cZa.jpg\",\"production_companies\":[{\"id\":932,\"logo_path\":null,\"name\":\"Mirage Enterprises\",\"origin_country\":\"US\"},{\"id\":679,\"logo_path\":null,\"name\":\"Timnick Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-12-25\",\"revenue\":128798265,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"How far would you go to become someone else.\",\"title\":\"The Talented Mr. Ripley\",\"video\":false,\"vote_average\":7.196,\"vote_count\":3589}"
+}

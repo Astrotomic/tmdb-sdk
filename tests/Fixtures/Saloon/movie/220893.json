@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1098",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17655",
+        "x-memc": "HIT",
+        "x-memc-key": "799e1876518659c03b4b46c86031d719",
+        "x-memc-age": "5391",
+        "x-memc-expires": "17655",
+        "ETag": "W\/\"dbc34d47ae9a6cd9096d89923066264b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "E25SP1muwIOAcA3NFXXQwFubTtaK0B_zcKTNrvyafJlKpGCLMnGWTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":220893,\"imdb_id\":\"tt2033956\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uac80\uc740\ubcc4\uacfc \ud669\uae08\ubc15\uc950\",\"overview\":\"A bunch of kids and their pet dog accidentally discover the lair of villain Black Star, who is kidnapping the world's top scientists to develop a secret weapon. Will Golden Bat, the superhero the kids idolize, be able to rescue them?\",\"popularity\":0.496,\"poster_path\":\"\/5iKdxiWQfH4iZ8v13P1dpfv24bI.jpg\",\"production_companies\":[{\"id\":120932,\"logo_path\":null,\"name\":\"Samyoung Film\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"1979-05-12\",\"revenue\":0,\"runtime\":59,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Black Star and the Golden Bat\",\"video\":false,\"vote_average\":5.5,\"vote_count\":4}"
+}

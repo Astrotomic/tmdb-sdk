@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "758",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8100",
+        "x-memc": "HIT",
+        "x-memc-key": "22a79615ffde63ce33c25f81beb91450",
+        "x-memc-age": "18075",
+        "x-memc-expires": "8100",
+        "ETag": "W\/\"28b7ac261bd69a1fbc23f7429783ecef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nhKwCl0REhaxR6q7IVzftHkWQhC5UByEQGFDQOZhfNq35jL10pMA6Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1180255,\"imdb_id\":\"tt27526876\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Coffintooth\",\"overview\":\"Coffintooth returns from Beneath the Old Dark House to stalk new victims on Halloween!\",\"popularity\":5.922,\"poster_path\":\"\/gGqerMWxnCtZum8q1SNLu0s36fE.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-10-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"\",\"title\":\"Coffintooth\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1387",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26904",
+        "x-memc": "HIT",
+        "x-memc-key": "d99f51554d27e9c8da960255e846d394",
+        "x-memc-age": "853",
+        "x-memc-expires": "26904",
+        "ETag": "W\/\"dc01d77e58f8a9d42d7ad6889b167b0b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wmvazLwERC1mjAkoLI1lWOkfmP2e7nO5whlgCM2429blQX31HleawQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6iXuwfV2BAdrVyQzDgf0tGOIgqQ.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":11045,\"imdb_id\":\"tt0316732\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Taxi\",\"overview\":\"A mouthy and feisty taxicab driver has hot tips for a green and inept cop set on solving a string of New York City bank robberies committed by a quartet of female Brazilian bank robbers.\",\"popularity\":49.61,\"poster_path\":\"\/eLDoNLJHZPcavTT1vJqZoGydoWB.jpg\",\"production_companies\":[{\"id\":3929,\"logo_path\":null,\"name\":\"Robert Simonds Productions\",\"origin_country\":\"US\"},{\"id\":6896,\"logo_path\":\"\/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png\",\"name\":\"EuropaCorp\",\"origin_country\":\"FR\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-10-06\",\"revenue\":71255003,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"Take a Ride on the Wild Side.\",\"title\":\"Taxi\",\"video\":false,\"vote_average\":5.6,\"vote_count\":1032}"
+}

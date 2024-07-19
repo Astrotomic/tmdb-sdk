@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "873",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7421",
+        "x-memc": "HIT",
+        "x-memc-key": "26220bf984616dacda2be11a59d27b40",
+        "x-memc-age": "16249",
+        "x-memc-expires": "7421",
+        "ETag": "W\/\"1a7d8f4eb397cd3322ca2958dd4b3438\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nStlOv0sG5oV-xXGw1Qbnc9b4ajxB02XB_DlLbl5-R7p1ibAZixxzA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uFijL4xMT603zGkerR2BziutECB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":391448,\"imdb_id\":\"tt0260839\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Damaged Goods\",\"overview\":\"A quack doctor 'cures' a victim of venereal disease, whose baby is later born infected.\",\"popularity\":0.808,\"poster_path\":\"\/h7bbMm9J1aJwKrrmvOYSARKeLZm.jpg\",\"production_companies\":[{\"id\":70515,\"logo_path\":null,\"name\":\"G.B. Samuelson Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1919-12-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Damaged Goods\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

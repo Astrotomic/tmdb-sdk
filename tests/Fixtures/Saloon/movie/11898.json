@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1300",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18895",
+        "x-memc": "HIT",
+        "x-memc-key": "a844142fbb2f22d6e4d3e811c671304f",
+        "x-memc-age": "6446",
+        "x-memc-expires": "18895",
+        "ETag": "W\/\"f0e64c7214029015f4fc106f17ebd9e1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eOQd2EPISkfqtRuuQdpqyM4UyibWbrE9Jh5RMCJaurydBsymwxeI8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r7jtS16I3vgVvqapgCa7RMkZnvj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":11898,\"imdb_id\":\"tt0041546\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Kind Hearts and Coronets\",\"overview\":\"When his mother eloped with an Italian opera singer, Louis Mazzini was cut off from her aristocratic family. After the family refuses to let her be buried in the family mausoleum, Louis avenges his mother's death by attempting to murder every family member who stands between himself and the family fortune. But when he finds himself torn between his longtime love and the widow of one of his victims, his plans go awry.\",\"popularity\":15.552,\"poster_path\":\"\/s5YYPhgxBITADZQ3IGC6jJq6FhR.jpg\",\"production_companies\":[{\"id\":2650,\"logo_path\":\"\/sDWe94w5fuyfgfRKc3N27CSJvsD.png\",\"name\":\"Ealing Studios\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1949-06-21\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He chopped down the family tree...\",\"title\":\"Kind Hearts and Coronets\",\"video\":false,\"vote_average\":7.676,\"vote_count\":522}"
+}

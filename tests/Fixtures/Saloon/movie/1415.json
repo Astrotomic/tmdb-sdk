@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3423",
+        "x-memc": "HIT",
+        "x-memc-key": "936eabd6fa2e95eb801202a456757456",
+        "x-memc-age": "24786",
+        "x-memc-expires": "3423",
+        "ETag": "W\/\"85408d1d30ad724c624f9aebbd4de5bc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ovCh52yBgOR-bO8uIeYZmXl42dwx8jLG6Xmw3PZGY8IBSf1LyVkckQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9kCmylaWVraUPuUYjegyrC2JkiW.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1415,\"imdb_id\":\"tt0320244\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Party Monster\",\"overview\":\"The New York club scene of the 80s and 90s was a world like no other. Into this candy-colored, mirror ball playground stepped Michael Alig, a wannabe from nowhere special. Under the watchful eye of veteran club kid James St. James, Alig quickly rose to the top... and there was no place to go but down.\",\"popularity\":11.019,\"poster_path\":\"\/fAkq4jzFttRaxpIt7HhpsiFGhxI.jpg\",\"production_companies\":[{\"id\":1420,\"logo_path\":null,\"name\":\"ContentFilm\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-09-05\",\"revenue\":742898,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Till death do they party.\",\"title\":\"Party Monster\",\"video\":false,\"vote_average\":5.8,\"vote_count\":169}"
+}

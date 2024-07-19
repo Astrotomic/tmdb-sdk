@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "883",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18256",
+        "x-memc": "HIT",
+        "x-memc-key": "d585ad2a96479eac1a887e19777249cb",
+        "x-memc-age": "8861",
+        "x-memc-expires": "18256",
+        "ETag": "W\/\"b52c48d2094899e392efef6a3e234280\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tQ0tKS3MGG6xjjFeGAQIrri-IoUlUed7WA2Gx3I0bAgh-5HzmwVhWQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rsQfZTkmtPqX5v7x0T5Uhw2zgtm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1028987,\"imdb_id\":\"tt27956531\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Frontera\",\"overview\":\"During the last moments of a romantic involvement with an older man, Martina finds herself deeply overwhelmed by disappointment and confusion, left alone to question who she really is.\",\"popularity\":6.723,\"poster_path\":\"\/4ji0N1RgwTVckjajSRY3IdjXEm8.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2022-10-22\",\"revenue\":0,\"runtime\":17,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"That man is not the city.\",\"title\":\"Frontera\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

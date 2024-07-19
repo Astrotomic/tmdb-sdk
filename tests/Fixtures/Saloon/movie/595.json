@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1513",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1549",
+        "x-memc": "HIT",
+        "x-memc-key": "c2b17d5715191589c19d3f152bef6159",
+        "x-memc-age": "23302",
+        "x-memc-expires": "1549",
+        "ETag": "W\/\"2a027e186c240ac5cb4a04700fdebd4a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U487X-OBYAl5wDF5lg0kcBSj6C-RheTPxrhlFr2TicQ5yNpUbgyQ_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mbJIERhLu25fyZb8DQIq1JN3AOR.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/uphe.com\/movies\/to-kill-a-mockingbird\",\"id\":595,\"imdb_id\":\"tt0056592\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"To Kill a Mockingbird\",\"overview\":\"Scout Finch, 6, and her older brother Jem live in sleepy Maycomb, Alabama, spending much of their time with their friend Dill and spying on their reclusive and mysterious neighbor, Boo Radley. When Atticus, their widowed father and a respected lawyer, defends a black man named Tom Robinson against fabricated rape charges, the trial and tangent events expose the children to evils of racism and stereotyping.\",\"popularity\":47.457,\"poster_path\":\"\/gZycFUMLx2110dzK3nBNai7gfpM.jpg\",\"production_companies\":[{\"id\":1511,\"logo_path\":null,\"name\":\"Pakula-Mulligan\",\"origin_country\":\"\"},{\"id\":24308,\"logo_path\":null,\"name\":\"Brentwood Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1962-12-20\",\"revenue\":13129846,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A father must expose his children to a small town's outraged passions\u2026 and can only protect them with his love.\",\"title\":\"To Kill a Mockingbird\",\"video\":false,\"vote_average\":8.004,\"vote_count\":2529}"
+}

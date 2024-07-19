@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1020",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12011",
+        "x-memc": "HIT",
+        "x-memc-key": "90d5fe18412d7bf0ca50740c26571513",
+        "x-memc-age": "16373",
+        "x-memc-expires": "12011",
+        "ETag": "W\/\"28f009d81c45d5d200df6bcee536f44b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FjC-h_DTvIiO-mzd9oNH2qR1yVPrp4d-Q-q3_QwFXEg_P3VPieg54w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dn660wunDfDCDIPwlholb8D2xHP.jpg\",\"belongs_to_collection\":{\"id\":430157,\"name\":\"Die Supernasen Filmreihe\",\"poster_path\":\"\/wZi67plWnR0ErpXgUacMZiqBoxy.jpg\",\"backdrop_path\":\"\/buuk1uAkDTMFTl76fngPzmlqeRv.jpg\"},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":12098,\"imdb_id\":\"tt0088459\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Zwei Nasen tanken Super\",\"overview\":\"Tommy and Mike, again without a job and without money, are looking for a public toilet at a motor show.\",\"popularity\":5.207,\"poster_path\":\"\/oDLMCkM6wtQuWgktmiLT0pUBmxq.jpg\",\"production_companies\":[{\"id\":10437,\"logo_path\":null,\"name\":\"Lisa Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1984-09-14\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Zwei Nasen tanken Super\",\"video\":false,\"vote_average\":4.703,\"vote_count\":32}"
+}

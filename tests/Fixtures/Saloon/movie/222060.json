@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1176",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2591",
+        "x-memc": "HIT",
+        "x-memc-key": "c3225ae9a5ba23ed50e7c0bb2bf5e9ae",
+        "x-memc-age": "24375",
+        "x-memc-expires": "2591",
+        "ETag": "W\/\"ed49c72095805e11abaae35731753957\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s5xT12qmeq-Moe9TiV8IsMTKWYRFlYZrOtICTkMp-UDoHbxlCKpxEA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":200,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":222060,\"imdb_id\":\"tt1988546\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Anonymous Celebrities: Animatic\",\"overview\":\"Nerdy Herbert meets Annie, the holier-than-thou girl of his dreams. But his plans for romance might be derailed by a nasty punk rocker, a mad scientist, obsessed federal agents... and mysterious aliens bent on destroying the planet!\",\"popularity\":3.64,\"poster_path\":null,\"production_companies\":[{\"id\":16840,\"logo_path\":null,\"name\":\"Randomly Designed Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-10-18\",\"revenue\":10,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A barely animated sci-fi musical comedy romance drama thriller!\",\"title\":\"Anonymous Celebrities: Animatic\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

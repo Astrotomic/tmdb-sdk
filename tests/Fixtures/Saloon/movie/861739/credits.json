@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2262",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13495",
+        "x-memc": "HIT",
+        "x-memc-key": "480876e9169a4e10e49a2ec52020cead",
+        "x-memc-age": "13093",
+        "x-memc-expires": "13495",
+        "ETag": "W\/\"229ae05a327ec6ffeb638231617c730a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6rnWfzdh2GwEgLREL-yonkOZkw8ztzkgRw2aExc5cSpVdvDmSszqiw=="
+    },
+    "data": "{\"id\":861739,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3199006,\"known_for_department\":\"Acting\",\"name\":\"Oda Nielsen\",\"original_name\":\"Oda Nielsen\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"\",\"credit_id\":\"6119d7f12e06970045949050\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1268297,\"known_for_department\":\"Acting\",\"name\":\"Otto Lagoni\",\"original_name\":\"Otto Lagoni\",\"popularity\":2.783,\"profile_path\":null,\"cast_id\":5,\"character\":\"\",\"credit_id\":\"6119d7f7e54d5d0074e40352\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1272304,\"known_for_department\":\"Acting\",\"name\":\"Einar Zangenberg\",\"original_name\":\"Einar Zangenberg\",\"popularity\":0.282,\"profile_path\":null,\"cast_id\":6,\"character\":\"\",\"credit_id\":\"6119d7fda0b6b5004589b188\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":1268233,\"known_for_department\":\"Acting\",\"name\":\"Sofus Wolder\",\"original_name\":\"Sofus Wolder\",\"popularity\":1.106,\"profile_path\":null,\"cast_id\":7,\"character\":\"\",\"credit_id\":\"6119d8027ef3810044d4adbe\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":1373947,\"known_for_department\":\"Acting\",\"name\":\"Poul Welander\",\"original_name\":\"Poul Welander\",\"popularity\":1.386,\"profile_path\":null,\"cast_id\":8,\"character\":\"\",\"credit_id\":\"6119d808387651002e70e71d\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":1272300,\"known_for_department\":\"Directing\",\"name\":\"Holger Rasmussen\",\"original_name\":\"Holger Rasmussen\",\"popularity\":0.631,\"profile_path\":null,\"cast_id\":9,\"character\":\"\",\"credit_id\":\"6119d80e2dc44e005c5fb002\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1161092,\"known_for_department\":\"Writing\",\"name\":\"Alexandre Bisson\",\"original_name\":\"Alexandre Bisson\",\"popularity\":1.112,\"profile_path\":null,\"credit_id\":\"6119d7d32dc44e002c40b640\",\"department\":\"Writing\",\"job\":\"Theatre Play\"},{\"adult\":false,\"gender\":0,\"id\":1272300,\"known_for_department\":\"Directing\",\"name\":\"Holger Rasmussen\",\"original_name\":\"Holger Rasmussen\",\"popularity\":0.631,\"profile_path\":null,\"credit_id\":\"6119d7dc1bf876005e594be9\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":100902,\"known_for_department\":\"Camera\",\"name\":\"Axel Graatkj\u00e6r\",\"original_name\":\"Axel Graatkj\u00e6r\",\"popularity\":1.322,\"profile_path\":null,\"credit_id\":\"6119d7e62dc44e0045b9656e\",\"department\":\"Camera\",\"job\":\"Director of Photography\"}]}"
+}

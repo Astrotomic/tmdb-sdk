@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1254",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21656",
+        "x-memc": "HIT",
+        "x-memc-key": "0eeb2cf40e38a025e6d4a06df07dfd86",
+        "x-memc-age": "517",
+        "x-memc-expires": "21656",
+        "ETag": "W\/\"0a87b0c2f7ff3d0721319f48548c6cd8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kNk_BlDVxHBQ5NoJ4kNrS1mrlWH906AMCC4yEbjygv8a_55xUMwWKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5W1sQidR2a9e8O1vk2IDhzbT4W7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1129598,\"imdb_id\":\"tt27682129\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Prey\",\"overview\":\"A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.\",\"popularity\":29.657,\"poster_path\":\"\/5wAlO5zZ3IyzLBAf7cp5WejalmG.jpg\",\"production_companies\":[{\"id\":188570,\"logo_path\":null,\"name\":\"The Barnum Picture Company\",\"origin_country\":\"US\"},{\"id\":116018,\"logo_path\":null,\"name\":\"Green Light Pictures\",\"origin_country\":\"\"},{\"id\":142122,\"logo_path\":\"\/oqZHKDB4izafodDDD9BABNNq7VN.png\",\"name\":\"Lucky 13 Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-03-15\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Let the hunt begin.\",\"title\":\"Prey\",\"video\":false,\"vote_average\":5.069,\"vote_count\":29}"
+}

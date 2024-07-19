@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1610",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2957",
+        "x-memc": "HIT",
+        "x-memc-key": "bc8ee11978ade92cc0918dac016fceb7",
+        "x-memc-age": "22492",
+        "x-memc-expires": "2957",
+        "ETag": "W\/\"121662d510a6fab59e81c6a339e50461\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_MOkGN7Gts2o2BvBR0_WXM5WxlkeH33BoNba0-ZjctNz-FnbVytalg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uw4SnKFZ453Gxmj5XR5Susj8TNo.jpg\",\"belongs_to_collection\":{\"id\":304378,\"name\":\"Independence Day Collection\",\"poster_path\":\"\/AuBMbv3gSAdTaEIzcUySRETIauY.jpg\",\"backdrop_path\":\"\/ou70x2658dVnbycIRaC37sEeafS.jpg\"},\"budget\":75000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":602,\"imdb_id\":\"tt0116629\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Independence Day\",\"overview\":\"Strange phenomena surface around the globe. The skies ignite. Terror races through the world's major cities. As these extraordinary events unfold, it becomes increasingly clear that a force of incredible magnitude has arrived. Its mission: total annihilation over the Fourth of July weekend. The last hope to stop the destruction is an unlikely group of people united by fate and unimaginable circumstances.\",\"popularity\":60.632,\"poster_path\":\"\/p0BPQGSPoSa8Ml0DAf2mB2kCU0R.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":347,\"logo_path\":null,\"name\":\"Centropolis Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-06-25\",\"revenue\":817400891,\"runtime\":145,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The question of whether or not we are alone in the universe has been answered.\",\"title\":\"Independence Day\",\"video\":false,\"vote_average\":6.886,\"vote_count\":9354}"
+}

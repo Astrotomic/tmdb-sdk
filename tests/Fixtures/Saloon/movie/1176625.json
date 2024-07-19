@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "692",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7648",
+        "x-memc": "HIT",
+        "x-memc-key": "8defb22f6a2c7f138b681aef9535ceef",
+        "x-memc-age": "14578",
+        "x-memc-expires": "7648",
+        "ETag": "W\/\"5b171c89fe117d8c90a64c9cc8a52678\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w2q0QIJNAU1MtyY-2gPacoefvp6bwdUcS2L0dwM71f9Fz4SpLEwybQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aDKNI9bzZJmg97bYFsztSqRpGBt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1176625,\"imdb_id\":null,\"origin_country\":[\"NL\"],\"original_language\":\"nl\",\"original_title\":\"The Red Eyed Demon\",\"overview\":\"\",\"popularity\":0.413,\"poster_path\":\"\/1LDn2QVRCFdaDebcoCTk1nPhfwy.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"}],\"release_date\":\"2023-09-02\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Dutch\",\"iso_639_1\":\"nl\",\"name\":\"Nederlands\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Red Eyed Demon\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

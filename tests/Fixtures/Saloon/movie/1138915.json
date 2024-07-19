@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1022",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12690",
+        "x-memc": "HIT",
+        "x-memc-key": "31c3f0935546b437d355b711fe168404",
+        "x-memc-age": "10877",
+        "x-memc-expires": "12690",
+        "ETag": "W\/\"216a8aa43bcdd783d4f606e097f3d66b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ded_5CHdNdIqHFalJ5M19UhWZzBHuM1vJRPcpBdd9pKTP7_aVndyVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pAf7f6NQHNirkSJojeivlP4HBgs.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":1138915,\"imdb_id\":\"tt23397472\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Gli ospiti\",\"overview\":\"In a cottage on the outskirts of Rome a group of people are guests for dinner at the owner\u2019s house. Which of them is not the intruder?\",\"popularity\":1.377,\"poster_path\":\"\/rYvNZguPyNPvD2PSakBPEpQZ6cX.jpg\",\"production_companies\":[{\"id\":201960,\"logo_path\":null,\"name\":\"Renaissance Produzioni\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2023-10-12\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Which of them is not the intruder?\",\"title\":\"Gli ospiti\",\"video\":false,\"vote_average\":7.278,\"vote_count\":9}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2184",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:26:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19102",
+        "x-memc": "HIT",
+        "x-memc-key": "bd59f15a45645b9ac0213b14aa265d42",
+        "x-memc-age": "4196",
+        "x-memc-expires": "19102",
+        "ETag": "W\/\"8ee383a8219796404ccec039714f8967\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2WHhqsyw1cDakfZMtjUUndQfr2ysUlH30NiyBOYrND_oUunHpHxahQ=="
+    },
+    "data": "{\"id\":222560,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1603,\"known_for_department\":\"Acting\",\"name\":\"Daniel Gim\u00e9nez Cacho\",\"original_name\":\"Daniel Gim\u00e9nez Cacho\",\"popularity\":9.167,\"profile_path\":\"\/4sM4fbDAyjDcEcxRqVWpUF35IrL.jpg\",\"cast_id\":4,\"character\":\"\",\"credit_id\":\"52fe4df39251416c751465f5\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":936253,\"known_for_department\":\"Acting\",\"name\":\"Carmen Beato\",\"original_name\":\"Carmen Beato\",\"popularity\":2.699,\"profile_path\":\"\/bvqcoE1wFAbawMmGcjvoEnjTLO.jpg\",\"cast_id\":8,\"character\":\"\",\"credit_id\":\"640dc538a6c104008251c4c0\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1080351,\"known_for_department\":\"Directing\",\"name\":\"Isaac-Pierre Racine\",\"original_name\":\"Isaac-Pierre Racine\",\"popularity\":2.826,\"profile_path\":null,\"credit_id\":\"52fe4df39251416c751465e5\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":151162,\"known_for_department\":\"Directing\",\"name\":\"Agust\u00ed Villaronga\",\"original_name\":\"Agust\u00ed Villaronga\",\"popularity\":4.507,\"profile_path\":\"\/zW591ovxB52XldiJHUerAOb9V8K.jpg\",\"credit_id\":\"52fe4df39251416c751465eb\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":585942,\"known_for_department\":\"Directing\",\"name\":\"Lydia Zimmermann\",\"original_name\":\"Lydia Zimmermann\",\"popularity\":1.117,\"profile_path\":null,\"credit_id\":\"52fe4df39251416c751465f1\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1080351,\"known_for_department\":\"Directing\",\"name\":\"Isaac-Pierre Racine\",\"original_name\":\"Isaac-Pierre Racine\",\"popularity\":2.826,\"profile_path\":null,\"credit_id\":\"5dbfcfc39d893900182ffbc6\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":151162,\"known_for_department\":\"Directing\",\"name\":\"Agust\u00ed Villaronga\",\"original_name\":\"Agust\u00ed Villaronga\",\"popularity\":4.507,\"profile_path\":\"\/zW591ovxB52XldiJHUerAOb9V8K.jpg\",\"credit_id\":\"5dbfcfc9f1b5710010e80a39\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":585942,\"known_for_department\":\"Directing\",\"name\":\"Lydia Zimmermann\",\"original_name\":\"Lydia Zimmermann\",\"popularity\":1.117,\"profile_path\":null,\"credit_id\":\"5dbfcfcf9d893900132fef54\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1313",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:43:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4691",
+        "x-memc": "HIT",
+        "x-memc-key": "8999b3235c79ea1ed213d8e41980cca2",
+        "x-memc-age": "19067",
+        "x-memc-expires": "4691",
+        "ETag": "W\/\"39d583dc1ffc35b8d5dcfa161256e7d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MxXDi-KLxlcUuNYQbHPvADiIjfixe_PrT3XMc52F8OyfI_QdDxx2mQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/abwxHfymXGAbbH3lo9PDEJEfvtW.jpg\",\"belongs_to_collection\":{\"id\":10,\"name\":\"Star Wars Collection\",\"poster_path\":\"\/22dj38IckjzEEUZwN1tPU5VJ1qq.jpg\",\"backdrop_path\":\"\/zZDkgOmFMVYpGAkR9Tkxw0CRnxX.jpg\"},\"budget\":120000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1894,\"imdb_id\":\"tt0121765\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Wars: Episode II - Attack of the Clones\",\"overview\":\"Following an assassination attempt on Senator Padm\u00e9 Amidala, Jedi Knights Anakin Skywalker and Obi-Wan Kenobi investigate a mysterious plot that could change the galaxy forever.\",\"popularity\":74.607,\"poster_path\":\"\/oZNPzxqM2s5DyVWab09NTQScDQt.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-05-15\",\"revenue\":649398328,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Jedi shall not know anger. Nor hatred. Nor love.\",\"title\":\"Star Wars: Episode II - Attack of the Clones\",\"video\":false,\"vote_average\":6.566,\"vote_count\":12950}"
+}

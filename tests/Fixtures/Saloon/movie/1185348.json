@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "957",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13408",
+        "x-memc": "HIT",
+        "x-memc-key": "355850951cc96a4375cbfc4480e5c5cb",
+        "x-memc-age": "10837",
+        "x-memc-expires": "13408",
+        "ETag": "W\/\"31d2d6a918c9eab54ec2ca8360b1b7f8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vjJSFzY2ToXU9yDIQ_XIfU-UTi4vdSNIdyozKcbqgbbx40jV8Yei4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w1WF93CYjgPmWXFReLCwuvC8dGX.jpg\",\"belongs_to_collection\":null,\"budget\":30000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1185348,\"imdb_id\":\"tt21826846\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pollo Loco\",\"overview\":\"When a young, power-hungry drug dealer discovers the love of his life has been unfaithful with a member of his crew, he and his right-hand man seek revenge.\",\"popularity\":1.683,\"poster_path\":\"\/85reKwB3giCiCqs8VwWA2RBhFuU.jpg\",\"production_companies\":[{\"id\":216253,\"logo_path\":null,\"name\":\"DD23 Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-10-14\",\"revenue\":0,\"runtime\":26,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"No one messes with his se\u00f1orita!\",\"title\":\"Pollo Loco\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

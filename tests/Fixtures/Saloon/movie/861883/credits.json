@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2265",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23840",
+        "x-memc": "HIT",
+        "x-memc-key": "6ded6cceb1645a887c7f1f968b3dc2ce",
+        "x-memc-age": "2392",
+        "x-memc-expires": "23840",
+        "ETag": "W\/\"74757295b86e6aaefbf2bc7fed32aa4b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M8UMpePcNeUPEM88577o5k_Sfi9E2XEtZEuuCzpjpRx2Vxcv7UVZDg=="
+    },
+    "data": "{\"id\":861883,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3199686,\"known_for_department\":\"Acting\",\"name\":\"Carol Cramer\",\"original_name\":\"Carol Cramer\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"herself\",\"credit_id\":\"611a6dd82e069700734ffd56\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3199687,\"known_for_department\":\"Acting\",\"name\":\"Jens Vieweg\",\"original_name\":\"Jens Vieweg\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Kevin Schubert\",\"credit_id\":\"611a6df94a0b190045c3b77f\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3199688,\"known_for_department\":\"Acting\",\"name\":\"Oliver Emde\",\"original_name\":\"Oliver Emde\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Nick Schwartz\",\"credit_id\":\"611a6e132e069700734ffd80\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":3199689,\"known_for_department\":\"Acting\",\"name\":\"Kai Bittner\",\"original_name\":\"Kai Bittner\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Michael Fischer\",\"credit_id\":\"611a6e2a3876510045efec7b\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3199690,\"known_for_department\":\"Directing\",\"name\":\"Markus Joepen\",\"original_name\":\"Markus Joepen\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611a6e469a9e200045fda426\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3199690,\"known_for_department\":\"Directing\",\"name\":\"Markus Joepen\",\"original_name\":\"Markus Joepen\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611a6e51c14fee005dc0efeb\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3199693,\"known_for_department\":\"Sound\",\"name\":\"Sven Martin\",\"original_name\":\"Sven Martin\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611a6e962dc44e002c415c1c\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":3199694,\"known_for_department\":\"Crew\",\"name\":\"J\u00f6rg Nikolaus\",\"original_name\":\"J\u00f6rg Nikolaus\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611a6eb94a0b19005c18fdd7\",\"department\":\"Crew\",\"job\":\"Special Effects\"},{\"adult\":false,\"gender\":0,\"id\":3199694,\"known_for_department\":\"Crew\",\"name\":\"J\u00f6rg Nikolaus\",\"original_name\":\"J\u00f6rg Nikolaus\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611a6ed1665408005e0f4117\",\"department\":\"Camera\",\"job\":\"Camera Operator\"}]}"
+}

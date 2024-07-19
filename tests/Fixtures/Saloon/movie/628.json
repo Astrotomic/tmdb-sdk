@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1258",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13324",
+        "x-memc": "HIT",
+        "x-memc-key": "a64bab9fb4bf46865ce8ea601fb925c2",
+        "x-memc-age": "13687",
+        "x-memc-expires": "13324",
+        "ETag": "W\/\"58f2fa3b5a573bfe0b917c9b04686925\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tSiVrFxFTp6P9611-TCgJdcS-31HurAlfafFjLCs_zkIxAlbDwVWFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6cwkM6dkWU4F9YM0JCIqLDK2Aue.jpg\",\"belongs_to_collection\":{\"id\":217704,\"name\":\"The Vampire Chronicles Collection\",\"poster_path\":\"\/4Ai3rwZq2jQKuffYG0jLKoaQbQ5.jpg\",\"backdrop_path\":\"\/5margBoJC97ZrciVpAUc0PiY6Rc.jpg\"},\"budget\":60000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":628,\"imdb_id\":\"tt0110148\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Interview with the Vampire\",\"overview\":\"A vampire relates his epic life story of love, betrayal, loneliness, and dark hunger to an over-curious reporter.\",\"popularity\":64.213,\"poster_path\":\"\/2162lAT2MP36MyJd2sttmj5du5T.jpg\",\"production_companies\":[{\"id\":360,\"logo_path\":\"\/hbDlIbBdBe0nVFTeZ7hDX3d5n2N.png\",\"name\":\"Geffen Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-11-11\",\"revenue\":223664608,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Drink from me and live forever\",\"title\":\"Interview with the Vampire\",\"video\":false,\"vote_average\":7.388,\"vote_count\":5669}"
+}

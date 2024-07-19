@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1289",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22059",
+        "x-memc": "HIT",
+        "x-memc-key": "5e3c2ad82a2c2d3fa4e8e5748f80be10",
+        "x-memc-age": "3988",
+        "x-memc-expires": "22059",
+        "ETag": "W\/\"cac90770e3173f934c2af548d8b9dca3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PFyDp-wsBYgdgPDOKzmXZ4TgEXJFmJXBDFq3bPTG4vXyOYPKQ5adJA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2BU7yCsyb3XhOYOFMRp1gsPaHjz.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":9826,\"imdb_id\":\"tt0117331\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Phantom\",\"overview\":\"The 21st successor to the role of Bengalla's resident superhero must travel to New York to prevent a rich madman from obtaining three magic skulls that would give him the secret to ultimate power.\",\"popularity\":24.034,\"poster_path\":\"\/8k8RSMkmGR9Lp6FbKtithM3KIQb.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":7965,\"logo_path\":null,\"name\":\"The Ladd Company\",\"origin_country\":\"US\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-06-06\",\"revenue\":17300889,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Slam evil!\",\"title\":\"The Phantom\",\"video\":false,\"vote_average\":5.225,\"vote_count\":550}"
+}

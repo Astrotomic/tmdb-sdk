@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1248",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16872",
+        "x-memc": "HIT",
+        "x-memc-key": "868d68a61ab557a7aad2fb332eec0b7f",
+        "x-memc-age": "10885",
+        "x-memc-expires": "16872",
+        "ETag": "W\/\"6b1ddc187b2600571d64758220f63151\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w9BERaqwT7PAYhddtw9l7Pu7hFEWv1p0vp7meSX9E7xuEJoLgR-O4A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jIt1BkU5RhrkXXfPqKFOEqlhlSy.jpg\",\"belongs_to_collection\":null,\"budget\":7000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":9051,\"imdb_id\":\"tt0078721\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"10\",\"overview\":\"A Hollywood songwriter goes through a mid-life crisis and becomes infatuated with a sexy blonde newlywed.\",\"popularity\":25.149,\"poster_path\":\"\/rQpGG43cv25CkgGqjQLmMkUpDjq.jpg\",\"production_companies\":[{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":14150,\"logo_path\":null,\"name\":\"Orion Pictures Corporation\",\"origin_country\":\"\"},{\"id\":13963,\"logo_path\":null,\"name\":\"Orion\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1979-10-05\",\"revenue\":74865517,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A temptingly tasteful comedy for adults who can count.\",\"title\":\"10\",\"video\":false,\"vote_average\":5.7,\"vote_count\":241}"
+}

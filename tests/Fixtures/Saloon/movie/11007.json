@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1465",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1227",
+        "x-memc": "HIT",
+        "x-memc-key": "e39492fbd6fc01c7a0283a8e380fa02e",
+        "x-memc-age": "24117",
+        "x-memc-expires": "1227",
+        "ETag": "W\/\"c269a3ca6ab65f69fa012419b514b416\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "q9MJiI-EFFdx7VpqDDcwu2ue9SnC3PNNBeGZZLJAAlIuOZizLzhPRg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v1WKXrLyQDPFBsYwxB4sNd0sQCV.jpg\",\"belongs_to_collection\":{\"id\":114783,\"name\":\"Cheaper by the Dozen (2003) Collection\",\"poster_path\":\"\/A1R0tVtO3mdaouBj6qnREfmIhtI.jpg\",\"backdrop_path\":\"\/abIbeEqOhnEEeEOjalyI16KlAbU.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":11007,\"imdb_id\":\"tt0349205\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cheaper by the Dozen\",\"overview\":\"The Baker brood moves to Chicago after patriarch Tom gets a job coaching football at Northwestern University, forcing his writer wife, Mary, and the couple's 12 children to make a major adjustment. The transition works well until work demands pull the parents away from home, leaving the kids bored -- and increasingly mischievous.\",\"popularity\":29.922,\"poster_path\":\"\/afclGGoQslTYFTnyW1LRMtJMiBp.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":3929,\"logo_path\":null,\"name\":\"Robert Simonds Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-12-24\",\"revenue\":190212113,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The more...the scarier!\",\"title\":\"Cheaper by the Dozen\",\"video\":false,\"vote_average\":6.288,\"vote_count\":2716}"
+}

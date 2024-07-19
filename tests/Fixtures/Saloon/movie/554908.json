@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1305",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20575",
+        "x-memc": "HIT",
+        "x-memc-key": "4d2f79674f5357019f9400b00992ac7a",
+        "x-memc-age": "4253",
+        "x-memc-expires": "20575",
+        "ETag": "W\/\"f40c28f2d320bb4f29aedb48a41d43aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lvJ0uXl7rORzT6UpC3gxaDsa_mmxfRsSdL0rbLaoZOvsWY31C57G_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2Fbwl77dyZlXmevOCd2i3f1pWab.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.samuelgoldwynfilms.com\/endings-beginnings\/\",\"id\":554908,\"imdb_id\":\"tt9147456\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Endings, Beginnings\",\"overview\":\"An artist dumps her longtime boyfriend, but her attempt to take a break from dating ends when she quickly finds herself in two passionate romances.\",\"popularity\":21.526,\"poster_path\":\"\/5yfJDjTp6n8QXN0M9aGCYpqahXZ.jpg\",\"production_companies\":[{\"id\":7036,\"logo_path\":\"\/javbyY0ZCvlFJtly3tpZqf2NwLX.png\",\"name\":\"CJ Entertainment\",\"origin_country\":\"KR\"},{\"id\":20277,\"logo_path\":\"\/aomeUwZLIBjGXHfuZq7HTVk7UNb.png\",\"name\":\"Protagonist Pictures\",\"origin_country\":\"GB\"},{\"id\":9118,\"logo_path\":\"\/9o6KLcDBRw3fNItUflJVwj8dZpC.png\",\"name\":\"Samuel Goldwyn Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2020-06-24\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Endings, Beginnings\",\"video\":false,\"vote_average\":6.1,\"vote_count\":236}"
+}

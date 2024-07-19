@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1722",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16418",
+        "x-memc": "HIT",
+        "x-memc-key": "dfa2f004d38c868c6b621f44548c14ef",
+        "x-memc-age": "6184",
+        "x-memc-expires": "16418",
+        "ETag": "W\/\"ffe7f084b19219f2da615ecf49a28cb7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "y9YUY-bjnCTptum4EZYYA645gJb7CiINruZsuq1dUZdrZUXsRdgwQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9as73Rj0Y7nMZBZTwoyjyUpfjyS.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"http:\/\/www.focusfeatures.com\/victoriaandabdul\/\",\"id\":423899,\"imdb_id\":\"tt5816682\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Victoria & Abdul\",\"overview\":\"Queen Victoria strikes up an unlikely friendship with a young Indian clerk named Abdul Karim.\",\"popularity\":19.77,\"poster_path\":\"\/a5vm7eBHLfBqaOMQUUAVxXmgmhA.jpg\",\"production_companies\":[{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":288,\"logo_path\":\"\/aW0IpM9d4Zjj978EqgDVSxXXhTj.png\",\"name\":\"BBC Film\",\"origin_country\":\"GB\"},{\"id\":10338,\"logo_path\":\"\/a8HjeCqXlm96IKSHvwaBPTMmAIp.png\",\"name\":\"Perfect World Pictures\",\"origin_country\":\"CN\"},{\"id\":88236,\"logo_path\":null,\"name\":\"Cross Street Films\",\"origin_country\":\"GB\"},{\"id\":10146,\"logo_path\":\"\/xnFIOeq5cKw09kCWqV7foWDe4AA.png\",\"name\":\"Focus Features\",\"origin_country\":\"US\"},{\"id\":2807,\"logo_path\":null,\"name\":\"India Take One\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-09-13\",\"revenue\":65400000,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"Urdu\",\"iso_639_1\":\"ur\",\"name\":\"\u0627\u0631\u062f\u0648\"}],\"status\":\"Released\",\"tagline\":\"History's most unlikely friendship.\",\"title\":\"Victoria & Abdul\",\"video\":false,\"vote_average\":6.914,\"vote_count\":1134}"
+}

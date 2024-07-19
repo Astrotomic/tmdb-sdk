@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1761",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25793",
+        "x-memc": "HIT",
+        "x-memc-key": "fed5089055dd863b5364fc41b1c5ce0d",
+        "x-memc-age": "2427",
+        "x-memc-expires": "25793",
+        "ETag": "W\/\"496cacb83aa6bbd4d99c32f34b27ad15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F0zPQwgfhHoeGDRvyXokzs31ke0FZVqBi8S1qAu6ffeuvY0E-e3Y5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fW4ZCoEZRBqLAJGFQ2g5AdAfPQR.jpg\",\"belongs_to_collection\":{\"id\":153010,\"name\":\"Beauty and the Beast Collection\",\"poster_path\":\"\/1NHcdBe16ZLoOaHy8JmIRYByxBx.jpg\",\"backdrop_path\":\"\/bXCm94g4TXKmACRj02ZlvmKp09m.jpg\"},\"budget\":25000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/disney.go.com\/disneyvideos\/animatedfilms\/beauty\/?cmp=dcom_VAN_WDSHE_BEA_van_batb__Extl\",\"id\":10020,\"imdb_id\":\"tt0101414\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Beauty and the Beast\",\"overview\":\"Follow the adventures of Belle, a bright young woman who finds herself in the castle of a prince who's been turned into a mysterious beast. With the help of the castle's enchanted staff, Belle soon learns the most important lesson of all -- that true beauty comes from within.\",\"popularity\":143.948,\"poster_path\":\"\/hUJ0UvQ5tgE2Z9WpfuduVSdiCiU.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":10282,\"logo_path\":null,\"name\":\"Silver Screen Partners IV\",\"origin_country\":\"US\"},{\"id\":171656,\"logo_path\":\"\/4UBohOtIr9DtxylH48Qsg6aDow6.png\",\"name\":\"Walt Disney Feature Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-10-22\",\"revenue\":424967620,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The most beautiful love story ever told.\",\"title\":\"Beauty and the Beast\",\"video\":false,\"vote_average\":7.735,\"vote_count\":9714}"
+}

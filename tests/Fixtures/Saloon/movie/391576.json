@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "955",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12484",
+        "x-memc": "HIT",
+        "x-memc-key": "5b6fedbaaf10f8e14d7143e618390ec5",
+        "x-memc-age": "12444",
+        "x-memc-expires": "12484",
+        "ETag": "W\/\"2f774162016cde75c729f2031c481638\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vceuwmarRY7sw8dI1C7gKZlu9hLFhV3ETRhXHqwnfKtVVNmFMgn8SQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oNt4PUDhGYHPLO9f1AswqGhHlhJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391576,\"imdb_id\":\"tt0035975\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"He's My Guy\",\"overview\":\"The former members of a vaudeville team meet up again in a defense plant during WW II.\",\"popularity\":1.609,\"poster_path\":\"\/3RqOcRiaEfyIAZgYfngGiJs6Zhi.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-03-26\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Clown Princess of Screen and Radio!\",\"title\":\"He's My Guy\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "968",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15517",
+        "x-memc": "HIT",
+        "x-memc-key": "f2e45e5c48f709d54b907feb9b9e4228",
+        "x-memc-age": "10856",
+        "x-memc-expires": "15517",
+        "ETag": "W\/\"f85ce655aea616682be3179b45ab4449\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CmKMNf6rwtkGiHglcoh1FGt2JOjrDPaxUBgx4GIdPyLDoM1gNBIR3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1180536,\"imdb_id\":\"tt28145120\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Wedding Party\",\"overview\":\"A surprise engagement leads four soon-to-be step-siblings on a 1,400 mile road trip to set aside their differences and become a blended family.\",\"popularity\":5.88,\"poster_path\":\"\/78xpmJcQ58i2vV4q8yU4Hv6EqL3.jpg\",\"production_companies\":[{\"id\":208992,\"logo_path\":null,\"name\":\"District 22 Studios\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Post Production\",\"tagline\":\"When the road gets rough, stick with siblings.\",\"title\":\"The Wedding Party\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

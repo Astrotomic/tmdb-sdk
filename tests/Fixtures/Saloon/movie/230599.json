@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1239",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9295",
+        "x-memc": "HIT",
+        "x-memc-key": "97ec20cedf8ddcde143b64ba5975638a",
+        "x-memc-age": "18485",
+        "x-memc-expires": "9295",
+        "ETag": "W\/\"7ca76fb2842b75ad911456be483287a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BrTfyy6zeoyYnuSSTfNGLWdQ5-4E3fyhic0BPdG44YwUaPgWKGBJZw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3mMeHZUHrcSAIgQdCs1hKwPBrZA.jpg\",\"belongs_to_collection\":null,\"budget\":1849089,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":230599,\"imdb_id\":\"tt3280730\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Moshi Monsters: The Movie\",\"overview\":\"Katsuma, Poppet, Snoodle, and the other Moshi Monsters must stop evil Doctor Strangeglove and his incompetent sidekick Fishlips from pulverising the recently discovered Great Moshling Egg.\",\"popularity\":3.48,\"poster_path\":\"\/d5wCCw6qxVdrdySPaOZrSBQTHfg.jpg\",\"production_companies\":[{\"id\":168536,\"logo_path\":null,\"name\":\"Spider Eye Productions\",\"origin_country\":\"\"},{\"id\":47667,\"logo_path\":\"\/fxdUkl6kehLYut8uC7qWYTacxx3.png\",\"name\":\"Moshi\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2013-12-20\",\"revenue\":2900000,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's a monster of a movie!\",\"title\":\"Moshi Monsters: The Movie\",\"video\":false,\"vote_average\":6.167,\"vote_count\":9}"
+}

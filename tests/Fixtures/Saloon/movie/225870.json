@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "883",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10042",
+        "x-memc": "HIT",
+        "x-memc-key": "916f68e978e05e4a820362badc575e8c",
+        "x-memc-age": "15703",
+        "x-memc-expires": "10042",
+        "ETag": "W\/\"4760e97acab8c63970eb8b53e527a950\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pWxymik_RMDxxYTojapWrBys0GYOa-X-TIKgl9j2gvwgGwijiPh6pQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":225870,\"imdb_id\":\"tt0261811\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Macumba na Alta\",\"overview\":\"A small-time con man is run down by a drunken young millionaire . The former blackmails the other into being taken in the family mansion.\",\"popularity\":2.096,\"poster_path\":\"\/g11qbq9xF8KKNDf0EZn8YdIAvU8.jpg\",\"production_companies\":[{\"id\":100578,\"logo_path\":null,\"name\":\"Paulistania Filme S.A.\",\"origin_country\":\"BR\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"1959-06-08\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Macumba na Alta\",\"video\":false,\"vote_average\":2.0,\"vote_count\":1}"
+}

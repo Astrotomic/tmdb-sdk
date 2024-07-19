@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "767",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7544",
+        "x-memc": "HIT",
+        "x-memc-key": "2485741cb495619151a145500379a85b",
+        "x-memc-age": "17565",
+        "x-memc-expires": "7544",
+        "ETag": "W\/\"886964454e1c17ed00922d7035d24112\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ax3DP0ZOfGB6kp2Euu9dwqY-dY8uAt7JqfdWiwJNolpoFaKcIe1KFA=="
+    },
+    "data": "{\"id\":395519,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1613614,\"known_for_department\":\"Directing\",\"name\":\"Jill Obrig\",\"original_name\":\"Jill Obrig\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5725cb98c3a3685899001ae7\",\"department\":\"Directing\",\"job\":\"Assistant Director\"},{\"adult\":false,\"gender\":0,\"id\":1612575,\"known_for_department\":\"Sound\",\"name\":\"Brenda Murphy\",\"original_name\":\"Brenda Murphy\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5725cb8a9251413309001c8e\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":1130502,\"known_for_department\":\"Directing\",\"name\":\"Al Jarnow\",\"original_name\":\"Al Jarnow\",\"popularity\":2.437,\"profile_path\":null,\"credit_id\":\"5725cb7cc3a368546e0009c9\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

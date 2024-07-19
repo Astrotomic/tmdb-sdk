@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5462",
+        "x-memc": "HIT",
+        "x-memc-key": "84ec0914475282e8339bed12302aaac3",
+        "x-memc-age": "16749",
+        "x-memc-expires": "5462",
+        "ETag": "W\/\"7af5060f10fd807665b69df37325cfd3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LA7NpsD0Q102RbhWs50NheqXM4DWVYPFM-hIVr-xzRIDMxmLWxJ0bQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dB0jMXd1G2lH6FYvTEXi4epH5xe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":436973,\"imdb_id\":\"tt5719076\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dead Night\",\"overview\":\"A caring mother loses her sanity, setting off a chain of events resulting in tragedy and murder. The story of Casey Pollack unfolds from two very different perspectives when one night in the woods culminates in absolute terror.\",\"popularity\":7.54,\"poster_path\":\"\/qaBNJEr6LJA9cg7Ht4I9WqiFBDy.jpg\",\"production_companies\":[{\"id\":85787,\"logo_path\":null,\"name\":\"M3 Alliance Limited\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-07-27\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Look deeper\",\"title\":\"Dead Night\",\"video\":false,\"vote_average\":4.6,\"vote_count\":53}"
+}

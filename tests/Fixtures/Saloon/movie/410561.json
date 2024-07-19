@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1664",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6400",
+        "x-memc": "HIT",
+        "x-memc-key": "e5869ee9963028ec4c4b4e5d5931a94b",
+        "x-memc-age": "15575",
+        "x-memc-expires": "6400",
+        "ETag": "W\/\"882f2415b66fc271c498af3bbe3ec771\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pxLlgi5d5Rts1oIX9o8Ub5d_lbiSjq-qZxwAhfDlbGoIJ5s_ByC9FA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":410561,\"imdb_id\":\"tt0307680\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Os Xeretas\",\"overview\":\"Duda, Tato and Nick are inseparable friends, and call themselves \\\"Os Xeretas\\\" (The Snoopers). One day they find a girl with a strange symbol tattooed on her arm, lost in the city. The mystic Alana says she is, in fact, a time traveller, belonging to the Aleph people, responsible for the gates of time and space. She needs to get hold of a medallion to go home, or else she will die, but the medallion has been stolen. The Xeretas decide to help her. They go after the unscrupulous thief and his assistant, who had stolen it from the Museum of S\u00e3o Paulo. In the process, they discover a network of underground tunnels leading to unexpected places.\",\"popularity\":1.225,\"poster_path\":null,\"production_companies\":[{\"id\":13968,\"logo_path\":null,\"name\":\"Europa Filmes\",\"origin_country\":\"BR\"},{\"id\":80212,\"logo_path\":null,\"name\":\"Magia Filmes\",\"origin_country\":\"BR\"},{\"id\":80213,\"logo_path\":null,\"name\":\"Swamp Filmes\",\"origin_country\":\"BR\"},{\"id\":7765,\"logo_path\":\"\/kyZyb7enWovBqmhIZNbseIT9GZI.png\",\"name\":\"TeleImage\",\"origin_country\":\"BR\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2001-06-01\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"They discovered the way for adventure.\",\"title\":\"Os Xeretas\",\"video\":false,\"vote_average\":1.0,\"vote_count\":2}"
+}

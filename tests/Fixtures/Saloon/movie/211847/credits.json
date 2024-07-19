@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3857",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20301",
+        "x-memc": "HIT",
+        "x-memc-key": "811be6c014f18f04866832c56c96ec31",
+        "x-memc-age": "7837",
+        "x-memc-expires": "20301",
+        "ETag": "W\/\"53565b5ba971b9c6ecc231a764364acd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KmvldDlajZo6t1ikb1fWenF5ZAL3v2AuByuqFfLLxGQ2I964RORQtQ=="
+    },
+    "data": "{\"id\":211847,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1515411,\"known_for_department\":\"Acting\",\"name\":\"Diana Torres\",\"original_name\":\"Diana Torres\",\"popularity\":0.776,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"59411bf7c3a36862570173f5\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1833349,\"known_for_department\":\"Acting\",\"name\":\"Alejandro Fuentes\",\"original_name\":\"Alejandro Fuentes\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Chanoc\",\"credit_id\":\"59411c01c3a36803b402033c\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1212382,\"known_for_department\":\"Acting\",\"name\":\"Ram\u00f3n Vald\u00e9s\",\"original_name\":\"Ram\u00f3n Vald\u00e9s\",\"popularity\":10.71,\"profile_path\":\"\/qX0PkyoHTHA3IDCteeAfAKTfK2Z.jpg\",\"cast_id\":4,\"character\":\"Tsekub Baloy\u00e1n\",\"credit_id\":\"59411c0d9251410599011955\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":941245,\"known_for_department\":\"Acting\",\"name\":\"Marco de Carlo\",\"original_name\":\"Marco de Carlo\",\"popularity\":1.556,\"profile_path\":null,\"cast_id\":5,\"character\":\"\",\"credit_id\":\"59411c179251414afb01fc38\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":994471,\"known_for_department\":\"Acting\",\"name\":\"Mario Cid\",\"original_name\":\"Mario Cid\",\"popularity\":1.446,\"profile_path\":null,\"cast_id\":6,\"character\":\"\",\"credit_id\":\"59411c23c3a3686257017420\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":1833350,\"known_for_department\":\"Acting\",\"name\":\"Ernesto Moran\",\"original_name\":\"Ernesto Moran\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":7,\"character\":\"\",\"credit_id\":\"59411c299251414afb01fc45\",\"order\":5},{\"adult\":false,\"gender\":0,\"id\":1543571,\"known_for_department\":\"Acting\",\"name\":\"Guillermo Ayala\",\"original_name\":\"Guillermo Ayala\",\"popularity\":0.413,\"profile_path\":null,\"cast_id\":8,\"character\":\"\",\"credit_id\":\"59411c31c3a36803b4020369\",\"order\":6},{\"adult\":false,\"gender\":0,\"id\":1043469,\"known_for_department\":\"Acting\",\"name\":\"Ricardo Adalid\",\"original_name\":\"Ricardo Adalid\",\"popularity\":1.511,\"profile_path\":null,\"cast_id\":11,\"character\":\"\",\"credit_id\":\"5c350c68c3a36828ed6606e3\",\"order\":7}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":105137,\"known_for_department\":\"Production\",\"name\":\"Rafael P\u00e9rez Grovas\",\"original_name\":\"Rafael P\u00e9rez Grovas\",\"popularity\":1.686,\"profile_path\":null,\"credit_id\":\"52fe4d9dc3a368484e1f30f7\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":105137,\"known_for_department\":\"Production\",\"name\":\"Rafael P\u00e9rez Grovas\",\"original_name\":\"Rafael P\u00e9rez Grovas\",\"popularity\":1.686,\"profile_path\":null,\"credit_id\":\"5c350c3f0e0a2654c1d9128c\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":0,\"id\":2211500,\"known_for_department\":\"Crew\",\"name\":\"Rafael M\u00e1rquez\",\"original_name\":\"Rafael M\u00e1rquez\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5c350c56c3a36828e3661935\",\"department\":\"Crew\",\"job\":\"Additional Writing\"},{\"adult\":false,\"gender\":0,\"id\":2211510,\"known_for_department\":\"Editing\",\"name\":\"Alfredo Jacome\",\"original_name\":\"Alfredo Jacome\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5c350c8d0e0a2654c9d93067\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":1590879,\"known_for_department\":\"Sound\",\"name\":\"Ernesto Cort\u00e1zar Jr.\",\"original_name\":\"Ernesto Cort\u00e1zar Jr.\",\"popularity\":0.358,\"profile_path\":\"\/8cM7vFsOEmt66Lsjtdj9safgd6Q.jpg\",\"credit_id\":\"5c350cf60e0a2654b5d92e50\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":1149266,\"known_for_department\":\"Camera\",\"name\":\"Alfredo Uribe\",\"original_name\":\"Alfredo Uribe\",\"popularity\":1.278,\"profile_path\":null,\"credit_id\":\"5c350d10925141481fdd6b65\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":0,\"id\":105137,\"known_for_department\":\"Production\",\"name\":\"Rafael P\u00e9rez Grovas\",\"original_name\":\"Rafael P\u00e9rez Grovas\",\"popularity\":1.686,\"profile_path\":null,\"credit_id\":\"5c350d28c3a36828e16627a3\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

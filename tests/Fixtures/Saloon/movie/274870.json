@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1685",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20009",
+        "x-memc": "HIT",
+        "x-memc-key": "d496f6b92031be20f9fcac50dbd99d13",
+        "x-memc-age": "3625",
+        "x-memc-expires": "20009",
+        "ETag": "W\/\"d45673547e36f4e8accd2466cfa3b10a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FAovjMjBIW5T0s747gD-CHJodn27Sl1kq2z2UySOYE7Zq9HuaHL8RA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gHz4ZQytRs8YGrqFMwB3Vrr8pig.jpg\",\"belongs_to_collection\":null,\"budget\":110000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.passengersmovie.com\/\",\"id\":274870,\"imdb_id\":\"tt1355644\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Passengers\",\"overview\":\"A spacecraft traveling to a distant colony planet and transporting thousands of people has a malfunction in its sleep chambers. As a result, two passengers are awakened 90 years early.\",\"popularity\":35.537,\"poster_path\":\"\/oZpdONg32luHu0g8HcysuPgSlIK.jpg\",\"production_companies\":[{\"id\":83838,\"logo_path\":\"\/5jZHAya89oRyQfAgwa1e5rfKmrN.png\",\"name\":\"Wanda Pictures\",\"origin_country\":\"CN\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":333,\"logo_path\":\"\/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png\",\"name\":\"Original Film\",\"origin_country\":\"US\"},{\"id\":7193,\"logo_path\":null,\"name\":\"Company Films\",\"origin_country\":\"US\"},{\"id\":19961,\"logo_path\":null,\"name\":\"Start Motion Pictures\",\"origin_country\":\"\"},{\"id\":34034,\"logo_path\":null,\"name\":\"LStar Capital\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-12-21\",\"revenue\":303144152,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There is a reason they woke up.\",\"title\":\"Passengers\",\"video\":false,\"vote_average\":6.947,\"vote_count\":12985}"
+}

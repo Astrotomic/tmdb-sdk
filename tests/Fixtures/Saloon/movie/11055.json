@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1437",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=883",
+        "x-memc": "HIT",
+        "x-memc-key": "7592139e828bf62e00d8d61a4a7fb8df",
+        "x-memc-age": "25051",
+        "x-memc-expires": "883",
+        "ETag": "W\/\"e9bbb12d727d7bab8116ed7ad42af4d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VQDwcAc-Hm_fCWlZo4bRTb60xzavNKwbJjwRwmGwJHKd-hcTfC2BOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/giUXzKkVLWeU2opZNMKPK54Z07C.jpg\",\"belongs_to_collection\":{\"id\":10964,\"name\":\"Flatfoot Collection\",\"poster_path\":\"\/pRzBYVBa0ETMS5p2n53LTtwt0XY.jpg\",\"backdrop_path\":\"\/ea8ZuMrCfHMYiW5efInFYEmPOUS.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11055,\"imdb_id\":\"tt0076544\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Piedone l'africano\",\"overview\":\"Inspector Rizzo in Napoli gets a message from a policeman from South Africa who wants to meet him. Immediately before this meeting the South African policeman is killed. Dying he shows Rizzo a picture of his young son Bodo. Rizzo travels to Johannesburg to find out what the policeman was working on and to find Bodo.\",\"popularity\":14.345,\"poster_path\":\"\/qNdEEsnYgKaaKIhlcRyAjSbpni4.jpg\",\"production_companies\":[{\"id\":29165,\"logo_path\":\"\/d1wokdgTjC7lJs6yktVd61JZrwD.png\",\"name\":\"Rialto Film\",\"origin_country\":\"DE\"},{\"id\":15191,\"logo_path\":null,\"name\":\"Laser Films\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1978-03-22\",\"revenue\":0,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Flatfoot in Africa\",\"video\":false,\"vote_average\":6.1,\"vote_count\":150}"
+}

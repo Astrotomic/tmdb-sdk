@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1067",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6010",
+        "x-memc": "HIT",
+        "x-memc-key": "170547c9a721ddefe4217b4c1779104c",
+        "x-memc-age": "17005",
+        "x-memc-expires": "6010",
+        "ETag": "W\/\"2ba7c3caa17d42683306143d70648340\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ntbbUbEKM1LlomP6lVF26A18EJHPmMb-UzWpKSSHnftYQD3kXgosKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5hT8iJ7qlkKXoiWGE8Ej2Zgbj0R.jpg\",\"belongs_to_collection\":null,\"budget\":60000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":17245,\"imdb_id\":\"tt0473514\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mulberry Street\",\"overview\":\"A deadly infection breaks out in Manhattan, causing humans to devolve into blood-thirsty rat creatures. Six recently evicted tenants must survive the night and protect their downtown apartment building as the city quickly spirals out of control.\",\"popularity\":9.831,\"poster_path\":\"\/lFj91spTLqP5nqj82q0pNWTqi7Q.jpg\",\"production_companies\":[{\"id\":2341,\"logo_path\":null,\"name\":\"Belladonna Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-05-23\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The neighborhood is changing\u2026\",\"title\":\"Mulberry Street\",\"video\":false,\"vote_average\":5.3,\"vote_count\":117}"
+}

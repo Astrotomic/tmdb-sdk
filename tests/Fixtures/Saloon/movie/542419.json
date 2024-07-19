@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1193",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10764",
+        "x-memc": "HIT",
+        "x-memc-key": "1f5cc2e037c7fe62f5fabba53c06141d",
+        "x-memc-age": "17278",
+        "x-memc-expires": "10764",
+        "ETag": "W\/\"b23a686e9265bdd800764b9c80d3ef30\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lELG3ZCQIFf9B5GG7Dnh6arVlQNNuQQFmDzs3B-BQTfjFyzuBUURtw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/siByQmXngPw1HKuwYDn8zmkJFU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":542419,\"imdb_id\":\"tt8526164\",\"origin_country\":[\"EG\"],\"original_language\":\"ar\",\"original_title\":\"\u0644\u064a\u0644 \u062e\u0627\u0631\u062c\u064a\",\"overview\":\"When a day in the life of a beleaguered Egyptian filmmaker goes sideways, he witnesses anew issues like class and gender relations.\",\"popularity\":4.82,\"poster_path\":\"\/2xTUy0uRlxI1iYPwpTDF7wXJ7GT.jpg\",\"production_companies\":[{\"id\":108091,\"logo_path\":\"\/fzGNO9Q4bU8D6NDwmTu5iKUTnco.png\",\"name\":\"Hassala Films\",\"origin_country\":\"EG\"},{\"id\":137200,\"logo_path\":null,\"name\":\"Details Production\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"EG\",\"name\":\"Egypt\"},{\"iso_3166_1\":\"AE\",\"name\":\"United Arab Emirates\"}],\"release_date\":\"2018-11-30\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"}],\"status\":\"Released\",\"tagline\":\"Three people had to live together for one night.\",\"title\":\"Exterior\/Night\",\"video\":false,\"vote_average\":6.6,\"vote_count\":14}"
+}

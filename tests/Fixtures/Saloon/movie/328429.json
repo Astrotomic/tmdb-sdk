@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1390",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14482",
+        "x-memc": "HIT",
+        "x-memc-key": "77c56a56f8a8bba5c13b608e1cd3d117",
+        "x-memc-age": "8468",
+        "x-memc-expires": "14482",
+        "ETag": "W\/\"2689d9d2b1c43a2aac723561b2d1d302\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JIJVWudRgYQKxNpEW0lBmXydTBMVZ7RyBH0eWxmeusR5UOsp-lhY_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5EYIaPWR8cg1fKAyH2KTFzTIaPT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":328429,\"imdb_id\":\"tt2674430\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Approaching the Unknown\",\"overview\":\"Captain William Stanaforth is on a one-way solo mission to take the first steps in colonising Mars. Like all pioneers throughout history, Stanaforth will face insurmountable odds and life and death decisions as he rockets bravely through space.\",\"popularity\":14.034,\"poster_path\":\"\/zubKPqGvXog7LWMyVVZChCo4E8L.jpg\",\"production_companies\":[{\"id\":78178,\"logo_path\":null,\"name\":\"Rooftop Films\",\"origin_country\":\"\"},{\"id\":19632,\"logo_path\":\"\/q2kFlMm4C9UTWgSrJA6iSmDvWMI.png\",\"name\":\"3311 Productions\",\"origin_country\":\"US\"},{\"id\":26951,\"logo_path\":\"\/g7DU8lrQwY4UHGeditUaaaO0v3x.png\",\"name\":\"Loveless\",\"origin_country\":\"US\"},{\"id\":44396,\"logo_path\":null,\"name\":\"TideRock Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-03\",\"revenue\":10232,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Approaching the Unknown\",\"video\":false,\"vote_average\":5.298,\"vote_count\":300}"
+}

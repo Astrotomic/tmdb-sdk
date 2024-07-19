@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1612",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:18:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8604",
+        "x-memc": "HIT",
+        "x-memc-key": "038fb8ffc59fa6deb75a0bd08fa9b73d",
+        "x-memc-age": "18370",
+        "x-memc-expires": "8604",
+        "ETag": "W\/\"98e7293d01b7bc739720a400cd3a9996\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RkzIlFJ9hZjbe0cpDzkcUxll0vCYTAtIIq-DXa9nSFQlSkS2Ee42Lw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ug8cy6tthmLWF4ZcFMCAvGkUXM7.jpg\",\"belongs_to_collection\":{\"id\":133352,\"name\":\"Resident Evil (Animated) Collection\",\"poster_path\":\"\/kCcFm97dwIVA7LMbu6vyCtCv3V4.jpg\",\"backdrop_path\":\"\/uj2duAkn6zUmRSbjyEr7XUeIWsJ.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/residentevildegeneration\",\"id\":13648,\"imdb_id\":\"tt1174954\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\uff1a\u30c7\u30a3\u30b8\u30a7\u30cd\u30ec\u30fc\u30b7\u30e7\u30f3\",\"overview\":\"Leon S. Kennedy and Claire Redfield must battle a rogue warrior seeking revenge after unleashing the deadly G-Virus, whilst a mutated monster goes on a rampage.\",\"popularity\":34.438,\"poster_path\":\"\/3wSIagfHnR9vRAPyNjCfGzfgbXK.jpg\",\"production_companies\":[{\"id\":7220,\"logo_path\":\"\/dD0x5awPmtx4sAr2pNvkmxkCODh.png\",\"name\":\"Capcom\",\"origin_country\":\"JP\"},{\"id\":82346,\"logo_path\":\"\/jqgK6CSkPrEsIv6Nk390JaBcXYF.png\",\"name\":\"Sony Pictures\",\"origin_country\":\"JP\"},{\"id\":3361,\"logo_path\":\"\/sDKWkiVJRY0gn1j5NBseGKlgFyY.png\",\"name\":\"Digital Frontier\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2008-02-13\",\"revenue\":403117,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"1996 - The Mansion Experiment\",\"title\":\"Resident Evil: Degeneration\",\"video\":false,\"vote_average\":6.809,\"vote_count\":1039}"
+}

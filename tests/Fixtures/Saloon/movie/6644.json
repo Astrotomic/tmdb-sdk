@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1150",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11912",
+        "x-memc": "HIT",
+        "x-memc-key": "91bfb1811345afbcc50127a2248f4802",
+        "x-memc-age": "13474",
+        "x-memc-expires": "11912",
+        "ETag": "W\/\"6559c7bab6c5f26e3f0b0914869d5cc5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DmLweHVkFUIR_TQioX-tPvxuw5Yt1IQqaMez9EP_IKiwOO0u_BDOrg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jO2UYiLDCEz51uONqF3TeABrUvB.jpg\",\"belongs_to_collection\":null,\"budget\":4653000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":6644,\"imdb_id\":\"tt0061619\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"El Dorado\",\"overview\":\"Cole Thornton, a gunfighter for hire, joins forces with an old friend, Sheriff J.P. Harrah. Together with a fighter and a gambler, they help a rancher and his family fight a rival rancher that is trying to steal their water.\",\"popularity\":28.893,\"poster_path\":\"\/poJxkMtTA3E95lJ6RnBgNxF0Vmx.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":10697,\"logo_path\":null,\"name\":\"Laurel Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1966-12-17\",\"revenue\":6000000,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's the big one with the big two!\",\"title\":\"El Dorado\",\"video\":false,\"vote_average\":7.345,\"vote_count\":509}"
+}

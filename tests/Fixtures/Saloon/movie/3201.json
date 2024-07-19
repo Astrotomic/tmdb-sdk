@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1323",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23732",
+        "x-memc": "HIT",
+        "x-memc-key": "99e0c5bfe29da45353631b3156db1069",
+        "x-memc-age": "550",
+        "x-memc-expires": "23732",
+        "ETag": "W\/\"2a857efa3d1a8763b49b475b81d13fa8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qU7pXPJOr55Bwj8JxYusaPGpJX2EmwaHnDWHb9Jhq0bNLMqPPMJMZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":4210000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3201,\"imdb_id\":\"tt0092172\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Vindicator\",\"overview\":\"An employee of a secret company operation becomes the victim of the company's special weapons project. He is transformed into a robotic killing machine that, because of his programming must destroy anything that comes near him.\",\"popularity\":5.736,\"poster_path\":\"\/vgdqGHVBYQJX9QDuWjmrwbB54T1.jpg\",\"production_companies\":[{\"id\":1355,\"logo_path\":null,\"name\":\"Michael Levy Enterprises\",\"origin_country\":\"\"},{\"id\":1356,\"logo_path\":null,\"name\":\"Frank \\u0026 Stein Film Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-02-14\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They thought they took his life...now he wants theirs. Invincible. Unstoppable. Indestructible. He's out on the street and out of control!\",\"title\":\"The Vindicator\",\"video\":false,\"vote_average\":4.417,\"vote_count\":30}"
+}

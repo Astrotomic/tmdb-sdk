@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1219",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18216",
+        "x-memc": "HIT",
+        "x-memc-key": "9524bfc6d3e98a873ae74360007bd36f",
+        "x-memc-age": "10110",
+        "x-memc-expires": "18216",
+        "ETag": "W\/\"ba837cfebc87fe961f969379b3fd9728\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NIFFuTgBS9P_Y0d9SpYYSv1QzrF0JECA4xRJ_gunzXsbjdF86CWjkA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oUNAGuc28xNxeUg2NpXuT3qKup0.jpg\",\"belongs_to_collection\":null,\"budget\":31000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11005,\"imdb_id\":\"tt0099077\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Awakenings\",\"overview\":\"Dr. Malcolm Sayer, a shy research physician, uses an experimental drug to \\\"awaken\\\" the catatonic victims of a rare disease. Leonard is the first patient to receive the controversial treatment. His awakening, filled with awe and enthusiasm, proves a rebirth for Sayer too, as the exuberant patient reveals life's simple but unutterably sweet pleasures to the introverted doctor.\",\"popularity\":32.955,\"poster_path\":\"\/9gztZXuHLG6AJ0fgqGd7Q43cWRI.jpg\",\"production_companies\":[{\"id\":67713,\"logo_path\":null,\"name\":\"Parkes\/Lasker productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-12-04\",\"revenue\":52096475,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There is no such thing as a simple miracle.\",\"title\":\"Awakenings\",\"video\":false,\"vote_average\":7.766,\"vote_count\":2461}"
+}

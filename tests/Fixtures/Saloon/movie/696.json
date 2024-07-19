@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1167",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10403",
+        "x-memc": "HIT",
+        "x-memc-key": "a1286cd7b8db49649c75e657e53ddebe",
+        "x-memc-age": "13543",
+        "x-memc-expires": "10403",
+        "ETag": "W\/\"ebe9991592da03a62560a8cf6eb3d087\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XCl5Que93S1SHhFqCHIszLQY-3mfp-nAUhwMv0GUJ44gltTHiV7KuQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ohJFDJRU547aWFVjaM3ppY0oFj6.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":696,\"imdb_id\":\"tt0079522\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Manhattan\",\"overview\":\"Manhattan explores how the life of a middle-aged television writer dating a teenage girl is further complicated when he falls in love with his best friend's mistress.\",\"popularity\":31.009,\"poster_path\":\"\/k4eT3EvfxW1L9Wmt04UqJqCvCR6.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":13309,\"logo_path\":null,\"name\":\"Jack Rollins \\u0026 Charles H. Joffe Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1979-04-25\",\"revenue\":40194067,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Woody Allen's New Comedy Hit\",\"title\":\"Manhattan\",\"video\":false,\"vote_average\":7.736,\"vote_count\":2330}"
+}

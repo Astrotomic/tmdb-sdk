@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1357",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=79",
+        "x-memc": "HIT",
+        "x-memc-key": "a624f5ca00aa2fa19021ac9eee0e25d8",
+        "x-memc-age": "26494",
+        "x-memc-expires": "79",
+        "ETag": "W\/\"f0f2b530cf5252c3643a12cac6dc8133\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iYVU3M18B-oOtg8Mxis6hlQFgab1CdEWw4KkCGJLnl1vCD2KZP2X0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fRYNlAhtf9B7Qh9XnqMV40vUKAl.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":8074,\"imdb_id\":\"tt0060304\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"2 ou 3 choses que je sais d'elle\",\"overview\":\"As the city of Paris and the French people grow in consumer culture, a housewife living in a high-rise apartment with her husband and two children takes to prostitution to help pay the bills.\",\"popularity\":10.533,\"poster_path\":\"\/w1LO1SIrpA4GCjK3ysANr7F3eAN.jpg\",\"production_companies\":[{\"id\":6116,\"logo_path\":\"\/yCu2D15iD7lcYsBWqXjU65U9nkH.png\",\"name\":\"Argos Films\",\"origin_country\":\"FR\"},{\"id\":14679,\"logo_path\":null,\"name\":\"Anouchka Films\",\"origin_country\":\"FR\"},{\"id\":53,\"logo_path\":\"\/3cWJikm9MdWCMKdatuk8gDTa5xy.png\",\"name\":\"Les Films du Carrosse\",\"origin_country\":\"FR\"},{\"id\":14680,\"logo_path\":null,\"name\":\"Parc Film\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1967-03-17\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"2 or 3 Things I Know About Her\",\"video\":false,\"vote_average\":6.297,\"vote_count\":187}"
+}

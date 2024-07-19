@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1165",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8579",
+        "x-memc": "HIT",
+        "x-memc-key": "780b4e6b10a1e71b54a6fb0db2361ffd",
+        "x-memc-age": "16797",
+        "x-memc-expires": "8579",
+        "ETag": "W\/\"76c7f5406d16c239b9753b3421b1d42a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XizGUlap-W7QFsJv3gR-A9iHS9st6Muxv9IzDA-HCq1YwLrUQPIz3g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fpM7S7MHokXqZl6TOTHC8hXZcKr.jpg\",\"belongs_to_collection\":null,\"budget\":10500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.focusfeatures.com\/thebeguiled\/\",\"id\":399019,\"imdb_id\":\"tt5592248\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Beguiled\",\"overview\":\"During the Civil War, at a Southern girls\u2019 boarding school, young women take in an injured enemy soldier. As they provide refuge and tend to his wounds, the house is taken over with sexual tension and dangerous rivalries, and taboos are broken in an unexpected turn of events.\",\"popularity\":25.999,\"poster_path\":\"\/uQxfqFAqAvNK5b1wD11b2ycDAVg.jpg\",\"production_companies\":[{\"id\":70,\"logo_path\":\"\/ueaENQkPcy8rlr5fGZVBXKOhlBh.png\",\"name\":\"American Zoetrope\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-06-23\",\"revenue\":27400000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Innocent, until betrayed.\",\"title\":\"The Beguiled\",\"video\":false,\"vote_average\":5.91,\"vote_count\":2104}"
+}

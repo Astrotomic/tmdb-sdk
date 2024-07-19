@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1023",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8620",
+        "x-memc": "HIT",
+        "x-memc-key": "325244a8b97148093fa17c5ff0885ee8",
+        "x-memc-age": "19455",
+        "x-memc-expires": "8620",
+        "ETag": "W\/\"67538d16446e59d2f5bb191f67993b74\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HJenZL_Yi9bQ3nnKilzSPwtWbKHxKdAEuP3jujxug2Z2MWwNqZ5yiw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":244174,\"imdb_id\":\"tt1520860\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Dem Panzerkreuzer Potemkin auf der Spur\",\"overview\":\"Documentary detailing the extensive number of shots long lost from constant film re-cutting of 1925's great silent cinema classic Battleship Potemkin in the last 80 years, and how many of those shots have been returned.\",\"popularity\":2.737,\"poster_path\":null,\"production_companies\":[{\"id\":2625,\"logo_path\":null,\"name\":\"Transit Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2007-09-26\",\"revenue\":0,\"runtime\":43,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Tracing Battleship Potemkin\",\"video\":false,\"vote_average\":6.0,\"vote_count\":4}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1383",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10057",
+        "x-memc": "HIT",
+        "x-memc-key": "9a0acf1a24558e0a87c6103f3c1be191",
+        "x-memc-age": "12899",
+        "x-memc-expires": "10057",
+        "ETag": "W\/\"ee354d55ada1e90d81e59ba034373dee\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9f8DnzZItNWUwYY6RKjRcIYjmcMjQWl4bq-mPvc2WD6E3HaXeBuvrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/btKuvMnqrVub2raaf9V4qR29LA6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1000862,\"imdb_id\":\"tt26060006\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Pas de vagues\",\"overview\":\"Julien, a young teacher, is wrongfully accused of sexual misconduct by a teenage girl from his class. As he faces mounting pressures from the girl\u2019s older brother and her classmates, the situation spirals out of control. Allegations spread, the entire school is thrown into turmoil, and the teacher has to fight to clear his name.\",\"popularity\":26.16,\"poster_path\":\"\/cNcubOGNGpqMvkieHHzoKN6Zvmi.jpg\",\"production_companies\":[{\"id\":49934,\"logo_path\":\"\/ns14fiims2htw1kiEI9xCJFFlWO.png\",\"name\":\"Kazak Productions\",\"origin_country\":\"FR\"},{\"id\":49473,\"logo_path\":\"\/d0Cld16NzSAizrXfO6jrN3nH6az.png\",\"name\":\"Frakas Productions\",\"origin_country\":\"BE\"},{\"id\":591,\"logo_path\":\"\/q5I5RDwMEiqoNmfaJgd2LraEOJY.png\",\"name\":\"France 3 Cin\u00e9ma\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-03-27\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Good Teacher\",\"video\":false,\"vote_average\":6.362,\"vote_count\":94}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1297",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23654",
+        "x-memc": "HIT",
+        "x-memc-key": "3bfbb5ff148b92b00e4dac075f2cc63a",
+        "x-memc-age": "3715",
+        "x-memc-expires": "23654",
+        "ETag": "W\/\"30aee211f50b1c3d777d7e3eac9ed999\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5iktBSvGC7fDCb_TuFZTTX7vmPePz9YQ2tZv_gKn4VLWe0KuLapSrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tNPNllKSgTipMhuqWE7vsOeWqwM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":861839,\"imdb_id\":null,\"origin_country\":[\"US\",\"SG\"],\"original_language\":\"en\",\"original_title\":\"\u7231\u4e0d\u8fdf\u7591\",\"overview\":\"Jia Tianxiong (Li Nanxing) is a gambler and addicted to drinking. He was asked to do a mission to spy on someone and disguised himself as a teacher in SCP school. He met Zeng Kaixin (Bonnie Loo), a teacher in the school. But, on Kaixin's birthday, her foster father told her that he is not her biological father. Kaixin was devastated and felt angry with her biological father for not reuniting with her and her mother who had passed away. Will Kaixin ever find her biological father?\",\"popularity\":9.71,\"poster_path\":\"\/jZ28dCsRvVju5OdUPYkWAiVrSpp.jpg\",\"production_companies\":[{\"id\":131754,\"logo_path\":\"\/bDkogDnA7kvNqDvgTWnhNJ0OdEu.png\",\"name\":\"MediaCorp\",\"origin_country\":\"SG\"}],\"production_countries\":[{\"iso_3166_1\":\"SG\",\"name\":\"Singapore\"}],\"release_date\":\"2017-08-28\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"My Teacher Is a Thug\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

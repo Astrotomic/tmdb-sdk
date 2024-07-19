@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1102",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15220",
+        "x-memc": "HIT",
+        "x-memc-key": "74be5f83e0b86247a5f87188ba51db3f",
+        "x-memc-age": "8122",
+        "x-memc-expires": "15220",
+        "ETag": "W\/\"27b58c078ca067a1cc630f645c8dbfea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qBMe8hhyJ8n6eGufst4tantgxMVZUYKI7wwsd1E6N4gTCvLRrK7LXA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7Pv3VYWxM36bIoJyzD0diP2S2C3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/alexoctobermovie.com\",\"id\":856721,\"imdb_id\":\"tt2477518\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Alex\/October\",\"overview\":\"A desperate man places a bizarre classified ad to end his life, but a strange turn of events occurs when an aimless girl decides to answer. As their lives collide, they realize the smallest choices can be the difference between life and death.\",\"popularity\":7.272,\"poster_path\":\"\/heafpnCrXXwMw0Vc4M5aOqGnJ6R.jpg\",\"production_companies\":[{\"id\":182685,\"logo_path\":null,\"name\":\"One Good Man Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-30\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He posted... She replied.\",\"title\":\"Alex\/October\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

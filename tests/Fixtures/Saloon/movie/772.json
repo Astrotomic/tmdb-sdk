@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1567",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17435",
+        "x-memc": "HIT",
+        "x-memc-key": "f54c5741f6967025fabd98562dd7c4f8",
+        "x-memc-age": "6908",
+        "x-memc-expires": "17435",
+        "ETag": "W\/\"d5bbf1d262dee2dcb0652eca4c958518\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QGZvZj898dcl3b5WD-OsGwGpRsDLqlwX54ppqQg5A5qGY13jlVraEA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8fnYJPoXxwAN4valDLgz2whMGTH.jpg\",\"belongs_to_collection\":{\"id\":9888,\"name\":\"Home Alone Collection\",\"poster_path\":\"\/zYPsleQJo1n1rBPlecJBRb3iwSO.jpg\",\"backdrop_path\":\"\/tpmfRWL1ecFxFOOeqvp6hDf41ac.jpg\"},\"budget\":18000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":772,\"imdb_id\":\"tt0104431\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Home Alone 2: Lost in New York\",\"overview\":\"Instead of flying to Florida with his folks, Kevin ends up alone in New York, where he gets a hotel room with his dad's credit card\u2014despite problems from a clerk and meddling bellboy. But when Kevin runs into his old nemeses, the Wet Bandits, he's determined to foil their plans to rob a toy store on Christmas Eve.\",\"popularity\":70.505,\"poster_path\":\"\/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":477,\"logo_path\":null,\"name\":\"Hughes Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-11-15\",\"revenue\":358994850,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"He's up past his bedtime in the city that never sleeps.\",\"title\":\"Home Alone 2: Lost in New York\",\"video\":false,\"vote_average\":6.746,\"vote_count\":9341}"
+}

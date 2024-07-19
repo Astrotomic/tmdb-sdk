@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3815",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:09:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23859",
+        "x-memc": "HIT",
+        "x-memc-key": "6c2cea3db688219ada0b6e0a021e9638",
+        "x-memc-age": "2650",
+        "x-memc-expires": "23859",
+        "ETag": "W\/\"0e4d316115dd28f487497976d52170ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F8Bpb2Zeo01GXCzfOi9fhA4HIwNXgyxG_SebCpPjhk5lGTDuYVd7dg=="
+    },
+    "data": "{\"id\":12477,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":14}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=DE\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":18}],\"rent\":[{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":18}]},\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/7K6rVbpWXB6ByDI0PRzGGRXRBSY.jpg\",\"provider_id\":149,\"provider_name\":\"Movistar Plus\",\"display_priority\":11}]},\"FI\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=FI\",\"free\":[{\"logo_path\":\"\/w1V9hzBaRlkpISBWhCv676kI8Mp.jpg\",\"provider_id\":496,\"provider_name\":\"Cineasterna\",\"display_priority\":45}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=FR\",\"buy\":[{\"logo_path\":\"\/1syoSwH2yIskHUqeOiK9re8AMJC.jpg\",\"provider_id\":310,\"provider_name\":\"LaCinetek\",\"display_priority\":23}],\"rent\":[{\"logo_path\":\"\/1syoSwH2yIskHUqeOiK9re8AMJC.jpg\",\"provider_id\":310,\"provider_name\":\"LaCinetek\",\"display_priority\":23}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":17}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6},{\"logo_path\":\"\/6AKbY2ayaEuH4zKg2prqoVQ9iaY.jpg\",\"provider_id\":130,\"provider_name\":\"Sky Store\",\"display_priority\":16},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":17}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=IE\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/6AKbY2ayaEuH4zKg2prqoVQ9iaY.jpg\",\"provider_id\":130,\"provider_name\":\"Sky Store\",\"display_priority\":9},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}]},\"NO\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=NO\",\"free\":[{\"logo_path\":\"\/w1V9hzBaRlkpISBWhCv676kI8Mp.jpg\",\"provider_id\":496,\"provider_name\":\"Cineasterna\",\"display_priority\":45}]},\"PT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=PT\",\"rent\":[{\"logo_path\":\"\/ldkEX7JzLoWBvMP0GUHEfwAnK3B.jpg\",\"provider_id\":242,\"provider_name\":\"Meo\",\"display_priority\":3}]},\"SE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12477\/watch?locale=SE\",\"free\":[{\"logo_path\":\"\/w1V9hzBaRlkpISBWhCv676kI8Mp.jpg\",\"provider_id\":496,\"provider_name\":\"Cineasterna\",\"display_priority\":25}]}}}"
+}

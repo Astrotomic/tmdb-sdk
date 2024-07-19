@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1261",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1075",
+        "x-memc": "HIT",
+        "x-memc-key": "0b39dc6058533ab575fb065955d49b20",
+        "x-memc-age": "24777",
+        "x-memc-expires": "1075",
+        "ETag": "W\/\"76a385df8fa87da1888a8a1356953d07\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AkJmlAVdyC5aPl_qP5JKhBKlElPw2RrQuvsocr4fS1JckDE8IfrOog=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qrTgUIEYM2ODHjfdPzfXWbwIwKJ.jpg\",\"belongs_to_collection\":null,\"budget\":1200000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":574,\"imdb_id\":\"tt0049470\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Man Who Knew Too Much\",\"overview\":\"A couple vacationing in Morocco with their young son accidentally stumble upon an assassination plot. When the child is kidnapped to ensure their silence, they have to take matters into their own hands to save him.\",\"popularity\":29.281,\"poster_path\":\"\/gy8YBRjCQRIT9x9G9F5fpnFD4xw.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1956-05-16\",\"revenue\":11300000,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"A little knowledge can be a deadly thing!\",\"title\":\"The Man Who Knew Too Much\",\"video\":false,\"vote_average\":7.455,\"vote_count\":1343}"
+}

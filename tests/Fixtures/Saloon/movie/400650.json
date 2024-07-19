@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1423",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4043",
+        "x-memc": "HIT",
+        "x-memc-key": "8584d980a3cc6c6d1b80e198b1f1bc2a",
+        "x-memc-age": "20687",
+        "x-memc-expires": "4043",
+        "ETag": "W\/\"fdf6ccc968f2653faaae4e5b1edcf169\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FuR_Tj-uVZYONfXNKqmUk3WcmwOgG7K7xow4MKWw3ShidPIf7fTkMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oGzToOBTRdXVOrHj8r0VgK3d2sU.jpg\",\"belongs_to_collection\":{\"id\":527439,\"name\":\"Mary Poppins Collection\",\"poster_path\":\"\/zhRdMHwitG9vOuRjrzZA4KdLEix.jpg\",\"backdrop_path\":\"\/7f3qwby0wlw4y1vG7yQqhme5iTK.jpg\"},\"budget\":130000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/movies.disney.com\/mary-poppins-returns\",\"id\":400650,\"imdb_id\":\"tt5028340\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mary Poppins Returns\",\"overview\":\"Mary Poppins returns to the Banks family and helps them evade grave dangers by taking them on magical, musical adventures.\",\"popularity\":47.167,\"poster_path\":\"\/uTVGku4LibMGyKgQvjBtv3OYfAX.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":2527,\"logo_path\":\"\/osO7TGmlRMistSQ5JZusPhbKUHk.png\",\"name\":\"Marc Platt Productions\",\"origin_country\":\"US\"},{\"id\":17021,\"logo_path\":null,\"name\":\"Lucamar Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-12-13\",\"revenue\":348807090,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Magic Always Returns.\",\"title\":\"Mary Poppins Returns\",\"video\":false,\"vote_average\":6.512,\"vote_count\":3247}"
+}

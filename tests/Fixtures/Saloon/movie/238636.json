@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1941",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20785",
+        "x-memc": "HIT",
+        "x-memc-key": "2dd5637b9f0998de7b75214e483b1fa9",
+        "x-memc-age": "6313",
+        "x-memc-expires": "20785",
+        "ETag": "W\/\"2c62180f14029238958bbf4e94a5e4a6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YeZPYWTI1oZp1zwvAVH3FjySZz_7TNUlEMVXDMO9uvGctR3HF-J4WA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/blfZnm6StMPnTY35kaooPBCsSVp.jpg\",\"belongs_to_collection\":{\"id\":256322,\"name\":\"The Purge Collection\",\"poster_path\":\"\/kklRqw1Mp7xTnHm2ifmPNshGB4D.jpg\",\"backdrop_path\":\"\/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg\"},\"budget\":9000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":238636,\"imdb_id\":\"tt2975578\",\"origin_country\":[\"FR\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Purge: Anarchy\",\"overview\":\"One night per year, the government sanctions a 12-hour period in which citizens can commit any crime they wish -- including murder -- without fear of punishment or imprisonment. Leo, a sergeant who lost his son, plans a vigilante mission of revenge during the mayhem. However, instead of a death-dealing avenger, he becomes the unexpected protector of four innocent strangers who desperately need his help if they are to survive the night.\",\"popularity\":85.236,\"poster_path\":\"\/qwqHHZLZSUvMkAMQ47ymtfjEifY.jpg\",\"production_companies\":[{\"id\":729,\"logo_path\":\"\/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png\",\"name\":\"Why Not Productions\",\"origin_country\":\"FR\"},{\"id\":2481,\"logo_path\":\"\/vOQg26GjR0LnkN1Ph9uyog1UuOE.png\",\"name\":\"Platinum Dunes\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":47354,\"logo_path\":null,\"name\":\"5150 Action\",\"origin_country\":\"\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-07-17\",\"revenue\":111928365,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Welcome to America where one night a year all crime is legal\",\"title\":\"The Purge: Anarchy\",\"video\":false,\"vote_average\":6.641,\"vote_count\":6280}"
+}

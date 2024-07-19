@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "425",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17289",
+        "x-memc": "HIT",
+        "x-memc-key": "7d503dd8936c731caa1eb7a71edf4a19",
+        "x-memc-age": "9034",
+        "x-memc-expires": "17289",
+        "ETag": "W\/\"04f860d59d2009dadb3cde1dfc80aeb5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CPUQk8MJzH3hO4vjvoju4wWp_JvVPWg2ohcW-TSlnPfzd6QgNcihyw=="
+    },
+    "data": "{\"id\":389165,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389165-code-8\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1}]},\"PT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389165-code-8\/watch?locale=PT\",\"rent\":[{\"logo_path\":\"\/ldkEX7JzLoWBvMP0GUHEfwAnK3B.jpg\",\"provider_id\":242,\"provider_name\":\"Meo\",\"display_priority\":3}]}}}"
+}

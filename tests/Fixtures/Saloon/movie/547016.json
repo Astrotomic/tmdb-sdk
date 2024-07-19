@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1639",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17068",
+        "x-memc": "HIT",
+        "x-memc-key": "b181c3c8cfa21969315a0f8c2f0f0918",
+        "x-memc-age": "6553",
+        "x-memc-expires": "17068",
+        "ETag": "W\/\"063286ff475113b05e9178e6ec0c04dd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mZGShWDdwjWOKnS4DcnqFXCGEJq5tLbr6KqQqPNU7KyOCyuUYCzB9A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m0ObOaJBerZ3Unc74l471ar8Iiy.jpg\",\"belongs_to_collection\":{\"id\":847029,\"name\":\"The Old Guard Collection\",\"poster_path\":\"\/9pqOTtqOUCSFhQesQdWeGzjGUAp.jpg\",\"backdrop_path\":null},\"budget\":70000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81038963\",\"id\":547016,\"imdb_id\":\"tt7556122\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Old Guard\",\"overview\":\"Four undying warriors who've secretly protected humanity for centuries become targeted for their mysterious powers just as they discover a new immortal.\",\"popularity\":41.709,\"poster_path\":\"\/cjr4NWURcVN3gW5FlHeabgBHLrY.jpg\",\"production_companies\":[{\"id\":82819,\"logo_path\":\"\/gXfFl9pRPaoaq14jybEn1pHeldr.png\",\"name\":\"Skydance Media\",\"origin_country\":\"US\"},{\"id\":3574,\"logo_path\":\"\/j3iU6FoWplGPoO1Vxn8fFHX4VPE.png\",\"name\":\"Denver \\u0026 Delilah Films\",\"origin_country\":\"US\"},{\"id\":159794,\"logo_path\":null,\"name\":\"Marc Evans Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-07-10\",\"revenue\":0,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Forever is harder than it looks\",\"title\":\"The Old Guard\",\"video\":false,\"vote_average\":7.1,\"vote_count\":4054}"
+}

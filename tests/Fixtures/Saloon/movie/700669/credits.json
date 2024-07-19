@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1317",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4569",
+        "x-memc": "HIT",
+        "x-memc-key": "7e3c3af8da644008b0ebb3e3caa56af4",
+        "x-memc-age": "20326",
+        "x-memc-expires": "4569",
+        "ETag": "W\/\"cd6c15ddb4c7803411c57b04d5f3567e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "N7_2WCURSoYEO2lw0x7XP7ZSPzun-ObT2gikKOSm3Q1tttOPOiECJA=="
+    },
+    "data": "{\"id\":700669,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":118357,\"known_for_department\":\"Acting\",\"name\":\"Delphine Chan\u00e9ac\",\"original_name\":\"Delphine Chan\u00e9ac\",\"popularity\":7.252,\"profile_path\":\"\/np7kKrS45wb5q2U1XxU1VNjP10P.jpg\",\"cast_id\":1,\"character\":\"Diana\",\"credit_id\":\"5eb18e6d706e5600203e57c1\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2626545,\"known_for_department\":\"Acting\",\"name\":\"Andrew Hovelson\",\"original_name\":\"Andrew Hovelson\",\"popularity\":1.044,\"profile_path\":null,\"cast_id\":2,\"character\":\"Elliot\",\"credit_id\":\"5eb18e93edeb43001fca20ae\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1223591,\"known_for_department\":\"Acting\",\"name\":\"Mike Dwyer\",\"original_name\":\"Mike Dwyer\",\"popularity\":0.489,\"profile_path\":null,\"cast_id\":3,\"character\":\"Wesley\",\"credit_id\":\"5eb18ea3edeb43001fca20bc\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1869820,\"known_for_department\":\"Writing\",\"name\":\"Nicholas Bushman\",\"original_name\":\"Nicholas Bushman\",\"popularity\":1.134,\"profile_path\":null,\"credit_id\":\"5eb18ecffbe36f001cc355f1\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1869820,\"known_for_department\":\"Writing\",\"name\":\"Nicholas Bushman\",\"original_name\":\"Nicholas Bushman\",\"popularity\":1.134,\"profile_path\":null,\"credit_id\":\"5eb18eee1fb94f0023f1d4b3\",\"department\":\"Writing\",\"job\":\"Screenplay\"}]}"
+}

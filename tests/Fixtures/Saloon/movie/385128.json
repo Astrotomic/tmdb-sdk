@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1762",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22999",
+        "x-memc": "HIT",
+        "x-memc-key": "cd2bd024cd60a4e8958f8110ae40b342",
+        "x-memc-age": "1948",
+        "x-memc-expires": "22999",
+        "ETag": "W\/\"c446f164dca43902a010b53fc53b37e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bPHeZz8nizf7VMpXcy5WnVWS9I6M4SqJwd2aZxJWOhm4h8dZGN6wqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg\",\"belongs_to_collection\":{\"id\":9485,\"name\":\"The Fast and the Furious Collection\",\"poster_path\":\"\/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg\",\"backdrop_path\":\"\/56h4DCt0ogIRI7B71xD5iA5hES1.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.thefastsaga.com\",\"id\":385128,\"imdb_id\":\"tt5433138\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"F9\",\"overview\":\"Dominic Toretto and his crew battle the most skilled assassin and high-performance driver they've ever encountered: his forsaken brother.\",\"popularity\":66.115,\"poster_path\":\"\/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg\",\"production_companies\":[{\"id\":333,\"logo_path\":\"\/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png\",\"name\":\"Original Film\",\"origin_country\":\"US\"},{\"id\":1225,\"logo_path\":\"\/rIxhJMR7oK8b2fMakmTfRLY2TZv.png\",\"name\":\"One Race\",\"origin_country\":\"US\"},{\"id\":34530,\"logo_path\":null,\"name\":\"Perfect Storm Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":105052,\"logo_path\":null,\"name\":\"Roth-Kirschenbaum Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-05-19\",\"revenue\":726229501,\"runtime\":143,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Not all blood is family.\",\"title\":\"F9\",\"video\":false,\"vote_average\":7.089,\"vote_count\":7044}"
+}

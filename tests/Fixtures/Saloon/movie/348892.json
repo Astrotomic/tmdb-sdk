@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1353",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6296",
+        "x-memc": "HIT",
+        "x-memc-key": "ead45faee73085d89c89806f5a7cf9a2",
+        "x-memc-age": "19854",
+        "x-memc-expires": "6296",
+        "ETag": "W\/\"f59c4f472e0f4ee39e6a7220ab0a3aad\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hkE8JSMiPUy49BkWs5Be7W1BCfPXsSpN_wR51uF-6J4U7gA1EhcSgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n9QCm8uagvmXH476u5qFQsW8HkU.jpg\",\"belongs_to_collection\":null,\"budget\":13000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":348892,\"imdb_id\":\"tt3863552\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u092c\u091c\u0930\u0902\u0917\u0940 \u092d\u093e\u0908\u091c\u093e\u0928\",\"overview\":\"A young mute girl from Pakistan loses herself in India with no way to head back. A devoted man with a magnanimous spirit undertakes the task to get her back to her motherland and unite her with her family.\",\"popularity\":23.551,\"poster_path\":\"\/rNfToRJw35h7a4y6HXGRgfkLvdc.jpg\",\"production_companies\":[{\"id\":44306,\"logo_path\":\"\/1mRlLVmmDyfGyGkpEW9AoK8d1gA.png\",\"name\":\"Rockline Entertainments\",\"origin_country\":\"IN\"},{\"id\":59293,\"logo_path\":null,\"name\":\"Kabir Khan Films\",\"origin_country\":\"IN\"},{\"id\":59294,\"logo_path\":\"\/eNG6SYSrJZgXpqo1l7UwvuWio76.png\",\"name\":\"Salman Khan Films\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2015-07-17\",\"revenue\":150000000,\"runtime\":159,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"Urdu\",\"iso_639_1\":\"ur\",\"name\":\"\u0627\u0631\u062f\u0648\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bajrangi Bhaijaan\",\"video\":false,\"vote_average\":7.8,\"vote_count\":463}"
+}

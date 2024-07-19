@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1718",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7862",
+        "x-memc": "HIT",
+        "x-memc-key": "ac9d74744db464d7985312000dcd4465",
+        "x-memc-age": "15271",
+        "x-memc-expires": "7862",
+        "ETag": "W\/\"d057852844c65b97ec3d4dad0e00391c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0Wn2vtnTPhCLsRa4WjeAKeHd7hzZblnwnx7gPXYvSc02Zbc-y4z7-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dAS0FInfgpqzpG8KXzJ3pX4lc7A.jpg\",\"belongs_to_collection\":{\"id\":321063,\"name\":\"The Sinbad Collection\",\"poster_path\":\"\/hQVbPnpcq1PzrSgyCxeX9rBAqJh.jpg\",\"backdrop_path\":\"\/6UeHhbszPiAWDX1gXJOrG4VZ85B.jpg\"},\"budget\":3500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":11940,\"imdb_id\":\"tt0076716\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Sinbad and the Eye of the Tiger\",\"overview\":\"Princess Farah refuses to marry Sinbad until Prince Kassim, her brother, is able to give his consent. However, the Prince's wicked stepmother, Queen Zenobia, has changed Kassim into a baboon in order to have her own son crowned as caliph. Sinbad, his crew, the Princess and the transformed Prince travel to a distant land, fighting every obstacle Zenobia places in their path, to seek the advice of a legendary wise man who can possibly tell how to end the spell.\",\"popularity\":16.56,\"poster_path\":\"\/kMP5bg26ac1FmNCamOC5WZece6N.jpg\",\"production_companies\":[{\"id\":32838,\"logo_path\":null,\"name\":\"Andor Films\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1977-07-15\",\"revenue\":16000000,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sinbad! The greatest of all adventurers in his biggest adventure of all!\",\"title\":\"Sinbad and the Eye of the Tiger\",\"video\":false,\"vote_average\":6.616,\"vote_count\":186}"
+}

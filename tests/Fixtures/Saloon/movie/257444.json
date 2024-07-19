@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1037",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20280",
+        "x-memc": "HIT",
+        "x-memc-key": "5b851c46894863965a5538b76e7aa19e",
+        "x-memc-age": "8493",
+        "x-memc-expires": "20280",
+        "ETag": "W\/\"ace46b42adfc1bf0bb28a78bef034a9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SGsESSrbIV0RIg_r2MaetbXluM0n_5TwvEI0n0IMZZ9lXNstlRPrcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/seSEfSOzDSMC3FPivmiD7sVV8To.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":257444,\"imdb_id\":\"tt2443822\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Boy\",\"overview\":\"An intimate portrait of a 9 year old sociopath as he discovers his taste for killing.\",\"popularity\":12.095,\"poster_path\":\"\/vqHJ7mV2EmVSO7cxb4SN49vRWgu.jpg\",\"production_companies\":[{\"id\":12671,\"logo_path\":null,\"name\":\"Chiller Films\",\"origin_country\":\"\"},{\"id\":34519,\"logo_path\":\"\/MGFizEilC4bv5aDeF8YfEyjDVG.png\",\"name\":\"SpectreVision\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-08-14\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Evil Always Begins Somewhere.\",\"title\":\"The Boy\",\"video\":false,\"vote_average\":5.808,\"vote_count\":180}"
+}

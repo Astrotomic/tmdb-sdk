@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1097",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11313",
+        "x-memc": "HIT",
+        "x-memc-key": "b8fcc281b4b96220d528189b8129f6e1",
+        "x-memc-age": "15690",
+        "x-memc-expires": "11313",
+        "ETag": "W\/\"e6b8ddbd2a1c817fc9c662c91fd27b6f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i50YAJ1yLxndi1cBEBaxUFi4rxgwGvy8NNFqEB_UhS0d2LdXx3cL1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tk9DohPIyU8rFW96CePRRA1Ykpl.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1184109,\"imdb_id\":\"tt29060611\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Blame the Rabbit\",\"overview\":\"After surviving a horrific assault by her husband, Helen uses the time of his incarceration to plan her revenge. She painstakingly rebuilds herself into the entity that will have the most power over him: a beautiful woman.\",\"popularity\":1.722,\"poster_path\":null,\"production_companies\":[{\"id\":150891,\"logo_path\":null,\"name\":\"Highview Productions\",\"origin_country\":\"AU\"},{\"id\":209573,\"logo_path\":\"\/klSmrRfAUgAlEzVfcfHEQONSNWO.png\",\"name\":\"Adelaide Film Festival Investment Fund\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2023-10-18\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Blame the Rabbit\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

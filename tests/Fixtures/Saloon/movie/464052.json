@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1580",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6257",
+        "x-memc": "HIT",
+        "x-memc-key": "b94780c9a2f754895abbb8370e39b3cf",
+        "x-memc-age": "19883",
+        "x-memc-expires": "6257",
+        "ETag": "W\/\"525c94ed8f7b397aef27d216dd01b6e4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YtHO53bhmmUV0RfbKlntomnrxQyW7ZMWg7c5jf5fl6NlGA-rXt6HBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/egg7KFi18TSQc1s24RMmR9i2zO6.jpg\",\"belongs_to_collection\":{\"id\":468552,\"name\":\"Wonder Woman Collection\",\"poster_path\":\"\/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg\",\"backdrop_path\":\"\/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/wonder-woman-1984\",\"id\":464052,\"imdb_id\":\"tt7126948\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wonder Woman 1984\",\"overview\":\"A botched store robbery places Wonder Woman in a global battle against a powerful and mysterious ancient force that puts her powers in jeopardy.\",\"popularity\":75.377,\"poster_path\":\"\/8UlWHLMpgZm9bx6QYh0NFoq67TZ.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":114152,\"logo_path\":\"\/xYfrnGFXxrEy5x5OVThunxHYScK.png\",\"name\":\"The Stone Quarry\",\"origin_country\":\"US\"},{\"id\":128064,\"logo_path\":\"\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png\",\"name\":\"DC Films\",\"origin_country\":\"US\"},{\"id\":507,\"logo_path\":\"\/aRmHe6GWxYMRCQljF75rn2B9Gv8.png\",\"name\":\"Atlas Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-12-16\",\"revenue\":169601036,\"runtime\":151,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A new era of wonder begins.\",\"title\":\"Wonder Woman 1984\",\"video\":false,\"vote_average\":6.438,\"vote_count\":8251}"
+}

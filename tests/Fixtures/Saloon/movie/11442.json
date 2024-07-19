@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1569",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11646",
+        "x-memc": "HIT",
+        "x-memc-key": "6a60b72582ab0a2e761cc63aa436e5b0",
+        "x-memc-age": "16363",
+        "x-memc-expires": "11646",
+        "ETag": "W\/\"559b25d93f6830091762c04801ebc609\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "D4IfyF0fUpnMP0yVaVMPd1FZMv9it4oxPMsHUghd2tZmPUhe2bCgyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jnSB3v76tGte9lzHS1XLGu75oaT.jpg\",\"belongs_to_collection\":{\"id\":91361,\"name\":\"Halloween Collection\",\"poster_path\":\"\/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg\",\"backdrop_path\":\"\/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg\"},\"budget\":13000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11442,\"imdb_id\":\"tt0220506\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"Halloween: Resurrection\",\"overview\":\"Reality programmers at DangerTainment select a group of thrill-seeking teenagers to spend one night in the childhood home of serial killer Michael Myers. Their planned live broadcast turns deadly when Michael decides to crash the party.\",\"popularity\":29.062,\"poster_path\":\"\/1mlKwbNzJCGzqe4i0ZEJtUUL290.jpg\",\"production_companies\":[{\"id\":7405,\"logo_path\":\"\/rfnws0uY8rsNAsrLbx3gEIcYXx3.png\",\"name\":\"Dimension Films\",\"origin_country\":\"US\"},{\"id\":21438,\"logo_path\":null,\"name\":\"Nightfall Productions\",\"origin_country\":\"\"},{\"id\":15822,\"logo_path\":\"\/Aodu1OPI0LHTWYr7Jlm4R2XY2og.png\",\"name\":\"Trancas International Films\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-07-01\",\"revenue\":37700000,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Evil finds its way home.\",\"title\":\"Halloween: Resurrection\",\"video\":false,\"vote_average\":4.6,\"vote_count\":1208}"
+}

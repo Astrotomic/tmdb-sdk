@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "909",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8186",
+        "x-memc": "HIT",
+        "x-memc-key": "cd76c9860b43c1bb0e8ba20b7da10c1e",
+        "x-memc-age": "14027",
+        "x-memc-expires": "8186",
+        "ETag": "W\/\"f2e1597bd7d2bc59e3dd0b0fd7d480b1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gfDzMQnmUOGeTNzh7BqGF3Ddukq9-pZOcm6sZfkCw9pRgKMC0Ly4yg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/p3EbGRHHtEOmRftbr5rLCXYEDbh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":872226,\"imdb_id\":\"tt12807538\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Rich Christmas\",\"overview\":\"Spoiled socialite will learn a lesson after her father asks her to work in a family homeless center.\",\"popularity\":2.351,\"poster_path\":\"\/r3Vp9sIuBGsXBejpP15d994bMZX.jpg\",\"production_companies\":[{\"id\":120832,\"logo_path\":null,\"name\":\"Megamind Media\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-11-04\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Rich Christmas\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1632",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8644",
+        "x-memc": "HIT",
+        "x-memc-key": "31ffad19322e1b34b8b60f24751e5e13",
+        "x-memc-age": "18753",
+        "x-memc-expires": "8644",
+        "ETag": "W\/\"78cd9fdc74f1c6f8c0a00ee51f7033a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_DCy7akQ6dCAdwOaxQJU-eMWd8o68NOcQoIaBoZ6SgiIypIPBGumBg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lhPq8R8qgoyLNWvVTiqZSkYGLPX.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":13000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/the-spy-who-loved-me\",\"id\":691,\"imdb_id\":\"tt0076752\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Spy Who Loved Me\",\"overview\":\"Russian and British submarines with nuclear missiles on board both vanish from sight without a trace. England and Russia both blame each other as James Bond tries to solve the riddle of the disappearing ships. But the KGB also has an agent on the case.\",\"popularity\":51.162,\"poster_path\":\"\/3ZxHKFxMYvAko680DsRgAZKWcLi.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":10761,\"logo_path\":null,\"name\":\"Danjaq\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-07-07\",\"revenue\":185438673,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"}],\"status\":\"Released\",\"tagline\":\"It's the BIGGEST. It's the BEST. It's BOND. And B-E-Y-O-N-D.\",\"title\":\"The Spy Who Loved Me\",\"video\":false,\"vote_average\":6.793,\"vote_count\":1907}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "350",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18152",
+        "x-memc": "HIT",
+        "x-memc-key": "c1d13e5cbab611889c176797bb3bda7f",
+        "x-memc-age": "5598",
+        "x-memc-expires": "18152",
+        "ETag": "W\/\"8746310f3afd05ab8255b93d53279320\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VgcDQlkCXSROa-R7DToKWTggVMba3V0cwggpplodVs6azp85Hjwn-g=="
+    },
+    "data": "{\"id\":224119,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/224119\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}]}}}"
+}

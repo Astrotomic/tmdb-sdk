@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "906",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14657",
+        "x-memc": "HIT",
+        "x-memc-key": "4d45d5de72abe31a5c7792e2a6ab11a5",
+        "x-memc-age": "14060",
+        "x-memc-expires": "14657",
+        "ETag": "W\/\"87ab25d95b9ec237861b065ae06d9a15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "16HJHI9bI8bOb8KSILmKHMvB0LlA09RWtAtwOoEb33vH1mWzD94y7A=="
+    },
+    "data": "{\"id\":95547,\"results\":{\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/95547-triassic-attack\/watch?locale=CH\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"IL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/95547-triassic-attack\/watch?locale=IL\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":27}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":27}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/95547-triassic-attack\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/A95qgiMz6ulV2SxeKcJ5Gc9pqGS.jpg\",\"provider_id\":322,\"provider_name\":\"USA Network\",\"display_priority\":112}]}}}"
+}

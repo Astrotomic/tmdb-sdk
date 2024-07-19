@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1618",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20411",
+        "x-memc": "HIT",
+        "x-memc-key": "e41e6249a59c6f17ae43f957228b8c73",
+        "x-memc-age": "5888",
+        "x-memc-expires": "20411",
+        "ETag": "W\/\"18aa04ca8f24299d6ebacd21f342c0dd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iPURBn9YrKDucWClIJagN0MuTPWAk_FB_seKTTOW6kV1tJUZvNqqEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8n6ZCFJWwK7UiX7NYuIEvHLRPYG.jpg\",\"belongs_to_collection\":{\"id\":985085,\"name\":\"Eraser Collection\",\"poster_path\":\"\/oXKF5Th7K0a5QlXLGTkyLaYEonL.jpg\",\"backdrop_path\":\"\/xuWMERxIhCcoyJTNDlHPve9viG8.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.warnerbros.com\/eraser\",\"id\":9268,\"imdb_id\":\"tt0116213\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Eraser\",\"overview\":\"U.S. Marshall John Kruger erases the identities of people enrolled in the Witness Protection Program. His current assignment is to protect Lee Cullen, who's uncovered evidence that the weapons manufacturer she works for has been selling to terrorist groups. When Kruger discovers that there's a corrupt agent within the program, he must guard his own life while trying to protect Lee's.\",\"popularity\":33.84,\"poster_path\":\"\/1FUV5ZmEkbxvqwQW0az4tFFOSmo.jpg\",\"production_companies\":[{\"id\":824,\"logo_path\":null,\"name\":\"Kopelson Entertainment\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-06-21\",\"revenue\":242295562,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He will erase your past to protect your future.\",\"title\":\"Eraser\",\"video\":false,\"vote_average\":6.1,\"vote_count\":1751}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1884",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26786",
+        "x-memc": "HIT",
+        "x-memc-key": "c9f12b133d150e511b5a94f5e4a83622",
+        "x-memc-age": "457",
+        "x-memc-expires": "26786",
+        "ETag": "W\/\"155e2c2dbb5adc1b78075ed19abffe4a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xsDAeF0t-uAF7zoqs_OKrhNble2F6mP6ANpaqsfil54ALlgiyokIZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sDAavcrOSbFnFt4zpjNqzaoNr3w.jpg\",\"belongs_to_collection\":{\"id\":33514,\"name\":\"The Twilight Collection\",\"poster_path\":\"\/aKAX2HO5V94JYeSIkOMFNlRI71E.jpg\",\"backdrop_path\":\"\/3be0BffeZTyMbj4Ndzo6Y877SBQ.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":18239,\"imdb_id\":\"tt1259571\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Twilight Saga: New Moon\",\"overview\":\"Forks, Washington resident Bella Swan is reeling from the departure of her vampire love, Edward Cullen, and finds comfort in her friendship with Jacob Black, a werewolf. But before she knows it, she's thrust into a centuries-old conflict, and her desire to be with Edward at any cost leads her to take greater and greater risks.\",\"popularity\":73.76,\"poster_path\":\"\/k2qTooPlHffgNABNWxeJdGMglPK.jpg\",\"production_companies\":[{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"},{\"id\":12292,\"logo_path\":\"\/4GQTeqos2luopEtp3OgMQYusQ5c.png\",\"name\":\"Temple Hill Entertainment\",\"origin_country\":\"US\"},{\"id\":4000,\"logo_path\":null,\"name\":\"Maverick Films\",\"origin_country\":\"US\"},{\"id\":5218,\"logo_path\":\"\/dhb42ugM9DzSpDctTWCtABPVOW4.png\",\"name\":\"Imprint Entertainment\",\"origin_country\":\"US\"},{\"id\":5219,\"logo_path\":null,\"name\":\"Sunswept Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-11-18\",\"revenue\":709827462,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The Next Chapter Begins.\",\"title\":\"The Twilight Saga: New Moon\",\"video\":false,\"vote_average\":5.995,\"vote_count\":8989}"
+}

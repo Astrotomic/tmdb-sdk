@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1400",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18903",
+        "x-memc": "HIT",
+        "x-memc-key": "600b951eb7efad98974351e8dda6289e",
+        "x-memc-age": "2739",
+        "x-memc-expires": "18903",
+        "ETag": "W\/\"ca1805d77b2ad38b4d0fbd695f1eed46\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MeYon3otAA5fh64zn-CYRuEV20YmRvmgj0w0f4TK98s2rcIiAqAJ5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/p7L2hVCdsaxhcTI0QzTJakLhGRq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.hollywoodlandmovie.com\/\",\"id\":1249,\"imdb_id\":\"tt0427969\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Hollywoodland\",\"overview\":\"When Hollywood superstar George Reeves dies in his home, private detective Louis Simo is hired to investigate his death and gets caught in a web of lies involving a big studio executive's wife.\",\"popularity\":25.544,\"poster_path\":\"\/iHSbYI7l9ID1vuH3PiM4CWek38g.jpg\",\"production_companies\":[{\"id\":10146,\"logo_path\":\"\/xnFIOeq5cKw09kCWqV7foWDe4AA.png\",\"name\":\"Focus Features\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":7374,\"logo_path\":null,\"name\":\"Back Lot Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-08-31\",\"revenue\":16803753,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In a town full of fiction, everyone has a version of the truth.\",\"title\":\"Hollywoodland\",\"video\":false,\"vote_average\":6.091,\"vote_count\":385}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "962",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13189",
+        "x-memc": "HIT",
+        "x-memc-key": "2c89659d1b50c045f3f55c30e5f7bc82",
+        "x-memc-age": "8804",
+        "x-memc-expires": "13189",
+        "ETag": "W\/\"f23c5791d42c3792029f5f0a8a4d4591\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lYumlRxUHBWiY-xoJZN4itW9NOh3AB3a8HnwXDCNATY5Acm82gDuEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":861888,\"imdb_id\":\"tt4433138\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Unconditional\",\"overview\":\"Hope and Amy have been through it all just like any other couple.  But, can Amy lean on her unconditional love as Hope battles with the hardest decision of her life?\",\"popularity\":0.37,\"poster_path\":\"\/5KWvmPhNId5D7paR77QxbT7hLPL.jpg\",\"production_companies\":[{\"id\":44133,\"logo_path\":null,\"name\":\"Times Production\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-02-08\",\"revenue\":0,\"runtime\":13,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Through thick and thin, she needs you to understand.\",\"title\":\"Unconditional\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

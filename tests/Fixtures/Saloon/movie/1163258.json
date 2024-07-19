@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1394",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3376",
+        "x-memc": "HIT",
+        "x-memc-key": "c644956f079c062f89e49740ef3b0457",
+        "x-memc-age": "23648",
+        "x-memc-expires": "3376",
+        "ETag": "W\/\"68aa7f77a20fb8fce4f03ee32aa10128\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ek1yYBZ9mcOHIuxEbn7nqfc8dgCctW14h4_fcZMtZuRsrw9IZcJ_8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4njfDPI3VeNPyHwWYYdPruU9MDk.jpg\",\"belongs_to_collection\":null,\"budget\":2400000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.vinodchoprafilms.com\/movies\/12th-fail\/\",\"id\":1163258,\"imdb_id\":\"tt23849204\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"12th Fail\",\"overview\":\"Based on the true story of IPS officer Manoj Kumar Sharma, 12th Fail sheds limelight on fearlessly embracing the idea of restarting the academic journey despite the setbacks and challenges and reclaiming one's destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.\",\"popularity\":35.373,\"poster_path\":\"\/cDWW5l4NTWtQi9McwevrY3knsTd.jpg\",\"production_companies\":[{\"id\":3781,\"logo_path\":\"\/yzvunYIcSuClORJR9VWzpUvlbIW.png\",\"name\":\"Vidhu Vinod Chopra Productions\",\"origin_country\":\"IN\"},{\"id\":86347,\"logo_path\":\"\/ir79iQBhrXk9PJ5Pr9vlLjM4viO.png\",\"name\":\"Zee Studios\",\"origin_country\":\"IN\"},{\"id\":167940,\"logo_path\":\"\/fmJxRGTNQASfx0Kc4fUgCfODfoi.png\",\"name\":\"KRG Studios\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2023-10-27\",\"revenue\":8300000,\"runtime\":146,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"#RESTART\",\"title\":\"12th Fail\",\"video\":false,\"vote_average\":8.109,\"vote_count\":110}"
+}

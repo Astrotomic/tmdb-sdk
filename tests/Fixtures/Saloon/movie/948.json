@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1337",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14261",
+        "x-memc": "HIT",
+        "x-memc-key": "4a63f9eceac6d8774dac9a1f410b98fc",
+        "x-memc-age": "12822",
+        "x-memc-expires": "14261",
+        "ETag": "W\/\"7b3e01afba460e49efcd5a8b4124a089\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FD1J6rsAYAB6v9qDG0YiEne-A6Ho06wGl2BHy3uC5rrxQbn5eLC5Xg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aRka9neADW1M0Zf9lF8kW2jEgXe.jpg\",\"belongs_to_collection\":{\"id\":91361,\"name\":\"Halloween Collection\",\"poster_path\":\"\/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg\",\"backdrop_path\":\"\/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg\"},\"budget\":325000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.theofficialjohncarpenter.com\/halloween\/\",\"id\":948,\"imdb_id\":\"tt0077651\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Halloween\",\"overview\":\"Fifteen years after murdering his sister on Halloween Night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.\",\"popularity\":111.32,\"poster_path\":\"\/wijlZ3HaYMvlDTPqJoTCWKFkCPU.jpg\",\"production_companies\":[{\"id\":14323,\"logo_path\":\"\/efnw45BcPQve9ACNchnDufgV1po.png\",\"name\":\"Compass International Pictures\",\"origin_country\":\"\"},{\"id\":22814,\"logo_path\":null,\"name\":\"Falcon International Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1978-10-24\",\"revenue\":70300000,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Night He Came Home!\",\"title\":\"Halloween\",\"video\":false,\"vote_average\":7.556,\"vote_count\":5392}"
+}

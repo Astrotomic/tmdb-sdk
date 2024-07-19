@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "238",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22816",
+        "x-memc": "HIT",
+        "x-memc-key": "f2581081ce31c97d30aead57e0fb2576",
+        "x-memc-age": "5050",
+        "x-memc-expires": "22816",
+        "ETag": "W\/\"3e00a55131376424275e6d547958aedb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rhM3Nf--sRAei-05H_YQHRTWeY-VnRNY2ha8_YHnvE_jqSy36e168g=="
+    },
+    "data": "{\"id\":1226578,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1226578-longlegs\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

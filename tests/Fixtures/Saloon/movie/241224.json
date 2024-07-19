@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "949",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6639",
+        "x-memc": "HIT",
+        "x-memc-key": "84574080f7f99869185f149dcf3b7b0b",
+        "x-memc-age": "17559",
+        "x-memc-expires": "6639",
+        "ETag": "W\/\"1c0c7b42a0dcd832d4eb5ef18a9bfe20\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FUyh3L64teG0Tys8UMRH_q9f2pdDM0Zvi0NFR1EBr90HCmAwVDP-4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eGe2I5Hr7PXCxwtbcsB1akDOAQS.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/rainfall.tv\/wonderwoman\/\",\"id\":241224,\"imdb_id\":\"tt3439676\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wonder Woman\",\"overview\":\"It's one hundred and fifty seconds of pure fantasy.\",\"popularity\":5.498,\"poster_path\":\"\/qN82e4CJub3ix9qgCsZYCQQRq84.jpg\",\"production_companies\":[{\"id\":17926,\"logo_path\":\"\/dIrXNWW1cKRhIImLIomCVxzRyWn.png\",\"name\":\"Rainfall Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-09-29\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wonder Woman\",\"video\":false,\"vote_average\":6.16,\"vote_count\":50}"
+}

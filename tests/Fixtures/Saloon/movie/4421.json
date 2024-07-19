@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1992",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10222",
+        "x-memc": "HIT",
+        "x-memc-key": "622d413fce585ec23dcf3fccc0605e28",
+        "x-memc-age": "17716",
+        "x-memc-expires": "10222",
+        "ETag": "W\/\"c25b833af522508e4088f6edd38a8a9d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BEHGE_pKQnHTF98EQmnv_h_tNz1u7mlrEGSXt4QyWivgSWOhQ_ExsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tXh154ooFsYV8Ve4XbNIe8wS6DY.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":4421,\"imdb_id\":\"tt0119173\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"G.I. Jane\",\"overview\":\"In response to political pressure from Senator Lillian DeHaven, the U.S. Navy begins a program that would allow for the eventual integration of women into its combat services. The program begins with a single trial candidate, Lieutenant Jordan O'Neil, who is chosen specifically for her femininity. O'Neil enters the grueling Navy SEAL training program under the command of Master Chief John James Urgayle, who unfairly pushes O'Neil until her determination wins his respect.\",\"popularity\":33.002,\"poster_path\":\"\/6yBgZJYqaR4XkxwjsB9tS4GK1ZN.jpg\",\"production_companies\":[{\"id\":175,\"logo_path\":\"\/trtXLj3zv8T9ke1Vhw4SCkkM4JJ.png\",\"name\":\"Caravan Pictures\",\"origin_country\":\"US\"},{\"id\":1644,\"logo_path\":\"\/l5JFudbLN3vr1sSkjRoqF7To8Ky.png\",\"name\":\"Largo Entertainment\",\"origin_country\":\"US\"},{\"id\":1646,\"logo_path\":null,\"name\":\"Trap-Two-Zero Productions\",\"origin_country\":\"\"},{\"id\":961,\"logo_path\":null,\"name\":\"Roger Birnbaum Productions\",\"origin_country\":\"\"},{\"id\":114634,\"logo_path\":\"\/xJpyyIgVMtVjKuQaArUWmRqCHGj.png\",\"name\":\"Moving Pictures\",\"origin_country\":\"US\"},{\"id\":1645,\"logo_path\":\"\/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png\",\"name\":\"Scott Free Productions\",\"origin_country\":\"GB\"},{\"id\":915,\"logo_path\":\"\/4neXXpjSJDZPBGBnfWtqysB5htV.png\",\"name\":\"Hollywood Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-08-19\",\"revenue\":48169156,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Failure is not an option.\",\"title\":\"G.I. Jane\",\"video\":false,\"vote_average\":6.445,\"vote_count\":1609}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "813",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18883",
+        "x-memc": "HIT",
+        "x-memc-key": "a23bffeff17cdddc18f79097c34a0475",
+        "x-memc-age": "9248",
+        "x-memc-expires": "18883",
+        "ETag": "W\/\"f6d7236f7066e99c3d306a1b2b56ba2f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8rqrS09F1esN24UnS3KAnapp5im3Mb3LPd8sWjBhPnqBEipXgs5TyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":617932,\"imdb_id\":\"tt2048704\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Barbie\",\"overview\":\"Barbie comes home from shopping. She takes her groceries out of the bag and unwraps a little Barbie doll. She fries up the Barbie doll and eats it.\",\"popularity\":1.417,\"poster_path\":\"\/A1NvddoqyBjaIfEHDaffIJFGxcM.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-01-01\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Barbie\",\"video\":false,\"vote_average\":6.46,\"vote_count\":25}"
+}

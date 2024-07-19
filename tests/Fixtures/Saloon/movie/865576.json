@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1120",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6870",
+        "x-memc": "HIT",
+        "x-memc-key": "213f1cb31875d7cf102d9478a2f3f610",
+        "x-memc-age": "17050",
+        "x-memc-expires": "6870",
+        "ETag": "W\/\"b4c10b16843e8b07c362f4e725d8bc8a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z8ZqVofgqu01WRRutW_7uqoTeYmxumNDKE8_fgx1qWWhi3hWWmLiHQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yav76OCdz1KYGeLTtq4LufZlPr4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.icelandicfilms.info\/films\/nr\/2082\",\"id\":865576,\"imdb_id\":\"tt4936328\",\"origin_country\":[\"IS\"],\"original_language\":\"en\",\"original_title\":\"It Hatched\",\"overview\":\"A young couple set out to open a guesthouse in a remote place in Iceland. They come for peace but soon find out that something evil is lurking beneath their basement and hunting them in their dreams while they sleep.\",\"popularity\":6.433,\"poster_path\":\"\/kTWs1YwYI1kfXMNXgcIMMy4QLaY.jpg\",\"production_companies\":[{\"id\":95210,\"logo_path\":null,\"name\":\"Hero Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IS\",\"name\":\"Iceland\"}],\"release_date\":\"2021-10-21\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A Nightmare Is Born\",\"title\":\"It Hatched\",\"video\":false,\"vote_average\":3.1,\"vote_count\":4}"
+}

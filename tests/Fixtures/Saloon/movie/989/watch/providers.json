@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "926",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:28:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2752",
+        "x-memc": "HIT",
+        "x-memc-key": "d6ad7d7fad96d636fba2a35ab1779556",
+        "x-memc-age": "23405",
+        "x-memc-expires": "2752",
+        "ETag": "W\/\"1a199016addfd4ab22bbc2a0720977c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ivs9Uu-9ruyh2FzmoJAUdiS1i6SlHyPRuej9yLHQVih1MZKCtFw-eA=="
+    },
+    "data": "{\"id\":989,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/989-the-mortal-storm\/watch?locale=ES\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":34}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":34}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/989-the-mortal-storm\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/1syoSwH2yIskHUqeOiK9re8AMJC.jpg\",\"provider_id\":310,\"provider_name\":\"LaCinetek\",\"display_priority\":23}],\"buy\":[{\"logo_path\":\"\/1syoSwH2yIskHUqeOiK9re8AMJC.jpg\",\"provider_id\":310,\"provider_name\":\"LaCinetek\",\"display_priority\":23}]}}}"
+}

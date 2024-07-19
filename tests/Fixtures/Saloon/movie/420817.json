@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1305",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6309",
+        "x-memc": "HIT",
+        "x-memc-key": "8ca9cc09251353856c2f8bf8330f7ee2",
+        "x-memc-age": "21771",
+        "x-memc-expires": "6309",
+        "ETag": "W\/\"5a5bcd198eae0928016070682e865ba2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ygk7ugVODOhV5iHcfX7NpG1V2Xq9KIjnClmtu08Ot9LNl59zVsMO4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rVqY0Bo4Npf6EIONUROxjYAJfmD.jpg\",\"belongs_to_collection\":null,\"budget\":183000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/movies.disney.com\/aladdin-2019\",\"id\":420817,\"imdb_id\":\"tt6139732\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Aladdin\",\"overview\":\"A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.\",\"popularity\":54.989,\"poster_path\":\"\/ykUEbfpkf8d0w49pHh0AD2KrT52.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":118854,\"logo_path\":\"\/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png\",\"name\":\"Rideback\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-05-22\",\"revenue\":1054300000,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Choose Wisely.\",\"title\":\"Aladdin\",\"video\":false,\"vote_average\":7.107,\"vote_count\":9825}"
+}

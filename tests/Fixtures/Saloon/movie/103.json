@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1303",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27391",
+        "x-memc": "HIT",
+        "x-memc-key": "4cd3973ea0e892ba5f198d55c692ebbf",
+        "x-memc-age": "900",
+        "x-memc-expires": "27391",
+        "ETag": "W\/\"cbccbe0c4004cc69c1169fd08d026ac2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DX2QmpdAEjiTS8gKOrv044nH0uljyce_lhD0pC3ikOM9lS5iEBuh2A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6aoyUbvu0419XLKLIMoH0TkEicH.jpg\",\"belongs_to_collection\":null,\"budget\":1900000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":103,\"imdb_id\":\"tt0075314\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Taxi Driver\",\"overview\":\"A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.\",\"popularity\":126.205,\"poster_path\":\"\/ekstpH614fwDX8DUln1a2Opz0N8.jpg\",\"production_companies\":[{\"id\":46059,\"logo_path\":null,\"name\":\"Italo\/Judeo Productions\",\"origin_country\":\"\"},{\"id\":46060,\"logo_path\":null,\"name\":\"Bill\/Phillips\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1976-02-09\",\"revenue\":28579636,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"On every street in every city, there's a nobody who dreams of being a somebody.\",\"title\":\"Taxi Driver\",\"video\":false,\"vote_average\":8.15,\"vote_count\":11930}"
+}

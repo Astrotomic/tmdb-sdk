@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "682",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24802",
+        "x-memc": "HIT",
+        "x-memc-key": "b9bfddab12464b54a0c4a8c8a89b47d2",
+        "x-memc-age": "1674",
+        "x-memc-expires": "24802",
+        "ETag": "W\/\"abdcb8b1f6819a00598ef727ff0f9313\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8109fadbc132b410ecc2c3df250d6144.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K0PNR-mjL-u2r8YaRPAKrFSHq1x2a8wl4NSQPhSPip4KnsivX4unKQ=="
+    },
+    "data": "{\"id\":10432,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/10432-hack\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/10432-hack\/watch?locale=DE\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}]}}}"
+}

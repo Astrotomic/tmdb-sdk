@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1397",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17217",
+        "x-memc": "HIT",
+        "x-memc-key": "989e60f4899d6c46ac533827f6f71e98",
+        "x-memc-age": "7873",
+        "x-memc-expires": "17217",
+        "ETag": "W\/\"7c012d5713d4b3d50843bd0d216ae041\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sdNP3CJB8rMus5dlCxNd3jiT9MVQi7rbVWni0W0kKJynZDc4aTLHYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gb3TVVZNNxVGNfS1NxGaiWZfwnW.jpg\",\"belongs_to_collection\":null,\"budget\":32000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/bad-times-at-the-el-royale\",\"id\":446021,\"imdb_id\":\"tt6628394\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bad Times at the El Royale\",\"overview\":\"Lake Tahoe, 1969. Seven strangers, each one with a secret to bury, meet at El Royale, a decadent motel with a dark past. In the course of a fateful night, everyone will have one last shot at redemption.\",\"popularity\":36.111,\"poster_path\":\"\/iNtFgXqXPRMkm1QO8CHn5sHfUgE.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":51964,\"logo_path\":null,\"name\":\"Goddard Textiles\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-10-04\",\"revenue\":31882724,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"All roads lead here\",\"title\":\"Bad Times at the El Royale\",\"video\":false,\"vote_average\":6.8,\"vote_count\":3467}"
+}

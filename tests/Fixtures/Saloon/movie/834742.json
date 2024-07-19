@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1197",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16264",
+        "x-memc": "HIT",
+        "x-memc-key": "541f30f205ffbeedfb8fa2eaf0e31536",
+        "x-memc-age": "6545",
+        "x-memc-expires": "16264",
+        "ETag": "W\/\"3ef008df4b7298fcab992f6fd013c581\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u0p4TOYbDMst507WJYxIwPLzDRsMxgR_qkJj8cNC4ju3L1eUGT8Qjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3PIF0u6ulHX9Se0DED4TCGXG4U2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":834742,\"imdb_id\":\"tt14726510\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"First Love\",\"overview\":\"A young man\u2019s difficult entry into adulthood, who experiences the highs and lows of his first love, while dealing with the familial fallout spurred by the financial crisis of 2008.\",\"popularity\":20.947,\"poster_path\":\"\/hqwSUWQcnd1cxpc6Gdx1X3t5v2O.jpg\",\"production_companies\":[{\"id\":68421,\"logo_path\":\"\/oAuxCwdQ9pBMPKjsrw13D3ApXBg.png\",\"name\":\"Fortitude International\",\"origin_country\":\"US\"},{\"id\":6626,\"logo_path\":\"\/A1BnMoWjzjOrjzpWimyBQkf84mS.png\",\"name\":\"Voltage Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-06-17\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"First Love\",\"video\":false,\"vote_average\":5.6,\"vote_count\":124}"
+}

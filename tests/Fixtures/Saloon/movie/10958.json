@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1718",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7185",
+        "x-memc": "HIT",
+        "x-memc-key": "e0b4ff26cc231329bb1286ff15612505",
+        "x-memc-age": "20743",
+        "x-memc-expires": "7185",
+        "ETag": "W\/\"7e2b2845d4b58f7c70fce45519f60f06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bOekwpIdT98RUXzenKJ1YxDy8IvgSeVegebsTI8Wast8QHUYFFmn6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sx4255jeBRwZuU6MBytkhvNLTsZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":10958,\"imdb_id\":\"tt0481522\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Flight 93\",\"overview\":\"Flight 93 is a 2006 made-for-TV film, directed by Peter Markle, which chronicles the events aboard United Airlines Flight 93 during the September 11 attacks. It premiered January 30, 2006 on the A&amp;E Network and was re-broadcast several times throughout 2006. The film focused heavily on eight passengers, namely Todd Beamer, Mark Bingham, Tom Burnett, Jeremy Glick, Lauren Grandcolas, Donald Greene, Nicole Miller, and Honor Elizabeth Wainio. It features small appearances from many other passengers, namely Donald Peterson and his wife, Jean, and also from flight attendant Sandra Bradshaw.\",\"popularity\":14.518,\"poster_path\":\"\/4l8syk51fHsmWzM2xdEouOzV4rb.jpg\",\"production_companies\":[{\"id\":6529,\"logo_path\":null,\"name\":\"Fox Television Studios\",\"origin_country\":\"US\"},{\"id\":18441,\"logo_path\":\"\/rJmXT9sgCKG8uSUO1T93kOTfAzm.png\",\"name\":\"A+E Studios\",\"origin_country\":\"US\"},{\"id\":86070,\"logo_path\":null,\"name\":\"Gerber Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-01-30\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Flight 93\",\"video\":false,\"vote_average\":6.515,\"vote_count\":172}"
+}

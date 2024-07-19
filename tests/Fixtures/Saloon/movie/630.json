@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1420",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9039",
+        "x-memc": "HIT",
+        "x-memc-key": "6e9255ca00f9e36305d084119a60ff56",
+        "x-memc-age": "13535",
+        "x-memc-expires": "9039",
+        "ETag": "W\/\"ca47e7ff95b3f641c5e62cba91741a5e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AVzo00ryrMUcGjMDGBUuRsKoqj8lhBg6CaC36xXFawGtnLX6uxufYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nRsr98MFztBGm532hCVMGXV6qOp.jpg\",\"belongs_to_collection\":{\"id\":627517,\"name\":\"Oz Collection\",\"poster_path\":\"\/umgvqicCPZ31vqhJB7uTQ8RNhZ5.jpg\",\"backdrop_path\":\"\/zCWMNud0T5AW1ivXN2MQZ3XW04f.jpg\"},\"budget\":2777000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/thewizardofoz.warnerbros.com\/\",\"id\":630,\"imdb_id\":\"tt0032138\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Wizard of Oz\",\"overview\":\"Young Dorothy finds herself in a magical world where she makes friends with a lion, a scarecrow and a tin man as they make their way along the yellow brick road to talk with the Wizard and ask for the things they miss most in their lives. The Wicked Witch of the West is the only thing that could stop them.\",\"popularity\":77.847,\"poster_path\":\"\/pfAZFD7I2hxW9HCChTuAzsdE6UX.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1939-08-15\",\"revenue\":33754967,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"We're off to see the Wizard, the wonderful Wizard of Oz!\",\"title\":\"The Wizard of Oz\",\"video\":false,\"vote_average\":7.588,\"vote_count\":5398}"
+}

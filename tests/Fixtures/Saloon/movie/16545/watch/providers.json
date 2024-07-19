@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1187",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2425",
+        "x-memc": "HIT",
+        "x-memc-key": "e5f00afbf3f461996f9043170bb7a595",
+        "x-memc-age": "24094",
+        "x-memc-expires": "2425",
+        "ETag": "W\/\"3c4f09578d87f015efb27232dcb0c7e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d34cf2ddbdf9774517330fee6a26e4b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "G6vFHGXsm6ZRjRxm33E63g6aAFgr6VnTg4UNx5x_yilNJK0MGYGf-A=="
+    },
+    "data": "{\"id\":16545,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/16545-i-vicere\/watch?locale=IT\",\"rent\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":38}],\"buy\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":38}],\"ads\":[{\"logo_path\":\"\/cmURKKdS72Ckr52615xvc2JPsJm.jpg\",\"provider_id\":222,\"provider_name\":\"Rai Play\",\"display_priority\":17}]}}}"
+}

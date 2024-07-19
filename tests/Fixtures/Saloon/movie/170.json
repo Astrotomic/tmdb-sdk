@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1502",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8309",
+        "x-memc": "HIT",
+        "x-memc-key": "8dec4c90f0e88b90ec83cc303fb7667b",
+        "x-memc-age": "14931",
+        "x-memc-expires": "8309",
+        "ETag": "W\/\"33f2a67432285fe7a668b1226563235d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PJDjasicyuToH0VpI3V5VpBCzUGI4gtGHjDPEzDLAXl9PiD9qTfIVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/veUl0QT8swshQ9Dz0fQ1k6ZkthD.jpg\",\"belongs_to_collection\":{\"id\":1565,\"name\":\"28 Days\/Weeks Later Collection\",\"poster_path\":\"\/4AeGz1Jwnq6ky2kfLT95Tm8nEiw.jpg\",\"backdrop_path\":\"\/bpn1vynevsKLwAMRikY1L6cb18p.jpg\"},\"budget\":8000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":170,\"imdb_id\":\"tt0289043\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"28 Days Later\",\"overview\":\"Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.\",\"popularity\":69.442,\"poster_path\":\"\/sQckQRt17VaWbo39GIu0TMOiszq.jpg\",\"production_companies\":[{\"id\":284,\"logo_path\":\"\/6a26if3IKy7mlrQuGHHVp6ufQtF.png\",\"name\":\"DNA Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2002-10-31\",\"revenue\":85700000,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"His fear began when he woke up alone. His terror began when he realised he wasn't.\",\"title\":\"28 Days Later\",\"video\":false,\"vote_average\":7.221,\"vote_count\":6505}"
+}

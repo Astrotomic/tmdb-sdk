@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "358",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25821",
+        "x-memc": "HIT",
+        "x-memc-key": "45255a9d53fcd494aae85832cdd97cee",
+        "x-memc-age": "2748",
+        "x-memc-expires": "25821",
+        "ETag": "W\/\"f05d71741aa116486f1200830154962a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2NzMfcHRFmAhctY6yv2YQrgwBYE1y2HXzqm-uMTFrMH4Xgzq-EQy3Q=="
+    },
+    "data": "{\"id\":386363,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/386363-tristan\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]}}}"
+}

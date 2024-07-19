@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1235",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14241",
+        "x-memc": "HIT",
+        "x-memc-key": "6b91accd0823e1deb638001ca2f3a469",
+        "x-memc-age": "9062",
+        "x-memc-expires": "14241",
+        "ETag": "W\/\"c7b0beb60afac8908e1ebbf45550b0ec\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NLmkKLQomt_0ExxU8gMk3xZ8PvgXG9_nMqojIoBm8cI0zpzUFNbj0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vmLlfnPVOuvafBmZMmOmrrbeDV1.jpg\",\"belongs_to_collection\":null,\"budget\":238000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":857188,\"imdb_id\":\"tt4277138\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Give Them Wings\",\"overview\":\"'Give Them Wings' is based on the true story of severely disabled football fan Paul Hodgson.\",\"popularity\":7.097,\"poster_path\":\"\/kvwVhAJXLcSYTuVHPuhol3T7GlO.jpg\",\"production_companies\":[{\"id\":186535,\"logo_path\":null,\"name\":\"Magnificent Films\",\"origin_country\":\"\"},{\"id\":186536,\"logo_path\":null,\"name\":\"GTW Productions\",\"origin_country\":\"\"},{\"id\":113201,\"logo_path\":null,\"name\":\"Shaking the Tree Productions\",\"origin_country\":\"\"},{\"id\":104103,\"logo_path\":null,\"name\":\"Shooting Tiger Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2021-11-20\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"The true story of how one man fought back, and won.\",\"title\":\"Give Them Wings\",\"video\":false,\"vote_average\":8.0,\"vote_count\":6}"
+}

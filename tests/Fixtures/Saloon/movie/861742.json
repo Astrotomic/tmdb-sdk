@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "710",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22899",
+        "x-memc": "HIT",
+        "x-memc-key": "2b43c540bec70952c8eea861f157ff76",
+        "x-memc-age": "1215",
+        "x-memc-expires": "22899",
+        "ETag": "W\/\"cee9d8e5ebe0651da8c18636ad964057\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dp_jT_TRLOR9QteC6cIX6jwbP7P0pMGBW5-FjOOHHkwJD9Sbor0OQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/khIK9IT5zcUvNez6zildjcElIfX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":861742,\"imdb_id\":\"tt3837362\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u60c5\u6bd4\u5c71\u9ad8\",\"overview\":\"\",\"popularity\":6.634,\"poster_path\":\"\/qHDdDvzf8To7yrRnyByKgoPk9iU.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2017-10-24\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"\u60c5\u6bd4\u5c71\u9ad8\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

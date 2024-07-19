@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1328",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3866",
+        "x-memc": "HIT",
+        "x-memc-key": "9c8654d4ec9d6f6e61b02943e4b425b6",
+        "x-memc-age": "22365",
+        "x-memc-expires": "3866",
+        "ETag": "W\/\"5313aea41e1624990955e63454c8d7b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AyGWEiFUQD_-rEkEdeITZbZAq4qkYH15JBdZK9DcRSr7gMDhKBAcxQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nHWr40LGgyxymEhZCOA2WHATPpn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81399639\",\"id\":800345,\"imdb_id\":\"tt21237030\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uce74\ud130\",\"overview\":\"Carter, who awakens two months into a deadly pandemic originating from the DMZ that has already devastated US and North Korea. He who has no recollections of his past finds a mysterious device in his head, and a lethal bomb in his mouth. A voice in his ears gives him orders to avoid getting killed and he's thrown into a mysterious operation while the CIA and North Korean coup chase him close.\",\"popularity\":48.699,\"poster_path\":\"\/uzAh3Ub2YttCz13cnyB9PvhpmIL.jpg\",\"production_companies\":[{\"id\":96850,\"logo_path\":null,\"name\":\"Apeitda\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2022-08-05\",\"revenue\":0,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"No memory. One mission.\",\"title\":\"Carter\",\"video\":false,\"vote_average\":6.02,\"vote_count\":355}"
+}

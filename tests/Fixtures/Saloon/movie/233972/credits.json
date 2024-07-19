@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "758",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:30:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18995",
+        "x-memc": "HIT",
+        "x-memc-key": "12597482e6fe3054c839563180e0990b",
+        "x-memc-age": "7164",
+        "x-memc-expires": "18995",
+        "ETag": "W\/\"8a935b6dc7f31d4378e1724e66560f13\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JKhWRa29htuPoYp6DNwf2NLviB0gA0n_SeO-ZrkWjG66_VCrzpeutQ=="
+    },
+    "data": "{\"id\":233972,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":953368,\"known_for_department\":\"Acting\",\"name\":\"Jimmy Mordecai\",\"original_name\":\"Jimmy Mordecai\",\"popularity\":0.829,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"52fe4e28c3a36847f828114d\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1269453,\"known_for_department\":\"Acting\",\"name\":\"Louise Cook\",\"original_name\":\"Louise Cook\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"\",\"credit_id\":\"52fe4e28c3a36847f8281151\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1021714,\"known_for_department\":\"Directing\",\"name\":\"Murray Roth\",\"original_name\":\"Murray Roth\",\"popularity\":1.176,\"profile_path\":null,\"credit_id\":\"52fe4e28c3a36847f8281149\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

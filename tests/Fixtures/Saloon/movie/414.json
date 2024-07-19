@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1371",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19888",
+        "x-memc": "HIT",
+        "x-memc-key": "a5936f6f84475b1ea0e4298c3adb5c3a",
+        "x-memc-age": "8317",
+        "x-memc-expires": "19888",
+        "ETag": "W\/\"0b9fef0c6a1c5f859a9287f5fa50d63e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6jlvCZDDg6kXSgVBUWEaC6X1Ez-wci6akWc4oG_ibXC5GfG6b-mr-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/snlu32RmjldF9b068UURJg8sQtn.jpg\",\"belongs_to_collection\":{\"id\":120794,\"name\":\"Batman Collection\",\"poster_path\":\"\/4AUoqt72CVP4UV902hmdDj4t5Q9.jpg\",\"backdrop_path\":\"\/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":414,\"imdb_id\":\"tt0112462\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Batman Forever\",\"overview\":\"Batman must battle a disfigured district attorney and a disgruntled former employee with help from an amorous psychologist and a young circus acrobat.\",\"popularity\":65.36,\"poster_path\":\"\/mzzNBVwTiiY94xAXDMWJpNPW2US.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":8601,\"logo_path\":null,\"name\":\"Tim Burton Productions\",\"origin_country\":\"US\"},{\"id\":67889,\"logo_path\":null,\"name\":\"Polygram Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-06-16\",\"revenue\":336529144,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Courage now, truth always, Batman forever!\",\"title\":\"Batman Forever\",\"video\":false,\"vote_average\":5.4,\"vote_count\":5023}"
+}

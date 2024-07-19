@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1547",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27299",
+        "x-memc": "HIT",
+        "x-memc-key": "453094d7f2284882e0069a208b3f11f3",
+        "x-memc-age": "444",
+        "x-memc-expires": "27299",
+        "ETag": "W\/\"44f6b20d6241366f056c2d34bfe2b1a6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7cjoP5hetyFk0X4h9zlQERZBXm2La5s4i4LTWkCApZuPG--F0bA4mg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wW7Wt5bXzPy4VOEE4LTIUDyDgBo.jpg\",\"belongs_to_collection\":{\"id\":295,\"name\":\"Pirates of the Caribbean Collection\",\"poster_path\":\"\/mx2IHsrdLVgqCTB149H6WONjyqM.jpg\",\"backdrop_path\":\"\/wxgD3fB5lQ2sGJLog0rvXW049Pf.jpg\"},\"budget\":140000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/movies.disney.com\/pirates-of-the-caribbean-the-curse-of-the-black-pearl\",\"id\":22,\"imdb_id\":\"tt0325980\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pirates of the Caribbean: The Curse of the Black Pearl\",\"overview\":\"Jack Sparrow, a freewheeling 18th-century pirate, quarrels with a rival pirate bent on pillaging Port Royal. When the governor's daughter is kidnapped, Sparrow decides to help the girl's love save her.\",\"popularity\":200.231,\"poster_path\":\"\/poHwCZeWzJCShH7tOjg8RIoyjcw.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-07-09\",\"revenue\":655011224,\"runtime\":143,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Prepare to be blown out of the water.\",\"title\":\"Pirates of the Caribbean: The Curse of the Black Pearl\",\"video\":false,\"vote_average\":7.803,\"vote_count\":20172}"
+}

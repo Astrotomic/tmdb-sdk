@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1235",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6502",
+        "x-memc": "HIT",
+        "x-memc-key": "2a741ce789cbddd14048b8a97c0bb43b",
+        "x-memc-age": "15952",
+        "x-memc-expires": "6502",
+        "ETag": "W\/\"fd292848182357bafeace8478044746c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WwGwADUwRYOpFWGWbJOwEnenBNeh1O4slWGhgmXZd2uhwGtaRxT5BA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6aoaFsDMFGHcs7vf0CPViRvA7ww.jpg\",\"belongs_to_collection\":{\"id\":389544,\"name\":\"The Tuche Family Collection\",\"poster_path\":\"\/28eywElpNovdba7l3eNDPs9ZQEX.jpg\",\"backdrop_path\":\"\/uY1B1yjx4g56BXWnXvphUI6qZP7.jpg\"},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.pathefilms.com\/film\/lestuche3\",\"id\":424619,\"imdb_id\":\"tt7066382\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Les Tuche 3\",\"overview\":\"After a groundbreaking presidential election, Jeff Tuche becomes the new President of France and moves in the Elysee with his family to govern the country.\",\"popularity\":19.058,\"poster_path\":\"\/oPTP1AqGLfc01qrOtoVFuEFGJYs.jpg\",\"production_companies\":[{\"id\":7981,\"logo_path\":\"\/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png\",\"name\":\"Path\u00e9\",\"origin_country\":\"FR\"},{\"id\":356,\"logo_path\":\"\/tSJvuFaLIp7l0ONLUiAHA61GbXu.png\",\"name\":\"TF1 Films Production\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2018-01-31\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Magic Tuche\",\"video\":false,\"vote_average\":5.278,\"vote_count\":763}"
+}

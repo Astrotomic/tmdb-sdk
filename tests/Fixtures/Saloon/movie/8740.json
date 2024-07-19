@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1209",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19390",
+        "x-memc": "HIT",
+        "x-memc-key": "f90cf93e0908b5761382500c678cb278",
+        "x-memc-age": "8349",
+        "x-memc-expires": "19390",
+        "ETag": "W\/\"9397c9fd6f0caba10d2ab9129d8dbc9c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7LMH6YW9-GAVNUb2HnKT8Ypzrf5obd2xwhDuZjUtCOCQvDmcHDTeFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pTKFWLYVuS1vlWq9pLgLj22OOWw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":8740,\"imdb_id\":\"tt0096163\",\"origin_country\":[\"NL\"],\"original_language\":\"nl\",\"original_title\":\"Spoorloos\",\"overview\":\"Rex and Saskia, a young couple in love, are on vacation. They stop at a busy service station and Saskia is abducted. After three years and no sign of Saskia, Rex begins receiving letters from the abductor.\",\"popularity\":16.219,\"poster_path\":\"\/eE5bbuRJluooG2MjEAsLEYyuJoa.jpg\",\"production_companies\":[{\"id\":8677,\"logo_path\":null,\"name\":\"MGS Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"}],\"release_date\":\"1988-10-27\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Dutch\",\"iso_639_1\":\"nl\",\"name\":\"Nederlands\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Who Has Seen This Woman?\",\"title\":\"The Vanishing\",\"video\":false,\"vote_average\":7.47,\"vote_count\":600}"
+}

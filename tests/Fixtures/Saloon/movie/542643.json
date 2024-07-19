@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "989",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14360",
+        "x-memc": "HIT",
+        "x-memc-key": "f6f64c7f6b04c616f7459876e8d8d2d1",
+        "x-memc-age": "10565",
+        "x-memc-expires": "14360",
+        "ETag": "W\/\"55c96afd567e5508fdd953025a2c38f8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Qs19rSTVoU8WQa-Evjw6jtA5ynJLYP8U0-yQqJvbQESPqjgtLu73Zw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zoBuYX6hpk5etQonOvnCv2bGYvd.jpg\",\"belongs_to_collection\":{\"id\":1015722,\"name\":\"Ferrero Cartoon\",\"poster_path\":\"\/4JatzBzXmb4dECiNxaOpRByok9I.jpg\",\"backdrop_path\":\"\/bbfY3pZL2Eexhlq0KOHjpUuVkcb.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":542643,\"imdb_id\":\"tt15543902\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"I Lunes e la sfera di Lasifer\",\"overview\":\"\",\"popularity\":4.048,\"poster_path\":\"\/7WCsMPxUxKE9VsPl7ZoVpF0EKkR.jpg\",\"production_companies\":[{\"id\":107794,\"logo_path\":\"\/zCmpzRH5lNT6nRR61verny8z8Zg.png\",\"name\":\"Kinder \\u0026 Ferrero Multimedia Production\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2002-09-10\",\"revenue\":0,\"runtime\":25,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"I Lunes e la sfera di Lasifer\",\"video\":false,\"vote_average\":6.0,\"vote_count\":28}"
+}

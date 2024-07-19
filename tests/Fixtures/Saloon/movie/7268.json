@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1050",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15435",
+        "x-memc": "HIT",
+        "x-memc-key": "4ae3f66884c49d260c52d7fb794a4ac4",
+        "x-memc-age": "6267",
+        "x-memc-expires": "15435",
+        "ETag": "W\/\"42dc1cb2ce30d5a7eccd5ded289fff3b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c8laqQsR-Nizn8SzDke06XC1HwgAiAm9pPPdIECziV6PI-muqNgrug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7vg1pZjDlUxTnsGi5AsVswx04Ek.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":7268,\"imdb_id\":\"tt0037115\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Nabonga\",\"overview\":\"When a treasure hunter seeks a downed airplane in the jungles of Africa, he encounters one of the passenger's young daughter, now fully grown, and with a gorilla protector.\",\"popularity\":4.298,\"poster_path\":\"\/ssbU9fbrfvaW3f1VdXgsyY5HCrz.jpg\",\"production_companies\":[{\"id\":16466,\"logo_path\":null,\"name\":\"PRC\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1944-01-25\",\"revenue\":0,\"runtime\":71,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A WHITE GIRL RULES THE JUNGLE...HER STRENGTH OF POWER WAS \\\"NABONGA!\\\"\",\"title\":\"Nabonga\",\"video\":false,\"vote_average\":3.9,\"vote_count\":17}"
+}

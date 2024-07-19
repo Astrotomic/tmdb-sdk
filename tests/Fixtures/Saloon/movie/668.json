@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1469",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18272",
+        "x-memc": "HIT",
+        "x-memc-key": "fde3dbf492a7a710ee33efc8ea3b8b38",
+        "x-memc-age": "10366",
+        "x-memc-expires": "18272",
+        "ETag": "W\/\"5c8b8210302780461036e0227f336b45\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dBtbeIcfVNjUrRlXHXRc1ubMYO1P1wQAZ8XYkhoGlx8lrrYpMgUU1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1kdyLiE2Mqt7cxnivdPX3qckvfW.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":6000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/on-her-majestys-secret-service\",\"id\":668,\"imdb_id\":\"tt0064757\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"On Her Majesty's Secret Service\",\"overview\":\"James Bond tracks his archnemesis, Ernst Blofeld, to a mountaintop retreat in the Swiss alps where he is training an army of beautiful, lethal women. Along the way, Bond falls for Italian contessa Tracy Draco, and marries her in order to get closer to Blofeld.\",\"popularity\":46.447,\"poster_path\":\"\/yVzJLLhBwuWJBR9BYEMurShu2WT.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1969-12-18\",\"revenue\":64574493,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Far up! Far out! Far more! James Bond 007 is back!\",\"title\":\"On Her Majesty's Secret Service\",\"video\":false,\"vote_average\":6.591,\"vote_count\":1814}"
+}

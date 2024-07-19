@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1323",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3780",
+        "x-memc": "HIT",
+        "x-memc-key": "7267757f0187850599714db0a17a893b",
+        "x-memc-age": "23879",
+        "x-memc-expires": "3780",
+        "ETag": "W\/\"869b0b60cd6bfb6c3571469359221793\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "x19i7QpLo4T6VIsvpcVpj3o0LeK2EvxOsfnomPg71f3VzW5_W3Wkiw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/znaH5tNazEMv4DTc07vC5rFi7m7.jpg\",\"belongs_to_collection\":null,\"budget\":66260,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":47166,\"imdb_id\":\"tt0030128\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ferdinand the Bull\",\"overview\":\"This Oscar-winning short tells of a bull who preferred to sit under trees and smell flowers to clashing horns with his fellow animals. As luck would have it, an untimely bee reveals Ferdinand's ferocious side via pained howls and wild stomping. This lands him in the bull-fighting arena amidst characters based on Walt's animators with a matador reportedly modeled after Walt himself.\",\"popularity\":15.591,\"poster_path\":\"\/b39Ydh8pmHjRyUUURLoVOdNxz5m.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-11-23\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Ferdinand only wants to stop and smell the flowers.\",\"title\":\"Ferdinand the Bull\",\"video\":false,\"vote_average\":6.545,\"vote_count\":166}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1264",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20658",
+        "x-memc": "HIT",
+        "x-memc-key": "73a85f562968885160a76c77df40040b",
+        "x-memc-age": "6518",
+        "x-memc-expires": "20658",
+        "ETag": "W\/\"64ec710acdc0fcce43662dd3a97d8ab6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8GN0--4NyOxxdiDWjmpqUfIDvckvpTIMQErejvHmVtudtVR-PE6rYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ru2LECaGqWtsL3kRWWJ3EoDlF5J.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":633374,\"imdb_id\":\"tt21279122\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\ub9ac\uba64\ubc84\",\"overview\":\"Pil-ju, an Alzheimer's patient in his 80s, who lost all his family during the Japanese colonial era, and devotes his lifelong revenge before his memories disappear, and a young man in his 20s who helps him.\",\"popularity\":23.984,\"poster_path\":\"\/8y9mhh3PqGPXbZVhX7Mc25OJpHP.jpg\",\"production_companies\":[{\"id\":88974,\"logo_path\":\"\/yDG44v8mA0LTw32ZMYcXI4Rsnye.png\",\"name\":\"Moonlight Film\",\"origin_country\":\"KR\"},{\"id\":113584,\"logo_path\":\"\/8BSD4OLpa5DnXdXYX4jwf5cyb6D.png\",\"name\":\"Acemaker Movieworks\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2022-10-26\",\"revenue\":0,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"This revenge must be completed.\",\"title\":\"Remember\",\"video\":false,\"vote_average\":7.4,\"vote_count\":72}"
+}

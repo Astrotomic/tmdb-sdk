@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1563",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27483",
+        "x-memc": "HIT",
+        "x-memc-key": "967f63fd36e2f91738b7ed8e578ed8f8",
+        "x-memc-age": "375",
+        "x-memc-expires": "27483",
+        "ETag": "W\/\"1d165cc146014ed4ea0bab0c91275f71\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mw_B66ONDRxP6JLykmMl4mmsq6UIe0Du_ghkZazyAqJeQnkF9HUgfA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/se5Hxz7PArQZOG3Nx2bpfOhLhtV.jpg\",\"belongs_to_collection\":{\"id\":468222,\"name\":\"The Incredibles Collection\",\"poster_path\":\"\/xMX1jZyObVeWUxDQmt53X6jzIO4.jpg\",\"backdrop_path\":\"\/6oi6V1O9MJRNnfV8E9JMntmFqBD.jpg\"},\"budget\":92000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/disney.go.com\/disneyvideos\/animatedfilms\/incredibles\/main.html\",\"id\":9806,\"imdb_id\":\"tt0317705\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Incredibles\",\"overview\":\"Bob Parr has given up his superhero days to log in time as an insurance adjuster and raise his three children with his formerly heroic wife in suburbia. But when he receives a mysterious assignment, it's time to get back into costume.\",\"popularity\":118.708,\"poster_path\":\"\/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-10-27\",\"revenue\":631442092,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Meet the Parrs, a family of superheroes.\",\"title\":\"The Incredibles\",\"video\":false,\"vote_average\":7.708,\"vote_count\":17314}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1822",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15563",
+        "x-memc": "HIT",
+        "x-memc-key": "4b38d3588e062828c511319e3e4167eb",
+        "x-memc-age": "6198",
+        "x-memc-expires": "15563",
+        "ETag": "W\/\"12fbc616c16add23eba94d03155064ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0D-QEroXpum8w4soS-WB37Bb5Z4NFZaQ4fhfPzxPUABYk8z-vRuJ0w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6ZNqWfUXdxiNVqwgO2doLlkmgQc.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":139567,\"imdb_id\":\"tt1925431\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fire with Fire\",\"overview\":\"A fireman takes an unexpected course of action when a man whom he's been ordered to testify against\u2014after being held up at a local convenience store\u2014threatens him.\",\"popularity\":25.705,\"poster_path\":\"\/kziBJGQFo9f0Vkj9s37qI0G9I0I.jpg\",\"production_companies\":[{\"id\":46961,\"logo_path\":null,\"name\":\"Knightsbridge Entertainment\",\"origin_country\":\"GB\"},{\"id\":376,\"logo_path\":null,\"name\":\"Industry Entertainment\",\"origin_country\":\"US\"},{\"id\":3604,\"logo_path\":\"\/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png\",\"name\":\"Grindstone Entertainment Group\",\"origin_country\":\"US\"},{\"id\":5830,\"logo_path\":null,\"name\":\"Cheetah Vision\",\"origin_country\":\"\"},{\"id\":6667,\"logo_path\":null,\"name\":\"Mandalay Vision\",\"origin_country\":\"\"},{\"id\":6819,\"logo_path\":null,\"name\":\"Paradox Entertainment\",\"origin_country\":\"\"},{\"id\":10405,\"logo_path\":null,\"name\":\"EFO Films\",\"origin_country\":\"US\"},{\"id\":11030,\"logo_path\":null,\"name\":\"Envision Entertainment\",\"origin_country\":\"US\"},{\"id\":6626,\"logo_path\":\"\/A1BnMoWjzjOrjzpWimyBQkf84mS.png\",\"name\":\"Voltage Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-08-31\",\"revenue\":2500277,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Revenge has its own set of rules.\",\"title\":\"Fire with Fire\",\"video\":false,\"vote_average\":5.674,\"vote_count\":661}"
+}

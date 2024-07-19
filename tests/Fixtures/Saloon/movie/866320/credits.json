@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "568",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20617",
+        "x-memc": "HIT",
+        "x-memc-key": "60edee2116c5ba1b13b1b5659167e3f1",
+        "x-memc-age": "7653",
+        "x-memc-expires": "20617",
+        "ETag": "W\/\"527c0f82e2e325611599bd9fd0f873d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "43mxaETr54KSfr0oTOLcjK5-Yv0dnoL10_nnNDbGGOyA_AuKDRlBKQ=="
+    },
+    "data": "{\"id\":866320,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2834171,\"known_for_department\":\"Editing\",\"name\":\"Abraham Cruz Herrera\",\"original_name\":\"Abraham Cruz Herrera\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6129143c12197e00436c71ef\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3214302,\"known_for_department\":\"Directing\",\"name\":\"Javier V\u00e1zquez Cervantes\",\"original_name\":\"Javier V\u00e1zquez Cervantes\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"61291443e8a3e100623ce763\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

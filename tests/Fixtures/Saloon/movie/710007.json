@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "998",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5295",
+        "x-memc": "HIT",
+        "x-memc-key": "67faa28bb40bd6fc0e103fe9a9a3d4c7",
+        "x-memc-age": "17061",
+        "x-memc-expires": "5295",
+        "ETag": "W\/\"75116e436be60b4e4a4b6f78244c8c27\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Py31lYdTd-1r9KnV9bucFfQthtrs_uYvv9ifYU7ziL5C_6KG-ZylCw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wlMOnLIzbiATshCICDU2sHFAkf2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":710007,\"imdb_id\":\"tt8599526\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Carillon\",\"overview\":\"Ortensia is a mechanical ballerina, that every day is forced to dance for an audience, in a seemingly endless loop. But one day, she sees in the crowd someone drawing her: the first representation of herself as an individual.\",\"popularity\":1.81,\"poster_path\":\"\/twCSXrzqAsC3KpjogB4SbEVB5b5.jpg\",\"production_companies\":[{\"id\":134774,\"logo_path\":null,\"name\":\"4th Wall Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2018-06-10\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Carillon\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

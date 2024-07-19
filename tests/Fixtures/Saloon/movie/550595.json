@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1504",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12406",
+        "x-memc": "HIT",
+        "x-memc-key": "ba95437c657f91f09fcdf2ff5be0e9b1",
+        "x-memc-age": "16267",
+        "x-memc-expires": "12406",
+        "ETag": "W\/\"194fe4cd8752de1e22cb1229f2e1bb90\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SKvx3OgPdQk9mf1lmHUsZjiTsdm2QzqvOZjIYCyhEbhRnfweaBPXYQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kpC1SYBFXn3k749gHBarilJoW4x.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":550595,\"imdb_id\":\"tt0790484\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pablo and the Dancing Chihuahua\",\"overview\":\"A recently orphaned boy living in Mexico has one item that would link him to family, an old letter from an uncle with an address in Tucson, AZ. He sets out across the desert and, while temporarily detained at the border, is unwillingly teamed with a runaway chihuahua who follows him as he illegally crosses the border into the United States. The two form a tight bond as they survive the journey fraught with danger.\",\"popularity\":1.577,\"poster_path\":\"\/62oYIVVE199jv7L63bhxPThwCot.jpg\",\"production_companies\":[{\"id\":20193,\"logo_path\":\"\/oz1p4QkoNONJZ3JT6BF6Jj4Nw2l.png\",\"name\":\"The Walt Disney Company\",\"origin_country\":\"US\"},{\"id\":140621,\"logo_path\":null,\"name\":\"Perkins Films Incorporated\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1968-01-28\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pablo and the Dancing Chihuahua\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

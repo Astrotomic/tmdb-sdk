@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1210",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25392",
+        "x-memc": "HIT",
+        "x-memc-key": "0e61dd89fc186df2995789e2630d85c8",
+        "x-memc-age": "3009",
+        "x-memc-expires": "25392",
+        "ETag": "W\/\"41671231bf919a58f4cd29dcd57c831b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4OYMyTXLdafqFc5ibY1jhqxvqwsZJroTvONfOqaqMzLrbvV8YlpM7A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hKdf1IDH9cKupBrCTN6E0k9lOxg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":7507,\"imdb_id\":\"tt0065026\",\"origin_country\":[\"FR\",\"IT\"],\"original_language\":\"it\",\"original_title\":\"Gli specialisti\",\"overview\":\"Hud Dixon returns to his hometown when his brother is killed by a lynch mob.\",\"popularity\":13.994,\"poster_path\":\"\/e3NW9qpPplMpoizydbtutZFmhl4.jpg\",\"production_companies\":[{\"id\":2259,\"logo_path\":null,\"name\":\"Adelphia Compagnia Cinematografica\",\"origin_country\":\"IT\"},{\"id\":2261,\"logo_path\":null,\"name\":\"Neue Emelka\",\"origin_country\":\"DE\"},{\"id\":2260,\"logo_path\":null,\"name\":\"Les Films Marceau\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1969-11-25\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Specialists\",\"video\":false,\"vote_average\":5.8,\"vote_count\":47}"
+}

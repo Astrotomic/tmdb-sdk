@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "714",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19513",
+        "x-memc": "HIT",
+        "x-memc-key": "f3de58fc09f5ff3e3800db6b2a4b3e6d",
+        "x-memc-age": "9147",
+        "x-memc-expires": "19513",
+        "ETag": "W\/\"ce9603de6216773d0272f15820f54ab2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oijxsIjN5EHzee_jMuoZ437SuNc1r2_L-Cyxr0bkdrqQVietDWQeLw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nYZVS8PZuOL3n5RQMBVvjBXCrZQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":386973,\"imdb_id\":\"tt0104737\",\"origin_country\":[\"FR\",\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Novembre\",\"overview\":\"\",\"popularity\":1.755,\"poster_path\":\"\/1HE8WnXUUv7cGLfvsg1TiOoYFcV.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"1992-09-16\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"November\",\"video\":false,\"vote_average\":4.5,\"vote_count\":2}"
+}

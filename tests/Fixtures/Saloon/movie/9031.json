@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1113",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24389",
+        "x-memc": "HIT",
+        "x-memc-key": "10173fad4647380c7ff9ae9406283b15",
+        "x-memc-age": "3403",
+        "x-memc-expires": "24389",
+        "ETag": "W\/\"161e23eee8f9633a48170bc199117a2d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K-FqJZasLdUgR9VZGLn2H0IVc7g95XfEzAZpla57tdWCAmm7XSPPnw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rXiai6lfW0PIaDHCewU1c1cIr9V.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":9031,\"imdb_id\":\"tt0079351\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Io sto con gli ippopotami\",\"overview\":\"In Africa, Slim and Tom don't like it when a German tyrant starts selling all of the African wildlife to Canadian zoos. Slim and Tom must teach this guy a lesson by beating the hell out of him and his gang.\",\"popularity\":14.006,\"poster_path\":\"\/voImabKBh1yzuOj7jfpApHuTW1s.jpg\",\"production_companies\":[{\"id\":19816,\"logo_path\":null,\"name\":\"Denver Film Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1979-11-30\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"I'm for the Hippopotamus\",\"video\":false,\"vote_average\":6.771,\"vote_count\":456}"
+}

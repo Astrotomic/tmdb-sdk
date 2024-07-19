@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1427",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18010",
+        "x-memc": "HIT",
+        "x-memc-key": "5afe31a612651641cfd0178e348f60ce",
+        "x-memc-age": "9820",
+        "x-memc-expires": "18010",
+        "ETag": "W\/\"9945ae3813103538713c20d4056e790b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "X6wAE4HMAdg12AR9bmVJCegukgbkPlP8pJvbseO7jXBnnG4zSIbl0Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4oUpXWfEASEP0ET781dQ73gXF1.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":8063,\"imdb_id\":\"tt0067315\",\"origin_country\":[\"SU\"],\"original_language\":\"ru\",\"original_title\":\"\u041a\u0440\u0430\u0441\u043d\u0430\u044f \u043f\u0430\u043b\u0430\u0442\u043a\u0430\",\"overview\":\"Torn by personal guilt, Italian General Umberto Nobile reminisces about his 1928 failed Arctic expedition aboard the airship Italia.\",\"popularity\":11.95,\"poster_path\":\"\/n6hfD9YfjMrbaA3hIROQjjXkiCD.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":12111,\"logo_path\":null,\"name\":\"Vides Cinematografica\",\"origin_country\":\"IT\"},{\"id\":344,\"logo_path\":\"\/xenuUvcunUNpbaDOYGhWZERaym7.png\",\"name\":\"Mosfilm\",\"origin_country\":\"SU\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"SU\",\"name\":\"Soviet Union\"}],\"release_date\":\"1969-12-23\",\"revenue\":0,\"runtime\":158,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Forget everything you've ever heard about heroes. Now there is \\\"The Red Tent.\\\"\",\"title\":\"The Red Tent\",\"video\":false,\"vote_average\":5.957,\"vote_count\":53}"
+}

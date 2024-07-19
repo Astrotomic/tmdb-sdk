@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1426",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13719",
+        "x-memc": "HIT",
+        "x-memc-key": "5563c77465b3fc11e9136ebb254172a3",
+        "x-memc-age": "8779",
+        "x-memc-expires": "13719",
+        "ETag": "W\/\"e602ce574c7090f9eaccdeecdedec85f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Mf_rQ7S6iau71NC8mx8aQyj2O6HrFmdFGeRWbwCcV3WNWqlDzeaUMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j3CMtQbRS4bBAuRuoTBpnPAaHSj.jpg\",\"belongs_to_collection\":{\"id\":105075,\"name\":\"The Shadow Collection\",\"poster_path\":\"\/s3ymS1GDfSYmMKmIdCBMc0fbVni.jpg\",\"backdrop_path\":\"\/ntIfzZNGz2aHRumYM7P8vqLJv6W.jpg\"},\"budget\":25000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":8850,\"imdb_id\":\"tt0111143\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Shadow\",\"overview\":\"Based on the 1930's comic strip, puts the hero up against his arch enemy, Shiwan Khan, who plans to take over the world by holding a city to ransom using an atom bomb. Using his powers of invisibility and \\\"The power to cloud men's minds\\\", the Shadow comes blazing to the city's rescue with explosive results.\",\"popularity\":34.221,\"poster_path\":\"\/xAbFJH3vQYZvUyzzGAtG4OLy492.jpg\",\"production_companies\":[{\"id\":11393,\"logo_path\":null,\"name\":\"Bregman\/Baer Productions\",\"origin_country\":\"\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-07-01\",\"revenue\":48100000,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Who knows what evil lurks in the hearts of men?\",\"title\":\"The Shadow\",\"video\":false,\"vote_average\":6.045,\"vote_count\":505}"
+}

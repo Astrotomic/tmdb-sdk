@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1809",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13618",
+        "x-memc": "HIT",
+        "x-memc-key": "d1ff9f01d51e065d1c13a7b83f7b2e8a",
+        "x-memc-age": "11374",
+        "x-memc-expires": "13618",
+        "ETag": "W\/\"6f3380aa7b163a2175a7bc76a12a59be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "puhIwL74AXELvHy6dktCIEST0hzH-4Kqr0jYmKXwk5zEckwAQaTAOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nnSjkUOJGfKTy4bnVPsbl4pyL0x.jpg\",\"belongs_to_collection\":{\"id\":85945,\"name\":\"The Mesrine Collection\",\"poster_path\":\"\/kFUC6s54Q8jn1eNBqs6xOGa2jeL.jpg\",\"backdrop_path\":\"\/3SirYFnkQwYhAec3ugZS8BKpMbk.jpg\"},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.mesrine-lefilm.com\/\",\"id\":13635,\"imdb_id\":\"tt1259014\",\"origin_country\":[\"FR\",\"CA\"],\"original_language\":\"fr\",\"original_title\":\"L'Instinct de mort\",\"overview\":\"Jacques Mesrine, a loyal son and dedicated soldier, is back home and living with his parents after serving in the Algerian War. Soon he is seduced by the neon glamour of sixties Paris and the easy money it presents. Mentored by Guido, Mesrine turns his back on middle class law-abiding and soon moves swiftly up the criminal ladder.\",\"popularity\":12.719,\"poster_path\":\"\/zCyuiyIhbhgEOZde81qTgXbO0pw.jpg\",\"production_companies\":[{\"id\":4298,\"logo_path\":null,\"name\":\"Remstar Productions\",\"origin_country\":\"\"},{\"id\":1996,\"logo_path\":null,\"name\":\"Novo RPI\",\"origin_country\":\"IT\"},{\"id\":1992,\"logo_path\":\"\/tGYQyvkKTqAEXidVisQ5FDipKAP.png\",\"name\":\"La Petite Reine\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2008-10-22\",\"revenue\":31055440,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mesrine: Killer Instinct\",\"video\":false,\"vote_average\":7.327,\"vote_count\":899}"
+}

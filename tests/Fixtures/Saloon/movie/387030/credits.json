@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2261",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19777",
+        "x-memc": "HIT",
+        "x-memc-key": "a5f06c88230a0bbbe2868ac12df5f66e",
+        "x-memc-age": "6133",
+        "x-memc-expires": "19777",
+        "ETag": "W\/\"512ecad1cd6b2ad528ee50b45090a761\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4bR_Y2rPh7Oy-_0aSZmKkCji4om0z64G0v0vvYNzIKgNJhwMoIA65Q=="
+    },
+    "data": "{\"id\":387030,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1195230,\"known_for_department\":\"Acting\",\"name\":\"Nick Smerkanich\",\"original_name\":\"Nick Smerkanich\",\"popularity\":0.13,\"profile_path\":null,\"cast_id\":0,\"character\":\"K\",\"credit_id\":\"56e33e7a9251413fd1000247\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1589134,\"known_for_department\":\"Acting\",\"name\":\"Sebastian Downs\",\"original_name\":\"Sebastian Downs\",\"popularity\":0.01,\"profile_path\":null,\"cast_id\":1,\"character\":\"S\",\"credit_id\":\"56e33e87c3a3685a92000dd7\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1589135,\"known_for_department\":\"Acting\",\"name\":\"Maggie Farrell\",\"original_name\":\"Maggie Farrell\",\"popularity\":0.041,\"profile_path\":null,\"cast_id\":2,\"character\":\"Regina\",\"credit_id\":\"56e33ea8c3a3685aa0000d43\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1195221,\"known_for_department\":\"Acting\",\"name\":\"Lina Pearson\",\"original_name\":\"Lina Pearson\",\"popularity\":0.021,\"profile_path\":null,\"cast_id\":3,\"character\":\"Petra\",\"credit_id\":\"56e34df4c3a3685a90001076\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":1589151,\"known_for_department\":\"Acting\",\"name\":\"Sarah Duff\",\"original_name\":\"Sarah Duff\",\"popularity\":0.004,\"profile_path\":null,\"cast_id\":4,\"character\":\"The Girl In The Woods\",\"credit_id\":\"56e34e02c3a3685a9e0010c5\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":1195227,\"known_for_department\":\"Sound\",\"name\":\"Laura Jorgensen\",\"original_name\":\"Laura Jorgensen\",\"popularity\":0.004,\"profile_path\":null,\"cast_id\":5,\"character\":\"The Girl From K's Past\",\"credit_id\":\"56e34e15c3a3685a90001082\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1589152,\"known_for_department\":\"Sound\",\"name\":\"Amy Alvey\",\"original_name\":\"Amy Alvey\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"56e34e6d9251416d37000fb1\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":1589153,\"known_for_department\":\"Editing\",\"name\":\"Mick Travis\",\"original_name\":\"Mick Travis\",\"popularity\":0.004,\"profile_path\":null,\"credit_id\":\"56e34e7a9251416d40001015\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":2386643,\"known_for_department\":\"Directing\",\"name\":\"Scout Tafoya\",\"original_name\":\"Scout Tafoya\",\"popularity\":0.305,\"profile_path\":null,\"credit_id\":\"5d536d6dcee2f6001601bece\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

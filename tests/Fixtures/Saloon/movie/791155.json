@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1412",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15195",
+        "x-memc": "HIT",
+        "x-memc-key": "51b52519f67b0a1363dbf895122df640",
+        "x-memc-age": "11297",
+        "x-memc-expires": "15195",
+        "ETag": "W\/\"35470229278a6d18012dfeca990a0813\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V4xihyA_OGm-NW8QzUTwQm2fIjgmdDMa5XEXg_eLVNxrtmgbOCJiCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.paramountplus.com\/movies\/video\/GhEoESipJVzeu99RSRvpj2UT2hDfFMUe\/\",\"id\":791155,\"imdb_id\":\"tt14001894\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Secret Headquarters\",\"overview\":\"While hanging out after school, Charlie and his friends discover the headquarters of the world\u2019s most powerful superhero hidden beneath his home. When villains attack, they must team up to defend the headquarters and save the world.\",\"popularity\":44.751,\"poster_path\":\"\/8PsHogUfvjWPGdWAI5uslDhHDx7.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-12\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When the secret is out, the adventure begins.\",\"title\":\"Secret Headquarters\",\"video\":false,\"vote_average\":6.494,\"vote_count\":343}"
+}

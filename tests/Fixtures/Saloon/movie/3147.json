@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "887",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24924",
+        "x-memc": "HIT",
+        "x-memc-key": "ca902432ba125fc9ddd7273ccbce15f4",
+        "x-memc-age": "1803",
+        "x-memc-expires": "24924",
+        "ETag": "W\/\"d1c602734d976e7408d099c2927e8418\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WzkF_qEHGuWomLOtd1nC0NYKnrqU3LRK6lolanXPk7C3_op1GB2YIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qwhGTT2VH7ep35sorSBJvWwl5Rx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":3147,\"imdb_id\":\"tt0322326\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The 'Frankenstein' Files: How Hollywood Made a Monster\",\"overview\":\"The history of Frankenstein's journey from novel to stage to screen to icon.\",\"popularity\":2.864,\"poster_path\":\"\/bHt8qrf8rHh6NY27l0qqFGg134y.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-11-01\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The 'Frankenstein' Files: How Hollywood Made a Monster\",\"video\":false,\"vote_average\":7.9,\"vote_count\":9}"
+}

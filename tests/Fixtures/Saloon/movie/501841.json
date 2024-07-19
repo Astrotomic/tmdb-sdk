@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1809",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17201",
+        "x-memc": "HIT",
+        "x-memc-key": "69318038b92422078e6373dc7b67de62",
+        "x-memc-age": "6709",
+        "x-memc-expires": "17201",
+        "ETag": "W\/\"7bf19232798d205bd5494667398a5e9e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mnh9CSrwEH7s46BTA3A6NKcj5wUPfr7hZVTSOxZglUxf7LdceBzMLg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fMx8Srs8AsxMr2XXHbFRaH2uMI2.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/ajournalforjordan\",\"id\":501841,\"imdb_id\":\"tt0995854\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"A Journal for Jordan\",\"overview\":\"Based on the true story of First Sergeant Charles Monroe King, a soldier deployed to Iraq begins to keep a journal of love and advice for his infant son. Back at home, senior New York Times editor Dana Canedy revisits the story of her unlikely, life-altering relationship with King and his enduring devotion to her and their child.\",\"popularity\":19.374,\"poster_path\":\"\/t8xX6kYZj6y0XIxniJdFmaFkvp1.jpg\",\"production_companies\":[{\"id\":102334,\"logo_path\":\"\/baWl2NMe4hiIsoJ94tv32uhYQ7z.png\",\"name\":\"Outlier Society\",\"origin_country\":\"US\"},{\"id\":1423,\"logo_path\":\"\/1rbAwGQzrNvXDICD6HWEn1YqfAV.png\",\"name\":\"Escape Artists\",\"origin_country\":\"US\"},{\"id\":13240,\"logo_path\":\"\/aTc07YaNHo8WNgkQSnvLmG6w4nW.png\",\"name\":\"Bron Studios\",\"origin_country\":\"CA\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":53152,\"logo_path\":\"\/8XHHLy8GGTuHM9JMzYjGqxB6oPa.png\",\"name\":\"Creative Wealth Media Finance\",\"origin_country\":\"CA\"},{\"id\":2510,\"logo_path\":null,\"name\":\"Mundy Lane Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-12-22\",\"revenue\":6700000,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Journal for Jordan\",\"video\":false,\"vote_average\":7.0,\"vote_count\":109}"
+}

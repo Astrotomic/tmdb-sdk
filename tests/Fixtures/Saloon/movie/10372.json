@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1534",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12093",
+        "x-memc": "HIT",
+        "x-memc-key": "74ac70124109c0e40c29fea73bb7b489",
+        "x-memc-age": "12089",
+        "x-memc-expires": "12093",
+        "ETag": "W\/\"71d8dd6eaf51b42be8b42e2688bbc851\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2wkcSXGkhIEHTPrt-Qvc7EBXJm2F5SHQN6Nm-gvJladwSCSKlK7atw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xdH8k2O6mpLv4szeLkQGiM1aSOC.jpg\",\"belongs_to_collection\":{\"id\":133830,\"name\":\"Star Wars: The Ewok Adventures Collection\",\"poster_path\":\"\/vSrIbcWQJ3IL0R5DoWLh0c7HMTz.jpg\",\"backdrop_path\":\"\/VXwSW7UGuNScCTy5V5H9pgioir.jpg\"},\"budget\":5000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":10372,\"imdb_id\":\"tt0089110\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ewoks: The Battle for Endor\",\"overview\":\"The army of the Marauders, led by King Terak and the witch Charal, attack the Ewoks village, killing Cindel's family. Cindel and the Ewok Wicket escape and meet Teek in the forest, a naughty and very fast animal. Teek takes them to a house in which an old man, Noa, lives. Like Cindel, he also crashed with his Starcruiser on Endor. Together they fight Terak and Charal.\",\"popularity\":18.611,\"poster_path\":\"\/5IKAgTQ9CbVbJY56v51cnA9qhNZ.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-11-24\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An adventure on a world beyond the stars.\",\"title\":\"Ewoks: The Battle for Endor\",\"video\":false,\"vote_average\":5.4,\"vote_count\":283}"
+}

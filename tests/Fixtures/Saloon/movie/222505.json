@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1233",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24573",
+        "x-memc": "HIT",
+        "x-memc-key": "a56d72d844bfadd390f0908500fb7da7",
+        "x-memc-age": "2934",
+        "x-memc-expires": "24573",
+        "ETag": "W\/\"ead4d22378dc74c72148772b846e236e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2QdAP_ibol4DmJSNwA-ntCv1Srv_AcdtWMJeYOcPRm47853oIJZL0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dWVo0crhCCF7eBCnHzo535KB8qO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":222505,\"imdb_id\":\"tt0453372\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"L'invention de Morel\",\"overview\":\"Escaped from jail, Luis finds refuge on a remote island where, it is said, several people have died long ago of a mysterious illness. He discovers a large abandoned villa. One day, a group of people from another time, come in. The villa and the nature around become the theater of strange phenomena\u2026\",\"popularity\":1.805,\"poster_path\":\"\/936AJxKf9rtf9145rHCsTcvmfV2.jpg\",\"production_companies\":[{\"id\":1293,\"logo_path\":\"\/4r2EdENtYK1Ddxmciod3XvmfA9k.png\",\"name\":\"Office de Radiodiffusion T\u00e9l\u00e9vision Fran\u00e7aise\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1967-12-08\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Invention of Morel\",\"video\":false,\"vote_average\":7.4,\"vote_count\":7}"
+}

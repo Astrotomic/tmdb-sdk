@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "246",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12331",
+        "x-memc": "HIT",
+        "x-memc-key": "0623d969043405ac74ca8bd39e7e1de0",
+        "x-memc-age": "9746",
+        "x-memc-expires": "12331",
+        "ETag": "W\/\"07ea4e066e3a4366cf4c96a4c3844fcd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 099a327961f82798658bf21aa210d4a0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UrlqJAPpqGeR2kOY3KEUfYYqDY4ir0z_6VMWTIkcFYwzbqob1mePDQ=="
+    },
+    "data": "{\"id\":1180353,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1180353-journey-to-christmas\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg\",\"provider_id\":257,\"provider_name\":\"fuboTV\",\"display_priority\":8}]}}}"
+}

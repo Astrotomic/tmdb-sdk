@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1166",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13753",
+        "x-memc": "HIT",
+        "x-memc-key": "2054d9e23dd6d3d15a2fba7b63522a82",
+        "x-memc-age": "8298",
+        "x-memc-expires": "13753",
+        "ETag": "W\/\"37cd1014f01f0550018266b776e938d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V7Mp1KRzCwuRd22Gs9C0hCGrKPOqMwx5ruuwrlaCD3OoivgYurdKAw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AsEgGeccI32SwMBkxpwhOkhbzmF.jpg\",\"belongs_to_collection\":null,\"budget\":10000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/screenrant.com\/shark-side-of-the-moon-trailer\/amp\/\",\"id\":1011679,\"imdb_id\":\"tt21426434\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shark Side of the Moon\",\"overview\":\"Decades ago, the USSR developed unkillable sharks and launched them to the moon. Today, a team of American astronauts will endure the fight of their lives.\",\"popularity\":28.945,\"poster_path\":\"\/v5CfpzxoJDkZxjZAizClFdlEF0U.jpg\",\"production_companies\":[{\"id\":1311,\"logo_path\":\"\/ic2bTizdzRLDVzAvN7MXdUg3WQV.png\",\"name\":\"The Asylum\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-12\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"THERE ARE SHARK PEOPLE ON THE MOON\",\"title\":\"Shark Side of the Moon\",\"video\":false,\"vote_average\":5.123,\"vote_count\":146}"
+}

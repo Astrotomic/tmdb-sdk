@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "778",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=349",
+        "x-memc": "HIT",
+        "x-memc-key": "0741646e857cd584ec4a36891839dff1",
+        "x-memc-age": "24526",
+        "x-memc-expires": "349",
+        "ETag": "W\/\"f17468c720935fcf5c461080d3455021\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FYyUAr5yTEwxjPvZoRlESJVVZkqMNqeTJjKdSuQrdO6fm92zC8X1DQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":6027,\"imdb_id\":\"tt0340249\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Mord im Pfarrhaus\",\"overview\":\"\",\"popularity\":2.586,\"poster_path\":\"\/fkfqZS2Xe95BmL7olqeUpcHLsCV.jpg\",\"production_companies\":[{\"id\":4606,\"logo_path\":\"\/otZHbf1HmzLRQsZFSqJXkf8EHz7.png\",\"name\":\"ZDF\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1970-11-21\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mord im Pfarrhaus\",\"video\":false,\"vote_average\":6.5,\"vote_count\":2}"
+}

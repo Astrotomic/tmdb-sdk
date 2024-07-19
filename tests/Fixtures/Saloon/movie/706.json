@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1030",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22299",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "38b4c928bfb838324c788413fd47fbe3",
+        "x-memc-age": "0",
+        "x-memc-expires": "22299",
+        "ETag": "W\/\"e7ceeaf8d65517f405c2f6efd31edfa9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lqrvfB-MDMbVeKJg1zGlojieK01eahdA6y2qhDtPoZx9K5_0AitTnA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cv6MxWigdHr1ga9AN4stzyzEG7r.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":706,\"imdb_id\":\"tt0071458\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Fontane Effi Briest\",\"overview\":\"When 17-year-old Effi Briest marries the elderly Baron von Instetten, she moves to a small, isolated Baltic town and a house that she fears is haunted. Starved for companionship, Effi begins a friendship with Major Crampas, a charismatic womanizer.\",\"popularity\":4.987,\"poster_path\":\"\/y4DpDwfbrRFaglJhuQplCo8Yj11.jpg\",\"production_companies\":[{\"id\":11626,\"logo_path\":null,\"name\":\"Tango Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1974-06-20\",\"revenue\":0,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Effi Briest\",\"video\":false,\"vote_average\":6.7,\"vote_count\":40}"
+}

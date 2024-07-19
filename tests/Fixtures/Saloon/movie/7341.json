@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1303",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13762",
+        "x-memc": "HIT",
+        "x-memc-key": "8aaaf9c20f0391601293eb1dfc8f920d",
+        "x-memc-age": "8056",
+        "x-memc-expires": "13762",
+        "ETag": "W\/\"7a994132f9833a6f7a2b0f428d44fc6c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BH1iXf0THgeS6feGXQTy6uC4VsHUje2l7cyfvLxfMVRPq8UjwIaAvA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tloUICX4JQH0nm4lJLp0zgFCLGM.jpg\",\"belongs_to_collection\":{\"id\":257053,\"name\":\"Carrie Collection\",\"poster_path\":\"\/5atZnoMxfDtEJbc1XpdYJLRLsRT.jpg\",\"backdrop_path\":\"\/dq9R9yertBFLssefa5d43XApBr9.jpg\"},\"budget\":21000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":7341,\"imdb_id\":\"tt0144814\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Rage: Carrie 2\",\"overview\":\"Following the suicide of her only friend, outcast teen Rachel Lang's life begins a downward spiral that will not only affect her but take everyone around her down in horrifying fashion.\",\"popularity\":15.448,\"poster_path\":\"\/fiGEbHu1CzpTpo4fiAZqXlMJPle.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":2229,\"logo_path\":null,\"name\":\"Red Bank Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-03-12\",\"revenue\":17762705,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Looks Can Kill.\",\"title\":\"The Rage: Carrie 2\",\"video\":false,\"vote_average\":5.648,\"vote_count\":386}"
+}

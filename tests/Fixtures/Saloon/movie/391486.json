@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1421",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2635",
+        "x-memc": "HIT",
+        "x-memc-key": "085acc1af97b4214bbe31fabc1d79269",
+        "x-memc-age": "22357",
+        "x-memc-expires": "2635",
+        "ETag": "W\/\"1e357fb9446fc7bf03494200524ba394\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o1fp-LbNaw_r0tglVfagqhdzSiwQFaUH3AQqROLNlJ0sx4P7SeJLYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/abWRzow1nUsRfkxkVdFJQSea7u6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":391486,\"imdb_id\":\"tt3027716\",\"origin_country\":[\"MX\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Crossing Point\",\"overview\":\"A young American couple in love, Michael and Olivia vacation in Baja, but things take a frightening turn when Olivia is kidnapped by drug dealer, who demands that Michael smuggle a backpack full of cocaine-stolen from a rival cartel-over the border into the U.S. within twelve hours or else Olivia will be killed. A good Tijuana Cop is on the trail, as Michael navigates the treacherous underworld of Mexico, and he himself becomes a force to be reckoned with...\",\"popularity\":7.442,\"poster_path\":\"\/nnxtFh1j47tb29z2ImzYA4NFaea.jpg\",\"production_companies\":[{\"id\":10702,\"logo_path\":\"\/xHEcbE7zWfU9KeUEepc19zHPMT5.png\",\"name\":\"Popart Film Factory\",\"origin_country\":\"US\"},{\"id\":79755,\"logo_path\":null,\"name\":\"Conflict Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-05-03\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Crossing Point\",\"video\":false,\"vote_average\":5.2,\"vote_count\":43}"
+}

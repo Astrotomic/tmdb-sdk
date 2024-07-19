@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1518",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3447",
+        "x-memc": "HIT",
+        "x-memc-key": "6324bba58a88f88c84febfbcfb04d01f",
+        "x-memc-age": "22522",
+        "x-memc-expires": "3447",
+        "ETag": "W\/\"ffceac06dbf47f29050e331704cd0d4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FYxNCnuwdz351tp9RMOL1dr28nlrdQZ7V3RX0-XqoPkxBLDV5HOLGw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eLOH2GQLvNunDXIzc6UPbGcAxlu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":9597,\"imdb_id\":\"tt0164961\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Vidocq\",\"overview\":\"Paris, 1830. In the heart of the town, Vidocq, a famous detective, disappears as he fights the Alchemist, an assassin that he has been pursuing for a few months. His young biographer, Etienne Boisset, decides to avenge Vidocq's death and takes the investigation on...\",\"popularity\":20.046,\"poster_path\":\"\/xeoj8AOHjW1muVQRUPCvnOVxSfj.jpg\",\"production_companies\":[{\"id\":1169,\"logo_path\":null,\"name\":\"RF2K Productions\",\"origin_country\":\"\"},{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"},{\"id\":356,\"logo_path\":\"\/tSJvuFaLIp7l0ONLUiAHA61GbXu.png\",\"name\":\"TF1 Films Production\",\"origin_country\":\"FR\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2001-09-18\",\"revenue\":13240767,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"To look into his mask was to lose your soul.\",\"title\":\"Vidocq\",\"video\":false,\"vote_average\":5.9,\"vote_count\":505}"
+}

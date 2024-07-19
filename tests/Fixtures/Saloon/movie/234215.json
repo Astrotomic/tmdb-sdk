@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "960",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13290",
+        "x-memc": "HIT",
+        "x-memc-key": "aeb80eb442c26436aa5e73244abd6d0f",
+        "x-memc-age": "14414",
+        "x-memc-expires": "13290",
+        "ETag": "W\/\"9342ebf0805f4e020c8d939632ef47f4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U6so_6eyhKxqV44zZM5ZAD7ASs7ZG9ktux8m__S-Fiq70O0DV54MeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":234215,\"imdb_id\":\"tt3007090\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Apeiron\",\"overview\":\"Umbra is a scientist who wants to prove his theory that human beings are ruled by chance and devoid of any purpose, and as a consequence some become evil and cruel.\",\"popularity\":2.104,\"poster_path\":\"\/AbRzDRzgdtCzlflL9nC9T2d1nrQ.jpg\",\"production_companies\":[{\"id\":146727,\"logo_path\":null,\"name\":\"Koskela Art \\u0026 Media House\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"}],\"release_date\":\"2013-09-25\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Apeiron\",\"video\":false,\"vote_average\":3.167,\"vote_count\":2}"
+}

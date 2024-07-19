@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1485",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8496",
+        "x-memc": "HIT",
+        "x-memc-key": "cd9206a3f8d6a96f17bf6b8348b2f845",
+        "x-memc-age": "16536",
+        "x-memc-expires": "8496",
+        "ETag": "W\/\"8cefd0d70dcb6ae95b0ea6907e3acdcd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TkbIGC2BGJ3-55iPWxettSL-mjsjvBV4UHp-A9dIrmrSJ5OYA8nRWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8xMR5w9qfpwhTJzjjvfj2ywvIF3.jpg\",\"belongs_to_collection\":null,\"budget\":100000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.flymetothemoon.movie\",\"id\":956842,\"imdb_id\":\"tt1896747\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Fly Me to the Moon\",\"overview\":\"Sparks fly in all directions as marketing maven Kelly Jones, brought in to fix NASA's public image, wreaks havoc on Apollo 11 launch director Cole Davis' already difficult task of putting a man on the moon. When the White House deems the mission too important to fail, Jones is directed to stage a fake moon landing as backup, and the countdown truly begins.\",\"popularity\":143.559,\"poster_path\":\"\/gjk8YdXpItoC1in53FCrZMFIuBx.jpg\",\"production_companies\":[{\"id\":142310,\"logo_path\":null,\"name\":\"These Pictures\",\"origin_country\":\"US\"},{\"id\":27711,\"logo_path\":\"\/3e294jszfE6cE8TOogmj0zNd6pL.png\",\"name\":\"Berlanti Productions\",\"origin_country\":\"US\"},{\"id\":194232,\"logo_path\":\"\/oE7H93u8sy5vvW5EH3fpCp68vvB.png\",\"name\":\"Apple Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-07-06\",\"revenue\":19000000,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Will they make history... or fake it?\",\"title\":\"Fly Me to the Moon\",\"video\":false,\"vote_average\":7.4,\"vote_count\":76}"
+}

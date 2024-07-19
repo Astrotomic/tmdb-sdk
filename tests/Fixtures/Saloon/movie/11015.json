@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1871",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2973",
+        "x-memc": "HIT",
+        "x-memc-key": "43819c466017f324a3968f2c16c2e36c",
+        "x-memc-age": "24695",
+        "x-memc-expires": "2973",
+        "ETag": "W\/\"8dc2927abb9ff7f087317f0b9434c6e6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HMtptXVfi2QIFmTuBtJ8Da7NYaQLK8An_5z4LPeafPItuWgsk97KeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A21CdNF0nsnTPPreSkTsjmGmHQU.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11015,\"imdb_id\":\"tt0120004\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Relic\",\"overview\":\"A homicide detective teams up with an evolutionary biologist to hunt a giant creature that is killing people in a Chicago museum.\",\"popularity\":19.677,\"poster_path\":\"\/3MpMbZTrXp6ccrir16nV7YTJ4vx.jpg\",\"production_companies\":[{\"id\":762,\"logo_path\":\"\/3T7EpKcS13viHu3WzRtQGvi9sTY.png\",\"name\":\"Mutual Film Company\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":657,\"logo_path\":\"\/mDBPrBO6hl21KhQOzCVYUBo33zt.png\",\"name\":\"TOHO-TOWA\",\"origin_country\":\"JP\"},{\"id\":1280,\"logo_path\":null,\"name\":\"Pacific Western\",\"origin_country\":\"US\"},{\"id\":1382,\"logo_path\":\"\/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png\",\"name\":\"PolyGram Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":4650,\"logo_path\":\"\/wWivtVg7gG3uNALIE5Oav3Bsiuz.png\",\"name\":\"Marubeni\",\"origin_country\":\"JP\"},{\"id\":3324,\"logo_path\":\"\/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png\",\"name\":\"BBC\",\"origin_country\":\"GB\"},{\"id\":1469,\"logo_path\":\"\/AwbErjR0AMpVnN9PbdHiBB3g3q0.png\",\"name\":\"Tele M\u00fcnchen\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-01-10\",\"revenue\":33956608,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They did the unthinkable. They brought it back.\",\"title\":\"The Relic\",\"video\":false,\"vote_average\":5.981,\"vote_count\":504}"
+}

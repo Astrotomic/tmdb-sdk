@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1419",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20599",
+        "x-memc": "HIT",
+        "x-memc-key": "d963457de4ea3a81b21eb52b5d3f5429",
+        "x-memc-age": "5059",
+        "x-memc-expires": "20599",
+        "ETag": "W\/\"6636541b0b44a0591b55bcbcd820defc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mcdcIrQu1BDTRMAvzeREa9f5n8H9C_59dzAWdUjvLoD7ZkHF_xBxeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xmLgdb0yDBXa7Dlo3aCzjhjCkuE.jpg\",\"belongs_to_collection\":null,\"budget\":400000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10238,\"imdb_id\":\"tt0069467\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Viskningar och rop\",\"overview\":\"As Agnes slowly dies of cancer, her sisters are so deeply immersed in their own psychic pains that they can't offer her the support she needs. Maria is wracked with guilt at her husband's attempted suicide, caused by his discovery of her extramarital affair. The self-loathing, suicidal Karin seems to regard her sister with revulsion. Only Anna, the deeply religious maid who lost her young child, seems able to offer Agnes solace and empathy.\",\"popularity\":32.046,\"poster_path\":\"\/a1bMgB09YDvvRN9SitCclUYragr.jpg\",\"production_companies\":[{\"id\":7445,\"logo_path\":null,\"name\":\"Cinematograph AB\",\"origin_country\":\"SE\"},{\"id\":2302,\"logo_path\":\"\/rPXEdpqwFycAY9ZgrAJXv13qcWW.png\",\"name\":\"Svenska Filminstitutet\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"1972-12-21\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"Four women dressed in white in a mansion painted red... haunted by whispers and cries.\",\"title\":\"Cries and Whispers\",\"video\":false,\"vote_average\":7.942,\"vote_count\":663}"
+}

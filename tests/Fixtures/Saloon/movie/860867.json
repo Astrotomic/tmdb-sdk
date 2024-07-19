@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1216",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18789",
+        "x-memc": "HIT",
+        "x-memc-key": "a57f261fa0cf7f0d97d57438d198ce8e",
+        "x-memc-age": "5215",
+        "x-memc-expires": "18789",
+        "ETag": "W\/\"d5e1aacfa1274291bd856eddfc115744\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cnDLG_fRCyh9ALUgfViZZhvu4VND1OeZWlNdN2-hPpmKFXmZQACuJA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jZXvRmQTAFmNaHSyN8DQqS5IIaM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":860867,\"imdb_id\":\"tt5737388\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Accursed\",\"overview\":\"Hana spends twenty years suppressing a maleficent curse that was placed upon her bloodline, only to have a family member knowingly release it forcing her to kill or to be killed.\",\"popularity\":55.397,\"poster_path\":\"\/dEEXkhekQd7W1S9gZ9EawXNkaEF.jpg\",\"production_companies\":[{\"id\":59640,\"logo_path\":null,\"name\":\"Almost Normal Productions\",\"origin_country\":\"\"},{\"id\":162884,\"logo_path\":null,\"name\":\"Blue Jean Baby Productions\",\"origin_country\":\"\"},{\"id\":4840,\"logo_path\":null,\"name\":\"RMR Productions\",\"origin_country\":\"\"},{\"id\":4322,\"logo_path\":null,\"name\":\"Compound B\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-11-12\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Family never forgets.\",\"title\":\"The Accursed\",\"video\":false,\"vote_average\":6.08,\"vote_count\":88}"
+}

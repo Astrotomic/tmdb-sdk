@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1740",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23016",
+        "x-memc": "HIT",
+        "x-memc-key": "9906a48671907bfb084e189d7096015e",
+        "x-memc-age": "1651",
+        "x-memc-expires": "23016",
+        "ETag": "W\/\"d0f26cbb876a4986729259b453ebf1c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "akaQbYN9fZEODWyDVzWLbfeBdYKFZYD8CAQbAfPJVcsLDJaUtZCSqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wqtaHWOEZ3rXDJ8c6ZZShulbo18.jpg\",\"belongs_to_collection\":null,\"budget\":36000000,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/astarisbornmovie.com\",\"id\":332562,\"imdb_id\":\"tt1517451\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Star Is Born\",\"overview\":\"Seasoned musician Jackson Maine discovers \u2014 and falls in love with \u2014 struggling artist Ally. She has just about given up on her dream to make it big as a singer \u2014 until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons.\",\"popularity\":47.93,\"poster_path\":\"\/wrFpXMNBRj2PBiN4Z5kix51XaIZ.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":81368,\"logo_path\":\"\/srN5L2dTtbsb48VUHvpNG71pT7q.png\",\"name\":\"Live Nation Productions\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":16774,\"logo_path\":null,\"name\":\"Peters Entertainment\",\"origin_country\":\"US\"},{\"id\":975,\"logo_path\":null,\"name\":\"Gerber Pictures\",\"origin_country\":\"US\"},{\"id\":83036,\"logo_path\":null,\"name\":\"Joint Effort\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-10-03\",\"revenue\":433888866,\"runtime\":136,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Star Is Born\",\"video\":false,\"vote_average\":7.502,\"vote_count\":11478}"
+}

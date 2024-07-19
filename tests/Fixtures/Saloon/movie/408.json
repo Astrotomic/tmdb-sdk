@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1300",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10867",
+        "x-memc": "HIT",
+        "x-memc-key": "81d4a1d870751129444dede853a58eb9",
+        "x-memc-age": "13810",
+        "x-memc-expires": "10867",
+        "ETag": "W\/\"a5c26440b3cc800538d2ed47fe3aa673\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4g2zBUrg-GJ77ZCnOCN9J8sD4UzMcKoAPLRgxyxLgEBO9qwG-E_XTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n3pJwYuPnkw7JX7tOMbH0GRfBPn.jpg\",\"belongs_to_collection\":null,\"budget\":1488423,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/movies.disney.com\/snow-white-and-the-seven-dwarfs\",\"id\":408,\"imdb_id\":\"tt0029583\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Snow White and the Seven Dwarfs\",\"overview\":\"A beautiful girl, Snow White, takes refuge in the forest in the house of seven dwarfs to hide from her stepmother, the wicked Queen. The Queen is jealous because she wants to be known as \\\"the fairest in the land,\\\" and Snow White's beauty surpasses her own.\",\"popularity\":89.82,\"poster_path\":\"\/3VAHfuNb6Z7UiW12iYKANSPBl8m.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1937-12-21\",\"revenue\":184925486,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Happiest, Dopiest, Grumpiest, Sneeziest movie of the year.\",\"title\":\"Snow White and the Seven Dwarfs\",\"video\":false,\"vote_average\":7.124,\"vote_count\":7227}"
+}

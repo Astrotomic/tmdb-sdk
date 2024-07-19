@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1030",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2981",
+        "x-memc": "HIT",
+        "x-memc-key": "071bf605c2841fb5472fd9b8a0adfa49",
+        "x-memc-age": "23351",
+        "x-memc-expires": "2981",
+        "ETag": "W\/\"2a0a2a7285c1da2240bc01ba2811a4e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AEwQfjxA_C-VluF3PdFAh3UVPXOZYdTOP0n6hqEEAVsGqZgg5IGW-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tcPDv78HCW1BG8Inm1MCNsrcpRj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1024532,\"imdb_id\":\"tt18252340\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Carnifex\",\"overview\":\"An aspiring documentarian and two conservationists who venture into the Outback to record the animals displaced by bushfires where they discover a terrifying new species.\",\"popularity\":15.649,\"poster_path\":\"\/wUiN09IRVhbDrffXbMuwmq9e4Tq.jpg\",\"production_companies\":[{\"id\":187288,\"logo_path\":\"\/nX6ZYUqWL6z7dmeFj7C9ABBXhTv.png\",\"name\":\"Dancing Road Productions\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2022-12-01\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some species should remain extinct.\",\"title\":\"Carnifex\",\"video\":false,\"vote_average\":5.121,\"vote_count\":29}"
+}

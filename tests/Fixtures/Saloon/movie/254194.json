@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1365",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25031",
+        "x-memc": "HIT",
+        "x-memc-key": "c3c7e7e54d9a04f88a2bea7cfe8392d1",
+        "x-memc-age": "3183",
+        "x-memc-expires": "25031",
+        "ETag": "W\/\"8d74e960213781b2f4c712fecc9a15c9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6bv4GU59QRd-91fBxK2PJPop58sRde4pF1m9M8RL2OFLTFmKCYAuhQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nKXnqssHmh6miZU3jyG5Mz1jpQ3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.starryeyesfilm.com\/\",\"id\":254194,\"imdb_id\":\"tt2793490\",\"origin_country\":[\"BE\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Starry Eyes\",\"overview\":\"A hopeful young starlet uncovers the ominous origins of the Hollywood elite and enters into a deadly agreement in exchange for fame and fortune.\",\"popularity\":17.753,\"poster_path\":\"\/t1sIumVCl91XThMoJqUjpERYeAM.jpg\",\"production_companies\":[{\"id\":4592,\"logo_path\":\"\/kgK8NV5jZtqsmnZv92s1I5DnLNX.png\",\"name\":\"Dark Sky Films\",\"origin_country\":\"US\"},{\"id\":7787,\"logo_path\":\"\/mrDKpfx2bKUwEPuzYjmYrLW2Zoh.png\",\"name\":\"Snowfort Pictures\",\"origin_country\":\"US\"},{\"id\":41812,\"logo_path\":null,\"name\":\"Parallactic Pictures\",\"origin_country\":\"\"},{\"id\":41813,\"logo_path\":\"\/pqoPwhsmo0f0V3r6yKouspsuFaF.png\",\"name\":\"Title Media\",\"origin_country\":\"BE\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-07-29\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She would kill to be famous.\",\"title\":\"Starry Eyes\",\"video\":false,\"vote_average\":6.036,\"vote_count\":425}"
+}

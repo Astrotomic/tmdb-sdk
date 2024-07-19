@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1264",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11719",
+        "x-memc": "HIT",
+        "x-memc-key": "80f45bb6cd0cd3b0430ed4463af66654",
+        "x-memc-age": "15611",
+        "x-memc-expires": "11719",
+        "ETag": "W\/\"428156d4f4a78f481df605d122ca2f7b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nThm3NaEIlMmMaShb2lULic4dr6O6rBpf9i7HMmwXxRWNV7QsEf3Nw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uNTciMXpCQDg7gvgMsPCdnxo6Re.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1114738,\"imdb_id\":\"tt10993078\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Boneyard\",\"overview\":\"After Police Chief Carter discovers the remains of eleven women, FBI Special Agent Petrovick is recruited to profile the serial killer responsible for the infamous \\\"boneyard\\\" killings. As the police force, narcotics agency, and FBI lock horns, a tangled web of intrigue turns everyone into a suspect.\",\"popularity\":1075.259,\"poster_path\":\"\/xkNK36hQv8SWiwiQoE7naRfP0zL.jpg\",\"production_companies\":[{\"id\":133189,\"logo_path\":null,\"name\":\"Avail Entertainment\",\"origin_country\":\"US\"},{\"id\":198115,\"logo_path\":null,\"name\":\"One Dollar Studios\",\"origin_country\":\"US\"},{\"id\":198116,\"logo_path\":null,\"name\":\"The Film Post\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-07-05\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Boneyard\",\"video\":false,\"vote_average\":5.841,\"vote_count\":41}"
+}

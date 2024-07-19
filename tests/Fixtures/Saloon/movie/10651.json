@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1471",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3570",
+        "x-memc": "HIT",
+        "x-memc-key": "648a3d0b6ca62d1d7ca54803a89026fa",
+        "x-memc-age": "24276",
+        "x-memc-expires": "3570",
+        "ETag": "W\/\"7d492ddb086743570be91d6207b42a8a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fHSQLIjvxLj2jDNAABOVK5RSWjCu4cQT_Wm2VAewd7LSdT0nU4-NSw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vMeIYrazqkcESPW7IGAUXbnKbzI.jpg\",\"belongs_to_collection\":{\"id\":10456,\"name\":\"Dirty Harry Collection\",\"poster_path\":\"\/ie8lv45tSVNUazMK5fGxWjB899N.jpg\",\"backdrop_path\":\"\/nlpixhOhb3JmFqVXKjCwpYFpldf.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10651,\"imdb_id\":\"tt0094963\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Dead Pool\",\"overview\":\"Dirty Harry Callahan returns for his final film adventure. Together with his partner Al Quan, he must investigate the systematic murder of actors and musicians. By the time Harry learns that the murders are a part of a sick game to predict the deaths of celebrities before they happen, it may be too late...\",\"popularity\":32.76,\"poster_path\":\"\/mqwGpW0Ptrvz1GmfCnLAOA4cQ8g.jpg\",\"production_companies\":[{\"id\":171,\"logo_path\":\"\/bqLWwuNCHcY3IjB5e4o29h7l80D.png\",\"name\":\"Malpaso Productions\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-07-13\",\"revenue\":37900000,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Dirty Harry Just Learned A New Game.\",\"title\":\"The Dead Pool\",\"video\":false,\"vote_average\":6.27,\"vote_count\":803}"
+}

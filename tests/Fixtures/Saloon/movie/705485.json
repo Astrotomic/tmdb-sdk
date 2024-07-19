@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "586",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16465",
+        "x-memc": "HIT",
+        "x-memc-key": "158859f6557955fcf0faa6f6849de7db",
+        "x-memc-age": "6245",
+        "x-memc-expires": "16465",
+        "ETag": "W\/\"639f929a0ee95cdf76c26bd48294e82a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZrPoJU1BeGGltZ2lFhxbtV6uZURkUbs3-YSscBl0oFznWmKL4lizwQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":705485,\"imdb_id\":\"tt3722182\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Kunstkammer\",\"overview\":\"\",\"popularity\":0.445,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2014-06-12\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kunstkammer\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

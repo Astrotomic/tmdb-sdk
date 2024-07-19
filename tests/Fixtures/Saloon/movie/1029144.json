@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1169",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7252",
+        "x-memc": "HIT",
+        "x-memc-key": "2997bd589c96743a9e845021987d2171",
+        "x-memc-age": "17810",
+        "x-memc-expires": "7252",
+        "ETag": "W\/\"316ead47461b11830febf13bbe61d5f8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DfTKCg55OEsth0fzTVJlIFMcDroW_BkXfeIo1Oi7RZs0O5fJ7pi4uA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8NQBNkoVyecmbi673ngdeLwWZMo.jpg\",\"belongs_to_collection\":{\"id\":950672,\"name\":\"Kamen Rider Revice Collection\",\"poster_path\":\"\/loVaEjTqmwC97vPVSaBqyyCUaRa.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1029144,\"imdb_id\":null,\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u4eee\u9762\u30e9\u30a4\u30c0\u30fc\u30ea\u30d0\u30a4\u30b9 \u30d2\u30ed\u30df\u601d\u3044\u51fa\u30e0\u30fc\u30d3\u30fc\",\"overview\":\"During the events of Kamen Rider Revice, the amnesiac Hiromi Kadota's friends make a movie to help him regain his lost enemies.\",\"popularity\":4.269,\"poster_path\":\"\/nqJIMU9HO0khL5c7FzutP4oXiyn.jpg\",\"production_companies\":[{\"id\":9221,\"logo_path\":\"\/7hEAueutGnsQUyUGnp5zQ1YmCrO.png\",\"name\":\"Toei Video Company\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2022-12-07\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kamen Rider Revice: Hiromi's Memory Movie\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

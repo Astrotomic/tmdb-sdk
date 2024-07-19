@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1110",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9141",
+        "x-memc": "HIT",
+        "x-memc-key": "15f15e025a809a232141dcb405019260",
+        "x-memc-age": "18905",
+        "x-memc-expires": "9141",
+        "ETag": "W\/\"ded4701c1c8005a31ccf1d995782b72e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "84uMDd9Xh6TZ33bLyVBn2eetbFL9A4t5rqa7liOOvCsmQpK13zui8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mErnrp6gxgSw7eYVnuos3k8EkWf.jpg\",\"belongs_to_collection\":null,\"budget\":47000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":9095,\"imdb_id\":\"tt0117002\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mary Reilly\",\"overview\":\"A housemaid falls in love with Dr. Jekyll and his darkly mysterious counterpart, Mr. Hyde.\",\"popularity\":19.662,\"poster_path\":\"\/eAOPWQdwytdRaLK3VXi7JFJFqmj.jpg\",\"production_companies\":[{\"id\":18737,\"logo_path\":null,\"name\":\"NFH Films\",\"origin_country\":\"\"},{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1996-02-23\",\"revenue\":12379402,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The untold story of Jekyll and Hyde\",\"title\":\"Mary Reilly\",\"video\":false,\"vote_average\":5.772,\"vote_count\":305}"
+}

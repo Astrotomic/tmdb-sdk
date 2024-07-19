@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1697",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25749",
+        "x-memc": "HIT",
+        "x-memc-key": "a83d5d17b7aa174c2126d7e276c1b8eb",
+        "x-memc-age": "1031",
+        "x-memc-expires": "25749",
+        "ETag": "W\/\"e5cb3d67df879391622337421f0a4eb8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UPmu92uDlBI7Kjl3Aq5NUwxyWLNXILeCQqKjA9xVEpr9742INOcA0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zVKXgxCOnj01owWoia6wfRxw6WK.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/adventurepictures.co.uk\/productions\/details\/1198\/Orlando\",\"id\":9300,\"imdb_id\":\"tt0107756\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Orlando\",\"overview\":\"England, 1600. Queen Elizabeth I promises Orlando, a young nobleman obsessed with poetry, that she will grant him land and fortune if he agrees to satisfy a very particular request.\",\"popularity\":20.083,\"poster_path\":\"\/rlwntsY2nG4w4PyNxWaMcAkyUwd.jpg\",\"production_companies\":[{\"id\":11912,\"logo_path\":null,\"name\":\"Mikado Film\",\"origin_country\":\"IT\"},{\"id\":36765,\"logo_path\":null,\"name\":\"Adventure Pictures\",\"origin_country\":\"GB\"},{\"id\":132019,\"logo_path\":null,\"name\":\"Rio\",\"origin_country\":\"FR\"},{\"id\":45179,\"logo_path\":null,\"name\":\"Sigma Pictures\",\"origin_country\":\"NL\"},{\"id\":170208,\"logo_path\":\"\/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png\",\"name\":\"Lenfilm\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"},{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1992-12-11\",\"revenue\":5377643,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Orlando\",\"video\":false,\"vote_average\":6.919,\"vote_count\":308}"
+}

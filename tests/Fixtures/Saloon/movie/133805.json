@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1457",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26609",
+        "x-memc": "HIT",
+        "x-memc-key": "a7ea64229fed327d5b19ea73f147a09f",
+        "x-memc-age": "2123",
+        "x-memc-expires": "26609",
+        "ETag": "W\/\"bbc518c02469cd525b2e420970afacae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6uzo0KetvNsKA100IQzYMDde66YZ5Q9zPWm1cxExc772CsKxVv-7Rg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ffi2k8g5NOXbfwYhpg0HyZfx5Vz.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.carrie-movie.com\",\"id\":133805,\"imdb_id\":\"tt1939659\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Carrie\",\"overview\":\"A contemporary take on the horror classic about an awkward, telekinetic teenage girl, whose lonely life is dominated by relentless bullying at school and an oppressive religious fanatic mother at home. When her tormentors pull a humiliating prank at the senior prom, she unleashes a horrifying chaos on everyone, leaving nothing but destruction in her wake.\",\"popularity\":48.717,\"poster_path\":\"\/kloXz9qwO23z9Kbt3z3MgnjF4xO.jpg\",\"production_companies\":[{\"id\":11581,\"logo_path\":\"\/yIORcWTFHtbXvWjqXAqFuMxx0K0.png\",\"name\":\"Misher Films\",\"origin_country\":\"US\"},{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-10-16\",\"revenue\":84790678,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Know her name. Fear her power.\",\"title\":\"Carrie\",\"video\":false,\"vote_average\":6.0,\"vote_count\":4370}"
+}

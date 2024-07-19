@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1210",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6233",
+        "x-memc": "HIT",
+        "x-memc-key": "b41f0d654148e0da6534547395b1468f",
+        "x-memc-age": "19756",
+        "x-memc-expires": "6233",
+        "ETag": "W\/\"dc3f8b7c53c892aaf681aba587372e5f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "igf-UuhRtrrkp6XC-Dacimgy1iELB9DqDpFYuDwYetSv435kv0PA0Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/t7ESVPaKfnKvaSv2E9XDiG3f1vp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":95547,\"imdb_id\":\"tt1733732\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Triassic Attack\",\"overview\":\"A Native American owner of a kitschy roadside museum accidentally brings to life three dinosaur fossils. Now really annoyed, the giant dinos wreak havoc on the small town and the local university.\",\"popularity\":10.254,\"poster_path\":\"\/29ySLiWzuPVFMZqhXX4JPgZHe5V.jpg\",\"production_companies\":[{\"id\":6677,\"logo_path\":\"\/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png\",\"name\":\"Syfy\",\"origin_country\":\"US\"},{\"id\":7188,\"logo_path\":\"\/4lh5AHeYmjH0EITJLnWNbvu6PI0.png\",\"name\":\"UFO International Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-11-27\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Triassic Attack\",\"video\":false,\"vote_average\":4.25,\"vote_count\":56}"
+}

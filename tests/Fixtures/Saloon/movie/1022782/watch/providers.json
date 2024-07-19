@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "349",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1010",
+        "x-memc": "HIT",
+        "x-memc-key": "7898bc71512e6ceba3ce174bb974a1b8",
+        "x-memc-age": "25745",
+        "x-memc-expires": "1010",
+        "ETag": "W\/\"bc1406e0ecb5783022e52971a5d84e8f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fa87f2173bfe5d35fd73cec71ab12a32.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Rg91KIHbLm12bddwKgTxtCoeJqKA2f7PfrpqDKn-9Zc7KiTNsrD41g=="
+    },
+    "data": "{\"id\":1022782,\"results\":{\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1022782\/watch?locale=KR\",\"buy\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}]}}}"
+}

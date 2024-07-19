@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1648",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11680",
+        "x-memc": "HIT",
+        "x-memc-key": "7ec0781eb64bf5dcea6364c6fd82850a",
+        "x-memc-age": "15197",
+        "x-memc-expires": "11680",
+        "ETag": "W\/\"30116a6ad60c2589fa08dbe1d67f5c26\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vVDxvYop8UNpMrE_VdGwyTJgQXXeuAdezoMbwPqwQVo33YHTSjJyIw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nOovQqWWrGRkEkefR19syGO5a9i.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.casshern.com\/\",\"id\":11662,\"imdb_id\":\"tt0405821\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"CASSHERN\",\"overview\":\"Fifty years of war between the Great Eastern Federation and Europa - now merged as Eurasia - have taken their toll on planet Earth. As a result of the use of biological, chemical and nuclear weapons, much of Earth has become uninhabitable and people have become prey to new diseases. Professor Azuma's \\\"neo-cell\\\" project, which is supposed to be the answer to mankind's hardships, becomes a nightmare come true when mutants spawned from the experiment escape and declare war on the human race. Azuma's son Tetsuya, who was killed during the previous war, is reborn into the cyborg Casshern as mankind's last hope against the new mutant threat. This live-action sci-fi movie based on a 1973 Japanese anim\u00e9 of the same name.\",\"popularity\":19.11,\"poster_path\":\"\/naIjHWfQFge69GqeehgsekwDkbl.jpg\",\"production_companies\":[{\"id\":13583,\"logo_path\":\"\/3AcqA6uF49Auq43niCf9NQPGxsU.png\",\"name\":\"Tatsunoko Production\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2004-04-24\",\"revenue\":12353768,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"When a hero falls a legend will rise\",\"title\":\"Casshern\",\"video\":false,\"vote_average\":5.892,\"vote_count\":237}"
+}

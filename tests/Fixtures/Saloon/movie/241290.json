@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1015",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15831",
+        "x-memc": "HIT",
+        "x-memc-key": "cdaf27cbc10c315a8cb5d07a4dd881f9",
+        "x-memc-age": "6783",
+        "x-memc-expires": "15831",
+        "ETag": "W\/\"5878f4b464c3b6b5e22422c3c900f12d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-vkHi387kIhcvcI0We67APfn6Dllyr7iKVGjht7DWylJv8laWWDLmw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fpybLKs8IfA58ULY2RnO7SGCkgt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":241290,\"imdb_id\":\"tt0031726\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"No Place to Go\",\"overview\":\"An elderly war veteran feels lonely and unwanted while living with his son and daughter-in-law, but he learns his life still has purpose when he befriends a neighborhood child with a troubled family life.\",\"popularity\":2.854,\"poster_path\":\"\/16Y430txA3UOb9VZoFw06GFmOHf.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1939-09-23\",\"revenue\":0,\"runtime\":56,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"No Place to Go\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

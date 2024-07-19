@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1709",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11062",
+        "x-memc": "HIT",
+        "x-memc-key": "9b9931c422e8f11118b2c34f724a4c48",
+        "x-memc-age": "14692",
+        "x-memc-expires": "11062",
+        "ETag": "W\/\"abe6d668e826ef9515118e7c241671ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0KRfp62wo9ShQHI5UIM-lBNgYIiSrfVYa67ed59rcb0Le9M2ozZ8Qg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y7eYpJ7EcGLiRsNZCfPqzfSGZln.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/fisher-film.com\",\"id\":856661,\"imdb_id\":\"tt8763198\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fisher\",\"overview\":\"In the small town of Eden, Tennessee, a neglected and naive teenage girl named Clara Banks has made a habit of deceiving people online for gifts, a gambit known as \\\"catfishing.\\\" She thinks it's all fun and games until she hooks the attention of the wrong person. A short time later, events set into motion spiral out of control as someone begins stalking Clara and her friends. As the consequences of her actions return to haunt her, twisted messages start showing up at Clara's home, causing her to fear for her life. Will she ever feel safe again now that the evil has come knocking?\",\"popularity\":4.243,\"poster_path\":\"\/1TW74g1D5Ktvv3fRo866fvysSMN.jpg\",\"production_companies\":[{\"id\":160389,\"logo_path\":null,\"name\":\"Maelstrom Films\",\"origin_country\":\"\"},{\"id\":160390,\"logo_path\":null,\"name\":\"Cassie B Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-11-17\",\"revenue\":0,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A neglected and naive teenage girl uses the internet to deceive people for gifts until she crosses the wrong person and things take a terrifying turn.\",\"title\":\"Fisher\",\"video\":false,\"vote_average\":2.5,\"vote_count\":4}"
+}

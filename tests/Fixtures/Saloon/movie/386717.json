@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "836",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1165",
+        "x-memc": "HIT",
+        "x-memc-key": "6c57176b2e7e64623778b2e1c3ef616e",
+        "x-memc-age": "22525",
+        "x-memc-expires": "1165",
+        "ETag": "W\/\"1bfcac6d7bd8388c09d86ea4a3fd2b3b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tr4gV7MTSraFDxuZkKVS1KFWvD75_YNGRu0iHy8QSUPlbfyho476QQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":386717,\"imdb_id\":\"tt1003556\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le tout petit Faust\",\"overview\":\"The various parts of Faust are played by puppets.\",\"popularity\":3.702,\"poster_path\":\"\/kncKdxI8SONKPZKObwCdZ9hXg3c.jpg\",\"production_companies\":[{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1910-06-18\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Petit Faust\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

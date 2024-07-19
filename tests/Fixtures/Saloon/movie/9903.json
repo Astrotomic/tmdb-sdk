@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1302",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7277",
+        "x-memc": "HIT",
+        "x-memc-key": "4e52ec7c5eb10ccffb7951d2f8fe3441",
+        "x-memc-age": "14792",
+        "x-memc-expires": "7277",
+        "ETag": "W\/\"dd45754f7a20a5ccd87c8f7a7ddc8ea7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rSUpP_na3Qd2TEiA2B9V1DMkAP-7Tgbs04tpQa-dn6cVL-VUPXI1cw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sGssyV8kuJqBAeQdQRmazo5VY9E.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":9903,\"imdb_id\":\"tt0462338\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hoax\",\"overview\":\"In what would cause a fantastic media frenzy, Clifford Irving sells his bogus biography of Howard Hughes to a premiere publishing house in the early 1970s.\",\"popularity\":15.009,\"poster_path\":\"\/jfHmDucGU4RCuwdXmKIj4MbG7qp.jpg\",\"production_companies\":[{\"id\":2448,\"logo_path\":null,\"name\":\"Yari Film Group\",\"origin_country\":\"\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":1557,\"logo_path\":\"\/ccz9bqCu3jSFKbPFnfWmjAKZLBL.png\",\"name\":\"The Mark Gordon Company\",\"origin_country\":\"US\"},{\"id\":12260,\"logo_path\":null,\"name\":\"Bob Yari Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-10-14\",\"revenue\":11772461,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never let the truth get in the way of a good story.\",\"title\":\"The Hoax\",\"video\":false,\"vote_average\":6.254,\"vote_count\":203}"
+}

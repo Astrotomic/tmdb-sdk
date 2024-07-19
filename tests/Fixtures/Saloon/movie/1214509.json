@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1322",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18736",
+        "x-memc": "HIT",
+        "x-memc-key": "e12510ac2bd810a4a9fb4d78a1aea2fa",
+        "x-memc-age": "5985",
+        "x-memc-expires": "18736",
+        "ETag": "W\/\"9637222ffe8527e828b9c099ef7d1ded\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NFu2vVcYExyx0lE-Nbf-K9XXb5bePy7AFyHFqMsAUfrlqgX01kJwjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/buawWBeKYjYfeiPoS2jIcjOrghZ.jpg\",\"belongs_to_collection\":null,\"budget\":600000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.inaviolentnature.com\",\"id\":1214509,\"imdb_id\":\"tt30321146\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"In a Violent Nature\",\"overview\":\"The enigmatic resurrection, rampage, and retribution of an undead monster in a remote wilderness unleashes an iconic new killer after a locket is removed from a collapsed fire tower that entombed its rotting corpse.\",\"popularity\":599.375,\"poster_path\":\"\/hPfWHgq07nXbeldwEGxWB4JqwtE.jpg\",\"production_companies\":[{\"id\":142877,\"logo_path\":\"\/c0Qhy9uvdXfvAZQ9e8GnT5Nb75m.png\",\"name\":\"Shudder\",\"origin_country\":\"US\"},{\"id\":59558,\"logo_path\":null,\"name\":\"Low Sky Productions\",\"origin_country\":\"CA\"},{\"id\":224036,\"logo_path\":null,\"name\":\"Zygote Pictures\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-31\",\"revenue\":4258197,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Nature is unforgiving.\",\"title\":\"In a Violent Nature\",\"video\":false,\"vote_average\":5.783,\"vote_count\":115}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1071",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26591",
+        "x-memc": "HIT",
+        "x-memc-key": "88b334d19aa8ea77f13d65e6e3de57fa",
+        "x-memc-age": "1812",
+        "x-memc-expires": "26591",
+        "ETag": "W\/\"053af7aba2d6c9ceaca1e0e21de9c938\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vq1bOt19DvPNAP2B_f8L4LhZ8wTR3HP9Y0o06wSQdYkgVMyJGbi6aQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.mozzman.com\/\",\"id\":423530,\"imdb_id\":\"tt1828251\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Journey to Mt. Fuji\",\"overview\":\"Mozzman takes a long journey to Mt. Fuji in search for his old friend Kitakitsune.\",\"popularity\":1.132,\"poster_path\":null,\"production_companies\":[{\"id\":82909,\"logo_path\":null,\"name\":\"Sasanqua Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2015-01-01\",\"revenue\":0,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Search Your Dreams\",\"title\":\"Journey to Mt. Fuji\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

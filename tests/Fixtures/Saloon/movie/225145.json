@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1433",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20441",
+        "x-memc": "HIT",
+        "x-memc-key": "bf14ed24d052d3524a44cd635e368cdf",
+        "x-memc-age": "4501",
+        "x-memc-expires": "20441",
+        "ETag": "W\/\"a01a6ad8b2d1170e837a1698e7344056\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ssNr0810dLoXKJ_iozb6AdbsLP0QPa2Tv2UytpIQ7YkBrAX4lF-6pg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hY7F2yOWSmcXJjfp3sKGqS5beUA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/gatchaman-movie.jp\/\",\"id\":225145,\"imdb_id\":\"tt2451110\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30ac\u30c3\u30c1\u30e3\u30de\u30f3\",\"overview\":\"By the year 2050 AD, a mysterious organization called Galactor has occupied half of the Earth and threatens to exterminate the human race. Around the same time, the International Science Organization had uncovered mysterious stones that bear unusual powers.  It is said that one person out of approximately eight million is able to harness the power of the stones; they are known as a \\\"Receptor\\\". Dr. Kozaburo Nambu gathers a team of these five lucky Receptors together. Known as the \\\"Gatchaman\\\" team, it is their mission to defeat Galactor.\",\"popularity\":9.73,\"poster_path\":\"\/u0le88N2NFnpgtuMbBuPSoRK2pA.jpg\",\"production_companies\":[{\"id\":955,\"logo_path\":\"\/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png\",\"name\":\"Nikkatsu Corporation\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2013-08-24\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gatchaman\",\"video\":false,\"vote_average\":5.711,\"vote_count\":19}"
+}

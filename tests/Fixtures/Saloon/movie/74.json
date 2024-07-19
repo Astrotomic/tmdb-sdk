@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1525",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11985",
+        "x-memc": "HIT",
+        "x-memc-key": "7a2541ca505b4e073a85d3f4be1d441b",
+        "x-memc-age": "15214",
+        "x-memc-expires": "11985",
+        "ETag": "W\/\"e654c0648834a16dbbea012d8ffb40e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0huKpRRxF5A55CHDRCLmth8H8_GhFX1EAGdp0M9dA72iNBWxj4iGkg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nH6hPhJq3EEv9CnBZgXU3IQnpJo.jpg\",\"belongs_to_collection\":null,\"budget\":132000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/amblin.com\/movie\/war-of-the-worlds\/\",\"id\":74,\"imdb_id\":\"tt0407304\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"War of the Worlds\",\"overview\":\"Ray Ferrier is a divorced dockworker and less-than-perfect father. Soon after his ex-wife and her new husband drop off his teenage son and young daughter for a rare weekend visit, a strange and powerful lightning storm touches down.\",\"popularity\":54.101,\"poster_path\":\"\/6Biy7R9LfumYshur3YKhpj56MpB.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":44,\"logo_path\":\"\/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png\",\"name\":\"Cruise\/Wagner Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-06-28\",\"revenue\":603873119,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're already here.\",\"title\":\"War of the Worlds\",\"video\":false,\"vote_average\":6.512,\"vote_count\":8169}"
+}

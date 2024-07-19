@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1214",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23695",
+        "x-memc": "HIT",
+        "x-memc-key": "f271038281fedd5f96add21a1e69c013",
+        "x-memc-age": "941",
+        "x-memc-expires": "23695",
+        "ETag": "W\/\"9f28bd3659a2f6192d1567ce90ed0493\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5TZll5-jIDNgb1muXKIXZoEldvAKku6Yy_R-5lpxP24dIT2TPEEiVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/foS1hXCMagcl3GnK0hJHslNw9Ne.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":11482,\"imdb_id\":\"tt0074811\",\"origin_country\":[\"FR\"],\"original_language\":\"en\",\"original_title\":\"Le locataire\",\"overview\":\"A quiet and inconspicuous man rents an apartment in France where he finds himself drawn into a rabbit hole of dangerous paranoia.\",\"popularity\":23.554,\"poster_path\":\"\/4Qhzb1ICFMqE3isWoln497qSH7n.jpg\",\"production_companies\":[{\"id\":1497,\"logo_path\":null,\"name\":\"Marianne Productions\",\"origin_country\":\"FR\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1976-05-26\",\"revenue\":5100000,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Apartment for rent: Quiet building. Furnished. 2 rooms. Previous tenant committed suicide.\",\"title\":\"The Tenant\",\"video\":false,\"vote_average\":7.644,\"vote_count\":1070}"
+}

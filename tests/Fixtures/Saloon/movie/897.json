@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1756",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7072",
+        "x-memc": "HIT",
+        "x-memc-key": "92d0211ba25165e4eb2ebae9abd67795",
+        "x-memc-age": "17608",
+        "x-memc-expires": "7072",
+        "ETag": "W\/\"02d4f7647824ef3ef7b94b65f9a3df28\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "H-554n6o9oXYYJBCmBMVDfdz6WwdY11yKy_j-nnkJbwOfx8UQgKZ6g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qDEZmaaAGhEso6kvB5kk1CROPwG.jpg\",\"belongs_to_collection\":{\"id\":158391,\"name\":\"The Apu Trilogy\",\"poster_path\":\"\/5WAKR48YAV9l37pBPElCRJsvaZv.jpg\",\"backdrop_path\":\"\/b5zCX85EvJpizJzA2WaQmkd6DN6.jpg\"},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":897,\"imdb_id\":\"tt0048956\",\"origin_country\":[],\"original_language\":\"bn\",\"original_title\":\"\u0985\u09aa\u09b0\u09be\u099c\u09bf\u09a4\",\"overview\":\"Aparajito picks up where the first film leaves off, with Apu and his family having moved away from the country to live in the bustling holy city of Varanasi (then known as Benares). As Apu progresses from wide-eyed child to intellectually curious teenager, eventually studying in Kolkata, we witness his academic and moral education, as well as the growing complexity of his relationship with his mother. This tenderly expressive, often heart-wrenching film, which won three top prizes at the Venice Film Festival, including the Golden Lion, not only extends but also spiritually deepens the tale of Apu.  Preserved by the Academy Film Archive in 1996.\",\"popularity\":16.026,\"poster_path\":\"\/rIJoxt3zOSoO2XujOVOhvIKIidS.jpg\",\"production_companies\":[{\"id\":1988,\"logo_path\":null,\"name\":\"Epic Productions\",\"origin_country\":\"\"},{\"id\":26424,\"logo_path\":null,\"name\":\"Satyajit Ray Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"1956-10-11\",\"revenue\":170215,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"Bengali\",\"iso_639_1\":\"bn\",\"name\":\"\u09ac\u09be\u0982\u09b2\u09be\"},{\"english_name\":\"Sanskrit\",\"iso_639_1\":\"sa\",\"name\":\"\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Aparajito\",\"video\":false,\"vote_average\":7.921,\"vote_count\":234}"
+}

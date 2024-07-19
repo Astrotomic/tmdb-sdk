@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1218",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5542",
+        "x-memc": "HIT",
+        "x-memc-key": "47bf38adad6dd144ecc65dcd3090ac85",
+        "x-memc-age": "16643",
+        "x-memc-expires": "5542",
+        "ETag": "W\/\"98807f778fc94527013d0733336f55b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vdijj-ABiJCboETuSKlbF4GrpJaY31vYlwfdIoW3BnceswaFxQ9OQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8kVPLOzuZ1G9EBYxcOrzaHbxCeC.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1554,\"imdb_id\":\"tt0090967\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Down by Law\",\"overview\":\"A disc jockey, a pimp and an Italian tourist escape from jail in New Orleans.\",\"popularity\":19.572,\"poster_path\":\"\/4IyxoUQ7BB5kcSd7gASe2dTyWu7.jpg\",\"production_companies\":[{\"id\":3492,\"logo_path\":null,\"name\":\"Island Pictures\",\"origin_country\":\"GB\"},{\"id\":21612,\"logo_path\":null,\"name\":\"Black Snake\",\"origin_country\":\"US\"},{\"id\":42043,\"logo_path\":null,\"name\":\"Grokenberger Film Produktion\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-09-20\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"It's not where you start - It's where you start again.\",\"title\":\"Down by Law\",\"video\":false,\"vote_average\":7.364,\"vote_count\":711}"
+}

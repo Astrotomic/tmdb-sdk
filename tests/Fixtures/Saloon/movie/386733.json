@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1545",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19516",
+        "x-memc": "HIT",
+        "x-memc-key": "afcf3dfafd18c35217649420bf662716",
+        "x-memc-age": "3328",
+        "x-memc-expires": "19516",
+        "ETag": "W\/\"ba2d4771fc04f89b49e4146dd2c6c34b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rWZUKIqFICwDQizejkRaIEPSsVuoiYFKF9vq_QGiTeLGzbmjzENTIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zRVi6zBqAV08Stu1ezEm0yGdQ51.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":386733,\"imdb_id\":\"tt0286394\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Fairies\",\"overview\":\"A princess star fairy named Sparkle lives up in the clouds in Castle WishStar. Her job is to grant wishes to children when they wish upon a star. But lately, she has been overwhelmed by the increasing number of wishes being made. So she asks for help and receives not one but five new star fairy helpers. But more troubles arise when they meet a little girl who is upset but cannot think of a wish to make her happy.\",\"popularity\":5.396,\"poster_path\":\"\/sSWuSfhONl2IYAuog4zPIOoicEQ.jpg\",\"production_companies\":[{\"id\":1353,\"logo_path\":\"\/yXhCcOFK5Fy3ZBQwhBYx8Zu9ZIw.png\",\"name\":\"Hanna-Barbera Productions\",\"origin_country\":\"US\"},{\"id\":74080,\"logo_path\":null,\"name\":\"Tonka\",\"origin_country\":\"\"},{\"id\":45013,\"logo_path\":null,\"name\":\"Cuckoo\u2019s Nest Films\",\"origin_country\":\"\"},{\"id\":10859,\"logo_path\":\"\/5Mw5XzCTSKYjMqi54kPf3BpiQFr.png\",\"name\":\"Wang Film Productions\",\"origin_country\":\"TW\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-10-08\",\"revenue\":0,\"runtime\":37,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Make your wishes come true.\",\"title\":\"Star Fairies\",\"video\":false,\"vote_average\":8.6,\"vote_count\":5}"
+}

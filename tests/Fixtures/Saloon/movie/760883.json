@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1401",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9937",
+        "x-memc": "HIT",
+        "x-memc-key": "f9ac0463568e7fc5771d01ccfee5d27f",
+        "x-memc-age": "11822",
+        "x-memc-expires": "9937",
+        "ETag": "W\/\"f38fa40d5ad99f93f9deaa31e0a4a838\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "87CNlYcAW_TqnoORcXcm-kxXWAmQRTHu4kZqz1bJdJ1XTPtM7pQGPQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oisfyausZuNUeKOafx8nxaSdIuB.jpg\",\"belongs_to_collection\":null,\"budget\":17739525,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.netflix.com\/BloodRedSky\",\"id\":760883,\"imdb_id\":\"tt6402468\",\"origin_country\":[\"DE\",\"GB\"],\"original_language\":\"de\",\"original_title\":\"Blood Red Sky\",\"overview\":\"A woman with a mysterious illness is forced into action when a group of terrorists attempt to hijack a transatlantic overnight flight. In order to protect her son she will have to reveal a dark secret, and unleash the inner monster she has fought to hide.\",\"popularity\":33.644,\"poster_path\":\"\/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg\",\"production_companies\":[{\"id\":5754,\"logo_path\":\"\/lYPqogOigbGMmErpSBBn2SnVypQ.png\",\"name\":\"Rat Pack Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":146397,\"logo_path\":null,\"name\":\"Sirena Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2021-07-23\",\"revenue\":0,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Blood Red Sky\",\"video\":false,\"vote_average\":6.878,\"vote_count\":1490}"
+}

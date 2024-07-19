@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1198",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15074",
+        "x-memc": "HIT",
+        "x-memc-key": "fc78464b54e856733bb3a3c76859eea2",
+        "x-memc-age": "7015",
+        "x-memc-expires": "15074",
+        "ETag": "W\/\"daad6857758dd89175d3b46173a6df7d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GBInUBRPPhzEw_ZXbleDJaNfKfSHrsmJcJjlJ-O_x3Z4wl56pV9QDA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6WQJMV2cV6c9Q4kZEVAIB571aDI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1245080,\"imdb_id\":\"tt3712038\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hyde\",\"overview\":\"Based on the classic novella by Robert Louis Stevenson, \\\"Hyde\\\" tells the story of successful defense attorney Edward Hyde, who has the perfect family to go along with his perfect job...even though he finds himself struggling to balance the two at times. Once a horrible tragedy strikes, Edward begins to go down a dark path that leads him to spiral out of control...transforming into something else entirely.\",\"popularity\":9.173,\"poster_path\":\"\/fdSs2QMCF1JP8SVj8QcAHncUyNT.jpg\",\"production_companies\":[{\"id\":214778,\"logo_path\":null,\"name\":\"Studio 29 Films\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2025-03-28\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"Call Evil By Its Real Name\",\"title\":\"Hyde\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

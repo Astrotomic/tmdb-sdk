@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1031",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25130",
+        "x-memc": "HIT",
+        "x-memc-key": "febee409337e331c8a1fc3e0682b78c5",
+        "x-memc-age": "3569",
+        "x-memc-expires": "25130",
+        "ETag": "W\/\"f3a2d85b6c59d6c4537d48efabe5a961\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F9u5mci44mpvWIqh8JRtaKHuwqD9hF_3iesAbiEOVMsIL1_C1UaboA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iDLtDgxLiYsarfdQ4msUhUqoNPp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/inspired-pictures.co.uk\/films\/solitary\",\"id\":725273,\"imdb_id\":\"tt11266868\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Solitary\",\"overview\":\"A man wakes up inside a room to discover he's a prisoner sent into space to form Earth's first colony, and worse - his cell mate Alana is hell bent on destroying everything.\",\"popularity\":19.27,\"poster_path\":\"\/ApwmbrMlsuOay5rXQA4Kbz7qJAl.jpg\",\"production_companies\":[{\"id\":139417,\"logo_path\":null,\"name\":\"Inspired Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2020-08-31\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The greatest punishment imaginable.\",\"title\":\"Solitary\",\"video\":false,\"vote_average\":5.162,\"vote_count\":111}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1651",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12262",
+        "x-memc": "HIT",
+        "x-memc-key": "0543a33acd03f00e5aa1058c8b5e782e",
+        "x-memc-age": "10705",
+        "x-memc-expires": "12262",
+        "ETag": "W\/\"6398d017cbafd1c4c11fcacbef4d90cd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OsFIw5EMh2wpQXV0muier2UCuaLCS1ziGtGhjU8-paLgV-quWNOX-Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s8xrgq9lIv2w7LXn13PAQ05c54v.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":28000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/for-your-eyes-only\",\"id\":699,\"imdb_id\":\"tt0082398\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"For Your Eyes Only\",\"overview\":\"A British spy ship has sunk and on board was a hi-tech encryption device. James Bond is sent to find the device that holds British launching instructions before the enemy Soviets get to it first.\",\"popularity\":32.894,\"poster_path\":\"\/iU1cKkQOPLCbGJRnuKnpSaRJPJt.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"},{\"id\":10761,\"logo_path\":null,\"name\":\"Danjaq\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-06-24\",\"revenue\":187412802,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"No one comes close to James Bond, 007.\",\"title\":\"For Your Eyes Only\",\"video\":false,\"vote_average\":6.518,\"vote_count\":1787}"
+}

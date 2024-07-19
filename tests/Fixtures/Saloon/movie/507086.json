@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1543",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15732",
+        "x-memc": "HIT",
+        "x-memc-key": "4f21fca812ee45851221d1ea51258404",
+        "x-memc-age": "11827",
+        "x-memc-expires": "15732",
+        "ETag": "W\/\"feea8f0ef175eb689cd170bf86fb1644\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SZP_Aw4eAOMZwtULXpiRfPL92r7V-2ozJ2DcvEjcoSD2Z1mGrhL-Sw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/698FjyzLdpgXmUSr63LaRwblTmx.jpg\",\"belongs_to_collection\":{\"id\":328,\"name\":\"Jurassic Park Collection\",\"poster_path\":\"\/jcUXVtJ6s0NG0EaxllQCAUtqdr0.jpg\",\"backdrop_path\":\"\/njFixYzIxX8jsn6KMSEtAzi4avi.jpg\"},\"budget\":165000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.jurassicworld.com\",\"id\":507086,\"imdb_id\":\"tt8041270\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jurassic World Dominion\",\"overview\":\"Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators ona planet they now share with history's most fearsome creatures.\",\"popularity\":144.79,\"poster_path\":\"\/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-06-01\",\"revenue\":1001978080,\"runtime\":147,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The epic conclusion of the Jurassic era.\",\"title\":\"Jurassic World Dominion\",\"video\":false,\"vote_average\":6.708,\"vote_count\":5864}"
+}

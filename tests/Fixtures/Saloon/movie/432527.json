@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1222",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=452",
+        "x-memc": "HIT",
+        "x-memc-key": "ca8ae9938e8d8b5be0f8d50ad75dd3b3",
+        "x-memc-age": "23930",
+        "x-memc-expires": "452",
+        "ETag": "W\/\"0512977bc0d54021b65fdd84821dd728\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jGqwTiH0HZSOB8Qnn7RQNxUOHjQ5gzTqqglEWRVT3FA7yffaz5IwPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/50reJgWrWTXK3fvGh8idw71gxAO.jpg\",\"belongs_to_collection\":null,\"budget\":31000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":432527,\"imdb_id\":\"tt5935704\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u092a\u0926\u094d\u092e\u093e\u0935\u0924\",\"overview\":\"Rajputana, India, 13th century. The tyrannical usurper Alauddin Khilji, sultan of Delhi, becomes obsessed with Queen Padmavati, wife of King Ratan Singh of Mewar, and goes to great lengths to satisfy his greed for her.\",\"popularity\":42.801,\"poster_path\":\"\/qrvHfnVbx2FLCB5lfhOPnSzg6mS.jpg\",\"production_companies\":[{\"id\":95250,\"logo_path\":\"\/wfq2y8bNyrSRJ04mnioX7QrAKH.png\",\"name\":\"Bhansali Productions\",\"origin_country\":\"IN\"},{\"id\":6808,\"logo_path\":\"\/xa1Yz7B5eRC2F9oHA6mDn8NE6ci.png\",\"name\":\"Viacom18 Studios\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2018-01-25\",\"revenue\":81673897,\"runtime\":163,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"The Goddess Queen\",\"title\":\"Padmaavat\",\"video\":false,\"vote_average\":6.929,\"vote_count\":261}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1256",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18291",
+        "x-memc": "HIT",
+        "x-memc-key": "36563c782419b3e956c13de0c170bd74",
+        "x-memc-age": "9788",
+        "x-memc-expires": "18291",
+        "ETag": "W\/\"6a780027eb3dd9b2d0e99bcaa9199aae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kqYzPrlQBIR3RibZfANRq4tI_U2PHWpX_JQlNpWcbXc5jGdnrnGwJA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i8bah81oSH8k5d0RUxGNgSLmOhV.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10978,\"imdb_id\":\"tt0269389\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Jalla! Jalla!\",\"overview\":\"Roro, a foreign worker in Swedish parks, loves his girlfriend but is about to marry another girl to prevent her from being sent back to Lebanon. Meanwhile, Roro's best friend, M\u00e5ns, has serious problems getting an erection.\",\"popularity\":11.115,\"poster_path\":\"\/nwx3W0NAv7OOgODBoYHh62yaKDs.jpg\",\"production_companies\":[{\"id\":321,\"logo_path\":\"\/pfp6VWF3tYfOHHVRHpYe2iGcYrf.png\",\"name\":\"Memfis Film\",\"origin_country\":\"SE\"},{\"id\":2801,\"logo_path\":\"\/bswb1PLLsKDUXMLgy42bZtCtIde.png\",\"name\":\"Film i V\u00e4st\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2000-12-22\",\"revenue\":871351,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"Love, Friendships... and Penispumps?!\",\"title\":\"The Best Man's Wedding\",\"video\":false,\"vote_average\":6.274,\"vote_count\":113}"
+}

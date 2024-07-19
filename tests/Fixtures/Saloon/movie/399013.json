@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1292",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2933",
+        "x-memc": "HIT",
+        "x-memc-key": "e7104bd2110232b4678b6114048784cc",
+        "x-memc-age": "23568",
+        "x-memc-expires": "2933",
+        "ETag": "W\/\"ba9d913b596a4fb885f96f32d5bebce8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WDuZLQVyeA3W5BjY4MOAvFBLhju9_beIJrC6jBk_iWmzdz3njnrH8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dvBc39gCBHb1HBdDx6mGTn31O5U.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":399013,\"imdb_id\":\"tt0105870\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u591c\u591c\u4f34\u80a5\u5b0c\",\"overview\":\"Two mismatched Hong Kong police detectives, Yau and Yue, were assigned to work undercover as a live-in couple to track down a serial killer accused of murdering adulterers. In the meantime, Yau (Anthony Chan) is coping with his girlfriend having left him, and Yue (Sandra Ng) is losing her boyfriend to a college girlfriend of his.\",\"popularity\":8.094,\"poster_path\":\"\/oUa1qclopdLMtVr5JmealDgyJIl.jpg\",\"production_companies\":[{\"id\":39985,\"logo_path\":null,\"name\":\"Golden Harvest Productions\",\"origin_country\":\"HK\"},{\"id\":129899,\"logo_path\":null,\"name\":\"\u5609\u79be\u7535\u5f71\u6709\u9650\u516c\u53f8\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1992-01-23\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Changing Partner\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

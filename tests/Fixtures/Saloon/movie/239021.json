@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "965",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26371",
+        "x-memc": "HIT",
+        "x-memc-key": "fdb574f68310c55b7781e79a7e3952d2",
+        "x-memc-age": "1994",
+        "x-memc-expires": "26371",
+        "ETag": "W\/\"0547005c62591899b7f9ed2d35ef3560\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7NtzYuFZ6A0-MuArbVsnV0mOvXjjAfoQmi-QHWkQphIvnXLne5VRcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e2Z6Ud0J7rxEQ9909mvDvBHMjp1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/veramovie.com\",\"id\":239021,\"imdb_id\":\"tt2848082\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Vera\",\"overview\":\"VERA is a sci-fi drama short film that focuses on an astronaut who is stranded alone in space and is now headed on a collision course with the Sun. Adam struggles with isolation and his sanity on the ship while dealing with emotions from his past and future.\",\"popularity\":2.244,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-04-14\",\"revenue\":0,\"runtime\":24,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Vera\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

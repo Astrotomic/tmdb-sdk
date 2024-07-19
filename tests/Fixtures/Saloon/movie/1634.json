@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1571",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27688",
+        "x-memc": "HIT",
+        "x-memc-key": "dee10f329859e2a6ddb5938b106f3301",
+        "x-memc-age": "579",
+        "x-memc-expires": "27688",
+        "ETag": "W\/\"aa3cf8954b63fbcf2e3b1c10178b13b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "avhG5lHq9brmhqz9j52wr9gKJH3sfHvTlZc4gyPTbGETLp751s8NVA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z2oqTYqFZys9YkAseiUd18Gqqto.jpg\",\"belongs_to_collection\":{\"id\":9328,\"name\":\"Free Willy Collection\",\"poster_path\":\"\/j7KmO3WHi33kIrihI4xASYHPOMV.jpg\",\"backdrop_path\":\"\/jiqnYb2NQyytVBuXiOk5sFefqr5.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1634,\"imdb_id\":\"tt0106965\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Free Willy\",\"overview\":\"When maladjusted orphan Jesse vandalizes a theme park, he is placed with foster parents and must work at the park to make amends. There he meets Willy, a young Orca whale who has been separated from his family. Sensing kinship, they form a bond and, with the help of kindly whale trainer Rae Lindley, develop a routine of tricks. However, greedy park owner Dial soon catches wind of the duo and makes plans to profit from them.\",\"popularity\":42.258,\"poster_path\":\"\/9iBgd9gi9ztWiVcYSG6zl8wDFBN.jpg\",\"production_companies\":[{\"id\":5739,\"logo_path\":null,\"name\":\"Donner\/Shuler-Donner Productions\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-07-16\",\"revenue\":153698625,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"How far would you go for a friend?\",\"title\":\"Free Willy\",\"video\":false,\"vote_average\":6.172,\"vote_count\":1775}"
+}

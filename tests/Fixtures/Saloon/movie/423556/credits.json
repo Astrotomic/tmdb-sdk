@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1666",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7084",
+        "x-memc": "HIT",
+        "x-memc-key": "8b648b97a7b6cbc3522a573168767a02",
+        "x-memc-age": "18186",
+        "x-memc-expires": "7084",
+        "ETag": "W\/\"e47cc82b26466b03becb5edc422a6eb7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oRe3BRc_InN1Fufm8XA2bCWv0lB-nxGASCoXkMzWzrVEu5oqRfS2qA=="
+    },
+    "data": "{\"id\":423556,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":77929,\"known_for_department\":\"Acting\",\"name\":\"Fran\u00e7ois Morel\",\"original_name\":\"Fran\u00e7ois Morel\",\"popularity\":4.649,\"profile_path\":\"\/xJ8JZWArjfEscZFjbCbBSWJNKOS.jpg\",\"cast_id\":0,\"character\":\"\",\"credit_id\":\"581685b9c3a36875f60122b6\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":235494,\"known_for_department\":\"Acting\",\"name\":\"Olivier Saladin\",\"original_name\":\"Olivier Saladin\",\"popularity\":7.183,\"profile_path\":\"\/r6244EMLjdwb72psdX6OfsepSJI.jpg\",\"cast_id\":1,\"character\":\"\",\"credit_id\":\"581685c3c3a3686db4011816\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":24421,\"known_for_department\":\"Acting\",\"name\":\"Jean Rochefort\",\"original_name\":\"Jean Rochefort\",\"popularity\":12.026,\"profile_path\":\"\/wyvdO0ih9mwLE3UHCy8GudqnKTK.jpg\",\"cast_id\":2,\"character\":\"Voix\",\"credit_id\":\"581685d4c3a36875f60122ca\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":77929,\"known_for_department\":\"Acting\",\"name\":\"Fran\u00e7ois Morel\",\"original_name\":\"Fran\u00e7ois Morel\",\"popularity\":4.649,\"profile_path\":\"\/xJ8JZWArjfEscZFjbCbBSWJNKOS.jpg\",\"credit_id\":\"5816860fc3a36876690131fe\",\"department\":\"Writing\",\"job\":\"Author\"},{\"adult\":false,\"gender\":2,\"id\":77929,\"known_for_department\":\"Acting\",\"name\":\"Fran\u00e7ois Morel\",\"original_name\":\"Fran\u00e7ois Morel\",\"popularity\":4.649,\"profile_path\":\"\/xJ8JZWArjfEscZFjbCbBSWJNKOS.jpg\",\"credit_id\":\"581686209251415d340119e1\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1701854,\"known_for_department\":\"Lighting\",\"name\":\"Alain Paradis\",\"original_name\":\"Alain Paradis\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"58168656c3a3687557010736\",\"department\":\"Lighting\",\"job\":\"Lighting Artist\"}]}"
+}

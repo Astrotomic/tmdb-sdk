@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1418",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18499",
+        "x-memc": "HIT",
+        "x-memc-key": "b5ebe92c1a4225408ddd78635b29d03b",
+        "x-memc-age": "8488",
+        "x-memc-expires": "18499",
+        "ETag": "W\/\"9d3f9567d5ed7994d2bfb322d9ab4ea2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HSIht2B_5trFT1y6toB4giSh_hg0Cv43lDS1kArahiTFmdMuJyo5Tw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ipNzUVfnIW4igmGNoDQsTfOnCb8.jpg\",\"belongs_to_collection\":{\"id\":123726,\"name\":\"Quatermass (Hammer series)\",\"poster_path\":\"\/oqXab8eW30UasgSO46iTmyjoYac.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":24580,\"imdb_id\":\"tt0049646\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Quatermass Xperiment\",\"overview\":\"The first manned spacecraft, fired from an English launchpad, is first lost from radar, then roars back to Earth and crashes in a farmer's field, and is found to contain only one of the three men who took off in it; and he is unable to talk but appears to be undergoing a torturous physical and mental metamorphosis.\",\"popularity\":11.369,\"poster_path\":\"\/lm6cQiUjJ0AUUqESI9WWM7veIbp.jpg\",\"production_companies\":[{\"id\":1314,\"logo_path\":\"\/gQBluDqe6dc2ZdzfJbabEHoSGoG.png\",\"name\":\"Hammer Film Productions\",\"origin_country\":\"GB\"},{\"id\":13920,\"logo_path\":null,\"name\":\"Exclusive Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1955-08-26\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You Can't Escape It!\",\"title\":\"The Quatermass Xperiment\",\"video\":false,\"vote_average\":6.6,\"vote_count\":180}"
+}

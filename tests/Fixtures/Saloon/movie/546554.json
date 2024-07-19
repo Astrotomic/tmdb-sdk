@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1714",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9933",
+        "x-memc": "HIT",
+        "x-memc-key": "bdfc6de5d4ed9c73ed0d2654960dc3fc",
+        "x-memc-age": "13204",
+        "x-memc-expires": "9933",
+        "ETag": "W\/\"8d3659f951a0ff3dcc6701147ff8a560\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BvAeIIGNIzLv_1VWZTKeoZiWl2Q3S-9xTsYd74nwzQ5gXywEIFzXTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4HWAQu28e2yaWrtupFPGFkdNU7V.jpg\",\"belongs_to_collection\":{\"id\":722971,\"name\":\"Knives Out Collection\",\"poster_path\":\"\/hAEATQo1enoasXMuSbeqw67E7N2.jpg\",\"backdrop_path\":\"\/G7qYINSq5xyDd0I0zn3DpAssA0.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/knives-out\",\"id\":546554,\"imdb_id\":\"tt8946378\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Knives Out\",\"overview\":\"When renowned crime novelist Harlan Thrombey is found dead at his estate just after his 85th birthday, the inquisitive and debonair Detective Benoit Blanc is mysteriously enlisted to investigate. From Harlan's dysfunctional family to his devoted staff, Blanc sifts through a web of red herrings and self-serving lies to uncover the truth behind Harlan's untimely death.\",\"popularity\":81.533,\"poster_path\":\"\/pThyQovXQrw2m0s9x82twj48Jq4.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":2531,\"logo_path\":\"\/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png\",\"name\":\"MRC\",\"origin_country\":\"US\"},{\"id\":37871,\"logo_path\":\"\/aUOo1S2AabqQnRrXK6XuObWPDyK.png\",\"name\":\"T-Street\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-11-27\",\"revenue\":312897920,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Hell, any of them could have done it.\",\"title\":\"Knives Out\",\"video\":false,\"vote_average\":7.849,\"vote_count\":12027}"
+}

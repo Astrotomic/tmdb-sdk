@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "268",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:26:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15754",
+        "x-memc": "HIT",
+        "x-memc-key": "6c3ea805b048f7539bd8c68761888e11",
+        "x-memc-age": "6091",
+        "x-memc-expires": "15754",
+        "ETag": "W\/\"788b4ad8b0cb5dcbf1b44d2ccf8f8c9d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZNkfhiKs5E41yS4ws29wu0LzEf01vxeCB7EyOHCzcb5EL-1CpzNbXg=="
+    },
+    "data": "{\"id\":858038,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":556913,\"known_for_department\":\"Directing\",\"name\":\"Don Jones\",\"original_name\":\"Don Jones\",\"popularity\":1.68,\"profile_path\":null,\"credit_id\":\"610adbd72ea6b900463b6f7b\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

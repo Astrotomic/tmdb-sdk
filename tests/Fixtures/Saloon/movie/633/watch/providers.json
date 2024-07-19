@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "919",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:47:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20950",
+        "x-memc": "HIT",
+        "x-memc-key": "11b4054e561db98c32eece55a0413c5b",
+        "x-memc-age": "3669",
+        "x-memc-expires": "20950",
+        "ETag": "W\/\"2e0fb4a5659c2face6d986166f817e4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uqPjN0OJgBUFIZDHnjMu7kP969mXuWw8M8IVLvyYo7CJRlwJDol0pA=="
+    },
+    "data": "{\"id\":633,\"results\":{\"DK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/633-soldaat-van-oranje\/watch?locale=DK\",\"rent\":[{\"logo_path\":\"\/auWzottqpExOHUlJwDZ4DvdHGoL.jpg\",\"provider_id\":423,\"provider_name\":\"Blockbuster\",\"display_priority\":17}],\"buy\":[{\"logo_path\":\"\/auWzottqpExOHUlJwDZ4DvdHGoL.jpg\",\"provider_id\":423,\"provider_name\":\"Blockbuster\",\"display_priority\":17}]},\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/633-soldaat-van-oranje\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/633-soldaat-van-oranje\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]}}}"
+}

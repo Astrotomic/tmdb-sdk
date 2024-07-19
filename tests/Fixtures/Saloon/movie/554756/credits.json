@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1683",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15106",
+        "x-memc": "HIT",
+        "x-memc-key": "15ecdcd5f65cda5bdc9c64dd052f12a0",
+        "x-memc-age": "12947",
+        "x-memc-expires": "15106",
+        "ETag": "W\/\"250d660872a112e979c96b677c9dcf23\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UogpXHAXMyXY4EVc4hOkIdcs7nceO5ELu6E7sI4XvocZgKvy_87TQA=="
+    },
+    "data": "{\"id\":554756,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1718762,\"known_for_department\":\"Acting\",\"name\":\"Francisco De La Reguera\",\"original_name\":\"Francisco De La Reguera\",\"popularity\":2.521,\"profile_path\":\"\/brlUS39hVhZELtSNpV6jUXaHSzf.jpg\",\"cast_id\":0,\"character\":\"David\",\"credit_id\":\"5bc8162f0e0a26362e00fbe7\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1198613,\"known_for_department\":\"Acting\",\"name\":\"Danae Reynaud\",\"original_name\":\"Danae Reynaud\",\"popularity\":7.144,\"profile_path\":\"\/yIX3mmbpznvz9GXWPmTLqNdOOO8.jpg\",\"cast_id\":1,\"character\":\"Luc\u00eda\",\"credit_id\":\"5bc8163e9251417310002dca\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2153325,\"known_for_department\":\"Directing\",\"name\":\"Rafael Mart\u00ednez Garc\u00eda\",\"original_name\":\"Rafael Mart\u00ednez Garc\u00eda\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5bc8165c0e0a26363e00f6e6\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2153325,\"known_for_department\":\"Directing\",\"name\":\"Rafael Mart\u00ednez Garc\u00eda\",\"original_name\":\"Rafael Mart\u00ednez Garc\u00eda\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5bc81670c3a36829da00f064\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3948628,\"known_for_department\":\"Editing\",\"name\":\"Montserratt M\u00e1rquez\",\"original_name\":\"Montserratt M\u00e1rquez\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6404983f383df200801f9ab4\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":2754893,\"known_for_department\":\"Camera\",\"name\":\"C\u00e9sar Rinc\u00f3n Jim\u00e9nez\",\"original_name\":\"C\u00e9sar Rinc\u00f3n Jim\u00e9nez\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"64049846383df200a9552899\",\"department\":\"Camera\",\"job\":\"Director of Photography\"}]}"
+}

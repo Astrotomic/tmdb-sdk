@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1180",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8419",
+        "x-memc": "HIT",
+        "x-memc-key": "5cef3c90e97c89e43a54a38c3a83d4a4",
+        "x-memc-age": "19837",
+        "x-memc-expires": "8419",
+        "ETag": "W\/\"f48e3e2fa3e59279edf4bafd2db5d1e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0klu4RzZAyqMGv5k6gpvMfm2lsISkDbaurnDViz6oIVo9sTbjI8e6w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":667257,\"imdb_id\":\"tt10032342\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Cosas imposibles\",\"overview\":\"After the death of her abusive husband, Matilde finds her new best friend in Miguel, her young, insecure, and disoriented neighbor.\",\"popularity\":18.207,\"poster_path\":\"\/t2Ew8NZ8Ci2kqmoecZUNQUFDJnQ.jpg\",\"production_companies\":[{\"id\":96929,\"logo_path\":null,\"name\":\"Agencia SHA\",\"origin_country\":\"\"},{\"id\":12487,\"logo_path\":\"\/wUKVwhE1CWpgwNcL5x88zcWjJMI.png\",\"name\":\"Alebrije Producciones\",\"origin_country\":\"MX\"},{\"id\":7570,\"logo_path\":\"\/gW8dfVtl1JsGIiLnvglea1OHHVr.png\",\"name\":\"Videocine\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2021-06-17\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"There are encounters that change your life\",\"title\":\"Impossible Things\",\"video\":false,\"vote_average\":8.459,\"vote_count\":379}"
+}

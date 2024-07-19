@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "892",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17239",
+        "x-memc": "HIT",
+        "x-memc-key": "c0051fd082fc4e68ff74a29698185ad8",
+        "x-memc-age": "4486",
+        "x-memc-expires": "17239",
+        "ETag": "W\/\"c8e2d70961c0d72cea523898a3910799\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 0d78cc90106520d13c1b5c5b16dd8246.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OaeCJqiHOtCVqmegi9XWBy1ThOk2HrxAXUnuht3mfd0YLprdceQLtw=="
+    },
+    "data": "{\"id\":564835,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/564835-finding-fukue\/watch?locale=CA\",\"free\":[{\"logo_path\":\"\/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg\",\"provider_id\":538,\"provider_name\":\"Plex\",\"display_priority\":87}],\"ads\":[{\"logo_path\":\"\/2fkcDlmwbRkApLWicbysPGcFpji.jpg\",\"provider_id\":314,\"provider_name\":\"CBC Gem\",\"display_priority\":44}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/564835-finding-fukue\/watch?locale=GB\",\"free\":[{\"logo_path\":\"\/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg\",\"provider_id\":538,\"provider_name\":\"Plex\",\"display_priority\":49}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/564835-finding-fukue\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/vLZKlXUNDcZR7ilvfY9Wr9k80FZ.jpg\",\"provider_id\":538,\"provider_name\":\"Plex\",\"display_priority\":155},{\"logo_path\":\"\/27WMfRN7pQE3j5Khm8fPM7vYyLV.jpg\",\"provider_id\":2077,\"provider_name\":\"Plex Channel\",\"display_priority\":156}]}}}"
+}

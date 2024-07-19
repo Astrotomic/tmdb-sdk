@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:43:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6277",
+        "x-memc": "HIT",
+        "x-memc-key": "2cc2beb1e7c8d1be854e1e9838a65e68",
+        "x-memc-age": "21753",
+        "x-memc-expires": "6277",
+        "ETag": "W\/\"6618e0caf05f0c6746fe742704d1d35e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KICs9RiA2ii2ZW0a6Mj4KuS_E-0H0Uy6p3xKA484SmoJv0eNd1W8QQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jn52me8AagfNt7r84SgQbV0R9ZG.jpg\",\"belongs_to_collection\":{\"id\":10,\"name\":\"Star Wars Collection\",\"poster_path\":\"\/22dj38IckjzEEUZwN1tPU5VJ1qq.jpg\",\"backdrop_path\":\"\/zZDkgOmFMVYpGAkR9Tkxw0CRnxX.jpg\"},\"budget\":250000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.starwars.com\/films\/star-wars-episode-ix-the-rise-of-skywalker\",\"id\":181812,\"imdb_id\":\"tt2527338\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Wars: The Rise of Skywalker\",\"overview\":\"The surviving Resistance faces the First Order once again as the journey of Rey, Finn and Poe Dameron continues. With the power and knowledge of generations behind them, the final battle begins.\",\"popularity\":77.51,\"poster_path\":\"\/db32LaOibwEliAmSL2jjDF6oDdj.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"},{\"id\":11461,\"logo_path\":\"\/p9FoEt5shEKRWRKVIlvFaEmRnun.png\",\"name\":\"Bad Robot\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-12-18\",\"revenue\":1074144248,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The saga will end. The story lives forever.\",\"title\":\"Star Wars: The Rise of Skywalker\",\"video\":false,\"vote_average\":6.332,\"vote_count\":9643}"
+}

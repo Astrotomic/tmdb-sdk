@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1817",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=337",
+        "x-memc": "HIT",
+        "x-memc-key": "7ce266679bd001c1984d83d6dad0d5d0",
+        "x-memc-age": "27945",
+        "x-memc-expires": "337",
+        "ETag": "W\/\"50bd18c152e0d5f3d0152e509ad047a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rCINV8kevXq0CxzUGo2XhyyrocwAQROd4XhSQEYKe7pEbmWG1lmAAg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zvNMZl0l2qYq0x0ntq8sILiIpLw.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":9040,\"imdb_id\":\"tt0070666\",\"origin_country\":[\"US\",\"IT\"],\"original_language\":\"en\",\"original_title\":\"Serpico\",\"overview\":\"Frank Serpico is an idealistic New York City cop who refuses to take bribes, unlike the rest of the force. His actions get Frank shunned by the other officers, and often placed in dangerous situations by his partners. When his superiors ignore Frank's accusations of corruption, he decides to go public with the allegations. Although this causes the Knapp Commission to investigate his claims, Frank has also placed a target on himself.\",\"popularity\":34.758,\"poster_path\":\"\/pRagfd10PPWryFRSzLPIivfAXHJ.jpg\",\"production_companies\":[{\"id\":612,\"logo_path\":null,\"name\":\"Artists Entertainment Complex\",\"origin_country\":\"\"},{\"id\":21640,\"logo_path\":null,\"name\":\"Produzioni De Laurentiis - International Manufacturing Company\",\"origin_country\":\"IT\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":10308,\"logo_path\":\"\/pOHLwTFBPtPnz8BWP8T4w3UCTEB.png\",\"name\":\"Dino De Laurentiis Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1973-12-18\",\"revenue\":29800000,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Many of his fellow officers considered him the most dangerous man alive - An honest cop.\",\"title\":\"Serpico\",\"video\":false,\"vote_average\":7.539,\"vote_count\":1854}"
+}

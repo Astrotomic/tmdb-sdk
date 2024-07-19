@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1313",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16523",
+        "x-memc": "HIT",
+        "x-memc-key": "c86f3375ca7443db585655b26beb7ae7",
+        "x-memc-age": "7370",
+        "x-memc-expires": "16523",
+        "ETag": "W\/\"8b047792843a67613095e4013f7999e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "64BJwPVXvWbM6R7FH5wSIULKUaZBPFVGZGuMKMBV0Jk7TKz-l2RksQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/FzjWIXu3n714sYxQHq3TPEWz16.jpg\",\"belongs_to_collection\":{\"id\":583555,\"name\":\"Trinity Collection\",\"poster_path\":\"\/8C9OZdEAgxNyqsZRqxyoIrD86vv.jpg\",\"backdrop_path\":\"\/FzjWIXu3n714sYxQHq3TPEWz16.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":9394,\"imdb_id\":\"tt0067355\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Lo chiamavano Trinit\u00e0...\",\"overview\":\"The simple story has the pair coming to the rescue of peace-loving Mormons when land-hungry Major Harriman sends his bullies to harass them into giving up their fertile valley. Trinity and Bambino manage to save the Mormons and send the bad guys packing with slapstick humor instead of excessive violence, saving the day.\",\"popularity\":33.084,\"poster_path\":\"\/qY7iV4BJD5IXJU4iXlcZxKN8s9w.jpg\",\"production_companies\":[{\"id\":4241,\"logo_path\":null,\"name\":\"West Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1970-12-22\",\"revenue\":0,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Look out! Here comes Trinity...\",\"title\":\"They Call Me Trinity\",\"video\":false,\"vote_average\":7.6,\"vote_count\":1270}"
+}

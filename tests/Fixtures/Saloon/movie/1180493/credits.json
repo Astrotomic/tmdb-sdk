@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "591",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17280",
+        "x-memc": "HIT",
+        "x-memc-key": "24f9d86381577242ad64cff502d02fc0",
+        "x-memc-age": "6222",
+        "x-memc-expires": "17280",
+        "ETag": "W\/\"31f5e7427b824f22594413c6bebee340\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-tut7LiTMwFdSNAhbuPEOIGHrxFYCthEvN_3t6zodceOz_Y7A2A0SQ=="
+    },
+    "data": "{\"id\":1180493,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1061561,\"known_for_department\":\"Directing\",\"name\":\"Mark Cousins\",\"original_name\":\"Mark Cousins\",\"popularity\":4.438,\"profile_path\":\"\/f5B9kcpJXLETRYwRZJmvKmiWfLu.jpg\",\"cast_id\":1,\"character\":\"Narrator\",\"credit_id\":\"6508f45142d8a501389b7488\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1061561,\"known_for_department\":\"Directing\",\"name\":\"Mark Cousins\",\"original_name\":\"Mark Cousins\",\"popularity\":4.438,\"profile_path\":\"\/f5B9kcpJXLETRYwRZJmvKmiWfLu.jpg\",\"credit_id\":\"6508f466fa27f4014eb29f85\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

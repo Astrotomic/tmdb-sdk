@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "582",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:48:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5140",
+        "x-memc": "HIT",
+        "x-memc-key": "5d91ebfc1d3257b29202bdc39414f0c3",
+        "x-memc-age": "22350",
+        "x-memc-expires": "5140",
+        "ETag": "W\/\"10912bce9a43f907724249a5106a32d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wcI7KpXS3XPZNjZ47SKLP7ApidVvjqFf796SWEjTX-Xq6vy2MEMQ8g=="
+    },
+    "data": "{\"id\":5890,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/5890-2-death-or-love\/watch?locale=BR\",\"ads\":[{\"logo_path\":\"\/oJRCAz1WKkKM9Ge7mX5KFnegTNY.jpg\",\"provider_id\":1875,\"provider_name\":\"Runtime\",\"display_priority\":68}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/5890-2-death-or-love\/watch?locale=KR\",\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]}}}"
+}

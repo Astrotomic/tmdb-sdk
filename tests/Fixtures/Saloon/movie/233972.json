@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "728",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=510",
+        "x-memc": "HIT",
+        "x-memc-key": "5e7dbde75e8442fa385fb0c9a00d6ed0",
+        "x-memc-age": "23053",
+        "x-memc-expires": "510",
+        "ETag": "W\/\"e28e77fed5b96ef4c5d8cf02ddc937b3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b1bHToJrCHqbY1IHPOpCZ3sWKGQiSavCfJWEJm-PG9B9KxBGXKgrDA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":233972,\"imdb_id\":\"tt0261436\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Yamekraw\",\"overview\":\"In a wordless story with semi-surreal stage sets, a poor black man ventures from his ramshackle rural home to the big city, where a dancing girl in a dive two-times him. He returns to his home and wife's arms.\",\"popularity\":0.808,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"1930-06-09\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Yamekraw\",\"video\":false,\"vote_average\":6.0,\"vote_count\":2}"
+}

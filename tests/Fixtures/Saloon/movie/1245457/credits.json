@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2117",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5097",
+        "x-memc": "HIT",
+        "x-memc-key": "bef8f1608ff3f1748105fb2f9d626678",
+        "x-memc-age": "17182",
+        "x-memc-expires": "5097",
+        "ETag": "W\/\"40eb7768ed89b2af95fd17e6086ab65f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ihirsWE58s9NFv8TFkFlHpSpVlAfY-ZMw7LlzQJ4rJw8YbvPL_LlkQ=="
+    },
+    "data": "{\"id\":1245457,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4538549,\"known_for_department\":\"Acting\",\"name\":\"Jacopo Servettini\",\"original_name\":\"Jacopo Servettini\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"65ce9d67f48e0d018584136e\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4538550,\"known_for_department\":\"Directing\",\"name\":\"Nikolaj Servettini\",\"original_name\":\"Nikolaj Servettini\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9d9df48e0d0185841399\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4538551,\"known_for_department\":\"Camera\",\"name\":\"Emanuele Palladino\",\"original_name\":\"Emanuele Palladino\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9db0e942ee017d27c22f\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":0,\"id\":4538550,\"known_for_department\":\"Directing\",\"name\":\"Nikolaj Servettini\",\"original_name\":\"Nikolaj Servettini\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9dc2d34eb3014c2bad8e\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":4538551,\"known_for_department\":\"Camera\",\"name\":\"Emanuele Palladino\",\"original_name\":\"Emanuele Palladino\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9dd7f48e0d01858413b2\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":4538550,\"known_for_department\":\"Directing\",\"name\":\"Nikolaj Servettini\",\"original_name\":\"Nikolaj Servettini\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9dea79a1c301885690e0\",\"department\":\"Costume \\u0026 Make-Up\",\"job\":\"Makeup Artist\"},{\"adult\":false,\"gender\":0,\"id\":4538550,\"known_for_department\":\"Directing\",\"name\":\"Nikolaj Servettini\",\"original_name\":\"Nikolaj Servettini\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9dfc5cea18017be07fd3\",\"department\":\"Writing\",\"job\":\"Storyboard\"},{\"adult\":false,\"gender\":0,\"id\":4538551,\"known_for_department\":\"Camera\",\"name\":\"Emanuele Palladino\",\"original_name\":\"Emanuele Palladino\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65ce9e0f5cea18017be07fe3\",\"department\":\"Sound\",\"job\":\"Sound Designer\"}]}"
+}

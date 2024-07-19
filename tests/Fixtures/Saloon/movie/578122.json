@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1524",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16462",
+        "x-memc": "HIT",
+        "x-memc-key": "c04896eb0965b034670228fb46184149",
+        "x-memc-age": "11615",
+        "x-memc-expires": "16462",
+        "ETag": "W\/\"83c2ea5ec12cb49b2756cba4fcb8ae0b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "e5oZr2z3TYwyEln6tZyJjrwF_lcy486OTOfbFrkb7JzORvUw1CWwzA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":578122,\"imdb_id\":\"tt9290986\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Infinity Project\",\"overview\":\"When the American ambassador to Italy is kidnapped, a rogue U.S. government agent makes demands that send the President and the C.I.A. scrambling to protect a mysterious covert government project involving memory transference. With his brain recently scanned into a hard drive, the ambassador's knowledge of all international undercover agents becomes a hot commodity on the black market and only one scientist has the know-how to implant that data into another host. With a plethora of double agents in the mix, the C.I.A. dispatches Agent John Ramsay to find and secure the scientist. But, knowing who to trust becomes virtually impossible as corruption and treachery trickle down from the highest levels in this pulse-pounding spy thriller.\",\"popularity\":2.635,\"poster_path\":\"\/soyPmyA3cKC5DSiLxnSuuExEEYe.jpg\",\"production_companies\":[{\"id\":98904,\"logo_path\":\"\/ddIBh6fLrmXVCVd0jNKVXzeKmuC.png\",\"name\":\"Wild Dogs Productions\",\"origin_country\":\"US\"}],\"production_countries\":[],\"release_date\":\"2018-11-30\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"What would you do for immortality?\",\"title\":\"The Infinity Project\",\"video\":false,\"vote_average\":1.0,\"vote_count\":1}"
+}

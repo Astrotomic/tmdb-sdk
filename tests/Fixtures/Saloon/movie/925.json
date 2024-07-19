@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1484",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1444",
+        "x-memc": "HIT",
+        "x-memc-key": "5d6b099d68c4fc73bd9816fba659e7d0",
+        "x-memc-age": "26613",
+        "x-memc-expires": "1444",
+        "ETag": "W\/\"6f130f1b93cf2960df95617360de1dde\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5ruFwrYwcmHJL3D2gDPa6tOeTYt-qiCxDyI248XuL0TFQQblYS9usw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/leT6tupwfYea4T0zYBafP73gXj9.jpg\",\"belongs_to_collection\":null,\"budget\":6500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":925,\"imdb_id\":\"tt0097216\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Do the Right Thing\",\"overview\":\"Salvatore \\\"Sal\\\" Fragione is the Italian owner of a pizzeria in Brooklyn. A neighborhood local, Buggin' Out, becomes upset when he sees that the pizzeria's Wall of Fame exhibits only Italian actors. Buggin' Out believes a pizzeria in a black neighborhood should showcase black actors, but Sal disagrees. The wall becomes a symbol of racism and hate to Buggin' Out and to other people in the neighborhood, and tensions rise.\",\"popularity\":20.867,\"poster_path\":\"\/63rmSDPahrH7C1gEFYzRuIBAN9W.jpg\",\"production_companies\":[{\"id\":4319,\"logo_path\":\"\/AmD31n67gArsO4803tPKINE6eRP.png\",\"name\":\"40 Acres and a Mule Filmworks\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-06-14\",\"revenue\":37300000,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's the hottest day of the summer. You can do nothing, you can do something, or you can Do the Right Thing.\",\"title\":\"Do the Right Thing\",\"video\":false,\"vote_average\":7.758,\"vote_count\":1702}"
+}

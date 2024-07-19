@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1085",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3102",
+        "x-memc": "HIT",
+        "x-memc-key": "2e8b44fdb17726c182794347cae6170d",
+        "x-memc-age": "24697",
+        "x-memc-expires": "3102",
+        "ETag": "W\/\"06d2c1f89cc31a8556afd2e9ce202368\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XAXmYbLlv4k1wQU3r8ziZ7_YS0K3NSeXUykz8VE8Rsf8_O_yn92bqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A2py1vRFhY9bNWZYFgR5QiOq4jG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":399217,\"imdb_id\":\"tt3467914\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Tommy's Honour\",\"overview\":\"In every generation, a torch passes from father to son. And that timeless dynamic is the beating heart of Tommy's Honor - an intimate, powerfully moving tale of the real-life founders of the modern game of golf.\",\"popularity\":6.78,\"poster_path\":\"\/4lb8ZVowimnyZ1N4OFWWJxjoJb8.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-07-07\",\"revenue\":751345,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The pride of a father. The love of a wife. The soul of a rebel. The heart of a champion.\",\"title\":\"Tommy's Honour\",\"video\":false,\"vote_average\":6.8,\"vote_count\":23}"
+}

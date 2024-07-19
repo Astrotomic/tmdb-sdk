@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1577",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8098",
+        "x-memc": "HIT",
+        "x-memc-key": "05cbcec18ed40e016bbd6b24c0461386",
+        "x-memc-age": "16396",
+        "x-memc-expires": "8098",
+        "ETag": "W\/\"0225bf6b77bddd2efbc270d1e8287850\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y5NQXv3o-Z0dV-Eh2rZPK-GZpboulynxeKbir6Dlte_XSQAwQfedXA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1O0vK7h3UvREdGvQYVXfDZ0cOoI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":69770,\"imdb_id\":\"tt0174221\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Snoopy's Reunion\",\"overview\":\"Sensing that his canine companion is a bit down in the mouth, Charlie Brown organizes a Daisy Hill Puppy Farm reunion for Snoopy and his seven siblings in this animated special based on the Charles M. Schulz comic strip. While Charlie Brown is dismayed to see that the bucolic farm has disappeared in a sea of urban sprawl, Snoopy and gang are simply delighted to be in one another's company. Pulling out their instruments, they jam on the sidewalk.\",\"popularity\":4.696,\"poster_path\":\"\/2MpS8l7n10jP1V3f9kz7HVuveqH.jpg\",\"production_companies\":[{\"id\":16339,\"logo_path\":null,\"name\":\"Charles M. Schulz Creative Associates\",\"origin_country\":\"US\"},{\"id\":16345,\"logo_path\":null,\"name\":\"United Media Productions\",\"origin_country\":\"\"},{\"id\":16341,\"logo_path\":null,\"name\":\"Bill Melendez Productions\",\"origin_country\":\"\"},{\"id\":16340,\"logo_path\":null,\"name\":\"Lee Mendelson Film Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-05-01\",\"revenue\":0,\"runtime\":23,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Snoopy's Reunion\",\"video\":false,\"vote_average\":6.942,\"vote_count\":26}"
+}

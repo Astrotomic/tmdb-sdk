@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1268",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4666",
+        "x-memc": "HIT",
+        "x-memc-key": "11ad58d5b1fd4c7a4598b045b6344c3d",
+        "x-memc-age": "17432",
+        "x-memc-expires": "4666",
+        "ETag": "W\/\"3f1b4cfca92f115fffdf26ca30da4692\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZipuT3hEj_inVZXD2BDP-eJhFNJ1gu6-9tZlZEkOvdIeWmaalVeFtA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3WrR2rYX7nHWnBhWHLZptsJ2bEj.jpg\",\"belongs_to_collection\":null,\"budget\":18000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.themist-movie.com\/\",\"id\":5876,\"imdb_id\":\"tt0884328\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Mist\",\"overview\":\"After a violent storm, a dense cloud of mist envelops a small Maine town, trapping artist David Drayton and his five-year-old son in a local grocery store with other people. They soon discover that the mist conceals deadly horrors that threaten their lives, and worse, their sanity.\",\"popularity\":66.415,\"poster_path\":\"\/1CvJ6diBACKPVGOpcWuY4XPQdqX.jpg\",\"production_companies\":[{\"id\":3982,\"logo_path\":\"\/bli7HkPOXOEWsDwDK0W7XXfeUU2.png\",\"name\":\"Darkwoods Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-11-21\",\"revenue\":57470220,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Belief divides them, mystery surrounds them, but fear changes everything.\",\"title\":\"The Mist\",\"video\":false,\"vote_average\":6.928,\"vote_count\":5023}"
+}

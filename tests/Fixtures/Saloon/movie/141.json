@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1405",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6907",
+        "x-memc": "HIT",
+        "x-memc-key": "50156a9fc855a3cef67891b7361c2676",
+        "x-memc-age": "18915",
+        "x-memc-expires": "6907",
+        "ETag": "W\/\"be5054acb045b7c8c618126bea0f6e45\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QRcMIb7-TNKkJgIVLnItfV55wXsJNeawTefdr8yzu5gG685PNWLsYw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg\",\"belongs_to_collection\":{\"id\":178106,\"name\":\"Darko Collection\",\"poster_path\":\"\/f3DaaNRpyeZawist5Qt21hlzL2I.jpg\",\"backdrop_path\":\"\/hja7IzXp6how8eD1WHriI386TGY.jpg\"},\"budget\":4500000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":141,\"imdb_id\":\"tt0246578\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Donnie Darko\",\"overview\":\"After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.\",\"popularity\":65.062,\"poster_path\":\"\/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg\",\"production_companies\":[{\"id\":19813,\"logo_path\":null,\"name\":\"Flower Films\",\"origin_country\":\"US\"},{\"id\":5367,\"logo_path\":null,\"name\":\"Gaylord Films\",\"origin_country\":\"\"},{\"id\":3334,\"logo_path\":null,\"name\":\"Adam Fields Productions\",\"origin_country\":\"\"},{\"id\":185,\"logo_path\":null,\"name\":\"Pandora Cinema\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-01-19\",\"revenue\":7500000,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Why Are You Wearing That Stupid Man Suit?\",\"title\":\"Donnie Darko\",\"video\":false,\"vote_average\":7.781,\"vote_count\":12167}"
+}

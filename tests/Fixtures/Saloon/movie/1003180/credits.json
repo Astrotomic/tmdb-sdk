@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2036",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:36:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7040",
+        "x-memc": "HIT",
+        "x-memc-key": "33475d10630793fedf92d54a16e89cdc",
+        "x-memc-age": "16234",
+        "x-memc-expires": "7040",
+        "ETag": "W\/\"455739c9d9b6ac5f8f5f57268f18079a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8et2UeHFl70gDg8hTnSvOOk2QYTRTwLMBHTmNgJJ39diMcocBfMuFQ=="
+    },
+    "data": "{\"id\":1003180,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3669612,\"known_for_department\":\"Acting\",\"name\":\"Yuki Hattori\",\"original_name\":\"Yuki Hattori\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Self\",\"credit_id\":\"62ffc0455ab81a0085c67a98\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":3669613,\"known_for_department\":\"Acting\",\"name\":\"Maryna Savitska\",\"original_name\":\"Maryna Savitska\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Self\",\"credit_id\":\"62ffc04cb39e35007f6712f8\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3669614,\"known_for_department\":\"Acting\",\"name\":\"Svitlana Savytska\",\"original_name\":\"Svitlana Savytska\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Self\",\"credit_id\":\"62ffc053532acb007ed71431\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":3669616,\"known_for_department\":\"Acting\",\"name\":\"Wailani Sung\",\"original_name\":\"Wailani Sung\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Self\",\"credit_id\":\"62ffc0593e6f2b007d27069a\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":3669618,\"known_for_department\":\"Acting\",\"name\":\"Kristin Vitale\",\"original_name\":\"Kristin Vitale\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"Self\",\"credit_id\":\"62ffc071839d93008b60a3e2\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2446649,\"known_for_department\":\"Production\",\"name\":\"Andy Mitchell\",\"original_name\":\"Andy Mitchell\",\"popularity\":1.484,\"profile_path\":null,\"credit_id\":\"62db245cdc1cb4006757d515\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3669619,\"known_for_department\":\"Production\",\"name\":\"Irene Carolina Herrera\",\"original_name\":\"Irene Carolina Herrera\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62ffc07e1c6aa7007a0032de\",\"department\":\"Production\",\"job\":\"Line Producer\"},{\"adult\":false,\"gender\":0,\"id\":3669621,\"known_for_department\":\"Crew\",\"name\":\"David Woo\",\"original_name\":\"David Woo\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62ffc0921da7a60085dc5c98\",\"department\":\"Crew\",\"job\":\"Cinematography\"}]}"
+}

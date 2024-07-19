@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1820",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2223",
+        "x-memc": "HIT",
+        "x-memc-key": "5e6ea8b66ed4ca9abc6678df3c10aa41",
+        "x-memc-age": "23594",
+        "x-memc-expires": "2223",
+        "ETag": "W\/\"4261310611dfac549e6886524ab94c74\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ewNDbcKqLjqwncuY3A8-mp7pdkCjTufyX9qOUEbcLJkcDdvtZsrkCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hMANgfPHR1tRObNp2oPiOi9mMlz.jpg\",\"belongs_to_collection\":null,\"budget\":135000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.paramountmovies.com\/movies\/bumblebee\",\"id\":424783,\"imdb_id\":\"tt4701182\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bumblebee\",\"overview\":\"On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.\",\"popularity\":66.189,\"poster_path\":\"\/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":57031,\"logo_path\":\"\/1ai3zndjxL3BonlOJVS75GjTOuW.png\",\"name\":\"Allspark Pictures\",\"origin_country\":\"US\"},{\"id\":6734,\"logo_path\":\"\/u55FhlG6vFNzSVKLcmnFFwLb2cc.png\",\"name\":\"Bay Films\",\"origin_country\":\"US\"},{\"id\":435,\"logo_path\":\"\/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png\",\"name\":\"di Bonaventura Pictures\",\"origin_country\":\"US\"},{\"id\":38831,\"logo_path\":null,\"name\":\"DeSanto\/Murphy Productions\",\"origin_country\":\"US\"},{\"id\":81620,\"logo_path\":\"\/7LkIVuWBVScdujpKhBPx1TMnPQE.png\",\"name\":\"Tencent Pictures\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-12-15\",\"revenue\":467989645,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Every hero has a beginning.\",\"title\":\"Bumblebee\",\"video\":false,\"vote_average\":6.729,\"vote_count\":5947}"
+}

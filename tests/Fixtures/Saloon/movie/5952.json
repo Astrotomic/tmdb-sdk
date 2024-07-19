@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "865",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5504",
+        "x-memc": "HIT",
+        "x-memc-key": "be8c27084264f3d522c6bc2590ebcb93",
+        "x-memc-age": "18796",
+        "x-memc-expires": "5504",
+        "ETag": "W\/\"6f02f3e43d4a16123a50d671049ee986\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tNVe2wBuMGcwm43yWFfdq7qqvcllmXkgSbYOnT5OSBTHRR2hZ_c0Mg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.maerzmelodie.de\/\",\"id\":5952,\"imdb_id\":\"tt1073669\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"M\u00e4rzmelodie\",\"overview\":\"\",\"popularity\":2.062,\"poster_path\":\"\/nQ7QLMhfwRHzCwQ3r10UTRPW8BH.jpg\",\"production_companies\":[{\"id\":1107,\"logo_path\":null,\"name\":\"Seven Pictures\",\"origin_country\":\"DE\"},{\"id\":96,\"logo_path\":\"\/9ps82gVzUeNdkjmLzoGDQLiLDio.png\",\"name\":\"X Filme Creative Pool\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2008-02-07\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Melodies of Spring\",\"video\":false,\"vote_average\":2.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1195",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18753",
+        "x-memc": "HIT",
+        "x-memc-key": "8eeb4c2290d2bb529b977234eaf458ef",
+        "x-memc-age": "6510",
+        "x-memc-expires": "18753",
+        "ETag": "W\/\"2b47a55fa9be2655b7b55fa2e55f706a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o3l5R2CxIIiQQcTeq5EZz_5bKdPns2jGVHyCVZpjMPSbEelXzoWptg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.robotbastard.com\",\"id\":222575,\"imdb_id\":\"tt0418106\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Robot Bastard!\",\"overview\":\"The President's Daughter has been kidnapped by the brilliant super-criminal Blood Mamba. All rescue attempts have been thwarted by the evil genius. There's only one thing left to do: send in the Robot. The Robot must fight zombie-monsters and insecurity in order to complete his suicidal mission.  This marks the directorial debut of Rob Schrab (Creator of Scud: the Disposable Assassin and Heat Vision and Jack).\",\"popularity\":2.727,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-10-01\",\"revenue\":0,\"runtime\":18,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Bring clean underwear.\",\"title\":\"Robot Bastard!\",\"video\":false,\"vote_average\":6.6,\"vote_count\":6}"
+}

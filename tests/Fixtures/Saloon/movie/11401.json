@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1411",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7326",
+        "x-memc": "HIT",
+        "x-memc-key": "774a50d9bd9137498832136dcb851396",
+        "x-memc-age": "20592",
+        "x-memc-expires": "7326",
+        "ETag": "W\/\"4af78646ff26c09c76ea50bec5beccc3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6RmG4FnwZ3pCCeGMSbY_9BY8mFOJf4nJDKxBftYLJcp2fPL-NHMxhA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kVlnObukrKh1vyAuLyHGdsCxJNH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":11401,\"imdb_id\":\"tt0387412\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Metallica: Some Kind of Monster\",\"overview\":\"After bassist Jason Newsted quits the band in 2001, heavy metal superstars Metallica realize that they need an intervention. In this revealing documentary, filmmakers follow the three rock stars as they hire a group therapist and grapple with 20 years of repressed anger and aggression. Between searching for a replacement bass player, creating a new album and confronting their personal demons, the band learns to open up in ways they never thought possible.\",\"popularity\":9.704,\"poster_path\":\"\/pYms4cvrqlM4I8cjNrQCbSnPxkr.jpg\",\"production_companies\":[{\"id\":112887,\"logo_path\":null,\"name\":\"Electra Entertainment\",\"origin_country\":\"\"},{\"id\":113406,\"logo_path\":\"\/47nqtu1lbOnfIAogIYFqAOV5KRf.png\",\"name\":\"Vertigo\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-06-10\",\"revenue\":0,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Metallica: Some Kind of Monster\",\"video\":false,\"vote_average\":7.019,\"vote_count\":212}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1346",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=396",
+        "x-memc": "HIT",
+        "x-memc-key": "738f33fa552cdcebb9aff416ce44130f",
+        "x-memc-age": "26947",
+        "x-memc-expires": "396",
+        "ETag": "W\/\"dbc1503357820b7d87a51f539bd9a2ec\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "x5YBZvmbwwqfwM8tdSX4y5SAylL5ko95a6gNopEZm-5zrkf0dKN9Fw=="
+    },
+    "data": "{\"id\":569562,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":26993,\"known_for_department\":\"Acting\",\"name\":\"Richard Epcar\",\"original_name\":\"Richard Epcar\",\"popularity\":3.37,\"profile_path\":\"\/m24OJXHsHNz3577uBrNURbyn7Fa.jpg\",\"cast_id\":1,\"character\":\"Sam-53 (voice)\",\"credit_id\":\"5c1a3ee89251411213e27473\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1873448,\"known_for_department\":\"Writing\",\"name\":\"Nicola Piovesan\",\"original_name\":\"Nicola Piovesan\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5c1a3f530e0a2657aa1c4be6\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1873448,\"known_for_department\":\"Writing\",\"name\":\"Nicola Piovesan\",\"original_name\":\"Nicola Piovesan\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"647c5a0e17497300fb3b50dc\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":1873448,\"known_for_department\":\"Writing\",\"name\":\"Nicola Piovesan\",\"original_name\":\"Nicola Piovesan\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"647c5a1f93828e00dcdd3563\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":137711,\"known_for_department\":\"Production\",\"name\":\"Peeter Urbla\",\"original_name\":\"Peeter Urbla\",\"popularity\":1.403,\"profile_path\":\"\/7rDg1fUexd6n9fuA3JHFPKmTj9F.jpg\",\"credit_id\":\"647c5a2893828e00a764e9bf\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

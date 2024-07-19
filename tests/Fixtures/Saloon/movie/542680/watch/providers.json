@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "219",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15808",
+        "x-memc": "HIT",
+        "x-memc-key": "759173422f5dc755a4bd41de51041d21",
+        "x-memc-age": "7156",
+        "x-memc-expires": "15808",
+        "ETag": "W\/\"f0eee1d8563b8e0c178e07766b6b798c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hYoFjNhJOwf_uqHeDgXSM_tRoUwuR8Xr4QJut4KUlE1NFI5zSEfamQ=="
+    },
+    "data": "{\"id\":542680,\"results\":{\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/542680\/watch?locale=RU\",\"ads\":[{\"logo_path\":\"\/3EJQtj4m83kRh7bV9BF6KWmPiKp.jpg\",\"provider_id\":577,\"provider_name\":\"TvIgle\",\"display_priority\":21}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1304",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17752",
+        "x-memc": "HIT",
+        "x-memc-key": "5bf42613a33c2e4587224d2db9ae88a7",
+        "x-memc-age": "5046",
+        "x-memc-expires": "17752",
+        "ETag": "W\/\"5cb1a72383537adba0d33a4fddd6d5d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V-N-ERW80y9Nh2bc-c8X2n_L19z38MQwhsf24CKpjDcfwdxSvitO1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/g1h8OE4ZPg5aLbwUm7DPeCOBuHC.jpg\",\"belongs_to_collection\":null,\"budget\":22700000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.mgm.com\/view\/movie\/1873\/Spaceballs\/\",\"id\":957,\"imdb_id\":\"tt0094012\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spaceballs\",\"overview\":\"When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \\\"The Schwartz.\\\" Can he master it in time to save the day?\",\"popularity\":136.741,\"poster_path\":\"\/cIbr9JRJX4jENulVETd4cAofTAA.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":5612,\"logo_path\":null,\"name\":\"Brooksfilms\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-06-24\",\"revenue\":38119483,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"May the farce be with you.\",\"title\":\"Spaceballs\",\"video\":false,\"vote_average\":6.847,\"vote_count\":2874}"
+}

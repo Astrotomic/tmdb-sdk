@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1063",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9298",
+        "x-memc": "HIT",
+        "x-memc-key": "df888810754006d1d4ae58db66d57281",
+        "x-memc-age": "14910",
+        "x-memc-expires": "9298",
+        "ETag": "W\/\"75d06709b52bea27c1eb198aff706e2c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mMALzBBBTujxOZpNNY_iVWMfxg_8wb7AHN1zeSLNhbiYjTLMG6fCZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":388771,\"imdb_id\":\"tt0081120\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Manoa\",\"overview\":\"The intent of novice director Solveig Hoogesteijn to make a drama about two Venezuelans from opposite sides of the economic and social tracks wobbles and weakens in the telling. Although the two compatriots both live in the capital, Caracas, and both love music, they have a need to go out into the rest of the country and discover their roots. As big-city dwellers, they are limited in their perspectives, though this excursion into other areas of Venezuela may prove more illuminating to them than to a foreign audience.\",\"popularity\":1.136,\"poster_path\":\"\/x1u76MTYeZDQGYX1UJ3Qt98lxhc.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"1980-03-19\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Manoa\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

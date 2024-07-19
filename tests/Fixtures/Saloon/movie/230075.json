@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "946",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17150",
+        "x-memc": "HIT",
+        "x-memc-key": "b70a19257b476ce7bdfd02695a3e06e7",
+        "x-memc-age": "6555",
+        "x-memc-expires": "17150",
+        "ETag": "W\/\"a311ccf98f01b510b09f4026389aab52\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fQ6_RYKMOb75H8jLarn9RitBV8UUfUP4pHqnafo8urIvXli7FRV03g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5VzqiUuxl0S7Fs9TjlQzDLg4pOn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":230075,\"imdb_id\":\"tt0050465\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Gun Battle at Monterey\",\"overview\":\"An outlaw saved by a Mexican girl hunts the holdup partner who shot him in the back.\",\"popularity\":3.261,\"poster_path\":\"\/rbPUuDBesMNoC7zmpHXo3C1ecD2.jpg\",\"production_companies\":[{\"id\":4928,\"logo_path\":null,\"name\":\"Allied Artists Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1957-10-27\",\"revenue\":0,\"runtime\":67,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"BULLET SHOCKED! TERROR ROCKED!\",\"title\":\"Gun Battle at Monterey\",\"video\":false,\"vote_average\":4.0,\"vote_count\":3}"
+}

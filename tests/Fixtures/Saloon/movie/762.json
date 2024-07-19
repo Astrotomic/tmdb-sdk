@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1780",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2027",
+        "x-memc": "HIT",
+        "x-memc-key": "fde0ef07b86c026f6ca90aa0abe8f2b7",
+        "x-memc-age": "23134",
+        "x-memc-expires": "2027",
+        "ETag": "W\/\"d6eafa11ac0f1138316dddd6812615c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a4IpPbZ7HEbvto2fI3-Fh8VhQtFS6GhGgPla2K0uyjNr43B0SCAnWA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1KgXxv6tHXOnakqYvMPvFwYKWiw.jpg\",\"belongs_to_collection\":null,\"budget\":400000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/montypythonandtheholygrail\",\"id\":762,\"imdb_id\":\"tt0071853\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Monty Python and the Holy Grail\",\"overview\":\"King Arthur, accompanied by his squire, recruits his Knights of the Round Table, including Sir Bedevere the Wise, Sir Lancelot the Brave, Sir Robin the Not-Quite-So-Brave-As-Sir-Lancelot and Sir Galahad the Pure. On the way, Arthur battles the Black Knight who, despite having had all his limbs chopped off, insists he can still fight. They reach Camelot, but Arthur decides not  to enter, as \\\"it is a silly place\\\".\",\"popularity\":27.633,\"poster_path\":\"\/xZ0rC0kuIsjk6RncpNK73kwstEP.jpg\",\"production_companies\":[{\"id\":416,\"logo_path\":null,\"name\":\"Python (Monty) Pictures Limited\",\"origin_country\":\"\"},{\"id\":463,\"logo_path\":null,\"name\":\"Michael White Productions\",\"origin_country\":\"GB\"},{\"id\":464,\"logo_path\":null,\"name\":\"National Film Trustee Company\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1975-03-14\",\"revenue\":5000000,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"And now! At Last! Another film completely different from some of the other films which aren't quite the same as this one is.\",\"title\":\"Monty Python and the Holy Grail\",\"video\":false,\"vote_average\":7.807,\"vote_count\":5626}"
+}

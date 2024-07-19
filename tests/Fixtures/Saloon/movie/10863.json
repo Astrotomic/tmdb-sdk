@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1353",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12826",
+        "x-memc": "HIT",
+        "x-memc-key": "5a910aabf101a2791da90c87889a6254",
+        "x-memc-age": "9444",
+        "x-memc-expires": "12826",
+        "ETag": "W\/\"f65956c40fc51faeff2fcebcbeb1d3e6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ixAsmlWLCZwHsRXbVR28exZE9fg8xOb8S_3EzASzmki5BkcSTcUlHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hDYZBHvEFprcZ8euTQzlTLyznsw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10863,\"imdb_id\":\"tt0082351\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Eye of the Needle\",\"overview\":\"Great Britain, 1944, during World War II. Relentlessly pursued by several MI5 agents, Henry Faber the Needle, a ruthless German spy in possession of vital information about D-Day, takes refuge on Storm Island, an inhospitable, sparsely inhabited island off the coast of northern Scotland.\",\"popularity\":18.741,\"poster_path\":\"\/nDPnfXCuh280WHPk7xTfG7cDlAh.jpg\",\"production_companies\":[{\"id\":4255,\"logo_path\":null,\"name\":\"Kings Road Entertainment\",\"origin_country\":\"US\"},{\"id\":5417,\"logo_path\":null,\"name\":\"Juniper Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-07-24\",\"revenue\":18000000,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"To love a stranger is easy. To kill a lover is not.\",\"title\":\"Eye of the Needle\",\"video\":false,\"vote_average\":6.609,\"vote_count\":211}"
+}

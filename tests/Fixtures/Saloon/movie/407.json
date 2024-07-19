@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1376",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10098",
+        "x-memc": "HIT",
+        "x-memc-key": "c86bf9ee62c12c9abf1cd9dfaef6be1a",
+        "x-memc-age": "12030",
+        "x-memc-expires": "10098",
+        "ETag": "W\/\"90fc35eb4bab092aaf9909b9ce5ad958\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eeWg3YYPaMgQpU5s2F3x5am2JkhvaQbhP6MB0mDb_B_KCAzgFIm8sA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qOzN3bxxUgIMgkBNEhLKPqRcIWV.jpg\",\"belongs_to_collection\":null,\"budget\":500000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":407,\"imdb_id\":\"tt0162426\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Kurz und schmerzlos\",\"overview\":\"Gabriel, Bobby and Costa are old friends from Altona, a multicultural hood in Hamburg. Just out of prison, Gabriel wants to turn his back on crime, but the others continue to operate as petty criminals. Friendships are tested as the trio navigate a dark world of mafia bosses and deals gone wrong.\",\"popularity\":7.198,\"poster_path\":\"\/2NqG0XFbVed3vUTXppdgCY9aEaW.jpg\",\"production_companies\":[{\"id\":4606,\"logo_path\":\"\/otZHbf1HmzLRQsZFSqJXkf8EHz7.png\",\"name\":\"ZDF\",\"origin_country\":\"DE\"},{\"id\":23153,\"logo_path\":null,\"name\":\"W\u00fcste Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1998-10-15\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"},{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"},{\"english_name\":\"Serbo-Croatian\",\"iso_639_1\":\"sh\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Short Sharp Shock\",\"video\":false,\"vote_average\":6.697,\"vote_count\":66}"
+}

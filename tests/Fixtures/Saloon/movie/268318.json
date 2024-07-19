@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1147",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16958",
+        "x-memc": "HIT",
+        "x-memc-key": "d71706fc50003a7645457c1bdc1118bc",
+        "x-memc-age": "6715",
+        "x-memc-expires": "16958",
+        "ETag": "W\/\"1bc714c698fc49b6323267b7d8ca7237\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EFsfOY4SckboS53Yr8HO2W3qj4tfq-RGmS_wW6gcKkdKH8s61ZKsog=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/byFaY4QazXpMEeVx6NlZEmOUi8D.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":268318,\"imdb_id\":\"tt3094296\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"A Farra do Circo\",\"overview\":\"This documentary highlights the evolution of Brazil's Circo Voador venue from homespun artists' performance space to national cultural institution.\",\"popularity\":4.675,\"poster_path\":\"\/89uJG6Cf714KjbC55XzHjxlCr27.jpg\",\"production_companies\":[{\"id\":22916,\"logo_path\":\"\/t09O8JXOgdVpMooSj6lez9EksBy.png\",\"name\":\"TvZERO\",\"origin_country\":\"BR\"},{\"id\":13573,\"logo_path\":\"\/4dqepK1XdLklrsYdnFpCEkOPXLX.png\",\"name\":\"Canal Brasil\",\"origin_country\":\"BR\"},{\"id\":40994,\"logo_path\":\"\/kyl2LrS9dGnBcJRLx6ST2Qsaxan.png\",\"name\":\"RioFilme\",\"origin_country\":\"BR\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2013-11-30\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Farra do Circo\",\"video\":false,\"vote_average\":9.0,\"vote_count\":2}"
+}

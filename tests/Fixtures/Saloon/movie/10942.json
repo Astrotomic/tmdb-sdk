@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1509",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13854",
+        "x-memc": "HIT",
+        "x-memc-key": "6ac3f6eb875ec1b7cb34fc471de428f5",
+        "x-memc-age": "13006",
+        "x-memc-expires": "13854",
+        "ETag": "W\/\"9da3359d8a903dc913c17fb45f7223af\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PmSTrgW_JnVn9tIDa7v5ZsfC3bY6sM05L1VkET9qN9bbh2iT-RUoGA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ow1yVoMli073S1ALVinxrJkESa6.jpg\",\"belongs_to_collection\":{\"id\":10441,\"name\":\"Babylon 5 Collection\",\"poster_path\":\"\/4SmQl6eoFuyvHPj1noqqKf93yK6.jpg\",\"backdrop_path\":\"\/mpiKaJZSIDVGbuKxL1KyQPxeW6Y.jpg\"},\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10942,\"imdb_id\":\"tt0106336\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Babylon 5: The Gathering\",\"overview\":\"The first installment of this Emmy award-winning series. A movie based at Babylon 5: a new space station built by Humans. The Vorlon ambassador, Kosh, has been poisoned. It is the new commanding officer's, Jeffrey Sinclair, responsibility to find the culprit. Otherwise the space station will fail in its role to bring all the races together.\",\"popularity\":13.653,\"poster_path\":\"\/1eRyJK9ImrmXqSkGXVO7OlDNrYq.jpg\",\"production_companies\":[{\"id\":2181,\"logo_path\":null,\"name\":\"Babylonian Productions\",\"origin_country\":\"\"},{\"id\":25188,\"logo_path\":null,\"name\":\"Rattlesnake Productions\",\"origin_country\":\"\"},{\"id\":3063,\"logo_path\":null,\"name\":\"Synthetic Worlds\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-12-12\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Babylon 5: The Gathering\",\"video\":false,\"vote_average\":6.408,\"vote_count\":158}"
+}

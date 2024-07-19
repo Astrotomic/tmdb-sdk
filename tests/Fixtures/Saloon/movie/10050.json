@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1444",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19131",
+        "x-memc": "HIT",
+        "x-memc-key": "96888275b90092fd09161a4662d4f9ea",
+        "x-memc-age": "5680",
+        "x-memc-expires": "19131",
+        "ETag": "W\/\"c88f0b348e32e07ceb39443d4c550bab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yyQXLI91VnAexJupGO_C6ZyjQSlmVMLvvKLvyMOHXy6gk6qD-SRScQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/saQxwnIr4ftRmFpJeV9DQI1lsWd.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10050,\"imdb_id\":\"tt0192071\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Get Over It\",\"overview\":\"When Berke Landers, a popular high school basketball star, gets dumped by his life-long girlfriend, Allison, he soon begins to lose it. But with the help of his best friend Felix's sister Kelly, he follows his ex into the school's spring musical. Thus ensues a love triangle loosely based upon Shakespeare's \\\"A Midsummer Night's Dream\\\", where Berke is only to find himself getting over Allison and beginning to fall for Kelly.\",\"popularity\":48.525,\"poster_path\":\"\/saVWvLE0haJTrH1c1YS68VTDKyC.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":4131,\"logo_path\":null,\"name\":\"Ignite Entertainment\",\"origin_country\":\"US\"},{\"id\":532,\"logo_path\":null,\"name\":\"Morpheus\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-03-08\",\"revenue\":19900366,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Young, Free And Single. Again.\",\"title\":\"Get Over It\",\"video\":false,\"vote_average\":5.581,\"vote_count\":278}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1400",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16640",
+        "x-memc": "HIT",
+        "x-memc-key": "7cd2ca7e8cee25e8a89dad33cfa80326",
+        "x-memc-age": "5601",
+        "x-memc-expires": "16640",
+        "ETag": "W\/\"df45dbef0e5eddedd3f94bf68fc8707d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U16EHBGiNy7j7Y6SOCvNZeTToyQ0DkjJhTJo6mDOGx6WSflWm2H_hg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/en7GPLCPwTRA0KxiR5BxjlSCqaG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.paramountmovies.com\/movies\/spell\",\"id\":621151,\"imdb_id\":\"tt10736580\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spell\",\"overview\":\"A father survives a plane crash in rural Appalachia, but becomes suspicious of the elderly couple who take him in to nurse him back to health with the ancient remedies.\",\"popularity\":16.426,\"poster_path\":\"\/4rjHhj1BAREc9zNFU8FheLJQdFf.jpg\",\"production_companies\":[{\"id\":96540,\"logo_path\":\"\/AgYjTNeIKOh0yvegPLSjq8EOsif.png\",\"name\":\"Paramount Players\",\"origin_country\":\"US\"},{\"id\":99435,\"logo_path\":null,\"name\":\"LINK Entertainment\",\"origin_country\":\"\"},{\"id\":211030,\"logo_path\":null,\"name\":\"MC8 Entertainment\",\"origin_country\":\"\"},{\"id\":350,\"logo_path\":\"\/l4cEc8UZ3ZrPLisIOh1iYMKwAVP.png\",\"name\":\"Radar Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-10-30\",\"revenue\":500104,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Evil tales have their roots.\",\"title\":\"Spell\",\"video\":false,\"vote_average\":6.455,\"vote_count\":378}"
+}

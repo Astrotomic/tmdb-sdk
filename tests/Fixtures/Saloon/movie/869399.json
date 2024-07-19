@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1552",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:51:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26229",
+        "x-memc": "HIT",
+        "x-memc-key": "7a4af8d28433fee1606b66b43d372fdf",
+        "x-memc-age": "1013",
+        "x-memc-expires": "26229",
+        "ETag": "W\/\"6429e5b859eee9e2b1d9cebef1d2613d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_zV653zG__lGalWlOSMKVOxhi8v3ptBDB0FB28CE2ZNOuGywdTcIiA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9hhRzLzP1enjENXiGJocAHyWFmS.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":869399,\"imdb_id\":\"tt12678146\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"La pasajera\",\"overview\":\"Four people traveling in a van run over a lone woman while she is walking in the dark down a country road. After loading her into the vehicle to take her to the nearest hospital, they notice that she is behaving rather strangely. The occupants of the van soon realise that the time has come to fight for their lives, and together they agree on one very simple rule: \\\"do not sit next to her.\\\"\",\"popularity\":13.219,\"poster_path\":\"\/6bYCDIYqT3GpE6ICnMP6HvUlJMT.jpg\",\"production_companies\":[{\"id\":144696,\"logo_path\":null,\"name\":\"Persons Films\",\"origin_country\":\"ES\"},{\"id\":135287,\"logo_path\":null,\"name\":\"La Dalia Films\",\"origin_country\":\"\"},{\"id\":102147,\"logo_path\":null,\"name\":\"S.G. Producciones Cinematograficas\",\"origin_country\":\"\"},{\"id\":174738,\"logo_path\":null,\"name\":\"Eye Slice Pictures\",\"origin_country\":\"\"},{\"id\":170222,\"logo_path\":null,\"name\":\"LevelK\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2022-06-03\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Don't sit next to her\",\"title\":\"The Passenger\",\"video\":false,\"vote_average\":5.814,\"vote_count\":59}"
+}

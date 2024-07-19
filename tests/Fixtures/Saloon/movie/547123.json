@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "973",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12744",
+        "x-memc": "HIT",
+        "x-memc-key": "f0eb50dd281ecd84888b9bc5975d5b78",
+        "x-memc-age": "10917",
+        "x-memc-expires": "12744",
+        "ETag": "W\/\"af99020ab2f9c4f222b9f102bd225249\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-POBCTvd2uL3FBg6uNvgSJl24tlt1A4qKJE2Di9azO9kY0V0ahBJZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/flDXUETOAn2pfWLa7XquKEXz01R.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"https:\/\/www.otsuka.co.jp\/cmt\/calo-lina\/index.php\",\"id\":547123,\"imdb_id\":null,\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u3059\u3059\u3081\u3001\u30ab\u30ed\u30ea\u30fc\u30ca\u3002\",\"overview\":\"Short anime about Karolina Styczy\u0144ska, the first female foreign sh\u014dgi player to be able to become a professional.\",\"popularity\":1.037,\"poster_path\":\"\/zSWJUlekYsKoWNYrIQ0a6APKQnO.jpg\",\"production_companies\":[{\"id\":20556,\"logo_path\":\"\/ykMSMe47GblevqgtJhMk3dJ7i7S.png\",\"name\":\"Studio Colorido\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2018-06-14\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Susume, Karolina.\",\"video\":true,\"vote_average\":6.0,\"vote_count\":1}"
+}

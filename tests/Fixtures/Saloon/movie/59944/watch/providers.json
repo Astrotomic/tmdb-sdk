@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1955",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17388",
+        "x-memc": "HIT",
+        "x-memc-key": "490f02863781585e311d3796e24afd5c",
+        "x-memc-age": "9142",
+        "x-memc-expires": "17388",
+        "ETag": "W\/\"61b944090f97b7be7ed4643ad2e3a5a1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F82MC9CG4JZKqFl6kGki778gDEDpjZOJiChQvGrA2dVSshLZgAWDZA=="
+    },
+    "data": "{\"id\":59944,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/59944\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/j7wdfXtHKUpV9CNwnXUa68HImFx.jpg\",\"provider_id\":1968,\"provider_name\":\"Crunchyroll Amazon Channel\",\"display_priority\":12}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/59944\/watch?locale=GB\",\"flatrate\":[{\"logo_path\":\"\/j7wdfXtHKUpV9CNwnXUa68HImFx.jpg\",\"provider_id\":1968,\"provider_name\":\"Crunchyroll Amazon Channel\",\"display_priority\":11}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/59944\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0},{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":28}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/59944\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/j7wdfXtHKUpV9CNwnXUa68HImFx.jpg\",\"provider_id\":1968,\"provider_name\":\"Crunchyroll Amazon Channel\",\"display_priority\":12}]}}}"
+}

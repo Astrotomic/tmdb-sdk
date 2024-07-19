@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "875",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21151",
+        "x-memc": "HIT",
+        "x-memc-key": "bacd4c9dfe8843347e67acc4b8046d41",
+        "x-memc-age": "6467",
+        "x-memc-expires": "21151",
+        "ETag": "W\/\"1b1a1dc7c350e4c86b789b49eb337623\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0jJiar4wCcKaNvZC7J1aCrvq5B2TTWZmtN7TyxTxeRKgrvPGRrO-Rw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":543579,\"imdb_id\":\"tt0053616\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Av hj\u00e4rtans lust\",\"overview\":\"The Baron of Qvinnevad Castle has financial problems and is forced to show the estate to tourists. The baron finds out that an unknown person is trying to acquire the castle.\",\"popularity\":3.753,\"poster_path\":\"\/yKKRTPciBYRmO1Sf2IvgGjl92dR.jpg\",\"production_companies\":[{\"id\":1763,\"logo_path\":\"\/mpT9ipd8lt4qMYzdnV8SN7VJdnA.png\",\"name\":\"Europa Film\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"1960-08-29\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Av hj\u00e4rtans lust\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

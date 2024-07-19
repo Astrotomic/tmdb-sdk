@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3814",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:32:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10142",
+        "x-memc": "HIT",
+        "x-memc-key": "92d66d03784aaf4f396c2a2b1285fcc7",
+        "x-memc-age": "11675",
+        "x-memc-expires": "10142",
+        "ETag": "W\/\"fc0acb13a8d3ee0ce2009994607029ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h5IcCbs2BpSRKD4QrfOmvAAB_d-_ro4S7ywCJJIxHsSKQRGJ6vLoTg=="
+    },
+    "data": "{\"id\":896519,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":110694,\"known_for_department\":\"Acting\",\"name\":\"Tom Wyner\",\"original_name\":\"Tom Wyner\",\"popularity\":4.473,\"profile_path\":\"\/q7Xzgs5EUFymtr0lGXh8RnxXEeR.jpg\",\"cast_id\":1,\"character\":\"Narrator\",\"credit_id\":\"618c05378c7b0f0028dc361c\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":119237,\"known_for_department\":\"Sound\",\"name\":\"Shuji Inoue\",\"original_name\":\"Shuji Inoue\",\"popularity\":6.762,\"profile_path\":null,\"cast_id\":2,\"character\":\"Self\",\"credit_id\":\"619911b2c0ae360044f5160f\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":12187,\"known_for_department\":\"Editing\",\"name\":\"Shuichi Kakesu\",\"original_name\":\"Shuichi Kakesu\",\"popularity\":3.332,\"profile_path\":\"\/6utqkPuGOusiFcrP1OP1iHQaCxV.jpg\",\"cast_id\":3,\"character\":\"Self\",\"credit_id\":\"619911c11e259a008b1d7566\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":57304,\"known_for_department\":\"Sound\",\"name\":\"Kenji Kawai\",\"original_name\":\"\u5ddd\u4e95\u61b2\u6b21\",\"popularity\":11.448,\"profile_path\":\"\/uKjPUmOMmYYMFYtLBNXBDPAtcOz.jpg\",\"cast_id\":4,\"character\":\"Self\",\"credit_id\":\"619911d771458f0042972dcf\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":16142,\"known_for_department\":\"Visual Effects\",\"name\":\"Kazuchika Kise\",\"original_name\":\"\u9ec4\u702c\u548c\u54c9\",\"popularity\":10.715,\"profile_path\":\"\/rb6egNuug67QbRMgYLPMKN45FKL.jpg\",\"cast_id\":5,\"character\":\"Self\",\"credit_id\":\"619911e7497560002cfb94f4\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":147050,\"known_for_department\":\"Directing\",\"name\":\"Mizuho Nishikubo\",\"original_name\":\"Mizuho Nishikubo\",\"popularity\":4.621,\"profile_path\":\"\/u2rlA93gswTpWE2EX4KNlQRxros.jpg\",\"cast_id\":6,\"character\":\"Self (as Toshihiko Nishikubo)\",\"credit_id\":\"619911f9e2ff320065917a1c\",\"order\":5},{\"adult\":false,\"gender\":2,\"id\":12188,\"known_for_department\":\"Art\",\"name\":\"Hiromasa Ogura\",\"original_name\":\"\u5c0f\u5009\u5b8f\u660c\",\"popularity\":6.787,\"profile_path\":\"\/gsvLM1ZFHq2BhQ8kWmMPMecNwGW.jpg\",\"cast_id\":7,\"character\":\"Self\",\"credit_id\":\"6199120ac0ae36006216e65f\",\"order\":6},{\"adult\":false,\"gender\":2,\"id\":12178,\"known_for_department\":\"Visual Effects\",\"name\":\"Hiroyuki Okiura\",\"original_name\":\"\u6c96\u6d66\u5553\u4e4b\",\"popularity\":10.654,\"profile_path\":\"\/rMmavTg6TqMfv5r0ZifQvay639f.jpg\",\"cast_id\":8,\"character\":\"Self\",\"credit_id\":\"6199121c29733800430f4641\",\"order\":7},{\"adult\":false,\"gender\":2,\"id\":12180,\"known_for_department\":\"Directing\",\"name\":\"Mamoru Oshii\",\"original_name\":\"\u62bc\u4e95\u5b88\",\"popularity\":22.26,\"profile_path\":\"\/2eDakuSsipmgku9MtGcZf244Hv4.jpg\",\"cast_id\":9,\"character\":\"Self\",\"credit_id\":\"6199122d1e259a002749a655\",\"order\":8},{\"adult\":false,\"gender\":1,\"id\":34923,\"known_for_department\":\"Acting\",\"name\":\"Atsuko Tanaka\",\"original_name\":\"\u7530\u4e2d\u6566\u5b50\",\"popularity\":28.621,\"profile_path\":\"\/pXcJZCWA9uzZLH7vqU8M6KpAP3Z.jpg\",\"cast_id\":10,\"character\":\"Self\",\"credit_id\":\"6199123f63536a008f692e2f\",\"order\":9},{\"adult\":false,\"gender\":0,\"id\":2997857,\"known_for_department\":\"Acting\",\"name\":\"Seiichi Tanaka\",\"original_name\":\"Seiichi Tanaka\",\"popularity\":0.004,\"profile_path\":null,\"cast_id\":11,\"character\":\"Self\",\"credit_id\":\"61991269528b2e0044d987be\",\"order\":10},{\"adult\":false,\"gender\":2,\"id\":119240,\"known_for_department\":\"Sound\",\"name\":\"Kazuhiro Wakabayashi\",\"original_name\":\"\u82e5\u6797\u548c\u5f18\",\"popularity\":13.861,\"profile_path\":null,\"cast_id\":12,\"character\":\"Self\",\"credit_id\":\"6199127d9512e1002a036d3f\",\"order\":11},{\"adult\":false,\"gender\":1,\"id\":2484256,\"known_for_department\":\"Visual Effects\",\"name\":\"Kumiko Yusa\",\"original_name\":\"Kumiko Yusa\",\"popularity\":0.749,\"profile_path\":null,\"cast_id\":13,\"character\":\"Self\",\"credit_id\":\"61991290c0ae36006216e6b3\",\"order\":12},{\"adult\":false,\"gender\":2,\"id\":40451,\"known_for_department\":\"Acting\",\"name\":\"Akio Otsuka\",\"original_name\":\"\u5927\u585a\u660e\u592b\",\"popularity\":26.587,\"profile_path\":\"\/uH9oiqOOgrsz2zNnouVZ1qPzDyb.jpg\",\"cast_id\":14,\"character\":\"Self\",\"credit_id\":\"619912a1c0ae36002b5eb6a1\",\"order\":13}],\"crew\":[]}"
+}

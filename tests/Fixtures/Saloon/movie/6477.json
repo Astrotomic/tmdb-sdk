@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1906",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18261",
+        "x-memc": "HIT",
+        "x-memc-key": "9e5cbe486c0a81fc54d9f376d6105729",
+        "x-memc-age": "6383",
+        "x-memc-expires": "18261",
+        "ETag": "W\/\"4d3a03be2cbac35d55e81f8f0d10b201\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bxsfZO3RLbMp_1Z13gui9zSu87Jk1f_gH0lH6ShcsmGSByqkPxp8NA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lKkkogTlIQT8o83GFQZZ3CA9MzB.jpg\",\"belongs_to_collection\":{\"id\":167613,\"name\":\"Alvin and the Chipmunks Collection\",\"poster_path\":\"\/fLvRQcuk5ZFKnDvUC553XK3OnPC.jpg\",\"backdrop_path\":\"\/qI483yHct3PBtIiOH3K3SVNUDq5.jpg\"},\"budget\":60000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.chipmunks.com\/\",\"id\":6477,\"imdb_id\":\"tt0952640\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Alvin and the Chipmunks\",\"overview\":\"A struggling songwriter named Dave Seville finds success when he comes across a trio of singing chipmunks: mischievous leader Alvin, brainy Simon, and chubby, impressionable Theodore.\",\"popularity\":64.694,\"poster_path\":\"\/vRiB9uvcD0WYp7k2pAeWz9ukpuN.jpg\",\"production_companies\":[{\"id\":711,\"logo_path\":\"\/tEiIH5QesdheJmDAqQwvtN60727.png\",\"name\":\"Fox 2000 Pictures\",\"origin_country\":\"US\"},{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":10930,\"logo_path\":\"\/gTl5zq214ifd2qW7sp7to0aHS6C.png\",\"name\":\"Bagdasarian Productions\",\"origin_country\":\"\"},{\"id\":444,\"logo_path\":null,\"name\":\"Dune Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-13\",\"revenue\":361366633,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The Original Entourage\",\"title\":\"Alvin and the Chipmunks\",\"video\":false,\"vote_average\":5.814,\"vote_count\":4310}"
+}

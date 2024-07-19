@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "743",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19642",
+        "x-memc": "HIT",
+        "x-memc-key": "fb5927c9880a2d8b0972678ed2f8d20d",
+        "x-memc-age": "4387",
+        "x-memc-expires": "19642",
+        "ETag": "W\/\"cd1f950c7ed2be17f83c6076d51a0b3e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2G3Nix1c_xvGbzMXMdsXrRsOVtOJ2OdMi5oeqHlAVYgbiLIvAgGORg=="
+    },
+    "data": "{\"id\":709992,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/709992-bunky-blum-and-the-talking-train\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/709992-bunky-blum-and-the-talking-train\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

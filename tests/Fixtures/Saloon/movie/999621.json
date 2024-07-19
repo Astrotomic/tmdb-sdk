@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1573",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6062",
+        "x-memc": "HIT",
+        "x-memc-key": "6e3b94269b27da4b1089cd7ebc111b3d",
+        "x-memc-age": "20331",
+        "x-memc-expires": "6062",
+        "ETag": "W\/\"59e355f531930ee1dcef308ded04e3b6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4vQzG9Z5H_CQBG5oDMZ31NCwz_czsL3LOCeo1_QG3DcknDJkrbdk1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iJ27WaIy8xyrwAyHCYiJJNFq3Hy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":999621,\"imdb_id\":\"tt15823728\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Brats\",\"overview\":\"In the 1980s, Andrew McCarthy was part of a young generation of actors who were set to take over Hollywood after a string of successful teen movies. However, when the New York magazine cover story in 1985 dubs them the Brat Pack, stars in the making suddenly find themselves losing control over the trajectory of their careers. Now, almost forty years later, McCarthy looks to reconnect with peers and co-stars so that together they can reflect on their respective legacies.\",\"popularity\":24.305,\"poster_path\":\"\/8kXKxkFo1KC0pwvjbaKg4ruXG6J.jpg\",\"production_companies\":[{\"id\":57185,\"logo_path\":\"\/tBoX7BJKUyIwYIW06mOol3kOg6e.png\",\"name\":\"Network Entertainment\",\"origin_country\":\"CA\"},{\"id\":179418,\"logo_path\":\"\/rvOynvYRFkwrZmnxIheWfFZJokr.png\",\"name\":\"ABC News Studios\",\"origin_country\":\"US\"},{\"id\":90733,\"logo_path\":\"\/3K9wCZTyDgop3ITK1rDi6T2PckE.png\",\"name\":\"NEON\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-07\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everybody wanted to be in the Brat Pack. Except them.\",\"title\":\"Brats\",\"video\":false,\"vote_average\":6.26,\"vote_count\":25}"
+}

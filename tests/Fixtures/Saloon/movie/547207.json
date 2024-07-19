@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1056",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24454",
+        "x-memc": "HIT",
+        "x-memc-key": "f89401103daa7671f83180e643b2b4a1",
+        "x-memc-age": "1238",
+        "x-memc-expires": "24454",
+        "ETag": "W\/\"29fd34c8aca6a0d87f9b2e8768ea6167\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2C52Tw_c_rD-8IQ5qObIol8Pg0r_uanFpaqVTwgVl7uOCnBq45zsOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":547207,\"imdb_id\":null,\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc65c \ub3c5\ub9bd\uc601\ud654 \uac10\ub3c5\ub4e4\uc740 DVD\ub97c \uc8fc\uc9c0 \uc54a\ub294\uac00?\",\"overview\":\"Go Gi-hwan is the actor who was starred in a large number of short films. However, he couldn't get any dvd from the directors. He's decided to collect his dvds meeting the directors who he used to work with, and he faces the fact that he couldn't have known....\",\"popularity\":3.695,\"poster_path\":\"\/9rMcSRt4LGCuI09sXFAP6fpe4LV.jpg\",\"production_companies\":[{\"id\":122643,\"logo_path\":null,\"name\":\"2X9\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2013-11-09\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Where is my DVD?\",\"video\":false,\"vote_average\":9.5,\"vote_count\":2}"
+}

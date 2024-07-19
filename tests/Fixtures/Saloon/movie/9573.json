@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1282",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=332",
+        "x-memc": "HIT",
+        "x-memc-key": "e12c53330e93202a6e731b040b9a09d2",
+        "x-memc-age": "22407",
+        "x-memc-expires": "332",
+        "ETag": "W\/\"557655969de78e79f7c3062bb671ba93\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yPPCwwOlSRdDC8wjogntFxfLF_sFu8wGTAgeOML92S6BtY48JHgF8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7mEYBXThyEK2IM6j88e1ZJr9eli.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":9573,\"imdb_id\":\"tt0309377\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Blood Work\",\"overview\":\"Still recovering from a heart transplant, a retired FBI profiler returns to service when his own blood analysis offers clues to the identity of a serial killer.\",\"popularity\":26.552,\"poster_path\":\"\/A6wWJkIREagRWFNu3YotID3n9aW.jpg\",\"production_companies\":[{\"id\":171,\"logo_path\":\"\/bqLWwuNCHcY3IjB5e4o29h7l80D.png\",\"name\":\"Malpaso Productions\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-08-09\",\"revenue\":31794718,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"He's a heartbeat away from catching the killer.\",\"title\":\"Blood Work\",\"video\":false,\"vote_average\":6.171,\"vote_count\":773}"
+}

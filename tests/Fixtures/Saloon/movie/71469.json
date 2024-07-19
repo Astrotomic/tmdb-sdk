@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1503",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9280",
+        "x-memc": "HIT",
+        "x-memc-key": "a935709b0f46cf8755e4de4123ad6dda",
+        "x-memc-age": "18852",
+        "x-memc-expires": "9280",
+        "ETag": "W\/\"977dde4103f3640577494f94fb726bf7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JYRS46MoogCrfwKfZgKZHpOpAwJBrUavyhhyGRHgkfJSp9hS0tpHaQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ogRXgYKABTqiqmBen9hkbo3Fvz1.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":71469,\"imdb_id\":\"tt1093357\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Darkest Hour\",\"overview\":\"In Moscow, five young people lead the charge against an alien race which has attacked Earth via our power supply.\",\"popularity\":37.638,\"poster_path\":\"\/5Ao4qAFbjP7fcFOOdMNvQEnl0Yr.jpg\",\"production_companies\":[{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":1038,\"logo_path\":\"\/o62j8ZNXmRTrq6ThviFWiL9zb8J.png\",\"name\":\"Bazelevs Production\",\"origin_country\":\"RU\"},{\"id\":3638,\"logo_path\":null,\"name\":\"The Jacobson Company\",\"origin_country\":\"\"},{\"id\":10104,\"logo_path\":\"\/wRn5HnYMGeJHmItRypgOZOC6gwY.png\",\"name\":\"New Regency Pictures\",\"origin_country\":\"US\"},{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2011-12-22\",\"revenue\":64626786,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Survive the holidays\",\"title\":\"The Darkest Hour\",\"video\":false,\"vote_average\":5.277,\"vote_count\":1413}"
+}

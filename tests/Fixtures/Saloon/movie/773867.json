@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1095",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6438",
+        "x-memc": "HIT",
+        "x-memc-key": "c0d7a1673b25ad66092e81ac07661837",
+        "x-memc-age": "22347",
+        "x-memc-expires": "6438",
+        "ETag": "W\/\"95878e94ffe7d90991eee2d28f86e664\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FFWPyos_L_rZ9bp2yEWhojGcOjwjFaEBqpK6IQi3ZD1qgcq6gLkolA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rHzoz94bRfyfNLjiIB26Wt5KDHE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81437344\",\"id\":773867,\"imdb_id\":\"tt13611770\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc11c\uc6b8\ub300\uc791\uc804\",\"overview\":\"Chasing speed, dreams and money, a team of drivers get involved in the slush fund investigation of a powerful figure during the 1988 Seoul Olympics.\",\"popularity\":44.046,\"poster_path\":\"\/txaOvJ6HURmqFbpVtJezWNWqaR4.jpg\",\"production_companies\":[{\"id\":145236,\"logo_path\":\"\/tTDE3bxNHe2eYlFwLATWGSdJzQN.png\",\"name\":\"ANDMARQ Studio\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2022-08-26\",\"revenue\":0,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"Drive back to 1988.\",\"title\":\"Seoul Vibe\",\"video\":false,\"vote_average\":6.569,\"vote_count\":159}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1688",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4656",
+        "x-memc": "HIT",
+        "x-memc-key": "468c2405da0cbf751250083f2b4dd5f3",
+        "x-memc-age": "18794",
+        "x-memc-expires": "4656",
+        "ETag": "W\/\"a75d268802a813b7e78f76a1d1f2fa5c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vo5-PdFXLfbQdZtB8dMTGt4l5YDV8aJnM56I-lMjuGuM2Wwg9rjXrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jw4SNkaSgbrO7VJPsZUZqbBg1Ph.jpg\",\"belongs_to_collection\":null,\"budget\":19000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.arthurtheking.movie\/\",\"id\":618588,\"imdb_id\":\"tt10720352\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Arthur the King\",\"overview\":\"Over the course of ten days and 435 miles, an unbreakable bond is forged between pro adventure racer Michael Light and a scrappy street dog companion dubbed Arthur. As the team is pushed to their outer limits of endurance in the race, Arthur redefines what victory, loyalty and friendship truly mean.\",\"popularity\":102.447,\"poster_path\":\"\/zkKB3kOun5DKAkm61pHvLbrjxfa.jpg\",\"production_companies\":[{\"id\":8147,\"logo_path\":\"\/q6HOAdSNgCbeOqwoMVRc6REgbXF.png\",\"name\":\"Entertainment One\",\"origin_country\":\"CA\"},{\"id\":100033,\"logo_path\":\"\/74LDJbOFdya1ijNT11uh0mM5eg0.png\",\"name\":\"Tucker Tooley Entertainment\",\"origin_country\":\"US\"},{\"id\":169668,\"logo_path\":null,\"name\":\"Municipal Pictures\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":2995,\"logo_path\":null,\"name\":\"Atmosphere Entertainment MM\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-03-15\",\"revenue\":34339848,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An unexpected encounter. An unlikely bond. An unforgettable adventure.\",\"title\":\"Arthur the King\",\"video\":false,\"vote_average\":7.928,\"vote_count\":388}"
+}

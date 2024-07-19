@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "586",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8660",
+        "x-memc": "HIT",
+        "x-memc-key": "24f810d15738f7195fa21fc887fa58e0",
+        "x-memc-age": "17063",
+        "x-memc-expires": "8660",
+        "ETag": "W\/\"b3e7d72ca9f5c7e9fa284e2eebb4f227\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f32a39163a1e36ace7a71a85e2d2884.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vEHis4Ccy4dkv-i5_fe4iESdzZmo68--aYoczVC-7zR6xa2k2auX0A=="
+    },
+    "data": "{\"id\":394253,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/394253\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "832",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2920",
+        "x-memc": "HIT",
+        "x-memc-key": "632b914741038c3aa86f5800f97f7cad",
+        "x-memc-age": "23774",
+        "x-memc-expires": "2920",
+        "ETag": "W\/\"e299949abf5b009f6f85aba148fedb7f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5rFg7qjEjLpVUO4HioQfIMXY93QEdm5_p65FalFQj4W0U2Lj-KgcBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":712793,\"imdb_id\":null,\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Jornal Letal\",\"overview\":\"During what appeared to be just another ordinary day on small town news, an unexpected and tragic accident occurs.\",\"popularity\":0.617,\"poster_path\":\"\/zLk1MfE3wPwaJBUzimZgEQRU3nU.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2017-10-27\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"An unexpected accident occurs in the news.\",\"title\":\"Jornal Letal\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

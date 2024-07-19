@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1182",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24494",
+        "x-memc": "HIT",
+        "x-memc-key": "558a63de38b5c5eff60fd7059c0ac285",
+        "x-memc-age": "208",
+        "x-memc-expires": "24494",
+        "ETag": "W\/\"aa97b1dae7102cd6e84b9985859b3e79\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fwbXF5iBzoHzexFR2r86p24JvlUpPaPAue3WdM4YzjGhCJKFGnH9bQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hedpN98bby44kR0PrTuMnUjgXVc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":3162,\"imdb_id\":\"tt0069795\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Blackenstein\",\"overview\":\"Eddie is a Vietnam veteran who loses his arms and legs when he steps on a land mine, but a brilliant surgeon is able to attach new limbs. Unfortunately an insanely jealous assistant (who has fallen in love with Eddie's fiance) switches Eddie's DNA injections, transforming him into a gigantic killer.\",\"popularity\":6.352,\"poster_path\":\"\/qUDG9xyeogKzGa2QZu8zRNtu6sH.jpg\",\"production_companies\":[{\"id\":1345,\"logo_path\":null,\"name\":\"Frisco Productions Limited\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1973-08-03\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"To Stop This Mutha Takes One Bad Brutha\",\"title\":\"Blackenstein\",\"video\":false,\"vote_average\":3.1,\"vote_count\":37}"
+}

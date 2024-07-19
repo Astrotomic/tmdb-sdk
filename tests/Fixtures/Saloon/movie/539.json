@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1248",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5552",
+        "x-memc": "HIT",
+        "x-memc-key": "e75098b5ac1fe458f94050c0dc70c1cb",
+        "x-memc-age": "18334",
+        "x-memc-expires": "5552",
+        "ETag": "W\/\"ab481d2ff2d30c840d7e3fcd6349fec7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4pmYTvQ0ySO474HqSLG47CTM2-IkDs0U1NZfC2yrzQaqcXX5eIbHVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uif5fUshJrXyyDzfpzp1DLw3N0S.jpg\",\"belongs_to_collection\":{\"id\":119674,\"name\":\"Psycho Collection\",\"poster_path\":\"\/2cFhmOImIv5VPbc2ieLRPCFacAh.jpg\",\"backdrop_path\":\"\/qawcCCyJNcdOpDRuXo5aJJycecY.jpg\"},\"budget\":806947,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":539,\"imdb_id\":\"tt0054215\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Psycho\",\"overview\":\"When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother.\",\"popularity\":68.284,\"poster_path\":\"\/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg\",\"production_companies\":[{\"id\":10717,\"logo_path\":null,\"name\":\"Shamley Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1960-06-22\",\"revenue\":32000000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A new\u2014 and altogether different\u2014 screen excitement!!!\",\"title\":\"Psycho\",\"video\":false,\"vote_average\":8.433,\"vote_count\":9823}"
+}

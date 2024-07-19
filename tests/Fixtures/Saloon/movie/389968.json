@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1432",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13473",
+        "x-memc": "HIT",
+        "x-memc-key": "2125308e37b62fb01e5fd1dad92ac508",
+        "x-memc-age": "9504",
+        "x-memc-expires": "13473",
+        "ETag": "W\/\"684183f2dbc3242fe1335b7aaf9f0566\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xFhF_rHkT8Lve1mTX3ixMUgArrxOvS6nnsTiUypyxEtX7UnYj2T6mA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":389968,\"imdb_id\":\"tt4265880\",\"origin_country\":[\"DE\",\"AT\"],\"original_language\":\"de\",\"original_title\":\"D\u00e4mmerung \u00fcber Burma\",\"overview\":\"The U.S. scholarships Austrian student Inge and young mining student from Burma Sao Kya Seng fall in love. But it's only at the lavish wedding ceremony that Inge discovers her husband is the ruling prince of the Shan state of Burma. After a coup staged by the Burmese military, Sao is imprisoned. Inge does everything she can to free him. Base on the true story of Inge Sargent.\",\"popularity\":3.683,\"poster_path\":\"\/uJduc61Lxjh5J1yq9Yw6xLGY4qZ.jpg\",\"production_companies\":[{\"id\":2877,\"logo_path\":\"\/a1pn9aou2NsfB7QJVNAUOsE8LqR.png\",\"name\":\"Living Films\",\"origin_country\":\"TH\"},{\"id\":608,\"logo_path\":\"\/dD2Do4GHXAql5c4LjXCbEOvxbFg.png\",\"name\":\"Dor Film\",\"origin_country\":\"AT\"},{\"id\":1251,\"logo_path\":\"\/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png\",\"name\":\"ARD\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"}],\"release_date\":\"2015-10-26\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Twilight Over Burma\",\"video\":false,\"vote_average\":7.4,\"vote_count\":5}"
+}

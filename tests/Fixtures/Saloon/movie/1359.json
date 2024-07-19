@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1696",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10056",
+        "x-memc": "HIT",
+        "x-memc-key": "d64fc40cd85831ce4ba6ca2f4dcb27f9",
+        "x-memc-age": "17705",
+        "x-memc-expires": "10056",
+        "ETag": "W\/\"0a323e0afc212d07878012198c887222\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s2Vx-m80kNus9RcfStKxoJPR9IRaED3iQorF3-vlgoR0-YSWgaUIBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rRwD4MoBlkBXWQ6PDnbKRSU5dDu.jpg\",\"belongs_to_collection\":{\"id\":86105,\"name\":\"American Psycho Collection\",\"poster_path\":\"\/ko4O9lcRGYOZAF5Hh79Mfsgjpun.jpg\",\"backdrop_path\":\"\/z5cYtp6jrS23RrQPBiJMJpIMwjc.jpg\"},\"budget\":7000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1359,\"imdb_id\":\"tt0144084\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"American Psycho\",\"overview\":\"A wealthy New York investment banking executive hides his alternate psychopathic ego from his co-workers and friends as he escalates deeper into his illogical, gratuitous fantasies.\",\"popularity\":60.294,\"poster_path\":\"\/9uGHEgsiUXjCNq8wdq4r49YL8A1.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":6455,\"logo_path\":\"\/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png\",\"name\":\"Pressman Film\",\"origin_country\":\"US\"},{\"id\":15231,\"logo_path\":\"\/iFbzMtXFBv2ekA9Ldrw6LqjLrvX.png\",\"name\":\"Muse Productions\",\"origin_country\":\"US\"},{\"id\":65670,\"logo_path\":null,\"name\":\"Am Psycho Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-04-13\",\"revenue\":34300000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"...no introduction necessary.\",\"title\":\"American Psycho\",\"video\":false,\"vote_average\":7.401,\"vote_count\":10603}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1168",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15694",
+        "x-memc": "HIT",
+        "x-memc-key": "14175d72164b2ac62e082b160b3911a5",
+        "x-memc-age": "6134",
+        "x-memc-expires": "15694",
+        "ETag": "W\/\"76a4a13c280dd2d1158abed59d3dfd6d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PExVYXU9AfTbgDJKTOqkKhYQaKUvhHhCi-nE0MQubzhy3MmOdiTsDQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1ZKHzSGJm0kvlCp4echAOtKnDTm.jpg\",\"belongs_to_collection\":{\"id\":87250,\"name\":\"Bambi Collection\",\"poster_path\":\"\/b941y7oiWBXJZaoWemW4exlpDxf.jpg\",\"backdrop_path\":\"\/2VEzZVvMhlqrz1iPpCtbsTYB868.jpg\"},\"budget\":858000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/movies.disney.com\/bambi\",\"id\":3170,\"imdb_id\":\"tt0034492\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bambi\",\"overview\":\"Bambi's tale unfolds from season to season as the young prince of the forest learns about life, love, and friends.\",\"popularity\":60.606,\"poster_path\":\"\/wV9e2y4myJ4KMFsyFfWYcUOawyK.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1942-02-11\",\"revenue\":267447150,\"runtime\":70,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A great love story.\",\"title\":\"Bambi\",\"video\":false,\"vote_average\":7.013,\"vote_count\":5506}"
+}

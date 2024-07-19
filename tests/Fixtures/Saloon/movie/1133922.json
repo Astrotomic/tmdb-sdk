@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1106",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11561",
+        "x-memc": "HIT",
+        "x-memc-key": "d5f7c26060b966cec3a95f3868087267",
+        "x-memc-age": "10770",
+        "x-memc-expires": "11561",
+        "ETag": "W\/\"77046176428f65951982a9401f327df8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JPORD-NV0-ngDXt_4DX4skOPNHfEqPf_XTDy3kkO5MbgcPeAMp7SAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/64urMQXrdPVA8hr4PJayN7s5M8l.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81331646\",\"id\":1133922,\"imdb_id\":\"tt27906298\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Eldorado \u2013 Alles, was die Nazis hassen\",\"overview\":\"A glittery nightclub in 1920s Berlin becomes a haven for the queer community in this documentary exploring the freedoms lost amid Hitler\u2019s rise to power.\",\"popularity\":10.821,\"poster_path\":\"\/hRxLEqRj1qEqxvfpQLtZKANmqDU.jpg\",\"production_companies\":[{\"id\":201127,\"logo_path\":\"\/6mf9VV2rXJvtLiqI6jRGsJ9Q3Ql.png\",\"name\":\"The Thursday Company\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2023-06-28\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Eldorado: Everything the Nazis Hate\",\"video\":false,\"vote_average\":7.4,\"vote_count\":41}"
+}

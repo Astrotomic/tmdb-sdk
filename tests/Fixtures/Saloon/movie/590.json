@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1494",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9828",
+        "x-memc": "HIT",
+        "x-memc-key": "292fa9569d41e6a0b6f1af7742989cae",
+        "x-memc-age": "17403",
+        "x-memc-expires": "9828",
+        "ETag": "W\/\"cb1360b2c77ecc24a3ce0f82adce0114\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Rl2yzCjAEY3UhAoTTJA3Tbo6zQvFLPlYWEkkN3zVX4awre7q0BBEcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eSGa8LWATrc983PYFjGSIuMsNt6.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":590,\"imdb_id\":\"tt0274558\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hours\",\"overview\":\"\\\"The Hours\\\" is the story of three women searching for more potent, meaningful lives. Each is alive at a different time and place, all are linked by their yearnings and their fears. Their stories intertwine, and finally come together in a surprising, transcendent moment of shared recognition.\",\"popularity\":29.877,\"poster_path\":\"\/4myDtowDJQPQnkEDB1IWGtJR1Fo.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":258,\"logo_path\":null,\"name\":\"Scott Rudin Productions\",\"origin_country\":\"US\"},{\"id\":213476,\"logo_path\":null,\"name\":\"Robert Fox Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-12-27\",\"revenue\":41597830,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The time to hide is over. The time to regret is gone. The time to live is now.\",\"title\":\"The Hours\",\"video\":false,\"vote_average\":7.298,\"vote_count\":1645}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2258",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3682",
+        "x-memc": "HIT",
+        "x-memc-key": "96f0102e764b59e1837bbeff1e32a68b",
+        "x-memc-age": "19522",
+        "x-memc-expires": "3682",
+        "ETag": "W\/\"2ebcbffa62962fd10acd0b1005b69ac5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lkEOamUb7y-N__w1VJhfwy-W1YuJYc4y6MSSLlwitFSkWQCyJrpHKg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lpZPrfmWrcSkYQx8JHT9APj2uPB.jpg\",\"belongs_to_collection\":null,\"budget\":110000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10204,\"imdb_id\":\"tt0327437\",\"origin_country\":[\"DE\",\"US\",\"IE\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Around the World in 80 Days\",\"overview\":\"A bet pits a British inventor, a Chinese thief and a French artist on a worldwide adventure that they can circle the globe in 80 days.\",\"popularity\":32.509,\"poster_path\":\"\/pwYJWmZcbxFc1uGZTcPMNbZxMkw.jpg\",\"production_companies\":[{\"id\":264,\"logo_path\":\"\/fA90qwUKgPhMONqtwY60GaHRyrW.png\",\"name\":\"Studio Babelsberg\",\"origin_country\":\"DE\"},{\"id\":10221,\"logo_path\":\"\/99VfWRgKasZoyK9UVB39gnYvFrZ.png\",\"name\":\"Walden Media\",\"origin_country\":\"US\"},{\"id\":23636,\"logo_path\":null,\"name\":\"Mostow\/Lieberman Productions\",\"origin_country\":\"US\"},{\"id\":53413,\"logo_path\":null,\"name\":\"80 Days Productions\",\"origin_country\":\"\"},{\"id\":53414,\"logo_path\":null,\"name\":\"Spanknyce Films\",\"origin_country\":\"\"},{\"id\":53416,\"logo_path\":null,\"name\":\"Fitzwilliam Productions\",\"origin_country\":\"\"},{\"id\":424,\"logo_path\":null,\"name\":\"Babelsberg Film\",\"origin_country\":\"DE\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-06-16\",\"revenue\":72178895,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"},{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"Let your imagination soar.\",\"title\":\"Around the World in 80 Days\",\"video\":false,\"vote_average\":5.937,\"vote_count\":2434}"
+}

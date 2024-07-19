@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "237",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14888",
+        "x-memc": "HIT",
+        "x-memc-key": "aa87cc4464dc900fa5559b840cca30dd",
+        "x-memc-age": "6793",
+        "x-memc-expires": "14888",
+        "ETag": "W\/\"e33712ff9bcb2177ea8e0498510f40ae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rR3G03byHVyFvQN7EU-FYtH3_lFj8Km6C6Oi6_v52yEbyHhbJ2HeBw=="
+    },
+    "data": "{\"id\":214067,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/214067-surprise\/watch?locale=JP\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}]}}}"
+}

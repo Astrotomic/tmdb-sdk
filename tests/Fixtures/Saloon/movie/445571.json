@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1636",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21758",
+        "x-memc": "HIT",
+        "x-memc-key": "43ea96f5932d9668e3c05b1917903889",
+        "x-memc-age": "2678",
+        "x-memc-expires": "21758",
+        "ETag": "W\/\"41cfc94b97b584b12c65115e65f4551b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3QgGYUP3sXm0txG4hBctZ_ElIVnSifvmYZ3cSFi7g0isrLY126GCUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4hU1pC7MGQ7wU9ldkRJYNHK3vgb.jpg\",\"belongs_to_collection\":null,\"budget\":37000000,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.gamenight-movie.com\/\",\"id\":445571,\"imdb_id\":\"tt2704998\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Game Night\",\"overview\":\"Max and Annie's weekly game night gets kicked up a notch when Max's brother Brooks arranges a murder mystery party -- complete with fake thugs and federal agents. So when Brooks gets kidnapped, it's all supposed to be part of the game. As the competitors set out to solve the case, they start to learn that neither the game nor Brooks are what they seem to be. The friends soon find themselves in over their heads as each twist leads to another unexpected turn over the course of one chaotic night.\",\"popularity\":30.441,\"poster_path\":\"\/85R8LMyn9f2Lev2YPBF8Nughrkv.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":37361,\"logo_path\":\"\/xpbUNXnrMeEK1ynbqVnHp8ZOVKW.png\",\"name\":\"Aggregate Films\",\"origin_country\":\"US\"},{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-02-15\",\"revenue\":117501013,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"This is not a game.\",\"title\":\"Game Night\",\"video\":false,\"vote_average\":6.9,\"vote_count\":5630}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "698",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5719",
+        "x-memc": "HIT",
+        "x-memc-key": "e66486cf380c0ccf939066bcbcb05b75",
+        "x-memc-age": "17701",
+        "x-memc-expires": "5719",
+        "ETag": "W\/\"5007db2d834c2ac8e56bbafdcfdb3d5c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u_LEuOvOI5pYR8rtQZlk-jnt1e7GbdXWden5IFanSx0inuss-k9Xhw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mnwtQe4KJk4c3eGw5eilAavmif0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":394922,\"imdb_id\":\"tt3779780\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Senza lasciare traccia\",\"overview\":\"\",\"popularity\":5.128,\"poster_path\":\"\/53PpRhf4uuuSvStBHhqPCjr2mYN.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2016-04-14\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Senza lasciare traccia\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

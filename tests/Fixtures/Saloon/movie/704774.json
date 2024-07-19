@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "946",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20764",
+        "x-memc": "HIT",
+        "x-memc-key": "067c166843dff236c29fd5a238d5c58e",
+        "x-memc-age": "4541",
+        "x-memc-expires": "20764",
+        "ETag": "W\/\"b61361ca61a9755796343fc70eea12bb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VNh6z_cTRFLsAs1J_8ybzYcCGOQGtrTqjCN6_mr7hThy9_XxjpKhDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/phhI86iSVKMDw5ZKvrmndQ9hDjc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":704774,\"imdb_id\":\"tt9044298\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Subferatu\",\"overview\":\"In this satire, a group of modern-day Americans are captured by a WW2-era Uboat, with a sinister cargo, bound for NYC.\",\"popularity\":2.75,\"poster_path\":\"\/ooSH2rxBy2G1aFBaBhR9i72iFG6.jpg\",\"production_companies\":[{\"id\":135841,\"logo_path\":null,\"name\":\"Pontius Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-05-04\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"High in iron. Low on air. In too deep.\",\"title\":\"Subferatu\",\"video\":false,\"vote_average\":6.0,\"vote_count\":6}"
+}

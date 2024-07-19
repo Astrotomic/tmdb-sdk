@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1540",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2341",
+        "x-memc": "HIT",
+        "x-memc-key": "76f93e33c382099755763226bae0e82c",
+        "x-memc-age": "21629",
+        "x-memc-expires": "2341",
+        "ETag": "W\/\"d0da5062a60f8278ea319590a3a8c062\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IUKhPUrryuRXRiPkKWxBYgv-x_i9Jyz2YAqTpnOR26Xtn-I7RXkdwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3RfNxQhvseerf9dNlo1dmL09RLr.jpg\",\"belongs_to_collection\":null,\"budget\":31000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":10874,\"imdb_id\":\"tt0117110\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Muppet Treasure Island\",\"overview\":\"After telling the story of Flint's last journey to young Jim Hawkins, Billy Bones has a heart attack and dies just as Jim and his friends are attacked by pirates. The gang escapes into the town where they hire out a boat and crew to find the hidden treasure, which was revealed by Bones before he died. On their voyage across the seas, they soon find out that not everyone on board can be trusted.\",\"popularity\":22.437,\"poster_path\":\"\/gX2TAgjGvk2LJk4Awu0LM7UScfQ.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":2504,\"logo_path\":\"\/uuelgMOL4HJAJQcbJRiE4zlYbcU.png\",\"name\":\"Jim Henson Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-02-16\",\"revenue\":34300000,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Set sail for Muppet mayhem!\",\"title\":\"Muppet Treasure Island\",\"video\":false,\"vote_average\":6.7,\"vote_count\":378}"
+}

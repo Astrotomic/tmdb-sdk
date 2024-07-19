@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1614",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10140",
+        "x-memc": "HIT",
+        "x-memc-key": "31e976c1789a840053d1e4512dcfcd9b",
+        "x-memc-age": "16530",
+        "x-memc-expires": "10140",
+        "ETag": "W\/\"783d6df14945f9c2545c89bde54f3f81\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JyqUNa4yryRFZsX_pfMHQpFnTHG2utLWYUL6DKVj2ZXYdEwFiEfPIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ldLhsXf6sCFPi0FIIGgMT0njaZg.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":10988,\"imdb_id\":\"tt0116095\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Diabolique\",\"overview\":\"The wife and mistress of a cruel school master collaborate in a carefully planned and executed scheme to murder him. The plan goes well until the body, which has been strategically dumped, disappears. The psychological strain starts to weigh on the two women when a retired police investigator begins looking into the man's disappearance on a whim.\",\"popularity\":16.641,\"poster_path\":\"\/zSW4A35r7Vpz0ainYJGb2QVwCh0.jpg\",\"production_companies\":[{\"id\":976,\"logo_path\":null,\"name\":\"Marvin Worth Productions\",\"origin_country\":\"US\"},{\"id\":3668,\"logo_path\":null,\"name\":\"ABC Productions\",\"origin_country\":\"\"},{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-03-22\",\"revenue\":52400000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Two women. One man. The combination can be murder.\",\"title\":\"Diabolique\",\"video\":false,\"vote_average\":5.5,\"vote_count\":280}"
+}

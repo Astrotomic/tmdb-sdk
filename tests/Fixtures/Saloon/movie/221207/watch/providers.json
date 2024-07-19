@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "611",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12827",
+        "x-memc": "HIT",
+        "x-memc-key": "1bab65f214fb84fbaf7a70ea8a170982",
+        "x-memc-age": "13913",
+        "x-memc-expires": "12827",
+        "ETag": "W\/\"2499aa3021d37d99f250f185e6845afe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4dd80d99fd5d0f6baaaf5179cd921f72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BQdq8UhuuiVDagMc2A4TOZeqjhaHOQ210IS4ILpzauY4TwfVA7bPyg=="
+    },
+    "data": "{\"id\":221207,\"results\":{\"DK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/221207-historien-om-hjortholm\/watch?locale=DK\",\"rent\":[{\"logo_path\":\"\/auWzottqpExOHUlJwDZ4DvdHGoL.jpg\",\"provider_id\":423,\"provider_name\":\"Blockbuster\",\"display_priority\":17},{\"logo_path\":\"\/sNmIwrniZZORvNJOmEuWGhwBJNf.jpg\",\"provider_id\":426,\"provider_name\":\"SF Anytime\",\"display_priority\":18}],\"buy\":[{\"logo_path\":\"\/auWzottqpExOHUlJwDZ4DvdHGoL.jpg\",\"provider_id\":423,\"provider_name\":\"Blockbuster\",\"display_priority\":17},{\"logo_path\":\"\/sNmIwrniZZORvNJOmEuWGhwBJNf.jpg\",\"provider_id\":426,\"provider_name\":\"SF Anytime\",\"display_priority\":18}]}}}"
+}

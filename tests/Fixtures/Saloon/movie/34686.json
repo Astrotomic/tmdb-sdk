@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "797",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23195",
+        "x-memc": "HIT",
+        "x-memc-key": "d6e224eb15f716cf289be2a182cb0f2c",
+        "x-memc-age": "1235",
+        "x-memc-expires": "23195",
+        "ETag": "W\/\"d0b52214f8095b357a18aaa8233932a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a4zOwIeKYyjWeY9aVetP8CCJdz-McTlHB5yd-8Ii4pZKsrUpWMNEiQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.dicktheelf.com\",\"id\":34686,\"imdb_id\":\"\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Santa Preys For X-Mas\",\"overview\":\"An evil Santa must be stopped by Dick, one of Santa's own Christmas elves, and two local detectives. This is a dark and twisted comedic horror web series.\",\"popularity\":0.938,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2010-12-25\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Santa Preys For X-Mas\",\"video\":false,\"vote_average\":5.2,\"vote_count\":2}"
+}

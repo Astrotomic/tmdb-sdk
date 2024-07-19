@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "286",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=609",
+        "x-memc": "HIT",
+        "x-memc-key": "b4505c4c9508dc8512e292f42510b895",
+        "x-memc-age": "21964",
+        "x-memc-expires": "609",
+        "ETag": "W\/\"abf8980414da5fcaa231bfc06ef67fdd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XGMf86D9RkDX8WyS5-tEsGuAmavG4jyaGkWNC1-zEf8YsFkASCbr4A=="
+    },
+    "data": "{\"id\":709790,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2696914,\"known_for_department\":\"Directing\",\"name\":\"Isabelle Gendre\",\"original_name\":\"Isabelle Gendre\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5efb093a55b0c0003716717b\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

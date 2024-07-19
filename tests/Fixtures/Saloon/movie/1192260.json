@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1144",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1983",
+        "x-memc": "HIT",
+        "x-memc-key": "b47193ef0da4bee86cfdc0bec6b3539f",
+        "x-memc-age": "23512",
+        "x-memc-expires": "1983",
+        "ETag": "W\/\"dc713b0161a0233e454c10022a2487f9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZQTyL2ZnqZDiT03l56yLKxfIPL0Y9AgXO-twxXknWNiLx42_9ovtMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/31xXtKiACeceQsrPR1wQaBBhwIT.jpg\",\"belongs_to_collection\":null,\"budget\":17,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1192260,\"imdb_id\":null,\"origin_country\":[\"HU\"],\"original_language\":\"hu\",\"original_title\":\"Falcatus\",\"overview\":\"The tired traveler visits an old establishment, but he is not prepared for the horror that awaits him!\",\"popularity\":4.778,\"poster_path\":\"\/nkE1L8TobcqotcCqeEK6qzTj28a.jpg\",\"production_companies\":[{\"id\":200678,\"logo_path\":null,\"name\":\"Pluto Pictures\",\"origin_country\":\"\"},{\"id\":200679,\"logo_path\":null,\"name\":\"R\u00e9test\u00e9szta Productions\",\"origin_country\":\"\"},{\"id\":227262,\"logo_path\":null,\"name\":\"Westinghouse Pictures\",\"origin_country\":\"HU\"}],\"production_countries\":[{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"}],\"release_date\":\"2023-12-13\",\"revenue\":0,\"runtime\":21,\"spoken_languages\":[{\"english_name\":\"Hungarian\",\"iso_639_1\":\"hu\",\"name\":\"Magyar\"}],\"status\":\"Released\",\"tagline\":\"Children of the night\u2026 what music they make!\",\"title\":\"Falcatus\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

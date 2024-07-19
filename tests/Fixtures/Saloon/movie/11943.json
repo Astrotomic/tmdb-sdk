@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6726",
+        "x-memc": "HIT",
+        "x-memc-key": "121770ca04d24dcc5ba860f74d7188cc",
+        "x-memc-age": "16779",
+        "x-memc-expires": "6726",
+        "ETag": "W\/\"0a9349521afa74540fa56e688ebb7043\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "p-7bCHPsQKn0EA0suqg0wAHRh4-_0vw6cGgXRI6Ht9VYvy5ONXOB_A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gSFkUGrgCSDDQpsQ6HbrEQ41tMl.jpg\",\"belongs_to_collection\":null,\"budget\":3100000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":11943,\"imdb_id\":\"tt0068762\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jeremiah Johnson\",\"overview\":\"A mountain man who wishes to live the life of a hermit becomes the unwilling object of a long vendetta by Indians when he proves to be the match of their warriors in one-to-one combat on the early frontier.\",\"popularity\":26.81,\"poster_path\":\"\/732cOohUbdH3FCo7lPbYVtbgUot.jpg\",\"production_companies\":[{\"id\":12273,\"logo_path\":null,\"name\":\"Sanford Productions (III)\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1972-09-10\",\"revenue\":44700000,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some say he's dead...some say he never will be.\",\"title\":\"Jeremiah Johnson\",\"video\":false,\"vote_average\":7.285,\"vote_count\":580}"
+}

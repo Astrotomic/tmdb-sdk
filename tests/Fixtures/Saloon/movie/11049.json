@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1775",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10558",
+        "x-memc": "HIT",
+        "x-memc-key": "e6101d13320e32e882969c92c6e8474d",
+        "x-memc-age": "13974",
+        "x-memc-expires": "10558",
+        "ETag": "W\/\"65391f86f5afd8707294fd84e17098ca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WOk_OO3sOBayUucPAmngyiU7nTS7UWSROmsGWuEUtKZcWx17JJfMAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/p1XtUnWJrmVNqyhYJGIatMNt8C1.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":11049,\"imdb_id\":\"tt0368667\",\"origin_country\":[\"FR\",\"JP\"],\"original_language\":\"en\",\"original_title\":\"Interstella 5555: The 5tory of the 5ecret 5tar 5ystem\",\"overview\":\"Four talented alien musicians are kidnapped by a record producer who disguises them as humans. Shep, a space pilot in love with bass player Stella, follows them to Earth. Reprogrammed to forget their real identities and renamed The Crescendolls, the group quickly becomes a huge success playing soulless corporate pop. At a concert, Shep manages to free all the musicians except Stella, and the band sets out to rediscover who they really are -- and to rescue Stella.\",\"popularity\":18.467,\"poster_path\":\"\/2lhOV8CCqsiGL1aIFvQzI0WLTek.jpg\",\"production_companies\":[{\"id\":5542,\"logo_path\":\"\/ayE4LIqoAWotavo7xdvYngwqGML.png\",\"name\":\"Toei Animation\",\"origin_country\":\"JP\"},{\"id\":3117,\"logo_path\":null,\"name\":\"Daft Life\",\"origin_country\":\"FR\"},{\"id\":856,\"logo_path\":\"\/3tfzS2CrX6Ntbu927XzHXEPDA6y.png\",\"name\":\"Wild Bunch\",\"origin_country\":\"FR\"},{\"id\":208,\"logo_path\":\"\/bxQYlRhQu6nbohBEL0SWz8xIAGy.png\",\"name\":\"Bac Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2003-05-28\",\"revenue\":0,\"runtime\":66,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The animated House musical.\",\"title\":\"Interstella 5555: The 5tory of the 5ecret 5tar 5ystem\",\"video\":false,\"vote_average\":7.795,\"vote_count\":400}"
+}

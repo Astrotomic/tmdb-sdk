@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1430",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23711",
+        "x-memc": "HIT",
+        "x-memc-key": "34a456a6c7cdafb5aa65e6dd31b34133",
+        "x-memc-age": "1090",
+        "x-memc-expires": "23711",
+        "ETag": "W\/\"5f8f31cc54d5680a1a2645ae96ec974b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gojSwO5HHNmldgcpc88ZgNBrEKHiNQreM_2kbBl8s59nAaRR7vMjwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qDDuuzIJPIqxk9H6r1GSW2fRqUC.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"http:\/\/movies.disney.com\/the-wild-country\",\"id\":238850,\"imdb_id\":\"tt0067985\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Wild Country\",\"overview\":\"Uprooted from their comfortable home in Pennsylvania, James and Kate Tanner, along with their sons, Virgil and Andy, journey to the wild country of 1890s Wyoming to become farmers. Soon, they come face-to-face with tornadoes, bears and wolves. But through the hardships their love for each other endures, even when a local rancher sees the newcomers as \\\"squatters\\\" on his land, and will stop at nothing \u2013 including murder \u2013 to drive them out.\",\"popularity\":5.1,\"poster_path\":\"\/oLmJ92Cx3FsdIVvUaWLhytcbSSp.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1970-12-16\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A family leaves city life to take possession of a Wyoming ranch.\",\"title\":\"The Wild Country\",\"video\":false,\"vote_average\":6.0,\"vote_count\":6}"
+}

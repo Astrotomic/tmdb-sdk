@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1491",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19555",
+        "x-memc": "HIT",
+        "x-memc-key": "4171eb8c411ff9c871abd7d9660c400c",
+        "x-memc-age": "2897",
+        "x-memc-expires": "19555",
+        "ETag": "W\/\"42e5cadf776a91a6dcba50914eded8f2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3cmkpRPxv_z2Za7bwzQD4ov-UmjU4QuGNxG8Ze0zVA_g755rUfQlJg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1wyFgywBCCSnniSOHLlIZijNcty.jpg\",\"belongs_to_collection\":null,\"budget\":12500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":222899,\"imdb_id\":\"tt1826590\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"About Last Night\",\"overview\":\"Bernie and Joan are two fiery flirters who are passionate about everything from hookups to breakups and each other. When he sets up his best friend, Danny, with her roommate, Debbie, the sparks soon fly as they try to navigate the relationship minefields from the bar to the bedroom and are eventually put to the test in the real world.\",\"popularity\":27.296,\"poster_path\":\"\/z3dVYQtxXldDawz7d15wqt2PQLe.jpg\",\"production_companies\":[{\"id\":7291,\"logo_path\":\"\/eo8YnSO7wpUHVEprnMDOUcalhFD.png\",\"name\":\"Olive Bridge Entertainment\",\"origin_country\":\"US\"},{\"id\":1309,\"logo_path\":\"\/gdsheJrD3lznh3O2qEPBDn54Anq.png\",\"name\":\"Rainforest Entertainment\",\"origin_country\":\"US\"},{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-02-14\",\"revenue\":49002684,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's about compromise. It's about love. It's about a good wingman.\",\"title\":\"About Last Night\",\"video\":false,\"vote_average\":6.041,\"vote_count\":491}"
+}

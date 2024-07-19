@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3582",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10565",
+        "x-memc": "HIT",
+        "x-memc-key": "63f921dab3841a92e40eb7bf33c0adeb",
+        "x-memc-age": "17841",
+        "x-memc-expires": "10565",
+        "ETag": "W\/\"dcbfc4125950b9fadc30d18c1079c254\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8dc3ccc34d68ee81173fff2a80f72bde.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZVxbvNU7xOJcAoh9dfY14iqzdQhUhKj-SP5KN4F1EunEjzdEUVPEKQ=="
+    },
+    "data": "{\"id\":389088,\"results\":{\"AD\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=AD\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=CH\",\"flatrate\":[{\"logo_path\":\"\/eBXzkFEupZjKaIKY7zBUaSdCY8I.jpg\",\"provider_id\":381,\"provider_name\":\"Canal+\",\"display_priority\":41}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=FR\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":1},{\"logo_path\":\"\/eBXzkFEupZjKaIKY7zBUaSdCY8I.jpg\",\"provider_id\":381,\"provider_name\":\"Canal+\",\"display_priority\":6},{\"logo_path\":\"\/oYsPBkqP7QjliFT758DrR9i2mpl.jpg\",\"provider_id\":685,\"provider_name\":\"OCS Amazon Channel \",\"display_priority\":45},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":75},{\"logo_path\":\"\/8qSG9LtUhBQIWy2Fr6fzeW7gBdd.jpg\",\"provider_id\":1967,\"provider_name\":\"Molotov TV\",\"display_priority\":103}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12},{\"logo_path\":\"\/br0wtjMDSjMahkhzn5XAXYWyr3V.jpg\",\"provider_id\":138,\"provider_name\":\"FILMO\",\"display_priority\":18},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":21},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12},{\"logo_path\":\"\/br0wtjMDSjMahkhzn5XAXYWyr3V.jpg\",\"provider_id\":138,\"provider_name\":\"FILMO\",\"display_priority\":18},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":21},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42}]},\"GF\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=GF\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]},\"MC\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=MC\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]},\"PF\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=PF\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]},\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=RU\",\"flatrate\":[{\"logo_path\":\"\/yyMxS08v80D96O7NtL9supa5sn7.jpg\",\"provider_id\":557,\"provider_name\":\"More TV\",\"display_priority\":16}]},\"UA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/389088-le-secret-des-banquises\/watch?locale=UA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":2}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":2}]}}}"
+}

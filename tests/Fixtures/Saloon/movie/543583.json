@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1452",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12371",
+        "x-memc": "HIT",
+        "x-memc-key": "7ad7c4dcf7c7b2fa0a9e35df5bba99e1",
+        "x-memc-age": "11054",
+        "x-memc-expires": "12371",
+        "ETag": "W\/\"b45938f13f8cdae00077b5131f1007c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EDowIDIEFQhxsduNWSV9XCcTt1G1Ybfybb9B00tcTWtgvDUnoT3xaA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ozUAPUxhpzwePlyp7TULZ4kQ64M.jpg\",\"belongs_to_collection\":{\"id\":1308589,\"name\":\"Cinderella Collection\",\"poster_path\":\"\/x0D4Sc3YFwyhyq0ucprt3ufLV3P.jpg\",\"backdrop_path\":null},\"budget\":20000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/goldvalleyfilms.com\/index.php\/05_films\/\",\"id\":543583,\"imdb_id\":\"tt6241270\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cinderella and the Secret Prince\",\"overview\":\"Cinderella discovers a secret that could shake their world: an evil witch turned the prince into a mouse and replaced him with a look-alike. Cinderella and her friends must save the real prince and help him defeat the evil witch.\",\"popularity\":16.809,\"poster_path\":\"\/4oIIM7i4sFPyGFWP0GYZo3pNAH7.jpg\",\"production_companies\":[{\"id\":80659,\"logo_path\":null,\"name\":\"Gold Valley Films\",\"origin_country\":\"CN\"},{\"id\":206733,\"logo_path\":null,\"name\":\"Gold Valley Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-09-30\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Can Cinderella rescue her Prince ...?\",\"title\":\"Cinderella and the Secret Prince\",\"video\":false,\"vote_average\":6.5,\"vote_count\":63}"
+}

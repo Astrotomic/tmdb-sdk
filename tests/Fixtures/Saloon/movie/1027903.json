@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1331",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20023",
+        "x-memc": "HIT",
+        "x-memc-key": "c82ab800da11e7afcbce444993a613ea",
+        "x-memc-age": "3488",
+        "x-memc-expires": "20023",
+        "ETag": "W\/\"ac6a796694432f081f16f0f38e1de839\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bn4BxcrPq1e6myz3D1ir2qe30iLHyH8OlBRMhaXC6nVwgkWP-KUygQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/eisen-flugel.com\/\",\"id\":1027903,\"imdb_id\":\"tt22248742\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30a2\u30a4\u30bc\u30f3\u30d5\u30ea\u30e5\u30fc\u30b2\u30eb\",\"overview\":\"In a world where dragons rule the skies, mankind still dreams of flight, of someday dominating the heavens in their stead. Even in times of war, the passionate young pilot Karl Schuniz continues to chase his dreams, taking up his wings of steel - the revolutionary new aircraft, the Blitz Vogel - to challenge the Kaiser Drache, the fastest dragon that can fly at supersonic speeds.\",\"popularity\":3.524,\"poster_path\":\"\/kYGKitjlukMEvnwddGgPjpHJkbR.jpg\",\"production_companies\":[{\"id\":13113,\"logo_path\":\"\/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png\",\"name\":\"A-1 Pictures\",\"origin_country\":\"JP\"},{\"id\":2883,\"logo_path\":\"\/rDYExnBV61jGQnkhVVrPN4Yl7O1.png\",\"name\":\"Aniplex\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"In Production\",\"tagline\":\"\",\"title\":\"Eisen Fl\u00fcgel\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

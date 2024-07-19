@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "960",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21356",
+        "x-memc": "HIT",
+        "x-memc-key": "36cff2a72de697e45a1129e53ca5fa02",
+        "x-memc-age": "6531",
+        "x-memc-expires": "21356",
+        "ETag": "W\/\"d89320df825cd8fc3e52215fee894079\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cd5ydR3DuUq0ONCf2gwkuEaOJXaw9g2PWOH7c7VNDD8CaeuckDCuHw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kodFSZ9AYyw7QZyBrA8MoENSmFA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":234844,\"imdb_id\":\"tt3708828\",\"origin_country\":[\"IN\"],\"original_language\":\"ml\",\"original_title\":\"\u0d17\u0d4b\u0d21\u0d4d \u0d2b\u0d4b\u0d7c \u0d38\u0d46\u0d2f\u0d3f\u0d7d : \u0d26\u0d48\u0d35\u0d02 \u0d35\u0d3f\u0d7d\u0d2a\u0d4d\u0d2a\u0d28\u0d2f\u0d4d\u0d15\u0d4d\u0d15\u0d4d\",\"overview\":\"Prasannan, a recently released mental asylum inmate, claims to be an avatar of God and assumes the identity of Poornananda Swami.\",\"popularity\":4.782,\"poster_path\":\"\/h6FFfCnrWocqFKhpz9CrxVoUB36.jpg\",\"production_companies\":[{\"id\":18141,\"logo_path\":null,\"name\":\"Green Advertising\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2013-06-28\",\"revenue\":0,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"Malayalam\",\"iso_639_1\":\"ml\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"God For Sale\",\"video\":false,\"vote_average\":9.0,\"vote_count\":1}"
+}

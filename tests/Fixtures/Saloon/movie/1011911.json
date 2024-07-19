@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1513",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20837",
+        "x-memc": "HIT",
+        "x-memc-key": "47ebd39211eee26f5689935e25f64c13",
+        "x-memc-age": "7818",
+        "x-memc-expires": "20837",
+        "ETag": "W\/\"b740c3ef27cbec074d4b42cbe4c66d03\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vHMPx1v-TXT4GYmMMgA9dK7NVtQTQiHY4VIrmLXoAgYjk_ff-uXIOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/grckmyOwvdpPLgxSCTL1FwdG8XW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.michaellitwak.com\/molli-max-in-the-future\",\"id\":1011911,\"imdb_id\":\"tt21426456\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Molli and Max in the Future\",\"overview\":\"A sci-fi romantic comedy about a man and woman whose orbits repeatedly collide over the course of 12 years, 4 planets, 3 dimensions and one space-cult.\",\"popularity\":6.311,\"poster_path\":\"\/us42Z0MPRlJvMZ9nsfoAdCwPyvv.jpg\",\"production_companies\":[{\"id\":195637,\"logo_path\":\"\/kdzqPBKBH1xelVw57n718rZjX1d.png\",\"name\":\"Choreografx\",\"origin_country\":\"US\"},{\"id\":192073,\"logo_path\":\"\/7AebhOI7H8o7b7EnFtCpfCfBu5s.png\",\"name\":\"DVRG\",\"origin_country\":\"US\"},{\"id\":195638,\"logo_path\":\"\/pVGQWxR1k1wHI8VSoP9eKJmsWOL.png\",\"name\":\"Senior Post\",\"origin_country\":\"US\"},{\"id\":203697,\"logo_path\":\"\/475erJvE3ps0x30JH3udhuJ6nrE.png\",\"name\":\"Whiskey Bear\",\"origin_country\":\"US\"},{\"id\":224622,\"logo_path\":\"\/3XMgrn9Psa7jiiLGWr9IdwYbxQB.png\",\"name\":\"the Family\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-03-11\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Molli and Max in the Future\",\"video\":false,\"vote_average\":6.563,\"vote_count\":8}"
+}

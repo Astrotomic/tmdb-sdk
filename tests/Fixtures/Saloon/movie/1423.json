@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1149",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20366",
+        "x-memc": "HIT",
+        "x-memc-key": "6eae2b78914165c6cf3c9c63ad077db0",
+        "x-memc-age": "4772",
+        "x-memc-expires": "20366",
+        "ETag": "W\/\"c072ac0045eb9520eb9e251a7b1cbfc3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yD3Us44Uz5rAe6quNj5R6ShKTz1yDcTHmpcQMZklPQVyVO2eyK_T_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.flyingsaucerrocks.com\/\",\"id\":1423,\"imdb_id\":\"tt1344607\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Flying Saucer Rock 'N' Roll\",\"overview\":\"Flying Saucer Rock N Roll is the debut feature film from the father-son duo Eric and Joe Callero. The year is 1957 as a group of rockabilly and beatnik teens are visited by weed smoking Martian zombies who have come to take their earth women. Filmed with respect for classic horror films and full of laughs as the viewer is taken on an adventure like no other.\",\"popularity\":1.75,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-03-18\",\"revenue\":6,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Flying Saucer Rock 'N' Roll\",\"video\":false,\"vote_average\":3.0,\"vote_count\":1}"
+}

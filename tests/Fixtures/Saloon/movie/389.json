@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1278",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20711",
+        "x-memc": "HIT",
+        "x-memc-key": "90c28424c897d6e19c020bb788c7af7a",
+        "x-memc-age": "2781",
+        "x-memc-expires": "20711",
+        "ETag": "W\/\"3150e14dff4a52d60fddbe90b21b79b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZAI_SM4cqcc86Ra9UMlIyJL5O8TV9sjG_uK5ftQd94XCOvSWlqXFHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qqHQsStV6exghCM7zbObuYBiYxw.jpg\",\"belongs_to_collection\":null,\"budget\":397751,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":389,\"imdb_id\":\"tt0050083\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"12 Angry Men\",\"overview\":\"The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.\",\"popularity\":77.125,\"poster_path\":\"\/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":10212,\"logo_path\":null,\"name\":\"Orion-Nova Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1957-04-10\",\"revenue\":4360000,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Life is in their hands \u2014 Death is on their minds!\",\"title\":\"12 Angry Men\",\"video\":false,\"vote_average\":8.543,\"vote_count\":8364}"
+}

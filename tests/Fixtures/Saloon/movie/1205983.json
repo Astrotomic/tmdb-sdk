@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "988",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19851",
+        "x-memc": "HIT",
+        "x-memc-key": "66f59f61a0f6dd94e82ca56fe24de26c",
+        "x-memc-age": "5517",
+        "x-memc-expires": "19851",
+        "ETag": "W\/\"5bd2a56ee29d95228bff8656e08019dc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SH4BM5CaINLBMve09jH5EQ28ebgmV1ui-5GW46IUSW-8j-TRpcxBTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":386382,\"name\":\"Frozen Collection\",\"poster_path\":\"\/dwdyvzFX9NEI7oFlRnZurRmlswQ.jpg\",\"backdrop_path\":\"\/s3vdRkK7KZFUDC8HEJo2GRKyVhW.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1205983,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Frozen 4\",\"overview\":\"Fourth installment in the Disney animated franchise. Plot TBA.\",\"popularity\":1.698,\"poster_path\":null,\"production_companies\":[{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Frozen 4\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

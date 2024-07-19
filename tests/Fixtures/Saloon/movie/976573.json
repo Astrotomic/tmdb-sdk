@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1261",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13141",
+        "x-memc": "HIT",
+        "x-memc-key": "575da89cc0ccea436eaf9d29eb66c9f5",
+        "x-memc-age": "11787",
+        "x-memc-expires": "13141",
+        "ETag": "W\/\"c307f646716cacbda0c9f66d640f3d81\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T-YvN8OatvGFMGrFygNk3vHfFdYXTMp6YrG6ZcflnN2sGZ9PuE4Z-Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6YInbRTk39ckuLYFmUgBCKcKNjb.jpg\",\"belongs_to_collection\":null,\"budget\":200000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/movies.disney.com\/elemental\",\"id\":976573,\"imdb_id\":\"tt15789038\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Elemental\",\"overview\":\"In a city where fire, water, land and air residents live together, a fiery young woman and a go-with-the-flow guy will discover something elemental: how much they have in common.\",\"popularity\":224.162,\"poster_path\":\"\/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-06-14\",\"revenue\":496000000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Opposites react.\",\"title\":\"Elemental\",\"video\":false,\"vote_average\":7.655,\"vote_count\":4201}"
+}

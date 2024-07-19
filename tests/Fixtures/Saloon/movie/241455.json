@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1049",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6930",
+        "x-memc": "HIT",
+        "x-memc-key": "a4d1bdae815c397c00f53ae1d540b79c",
+        "x-memc-age": "20177",
+        "x-memc-expires": "6930",
+        "ETag": "W\/\"8937db20f90a6bfbe75b27db3283e1e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vr-7bb8ICGBn_HxtTHv3lm5GiPpVCbR4Q2isrFS5cio39BDfc58TWA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/35Sj8gWXzmzp1tHggDPlXsvzlpJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":241455,\"imdb_id\":\"tt0029122\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Law Commands\",\"overview\":\"Night riders are terrorizing homesteaders, and the town doctor tries to keep the locals from forming a vigilante group. After more towns people are killed, however, the rest of the town makes the doctor the town sheriff and tells him to clean up the gang.\",\"popularity\":2.482,\"poster_path\":\"\/3cRHNvtLkmbUskAlM4aquLH6uq.jpg\",\"production_companies\":[{\"id\":11839,\"logo_path\":null,\"name\":\"Crescent Pictures Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1937-05-07\",\"revenue\":0,\"runtime\":58,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Law Commands\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

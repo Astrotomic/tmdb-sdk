@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1584",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15280",
+        "x-memc": "HIT",
+        "x-memc-key": "72d8dd183e7e540ded1765d4449533a6",
+        "x-memc-age": "6398",
+        "x-memc-expires": "15280",
+        "ETag": "W\/\"a85a3c5d0e8a9c09917fe6cade93789d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SChIK71xBBLIbSnXMxaJnSvG5VfAOXEsIiPTy7TEIxv2MG7qIyIdYw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iaNoLnnpQb5SNxGc4bkQmdCvEdG.jpg\",\"belongs_to_collection\":{\"id\":2150,\"name\":\"Shrek Collection\",\"poster_path\":\"\/m3IA3X59cEup41xs4DJLptlfsza.jpg\",\"backdrop_path\":\"\/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/www.shrek2.com\/\",\"id\":809,\"imdb_id\":\"tt0298148\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shrek 2\",\"overview\":\"Shrek, Fiona, and Donkey set off to Far, Far Away to meet Fiona's mother and father, the Queen and King. But not everyone is happily ever after. Shrek and the King find it difficult to get along, and there's tension in the marriage. The Fairy Godmother discovers that Fiona has married Shrek instead of her son Prince Charming and plots to destroy their marriage.\",\"popularity\":132.621,\"poster_path\":\"\/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-05-19\",\"revenue\":932396221,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Once upon another time...\",\"title\":\"Shrek 2\",\"video\":false,\"vote_average\":7.275,\"vote_count\":12013}"
+}

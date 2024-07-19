@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3864",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2326",
+        "x-memc": "HIT",
+        "x-memc-key": "21bdb3afc636acb462a87f2f2b3b57f7",
+        "x-memc-age": "23105",
+        "x-memc-expires": "2326",
+        "ETag": "W\/\"f8a38b042708a685768656a08c276b56\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XAK_BvVBTvezdSjYdCEtYqueppIX-jDit1TNattPevDlz7PXmV0QWA=="
+    },
+    "data": "{\"id\":6733,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6733-wo-ist-fred\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":14},{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":14},{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6733-wo-ist-fred\/watch?locale=CH\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6733-wo-ist-fred\/watch?locale=DE\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":14},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":18},{\"logo_path\":\"\/lrEigPPAhggq02q53uM8vdWAIUX.jpg\",\"provider_id\":178,\"provider_name\":\"MagentaTV\",\"display_priority\":26},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":32},{\"logo_path\":\"\/dKh2TJ9lTWV0UIcDQGMnMyQ8AIN.jpg\",\"provider_id\":1993,\"provider_name\":\"Videoload\",\"display_priority\":149}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":14},{\"logo_path\":\"\/cBN4jd4wPq6on0kESiTlevqvlnL.jpg\",\"provider_id\":20,\"provider_name\":\"maxdome Store\",\"display_priority\":18},{\"logo_path\":\"\/lrEigPPAhggq02q53uM8vdWAIUX.jpg\",\"provider_id\":178,\"provider_name\":\"MagentaTV\",\"display_priority\":26},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":32},{\"logo_path\":\"\/dKh2TJ9lTWV0UIcDQGMnMyQ8AIN.jpg\",\"provider_id\":1993,\"provider_name\":\"Videoload\",\"display_priority\":149}]}}}"
+}

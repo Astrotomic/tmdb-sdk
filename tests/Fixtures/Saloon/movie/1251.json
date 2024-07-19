@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1660",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1610",
+        "x-memc": "HIT",
+        "x-memc-key": "ab2089209aa8b947c35df961ed0873e5",
+        "x-memc-age": "20070",
+        "x-memc-expires": "1610",
+        "ETag": "W\/\"de2e2b6a9c38fec10a8f0c9931573e14\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sVSmahC2RlWXXH6zQUisMK56xr7E2ULNkFh_u69DkPsRg4DxgHTTbQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/p9V3vD1Ye2zRNfTsE8oY58Fe81S.jpg\",\"belongs_to_collection\":{\"id\":261382,\"name\":\"Clint Eastwood's Iwo Jima Collection\",\"poster_path\":\"\/rnRE6JGz9yjYUAbWIHYkGu9B8pj.jpg\",\"backdrop_path\":\"\/rhEguwkWJwePaVATwMovX9L3oao.jpg\"},\"budget\":19000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/letters-iwo-jima\",\"id\":1251,\"imdb_id\":\"tt0498380\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Letters from Iwo Jima\",\"overview\":\"The story of the battle of Iwo Jima between the United States and Imperial Japan during World War II, as told from the perspective of the Japanese who fought it.\",\"popularity\":33.487,\"poster_path\":\"\/kZokxQtzMPURvijWYFuvh1fAvnv.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":171,\"logo_path\":\"\/bqLWwuNCHcY3IjB5e4o29h7l80D.png\",\"name\":\"Malpaso Productions\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-12-09\",\"revenue\":68673228,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The battle of Iwo Jima seen through the eyes of the Japanese soldiers.\",\"title\":\"Letters from Iwo Jima\",\"video\":false,\"vote_average\":7.472,\"vote_count\":1992}"
+}

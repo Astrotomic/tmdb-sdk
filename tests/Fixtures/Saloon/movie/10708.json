@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1268",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14312",
+        "x-memc": "HIT",
+        "x-memc-key": "cda58041d45b9cd615e9bb45020f3d05",
+        "x-memc-age": "12435",
+        "x-memc-expires": "14312",
+        "ETag": "W\/\"96406289f1c14014607c8a2b39b434f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-wYAxy-xRAZskMx0k_s4orAzSi27cUZ83Z-_m6vtpjUHNbZ3kTyeKg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/324Ztjb22pdtxI8NW7mjGknL4CE.jpg\",\"belongs_to_collection\":{\"id\":228887,\"name\":\"Daddy Day Camp Collection\",\"poster_path\":\"\/xhD1mbjJmhSNejP59fh8o7EYcv7.jpg\",\"backdrop_path\":\"\/hQXX7E22e1xJVudoNgZJn95BIAl.jpg\"},\"budget\":60000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":10708,\"imdb_id\":\"tt0317303\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Daddy Day Care\",\"overview\":\"Two men get laid off and have to become stay-at-home dads when they can't find jobs, which inspires them to open their own day-care center.\",\"popularity\":32.488,\"poster_path\":\"\/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg\",\"production_companies\":[{\"id\":497,\"logo_path\":\"\/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png\",\"name\":\"Revolution Studios\",\"origin_country\":\"US\"},{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-05-09\",\"revenue\":164433867,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Who's your daddy?\",\"title\":\"Daddy Day Care\",\"video\":false,\"vote_average\":5.896,\"vote_count\":2041}"
+}

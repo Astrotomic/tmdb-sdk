@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1726",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:13:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6873",
+        "x-memc": "HIT",
+        "x-memc-key": "3ed255346b52b311d01ae71261c14938",
+        "x-memc-age": "19662",
+        "x-memc-expires": "6873",
+        "ETag": "W\/\"e202d150be800276191d376ad67afac8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z6FfOfmrwDMipKGCkoCdMlfsBpAbWoFhpKSYV76E568lPjGBSluiLw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bXH4lyFS6tctnBgxK1eYRuwekR0.jpg\",\"belongs_to_collection\":{\"id\":84,\"name\":\"Indiana Jones Collection\",\"poster_path\":\"\/lpxDrACKJhbbGOlwVMNz5YCj6SI.jpg\",\"backdrop_path\":\"\/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg\"},\"budget\":185000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.indianajones.com\/site\/index.html\",\"id\":217,\"imdb_id\":\"tt0367882\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Indiana Jones and the Kingdom of the Crystal Skull\",\"overview\":\"Set during the Cold War, the Soviets\u2014led by sword-wielding Irina Spalko\u2014are in search of a crystal skull which has supernatural powers related to a mystical Lost City of Gold. Indy is coerced to head to Peru at the behest of a young man whose friend\u2014and Indy's colleague\u2014Professor Oxley has been captured for his knowledge of the skull's whereabouts.\",\"popularity\":71.757,\"poster_path\":\"\/56As6XEM1flWvprX4LgkPl8ii4K.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-05-21\",\"revenue\":786636033,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"The adventure continues . . .\",\"title\":\"Indiana Jones and the Kingdom of the Crystal Skull\",\"video\":false,\"vote_average\":6.012,\"vote_count\":8083}"
+}

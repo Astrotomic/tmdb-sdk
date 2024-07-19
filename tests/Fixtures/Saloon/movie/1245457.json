@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "707",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20092",
+        "x-memc": "HIT",
+        "x-memc-key": "30bc2b91136d73800bdae0b4f1456e59",
+        "x-memc-age": "3399",
+        "x-memc-expires": "20092",
+        "ETag": "W\/\"dccefabc153e5fefb7420c6a9ff69bca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mWLml91wlVfRb-0Y2Y5ak5ND5vun6do8UB4q_IRsiKdlXZTm1_UNeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1245457,\"imdb_id\":null,\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"BEBA\",\"overview\":\"\",\"popularity\":1.102,\"poster_path\":null,\"production_companies\":[{\"id\":220930,\"logo_path\":null,\"name\":\"Aqua Arida Production\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2024-02-12\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"BEBA\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

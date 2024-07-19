@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "971",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5309",
+        "x-memc": "HIT",
+        "x-memc-key": "c9a07e5c49b866a4e3fe804f67385a6c",
+        "x-memc-age": "21859",
+        "x-memc-expires": "5309",
+        "ETag": "W\/\"a92d3df390b5b84cae6104589be5d105\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Pggi18LLuQx80x_vuO8iBb_HixYJEWz5yBO_nsZ7OzSqNEW05I9_kg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":388150,\"imdb_id\":\"tt0032784\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mercy Plane\",\"overview\":\"Air-race champions \\\"Speed\\\" Leslie and Branda Fowler combine to open a very profitable airplane service that flies patients to other cities for special treatment. Gangsters soon move in and offer to take over, without an invitation.\",\"popularity\":1.346,\"poster_path\":null,\"production_companies\":[{\"id\":73504,\"logo_path\":null,\"name\":\"Producers Pictures Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1939-12-04\",\"revenue\":0,\"runtime\":72,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"GANGLAND INVADES the AIR with its NEWEST RACKET!\",\"title\":\"Mercy Plane\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

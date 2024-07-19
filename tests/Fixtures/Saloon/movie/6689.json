@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "893",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16602",
+        "x-memc": "HIT",
+        "x-memc-key": "8e214c95e0ca03edc104102ed78d51b6",
+        "x-memc-age": "7198",
+        "x-memc-expires": "16602",
+        "ETag": "W\/\"cf3e0dc09884ac87a65e249e73a81543\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "unXsVT15A54vOofHdFgD9uFUN6wCudemQqYAEyuPj_gVkAnCQ3tdjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":6689,\"imdb_id\":\"tt0051765\",\"origin_country\":[\"DE\",\"AT\"],\"original_language\":\"de\",\"original_title\":\"Im Prater bl\u00fch'n wieder die B\u00e4ume\",\"overview\":\"\",\"popularity\":1.606,\"poster_path\":\"\/yjrwIZq0fOco2heqMfJ4Gof3uKH.jpg\",\"production_companies\":[{\"id\":2120,\"logo_path\":null,\"name\":\"Paula Wessely Filmproduktion GmbH\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"}],\"release_date\":\"1958-08-01\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Eine bitters\u00fc\u00dfe Liebesgeschichte aus dem alten Wien\",\"title\":\"Trees Are Blooming in Vienna\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

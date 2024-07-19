@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1469",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4924",
+        "x-memc": "HIT",
+        "x-memc-key": "4b8d499612de2eccb20ceca0e95a7cf8",
+        "x-memc-age": "23096",
+        "x-memc-expires": "4924",
+        "ETag": "W\/\"94175e0a2c5b3b873bb4df3d9665aaa1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "k3n9mmXCZfFG_n5f07x3fJt2hPZ2tz7p7HxYtdtfqm3sjvOdY-_LXQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8Tr79lfoCkOYRg8SYwWit4OoQLi.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":872177,\"imdb_id\":\"tt15391770\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Corrective Measures\",\"overview\":\"Set in San Tiburon, the world's most dangerous maximum-security penitentiary and home to the world's most treacherous superpowered criminals, where tensions among the inmates and staff heighten, leading to anarchy that engulfs the prison and order is turned upside down.\",\"popularity\":24.773,\"poster_path\":\"\/aHFq9NMhavOL0jtQvmHQ1c5e0ya.jpg\",\"production_companies\":[{\"id\":153734,\"logo_path\":\"\/9pHAaHxAJtz6jobVWPkF1kG3kEG.png\",\"name\":\"Tubi\",\"origin_country\":\"US\"},{\"id\":25140,\"logo_path\":\"\/6SeV4YCwyIDktJlvrVwiEDSLovF.png\",\"name\":\"The Exchange\",\"origin_country\":\"US\"},{\"id\":160551,\"logo_path\":null,\"name\":\"Arcana Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-04-29\",\"revenue\":34489,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Anarchy in the world's most dangerous prison.\",\"title\":\"Corrective Measures\",\"video\":false,\"vote_average\":5.0,\"vote_count\":83}"
+}

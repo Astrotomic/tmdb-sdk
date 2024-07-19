@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "554",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22335",
+        "x-memc": "HIT",
+        "x-memc-key": "a49673eeb9249696b3fe385e16d30d0e",
+        "x-memc-age": "4971",
+        "x-memc-expires": "22335",
+        "ETag": "W\/\"dd9c1ddb004fbecfe13c0f6aab1ab4c3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "esx-X6cQ8_kWGQHgGSDR2JJFRHI25txXzMyoHvBU2_4D7Ivor8GiKg=="
+    },
+    "data": "{\"id\":234006,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1168720,\"known_for_department\":\"Directing\",\"name\":\"Yasuji Murata\",\"original_name\":\"Yasuji Murata\",\"popularity\":0.753,\"profile_path\":\"\/tjDW6gWuJ2KMBgr4noDTLsucHc0.jpg\",\"credit_id\":\"52fe4e29c3a36847f8281661\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1171005,\"known_for_department\":\"Writing\",\"name\":\"Chuzo Aoji\",\"original_name\":\"Chuzo Aoji\",\"popularity\":2.261,\"profile_path\":null,\"credit_id\":\"52fe4e29c3a36847f8281667\",\"department\":\"Writing\",\"job\":\"Screenplay\"}]}"
+}

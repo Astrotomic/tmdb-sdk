@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "340",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:49:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18905",
+        "x-memc": "HIT",
+        "x-memc-key": "aab7fca43afd3ef4af961f8d119e70d2",
+        "x-memc-age": "8982",
+        "x-memc-expires": "18905",
+        "ETag": "W\/\"9fdb85ec25e4aad9477f9c36f2277d15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "j239GPhKMooiwOUSZT71zvxxzYXaQRBoULWjIVuLO8fgnOM7VrZYrw=="
+    },
+    "data": "{\"id\":230210,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/230210\/watch?locale=JP\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]}}}"
+}

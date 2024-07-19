@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1214",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6115",
+        "x-memc": "HIT",
+        "x-memc-key": "b92a5402b5fc56f797d14e729f52fd1e",
+        "x-memc-age": "21300",
+        "x-memc-expires": "6115",
+        "ETag": "W\/\"3494bf8ba5dbe9f7ee9b9631287aeb8d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-EAGJQrN8aivbz3PNsU69Kuys3btFDh0V0Z0plJGeo0yk6-IQph2KQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pxkQAIhC7LXN5s5B23lnvCMgva5.jpg\",\"belongs_to_collection\":null,\"budget\":910000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":654,\"imdb_id\":\"tt0047296\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"On the Waterfront\",\"overview\":\"Terry Malloy is a kindhearted dockworker, and former boxer, who is tricked by his corrupt bosses into leading his friend to death. After falling in love, he tries to leave the waterfront and expose his employers.\",\"popularity\":29.399,\"poster_path\":\"\/fKjLZy9W8VxMOp5OoyWojmLVCQw.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":11356,\"logo_path\":null,\"name\":\"Horizon Pictures\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1954-06-22\",\"revenue\":960000,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The man lived by the jungle law of the docks!\",\"title\":\"On the Waterfront\",\"video\":false,\"vote_average\":7.935,\"vote_count\":1525}"
+}

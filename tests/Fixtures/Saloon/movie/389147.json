@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "844",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3850",
+        "x-memc": "HIT",
+        "x-memc-key": "ac36654ca9056ebcf703ebf3347fc989",
+        "x-memc-age": "21011",
+        "x-memc-expires": "3850",
+        "ETag": "W\/\"2f95af6b94cbd49a6de43c122a8f4421\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0UCdBnvWXswylqaHRB0Mp-iInZQ9Y6yTA39qkYp6fE-tc2VhgVPYaA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":60,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":389147,\"imdb_id\":\"tt4923490\",\"origin_country\":[\"US\",\"AU\"],\"original_language\":\"en\",\"original_title\":\"Betrayals & Bullets: Hard Retribution\",\"overview\":\"After an enforcer is betrayed by his gang, he sets out to kill them.\",\"popularity\":0.469,\"poster_path\":null,\"production_companies\":[{\"id\":74542,\"logo_path\":null,\"name\":\"Expendable Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2012-10-30\",\"revenue\":0,\"runtime\":12,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sin Begets Retribution\",\"title\":\"Betrayals & Bullets: Hard Retribution\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

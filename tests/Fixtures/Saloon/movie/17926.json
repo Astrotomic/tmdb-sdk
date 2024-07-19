@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1234",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13426",
+        "x-memc": "HIT",
+        "x-memc-key": "79fb8ce6ca9e6daf1dc9fce3200a4aab",
+        "x-memc-age": "13702",
+        "x-memc-expires": "13426",
+        "ETag": "W\/\"ad62dc6d2637cef1989308c951f01904\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KDYX3Tre3XFFmXCrvlcXs9xvUpPgjTHc6tGXAfCQvUWLC1aIv7AgUQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8swTH2p4HLUwswMVQXi0CWEAbT1.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/www.undiscoveredfilm.com\/\",\"id\":17926,\"imdb_id\":\"tt0434424\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Undiscovered\",\"overview\":\"A group of aspiring entertainers try to establish careers for themselves in the city of Los Angeles.\",\"popularity\":6.92,\"poster_path\":\"\/7G9HOjUBcq1NDwff7Mc5GFhINSB.jpg\",\"production_companies\":[{\"id\":995,\"logo_path\":null,\"name\":\"Cinerenta Medienbeteiligungs KG\",\"origin_country\":\"DE\"},{\"id\":763,\"logo_path\":\"\/mCnIVkImjm8rUxIpGR5NgrGlIYL.png\",\"name\":\"Intermedia\",\"origin_country\":\"GB\"},{\"id\":126,\"logo_path\":\"\/kADPanRDkKTxncPXXVahvHPUvCj.png\",\"name\":\"Lakeshore Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-08-26\",\"revenue\":1046166,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They Know Each Other By Heart.\",\"title\":\"Undiscovered\",\"video\":false,\"vote_average\":4.588,\"vote_count\":34}"
+}

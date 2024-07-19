@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "958",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19021",
+        "x-memc": "HIT",
+        "x-memc-key": "c154b7fd2a69772c668f9e11dbba06fd",
+        "x-memc-age": "8875",
+        "x-memc-expires": "19021",
+        "ETag": "W\/\"330489edf962457bafbff1aa1220e3a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OSI7S5NbTkhLmqj8klD-_y8YOKzhIx4FKwI4b15yMZ4nzeEkeH98Mg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/FoWoVdi2LpyrHiLDBMtjxX2AED.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.underthemountain.co.nz\/\",\"id\":32932,\"imdb_id\":\"tt1275861\",\"origin_country\":[\"NZ\"],\"original_language\":\"en\",\"original_title\":\"Under the Mountain\",\"overview\":\"Teenage twins battle dark forces hidden beneath Auckland's volcanoes.\",\"popularity\":7.11,\"poster_path\":\"\/94g3Mt3qJxh6CmQ3J38CHUiMnJe.jpg\",\"production_companies\":[{\"id\":5454,\"logo_path\":null,\"name\":\"Index Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"}],\"release_date\":\"2009-12-10\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An epic journey to save the world...\",\"title\":\"Under the Mountain\",\"video\":false,\"vote_average\":4.5,\"vote_count\":62}"
+}

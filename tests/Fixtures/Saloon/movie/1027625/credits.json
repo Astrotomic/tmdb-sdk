@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "871",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:40:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17504",
+        "x-memc": "HIT",
+        "x-memc-key": "7ff826df321ec2ad74935f7b52a09279",
+        "x-memc-age": "7186",
+        "x-memc-expires": "17504",
+        "ETag": "W\/\"bb25d6745a97332867c8ab4349c889e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m-Ips3vGT9RIeIOeeZZ5SIR5o9NaTLtKdL1p12whzmy2ZjtZOUedPQ=="
+    },
+    "data": "{\"id\":1027625,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":3712445,\"known_for_department\":\"Acting\",\"name\":\"Rodrigo Teaser\",\"original_name\":\"Rodrigo Teaser\",\"popularity\":0.001,\"profile_path\":\"\/e6rafmefDJIVzH6raVRiicYsxYL.jpg\",\"cast_id\":1,\"character\":\"Michael Jackson\",\"credit_id\":\"632dd17edd4716007cf8aeab\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1283711,\"known_for_department\":\"Acting\",\"name\":\"Jennifer Batten\",\"original_name\":\"Jennifer Batten\",\"popularity\":5.614,\"profile_path\":\"\/w1y1wsNwrM0RRc2aaDW4qtSAPnc.jpg\",\"cast_id\":3,\"character\":\"Guitarrista\",\"credit_id\":\"632dd1b155937b008e5420f3\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":2636682,\"known_for_department\":\"Crew\",\"name\":\"LaVelle Smith\",\"original_name\":\"LaVelle Smith\",\"popularity\":0.087,\"profile_path\":null,\"cast_id\":4,\"character\":\"Bailarino \/ Coreografo\",\"credit_id\":\"632dd200dd4716008442ffec\",\"order\":2}],\"crew\":[]}"
+}

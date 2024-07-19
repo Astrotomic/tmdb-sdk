@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1621",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3040",
+        "x-memc": "HIT",
+        "x-memc-key": "3fcfc234e29c36fed470bf83a54d263d",
+        "x-memc-age": "19452",
+        "x-memc-expires": "3040",
+        "ETag": "W\/\"d09946e270298e975ae647102eb6d413\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ysXVnDXrQlAMFIUaZip7Alu-h4x7F1TEHo9mH7DQruUxRbsEuSOh7w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/747dgDfL5d8esobk7h4odaOFhUq.jpg\",\"belongs_to_collection\":null,\"budget\":7000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":275,\"imdb_id\":\"tt0116282\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fargo\",\"overview\":\"Jerry, a small-town Minnesota car salesman is bursting at the seams with debt... but he's got a plan. He's going to hire two thugs to kidnap his wife in a scheme to collect a hefty ransom from his wealthy father-in-law. It's going to be a snap and nobody's going to get hurt... until people start dying. Enter Police Chief Marge, a coffee-drinking, parka-wearing - and extremely pregnant - investigator who'll stop at nothing to get her man. And if you think her small-time investigative skills will give the crooks a run for their ransom... you betcha!\",\"popularity\":73.913,\"poster_path\":\"\/rt7cpEr1uP6RTZykBFhBTcRaKvG.jpg\",\"production_companies\":[{\"id\":1382,\"logo_path\":\"\/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png\",\"name\":\"PolyGram Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-03-08\",\"revenue\":60611975,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A lot can happen in the middle of nowhere.\",\"title\":\"Fargo\",\"video\":false,\"vote_average\":7.863,\"vote_count\":7848}"
+}

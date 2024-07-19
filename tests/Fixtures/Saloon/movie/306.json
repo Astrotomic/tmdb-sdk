@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1496",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:27:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18999",
+        "x-memc": "HIT",
+        "x-memc-key": "0cc2865b8d0024f6fefa8432dce2f2a0",
+        "x-memc-age": "3089",
+        "x-memc-expires": "18999",
+        "ETag": "W\/\"34b8276970636dc8650f6ea33347b64a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pJ2Rc3o2R1t6AvCXRZijskPuVi19rNp7m54PkR597Lur5kK2TwUEwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oydsEHmBeqZnXv8v2Aw34rs699I.jpg\",\"belongs_to_collection\":{\"id\":85861,\"name\":\"Beverly Hills Cop Collection\",\"poster_path\":\"\/whjkHIzJ0Kiei6V7z5NaIyvFKQm.jpg\",\"backdrop_path\":\"\/k0DEUZqbB9bVcm2NsVaMkdd4Vs8.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.paramountmovies.com\/movies\/beverly-hills-cop-iii\",\"id\":306,\"imdb_id\":\"tt0109254\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Beverly Hills Cop III\",\"overview\":\"When his boss is killed, Detroit cop Axel Foley finds evidence that the murderer had ties to a California amusement park called Wonder World. Returning to sunny Beverly Hills once more, Foley reunites with Detective Billy Rosewood to solve the case. Along with Billy's new partner, Detective Jon Flint, they discover that Wonder World is being used as a front for a massive counterfeiting ring.\",\"popularity\":77.092,\"poster_path\":\"\/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg\",\"production_companies\":[{\"id\":30,\"logo_path\":null,\"name\":\"Eddie Murphy Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-05-24\",\"revenue\":119208989,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In for the ride of his life.\",\"title\":\"Beverly Hills Cop III\",\"video\":false,\"vote_average\":5.874,\"vote_count\":1806}"
+}

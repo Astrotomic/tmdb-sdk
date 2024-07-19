@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1432",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23033",
+        "x-memc": "HIT",
+        "x-memc-key": "08c7ea4c2a690ea8a0335815c9e5de7d",
+        "x-memc-age": "1875",
+        "x-memc-expires": "23033",
+        "ETag": "W\/\"201094d0e77a78142e613ba637cc732b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MncOn7d20JOd3TA-M7CY5NcEiiq49EXlt8XfMCiitCfzQMww9UQvOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fDG3cS1Diwy0EK0FY5PFwNanG77.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":551384,\"imdb_id\":\"tt9529752\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u307e\u304f\u5b50\",\"overview\":\"A 5th grade elementary school student meets a transfer student who has a mysterious charm about her. He then learns her big secret.\",\"popularity\":6.951,\"poster_path\":\"\/c356x5AmOS1GZ98Tvr97xEE0v8T.jpg\",\"production_companies\":[{\"id\":14602,\"logo_path\":\"\/t9eqx5QCHtu8LxxgYzivqrJAosp.png\",\"name\":\"AMUSE\",\"origin_country\":\"JP\"},{\"id\":17601,\"logo_path\":null,\"name\":\"Flamingo\",\"origin_country\":\"JP\"},{\"id\":955,\"logo_path\":\"\/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png\",\"name\":\"Nikkatsu Corporation\",\"origin_country\":\"JP\"},{\"id\":64231,\"logo_path\":\"\/2RLRrJ3snaerDYUp1pUlwJfbc5Z.png\",\"name\":\"Office Shirous\",\"origin_country\":\"JP\"},{\"id\":120239,\"logo_path\":\"\/lLIL1azriJIU21h8U33rmVyNuES.png\",\"name\":\"Hikari TV\",\"origin_country\":\"JP\"},{\"id\":3031,\"logo_path\":\"\/2JcgVKZ1gEY5RsLJU1CGj1MaKFj.png\",\"name\":\"The Asahi Shimbun\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2019-03-15\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Makuko\",\"video\":false,\"vote_average\":7.8,\"vote_count\":4}"
+}

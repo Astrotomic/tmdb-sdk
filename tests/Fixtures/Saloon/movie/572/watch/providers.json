@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1550",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23876",
+        "x-memc": "HIT",
+        "x-memc-key": "481ed685e3c86b78295e3beae0fed162",
+        "x-memc-age": "2372",
+        "x-memc-expires": "23876",
+        "ETag": "W\/\"3823989cbfdec3e861a7ae1605fd5b63\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f1a22cc8d842b0950e4bd5bda60806f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nLXC7W6Nv6G9cPTLj2mrf5OxkNqVyFmHpcUavXDxbhFmk22aR7JHgA=="
+    },
+    "data": "{\"id\":572,\"results\":{\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/572-naboer\/watch?locale=DE\",\"flatrate\":[{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":105}]},\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/572-naboer\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":63}]},\"FI\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/572-naboer\/watch?locale=FI\",\"rent\":[{\"logo_path\":\"\/7QzLA6rsML2rKxhuagWlDl7Zxlm.jpg\",\"provider_id\":553,\"provider_name\":\"Telia Play\",\"display_priority\":31}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/572-naboer\/watch?locale=GB\",\"flatrate\":[{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":104}]},\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/572-naboer\/watch?locale=IT\",\"flatrate\":[{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":65}]},\"NO\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/572-naboer\/watch?locale=NO\",\"buy\":[{\"logo_path\":\"\/auWzottqpExOHUlJwDZ4DvdHGoL.jpg\",\"provider_id\":423,\"provider_name\":\"Blockbuster\",\"display_priority\":17}],\"rent\":[{\"logo_path\":\"\/auWzottqpExOHUlJwDZ4DvdHGoL.jpg\",\"provider_id\":423,\"provider_name\":\"Blockbuster\",\"display_priority\":17}]}}}"
+}

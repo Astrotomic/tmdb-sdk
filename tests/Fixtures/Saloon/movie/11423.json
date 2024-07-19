@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1329",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10053",
+        "x-memc": "HIT",
+        "x-memc-key": "f06b325799d911b9b86893740198e918",
+        "x-memc-age": "15700",
+        "x-memc-expires": "10053",
+        "ETag": "W\/\"7627817a314f5a3e29bf454f8184cae4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "g5eMTIvA-wYOuabtRLNACJg138uuOE4uoJUm54MSoV9aTgk8e4UfRw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2NArMoObkAbnIPvqlHC3gRGsfBb.jpg\",\"belongs_to_collection\":null,\"budget\":2800000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.memoriesofmurder.com\/\",\"id\":11423,\"imdb_id\":\"tt0353969\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc0b4\uc778\uc758 \ucd94\uc5b5\",\"overview\":\"During the late 1980s, two detectives in a South Korean province attempt to solve the nation's first series of rape-and-murder cases.\",\"popularity\":46.824,\"poster_path\":\"\/jcgUjx1QcupGzjntTVlnQ15lHqy.jpg\",\"production_companies\":[{\"id\":7036,\"logo_path\":\"\/javbyY0ZCvlFJtly3tpZqf2NwLX.png\",\"name\":\"CJ Entertainment\",\"origin_country\":\"KR\"},{\"id\":11557,\"logo_path\":null,\"name\":\"Muhan Investment\",\"origin_country\":\"\"},{\"id\":3657,\"logo_path\":\"\/2YXnZa6yPjxdHKzBLgmf57D8QpM.png\",\"name\":\"Sidus\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2003-05-02\",\"revenue\":26000000,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The worst of them will stay with you... forever.\",\"title\":\"Memories of Murder\",\"video\":false,\"vote_average\":8.062,\"vote_count\":3646}"
+}

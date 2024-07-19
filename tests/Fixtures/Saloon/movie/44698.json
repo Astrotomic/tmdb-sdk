@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1175",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8101",
+        "x-memc": "HIT",
+        "x-memc-key": "9d5cae5ef651441785c0f69868b98ef3",
+        "x-memc-age": "14611",
+        "x-memc-expires": "8101",
+        "ETag": "W\/\"4da22d538a1ca0a11beb64707b26f981\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TwCX6u5KtRGpMG5hzoFd_wztmSdhIbGp00bG4skK8wGh6BOV6oF-PQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/woXXOudHWLk70klkhDRW33SNFpZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":44698,\"imdb_id\":\"tt0077524\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Evil\",\"overview\":\"Shortly after moving into a dark, brooding mansion, a psychologist and his co-workers are terrorized by a horrible evil being.\",\"popularity\":6.515,\"poster_path\":\"\/LmdVqM8DrCZmcghCyPZDHLI1Xm.jpg\",\"production_companies\":[{\"id\":92554,\"logo_path\":null,\"name\":\"Rangoon Productions\",\"origin_country\":\"\"},{\"id\":1950,\"logo_path\":\"\/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png\",\"name\":\"New World Pictures\",\"origin_country\":\"US\"},{\"id\":140120,\"logo_path\":null,\"name\":\"Hollywood West Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1978-05-05\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Escape is just a nerve-shredding scream for salvation!\",\"title\":\"The Evil\",\"video\":false,\"vote_average\":5.689,\"vote_count\":53}"
+}

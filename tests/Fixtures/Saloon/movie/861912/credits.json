@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1251",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:41:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25504",
+        "x-memc": "HIT",
+        "x-memc-key": "1687b5e23155684aee58df3581408fdc",
+        "x-memc-age": "2844",
+        "x-memc-expires": "25504",
+        "ETag": "W\/\"d4f474429a406beacd304cc362d2a8ca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_xiOyUex96pdUIumWBBfIQmYZABMHldYveZQ2stQvNZC4Ox97UyHgg=="
+    },
+    "data": "{\"id\":861912,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3199731,\"known_for_department\":\"Acting\",\"name\":\"Anselm Fliedner\",\"original_name\":\"Anselm Fliedner\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"611a7c53c14fee007dcfdd52\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3199732,\"known_for_department\":\"Acting\",\"name\":\"Alexander Herbrand\",\"original_name\":\"Alexander Herbrand\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"611a7c5f665408005e0f5573\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3199733,\"known_for_department\":\"Acting\",\"name\":\"Andrea Leukel\",\"original_name\":\"Andrea Leukel\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"\",\"credit_id\":\"611a7c750f0da50080ba8c43\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1628610,\"known_for_department\":\"Directing\",\"name\":\"Jan Reiff\",\"original_name\":\"Jan Reiff\",\"popularity\":0.029,\"profile_path\":null,\"credit_id\":\"611a7c89665408002878e7af\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1628610,\"known_for_department\":\"Directing\",\"name\":\"Jan Reiff\",\"original_name\":\"Jan Reiff\",\"popularity\":0.029,\"profile_path\":null,\"credit_id\":\"611a7c96e54d5d005d8f50f8\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

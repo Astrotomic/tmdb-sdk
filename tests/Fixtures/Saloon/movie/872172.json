@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1111",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16599",
+        "x-memc": "HIT",
+        "x-memc-key": "ca5d0215772273a603739232a5142edf",
+        "x-memc-age": "7461",
+        "x-memc-expires": "16599",
+        "ETag": "W\/\"708a1e1ab36658284feb50066fea1f33\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SxfLMnHjkGjSWGBYF_UAs6BqbABKnAzCJFeya01p8SjLb0DhjQpzSw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":872172,\"imdb_id\":\"tt13400236\",\"origin_country\":[\"FI\"],\"original_language\":\"fi\",\"original_title\":\"Knock, Knock\",\"overview\":\"Leila is a recently divorced woman. She looks around the empty house and finds it difficult to understand that this is her life.  The night before moving out, Leila wakes up to a knocking that seems to come from inside her living room wall. A man inside claims to be a time traveler from the future.\",\"popularity\":1.85,\"poster_path\":\"\/d2Y4r4RrCoLoUR9qyx7fdfWtfqd.jpg\",\"production_companies\":[{\"id\":5974,\"logo_path\":\"\/vgPUbUDwVGL1ruiPv2KFtjh75UD.png\",\"name\":\"Making Movies\",\"origin_country\":\"FI\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"}],\"release_date\":\"2020-12-26\",\"revenue\":0,\"runtime\":24,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Finnish\",\"iso_639_1\":\"fi\",\"name\":\"suomi\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Knock, Knock\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

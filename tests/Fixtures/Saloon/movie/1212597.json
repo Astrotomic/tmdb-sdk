@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1183",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5426",
+        "x-memc": "HIT",
+        "x-memc-key": "276374dc297d2eb746b0232d09fdde51",
+        "x-memc-age": "20217",
+        "x-memc-expires": "5426",
+        "ETag": "W\/\"cc5cd0ac18008420615cdbd642f11714\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "55v_8nHrU7cMao96rV3zP5eJovxWqjKF13k3pet_r0YwBodkS0XDpw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1212597,\"imdb_id\":\"tt14257104\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Axel Falcon\",\"overview\":\"Meet Axel Falcon, a dedicated cop determined to cleanse the streets from murder and corruption. But tragedy strikes when his family is brutally taken from him. With nothing left to lose, Axel embarks on a relentless quest for vengeance, following the enigmatic clues left behind by an unknown assassin.\",\"popularity\":6.051,\"poster_path\":\"\/ekPRLQrqRHAdEVe9JZ2BXC7KhlS.jpg\",\"production_companies\":[{\"id\":91950,\"logo_path\":null,\"name\":\"White Raven Productions\",\"origin_country\":\"\"},{\"id\":214946,\"logo_path\":null,\"name\":\"LBM Video\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-01-12\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He has the right to remain violent\",\"title\":\"Axel Falcon\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

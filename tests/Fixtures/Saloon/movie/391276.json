@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "974",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10878",
+        "x-memc": "HIT",
+        "x-memc-key": "1eb626e724882869faa43b0a539a966e",
+        "x-memc-age": "10887",
+        "x-memc-expires": "10878",
+        "ETag": "W\/\"4ed773d089276570d513957d85e5ca69\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-8Un3fnfSuEnIsGcnz5pC3JF18LMGFKqy57mrOZujhEZKq2ejFUXdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/619kx3ghQcYDpdh1QJXT2ZszuBt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":391276,\"imdb_id\":\"tt5673792\",\"origin_country\":[\"IN\"],\"original_language\":\"ta\",\"original_title\":\"\u0bae\u0ba9\u0bbf\u0ba4\u0ba9\u0bcd\",\"overview\":\"A struggling lawyer files a PIL in a hit-and-run case involving a business scion's son hoping that the resulting publicity would be good for his business.\",\"popularity\":7.828,\"poster_path\":\"\/zv30S0xYacaAUPXTTR4C0f24K8Q.jpg\",\"production_companies\":[{\"id\":7125,\"logo_path\":\"\/fXCywdThbIhPq5jb2488WZ8t6bg.png\",\"name\":\"Red Giant Movies\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2016-04-29\",\"revenue\":0,\"runtime\":146,\"spoken_languages\":[{\"english_name\":\"Tamil\",\"iso_639_1\":\"ta\",\"name\":\"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Manithan\",\"video\":false,\"vote_average\":6.5,\"vote_count\":11}"
+}

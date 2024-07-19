@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "595",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11480",
+        "x-memc": "HIT",
+        "x-memc-key": "612dc411cdfb68773699692dd7ff2dcc",
+        "x-memc-age": "13174",
+        "x-memc-expires": "11480",
+        "ETag": "W\/\"bff052776ef073975da99bf74f55c973\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C_neMcs6HcdKYC6XBcz2BlruWGzKH5VhQmE_mvtPgW2WichoL9YhdA=="
+    },
+    "data": "{\"id\":214722,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/214722-newstage2\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}]}}}"
+}

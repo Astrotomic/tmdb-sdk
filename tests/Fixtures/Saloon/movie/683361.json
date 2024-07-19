@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10992",
+        "x-memc": "HIT",
+        "x-memc-key": "6496b98104aeab382ecd0b60ecd7bbdc",
+        "x-memc-age": "16972",
+        "x-memc-expires": "10992",
+        "ETag": "W\/\"34ae604378321c29c66d16cfcb1abb58\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "H-a3D4yudPovQD6mMS4ofgzxFawuE5O5-NX18ZsdHWLVB0AjL2VAsA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1kD7E6soGxkNoWrKKniVnrkHNAH.jpg\",\"belongs_to_collection\":{\"id\":823942,\"name\":\"Super Furball Collection\",\"poster_path\":null,\"backdrop_path\":\"\/qnfwkEvBMCq1wl8XQFt4Icq4tn5.jpg\"},\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":683361,\"imdb_id\":\"tt13371266\",\"origin_country\":[\"FI\"],\"original_language\":\"fi\",\"original_title\":\"Supermarsu 2\",\"overview\":\"To save the world, Super Furball has to save the bees. In order to do so, the heroic guinea pig has to redeem the biggest bully in school.\",\"popularity\":73.844,\"poster_path\":\"\/cYQhEjz8TcycbHpf9qHBxroYE0M.jpg\",\"production_companies\":[{\"id\":66903,\"logo_path\":\"\/dxybqCu0bVTa61kMLY9j6Sl0Xxd.png\",\"name\":\"Yellow Film \\u0026 TV\",\"origin_country\":\"FI\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"}],\"release_date\":\"2022-10-14\",\"revenue\":69363,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Finnish\",\"iso_639_1\":\"fi\",\"name\":\"suomi\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Super Furball Saves the Future\",\"video\":false,\"vote_average\":6.588,\"vote_count\":34}"
+}

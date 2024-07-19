@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1708",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14572",
+        "x-memc": "HIT",
+        "x-memc-key": "057b37b3489e832f089acea0db0407e4",
+        "x-memc-age": "9351",
+        "x-memc-expires": "14572",
+        "ETag": "W\/\"db78d090ada791c823380bed429c7239\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "94VKqwqzdSa6lqrZ0lwmC61dj-ppU6dGHlhgw1JlCNg2stD8uLunFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nevS6wjzCxZESvmjJZqdyZ3RNQ6.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":115,\"imdb_id\":\"tt0118715\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Big Lebowski\",\"overview\":\"Jeffrey 'The Dude' Lebowski, a Los Angeles slacker who only wants to bowl and drink White Russians, is mistaken for another Jeffrey Lebowski, a wheelchair-bound millionaire, and finds himself dragged into a strange series of events involving nihilists, adult film producers, ferrets, errant toes, and large sums of money.\",\"popularity\":62.707,\"poster_path\":\"\/9mprbw31MGdd66LR0AQKoDMoFRv.jpg\",\"production_companies\":[{\"id\":1382,\"logo_path\":\"\/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png\",\"name\":\"PolyGram Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":37,\"logo_path\":\"\/wniaiKc5UCnC8qZcNKZNYwdKnUv.png\",\"name\":\"Gramercy Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-03-06\",\"revenue\":47010480,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"They figured he was a lazy, time-wasting slacker. They were right.\",\"title\":\"The Big Lebowski\",\"video\":false,\"vote_average\":7.846,\"vote_count\":10918}"
+}

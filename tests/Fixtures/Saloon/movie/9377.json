@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1219",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3005",
+        "x-memc": "HIT",
+        "x-memc-key": "69f3ab21da4b92a6bbc2383f4f911f8b",
+        "x-memc-age": "19791",
+        "x-memc-expires": "3005",
+        "ETag": "W\/\"648b4add95a05a218785a1318e1527c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XwhrTL6i5c74P4dY9S3eZqjZEvBpJhXkpdbIuNOl4nBXYlt11qAmAg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jehzP4JKiFzgTWIaASLFOJocJke.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.paramount.com\/movies\/ferris-buellers-day\",\"id\":9377,\"imdb_id\":\"tt0091042\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ferris Bueller's Day Off\",\"overview\":\"After high school slacker Ferris Bueller successfully fakes an illness in order to skip school for the day, he goes on a series of adventures throughout Chicago with his girlfriend Sloane and best friend Cameron, all the while trying to outwit his wily school principal and fed-up sister.\",\"popularity\":57.924,\"poster_path\":\"\/9LTQNCvoLsKXP0LtaKAaYVtRaQL.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-06-11\",\"revenue\":70100000,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One man's struggle to take it easy.\",\"title\":\"Ferris Bueller's Day Off\",\"video\":false,\"vote_average\":7.591,\"vote_count\":4769}"
+}

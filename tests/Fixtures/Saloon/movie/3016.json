@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1045",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26006",
+        "x-memc": "HIT",
+        "x-memc-key": "f576454dca078b9c13ef21bc54768504",
+        "x-memc-age": "17",
+        "x-memc-expires": "26006",
+        "ETag": "W\/\"56170ff94c18ad96ba581d3b597d1e28\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V9ldrbBApUjGFr9gtZMtVBDSUoPoiUc3wUrwM6bfAYfPJd4iJ5scEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tQRHrssevbysfmDG9FbA86qesCH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":3016,\"imdb_id\":\"tt0011130\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dr. Jekyll and Mr. Hyde\",\"overview\":\"A doctor's research into the roots of evil turns him into a hideous depraved fiend.\",\"popularity\":14.79,\"poster_path\":\"\/u8OL0RbTNzqqB1WmkxroTBXohnv.jpg\",\"production_companies\":[{\"id\":29729,\"logo_path\":null,\"name\":\"Famous Players-Lasky Corporation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1920-03-18\",\"revenue\":0,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"The world's greatest actor in a tremendous story of man at his best and worst!\",\"title\":\"Dr. Jekyll and Mr. Hyde\",\"video\":false,\"vote_average\":6.775,\"vote_count\":138}"
+}

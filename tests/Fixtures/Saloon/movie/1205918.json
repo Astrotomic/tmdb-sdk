@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1203",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17614",
+        "x-memc": "HIT",
+        "x-memc-key": "433fb68a8cb0db79700031fbb8c56914",
+        "x-memc-age": "9806",
+        "x-memc-expires": "17614",
+        "ETag": "W\/\"d437854aa2572fab8451b1425cb3ee1a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tBAnaREdGzBAKi8mGGDGOGWav9EkgMkHNQeWjAj1sQNEWpn6kzbrWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pttouLrrgx1RkiTos9w5jHd9afu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/dearengland.ntlive.com\/\",\"id\":1205918,\"imdb_id\":\"tt29640718\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"National Theatre Live: Dear England\",\"overview\":\"The country that gave the world football has since delivered a painful pattern of loss. Why can\u2019t England\u2019s men win at their own game? With the worst track record for penalties in the world, Gareth Southgate knows he needs to open his mind and face up to the years of hurt, to take team and country back to the promised land.\",\"popularity\":8.734,\"poster_path\":\"\/mV56EJt8buyzHEzzzNw8DokdsV1.jpg\",\"production_companies\":[{\"id\":16355,\"logo_path\":\"\/tWuPpLrD2urqKPXIit4VLTHWvgK.png\",\"name\":\"National Theatre\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-01-25\",\"revenue\":0,\"runtime\":183,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"National Theatre Live: Dear England\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

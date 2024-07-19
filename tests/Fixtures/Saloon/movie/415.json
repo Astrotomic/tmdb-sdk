@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1293",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6202",
+        "x-memc": "HIT",
+        "x-memc-key": "599a163ea2f98de602c8e97c96fe1cee",
+        "x-memc-age": "18688",
+        "x-memc-expires": "6202",
+        "ETag": "W\/\"0523c8ef54a65d7a4b0b8ab97792f73d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MQ6Dwt3dDdx_aRMLB1mrVuQZB7Z2LLUhP2yom4LJDhGS3pN-KTHGbg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tgPFZxhDuxWd4VXYaz8eAUznGTF.jpg\",\"belongs_to_collection\":{\"id\":120794,\"name\":\"Batman Collection\",\"poster_path\":\"\/4AUoqt72CVP4UV902hmdDj4t5Q9.jpg\",\"backdrop_path\":\"\/4UHZWw5lV3ZoadTjXuVOakdH32L.jpg\"},\"budget\":125000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":415,\"imdb_id\":\"tt0118688\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Batman & Robin\",\"overview\":\"Batman and Robin deal with relationship issues while preventing Mr. Freeze and Poison Ivy from attacking Gotham City.\",\"popularity\":54.957,\"poster_path\":\"\/cGRDufDDSrFrv7VI4YnmWnslne0.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":67889,\"logo_path\":null,\"name\":\"Polygram Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-06-20\",\"revenue\":238207122,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Strength Now. Courage Always. Family, Above All. Batman and Robin!\",\"title\":\"Batman & Robin\",\"video\":false,\"vote_average\":4.4,\"vote_count\":4873}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1246",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10474",
+        "x-memc": "HIT",
+        "x-memc-key": "db1cd7d8868ddebab0b7bc6b1840cb07",
+        "x-memc-age": "18151",
+        "x-memc-expires": "10474",
+        "ETag": "W\/\"cd4189d18231f9e38d028ac5902fded3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1Kpm07X6BQgxxcxvY_0wwv-jDmfjzGdHnCQj-h9LCzd_4AEB8up7tQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1OnXivHQ6TH0Xtn77YpHznIhKwl.jpg\",\"belongs_to_collection\":{\"id\":529,\"name\":\"Wallace \\u0026 Gromit Collection\",\"poster_path\":\"\/uzWYmHyu6kQsrjZ0S9ff3Sxesu6.jpg\",\"backdrop_path\":\"\/zFjNVIdhOh8KlJESKXfWXeeQSf6.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.wallaceandgromit.com\/films\/the-wrong-trousers\",\"id\":531,\"imdb_id\":\"tt0108598\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Wrong Trousers\",\"overview\":\"Wallace rents out Gromit's former bedroom to a penguin, who takes up an interest in the techno pants created by Wallace. However, Gromit later learns that the penguin is a wanted criminal.\",\"popularity\":22.704,\"poster_path\":\"\/wRTCxYHx1d9diFFmOHQZT7CjdUV.jpg\",\"production_companies\":[{\"id\":297,\"logo_path\":\"\/58TnhYZqbMYgkHM6lg7dJoYJ4RH.png\",\"name\":\"Aardman\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1993-12-17\",\"revenue\":0,\"runtime\":30,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Wrong Trousers\",\"video\":false,\"vote_average\":7.8,\"vote_count\":951}"
+}

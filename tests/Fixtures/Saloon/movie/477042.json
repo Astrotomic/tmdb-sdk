@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1359",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5403",
+        "x-memc": "HIT",
+        "x-memc-key": "a16d2f3cd0075855b647225037bc3350",
+        "x-memc-age": "23156",
+        "x-memc-expires": "5403",
+        "ETag": "W\/\"c37de1c3c84186ca15947d4fbab4adc6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "O56ZTONvvRgT0MfG8pe7vL-WF3p1e1KaIHVG0P39IWHDGxbzHcStPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vBhGE0afBW7G4RkNfSCq50BZMIe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":477042,\"imdb_id\":\"tt7013830\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Virus Tropical\",\"overview\":\"Paola is born in a traditional Colombian family, or at least that is what they try to be. Her father is a priest, her mother is a \\\"psychic\\\" and her sisters are not what their parents expected. She is a young Latin American woman struggling for her independence in a hard context full of stereotypes and appearances not being able to fit in any mold. With a unique feminine vision of the world this girl learns to live while she lives as she witnesses a series of small crises that shape her personality.\",\"popularity\":5.636,\"poster_path\":\"\/b77pw8SCyceUbAJzMTAVadGfu8X.jpg\",\"production_companies\":[{\"id\":94752,\"logo_path\":\"\/cNg6uSRpzMeFDqlM2PpVVlZMhlK.png\",\"name\":\"Ikki Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"CO\",\"name\":\"Colombia\"},{\"iso_3166_1\":\"EC\",\"name\":\"Ecuador\"}],\"release_date\":\"2017-10-21\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Virus Tropical\",\"video\":false,\"vote_average\":6.9,\"vote_count\":42}"
+}

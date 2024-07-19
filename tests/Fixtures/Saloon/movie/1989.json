@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1621",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3249",
+        "x-memc": "HIT",
+        "x-memc-key": "983cc6a1852f87b225f66c68fcb4dd5d",
+        "x-memc-age": "25433",
+        "x-memc-expires": "3249",
+        "ETag": "W\/\"cba0530b9c24439a086c7b63db69b619\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_wt1w_YoJJf3Jarx3IYgC9Nx2VzihOvia1ZTN2DI2A98kfvzUV7tYw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eBTuwZ3UNvWoxi8D87kS8vGUuG8.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1989,\"imdb_id\":\"tt0765120\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u85cd\u8393\u4e4b\u591c\",\"overview\":\"Elizabeth has just been through a particularly nasty breakup, and now she's ready to leave her friends and memories behind as she chases her dreams across the country. In order to support herself on her journey, Elizabeth picks up a series of waitress jobs along the way. As Elizabeth crosses paths with a series of lost souls whose yearnings are even greater than her own, their emotional turmoil ultimately helps her gain a greater understanding of her own problems...\",\"popularity\":40.052,\"poster_path\":\"\/1LptbOYCTyMqBtX4w0QDyFatKnT.jpg\",\"production_companies\":[{\"id\":539,\"logo_path\":\"\/iPLtePguIzOPNtAWfTxWLXb2O11.png\",\"name\":\"Block 2 Pictures\",\"origin_country\":\"HK\"},{\"id\":26492,\"logo_path\":\"\/eZO9KdFdxJEyPoKU5iO0PIPUwtd.png\",\"name\":\"Jet Tone Films\",\"origin_country\":\"HK\"},{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"2007-11-28\",\"revenue\":21800000,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"How do you say goodbye to someone you can't imagine living without?\",\"title\":\"My Blueberry Nights\",\"video\":false,\"vote_average\":6.401,\"vote_count\":730}"
+}

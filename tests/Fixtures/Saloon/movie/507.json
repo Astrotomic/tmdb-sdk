@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1610",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10435",
+        "x-memc": "HIT",
+        "x-memc-key": "95816a7ee29619be0068d188146097b4",
+        "x-memc-age": "16158",
+        "x-memc-expires": "10435",
+        "ETag": "W\/\"d2c1456af89129330ba27f6cb1488129\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wONLEXVFDLW0nup63C21wJZmprD7hqIhURCezlVa4aPTXT7n5vpUbg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3yoyioAdnZNrhDv2eQwflfqm7b7.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":507,\"imdb_id\":\"tt0110265\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Killing Zoe\",\"overview\":\"Zed is an American vault-cracker who travels to Paris to meet up with his old friend Eric. Eric and his gang have planned to raid the only bank in the city which is open on Bastille day. After offering his services, Zed soon finds himself trapped in a situation beyond his control when heroin abuse, poor planning and a call-girl named Zoe all conspire to turn the robbery into a very bloody siege.\",\"popularity\":23.54,\"poster_path\":\"\/k3UEKMVnkljOlsO5sLmz87YGlaG.jpg\",\"production_companies\":[{\"id\":37297,\"logo_path\":null,\"name\":\"PFG Entertainment\",\"origin_country\":\"\"},{\"id\":342,\"logo_path\":\"\/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png\",\"name\":\"Davis Films\",\"origin_country\":\"FR\"},{\"id\":285,\"logo_path\":\"\/ebAB20KtEg4J0eFMFBGhFJsSoYc.png\",\"name\":\"Live Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-10-01\",\"revenue\":418961,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"We go in. We get what we want. We come out.\",\"title\":\"Killing Zoe\",\"video\":false,\"vote_average\":6.234,\"vote_count\":322}"
+}

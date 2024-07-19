@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1515",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22158",
+        "x-memc": "HIT",
+        "x-memc-key": "a1ac71494d785c533e21afb0540dbfa1",
+        "x-memc-age": "3837",
+        "x-memc-expires": "22158",
+        "ETag": "W\/\"dbc9ef022569afa5cec4c2edabaddb4d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7jCUMPaHk-te3JZl2Ayy5Os2KdwRWO8_httjp1UVitzi-cG7VWNPUw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fOy2Jurz9k6RnJnMUMRDAgBwru2.jpg\",\"belongs_to_collection\":null,\"budget\":175000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.disneyplus.com\/movies\/turning-red\/4mFPCXJi7N2m\",\"id\":508947,\"imdb_id\":\"tt8097030\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Turning Red\",\"overview\":\"Thirteen-year-old Mei is experiencing the awkwardness of being a teenager with a twist \u2013 when she gets too excited, she transforms into a giant red panda.\",\"popularity\":130.291,\"poster_path\":\"\/qsdjk9oAKSQMWs0Vt5Pyfh6O4GZ.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-03-10\",\"revenue\":21328962,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Growing up is a beast.\",\"title\":\"Turning Red\",\"video\":false,\"vote_average\":7.382,\"vote_count\":5073}"
+}

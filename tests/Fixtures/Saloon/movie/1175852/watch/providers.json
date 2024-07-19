@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "443",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24961",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "e70e88a7eb1d215a2f6bc16069cdee23",
+        "x-memc-age": "0",
+        "x-memc-expires": "24961",
+        "ETag": "W\/\"c109d3f36abf4cc6fc6a7962bc1f63bc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eSJxrZLc2Ptj4rJrjAwtmZ9crjXFoIKZ0v14DvL-CZew6_mq8PRkkg=="
+    },
+    "data": "{\"id\":1175852,\"results\":{\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1175852-lovebugs\/watch?locale=CH\",\"flatrate\":[{\"logo_path\":\"\/eBXzkFEupZjKaIKY7zBUaSdCY8I.jpg\",\"provider_id\":381,\"provider_name\":\"Canal+\",\"display_priority\":41}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1175852-lovebugs\/watch?locale=FR\",\"flatrate\":[{\"logo_path\":\"\/eBXzkFEupZjKaIKY7zBUaSdCY8I.jpg\",\"provider_id\":381,\"provider_name\":\"Canal+\",\"display_priority\":6}]}}}"
+}

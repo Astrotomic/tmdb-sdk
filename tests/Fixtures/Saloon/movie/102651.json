@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1832",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12664",
+        "x-memc": "HIT",
+        "x-memc-key": "0e858932878dcdb9dddca860f67d5838",
+        "x-memc-age": "10831",
+        "x-memc-expires": "12664",
+        "ETag": "W\/\"257ada9a537a3733d6e572cfe7f15dc8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K78TEvBRor5QhG0Rm1dEQXLLiDwEY-T9QHIK16drSPMxL79w0Xr92g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xjotE7aFdZ0D8aGriYjFOtDayct.jpg\",\"belongs_to_collection\":{\"id\":531331,\"name\":\"Maleficent Collection\",\"poster_path\":\"\/fIDwCnWcjro8XIn6m9nhXypb2PL.jpg\",\"backdrop_path\":\"\/lTwaU142KVz4wFPjuGq0OKVjl7P.jpg\"},\"budget\":180000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/movies.disney.com\/maleficent\",\"id\":102651,\"imdb_id\":\"tt1587310\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Maleficent\",\"overview\":\"A beautiful, pure-hearted young woman, Maleficent has an idyllic life growing up in a peaceable forest kingdom, until one day when an invading army threatens the harmony of the land. She rises to be the land's fiercest protector, but she ultimately suffers a ruthless betrayal \u2013 an act that begins to turn her heart into stone. Bent on revenge, Maleficent faces an epic battle with the invading King's successor and, as a result, places a curse upon his newborn infant Aurora. As the child grows, Maleficent realizes that Aurora holds the key to peace in the kingdom \u2013 and to Maleficent's true happiness as well.\",\"popularity\":124.402,\"poster_path\":\"\/bDG3yei6AJlEAK3A5wN7RwFXQ7V.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":16314,\"logo_path\":null,\"name\":\"Roth Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-05-28\",\"revenue\":758539785,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Don't believe the fairy tale.\",\"title\":\"Maleficent\",\"video\":false,\"vote_average\":7.093,\"vote_count\":12874}"
+}

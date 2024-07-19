@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1048",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21809",
+        "x-memc": "HIT",
+        "x-memc-key": "012978a7fed5a7142ad77d1d5558e5b3",
+        "x-memc-age": "6206",
+        "x-memc-expires": "21809",
+        "ETag": "W\/\"65456ee9c2b657fd9c91d1d6b6d19116\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2hdvrqF8OVlH8LO4m8iDtf6Y7UJkh5Vr1Y-pt-SF5pQrkIiW6MqX4A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/blackflag.tv\/movies.php\",\"id\":1248046,\"imdb_id\":null,\"origin_country\":[\"AR\"],\"original_language\":\"es\",\"original_title\":\"Gotas de sangre\",\"overview\":\"Anhology of surprises and a couple of curiosities made by the brothers Adri\u00e1n and Ramiro Garc\u00eda Bogliano in Cuba, Argentina and Spain.\",\"popularity\":10.212,\"poster_path\":\"\/6lf4ruHAJVOdszTps78uZfz8mQo.jpg\",\"production_companies\":[{\"id\":103484,\"logo_path\":null,\"name\":\"Black Flag Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"},{\"iso_3166_1\":\"CU\",\"name\":\"Cuba\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2011-01-01\",\"revenue\":0,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A unique collection of short films by Argentina's rising horror shockmeisters!\",\"title\":\"Drops of Blood\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

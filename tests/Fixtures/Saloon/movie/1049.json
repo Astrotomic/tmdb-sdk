@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1684",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2362",
+        "x-memc": "HIT",
+        "x-memc-key": "343bdd029d42cf2587a03bf45f3cc73b",
+        "x-memc-age": "23680",
+        "x-memc-expires": "2362",
+        "ETag": "W\/\"4b7eafd7563a7cb8558d63add1995253\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y3WZcR6JRyrI7bEeLlhQe0NeP1BEs0H_-PkSTph_0_Zg2LosOxyDdQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tGhWuZp1fdM0mftTWv88nxgkBUl.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1049,\"imdb_id\":\"tt0108185\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sommersby\",\"overview\":\"Set in the South just after the US Civil War, Laurel Sommersby is just managing to work the farm without her husband, believed killed in battle. By all accounts, Jack Sommersby was not a pleasant man, thus when he suddenly returns, Laurel has mixed emotions. It appears that Jack has changed a great deal, leading some people to believe that this is not actually Jack but an imposter. Laurel herself is unsure, but willing to take the man into her home, and perhaps later into her heart.\",\"popularity\":33.133,\"poster_path\":\"\/tAgQKLv0GK97Tr0bvdI66oXlEVb.jpg\",\"production_companies\":[{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"},{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":644,\"logo_path\":null,\"name\":\"Alcor Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-02-05\",\"revenue\":140081992,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She knew his face. His touch. His voice. She knew everything about him ... But the truth.\",\"title\":\"Sommersby\",\"video\":false,\"vote_average\":6.314,\"vote_count\":362}"
+}

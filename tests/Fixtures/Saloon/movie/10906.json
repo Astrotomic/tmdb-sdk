@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1280",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13740",
+        "x-memc": "HIT",
+        "x-memc-key": "08a72ecdaee00fbda564606e5563d2f4",
+        "x-memc-age": "10549",
+        "x-memc-expires": "13740",
+        "ETag": "W\/\"699bab3342d20cb0622db0f53861a14e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "te7w3Jmy2Zjv0sD88zJ1Vu7LIl7h3D5WKx2Aj-KDj1YXWskkR8gUGQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yLGlSNfVVidVeanH6vY8ZntdPiy.jpg\",\"belongs_to_collection\":{\"id\":10789,\"name\":\"Pet Sematary Collection\",\"poster_path\":\"\/iySOPKFg4DgtjY9ySsJZoccMcIB.jpg\",\"backdrop_path\":\"\/ZkSBmKmi7aZVBmuHEXdPhj6Ylt.jpg\"},\"budget\":8000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":10906,\"imdb_id\":\"tt0105128\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pet Sematary II\",\"overview\":\"The \\\"sematary\\\" is up to its old zombie-raising tricks again. This time, the protagonists are Jeff Matthews, whose mother died in a Hollywood stage accident, and Drew Gilbert, a boy coping with an abusive stepfather.\",\"popularity\":22.274,\"poster_path\":\"\/9g6ngNlHOfMfQnaKkw9468p67d4.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":3264,\"logo_path\":null,\"name\":\"Columbus Circle Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-08-28\",\"revenue\":17092453,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Raise Some Hell.\",\"title\":\"Pet Sematary II\",\"video\":false,\"vote_average\":5.388,\"vote_count\":511}"
+}

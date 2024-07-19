@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17701",
+        "x-memc": "HIT",
+        "x-memc-key": "838845ab54b65c031da0596ae289fe19",
+        "x-memc-age": "6175",
+        "x-memc-expires": "17701",
+        "ETag": "W\/\"98bf0f9b2a5df4be02a6c78de302f3c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0J8QPaDY9yRGmQvAPuQnManCyTX1A33DUpdttNS6Ti_2souiqoAniA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1aPpu4fApN5ZTMTuHPW6a0wnSnH.jpg\",\"belongs_to_collection\":null,\"budget\":4200000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.tekkon.net\/\",\"id\":13754,\"imdb_id\":\"tt0831888\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u9244\u30b3\u30f3\u7b4b\u30af\u30ea\u30fc\u30c8\",\"overview\":\"Two penniless orphans, Black and White, struggle to survive on the mean streets of Treasure Town. When a megacorporation threatens to tear down the town to build an amusement park, Black and White engage in the fight of their life.\",\"popularity\":18.044,\"poster_path\":\"\/e2x1YDuZPpQiaQS25Ego7xMZYOI.jpg\",\"production_companies\":[{\"id\":2883,\"logo_path\":\"\/rDYExnBV61jGQnkhVVrPN4Yl7O1.png\",\"name\":\"Aniplex\",\"origin_country\":\"JP\"},{\"id\":9149,\"logo_path\":\"\/isLUpud9N56ifftJZ4XvzwBBpoG.png\",\"name\":\"Shogakukan\",\"origin_country\":\"JP\"},{\"id\":10868,\"logo_path\":\"\/9779IFPDaVxYmmWOHHfRyH17qnx.png\",\"name\":\"STUDIO4\u2103\",\"origin_country\":\"JP\"},{\"id\":194517,\"logo_path\":null,\"name\":\"Asmik Ace Entertainment\",\"origin_country\":\"JP\"},{\"id\":29177,\"logo_path\":null,\"name\":\"Beyond C.\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2006-10-21\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Tekkonkinkreet\",\"video\":false,\"vote_average\":7.4,\"vote_count\":350}"
+}

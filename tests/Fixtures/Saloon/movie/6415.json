@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1564",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15529",
+        "x-memc": "HIT",
+        "x-memc-key": "764fec4500742788a1c5e70e0c7c3f2b",
+        "x-memc-age": "10792",
+        "x-memc-expires": "15529",
+        "ETag": "W\/\"02b4e10186bb696c17075c558075d208\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5Yow2xk50eO6Ih2iY5YLjAxlWanI9RBRX1Zaq7b1rxqrNCnEwq-wTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gysZn2XnFlDDQROXdBPiku4Aujg.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":6415,\"imdb_id\":\"tt0120188\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Three Kings\",\"overview\":\"A group of American soldiers stationed in Iraq at the end of the Gulf War find a map they believe will take them to a huge cache of stolen Kuwaiti gold hidden near their base, and they embark on a secret mission that's destined to change everything.\",\"popularity\":22.046,\"poster_path\":\"\/fClJQW8xn8wHOFqoA4jUn0PZh1f.jpg\",\"production_companies\":[{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":507,\"logo_path\":\"\/aRmHe6GWxYMRCQljF75rn2B9Gv8.png\",\"name\":\"Atlas Entertainment\",\"origin_country\":\"US\"},{\"id\":23689,\"logo_path\":null,\"name\":\"Village-A.M. Partnership\",\"origin_country\":\"\"},{\"id\":23690,\"logo_path\":null,\"name\":\"Coast Ridge\",\"origin_country\":\"\"},{\"id\":23691,\"logo_path\":null,\"name\":\"Junger Witt Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-09-27\",\"revenue\":108000000,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"}],\"status\":\"Released\",\"tagline\":\"It's good to be king.\",\"title\":\"Three Kings\",\"video\":false,\"vote_average\":6.66,\"vote_count\":1997}"
+}

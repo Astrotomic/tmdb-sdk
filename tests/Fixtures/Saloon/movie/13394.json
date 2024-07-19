@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1418",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2190",
+        "x-memc": "HIT",
+        "x-memc-key": "739a1406bed8f9dc209784ed2aa4a950",
+        "x-memc-age": "20529",
+        "x-memc-expires": "2190",
+        "ETag": "W\/\"25eed5a6f88854f7dc55c1d94fddacf9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PQPv-hKA6Yd-HjLHMKWr4m37-ZhzezXv5nmT_V4KB408Qv0AFDhpqg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vO1VJevJIKIXGfveYHsLPn8iHUn.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":13394,\"imdb_id\":\"tt0897387\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shrek the Halls\",\"overview\":\"The Christmas tree isn't the only thing green in this new holiday classic. Shrek is back and trying to get into the spirit of the season. After promising Fiona and the kids a Christmas they'll remember, he is forced to take a crash course in the holiday. But just when he thinks he has everything for their quiet family Christmas just right, there is a knock at the door.\",\"popularity\":29.777,\"poster_path\":\"\/zeqUbXA0JPSlyAHdRTgxoYgK24n.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-11-28\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Shrek the Halls\",\"video\":false,\"vote_average\":6.349,\"vote_count\":826}"
+}

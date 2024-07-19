@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3595",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=374",
+        "x-memc": "HIT",
+        "x-memc-key": "31f5a1f9d7da126d84f5f485d5f7adce",
+        "x-memc-age": "26575",
+        "x-memc-expires": "374",
+        "ETag": "W\/\"b1da5217c93f3ffcb49af9f06c7319d6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Sf3QTVGcVDRx2x49W7AqQadL8KR2TJl5X8KHWQffGz3KjBvf4h99lg=="
+    },
+    "data": "{\"id\":899,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":8828,\"known_for_department\":\"Acting\",\"name\":\"Lillian Gish\",\"original_name\":\"Lillian Gish\",\"popularity\":26.698,\"profile_path\":\"\/6DCWtvv654sc8p2OPnxGbKvl2qC.jpg\",\"cast_id\":7,\"character\":\"Lucy Burrows\",\"credit_id\":\"52fe4289c3a36847f8026a75\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":13789,\"known_for_department\":\"Acting\",\"name\":\"Richard Barthelmess\",\"original_name\":\"Richard Barthelmess\",\"popularity\":10.545,\"profile_path\":\"\/p7nmZeuQjHOsNFgqgEXBdh78OSC.jpg\",\"cast_id\":8,\"character\":\"Cheng Huan\",\"credit_id\":\"52fe4289c3a36847f8026a79\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":8841,\"known_for_department\":\"Acting\",\"name\":\"Donald Crisp\",\"original_name\":\"Donald Crisp\",\"popularity\":12.832,\"profile_path\":\"\/MEPq09iLEwJVrxw1T97qOILhk6.jpg\",\"cast_id\":9,\"character\":\"Battling Burrows\",\"credit_id\":\"52fe4289c3a36847f8026a7d\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":13790,\"known_for_department\":\"Acting\",\"name\":\"Arthur Howard\",\"original_name\":\"Arthur Howard\",\"popularity\":3.071,\"profile_path\":null,\"cast_id\":10,\"character\":\"Burrows' Manager\",\"credit_id\":\"52fe4289c3a36847f8026a81\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":13791,\"known_for_department\":\"Acting\",\"name\":\"Edward Peil Sr.\",\"original_name\":\"Edward Peil Sr.\",\"popularity\":3.135,\"profile_path\":\"\/tkebpmT8PggXYd2Qu028umqEZzc.jpg\",\"cast_id\":11,\"character\":\"Evil Eye\",\"credit_id\":\"52fe4289c3a36847f8026a85\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":8839,\"known_for_department\":\"Acting\",\"name\":\"George Beranger\",\"original_name\":\"George Beranger\",\"popularity\":10.595,\"profile_path\":\"\/9TmDKYlD885U1lG669NE48vbd4.jpg\",\"cast_id\":12,\"character\":\"The Spying One\",\"credit_id\":\"52fe4289c3a36847f8026a89\",\"order\":5},{\"adult\":false,\"gender\":2,\"id\":13792,\"known_for_department\":\"Acting\",\"name\":\"Norman Selby\",\"original_name\":\"Norman Selby\",\"popularity\":5.856,\"profile_path\":\"\/s9ltB7AySdmcEKAMUrA0n75kTAS.jpg\",\"cast_id\":13,\"character\":\"A Prizefighter\",\"credit_id\":\"52fe4289c3a36847f8026a8d\",\"order\":6}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":100036,\"known_for_department\":\"Directing\",\"name\":\"D.W. Griffith\",\"original_name\":\"D.W. Griffith\",\"popularity\":9.031,\"profile_path\":\"\/6cYHbhRqThsvZ2yPsvFX3FuXu5k.jpg\",\"credit_id\":\"52fe4289c3a36847f8026a9f\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":8821,\"known_for_department\":\"Editing\",\"name\":\"James Smith\",\"original_name\":\"James Smith\",\"popularity\":2.113,\"profile_path\":null,\"credit_id\":\"52fe4289c3a36847f8026a6b\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":2,\"id\":8819,\"known_for_department\":\"Camera\",\"name\":\"Billy Bitzer\",\"original_name\":\"Billy Bitzer\",\"popularity\":5.402,\"profile_path\":\"\/9nNC55iPLBuBK8KwQUoiK06piHW.jpg\",\"credit_id\":\"52fe4289c3a36847f8026a65\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":2,\"id\":100036,\"known_for_department\":\"Directing\",\"name\":\"D.W. Griffith\",\"original_name\":\"D.W. Griffith\",\"popularity\":9.031,\"profile_path\":\"\/6cYHbhRqThsvZ2yPsvFX3FuXu5k.jpg\",\"credit_id\":\"52fe4289c3a36847f8026a93\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":100036,\"known_for_department\":\"Directing\",\"name\":\"D.W. Griffith\",\"original_name\":\"D.W. Griffith\",\"popularity\":9.031,\"profile_path\":\"\/6cYHbhRqThsvZ2yPsvFX3FuXu5k.jpg\",\"credit_id\":\"52fe4289c3a36847f8026a99\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":13788,\"known_for_department\":\"Writing\",\"name\":\"Thomas Burke\",\"original_name\":\"Thomas Burke\",\"popularity\":3.395,\"profile_path\":null,\"credit_id\":\"5be6fc6e92514143ea0120e7\",\"department\":\"Writing\",\"job\":\"Short Story\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1174",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15845",
+        "x-memc": "HIT",
+        "x-memc-key": "d03fd4ce4266388c7a5862db62cb8f0d",
+        "x-memc-age": "10631",
+        "x-memc-expires": "15845",
+        "ETag": "W\/\"aeb9cdce727def0dca49e7e14d5fdf44\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8tHbltPqcYSootpH6nLrbqtTjEYDvEy2fyLjq0KL1wxyP2lwjv_Nkw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4f3ZDaQRLCWYqJu8ydiclrWi3YJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":62872,\"imdb_id\":\"tt0848613\",\"origin_country\":[\"AT\",\"DE\"],\"original_language\":\"de\",\"original_title\":\"Weisse Lilien\",\"overview\":\"At some point in the not-so-distant future, an unnamed European city has evolved into a bizarre dystopian metropolis, whose residents inhabit towering utopian high-rises and work, collectively, in a single compound.\",\"popularity\":2.73,\"poster_path\":\"\/jp5YQnDJ4ajoVh53LKLJERSmeWX.jpg\",\"production_companies\":[{\"id\":2665,\"logo_path\":null,\"name\":\"Amour Fou Filmproduktion\",\"origin_country\":\"\"},{\"id\":2666,\"logo_path\":null,\"name\":\"Minotaurus Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"LU\",\"name\":\"Luxembourg\"},{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"}],\"release_date\":\"2008-09-11\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Silent Resident\",\"video\":false,\"vote_average\":4.8,\"vote_count\":6}"
+}

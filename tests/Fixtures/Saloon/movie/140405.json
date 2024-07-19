@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1100",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12561",
+        "x-memc": "HIT",
+        "x-memc-key": "9ccd857e85b364d56e9bbc6920cbc571",
+        "x-memc-age": "14813",
+        "x-memc-expires": "12561",
+        "ETag": "W\/\"aca64be2fcfb54377e93be160dec141c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "USEnqWaEjhC8t8o6DzSJhkc8lTLxEXEw3_Xq-8F2ZAwsq_DAxGzP9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gekfiR7Mi0G7EHzKZcaDl8V1amI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/coldplay.com\/cinema\/\",\"id\":140405,\"imdb_id\":\"tt2471670\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Coldplay: Live 2012\",\"overview\":\"A concert film documenting English pop rock band Coldplay's 2011-2012 'Mylo Xyloto' world tour, capturing their live shows at Paris's Stade de France, Montreal's Bell Centre, and Glastonbury Festival's Pyramid Stage.\",\"popularity\":8.11,\"poster_path\":\"\/eHmhChNYQLmlnNoH3ot8NJYOvzo.jpg\",\"production_companies\":[{\"id\":3633,\"logo_path\":null,\"name\":\"EMI Records Ltd.\",\"origin_country\":\"\"},{\"id\":64393,\"logo_path\":null,\"name\":\"JA Digital\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2012-11-13\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Coldplay: Live 2012\",\"video\":false,\"vote_average\":7.797,\"vote_count\":38}"
+}

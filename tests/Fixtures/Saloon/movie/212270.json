@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "936",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23864",
+        "x-memc": "HIT",
+        "x-memc-key": "b20b76f7b689d0b1d7f8d3feaf2b7f42",
+        "x-memc-age": "3948",
+        "x-memc-expires": "23864",
+        "ETag": "W\/\"e228be2676dca66fc4da8d729a650c84\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FIHBD_GOI865OweOxfypTnDVo4pWyPvW3N-dmDNjZB17BGT0nhCedg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":3800,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/malqueres.com\/The-Flying-Man\",\"id\":212270,\"imdb_id\":\"tt3018700\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"The Flying Man\",\"overview\":\"A new superhero is coming, only this time it's on his terms. Will he still be considered a hero?\",\"popularity\":2.087,\"poster_path\":\"\/hlOo2PnM9Knb31WRocS2bR6cFPL.jpg\",\"production_companies\":[{\"id\":110372,\"logo_path\":null,\"name\":\"Marcus Alqueres\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2013-07-08\",\"revenue\":0,\"runtime\":9,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Flying Man\",\"video\":false,\"vote_average\":5.575,\"vote_count\":20}"
+}

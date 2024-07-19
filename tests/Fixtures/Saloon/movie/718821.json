@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1834",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24888",
+        "x-memc": "HIT",
+        "x-memc-key": "dead3aa1bc3000396b101ed5fa96f132",
+        "x-memc-age": "1032",
+        "x-memc-expires": "24888",
+        "ETag": "W\/\"86275306d889f7eedc54d59c256bee65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6H_7Mh38OHxl4aC9lKQAM8zdSjpQ5nUoLUNVg06OHtZLqcTQ1mH4-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7aPrv2HFssWcOtpig5G3HEVk3uS.jpg\",\"belongs_to_collection\":{\"id\":1062948,\"name\":\"Twister Collection\",\"poster_path\":\"\/9dIAsn4N1t9bQJyNo5Cj8xmflyf.jpg\",\"backdrop_path\":\"\/bnb3pWSDihCCeZ0wGlFBbTScyZv.jpg\"},\"budget\":155000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.twisters-movie.com\",\"id\":718821,\"imdb_id\":\"tt12584954\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Twisters\",\"overview\":\"As storm season intensifies, the paths of former storm chaser Kate Carter and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.\",\"popularity\":626.497,\"poster_path\":\"\/pjnD08FlMAIXsfOLKQbvmO0f0MD.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":862,\"logo_path\":\"\/vdK6ZhC2CSW36j0VPEavRxOpbEg.png\",\"name\":\"The Kennedy\/Marshall Company\",\"origin_country\":\"US\"},{\"id\":216687,\"logo_path\":null,\"name\":\"Domain Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-07-10\",\"revenue\":10987216,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Chase. Ride. Survive.\",\"title\":\"Twisters\",\"video\":false,\"vote_average\":7.602,\"vote_count\":83}"
+}

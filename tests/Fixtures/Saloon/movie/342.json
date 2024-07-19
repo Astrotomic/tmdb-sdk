@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1270",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9050",
+        "x-memc": "HIT",
+        "x-memc-key": "16b72bd847eee4c499b763936745067a",
+        "x-memc-age": "17490",
+        "x-memc-expires": "9050",
+        "ETag": "W\/\"dc056a5c181adef7ed16a1a5e7e0bb7d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_2SjlbGmfk7EuBMBKjdUkoXTyU0SOt1B8AvytBYayW0Edk5zGt_KCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mjCTpAo0GIfK8tzt1YPJuy1dA9S.jpg\",\"belongs_to_collection\":null,\"budget\":2700000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.sommersturm.de\/main.html\",\"id\":342,\"imdb_id\":\"tt0420206\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Sommersturm\",\"overview\":\"Tobi and Achim, the pride of the local crew club, have been the best of friends for years and are convinced that nothing will ever stand in the way of their friendship. They look forward to the upcoming summer camp and the crew competition. Then the gay team from Berlin arrives and Tobi is totally confused. The evening before the races begin, the storm that breaks out is more than meteor-logical.\",\"popularity\":10.969,\"poster_path\":\"\/vvoOOEgSv2kKVxIqTZvFwtPp9eI.jpg\",\"production_companies\":[{\"id\":161,\"logo_path\":null,\"name\":\"Claussen+W\u00f6bke Filmproduktion\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2004-09-02\",\"revenue\":2085166,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Life happens without warning.\",\"title\":\"Summer Storm\",\"video\":false,\"vote_average\":6.734,\"vote_count\":192}"
+}

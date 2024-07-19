@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "831",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2179",
+        "x-memc": "HIT",
+        "x-memc-key": "3d39e1b39582d3e68bfaaf592e7963f2",
+        "x-memc-age": "20642",
+        "x-memc-expires": "2179",
+        "ETag": "W\/\"f2a546616194eac1af16c6dc5ea12e6e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zWOGoQF_-fZdDidxP3gk3LJRnMjk7CRl1H18ZrQyhfgddcEjGsmqGA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":1024522,\"imdb_id\":null,\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Journey to the moon\",\"overview\":\"\",\"popularity\":0.625,\"poster_path\":null,\"production_companies\":[{\"id\":163219,\"logo_path\":\"\/dPhXBLsfXGKd1claO1c5RenJRIv.png\",\"name\":\"Prime Stuff Studios\",\"origin_country\":\"PL\"}],\"production_countries\":[{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Journey to the moon\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

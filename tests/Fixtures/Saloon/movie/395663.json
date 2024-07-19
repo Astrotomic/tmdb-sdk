@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2086",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10648",
+        "x-memc": "HIT",
+        "x-memc-key": "c313661c251491a3d1554b9c0259fb17",
+        "x-memc-age": "15502",
+        "x-memc-expires": "10648",
+        "ETag": "W\/\"de55960bc887726a9c03fb97e36f0907\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uT4dDzAo4t2gtJpVDjx6YTj5-FBU8vH_1CKFf3Yj_vpqrVeLUwZOGA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":36,\"name\":\"History\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":395663,\"imdb_id\":\"tt5684728\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Attenborough at 90: Behind the Lens\",\"overview\":\"As Sir David Attenborough turns 90, this intimate film presents new interviews, eye-opening behind-the-scenes footage and extraordinary clips from some of his most recent films. The doc, which was made for the occasion of Attenborough\u2019s 90th birthday, was shot over seven years and follows him as he travels to Borneo, Morocco and the Galapagos to shoot wildlife specials. Anthony Geffen, the CEO of Atlantic Productions, commented, \u201cThis is such a special Attenborough film because unusually he is the subject. As I look back over the last seven years, I never fail to be amazed by his extraordinary ambition and drive to use the very latest technology to communicate the natural world to audiences around the globe. This film gives audiences the chance to see what it\u2019s like to be on the road with David.\u201d\",\"popularity\":3.561,\"poster_path\":\"\/zR9ySn9KgkBTblzrXi1SSNTnxAO.jpg\",\"production_companies\":[{\"id\":8172,\"logo_path\":\"\/z8wiYrvJAwbm2jcPSj8qVqWh4RP.png\",\"name\":\"Atlantic Productions\",\"origin_country\":\"GB\"},{\"id\":3324,\"logo_path\":\"\/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png\",\"name\":\"BBC\",\"origin_country\":\"GB\"},{\"id\":1253,\"logo_path\":\"\/6f0A0AqIPHYheRb90tVMutuzSnP.png\",\"name\":\"Australian Broadcasting Corporation\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2016-04-30\",\"revenue\":0,\"runtime\":45,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A profile of broadcaster and naturalist David Attenborough, whose career has included being controller of BBC Two and making numerous groundbreaking wildlife programmes.\",\"title\":\"Attenborough at 90: Behind the Lens\",\"video\":false,\"vote_average\":8.4,\"vote_count\":7}"
+}

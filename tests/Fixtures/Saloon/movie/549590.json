@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1243",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=857",
+        "x-memc": "HIT",
+        "x-memc-key": "3d3839f8aa0c348384c6709cab52e716",
+        "x-memc-age": "24010",
+        "x-memc-expires": "857",
+        "ETag": "W\/\"5a8ca175203dc88579f9d0a0e5795ad8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pHOxviBlN9ueHV34njxmEfMhq68cZoxwXS1NaDDNN5p4BSWNrXz24g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vRl2GlAx1MWdnTYf3VGCKnbDx6i.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":549590,\"imdb_id\":\"tt9174334\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\ub3d9\ub124\uc0ac\ub78c\ub4e4\",\"overview\":\"A gym teacher and his female student look for her missing friend. But as they investigate, they find that her disappearance is a part of a larger conspiracy.\",\"popularity\":18.543,\"poster_path\":\"\/xY9hJH7GArAmA1sW0PMduQr1WCJ.jpg\",\"production_companies\":[{\"id\":71853,\"logo_path\":\"\/lrKwhhkjtqtl2o0A8DmQZHSk7vP.png\",\"name\":\"Little Big Pictures\",\"origin_country\":\"KR\"},{\"id\":117236,\"logo_path\":\"\/gM81y541KXHLgmD63p2GdD7S6lS.png\",\"name\":\"Daydream\",\"origin_country\":\"KR\"},{\"id\":7036,\"logo_path\":\"\/javbyY0ZCvlFJtly3tpZqf2NwLX.png\",\"name\":\"CJ Entertainment\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2018-11-07\",\"revenue\":3388675,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ordinary People\",\"video\":false,\"vote_average\":7.289,\"vote_count\":45}"
+}

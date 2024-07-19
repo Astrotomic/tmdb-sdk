@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3637",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14201",
+        "x-memc": "HIT",
+        "x-memc-key": "4fb8d13525f996d5e5cfda377e2f5c60",
+        "x-memc-age": "8460",
+        "x-memc-expires": "14201",
+        "ETag": "W\/\"f72d001d98a7f66a9fa98aa135e5fe42\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EylqmJFXA5HcDFjmWi6u58V-2znrKoJKJUOi1uFXSYdGTqekQNtSvQ=="
+    },
+    "data": "{\"id\":1051547,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1051547-upon-entry-la-llegada\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21}]},\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1051547-upon-entry-la-llegada\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8},{\"logo_path\":\"\/7K6rVbpWXB6ByDI0PRzGGRXRBSY.jpg\",\"provider_id\":149,\"provider_name\":\"Movistar Plus\",\"display_priority\":11}]},\"ID\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1051547-upon-entry-la-llegada\/watch?locale=ID\",\"flatrate\":[{\"logo_path\":\"\/iqq9pxAgCVM4jD9C21kpWj8ZBTG.jpg\",\"provider_id\":576,\"provider_name\":\"Klik Film\",\"display_priority\":28}]},\"MX\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1051547-upon-entry-la-llegada\/watch?locale=MX\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":17}]},\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1051547-upon-entry-la-llegada\/watch?locale=NL\",\"buy\":[{\"logo_path\":\"\/lnOkJKyFl87mzqNebAbE8ADdHoB.jpg\",\"provider_id\":71,\"provider_name\":\"Path\u00e9 Thuis\",\"display_priority\":7}],\"flatrate\":[{\"logo_path\":\"\/nzjqsR28PVVp5GJAlHtbBArNKqN.jpg\",\"provider_id\":563,\"provider_name\":\"KPN\",\"display_priority\":34}],\"rent\":[{\"logo_path\":\"\/lnOkJKyFl87mzqNebAbE8ADdHoB.jpg\",\"provider_id\":71,\"provider_name\":\"Path\u00e9 Thuis\",\"display_priority\":7}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1051547-upon-entry-la-llegada\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1409",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9981",
+        "x-memc": "HIT",
+        "x-memc-key": "24171aa0a7a58f25c466d46772a2a31c",
+        "x-memc-age": "12531",
+        "x-memc-expires": "9981",
+        "ETag": "W\/\"b0c0e2eb54ff66ea871d9ae4b4ba281d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ptoUE8P5bd4D9kEOnXyvHhQRwZanm2hk_mA6jUxL2-Tf3-c8_3T8BA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8pOUmMgVnl1tYNtTRTE5TeyGBGD.jpg\",\"belongs_to_collection\":{\"id\":1313822,\"name\":\"Batman Ninja Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/wwws.warnerbros.co.jp\/batman-ninja\/\",\"id\":485942,\"imdb_id\":\"tt7451284\",\"origin_country\":[\"US\"],\"original_language\":\"ja\",\"original_title\":\"\u30cb\u30f3\u30b8\u30e3\u30d0\u30c3\u30c8\u30de\u30f3\",\"overview\":\"Batman, along with many of his allies and adversaries, finds himself transported to feudal Japan by Gorilla Grodd's time displacement machine.\",\"popularity\":19.801,\"poster_path\":\"\/5xSB0Npkc9Fd9kahKBsq9P4Cdzp.jpg\",\"production_companies\":[{\"id\":93154,\"logo_path\":\"\/vTNoVe4tBhY1hshuVVF7fA2RbSD.png\",\"name\":\"Kamikaze Douga\",\"origin_country\":\"JP\"},{\"id\":9993,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Entertainment\",\"origin_country\":\"US\"},{\"id\":3627,\"logo_path\":\"\/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png\",\"name\":\"Warner Bros. Japan\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-06-15\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Batman Ninja\",\"video\":false,\"vote_average\":5.796,\"vote_count\":824}"
+}

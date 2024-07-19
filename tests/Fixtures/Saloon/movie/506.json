@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1117",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17036",
+        "x-memc": "HIT",
+        "x-memc-key": "77f65fe5092d0cac0ed6971a6b625e3d",
+        "x-memc-age": "6676",
+        "x-memc-expires": "17036",
+        "ETag": "W\/\"80e9387639436c81c49895a716bebb00\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bafMbOC3zjzohY1FYi2FIkPm56K4yTNxNqqNxmoZ2jWaN4sH7n5PQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6jrCrve6A5Hm8Lw2dQATdh3nq7K.jpg\",\"belongs_to_collection\":null,\"budget\":2135000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":506,\"imdb_id\":\"tt0058329\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Marnie\",\"overview\":\"Marnie is a thief, a liar, and a cheat. When her new boss, Mark Rutland, catches on to her routine kleptomania, she finds herself being blackmailed.\",\"popularity\":27.01,\"poster_path\":\"\/nRRy4VO2A3Py7wiZBPz11PAlogp.jpg\",\"production_companies\":[{\"id\":10715,\"logo_path\":null,\"name\":\"Alfred J. Hitchcock Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1964-07-17\",\"revenue\":7000000,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The more he loved her . . . The more she hated him . . . For trying to unravel her secret!\",\"title\":\"Marnie\",\"video\":false,\"vote_average\":7.155,\"vote_count\":1078}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1219",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1708",
+        "x-memc": "HIT",
+        "x-memc-key": "caec20fdf4136c3b0beeaecc3ffd5fb8",
+        "x-memc-age": "24579",
+        "x-memc-expires": "1708",
+        "ETag": "W\/\"5249fa5fe750ab32314ffd720ce60223\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F3-7VrGVlVEAV12ULNBF-8QAsOlkUd0qB1r2MaW9XPF-eDWvLGF2MQ=="
+    },
+    "data": "{\"id\":19433,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19433-revolution-os\/watch?locale=BR\",\"free\":[{\"logo_path\":\"\/3MsEoFiBy9eaUdKo5Cx1iR9BPQy.jpg\",\"provider_id\":544,\"provider_name\":\"Libreflix\",\"display_priority\":29}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19433-revolution-os\/watch?locale=CA\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19433-revolution-os\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19433-revolution-os\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]}}}"
+}

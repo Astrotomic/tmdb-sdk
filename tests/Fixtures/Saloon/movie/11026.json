@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1282",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10281",
+        "x-memc": "HIT",
+        "x-memc-key": "65bd536b65f6f54da5d6cc90ec8e127f",
+        "x-memc-age": "17253",
+        "x-memc-expires": "10281",
+        "ETag": "W\/\"b5d62ebb9d0768e71694dc6540427c1a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WOEwlfn9V7ppr9I4Nue0UTAyI69juk3FhQPTt-cVs_62v3qJl6nMyA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A2kXYkGGdeLU20YHPM9qs6GX9nN.jpg\",\"belongs_to_collection\":{\"id\":12263,\"name\":\"The Exorcist Collection\",\"poster_path\":\"\/yKfTl0H8pMORzPLho3kz69yWwP0.jpg\",\"backdrop_path\":\"\/pgxFa9jkfOaopuw5kGZ7KgVkhwW.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11026,\"imdb_id\":\"tt0204313\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Exorcist: The Beginning\",\"overview\":\"Years before Father Merrin helped save Regan MacNeil\u2019s soul, he first encounters the demon Pazuzu in East Africa.\",\"popularity\":17.215,\"poster_path\":\"\/2NS3zkF1f3FnxBoUvWKKXAr5UIv.jpg\",\"production_companies\":[{\"id\":36452,\"logo_path\":null,\"name\":\"Dominion Productions\",\"origin_country\":\"\"},{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-08-20\",\"revenue\":78000586,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Go back to where the horror began.\",\"title\":\"Exorcist: The Beginning\",\"video\":false,\"vote_average\":5.41,\"vote_count\":772}"
+}

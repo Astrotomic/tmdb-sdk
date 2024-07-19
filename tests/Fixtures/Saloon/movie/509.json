@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1661",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8088",
+        "x-memc": "HIT",
+        "x-memc-key": "710bcd69e46f9061b7fb46f758b33213",
+        "x-memc-age": "13784",
+        "x-memc-expires": "8088",
+        "ETag": "W\/\"f75573063565abe38e9f69a7bfa38385\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KeAUICzNuJb33NTpbLLFlwyZ-9Elrcw2NpU6D_Nh0GvGquoN9iiB_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mqcqAE8yefvezVJ78FINJCiV6n3.jpg\",\"belongs_to_collection\":null,\"budget\":42000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.notting-hill.com\/\",\"id\":509,\"imdb_id\":\"tt0125439\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Notting Hill\",\"overview\":\"William Thacker is a London bookstore owner whose humdrum existence is thrown into romantic turmoil when famous American actress Anna Scott appears in his shop. A chance encounter over spilled orange juice leads to a kiss that blossoms into a full-blown affair. As the average bloke and glamorous movie star draw closer and closer together, they struggle to reconcile their radically different lifestyles in the name of love.\",\"popularity\":42.16,\"poster_path\":\"\/hHRIf2XHeQMbyRb3HUx19SF5Ujw.jpg\",\"production_companies\":[{\"id\":1382,\"logo_path\":\"\/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png\",\"name\":\"PolyGram Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":283,\"logo_path\":null,\"name\":\"Notting Hill Pictures\",\"origin_country\":\"\"},{\"id\":232374,\"logo_path\":null,\"name\":\"Duncan Kenworthy Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1999-05-21\",\"revenue\":363889678,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Can the most famous film star in the world fall for the man on the street?\",\"title\":\"Notting Hill\",\"video\":false,\"vote_average\":7.262,\"vote_count\":5886}"
+}

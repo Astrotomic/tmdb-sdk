@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "938",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21405",
+        "x-memc": "HIT",
+        "x-memc-key": "2fc1bd4af1fbd21c9cf50ffa16511cb1",
+        "x-memc-age": "3873",
+        "x-memc-expires": "21405",
+        "ETag": "W\/\"5b83a433da7979f37cad638741ce4361\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JIVyMTXRkDrB63FrVGLEF_PWfSkGinVjvT7NfvOPMI8M0Xft5pFxsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":1029839,\"imdb_id\":null,\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u602a\u76d7\u30eb\u30d1\u30f3 813\u306e\u8b0e\",\"overview\":\"Anime film based on the novel \\\"813\\\" by Maurice Leblanc.\",\"popularity\":5.691,\"poster_path\":\"\/8YTkzruTrr30sBM1YMYxwGNhxRC.jpg\",\"production_companies\":[{\"id\":13583,\"logo_path\":\"\/3AcqA6uF49Auq43niCf9NQPGxsU.png\",\"name\":\"Tatsunoko Production\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1979-05-05\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Lupin the Thief--Enigma of the 813\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

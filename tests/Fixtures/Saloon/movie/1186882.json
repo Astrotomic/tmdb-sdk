@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "760",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8166",
+        "x-memc": "HIT",
+        "x-memc-key": "135ee4f3aa491d63e978e397f65faca1",
+        "x-memc-age": "14792",
+        "x-memc-expires": "8166",
+        "ETag": "W\/\"fce4fb9dfc57374a813a27e7c0622071\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5goeW3e47TM6wKrzKKi5JeHYqFplpBOdxkmdOm6LAcMpAU1VdAcNfg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1186882,\"imdb_id\":\"tt14009798\",\"origin_country\":[\"XC\"],\"original_language\":\"sk\",\"original_title\":\"Div\u00e1 ka\u010dka\",\"overview\":\"\",\"popularity\":3.092,\"poster_path\":null,\"production_companies\":[{\"id\":28449,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 telev\u00edzia Bratislava\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1972-10-23\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Div\u00e1 ka\u010dka\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

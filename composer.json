@@ -20,11 +20,14 @@
         "illuminate/collections": "^11.0",
         "illuminate/support": "^11.0",
         "nesbot/carbon": "^2.31",
-        "saloonphp/saloon": "^3.9"
+        "saloonphp/pagination-plugin": "^2.0",
+        "saloonphp/saloon": "^3.0"
     },
     "require-dev": {
-        "astrotomic/phpunit-assertions": "^0.11",
+        "astrotomic/iso639": "^1.0",
+        "astrotomic/phpunit-assertions": "^0.11.0",
         "laravel/pint": "^1.16.2",
+        "league/iso3166": "^3.0",
         "pestphp/pest": "^2.34.9",
         "phpstan/phpstan": "^1.11.7",
         "spatie/ray": "^1.41.2"

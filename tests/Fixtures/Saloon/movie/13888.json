@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1364",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4926",
+        "x-memc": "HIT",
+        "x-memc-key": "fbd9d328def867b5fb9699c38eb802fa",
+        "x-memc-age": "21636",
+        "x-memc-expires": "4926",
+        "ETag": "W\/\"7630386d34491f9b6c290f9023463138\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uEf1_9JbnuJS6AZpzvCDqQ6DJiglLRFKqijdmITXhGGT7GO-A5508w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/70tfSdpFBXI8VzELLc015aN9kwa.jpg\",\"belongs_to_collection\":{\"id\":59586,\"name\":\"The Blue Lagoon Collection\",\"poster_path\":\"\/cz7ft80hlqLoWdmNTqBgnqJBNAy.jpg\",\"backdrop_path\":\"\/sPyx2H2IX6HXJO9uOwkf6hbS9mx.jpg\"},\"budget\":11000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":13888,\"imdb_id\":\"tt0102782\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Return to the Blue Lagoon\",\"overview\":\"In this sequel to the 1980 classic, two children are stranded on a beautiful island in the South Pacific. With no adults to guide them, the two make a simple life together and eventually become tanned teenagers in love.\",\"popularity\":33.547,\"poster_path\":\"\/jhUTLuPgc3Qcvr5xtji8oiWSfYy.jpg\",\"production_companies\":[{\"id\":23808,\"logo_path\":null,\"name\":\"Price Entertainment\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-08-02\",\"revenue\":2807854,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Return to the Romance, Return to the Adventure...\",\"title\":\"Return to the Blue Lagoon\",\"video\":false,\"vote_average\":6.224,\"vote_count\":1145}"
+}

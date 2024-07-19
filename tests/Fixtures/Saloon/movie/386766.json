@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1021",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19986",
+        "x-memc": "HIT",
+        "x-memc-key": "231911f04e5520bce95b86ee6436a405",
+        "x-memc-age": "2650",
+        "x-memc-expires": "19986",
+        "ETag": "W\/\"db4533e9ec82888ecd0d4280d543f0a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LbBouQr1bpx5owcKPnZaz_yvFJ3gC7T-B7LWeJOooxzThWaYATRLnw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kGFnpRlOgSV55uXvK3eyoFkrD8B.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"https:\/\/www.suzanpitt.com\/pinball\",\"id\":386766,\"imdb_id\":\"tt7211342\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pinball\",\"overview\":\"As George Antheil's avant-garde composition \\\"Ballet Mecanique (1952 revision)\\\" plays, a dizzying array of abstract paintings are captured in close-up, spun around, and rapidly edited together. Grotesque and frightening creatures start to emerge through the flickering shapes and patterns.\",\"popularity\":4.113,\"poster_path\":\"\/jRgvb5Y7aHairNcVKwT4TGndKyL.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-03-10\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pinball\",\"video\":false,\"vote_average\":5.9,\"vote_count\":5}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1560",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6892",
+        "x-memc": "HIT",
+        "x-memc-key": "7624887c4bea442d67e02d0365ab2cde",
+        "x-memc-age": "15320",
+        "x-memc-expires": "6892",
+        "ETag": "W\/\"adafd31a7665555abe6fb4e578625db7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RJDrFyicATbK-hkkiIgmKkxxwX4F3d66MNBhGKI0dRlKmceuMnyM2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/q4ISn9yyC5OnLT9ESkExHjBuK8d.jpg\",\"belongs_to_collection\":null,\"budget\":44500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/argothemovie.warnerbros.com\/\",\"id\":68734,\"imdb_id\":\"tt1024648\",\"origin_country\":[\"US\",\"GB\",\"TR\"],\"original_language\":\"en\",\"original_title\":\"Argo\",\"overview\":\"As the Iranian revolution reaches a boiling point, a CIA 'exfiltration' specialist concocts a risky plan to free six Americans who have found shelter at the home of the Canadian ambassador.\",\"popularity\":26.561,\"poster_path\":\"\/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg\",\"production_companies\":[{\"id\":3281,\"logo_path\":\"\/pfmb82VUfN9VKB1YuBSY69WVNVm.png\",\"name\":\"GK Films\",\"origin_country\":\"GB\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":1782,\"logo_path\":\"\/d1mlUfuG0NoQ4x0C7bK80wLGWA1.png\",\"name\":\"Smoke House Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-10-11\",\"revenue\":232300000,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Persian\",\"iso_639_1\":\"fa\",\"name\":\"\u0641\u0627\u0631\u0633\u06cc\"}],\"status\":\"Released\",\"tagline\":\"The movie was fake. The mission was real.\",\"title\":\"Argo\",\"video\":false,\"vote_average\":7.278,\"vote_count\":8102}"
+}

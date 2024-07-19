@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2131",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7536",
+        "x-memc": "HIT",
+        "x-memc-key": "446c23a6c424a77226d88ec2a7c5f847",
+        "x-memc-age": "17858",
+        "x-memc-expires": "7536",
+        "ETag": "W\/\"bdbf088e008555803144500c957940c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-rAfeIGhlXWGSNxpsnSjYsmkymgg69ZcWtvzpiUonA7e6fJ9y5KM5w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rQ0ftLVeLBkWlSkuH0RBKUlMW70.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":394046,\"imdb_id\":\"tt4631810\",\"origin_country\":[\"CA\",\"FR\",\"CH\"],\"original_language\":\"fr\",\"original_title\":\"Winston Churchill : Un g\u00e9ant dans le si\u00e8cle\",\"overview\":\"A new look at the public and private life of one of the most important statesmen in the history of Europe: Winston Churchill (1874-1965), soldier, politician, writer, painter, leader of his country in the darkest hours, winner of the Nobel Prize in Literature, a myth, a giant of the 20th century.\",\"popularity\":8.489,\"poster_path\":\"\/bzyftGhgtRsb9QCgVdwypeKxgcI.jpg\",\"production_companies\":[{\"id\":48098,\"logo_path\":\"\/fWIaTm5r2j6WHgatBFLn1ioZxSB.png\",\"name\":\"Roche Productions\",\"origin_country\":\"FR\"},{\"id\":7131,\"logo_path\":\"\/qpFsGoa96SytbWkhtkkpllu5Cch.png\",\"name\":\"France T\u00e9l\u00e9visions\",\"origin_country\":\"FR\"},{\"id\":201,\"logo_path\":\"\/6UIpEURdjnmcJPwgTDRzVRuwADr.png\",\"name\":\"ARTE\",\"origin_country\":\"FR\"},{\"id\":85752,\"logo_path\":\"\/5KU8oRvXX9I1bWdiATsSlYqx6em.png\",\"name\":\"TV5 Qu\u00e9bec Canada\",\"origin_country\":\"CA\"},{\"id\":20960,\"logo_path\":\"\/9mO8Z3dcW6ISVMeCv7TbXtWXdGl.png\",\"name\":\"RSI\",\"origin_country\":\"CH\"},{\"id\":104540,\"logo_path\":null,\"name\":\"Discovery Communications Europe\",\"origin_country\":\"\"},{\"id\":792,\"logo_path\":\"\/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png\",\"name\":\"RTBF\",\"origin_country\":\"BE\"},{\"id\":13668,\"logo_path\":\"\/azhapBvZ8g1UWyyQQhhcRR9bM9x.png\",\"name\":\"RTS\",\"origin_country\":\"CH\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"}],\"release_date\":\"2014-10-20\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"His life in colour\",\"title\":\"Winston Churchill: A Giant in the Century\",\"video\":false,\"vote_average\":7.7,\"vote_count\":6}"
+}

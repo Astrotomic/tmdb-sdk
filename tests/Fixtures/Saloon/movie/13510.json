@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1226",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9206",
+        "x-memc": "HIT",
+        "x-memc-key": "a7c5b930dd46cd5eac950a0dcae1e860",
+        "x-memc-age": "17913",
+        "x-memc-expires": "9206",
+        "ETag": "W\/\"200cb7633fe64481a91d6195f65eb85a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WDKxnHM5bKHvnBDIuLh8LpUrp8ZXqCTFWz0DbMbNAKubQGgT69oS1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zYuOttN0vFv5hwUP00pKViH0uxv.jpg\",\"belongs_to_collection\":null,\"budget\":12850990,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":13510,\"imdb_id\":\"tt1020530\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Eden Lake\",\"overview\":\"When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival.\",\"popularity\":47.984,\"poster_path\":\"\/tOg6ElTe1mJwaCFN0172U4oso22.jpg\",\"production_companies\":[{\"id\":8575,\"logo_path\":null,\"name\":\"Rollercoaster Films\",\"origin_country\":\"GB\"},{\"id\":3272,\"logo_path\":null,\"name\":\"Aramid Entertainment Fund\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2008-09-12\",\"revenue\":3984669,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A weekend by the lake, with views to die for.\",\"title\":\"Eden Lake\",\"video\":false,\"vote_average\":6.8,\"vote_count\":1712}"
+}

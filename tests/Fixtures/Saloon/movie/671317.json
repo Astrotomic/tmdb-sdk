@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1148",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27838",
+        "x-memc": "HIT",
+        "x-memc-key": "86981cd63bfd452d4bcbdbe4cb6bdfe3",
+        "x-memc-age": "155",
+        "x-memc-expires": "27838",
+        "ETag": "W\/\"50c6c79ff92f65995486357d975a93e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5pLdMqNwQFUZDglJy3KKmzKsdiJKF6Kc7xHgObOLnVh0K3sL6vlPHA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2WO1Q4KpVSOOGCzVpTSUpgo9ZzF.jpg\",\"belongs_to_collection\":null,\"budget\":1650000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":671317,\"imdb_id\":\"tt8851084\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Desaparecer Por Completo\",\"overview\":\"An ambitious and insensitive tabloid crime photographer falls victim to a mysterious illness that makes him lose, one by one, his five senses.\",\"popularity\":12.76,\"poster_path\":\"\/9w2Gl8zRfCdlFd9O3UWdb8caNke.jpg\",\"production_companies\":[{\"id\":17345,\"logo_path\":\"\/MCBu4Isd7KHPHVHqLp6h4zssTi.png\",\"name\":\"Varios Lobos\",\"origin_country\":\"MX\"},{\"id\":94327,\"logo_path\":\"\/vMaFsZNAshD2mJJHRXuoJ6uLqE4.png\",\"name\":\"Panorama Global\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2024-02-29\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Smell. Taste. Feel. Hear. See. It could be your last time.\",\"title\":\"Disappear Completely\",\"video\":false,\"vote_average\":7.036,\"vote_count\":14}"
+}

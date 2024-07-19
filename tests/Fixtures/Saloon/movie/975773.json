@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1637",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3287",
+        "x-memc": "HIT",
+        "x-memc-key": "05c0f1e741cf24bdb0d5c2f6bf5a785f",
+        "x-memc-age": "19243",
+        "x-memc-expires": "3287",
+        "ETag": "W\/\"e44fabce584522efe8b40cc5426893ea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mtR0oxFOEgzzbRlYtu2LKh0hZ_Pij9pIEcKyCqBh_CV1VBINAYyCOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sp99ZzKz6Zv7nX95XDJmhNA4LVI.jpg\",\"belongs_to_collection\":null,\"budget\":12600000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.wickedlittleletters.co.uk\/\",\"id\":975773,\"imdb_id\":\"tt20234774\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Wicked Little Letters\",\"overview\":\"When people in Littlehampton--including conservative local Edith--begin to receive letters full of hilarious profanities, rowdy Irish migrant Rose is charged with the crime. Suspecting that something is amiss, the town's women investigate.\",\"popularity\":125.642,\"poster_path\":\"\/scAU7YudKNVeZlOfgSEWntAUSJ.jpg\",\"production_companies\":[{\"id\":2376,\"logo_path\":\"\/yeNoWmSHZfvKsBYuL8uTRE4LPdQ.png\",\"name\":\"Blueprint Pictures\",\"origin_country\":\"GB\"},{\"id\":167259,\"logo_path\":\"\/bSwCootf79JLvjEKH9BC4pTOSUW.png\",\"name\":\"South of the River Pictures\",\"origin_country\":\"GB\"},{\"id\":6705,\"logo_path\":\"\/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png\",\"name\":\"Film4 Productions\",\"origin_country\":\"GB\"},{\"id\":165934,\"logo_path\":\"\/fcdDXcwCyMd9rJR7HPLvmx4m3U.png\",\"name\":\"People Person Pictures\",\"origin_country\":\"GB\"},{\"id\":113521,\"logo_path\":\"\/mSpyH0Tdpxy06BicQw9DF8pdZBA.png\",\"name\":\"StudioCanal\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-02-23\",\"revenue\":26407131,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Be careful what you post.\",\"title\":\"Wicked Little Letters\",\"video\":false,\"vote_average\":6.959,\"vote_count\":194}"
+}

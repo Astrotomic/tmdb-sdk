@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1031",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25300",
+        "x-memc": "HIT",
+        "x-memc-key": "2eb889f8a71cbddf5b3caa9f52f265c6",
+        "x-memc-age": "281",
+        "x-memc-expires": "25300",
+        "ETag": "W\/\"b36da6cc54e5ce0afba91c6a297be429\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sw5vxVGAkVsRQwFjF7poWXA36jOwMtF8NE4fXq0p4nnzvToO7khXWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fQ93o3wVSIe0dXMLTVTBHoqWwew.jpg\",\"belongs_to_collection\":null,\"budget\":1707561,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":909,\"imdb_id\":\"tt0037059\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Meet Me in St. Louis\",\"overview\":\"The life of a St. Louis family in the year before the 1904 St. Louis World's Fair.\",\"popularity\":15.837,\"poster_path\":\"\/ekVeUvG81pidsv2LMtWf5yYcNbq.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1944-11-28\",\"revenue\":7566000,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Glorious love story with music!\",\"title\":\"Meet Me in St. Louis\",\"video\":false,\"vote_average\":7.0,\"vote_count\":354}"
+}

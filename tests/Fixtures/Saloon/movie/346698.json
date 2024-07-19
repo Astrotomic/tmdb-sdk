@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1577",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2560",
+        "x-memc": "HIT",
+        "x-memc-key": "ab725685a412ebde1f4cc51e32752141",
+        "x-memc-age": "21038",
+        "x-memc-expires": "2560",
+        "ETag": "W\/\"e510911104884675422d5307376ab349\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_703uhh4tnpk0StovJ7erz_5kcLs8K5bFYO1BLTPg0hMEJQwZbjApg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg\",\"belongs_to_collection\":null,\"budget\":145000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.barbie-themovie.com\",\"id\":346698,\"imdb_id\":\"tt1517268\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Barbie\",\"overview\":\"Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.\",\"popularity\":184.291,\"poster_path\":\"\/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg\",\"production_companies\":[{\"id\":82968,\"logo_path\":\"\/gRROMOG5bpF6TIDMbfaa5gnFFzl.png\",\"name\":\"LuckyChap Entertainment\",\"origin_country\":\"US\"},{\"id\":437,\"logo_path\":\"\/nu20mtwbEIhUNnQ5NXVhHsNknZj.png\",\"name\":\"Heyday Films\",\"origin_country\":\"GB\"},{\"id\":181486,\"logo_path\":null,\"name\":\"NB\/GG Pictures\",\"origin_country\":\"US\"},{\"id\":6220,\"logo_path\":\"\/cAj69EL1zSXmZH6STbMGZrunyMD.png\",\"name\":\"Mattel\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-07-19\",\"revenue\":1445638421,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She's everything. He's just Ken.\",\"title\":\"Barbie\",\"video\":false,\"vote_average\":7.041,\"vote_count\":8604}"
+}

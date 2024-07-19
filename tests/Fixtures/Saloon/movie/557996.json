@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1059",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14345",
+        "x-memc": "HIT",
+        "x-memc-key": "4a9daf7b01b88617d8224cd190d19247",
+        "x-memc-age": "8307",
+        "x-memc-expires": "14345",
+        "ETag": "W\/\"692c19f2b72ead51aed7a593b11d0247\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jTTCjYdpKT-EWtL2aFOUjBhGfALKSu3uQG4DJA_FWHfhFMbKpl_5jA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iQyu66gjf9Uf9jEQALrWfYraVmd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":557996,\"imdb_id\":\"tt7106968\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Ride\",\"overview\":\"A woman and her 10-year-old son face, in their own way, the mourning for the death of the husband and father, which took place in a factory, while the waiting and the recollection for the day of the funeral grow all around.\",\"popularity\":8.047,\"poster_path\":\"\/qcE96LRqOg3lLySIziJKF17aJwU.jpg\",\"production_companies\":[{\"id\":91946,\"logo_path\":null,\"name\":\"Kimerafilm\",\"origin_country\":\"\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2018-11-29\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ride\",\"video\":false,\"vote_average\":6.1,\"vote_count\":37}"
+}

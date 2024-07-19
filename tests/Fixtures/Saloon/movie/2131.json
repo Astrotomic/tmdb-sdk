@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1255",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15414",
+        "x-memc": "HIT",
+        "x-memc-key": "d2c897e836cc6f51c63f19c79fbc4a5b",
+        "x-memc-age": "12141",
+        "x-memc-expires": "15414",
+        "ETag": "W\/\"ae3b491af5f8ba5c5dc150e7501d1ebc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VirZXHLH8jYuYiNjVPb8Mc8Do_NFxkb7bhURU4zhW7cKq1ZrnnY5QA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lE8V3A0tORu6kaSNbJxg0XOZz9V.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":2131,\"imdb_id\":\"tt0119320\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Hostile Waters\",\"overview\":\"Based on true events, an American submarine collides into a Soviet sub of the coast of America and an ensuing standoff occurs that could lead to total annihilation.\",\"popularity\":9.205,\"poster_path\":\"\/6froDO7JfGq3VnuYLt4l8Jq5KD4.jpg\",\"production_companies\":[{\"id\":3324,\"logo_path\":\"\/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png\",\"name\":\"BBC\",\"origin_country\":\"GB\"},{\"id\":3268,\"logo_path\":\"\/tuomPhY2UtuPTqqFnKMVHvSb724.png\",\"name\":\"HBO\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1997-10-18\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"We were seconds from death and we didn't know it.\",\"title\":\"Hostile Waters\",\"video\":false,\"vote_average\":5.717,\"vote_count\":23}"
+}

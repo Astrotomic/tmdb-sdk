@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1780",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15196",
+        "x-memc": "HIT",
+        "x-memc-key": "96f2dbddc676242b5efaf54b74527b69",
+        "x-memc-age": "10507",
+        "x-memc-expires": "15196",
+        "ETag": "W\/\"e3167e4b9837126df69694fa958a990b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u-sTUyi8ERkBPLrDHo6frLZpxlcbfcjrZsYYJMp1xQIc6A0FbocTsw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/q7M0JpPixbEYT8EhnI7wTEMONxz.jpg\",\"belongs_to_collection\":{\"id\":115575,\"name\":\"Star Trek: Alternate Reality Collection\",\"poster_path\":\"\/w2IVqa43Ge49mrY3qSaJWpyDtz6.jpg\",\"backdrop_path\":\"\/gWl5pN2FplE709aVtA4lakwsE6t.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.paramountmovies.com\/movies\/star-trek-2009\",\"id\":13475,\"imdb_id\":\"tt0796366\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Trek\",\"overview\":\"The fate of the galaxy rests in the hands of bitter rivals. One, James Kirk, is a delinquent, thrill-seeking Iowa farm boy. The other, Spock, a Vulcan, was raised in a logic-based society that rejects all emotion. As fiery instinct clashes with calm reason, their unlikely but powerful partnership is the only thing capable of leading their crew through unimaginable danger, boldly going where no one has gone before. The human adventure has begun again.\",\"popularity\":64.704,\"poster_path\":\"\/lV5OpzAss1z06YNagOVap1I35mH.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":158,\"logo_path\":\"\/6SHlNIype9zmyEMRsBtoueUtLsq.png\",\"name\":\"Spyglass Entertainment\",\"origin_country\":\"US\"},{\"id\":11461,\"logo_path\":\"\/p9FoEt5shEKRWRKVIlvFaEmRnun.png\",\"name\":\"Bad Robot\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-05-06\",\"revenue\":386839614,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The future begins.\",\"title\":\"Star Trek\",\"video\":false,\"vote_average\":7.432,\"vote_count\":9684}"
+}

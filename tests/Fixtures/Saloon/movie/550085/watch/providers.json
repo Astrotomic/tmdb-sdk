@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "350",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14365",
+        "x-memc": "HIT",
+        "x-memc-key": "44e1091968b0e51ca07daad9cd8d026c",
+        "x-memc-age": "13559",
+        "x-memc-expires": "14365",
+        "ETag": "W\/\"35d89e2b5963910cd1ae1988cf47b735\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7PaWmtChdcpe_EYmg99uqdoiKtt_hkjzFIyx-XQ32eBhhOY-eb444g=="
+    },
+    "data": "{\"id\":550085,\"results\":{\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550085-the-movie\/watch?locale=TW\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1598",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14674",
+        "x-memc": "HIT",
+        "x-memc-key": "bd088ce32c7b871294f88c9cfbaa6915",
+        "x-memc-age": "10703",
+        "x-memc-expires": "14674",
+        "ETag": "W\/\"9504e5d13e462e02fcb9eb6fd2304582\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5GitzMusdxBqC8bEmc_dTlOho_GWJIWumgrp5xcwnFnOi8Mfjc9MkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg\",\"belongs_to_collection\":null,\"budget\":100000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":644,\"imdb_id\":\"tt0212720\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A.I. Artificial Intelligence\",\"overview\":\"David, a robotic boy\u2014the first of his kind programmed to love\u2014is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.\",\"popularity\":50.146,\"poster_path\":\"\/zxUhHQxKRbVLsaHR1V81SWYADOl.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":385,\"logo_path\":null,\"name\":\"Stanley Kubrick Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-06-29\",\"revenue\":235926552,\"runtime\":146,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"David is 11 years old. He weighs 60 pounds. He is 4 feet, 6 inches tall. He has brown hair. His love is real. But he is not.\",\"title\":\"A.I. Artificial Intelligence\",\"video\":false,\"vote_average\":7.043,\"vote_count\":5993}"
+}

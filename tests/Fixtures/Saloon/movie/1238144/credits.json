@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1558",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22722",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "ca5778f0075d791606947cc1b32861be",
+        "x-memc-age": "0",
+        "x-memc-expires": "22722",
+        "ETag": "W\/\"bb9390d5fe69b98d036a3eec9473d234\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KSMNVvsX3R1JFJRhqwuMBLt-s6vWsm3HfnvLlakR8-uiC0UODFIVkQ=="
+    },
+    "data": "{\"id\":1238144,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":4508367,\"known_for_department\":\"Acting\",\"name\":\"Arthur Dennys\",\"original_name\":\"Arthur Dennys\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Mist\u00e9rio\",\"credit_id\":\"65b905d7da9ef2017ca63f41\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":4508369,\"known_for_department\":\"Acting\",\"name\":\"Rafael Amaral\",\"original_name\":\"Rafael Amaral\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Super Cognitivo\",\"credit_id\":\"65b905ee30f79c0162a961b6\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":4508363,\"known_for_department\":\"Acting\",\"name\":\"Kau\u00e3 Vin\u00edcius\",\"original_name\":\"Kau\u00e3 Vin\u00edcius\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Jornalista\",\"credit_id\":\"65b90610e9da69017bf41ccb\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":4508372,\"known_for_department\":\"Directing\",\"name\":\"Jayana Hadassa\",\"original_name\":\"Jayana Hadassa\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Rep\u00f3rter\",\"credit_id\":\"65b906252d9375018394fc05\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":4508554,\"known_for_department\":\"Acting\",\"name\":\"Wagner Leandro\",\"original_name\":\"Wagner Leandro\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Presidente\",\"credit_id\":\"65b906452d9375018394fc39\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4508371,\"known_for_department\":\"Directing\",\"name\":\"Andriely Silva\",\"original_name\":\"Andriely Silva\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65b9068330f79c0162a96240\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "986",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13996",
+        "x-memc": "HIT",
+        "x-memc-key": "3e55545db4e268cc426c0ad8ded98049",
+        "x-memc-age": "8638",
+        "x-memc-expires": "13996",
+        "ETag": "W\/\"1e35062ab253d95d9d2b83a84fe5305d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OifweLXTgjsHpfOazTJkX74YlkHxtPXI7T-3AsT6fkid9h2cEDhdHA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":396139,\"imdb_id\":\"tt0109423\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc99d\ubc1c\",\"overview\":\"Former Minister of National Security, Park Jin-wook, is kidnapped from the US by South Korean agents because he was about to reveal secrets concerning the rise of the military dictatorship of the 1980's.\",\"popularity\":3.025,\"poster_path\":\"\/6t0k0LEa5MYsT4nx8XKcOKd6eaj.jpg\",\"production_companies\":[{\"id\":8328,\"logo_path\":null,\"name\":\"Hap Dong Film\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"1994-05-04\",\"revenue\":0,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Vanished\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

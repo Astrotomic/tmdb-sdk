@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1368",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13736",
+        "x-memc": "HIT",
+        "x-memc-key": "ae9ea1b0784a40707dca697954b3fe09",
+        "x-memc-age": "11162",
+        "x-memc-expires": "13736",
+        "ETag": "W\/\"e9b861bd0c8e551dbca228d591ed70d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LTqyKKoUJnFPFJyQicDKFgnR1Nr2E4LO6zLOlPrN6Qn86LfElHKowA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":236795,\"imdb_id\":\"tt0033138\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Teddy the Rough Rider\",\"overview\":\"This short follows the political career of Theodore Roosevelt, beginning in 1895, when he was appointed police commissioner of New York City. In 1897 he was appointed Assistant Secretary of the Navy. His charge up San Juan Hill during the Spanish-American War in 1898 is re-created. He becomes vice president in March 1901 and assumes the presidency when William McKinley is assassinated six months later. According to the narrator, Roosevelt refused to be beholden to political bosses, doing what he believed to be right for the American people.\",\"popularity\":3.353,\"poster_path\":\"\/y2m7Ip6YziLfHQTY9A05QH5m6aH.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-02-21\",\"revenue\":0,\"runtime\":19,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Teddy the Rough Rider\",\"video\":false,\"vote_average\":5.9,\"vote_count\":7}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1274",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20266",
+        "x-memc": "HIT",
+        "x-memc-key": "93458172e9f8138ad498242c4ef90a15",
+        "x-memc-age": "2465",
+        "x-memc-expires": "20266",
+        "ETag": "W\/\"bd4a4ddcd628bc343c34c02bd77b5e7e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VLp7ENFGTbW3lqhSrk2PbLoqnueco1cVEZzq9ffP_32ICzmvk9qfVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1183093,\"imdb_id\":\"tt13098672\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Wars: Squadrons - Hunted\",\"overview\":\"Stranded by his Star Destroyer, Varko Grey becomes the last TIE pilot on the battlefield, hunted by a renegade X-Wing of the New Republic.\",\"popularity\":2.298,\"poster_path\":\"\/6btSajiF8g70SoPRk9pB87kUHmR.jpg\",\"production_companies\":[{\"id\":214773,\"logo_path\":\"\/l2gjQfF4r0w7qC9MWpt737lDYDE.png\",\"name\":\"Motive Studio\",\"origin_country\":\"CA\"},{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"},{\"id\":8805,\"logo_path\":\"\/vrpvFCl4DqYk5npjTyPJ8amBgsA.png\",\"name\":\"Industrial Light \\u0026 Magic\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-09-14\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Star Wars: Squadrons - Hunted\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

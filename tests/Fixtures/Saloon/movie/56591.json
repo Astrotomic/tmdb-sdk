@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1352",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14725",
+        "x-memc": "HIT",
+        "x-memc-key": "d9eab5cafd6b82f074ad589dcb05d0b8",
+        "x-memc-age": "13417",
+        "x-memc-expires": "14725",
+        "ETag": "W\/\"f310fa491a201d8e0bf5ce5860337c96\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y7h_b6bsQkKt3IL5mRBIUjIWEBrt1nbwYXxsW5ROju4bg5ggAbYg4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2BAnYQIHPpPBByMZrc5oObYPHmN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":56591,\"imdb_id\":\"tt1185371\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Corman's World\",\"overview\":\"A chronicle of the long career of American filmmaker Roger Corman, the most tenacious and ingenious low-budget producer and director in the US film industry, a pioneer of independent filmmaking and discoverer of new talent.\",\"popularity\":9.885,\"poster_path\":\"\/wnHm6TWNLjwHjfqpocxgPCMEQvS.jpg\",\"production_companies\":[{\"id\":32229,\"logo_path\":null,\"name\":\"Gallant Films\",\"origin_country\":\"US\"},{\"id\":7315,\"logo_path\":\"\/pn1L5r75URMfY1XQB38NLKTlX3U.png\",\"name\":\"A\\u0026E IndieFilms\",\"origin_country\":\"US\"},{\"id\":9038,\"logo_path\":null,\"name\":\"Far Hills Pictures\",\"origin_country\":\"US\"},{\"id\":9039,\"logo_path\":null,\"name\":\"Stick 'N' Stone Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-12-16\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some men dream of conquering the world. Roger Corman created his own.\",\"title\":\"Corman's World\",\"video\":false,\"vote_average\":7.142,\"vote_count\":74}"
+}

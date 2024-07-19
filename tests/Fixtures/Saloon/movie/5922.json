@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1318",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20484",
+        "x-memc": "HIT",
+        "x-memc-key": "451ab3d7c690e616288e1c61ecb37a2e",
+        "x-memc-age": "1600",
+        "x-memc-expires": "20484",
+        "ETag": "W\/\"0b6ed2e8876bc8dd9d5afab8f4087ca4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tu7kr-OcbZHxceLRHJq46zst0j9LGEd_5VRs_OdFsSlkLP0h2bzGJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/isWZho08fCND89wpZN4wN8owkRu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":5922,\"imdb_id\":\"tt0080907\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hunter\",\"overview\":\"During his long career, bounty hunter Ralph \\\"Papa\\\" Thorson has caught over 5,000 criminals. Now, while he is working on apprehending fugitives in Illinois, Texas and Nebraska, he himself is being hunted by a psychotic killer.\",\"popularity\":15.702,\"poster_path\":\"\/k3bTmSw62c0yP3oxbVICeho4PCB.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":1177,\"logo_path\":\"\/gxvrQWG6byKMVEHMjTJjGhRlARQ.png\",\"name\":\"Rastar Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-08-01\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's not as fast as he used to be... That's what makes him human. He's a bounty hunter... And that's what makes him dangerous.\",\"title\":\"The Hunter\",\"video\":false,\"vote_average\":5.914,\"vote_count\":127}"
+}

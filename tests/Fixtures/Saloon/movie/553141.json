@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1364",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24211",
+        "x-memc": "HIT",
+        "x-memc-key": "095ee4adbe2f72cd8bd3e7059f8f9a04",
+        "x-memc-age": "2647",
+        "x-memc-expires": "24211",
+        "ETag": "W\/\"0b04d675004831fa6b72811322e88e16\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-Hug4L612PVPAa0alAy0Y_aKyXSvX_C9QeY2gd8hG-h0DOQY2rD30w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hgfWu52a8HvC5R4gGbXFRGcC8d4.jpg\",\"belongs_to_collection\":null,\"budget\":30000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.theheadhuntermovie.com\/\",\"id\":553141,\"imdb_id\":\"tt6469548\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Head Hunter\",\"overview\":\"On the outskirts of a kingdom, a quiet but fierce medieval warrior protects the realm from monsters and the occult. His gruesome collection of heads is missing only one - the monster that killed his daughter years ago. Driven by a thirst for revenge, he travels wild expanses on horseback. When his second chance arrives, it\u2019s in a way far more horrifying than he ever imagined.\",\"popularity\":12.678,\"poster_path\":\"\/ol0DSLOIN8Rq1BcWDTsk6NNwas6.jpg\",\"production_companies\":[{\"id\":115932,\"logo_path\":null,\"name\":\"Brayne Studios\",\"origin_country\":\"US\"},{\"id\":21125,\"logo_path\":\"\/7qxzOX4vFhxYOydE9zv1HlEZcYf.png\",\"name\":\"Detention Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-04-05\",\"revenue\":44652,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Grief. Anger. Vengeance.\",\"title\":\"The Head Hunter\",\"video\":false,\"vote_average\":5.3,\"vote_count\":283}"
+}

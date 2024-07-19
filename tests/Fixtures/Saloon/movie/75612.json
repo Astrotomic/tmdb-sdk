@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1935",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20766",
+        "x-memc": "HIT",
+        "x-memc-key": "e27a412802a8cc2a186b865443dc4065",
+        "x-memc-age": "6108",
+        "x-memc-expires": "20766",
+        "ETag": "W\/\"34b02a305d5d72f8af3f0f285fc00a86\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hXW6betIUz1MsL-yBbENBu0vQV5i_HbXJjwfdLhkMIqsTBhNF4-f6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A6wFgFFEgymebp518fcsa71jnSu.jpg\",\"belongs_to_collection\":null,\"budget\":120000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/oblivion\",\"id\":75612,\"imdb_id\":\"tt1483013\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Oblivion\",\"overview\":\"Jack Harper is one of the last few drone repairmen stationed on Earth. Part of a massive operation to extract vital resources after decades of war with a terrifying threat known as the Scavs, Jack\u2019s mission is nearly complete. His existence is brought crashing down when he rescues a beautiful  stranger from a downed spacecraft. Her arrival triggers a chain of events that  forces him to question everything he knows and puts the fate of humanity in his hands.\",\"popularity\":45.212,\"poster_path\":\"\/eO3r38fwnhb58M1YgcjQBd3VNcp.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":7295,\"logo_path\":\"\/62E1B91PxZw8q4KNkge5Qemo7EM.png\",\"name\":\"Relativity Media\",\"origin_country\":\"US\"},{\"id\":19647,\"logo_path\":null,\"name\":\"Monolith Pictures (III)\",\"origin_country\":\"\"},{\"id\":7076,\"logo_path\":\"\/8BFxn9NUWSgp0ndih569Gm62xiC.png\",\"name\":\"Chernin Entertainment\",\"origin_country\":\"US\"},{\"id\":19648,\"logo_path\":null,\"name\":\"Radical Studios\",\"origin_country\":\"US\"},{\"id\":10039,\"logo_path\":\"\/b8w4LldQolMKiLZw4FQJBcXSDGI.png\",\"name\":\"Anonymous Content\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-04-10\",\"revenue\":286168572,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Earth is a memory worth fighting for\",\"title\":\"Oblivion\",\"video\":false,\"vote_average\":6.64,\"vote_count\":10461}"
+}

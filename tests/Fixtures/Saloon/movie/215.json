@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1701",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21090",
+        "x-memc": "HIT",
+        "x-memc-key": "feafe4e6e4f9e6903eddb82bcbe30807",
+        "x-memc-age": "1675",
+        "x-memc-expires": "21090",
+        "ETag": "W\/\"eda1e1eea7c8e320a5b2432003980080\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rlhFLC_FzqGCFd-1QgOUiK3QPKEwzAzkH2Bms_nol9RIUnDbzM2huQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lv9eK2VVGgHggytWMjSDWsDJ0y.jpg\",\"belongs_to_collection\":{\"id\":656,\"name\":\"Saw Collection\",\"poster_path\":\"\/w0zPElyuA5q2kjdfa2FdNYeS5Io.jpg\",\"backdrop_path\":\"\/gRGF3VZjfaI1YvlcwpT1emgBXRs.jpg\"},\"budget\":4000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":215,\"imdb_id\":\"tt0432348\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saw II\",\"overview\":\"The chilling and relentless Jigsaw killer returns to terrorize the city once again. When a gruesome murder victim emerges with unmistakable traces of Jigsaw's sinister methods, Detective Eric Matthews is thrust into a high-stakes investigation. To his surprise, apprehending Jigsaw seems almost too easy, but what he doesn't realize is that being caught is merely another piece of Jigsaw's intricate puzzle.\",\"popularity\":49.833,\"poster_path\":\"\/AwfBNpkedYcXt9BjGEYZf5g2s37.jpg\",\"production_companies\":[{\"id\":1053,\"logo_path\":null,\"name\":\"Got Films\",\"origin_country\":\"\"},{\"id\":2061,\"logo_path\":\"\/o9LbN33hRaj4qcebUv1bikyXeoB.png\",\"name\":\"Twisted Pictures\",\"origin_country\":\"US\"},{\"id\":23019,\"logo_path\":null,\"name\":\"Evolution Entertainment\",\"origin_country\":\"\"},{\"id\":64651,\"logo_path\":null,\"name\":\"Saw 2 Productions\",\"origin_country\":\"\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-10-28\",\"revenue\":147748505,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Oh yes... There will be blood.\",\"title\":\"Saw II\",\"video\":false,\"vote_average\":6.6,\"vote_count\":5224}"
+}

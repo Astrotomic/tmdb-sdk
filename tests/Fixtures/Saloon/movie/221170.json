@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1030",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14158",
+        "x-memc": "HIT",
+        "x-memc-key": "06267597b23fdd75692e5279e7c5541f",
+        "x-memc-age": "8261",
+        "x-memc-expires": "14158",
+        "ETag": "W\/\"e05f00f24102b8fd74c907b360066463\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zPWzR9jdGJkPzV9OQaIvB83S89J5VxwGliQ_oW_OEr7zGBYusiY5_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":221170,\"imdb_id\":\"tt2343278\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Family Tour\",\"overview\":\"A month's vacation with the family can mean a lot, which is what Lily realizes when she returns home after several years living abroad. Her mother, a character with an exceptional simplicity, forces her to visit their relatives, giving her a family tour through the abandoned landscape of her childhood making her explore her own frustrations, limitations and faults we all inherit.\",\"popularity\":2.587,\"poster_path\":\"\/2LbuFQKSTQmAuchUdNhgK9dTWIk.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2014-02-14\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Family Tour\",\"video\":false,\"vote_average\":5.2,\"vote_count\":4}"
+}

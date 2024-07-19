@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "279",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15422",
+        "x-memc": "HIT",
+        "x-memc-key": "53c895e423a2ce9b75cb46b9ac5c7f61",
+        "x-memc-age": "6819",
+        "x-memc-expires": "15422",
+        "ETag": "W\/\"3f75fc5210edec11719a00695d77648f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Mrl6vaitbFaViZRlfHL6bQnBHh9npxZujSi3X0gToW7rUhyKsysT6Q=="
+    },
+    "data": "{\"id\":1182169,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4287001,\"known_for_department\":\"Directing\",\"name\":\"Barry Myers\",\"original_name\":\"Barry Myers\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"650f0fbee1faed013a0a7802\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

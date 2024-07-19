@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1204",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22382",
+        "x-memc": "HIT",
+        "x-memc-key": "c76be9ad21396ea7d0e9894e86f64940",
+        "x-memc-age": "1170",
+        "x-memc-expires": "22382",
+        "ETag": "W\/\"984ec9058211da92ee5619002b1f786f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OgRZFKsgrfbBmmfFrBjw5WdMi2THAAcnE5yNbhPPIMy2iZyaNhZUdg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/14Hy9qHRYLA07lwgcJOs9bTwly4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":704269,\"imdb_id\":\"tt8447170\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Skull: A M\u00e1scara de Anhang\u00e1\",\"overview\":\"The story of an ancient mask that possesses the human form to commit visceral sacrifices of vengeance for the incarnation of its God.\",\"popularity\":7.752,\"poster_path\":\"\/2Bt11FIme9eFM6jUTZd5Tnc8Jwb.jpg\",\"production_companies\":[{\"id\":74774,\"logo_path\":null,\"name\":\"Infravermelho Filmes\",\"origin_country\":\"BR\"},{\"id\":93980,\"logo_path\":null,\"name\":\"Fantaspoa Produ\u00e7\u00f5es\",\"origin_country\":\"BR\"},{\"id\":133890,\"logo_path\":null,\"name\":\"Boccato Productions (BR)\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2020-05-22\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"A killer hunt for revenge.\",\"title\":\"Skull: The Mask\",\"video\":false,\"vote_average\":5.403,\"vote_count\":31}"
+}

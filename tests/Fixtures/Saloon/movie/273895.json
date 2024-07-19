@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1693",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23001",
+        "x-memc": "HIT",
+        "x-memc-key": "8304ce52ea5f1412e9d2b15d8402e34e",
+        "x-memc-age": "4485",
+        "x-memc-expires": "23001",
+        "ETag": "W\/\"8003b323891005157983bc18b17e731b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lgY3fOnmC2joN1-xnklIxENGbld4QjCP3juVwIGRLVZTQGSplwKJ9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kVGUdR1CXKAyCFj5Tt4uyR2bpFx.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.paramount.com\/movies\/selma\",\"id\":273895,\"imdb_id\":\"tt1020072\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Selma\",\"overview\":\"\\\"Selma,\\\" as in Alabama, the place where segregation in the South was at its worst, leading to a march that ended in violence, forcing a famous statement by President Lyndon B. Johnson that ultimately led to the signing of the Voting Rights Act.\",\"popularity\":14.121,\"poster_path\":\"\/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg\",\"production_companies\":[{\"id\":7981,\"logo_path\":\"\/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png\",\"name\":\"Path\u00e9\",\"origin_country\":\"FR\"},{\"id\":3298,\"logo_path\":null,\"name\":\"Harpo Films\",\"origin_country\":\"US\"},{\"id\":81,\"logo_path\":\"\/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png\",\"name\":\"Plan B Entertainment\",\"origin_country\":\"US\"},{\"id\":6707,\"logo_path\":\"\/5bJmjTayNNSJt1VTEKDpXFM04H1.png\",\"name\":\"Cloud Eight Films\",\"origin_country\":\"GB\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"},{\"id\":3573,\"logo_path\":null,\"name\":\"Celador Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-12-25\",\"revenue\":66787908,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One dream can change the world.\",\"title\":\"Selma\",\"video\":false,\"vote_average\":7.4,\"vote_count\":2149}"
+}

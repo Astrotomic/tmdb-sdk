@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1126",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6346",
+        "x-memc": "HIT",
+        "x-memc-key": "f6bb4c93f24bb5dd592fa156a60e5769",
+        "x-memc-age": "17012",
+        "x-memc-expires": "6346",
+        "ETag": "W\/\"7e6985b7d423c3d5cdf2e4a0fc8b7b8c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "X9bqxJXH76vTZuG9qwVRhARQSGAi3bSU_TenTfFaqSpRAYxvAO0otA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":705528,\"imdb_id\":\"tt7457694\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Role of a Lifetime\",\"overview\":\"Amber, an eccentric child-turned-adult star, and her lover Liz  are moving slow after a romantic evening celebrating Amber\u2019s recent Oscar Nomination. Liz awakens to a strange and invasive postal worker who seems fascinated with Hollywood stars, secretly enters the apartment.  The film continues to be filled with secrets of longing, love, and the pain of rejection.\",\"popularity\":1.525,\"poster_path\":\"\/hzncrDfTZPGitqkF7LCpWIujilH.jpg\",\"production_companies\":[{\"id\":71854,\"logo_path\":null,\"name\":\"Mattioli Productions\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2020-05-06\",\"revenue\":0,\"runtime\":13,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Role of a Lifetime\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

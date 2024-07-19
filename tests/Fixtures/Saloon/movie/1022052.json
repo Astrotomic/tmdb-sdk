@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "907",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21458",
+        "x-memc": "HIT",
+        "x-memc-key": "fce70ba423357304f180a3716866397f",
+        "x-memc-age": "666",
+        "x-memc-expires": "21458",
+        "ETag": "W\/\"dde14f7c2f39c58048e8b890883c1f91\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tWa9y6a_Nme6MWy_bNg5UM-3F0sv_Okk3Uj1gHOD7nFcBvWwC2WKRA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kq0oNFR7609u3LvKKmNBtM7VHzk.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":1022052,\"imdb_id\":\"tt13124274\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Best Baddies\",\"overview\":\"Three witches plot to turn a boring small town into a fun place through a little mischief.\",\"popularity\":3.895,\"poster_path\":null,\"production_companies\":[{\"id\":4859,\"logo_path\":\"\/wOF6aAYFE5BQryYyaMdQPqUWYwt.png\",\"name\":\"Nickelodeon Animation Studio\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-02-13\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Best Baddies\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

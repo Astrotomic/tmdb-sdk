@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1510",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3896",
+        "x-memc": "HIT",
+        "x-memc-key": "cb26e24141aaf4667fcec3a9d63c462f",
+        "x-memc-age": "20842",
+        "x-memc-expires": "3896",
+        "ETag": "W\/\"b6306363e1c8853b1cb4d983cf384b7f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EjdhUaswhQRX-p0uKvwzS3ESqB-9vobs8b8pNqA06OBZbFO9CVs2VQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iZ2816km53S1Qvs0w2nUOL6jpP7.jpg\",\"belongs_to_collection\":{\"id\":283579,\"name\":\"Divergent Collection\",\"poster_path\":\"\/AuRcFKpgHWInxR7MMomrsV9BPNy.jpg\",\"backdrop_path\":\"\/51XPQ6WXQDRUu9YoujqSc10OQp2.jpg\"},\"budget\":85000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.thedivergentseries.movie\/#divergent\",\"id\":157350,\"imdb_id\":\"tt1840309\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Divergent\",\"overview\":\"In a world divided into factions based on personality types, Tris learns that she's been classified as Divergent and won't fit in. When she discovers a plot to destroy Divergents, Tris and the mysterious Four must find out what makes Divergents dangerous before it's too late.\",\"popularity\":56.337,\"poster_path\":\"\/aNh4Q3iuPKDMPi2SL7GgOpiLukX.jpg\",\"production_companies\":[{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"},{\"id\":14440,\"logo_path\":\"\/5QbaGiuxc91D6qf75JZGX6OKXoU.png\",\"name\":\"Red Wagon Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-03-14\",\"revenue\":288885818,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What makes you different makes you dangerous.\",\"title\":\"Divergent\",\"video\":false,\"vote_average\":6.917,\"vote_count\":12577}"
+}

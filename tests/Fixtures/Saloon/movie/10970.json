@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1208",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11941",
+        "x-memc": "HIT",
+        "x-memc-key": "42cb9a02fafd1da44376ad4c00348b8a",
+        "x-memc-age": "13385",
+        "x-memc-expires": "11941",
+        "ETag": "W\/\"32c660e2dcc0a22d5f70f903347f16e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MU4wViy50bVGBAD_1LBr_zMpqAb-1DQvOofKUOwjiL7HNWcLDhceDg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6MBo0C4G0O7A7JVVfVVJIJbh1fU.jpg\",\"belongs_to_collection\":null,\"budget\":4400000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10970,\"imdb_id\":\"tt0075222\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Silent Movie\",\"overview\":\"Aspiring filmmakers Mel Funn, Marty Eggs and Dom Bell go to a financially troubled studio with an idea for a silent movie. In an effort to make the movie more marketable, they attempt to recruit a number of big name stars to appear, while the studio's creditors attempt to thwart them.\",\"popularity\":17.918,\"poster_path\":\"\/AeaoOSqEU3elkpDAlKbIWcdKLJ8.jpg\",\"production_companies\":[{\"id\":1296,\"logo_path\":null,\"name\":\"Crossbow Productions\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1976-06-17\",\"revenue\":36145695,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Made In Hollywood. U.S.A.\",\"title\":\"Silent Movie\",\"video\":false,\"vote_average\":6.546,\"vote_count\":282}"
+}

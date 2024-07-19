@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1035",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5403",
+        "x-memc": "HIT",
+        "x-memc-key": "9e17f810587c1ec9adfbe4eb75c608e0",
+        "x-memc-age": "20841",
+        "x-memc-expires": "5403",
+        "ETag": "W\/\"801a298a031aea47a8ea70963d5de67e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bz1-aBeNZGA1MbBpGo6gadcNsNN_SVTTLRmVAF3fc8Aw0w-NgHb2Eg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tL96NSWrcmkcBEH7JVt7x5Jhnwh.jpg\",\"belongs_to_collection\":null,\"budget\":190000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":6974,\"imdb_id\":\"tt0052564\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Angry Red Planet\",\"overview\":\"The first manned flight to Mars returns after having been out of communications since it had arrived on Mars. What would it reveal?\",\"popularity\":9.795,\"poster_path\":\"\/jtY9aJjUdbw6CaQ3rHQW6WJKB6g.jpg\",\"production_companies\":[{\"id\":232819,\"logo_path\":null,\"name\":\"Sino Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1959-11-23\",\"revenue\":0,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Spectacular Adventure Beyond Time and Space\",\"title\":\"The Angry Red Planet\",\"video\":false,\"vote_average\":5.507,\"vote_count\":72}"
+}

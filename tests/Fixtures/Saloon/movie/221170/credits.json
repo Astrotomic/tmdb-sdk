@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1557",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10438",
+        "x-memc": "HIT",
+        "x-memc-key": "53e2b5874753446575953d24e6a49352",
+        "x-memc-age": "11928",
+        "x-memc-expires": "10438",
+        "ETag": "W\/\"6fcd6feab1467d72e60cfe892fb2cc7e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-69hz8bxvHF4EHez6Wc3K_1ItQek-EJpkVHVeqTH_MEZHB5UgYNLlw=="
+    },
+    "data": "{\"id\":221170,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":59134,\"known_for_department\":\"Acting\",\"name\":\"N\u00faria Gago\",\"original_name\":\"N\u00faria Gago\",\"popularity\":8.456,\"profile_path\":\"\/cOTtBIoV6BxZWRESqdLtc5cnXjZ.jpg\",\"cast_id\":2,\"character\":\"Lili\",\"credit_id\":\"52fe4dc19251416c7513f82d\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1169322,\"known_for_department\":\"Acting\",\"name\":\"No\u00e9 Blancafort\",\"original_name\":\"No\u00e9 Blancafort\",\"popularity\":2.358,\"profile_path\":\"\/j3ANb42xJOUftZKqk9xHKjUIt2G.jpg\",\"cast_id\":3,\"character\":\"\",\"credit_id\":\"5321b2949251411f81002f99\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1300696,\"known_for_department\":\"Acting\",\"name\":\"Antonia Exp\u00f3sito\",\"original_name\":\"Antonia Exp\u00f3sito\",\"popularity\":0.058,\"profile_path\":null,\"cast_id\":4,\"character\":\"\",\"credit_id\":\"5321b29d9251411f89002f76\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1300697,\"known_for_department\":\"Acting\",\"name\":\"Joana Serrat\",\"original_name\":\"Joana Serrat\",\"popularity\":0.058,\"profile_path\":null,\"cast_id\":5,\"character\":\"\",\"credit_id\":\"5321b2a69251411f81002f9c\",\"order\":3},{\"adult\":true,\"gender\":0,\"id\":147651,\"known_for_department\":\"Acting\",\"name\":\"Manuel Torres\",\"original_name\":\"Manuel Torres\",\"popularity\":0.6,\"profile_path\":null,\"cast_id\":6,\"character\":\"\",\"credit_id\":\"5321b2b19251411f8f002ff0\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1206277,\"known_for_department\":\"Directing\",\"name\":\"Liliana Torres\",\"original_name\":\"Liliana Torres\",\"popularity\":0.782,\"profile_path\":null,\"credit_id\":\"52fe4dc19251416c7513f829\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

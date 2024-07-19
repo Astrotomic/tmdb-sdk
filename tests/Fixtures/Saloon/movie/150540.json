@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1496",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19607",
+        "x-memc": "HIT",
+        "x-memc-key": "73331c5ffe8d77b9fbbc49922957105d",
+        "x-memc-age": "4370",
+        "x-memc-expires": "19607",
+        "ETag": "W\/\"adef40dbe6811d18793b2a7ed6aeaa94\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b7KIqiM2uQoYaW6EtYHk4cmBkIYrLZQOMpxEsM4V6nyKzh3bf1Kakg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j29ekbcLpBvxnGk6LjdTc2EI5SA.jpg\",\"belongs_to_collection\":{\"id\":1022790,\"name\":\"Inside Out Collection\",\"poster_path\":\"\/Apr19lGxP7gm6y2HQX0kqOXTtqC.jpg\",\"backdrop_path\":\"\/7U2m2dMSIfHx2gWXKq78Xj1weuH.jpg\"},\"budget\":175000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/movies.disney.com\/inside-out\",\"id\":150540,\"imdb_id\":\"tt2096673\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Inside Out\",\"overview\":\"When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.\",\"popularity\":653.545,\"poster_path\":\"\/2H1TmgdfNtsKlU9jKdeNyYL5y8T.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-06-17\",\"revenue\":857611174,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Meet the little voices inside your head.\",\"title\":\"Inside Out\",\"video\":false,\"vote_average\":7.916,\"vote_count\":21232}"
+}

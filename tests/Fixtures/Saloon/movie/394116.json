@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1134",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=292",
+        "x-memc": "HIT",
+        "x-memc-key": "ba011ea2960a8f700eeb51d8b6f1a76d",
+        "x-memc-age": "24695",
+        "x-memc-expires": "292",
+        "ETag": "W\/\"ca19a2903a470aa32125c47b9f0f31a9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-aCcYgp5vrt0uS0NQg0_cTU1CsUgAe23uLlh_U4dG5yNOjTN30fdSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6BmYEIuAPUo59qraxnipWyewCQI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.sledgehammerfilms.com\/hole.html\",\"id\":394116,\"imdb_id\":\"tt1704721\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hole\",\"overview\":\"Ed Kunkle is a convicted felon tormented by his own demons. Eve Adams is a single woman trying to cope with a tragic loss. Bodie Jameson is the detective looking for answers. All 3 lives intertwine with horrific consequences when their fears come upon them.\",\"popularity\":2.334,\"poster_path\":\"\/ndhGz5LNoCOe4B5e0TmC0Xa44iS.jpg\",\"production_companies\":[{\"id\":94397,\"logo_path\":null,\"name\":\"Sledgehammer Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-11-24\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One way in. No way out.\",\"title\":\"Hole\",\"video\":false,\"vote_average\":8.0,\"vote_count\":2}"
+}

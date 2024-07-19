@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1188",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6754",
+        "x-memc": "HIT",
+        "x-memc-key": "8790b008ad588e69f4137aa43be2b57d",
+        "x-memc-age": "16065",
+        "x-memc-expires": "6754",
+        "ETag": "W\/\"a1ea0a6f4e4b6926226438ffcd1360e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c7oXZ-JFs1O63XeKNPMtVHDUGtY_XEQovrQL4pGl1MYKallUdWvqVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3hb44sb1xfd0lasrU2ZXmwHNjz6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":399357,\"imdb_id\":\"tt0023416\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Rynox\",\"overview\":\"Things are not all well at Rynox House, where the company is on the verge of collapse.  At the same time, its senior partner, FX Benedik, keeps receiving threats from the disgruntled Boswell Marsh, who is seen in town buying theatre tickets and revolvers.  As the Rynox staff, including the young Tony Benedik, work to keep the business afloat, FX invites Marsh to settle his grievances at his house one fateful night....\",\"popularity\":1.675,\"poster_path\":\"\/gvHAS3fBQpwwJJkm1gac8dvzmkp.jpg\",\"production_companies\":[{\"id\":77389,\"logo_path\":null,\"name\":\"Film Engineering\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1931-11-04\",\"revenue\":0,\"runtime\":47,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Who Killed Benedik?\",\"title\":\"Rynox\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

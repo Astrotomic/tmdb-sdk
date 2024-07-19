@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "835",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6368",
+        "x-memc": "HIT",
+        "x-memc-key": "58cefcb65755eb488b1d62c56d71165a",
+        "x-memc-age": "17287",
+        "x-memc-expires": "6368",
+        "ETag": "W\/\"96215ed58a1339eb21742a8f0734b4a9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4IVFjVp8assNxoESWWMMtTFtiUEcn08EgaqwJtS9biM8QAXSNQgDEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sITjjm7DGnpALZKVouCrCgSfHeR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":2987,\"imdb_id\":\"tt0070416\",\"origin_country\":[\"ZA\"],\"original_language\":\"en\",\"original_title\":\"Mr. Kingstreet's War\",\"overview\":\"A couple sets up an African game preserve, only to have British and Italian armies fight over the waterholes.\",\"popularity\":1.117,\"poster_path\":\"\/70JYFGnHqyoYYk0uX7oYJthDnqX.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"}],\"release_date\":\"1973-05-01\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mr. Kingstreet's War\",\"video\":false,\"vote_average\":6.0,\"vote_count\":2}"
+}

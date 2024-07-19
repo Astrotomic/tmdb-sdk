@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1130",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23846",
+        "x-memc": "HIT",
+        "x-memc-key": "3f6aa27276dd136f3ca38f5eac3ddacd",
+        "x-memc-age": "307",
+        "x-memc-expires": "23846",
+        "ETag": "W\/\"5d5bc6228cb5be6bc45e662f93652eee\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7A-aU8T2ehVU4bVyAA9sMw8swISGsuK3oLkAon-Lc42_33Hn0eZPgA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3ejlnQLiuYjLKSBe14zqL8EEj7V.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":234538,\"imdb_id\":\"tt0056251\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mother Was a Rooster\",\"overview\":\"Foghorn Leghorn is sound asleep when the barnyard dog places an ostrich egg beside him for a gag. When Foghorn awakes and sees the egg...\",\"popularity\":3.508,\"poster_path\":\"\/e9vkLW0qOKtOJNkFObqltAT3z2g.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":8298,\"logo_path\":\"\/r6cuEYq7DqrHCNVa7vSanTS0cuw.png\",\"name\":\"Warner Bros. Cartoons\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1962-10-20\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mother Was a Rooster\",\"video\":false,\"vote_average\":6.0,\"vote_count\":7}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15661",
+        "x-memc": "HIT",
+        "x-memc-key": "9cec97f8df0e9f52ee8dc3d1d6b5d04b",
+        "x-memc-age": "8268",
+        "x-memc-expires": "15661",
+        "ETag": "W\/\"239a4540d888cb83638fa790961e96bc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vImYX7KCEAahD2eGbJLUm0b2LQXfNk-dkJSRnd5S5Lu92w2ZdLnrMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5n7j2tajApnyDijmOSyn2mKMKcU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":555218,\"imdb_id\":\"tt0198501\",\"origin_country\":[\"GR\"],\"original_language\":\"el\",\"original_title\":\"\u039f \u0393\u03b1\u03bc\u03c0\u03c1\u03cc\u03c2 \u039c\u03bf\u03c5, \u039f \u0394\u03b9\u03ba\u03b7\u03b3\u03cc\u03c1\u03bf\u03c2!\",\"overview\":\"A barber wants to marry his daughter to a scientist. He believes that he has found the proper candidate in the face of a trainee lawyer.\",\"popularity\":8.615,\"poster_path\":\"\/TP9tOaMXNMHvJ4dMYA9BgR8BCL.jpg\",\"production_companies\":[{\"id\":109322,\"logo_path\":null,\"name\":\"Afoi Roussopouloi-G. Lazaridis - D. Sarris - K. Psarras\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GR\",\"name\":\"Greece\"}],\"release_date\":\"1962-01-01\",\"revenue\":0,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"\u039f \u0393\u03b1\u03bc\u03c0\u03c1\u03cc\u03c2 \u039c\u03bf\u03c5, \u039f \u0394\u03b9\u03ba\u03b7\u03b3\u03cc\u03c1\u03bf\u03c2!\",\"video\":false,\"vote_average\":6.6,\"vote_count\":5}"
+}

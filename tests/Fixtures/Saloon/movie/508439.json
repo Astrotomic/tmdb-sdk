@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1223",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9989",
+        "x-memc": "HIT",
+        "x-memc-key": "0e1ef1d8f96fb19cb9f3ef6ad582c74d",
+        "x-memc-age": "12519",
+        "x-memc-expires": "9989",
+        "ETag": "W\/\"0de326634495d21a3467b5a5df1179e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LOK6ueobiLrgtZSF0pN_g5dVpiUSzjlVgZDnW1ypKt0l9xI7Lr6OcQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xFxk4vnirOtUxpOEWgA1MCRfy6J.jpg\",\"belongs_to_collection\":null,\"budget\":200000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/movies.disney.com\/onward\",\"id\":508439,\"imdb_id\":\"tt7146812\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Onward\",\"overview\":\"In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.\",\"popularity\":39.753,\"poster_path\":\"\/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-02-29\",\"revenue\":141940042,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Their quest begineth.\",\"title\":\"Onward\",\"video\":false,\"vote_average\":7.692,\"vote_count\":6004}"
+}

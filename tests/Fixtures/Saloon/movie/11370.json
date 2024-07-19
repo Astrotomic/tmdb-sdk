@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2068",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6076",
+        "x-memc": "HIT",
+        "x-memc-key": "ba0ac9acd54ffed93b1f27a74a70349e",
+        "x-memc-age": "17373",
+        "x-memc-expires": "6076",
+        "ETag": "W\/\"179913cefd8d8fc391991e836b1a4665\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Dk9Akb2BPBAoDlqWfmsiQ-zj46ihnX8z9zZFYjNVFOe_eCI3NQc0yg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/28pIv9QDIdlEEL4laBsNCGghJwQ.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":11370,\"imdb_id\":\"tt0246544\",\"origin_country\":[\"DE\",\"LU\",\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Musketeer\",\"overview\":\"Young D'Artagnan seeks to join the legendary musketeer brigade and avenge his father's death - but he finds that the musketeers have been disbanded.\",\"popularity\":26.68,\"poster_path\":\"\/1UTpbZXldVJ0cV5fLWNOxU4Olab.jpg\",\"production_companies\":[{\"id\":4077,\"logo_path\":null,\"name\":\"Crystal Sky Worldwide\",\"origin_country\":\"\"},{\"id\":10828,\"logo_path\":null,\"name\":\"MDP Worldwide\",\"origin_country\":\"US\"},{\"id\":16850,\"logo_path\":null,\"name\":\"ApolloMedia\",\"origin_country\":\"DE\"},{\"id\":23770,\"logo_path\":\"\/t1Dc5SaJLBfRxtl0ttLGdaYICQ2.png\",\"name\":\"Signature Entertainment\",\"origin_country\":\"US\"},{\"id\":53010,\"logo_path\":null,\"name\":\"D'Artagnan Productions Limited\",\"origin_country\":\"\"},{\"id\":53011,\"logo_path\":null,\"name\":\"Q\\u0026Q Medien GmbH\",\"origin_country\":\"\"},{\"id\":8900,\"logo_path\":null,\"name\":\"The Carousel Picture Company\",\"origin_country\":\"LU\"},{\"id\":11776,\"logo_path\":\"\/33JMuTtwY5UhPwkmCEyH1YaCD23.png\",\"name\":\"Film Fund Luxembourg\",\"origin_country\":\"LU\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"LU\",\"name\":\"Luxembourg\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-09-07\",\"revenue\":27053815,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"Hungarian\",\"iso_639_1\":\"hu\",\"name\":\"Magyar\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"As you've never seen it before.\",\"title\":\"The Musketeer\",\"video\":false,\"vote_average\":5.3,\"vote_count\":213}"
+}

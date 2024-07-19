@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1467",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23120",
+        "x-memc": "HIT",
+        "x-memc-key": "62f46acb4d9ef88c636d6d7460c3dffd",
+        "x-memc-age": "5617",
+        "x-memc-expires": "23120",
+        "ETag": "W\/\"8b41c22913960ca91694570852f97324\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IyyWv6JyjVJaVCCVJWbvoaQAgMLAKay0jeALY9yP842wGrLA5-apVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/u3hiCBwJ2yGCiJb3kOoqXThTQ7Z.jpg\",\"belongs_to_collection\":{\"id\":10522,\"name\":\"Starship Troopers Collection\",\"poster_path\":\"\/uumu3Xj1ME1632SCsyVJwITgOKZ.jpg\",\"backdrop_path\":\"\/iKbdiRzFaQaKMtYoeQIuwGoDvSv.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":460790,\"imdb_id\":\"tt6977240\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Starship Troopers: Traitor of Mars\",\"overview\":\"Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.\",\"popularity\":21.222,\"poster_path\":\"\/dzqEq8Jbvb5SYGoYPqLyIRrt6Cm.jpg\",\"production_companies\":[{\"id\":23333,\"logo_path\":\"\/4Ts3PMtlSMsqCLDxRKO59P2kH00.png\",\"name\":\"Sola Digital Arts\",\"origin_country\":\"JP\"},{\"id\":11341,\"logo_path\":\"\/xytTBODEy3p20ksHL4Ftxr483Iv.png\",\"name\":\"Stage 6 Films\",\"origin_country\":\"US\"},{\"id\":162929,\"logo_path\":null,\"name\":\"Lucent Pictures Entertainment\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-08-21\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Starship Troopers: Traitor of Mars\",\"video\":false,\"vote_average\":5.877,\"vote_count\":272}"
+}

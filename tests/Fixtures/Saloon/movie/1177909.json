@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "804",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20141",
+        "x-memc": "HIT",
+        "x-memc-key": "f1c72eb09346ea7676ae6f6cfa02bfa5",
+        "x-memc-age": "5839",
+        "x-memc-expires": "20141",
+        "ETag": "W\/\"8b86baccf1d81e1dd878c93783734656\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Qf_71W-lmmkxQ7qphJtsHSVojBCwuKlR6jHcNF8LYQWVDMu6X5zypQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1177909,\"imdb_id\":\"tt3462384\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Cure\",\"overview\":\"A hired assassin battles time & powerful forces to rid himself of a prototype antitoxin that's been shoved into his bloodstream.\",\"popularity\":1.723,\"poster_path\":\"\/oBTm3zRAg1PDy5aNnQXNO2zLBKT.jpg\",\"production_companies\":[{\"id\":208585,\"logo_path\":null,\"name\":\"Fifteen Studios\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2014-08-01\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Cure\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1377",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13740",
+        "x-memc": "HIT",
+        "x-memc-key": "08ec77c092469962b5e13f7f27b7e91b",
+        "x-memc-age": "14748",
+        "x-memc-expires": "13740",
+        "ETag": "W\/\"33a0f0c58122e3e5aac8e1b9bcdb6718\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WiiklwdXYlTRBPYnA5Ip6Nk8m0HCI0OywWWwpkVwSbiLhvrJ_BNxdQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/45FeNqUhg5mP4faq6b6FJjDY0y9.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":5928,\"imdb_id\":\"tt0064886\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Reivers\",\"overview\":\"In turn-of-the-century Mississippi, an 11-year-old boy comes of age as two mischievous adult friends talk him into sneaking the family car out for a trip to Memphis and a series of adventures.\",\"popularity\":9.682,\"poster_path\":\"\/s0XZmvjbS4meN86Jf1Retbo7GlB.jpg\",\"production_companies\":[{\"id\":3070,\"logo_path\":null,\"name\":\"Cinema Center Films\",\"origin_country\":\"\"},{\"id\":16125,\"logo_path\":null,\"name\":\"Duo Films\",\"origin_country\":\"\"},{\"id\":599,\"logo_path\":null,\"name\":\"Solar Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1969-12-20\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Boon is a reiver (that's a cheat, a liar, a brawler and womaniser) and he had just four days to teach young Lucius the facts of life (like cheating, lying, brawling and womanizing).\",\"title\":\"The Reivers\",\"video\":false,\"vote_average\":6.5,\"vote_count\":43}"
+}

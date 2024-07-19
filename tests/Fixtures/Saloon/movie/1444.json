@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1245",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6184",
+        "x-memc": "HIT",
+        "x-memc-key": "df9f1ca204065a35e45767fe51b0780a",
+        "x-memc-age": "15841",
+        "x-memc-expires": "6184",
+        "ETag": "W\/\"370d0f94c54dae7b26dc8959d397a91a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4O3iu2u4gWcdUETMQnRG55mbBtyX3iTXcsv7BuLzJ3ZUSgtA3bPChA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bgglizDnM6MFm0F216VI7l0SoyJ.jpg\",\"belongs_to_collection\":null,\"budget\":1000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1444,\"imdb_id\":\"tt0418773\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Junebug\",\"overview\":\"On the way to meet with an independent artist in the South, newlywed art dealer Madeleine is convinced by her husband, George, that they should stop to meet his family in North Carolina. Madeleine's affluent lifestyle clashes with the family, but she befriends George's wide-eyed and pregnant sister-in-law, Ashley, who is nearing her due date. Through the family, Madeleine gains greater insight into George's character.\",\"popularity\":17.996,\"poster_path\":\"\/asC6UOPrR6OlNMiyXbeXWu08SOG.jpg\",\"production_companies\":[{\"id\":3846,\"logo_path\":\"\/vKfSLK0FIrebJoXwSrVIZyQjCVL.png\",\"name\":\"Epoch Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-08-03\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Junebug\",\"video\":false,\"vote_average\":6.611,\"vote_count\":212}"
+}

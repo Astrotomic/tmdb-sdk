@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1347",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9165",
+        "x-memc": "HIT",
+        "x-memc-key": "b4dcdf98e1bfe1be9d063fa122dee6f7",
+        "x-memc-age": "15624",
+        "x-memc-expires": "9165",
+        "ETag": "W\/\"de872642d714773f955652692e91563e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "p-UYU6z06e63OYJra-VYoq2g5ANn43Eax34SkG7_m17eadfdDrWU0w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bpXoOoW3Nh45JFt3WPDiDNjdlXe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":37,\"name\":\"Western\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":226640,\"imdb_id\":\"tt0066836\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Black Noon\",\"overview\":\"Reverend John Keyes and his wife, Lorna, on their way to a new congregation out west, break down in the desert and are rescued by the residents of a nearby town. At first warm and welcoming, the townspeople become more and more solicitous of John and insistent that he stay on as their minister, against the wishes of Lorna, who goes unheeded and slowly becomes deathly ill. Will John realize the danger before it is too late?\",\"popularity\":3.802,\"poster_path\":\"\/a3oNquA8Y5vd0dYRSnhqiAwluIz.jpg\",\"production_companies\":[{\"id\":12551,\"logo_path\":null,\"name\":\"Screen Gems Television\",\"origin_country\":\"\"},{\"id\":23950,\"logo_path\":null,\"name\":\"Andrew J. Fenady Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1971-11-05\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Black Noon\",\"video\":false,\"vote_average\":6.0,\"vote_count\":8}"
+}

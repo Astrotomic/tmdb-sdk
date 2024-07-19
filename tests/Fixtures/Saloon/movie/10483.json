@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2027",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5337",
+        "x-memc": "HIT",
+        "x-memc-key": "92d197bf33284aa813da342608d0b50f",
+        "x-memc-age": "19602",
+        "x-memc-expires": "5337",
+        "ETag": "W\/\"448751fed8f62f9048ba36266c63753c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "em_eIyF1SUWyhqkN8Q1U14ZnqRLaNDeJImjoLIZBrRCc3laVlg1Qgw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5mbFEJStH59cNFcF7VkRgsSxMqK.jpg\",\"belongs_to_collection\":{\"id\":86116,\"name\":\"Death Race Collection\",\"poster_path\":\"\/uffHLg0ekFlErCp7OkpecXkWPng.jpg\",\"backdrop_path\":\"\/cGaVuq8ZjX1UPD9wPRlzx6lP9kK.jpg\"},\"budget\":45000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.deathracemovie.net\/\",\"id\":10483,\"imdb_id\":\"tt0452608\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Death Race\",\"overview\":\"Terminal Island, New York: 2020. Overcrowding in the US penal system has reached a breaking point. Prisons have been turned over to a monolithic Weyland Corporation, which sees jails full of thugs as an opportunity for televised sport. Adrenalized inmates, a global audience hungry for violence and a spectacular, enclosed arena come together to form the 'Death Race', the biggest, most brutal event.\",\"popularity\":82.047,\"poster_path\":\"\/5A79GeOb3uChQ0l0ZDjDyODKQp3.jpg\",\"production_companies\":[{\"id\":248,\"logo_path\":null,\"name\":\"Impact Pictures\",\"origin_country\":\"GB\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":7295,\"logo_path\":\"\/62E1B91PxZw8q4KNkge5Qemo7EM.png\",\"name\":\"Relativity Media\",\"origin_country\":\"US\"},{\"id\":44,\"logo_path\":\"\/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png\",\"name\":\"Cruise\/Wagner Productions\",\"origin_country\":\"US\"},{\"id\":28121,\"logo_path\":null,\"name\":\"H2S2 Filmproduktionsgesellschaft\",\"origin_country\":\"\"},{\"id\":7419,\"logo_path\":null,\"name\":\"Scion Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2008-08-22\",\"revenue\":76000000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Get ready for a killer race.\",\"title\":\"Death Race\",\"video\":false,\"vote_average\":6.264,\"vote_count\":3645}"
+}

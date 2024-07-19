@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "975",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12932",
+        "x-memc": "HIT",
+        "x-memc-key": "cd2b24a1a92f8581ca57de5056dbf10e",
+        "x-memc-age": "11035",
+        "x-memc-expires": "12932",
+        "ETag": "W\/\"3965f449373b6b1afaab84f6af4ae503\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "W54WXFD1qk9rnQVfyEQuiz_-twdHSCj7ftxRdg6kmsqfdQu2inB1mQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":528005,\"name\":\"Ang Panday (Fernando Poe Jr. series)\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":229831,\"imdb_id\":\"tt0436659\",\"origin_country\":[\"PH\"],\"original_language\":\"tl\",\"original_title\":\"Pagbabalik ng Panday\",\"overview\":\"Flavio returns as the heroic blacksmith who uses his magical sword in fighting eveil\",\"popularity\":4.831,\"poster_path\":\"\/tU4DR527VmoCDrTclswWoUNVZLf.jpg\",\"production_companies\":[{\"id\":23618,\"logo_path\":\"\/l7GePBJhAZm0PNEfqTyIjYLqNom.png\",\"name\":\"FPJ Productions\",\"origin_country\":\"PH\"}],\"production_countries\":[{\"iso_3166_1\":\"PH\",\"name\":\"Philippines\"}],\"release_date\":\"1981-12-24\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Tagalog\",\"iso_639_1\":\"tl\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pagbabalik ng Panday\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

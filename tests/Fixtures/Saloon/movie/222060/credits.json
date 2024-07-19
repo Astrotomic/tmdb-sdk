@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1519",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:30:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16575",
+        "x-memc": "HIT",
+        "x-memc-key": "1d217e27075d74afa84e80327e2e8f9b",
+        "x-memc-age": "9537",
+        "x-memc-expires": "16575",
+        "ETag": "W\/\"7640dd216821df02f1ff188e145bfbcd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zQVocPRIDHVccexTBIwdpaG16_li_p9gXia4hw4-NEwV5pjYMT_hbg=="
+    },
+    "data": "{\"id\":222060,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1207192,\"known_for_department\":\"Acting\",\"name\":\"Denny Zartman\",\"original_name\":\"Denny Zartman\",\"popularity\":1.167,\"profile_path\":null,\"cast_id\":1,\"character\":\"All characters\",\"credit_id\":\"52fe4dde9251416c75143aef\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1207192,\"known_for_department\":\"Acting\",\"name\":\"Denny Zartman\",\"original_name\":\"Denny Zartman\",\"popularity\":1.167,\"profile_path\":null,\"credit_id\":\"52fe4dde9251416c75143af5\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":1207192,\"known_for_department\":\"Acting\",\"name\":\"Denny Zartman\",\"original_name\":\"Denny Zartman\",\"popularity\":1.167,\"profile_path\":null,\"credit_id\":\"52fe4dde9251416c75143afb\",\"department\":\"Art\",\"job\":\"Art Direction\"},{\"adult\":false,\"gender\":0,\"id\":1207192,\"known_for_department\":\"Acting\",\"name\":\"Denny Zartman\",\"original_name\":\"Denny Zartman\",\"popularity\":1.167,\"profile_path\":null,\"credit_id\":\"52fe4dde9251416c75143b07\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":1207192,\"known_for_department\":\"Acting\",\"name\":\"Denny Zartman\",\"original_name\":\"Denny Zartman\",\"popularity\":1.167,\"profile_path\":null,\"credit_id\":\"52fe4dde9251416c75143b01\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1207193,\"known_for_department\":\"Production\",\"name\":\"Sean DeVore\",\"original_name\":\"Sean DeVore\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"52fe4dde9251416c75143b0d\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1353",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17174",
+        "x-memc": "HIT",
+        "x-memc-key": "7a179e97e596dbdc778f3520ed6f24a9",
+        "x-memc-age": "4571",
+        "x-memc-expires": "17174",
+        "ETag": "W\/\"f568ff9cf3cd02e07ef8b1bc019cad6f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5vVKBIMiB-rrctfRqhk8oic-VoF55SNXRL-PjZAXO0UuAYiNavTa_g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hMVTKvNPUvCCzUEbflHynY8JMhe.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":7200000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/diamonds-are-forever\",\"id\":681,\"imdb_id\":\"tt0066995\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Diamonds Are Forever\",\"overview\":\"Diamonds are stolen only to be sold again in the international market. James Bond infiltrates a smuggling mission to find out who's guilty. The mission takes him to Las Vegas where Bond meets his archenemy Blofeld.\",\"popularity\":37.799,\"poster_path\":\"\/ooDT0eKrWCxJCsn9JehPkD0QYNj.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1971-12-14\",\"revenue\":116019547,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"The man who made 007 a household number.\",\"title\":\"Diamonds Are Forever\",\"video\":false,\"vote_average\":6.388,\"vote_count\":2026}"
+}

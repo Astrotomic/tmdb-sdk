@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1932",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15616",
+        "x-memc": "HIT",
+        "x-memc-key": "b63d3f7725070c1da9778bfab705327b",
+        "x-memc-age": "12976",
+        "x-memc-expires": "15616",
+        "ETag": "W\/\"ac21d80666e3f1f73ae652092f83d8ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1-qVcXZ7cgyXl2Kh7rpKoGBtLOT47dwRRSKri-HBj6GHbePoBZ4h4Q=="
+    },
+    "data": "{\"id\":1029843,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3617384,\"known_for_department\":\"Acting\",\"name\":\"Umoru Sylvester Aduku\",\"original_name\":\"Umoru Sylvester Aduku\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Dare\",\"credit_id\":\"63358371fa78cd00a3458489\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3617382,\"known_for_department\":\"Acting\",\"name\":\"Israel Bartholomew\",\"original_name\":\"Israel Bartholomew\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Bolaji\",\"credit_id\":\"63358387e21023007e800da0\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3617385,\"known_for_department\":\"Acting\",\"name\":\"Tauheed Abdullahi Mohammed\",\"original_name\":\"Tauheed Abdullahi Mohammed\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Haidar\",\"credit_id\":\"63358396cb75d10081958630\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":3617387,\"known_for_department\":\"Directing\",\"name\":\"Abu-bakr S. Adamu\",\"original_name\":\"Abu-bakr S. Adamu\",\"popularity\":0.001,\"profile_path\":\"\/i3BIlcAFzof5lC0EBjSUmP59pwl.jpg\",\"credit_id\":\"633583bde21023007e800db4\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3617390,\"known_for_department\":\"Crew\",\"name\":\"Adejumo Oluwatimilehin\",\"original_name\":\"Adejumo Oluwatimilehin\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"633583d0cca7de007cd8de89\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":2,\"id\":3617387,\"known_for_department\":\"Directing\",\"name\":\"Abu-bakr S. Adamu\",\"original_name\":\"Abu-bakr S. Adamu\",\"popularity\":0.001,\"profile_path\":\"\/i3BIlcAFzof5lC0EBjSUmP59pwl.jpg\",\"credit_id\":\"633583e0e21023007e800dc8\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3617391,\"known_for_department\":\"Sound\",\"name\":\"Emmanuel Olawuyi\",\"original_name\":\"Emmanuel Olawuyi\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"633583fc3780620082e4e03c\",\"department\":\"Camera\",\"job\":\"Still Photographer\"}]}"
+}

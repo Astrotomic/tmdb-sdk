@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2319",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:29:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14565",
+        "x-memc": "HIT",
+        "x-memc-key": "2c6c6a9ee33ac010b1c0bbd2e0b72fe4",
+        "x-memc-age": "11231",
+        "x-memc-expires": "14565",
+        "ETag": "W\/\"953bfd4a9e1a27f7d21d0d7213c79ef8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "O3FUmrSPuvJQ8Y0Hvs_oTEi6Z2fOBD5rf3I614lIvdw1a1-0ZHinjA=="
+    },
+    "data": "{\"id\":1423,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1952,\"known_for_department\":\"Acting\",\"name\":\"Jeffrey Weissman\",\"original_name\":\"Jeffrey Weissman\",\"popularity\":13.285,\"profile_path\":\"\/rdxAEWflihoR5Vt1TvsR0XcI6N5.jpg\",\"cast_id\":3,\"character\":\"Rocky\",\"credit_id\":\"52fe42f5c3a36847f802ff75\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":17035,\"known_for_department\":\"Acting\",\"name\":\"Josh Duthie\",\"original_name\":\"Josh Duthie\",\"popularity\":1.389,\"profile_path\":null,\"cast_id\":4,\"character\":\"Johnny Keen\",\"credit_id\":\"52fe42f6c3a36847f802ff79\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":17036,\"known_for_department\":\"Acting\",\"name\":\"Elan Freydenson\",\"original_name\":\"Elan Freydenson\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Maynard\",\"credit_id\":\"52fe42f6c3a36847f802ff7d\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":17037,\"known_for_department\":\"Acting\",\"name\":\"Shannon Lark\",\"original_name\":\"Shannon Lark\",\"popularity\":3.263,\"profile_path\":null,\"cast_id\":6,\"character\":\"Susie\",\"credit_id\":\"52fe42f6c3a36847f802ff81\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":17038,\"known_for_department\":\"Sound\",\"name\":\"Ian J. Smith\",\"original_name\":\"Ian J. Smith\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"52fe42f6c3a36847f802ff93\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":17034,\"known_for_department\":\"Writing\",\"name\":\"Joe Callero\",\"original_name\":\"Joe Callero\",\"popularity\":1.959,\"profile_path\":null,\"credit_id\":\"52fe42f5c3a36847f802ff71\",\"department\":\"Production\",\"job\":\"Executive Producer\"},{\"adult\":false,\"gender\":2,\"id\":17033,\"known_for_department\":\"Acting\",\"name\":\"Eric Callero\",\"original_name\":\"Eric Callero\",\"popularity\":4.663,\"profile_path\":\"\/dKX5V48qGZqjJfpML7TERDgrrpl.jpg\",\"credit_id\":\"52fe42f6c3a36847f802ff8d\",\"department\":\"Writing\",\"job\":\"Author\"},{\"adult\":false,\"gender\":2,\"id\":17033,\"known_for_department\":\"Acting\",\"name\":\"Eric Callero\",\"original_name\":\"Eric Callero\",\"popularity\":4.663,\"profile_path\":\"\/dKX5V48qGZqjJfpML7TERDgrrpl.jpg\",\"credit_id\":\"52fe42f5c3a36847f802ff6b\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":17034,\"known_for_department\":\"Writing\",\"name\":\"Joe Callero\",\"original_name\":\"Joe Callero\",\"popularity\":1.959,\"profile_path\":null,\"credit_id\":\"52fe42f6c3a36847f802ff87\",\"department\":\"Writing\",\"job\":\"Author\"}]}"
+}

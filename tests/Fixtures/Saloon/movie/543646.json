@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "920",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21777",
+        "x-memc": "HIT",
+        "x-memc-key": "f5ebfdc7914eafd5a0b1890d7765d63c",
+        "x-memc-age": "4594",
+        "x-memc-expires": "21777",
+        "ETag": "W\/\"5071efa4895a8dbf57177b189c3af4ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "N8IYv29uWqenxPCPlvLRA3TsjznzBBgjLR_dAcT_-zO1MPEcCSf_wQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mzPeXqnZN4pOCLhFNMJx9oQcfux.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":543646,\"imdb_id\":\"tt8347882\",\"origin_country\":[\"BD\"],\"original_language\":\"bn\",\"original_title\":\"\u09b8\u09cb\u09a8\u09be\u09b0 \u09aa\u09be\u09b9\u09be\u09dc\",\"overview\":\"An older woman's unique friendship with a young boy inspires her to examine the strained relationship she shares with her married son.\",\"popularity\":4.386,\"poster_path\":\"\/m2ghZsnUp4M6pnrK40TMIlR1dqG.jpg\",\"production_companies\":[{\"id\":84707,\"logo_path\":null,\"name\":\"GreenTouch Entertainment\",\"origin_country\":\"IN\"}],\"production_countries\":[],\"release_date\":\"2018-07-06\",\"revenue\":0,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"Bengali\",\"iso_639_1\":\"bn\",\"name\":\"\u09ac\u09be\u0982\u09b2\u09be\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Shonar Pahar\",\"video\":false,\"vote_average\":8.0,\"vote_count\":1}"
+}

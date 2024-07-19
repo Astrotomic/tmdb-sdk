@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1433",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:03:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3491",
+        "x-memc": "HIT",
+        "x-memc-key": "ff46da6de5aa2a116dcc3387d52ac193",
+        "x-memc-age": "22658",
+        "x-memc-expires": "3491",
+        "ETag": "W\/\"c2ba434a472af40301ecc83c1af7426e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iQzznXC-m8CQCf9Zo11Wqmw1zjtCktik5hkUQgr4viFf8S5bxSWicA=="
+    },
+    "data": "{\"id\":230864,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/230864-marvin-hamlisch-what-he-did-for-love\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/230864-marvin-hamlisch-what-he-did-for-love\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/230864-marvin-hamlisch-what-he-did-for-love\/watch?locale=IE\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/230864-marvin-hamlisch-what-he-did-for-love\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]}}}"
+}

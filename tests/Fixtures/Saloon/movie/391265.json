@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1070",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22111",
+        "x-memc": "HIT",
+        "x-memc-key": "377475befc25b0c5ff93d2c6d3059197",
+        "x-memc-age": "1583",
+        "x-memc-expires": "22111",
+        "ETag": "W\/\"7d9f5891f87560fc76b9df44aa869104\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0ziHVbS7Dkda7maxDQWwXyQ9Dhu4irP3gqpiAiHL_B8IBvo6poBqTw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jFRXT3IK6YT7eBDuY5Hwaet7kYq.jpg\",\"belongs_to_collection\":null,\"budget\":20000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.jacksonmillerfilms.com\/prism.html\",\"id\":391265,\"imdb_id\":\"tt4768784\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Prism\",\"overview\":\"Dan Warner is a desaturator, tasked with sapping beauty from the world in a future where Color is used as energy. When his superiors suspect that he may secretly be hoarding color in order to support his \\\"unhealthy\\\" passion for drawing, Dan is reassigned to the outer precincts where he is faced with a decision that will decide the course of his future.\",\"popularity\":0.434,\"poster_path\":\"\/oIa41rnH6N5cELqGLF5QuDUFZ1Z.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2015-05-12\",\"revenue\":0,\"runtime\":17,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Prism\",\"video\":false,\"vote_average\":6.0,\"vote_count\":3}"
+}

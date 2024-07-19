@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "694",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:04:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15744",
+        "x-memc": "HIT",
+        "x-memc-key": "9c54faf9355228c5c7dd9a41d9914a49",
+        "x-memc-age": "10895",
+        "x-memc-expires": "15744",
+        "ETag": "W\/\"703ca66202ba62314beede8740fc31ce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zGpQQoZFq26M9Qzs9lVczsClokdL07JaAwaDmaRWGVw_pmBEgp4vKA=="
+    },
+    "data": "{\"id\":10904,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/10904-underdogs\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/10904-underdogs\/watch?locale=CH\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]}}}"
+}

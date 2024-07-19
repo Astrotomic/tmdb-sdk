@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1229",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8759",
+        "x-memc": "HIT",
+        "x-memc-key": "9c9faf14b3cfc7edd0b64d6798f25a16",
+        "x-memc-age": "15653",
+        "x-memc-expires": "8759",
+        "ETag": "W\/\"eea4e24d7d25d4cb9b2dec5079cff8d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6g_wIq17APwitQT8x51cugA-EJkC--b9VH69atWk9jY5JpC4JvsLoQ=="
+    },
+    "data": "{\"id\":597187,\"results\":{\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/597187-the-secret-lives-of-cheerleaders\/watch?locale=AU\",\"flatrate\":[{\"logo_path\":\"\/fejdSG7TwNQ5E0p6u7A6LVs280R.jpg\",\"provider_id\":134,\"provider_name\":\"Foxtel Now\",\"display_priority\":7}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/597187-the-secret-lives-of-cheerleaders\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/597187-the-secret-lives-of-cheerleaders\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":49}],\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}],\"flatrate\":[{\"logo_path\":\"\/m4ofXxkTOj04N8df5KJGCIjnWii.jpg\",\"provider_id\":284,\"provider_name\":\"Lifetime Movie Club\",\"display_priority\":82}]}}}"
+}

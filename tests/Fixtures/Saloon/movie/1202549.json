@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1830",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11780",
+        "x-memc": "HIT",
+        "x-memc-key": "eb8cd1362d7bf972e45081a9b3de32a7",
+        "x-memc-age": "11658",
+        "x-memc-expires": "11780",
+        "ETag": "W\/\"c4e4f01378dbc2a8ae386cc58d738479\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dh6OTKtBZV1-hOh1HVBe8U8U8fXs5aqvgDlIqnRVgfYRahNhdAlpdg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1202549,\"imdb_id\":\"tt29870301\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"The Well\",\"overview\":\"In a world where environmental collapse has left survivors to fight for the precious resources needed to survive, a young woman\u2019s loyalties are tested by the arrival of a wounded man. When he discovers her family has a secret supply of fresh water it puts them all in the crosshairs of a dangerous cult, and their ruthless leader Gabriel.\",\"popularity\":0.878,\"poster_path\":null,\"production_companies\":[{\"id\":62033,\"logo_path\":\"\/e1gyvo10BpYQnYNx93RI3vVsMRS.png\",\"name\":\"Aiken Heart Films\",\"origin_country\":\"CA\"},{\"id\":8981,\"logo_path\":\"\/py53F2DJM6q9TT2K1Hf0wPxnTf1.png\",\"name\":\"Conquering Lion Pictures\",\"origin_country\":\"CA\"},{\"id\":116928,\"logo_path\":null,\"name\":\"Untitled Films\",\"origin_country\":\"US\"},{\"id\":806,\"logo_path\":\"\/kcNh09qqR2Pkw1JAzRW4CommrW4.png\",\"name\":\"T\u00e9l\u00e9film Canada\",\"origin_country\":\"CA\"},{\"id\":34515,\"logo_path\":\"\/eHlBG6INdNO7IfsxVX1kDDBKnJi.png\",\"name\":\"Canada Media Fund | Fonds des m\u00e9dias du Canada\",\"origin_country\":\"CA\"},{\"id\":114338,\"logo_path\":\"\/iApSXPfwHZdtt3sR2y5VDoS2BRK.png\",\"name\":\"Ontario Creates\",\"origin_country\":\"CA\"},{\"id\":12113,\"logo_path\":\"\/lwnLVleFG0sRAYBq5IObgN30r9F.png\",\"name\":\"CBC\",\"origin_country\":\"CA\"},{\"id\":164270,\"logo_path\":null,\"name\":\"Vortex Media\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Post Production\",\"tagline\":\"\",\"title\":\"The Well\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

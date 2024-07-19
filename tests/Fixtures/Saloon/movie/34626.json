@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1360",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27582",
+        "x-memc": "HIT",
+        "x-memc-key": "fd724e902785b57941e2db8b4e62d3cb",
+        "x-memc-age": "1013",
+        "x-memc-expires": "27582",
+        "ETag": "W\/\"ee32d7c23c77cd95ee20c68065abd019\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ObH-etofDcp4gzMhgFwfJlHxWu-vAgW1Qu7cDUR3a0n_mT5BgFjLgw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sHy9qPITQcD8PGHUHRWseguyfiE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.merantau-movie.com\/\",\"id\":34626,\"imdb_id\":\"tt1368116\",\"origin_country\":[\"ID\"],\"original_language\":\"id\",\"original_title\":\"Merantau\",\"overview\":\"In Minangkabau, West Sumatera, Yuda a skilled practitioner of Silat Harimau is in the final preparations to begin his \\\"Merantau\\\" a century's old rites-of-passage to be carried out by the community's young men that will see him leave the comforts of his idyllic farming village and make a name for himself in the bustling city of Jakarta.\",\"popularity\":11.62,\"poster_path\":\"\/60Vd3zovl6XeRH8GQOsM9fwMHRO.jpg\",\"production_companies\":[{\"id\":12141,\"logo_path\":null,\"name\":\"PT. Merantau Films\",\"origin_country\":\"ID\"},{\"id\":79046,\"logo_path\":null,\"name\":\"Golden Network Asia\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"ID\",\"name\":\"Indonesia\"}],\"release_date\":\"2009-08-06\",\"revenue\":154660,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"Indonesian\",\"iso_639_1\":\"id\",\"name\":\"Bahasa indonesia\"}],\"status\":\"Released\",\"tagline\":\"Every journey must begin with one small step.\",\"title\":\"Merantau\",\"video\":false,\"vote_average\":6.5,\"vote_count\":206}"
+}

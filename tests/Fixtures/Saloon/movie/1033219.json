@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1278",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26094",
+        "x-memc": "HIT",
+        "x-memc-key": "f97f77a68d9e2bf2e1f7d2ea9997a859",
+        "x-memc-age": "398",
+        "x-memc-expires": "26094",
+        "ETag": "W\/\"fa6dd7f1b87d0f9a2c8ac2fce5b25b50\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-xNoYojG_9cjXCWdlQlKrqJ667pyg__d4YzMceTGsVcOUncRsZze6Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eNJhWy7xFzR74SYaSJHqJZuroDm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1033219,\"imdb_id\":\"tt22408766\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Attack on Titan\",\"overview\":\"As viable water is depleted on Earth, a mission is sent to Saturn's moon Titan to retrieve sustainable H2O reserves from its alien inhabitants. But just as the humans acquire the precious resource, they are attacked by Titan rebels, who don't trust that the Earthlings will leave in peace.\",\"popularity\":33.252,\"poster_path\":\"\/ay8SLFTMKzQ0i5ewOaGHz2bVuZL.jpg\",\"production_companies\":[{\"id\":1311,\"logo_path\":\"\/ic2bTizdzRLDVzAvN7MXdUg3WQV.png\",\"name\":\"The Asylum\",\"origin_country\":\"US\"},{\"id\":185065,\"logo_path\":\"\/jOB4ZZVEepRbkIxSyWfy3pW50pi.png\",\"name\":\"Emerald City Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-30\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The battle for Earth has begun.\",\"title\":\"Attack on Titan\",\"video\":false,\"vote_average\":6.047,\"vote_count\":169}"
+}

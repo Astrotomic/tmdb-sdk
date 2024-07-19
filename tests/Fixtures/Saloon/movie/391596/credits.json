@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2073",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18016",
+        "x-memc": "HIT",
+        "x-memc-key": "222af61cb7ce0c64897ae88c3347fcb9",
+        "x-memc-age": "3760",
+        "x-memc-expires": "18016",
+        "ETag": "W\/\"9daaa62ad81cda863c0a4441005ae064\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "l3dhnK5gEVjjcmumWIEIMtArFzouhCuiI7ebnI-wAuMram2zR5qJhQ=="
+    },
+    "data": "{\"id\":391596,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1601687,\"known_for_department\":\"Acting\",\"name\":\"Ethan Scott Grey\",\"original_name\":\"Ethan Scott Grey\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":0,\"character\":\"Sheriff Grey\",\"credit_id\":\"5704c3b9c3a3681f3a000679\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1360020,\"known_for_department\":\"Sound\",\"name\":\"Michael Knopp\",\"original_name\":\"Michael Knopp\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Deputy Andy Thomas\",\"credit_id\":\"5704c41392514147670005f8\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1628447,\"known_for_department\":\"Acting\",\"name\":\"Clint Winters\",\"original_name\":\"Clint Winters\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Sam Griffin\",\"credit_id\":\"574bb103c3a3683308000e9e\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1628448,\"known_for_department\":\"Acting\",\"name\":\"Eric John Main\",\"original_name\":\"Eric John Main\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Silus\",\"credit_id\":\"574bb12d9251417fc0000952\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":1628449,\"known_for_department\":\"Acting\",\"name\":\"Chauncey Miller\",\"original_name\":\"Chauncey Miller\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Brother Rob\",\"credit_id\":\"574bb16c9251417ff9000983\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":1628450,\"known_for_department\":\"Acting\",\"name\":\"Walter Duckworth\",\"original_name\":\"Walter Duckworth\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"Dillard Tanner\",\"credit_id\":\"574bb18ac3a368303b003235\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1601687,\"known_for_department\":\"Acting\",\"name\":\"Ethan Scott Grey\",\"original_name\":\"Ethan Scott Grey\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5be308fc9251415c770141ad\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1601687,\"known_for_department\":\"Acting\",\"name\":\"Ethan Scott Grey\",\"original_name\":\"Ethan Scott Grey\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5be30910c3a36810c10162c9\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

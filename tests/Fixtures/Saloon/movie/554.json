@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1481",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3918",
+        "x-memc": "HIT",
+        "x-memc-key": "dd39ade68a4a6a04db319014a6fbdec8",
+        "x-memc-age": "20882",
+        "x-memc-expires": "3918",
+        "ETag": "W\/\"3d2b605b8a103e5bd9b912196e0a1f53\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JCf47hOSzWaOTaYxFKYJjvqBMCpNd7w3xobLWtrU0nNknul0sPZVZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1qwXItFKqvKYyW1CwbYhxyUC8Pj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":554,\"imdb_id\":\"tt0308476\",\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u041a\u0443\u043a\u0443\u0448\u043a\u0430\",\"overview\":\"September of 1944, a few days before Finland went out of the Second World War. A chained to a rock Finnish sniper-kamikadze Veikko managed to set himself free. Ivan, a captain of the Soviet Army, arrested by the Front Secret Police 'Smersh', has a narrow escape. They are soldiers of the two enemy armies. A Lapp woman Anni gives a shelter to both of them at her farm. For Anni they are not enemies, but just men.\",\"popularity\":14.345,\"poster_path\":\"\/g0bVxxdeAkDwzLoJq7o8ehQZWa6.jpg\",\"production_companies\":[{\"id\":318,\"logo_path\":\"\/q0UG4oZERwIywJdDPF4lRlvdYGW.png\",\"name\":\"CTB Film Company\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"},{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2002-01-01\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Finnish\",\"iso_639_1\":\"fi\",\"name\":\"suomi\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"She's Making Peace One Man at a Time.\",\"title\":\"The Cuckoo\",\"video\":false,\"vote_average\":7.037,\"vote_count\":96}"
+}

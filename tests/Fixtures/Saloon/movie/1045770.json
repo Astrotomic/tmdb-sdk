@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1111",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24102",
+        "x-memc": "HIT",
+        "x-memc-key": "6cf2e453d086d55e402f101931c78286",
+        "x-memc-age": "3773",
+        "x-memc-expires": "24102",
+        "ETag": "W\/\"1d521539fc2f675754e408231fef94e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2Jfaf0QokTgiHPxNBSeKT6EK1YDq_p4juhyh8DOlHKXwpOu9t4KrWQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aNycfeUgXk9g6NjwwHzg01YloHa.jpg\",\"belongs_to_collection\":null,\"budget\":6700000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":1045770,\"imdb_id\":\"tt23476446\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Daaaaaal\u00ed !\",\"overview\":\"A young French journalist meets Salvador Dal\u00ed repeatedly for a documentary film project which never gets to start shooting.\",\"popularity\":18.724,\"poster_path\":\"\/9jlGTo6GiHeri1lx2czChvLzTO3.jpg\",\"production_companies\":[{\"id\":102468,\"logo_path\":\"\/7116YZNSKt5xKXgO9inx6bH0bq8.png\",\"name\":\"Atelier de Production\",\"origin_country\":\"FR\"},{\"id\":591,\"logo_path\":\"\/q5I5RDwMEiqoNmfaJgd2LraEOJY.png\",\"name\":\"France 3 Cin\u00e9ma\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-02-07\",\"revenue\":0,\"runtime\":77,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Dal\u00ed is probably the only artist still living.\",\"title\":\"Daaaaaal\u00ed !\",\"video\":false,\"vote_average\":6.369,\"vote_count\":156}"
+}

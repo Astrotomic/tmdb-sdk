@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "811",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10649",
+        "x-memc": "HIT",
+        "x-memc-key": "3df579384af145e7685812e4fa14f98f",
+        "x-memc-age": "11043",
+        "x-memc-expires": "10649",
+        "ETag": "W\/\"cb3dce5ceb4ff2e2d6a0eacf6c398c13\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f3riubbslEzVK4UbMMwxrSVibR4odFz0r7mhuUnRQQmMl3hVbxHjsA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/26th.theabcsofdeath.com\/t-is-for-tickles\/\",\"id\":1029663,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"T is for Tickles\",\"overview\":\"Produced for Alamo Drafthouse Films' \\\"The ABCs of Death\\\" short film competition. Took 20th place out of 171 total entries.\",\"popularity\":1.486,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-09-26\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"T is for Tickles\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

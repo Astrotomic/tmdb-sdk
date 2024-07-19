@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1872",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19172",
+        "x-memc": "HIT",
+        "x-memc-key": "cd98fe1e35de8c3316879a302b85d737",
+        "x-memc-age": "3149",
+        "x-memc-expires": "19172",
+        "ETag": "W\/\"3e88c2aff5e686ea8bb37573ea07a1a6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hDXiW_jj6HnxvtW7jsS6JadhT8BrsEgxUZE_Uftj9QT--en3heC_fg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lenFpoDZMlMvBWml8CF682x9NTQ.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"http:\/\/www.charliewilsonswar.net\/\",\"id\":6538,\"imdb_id\":\"tt0472062\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Charlie Wilson's War\",\"overview\":\"The true story of Texas congressman Charlie Wilson's covert dealings in Afghanistan, where his efforts to assist rebels in their war with the Soviets had some unforeseen and long-reaching effects.\",\"popularity\":22.643,\"poster_path\":\"\/45FghqcdSYRWK7PsHUInaFPNd8l.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":7295,\"logo_path\":\"\/62E1B91PxZw8q4KNkge5Qemo7EM.png\",\"name\":\"Relativity Media\",\"origin_country\":\"US\"},{\"id\":6735,\"logo_path\":\"\/pAQW38WU8ychBvYU2aGPTEbynEN.png\",\"name\":\"Participant\",\"origin_country\":\"US\"},{\"id\":4171,\"logo_path\":\"\/ip8rzankhLLhJGGkvfCirfUM26d.png\",\"name\":\"Playtone\",\"origin_country\":\"US\"},{\"id\":103453,\"logo_path\":null,\"name\":\"MP Munich Pape Filmproductions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-19\",\"revenue\":119483446,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Urdu\",\"iso_639_1\":\"ur\",\"name\":\"\u0627\u0631\u062f\u0648\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"}],\"status\":\"Released\",\"tagline\":\"When the world wasn't looking, he changed it forever.\",\"title\":\"Charlie Wilson's War\",\"video\":false,\"vote_average\":6.538,\"vote_count\":1432}"
+}

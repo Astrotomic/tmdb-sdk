@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1316",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19930",
+        "x-memc": "HIT",
+        "x-memc-key": "90e11f2698c3417a7223cdb7855fe1c0",
+        "x-memc-age": "5760",
+        "x-memc-expires": "19930",
+        "ETag": "W\/\"2362881b63319d93c3ffa7e8df0dba8f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CvHQuupLikBvulCqae9m7JmmUU7GafiUO1ihWo69NGBMjW8IXVCmjg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i2Wb6QsKg14tl4p9HgJENfUCqhh.jpg\",\"belongs_to_collection\":null,\"budget\":535000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":3019,\"imdb_id\":\"tt0022835\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dr. Jekyll and Mr. Hyde\",\"overview\":\"Dr. Henry Jekyll believes that there are two distinct sides to men - a good and an evil side. He believes that by separating the two, man can become liberated. He succeeds in his experiments with chemicals to accomplish this and transforms into Hyde to commit horrendous crimes. When he discontinues use of the drug, it is already too late.\",\"popularity\":24.337,\"poster_path\":\"\/mZtQORzQWkCSqeeHApH6vJDA1D2.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1931-12-24\",\"revenue\":1300000,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Put yourself in her place! The dreaded night when her lover became a madman!\",\"title\":\"Dr. Jekyll and Mr. Hyde\",\"video\":false,\"vote_average\":7.276,\"vote_count\":268}"
+}

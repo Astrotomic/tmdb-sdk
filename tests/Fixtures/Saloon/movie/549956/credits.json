@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1107",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7012",
+        "x-memc": "HIT",
+        "x-memc-key": "cd38f88ff3a110618fd48f67c6212adf",
+        "x-memc-age": "17901",
+        "x-memc-expires": "7012",
+        "ETag": "W\/\"5069de8efdbe4d380d1aa5c8bd7bfc3d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GN5V2N8ypmWMCASKoEoOXb3RCTIXGsb0J95MaeSU5mcZYA9aXoMT4g=="
+    },
+    "data": "{\"id\":549956,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":19138,\"known_for_department\":\"Acting\",\"name\":\"Bill Bixby\",\"original_name\":\"Bill Bixby\",\"popularity\":18.266,\"profile_path\":\"\/iA74LtwqGqZPjrXTOa970JgMP3A.jpg\",\"cast_id\":1,\"character\":\"Dr David Banner\",\"credit_id\":\"5ba7a730c3a3680e5002f197\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":19137,\"known_for_department\":\"Acting\",\"name\":\"Lou Ferrigno\",\"original_name\":\"Lou Ferrigno\",\"popularity\":16.984,\"profile_path\":\"\/obTtRrm8EbDzuiKpLjAd9s1i9v5.jpg\",\"cast_id\":2,\"character\":\"Hulk\",\"credit_id\":\"5ba7a7520e0a2635f602b367\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":19139,\"known_for_department\":\"Acting\",\"name\":\"Jack Colvin\",\"original_name\":\"Jack Colvin\",\"popularity\":6.595,\"profile_path\":\"\/muGB3L9Nn7CAVeKnZwm79BVr1P3.jpg\",\"cast_id\":3,\"character\":\"Jack McGee\",\"credit_id\":\"5ba7a7ae9251412f01028efc\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1219264,\"known_for_department\":\"Acting\",\"name\":\"Frank Orsatti\",\"original_name\":\"Frank Orsatti\",\"popularity\":2.916,\"profile_path\":null,\"credit_id\":\"5ba785b09251412f0d025899\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

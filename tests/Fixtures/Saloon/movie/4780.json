@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1063",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23562",
+        "x-memc": "HIT",
+        "x-memc-key": "39e7035ee60c1ec7dd3e49a95e22b478",
+        "x-memc-age": "4421",
+        "x-memc-expires": "23562",
+        "ETag": "W\/\"a4ae233d901e21e9b51bc3778fb55065\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "81KBlSTennV_cizPGDLfQO2bQ6DxnkPpoWFXzMBDuKv16cBv-pIUHQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rkOGxxYfhDQYB4E7V9QwsD1g18c.jpg\",\"belongs_to_collection\":null,\"budget\":1400000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":4780,\"imdb_id\":\"tt0074991\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Obsession\",\"overview\":\"A wealthy New Orleans businessman becomes obsessed with a young woman who resembles his wife.\",\"popularity\":29.71,\"poster_path\":\"\/bGjEQLp7aF3dT3nXv4gEXnG02TI.jpg\",\"production_companies\":[{\"id\":1762,\"logo_path\":null,\"name\":\"Yellowbird Productions\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1976-08-01\",\"revenue\":4468000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A bizarre story of love.\",\"title\":\"Obsession\",\"video\":false,\"vote_average\":6.603,\"vote_count\":276}"
+}

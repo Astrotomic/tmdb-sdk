@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1685",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14263",
+        "x-memc": "HIT",
+        "x-memc-key": "2127343520ba22ccf80ac8ccb8085c73",
+        "x-memc-age": "9624",
+        "x-memc-expires": "14263",
+        "ETag": "W\/\"ac1523805d800f2466de486d74b4622e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gQpLtrMIkOjzJXUyonbSSPWjPEqWjmSUXcfpohdx2BQNe4tSIkKXPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iOUhnp01rP9Xr5QG66LMAKSDkYv.jpg\",\"belongs_to_collection\":{\"id\":557669,\"name\":\"Lemmy Caution Series\",\"poster_path\":\"\/qdAP6y0bdaA5XxMcKwpMjBD1rEv.jpg\",\"backdrop_path\":\"\/oEbZCVG4IHYzopyXrbBcMDf7fJB.jpg\"},\"budget\":220000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":8072,\"imdb_id\":\"tt0058898\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Alphaville, une \u00e9trange aventure de Lemmy Caution\",\"overview\":\"Lemmy Caution is on a mission to eliminate Professor Von Braun, the creator of a malevolent computer that rules the city of Alphaville. Befriended by the scientist\u2019s daughter Natasha, Lemmy must unravel the mysteries of the strictly logical Alpha 60 and teach Natasha the meaning of the word \u201clove.\u201d\",\"popularity\":18.078,\"poster_path\":\"\/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg\",\"production_companies\":[{\"id\":46654,\"logo_path\":null,\"name\":\"Filmstudio\",\"origin_country\":\"\"},{\"id\":54659,\"logo_path\":null,\"name\":\"Athos Films\",\"origin_country\":\"FR\"},{\"id\":63558,\"logo_path\":null,\"name\":\"Chaumiane\",\"origin_country\":\"\"},{\"id\":167776,\"logo_path\":null,\"name\":\"Andr\u00e9 Michelin Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1965-05-05\",\"revenue\":46585,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Suddenly the word is Alphaville... and a secret agent is in a breathless race against the Masters of the Future.\",\"title\":\"Alphaville\",\"video\":false,\"vote_average\":6.985,\"vote_count\":512}"
+}

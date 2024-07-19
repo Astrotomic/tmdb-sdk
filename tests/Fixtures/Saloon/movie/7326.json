@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1278",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8306",
+        "x-memc": "HIT",
+        "x-memc-key": "15f92b2b4ae330bd319ed6ef8fbfda1d",
+        "x-memc-age": "18508",
+        "x-memc-expires": "8306",
+        "ETag": "W\/\"2470875a75e8bbfc9f2709fbe7bb6f00\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Dk1JqlIsQ3-wLSptrt5jZB_xAMCgdWe6pzDBcLbpsUhAnH9mHsR56g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sRXMmeNHTSWRYdDz3zaHNyyPJ0u.jpg\",\"belongs_to_collection\":null,\"budget\":7500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.foxsearchlight.com\/juno\/\",\"id\":7326,\"imdb_id\":\"tt0467406\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Juno\",\"overview\":\"Faced with an unplanned pregnancy, sixteen year old high-schooler, Juno MacGuff, makes an unusual decision regarding her unborn child.\",\"popularity\":50.68,\"poster_path\":\"\/jNIn2tVhpvFD6P9IojldI3mNYcn.jpg\",\"production_companies\":[{\"id\":771,\"logo_path\":null,\"name\":\"Mandate Pictures\",\"origin_country\":\"US\"},{\"id\":2130,\"logo_path\":\"\/g0lqeY2FvhzXcOI6z8RVXbORRUY.png\",\"name\":\"Mr. Mudd Production\",\"origin_country\":\"US\"},{\"id\":43,\"logo_path\":\"\/4RgIPr55kBakgupWkzdDxqXJEqr.png\",\"name\":\"Fox Searchlight Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-05\",\"revenue\":232372681,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A comedy about growing up\u2026 and the bumps along the way.\",\"title\":\"Juno\",\"video\":false,\"vote_average\":7.054,\"vote_count\":7032}"
+}

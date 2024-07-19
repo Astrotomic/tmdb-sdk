@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "928",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15443",
+        "x-memc": "HIT",
+        "x-memc-key": "8ee073a04b8bdc27291613a20a5fb05a",
+        "x-memc-age": "8070",
+        "x-memc-expires": "15443",
+        "ETag": "W\/\"8e6d957edb69f669c61cd307b5ba9326\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u5Hl5ZEwrRG6jZ3EdIj8yxJzW_0dzCg1lawvYxe0f88_n2r-S7RxTA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/63Zvrc9bmMUvdy6h8fm41hejdSe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1246359,\"imdb_id\":\"tt31369844\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Kazooboy Files\",\"overview\":\"Take a deep dive and discover the Kazooboy you thought you knew in this all-new (not murder) documentary, The Kazooboy Files!\",\"popularity\":1.071,\"poster_path\":\"\/skXLG9aJs3Sf5lQ4V2nGleyXWHV.jpg\",\"production_companies\":[{\"id\":221087,\"logo_path\":null,\"name\":\"Spinball Studios\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2023-08-25\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"(Definitely not a murder documentary)\",\"title\":\"The Kazooboy Files\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

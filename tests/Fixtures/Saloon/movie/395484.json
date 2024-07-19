@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "944",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21555",
+        "x-memc": "HIT",
+        "x-memc-key": "222de112b1f13e446b8e64ae266c8a64",
+        "x-memc-age": "4991",
+        "x-memc-expires": "21555",
+        "ETag": "W\/\"872105850fc1ef1508580ba19ed7c2b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w3fg_Myb63GLQKR9wcFcoy0sCjNm5O-7nDGXimyQM6G0egZSdWyRiQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395484,\"imdb_id\":\"\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Irrational Fear of Nothing\",\"overview\":\"The camera lingers over the back of a lonely New Yorker who ponders his own existence, his fears and fear of fears.\\r Shot with an Olympus E-M5 Mark II as part of a film series to promote the camera system.\",\"popularity\":1.34,\"poster_path\":null,\"production_companies\":[{\"id\":7400,\"logo_path\":null,\"name\":\"Olympus Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-04-30\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Irrational Fear of Nothing\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

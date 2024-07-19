@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1196",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16611",
+        "x-memc": "HIT",
+        "x-memc-key": "0b2b4d62259c6d58cd32be099a9d908d",
+        "x-memc-age": "6474",
+        "x-memc-expires": "16611",
+        "ETag": "W\/\"b2f27386c7e93b78b8459a23e6eefed5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9Hf0YUJGSKoiWa5mNuQAi61R_ElW0Qsfe-BOJxr4e2asyHpXjIxnvg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fX1DFPMZYsRG17BmMPJAKUaBZEz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":877,\"imdb_id\":\"tt0023427\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Scarface\",\"overview\":\"In 1920s Chicago, Italian immigrant and notorious thug, Antonio 'Tony' Camonte, aka Scarface, shoots his way to the top of the mobs while trying to protect his sister from the criminal life.\",\"popularity\":28.799,\"poster_path\":\"\/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg\",\"production_companies\":[{\"id\":13866,\"logo_path\":null,\"name\":\"The Caddo Company\",\"origin_country\":\"\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1932-04-09\",\"revenue\":600000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The rise and fall of a power hungry mobster.\",\"title\":\"Scarface\",\"video\":false,\"vote_average\":7.459,\"vote_count\":580}"
+}

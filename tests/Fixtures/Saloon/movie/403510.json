@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1478",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6041",
+        "x-memc": "HIT",
+        "x-memc-key": "04650fbc8ac0d73d675ab0696f82e527",
+        "x-memc-age": "22279",
+        "x-memc-expires": "6041",
+        "ETag": "W\/\"81f7f62b3bde7aeb31431afe2cbeffa1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OUR4OHjAs-oaFFFPlJ7H6EeD3IEaqLuSp3RZHD1nbTkoAvK3AYMyBg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6cXwjZTHRSFTgEvNdnKUw93Pnv6.jpg\",\"belongs_to_collection\":{\"id\":739616,\"name\":\"Tom and Jerry in Oz Collection\",\"poster_path\":\"\/5J9eag77oH63ccsSK7zizq7SbdI.jpg\",\"backdrop_path\":\"\/acyoxd94FcVfppyuALMceMkMfYe.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":403510,\"imdb_id\":\"tt5737408\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tom and Jerry: Back to Oz\",\"overview\":\"After capturing the good witch, the villainous King Gnome creates havoc throughout Oz as he needs Dorothy's ruby slippers to take control of the Emerald City. So, it is up to Tom and Jerry to save the land of Oz!\",\"popularity\":11.932,\"poster_path\":\"\/kilE7AJV1gEecTzW51XNi8YHBvs.jpg\",\"production_companies\":[{\"id\":8922,\"logo_path\":\"\/yZWehAyjfKi4KvKeg1bkJ1bm5H8.png\",\"name\":\"Turner Entertainment\",\"origin_country\":\"US\"},{\"id\":2785,\"logo_path\":\"\/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png\",\"name\":\"Warner Bros. Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-21\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"We're off to see Tom and Jerry, in an all-new movie!\",\"title\":\"Tom and Jerry: Back to Oz\",\"video\":false,\"vote_average\":5.855,\"vote_count\":55}"
+}

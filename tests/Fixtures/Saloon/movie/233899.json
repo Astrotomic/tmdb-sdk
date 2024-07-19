@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1047",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22811",
+        "x-memc": "HIT",
+        "x-memc-key": "3d3e895f507c1152af0afe97a61757aa",
+        "x-memc-age": "2476",
+        "x-memc-expires": "22811",
+        "ETag": "W\/\"726dba0fd2e7d447900dc96887ee7eb8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XwYtKKsx_7Ol7FLZt5twR74pRkc1Vqsc_MIRa186nmmzEyrHYm8pYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nRiSff8u6FrEPK7kxCqU6MEijb7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":233899,\"imdb_id\":\"tt0053572\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"L'Affaire d'une nuit\",\"overview\":\"Michel Ferr\u00e9ol reluctantly meets up with an old school friend, Antoine Fiesco. Michel didn\u2019t like Antoine much when they were at school and tries to get away by making an excuse. He changes his mind when Antoine introduces him to his wife, a beautiful brunette named Christine.\",\"popularity\":5.418,\"poster_path\":\"\/jpq1g9m9zzRkDfrsU4HZbWg467y.jpg\",\"production_companies\":[{\"id\":65538,\"logo_path\":null,\"name\":\"Prog\u00e9fi\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1960-09-13\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"It Happened All Night\",\"video\":false,\"vote_average\":4.8,\"vote_count\":5}"
+}

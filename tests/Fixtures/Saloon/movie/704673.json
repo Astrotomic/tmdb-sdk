@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1147",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6352",
+        "x-memc": "HIT",
+        "x-memc-key": "3e065384460f193dcffef430f2331f8c",
+        "x-memc-age": "16706",
+        "x-memc-expires": "6352",
+        "ETag": "W\/\"6f59afa3b9b14a3299eb24b31bcc0a30\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1rr9CD22FNnOyILF6Baw0MXPbACCD0GKRysp_Q4tbSbSECopGt91ug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aATi2PtaOQCVAquCym6OU0Z4FjY.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81064546\",\"id\":704673,\"imdb_id\":\"tt5834874\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Trigger Warning\",\"overview\":\"A Special Forces commando uncovers a dangerous conspiracy when she returns to her hometown looking for answers into her beloved father's death.\",\"popularity\":899.359,\"poster_path\":\"\/lJN24nn28s5afC1UnLPYRgYOp1K.jpg\",\"production_companies\":[{\"id\":3528,\"logo_path\":\"\/cCzCClIzIh81Fa79hpW5nXoUsHK.png\",\"name\":\"Thunder Road\",\"origin_country\":\"US\"},{\"id\":218228,\"logo_path\":null,\"name\":\"Mexican Spitfire\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-20\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Vengeance becomes her.\",\"title\":\"Trigger Warning\",\"video\":false,\"vote_average\":5.86,\"vote_count\":325}"
+}

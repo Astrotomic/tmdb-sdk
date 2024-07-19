@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1564",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8054",
+        "x-memc": "HIT",
+        "x-memc-key": "2663b8b5ac11bb457266b11310b5b03e",
+        "x-memc-age": "17714",
+        "x-memc-expires": "8054",
+        "ETag": "W\/\"3ae66a8ff1a36c8cac9f639f9d6e9ff3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M6PgS5ilI76NOzy83KXNaW_zC0sZ12jWTBM0BMgTHbvx_H-5jLruvA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y8Rmadbft60Cupx6SmSvy8rHENH.jpg\",\"belongs_to_collection\":{\"id\":261307,\"name\":\"Alice in Wonderland Collection\",\"poster_path\":\"\/6H5d0Dx6Pq3jZUOjzJQsKlloWII.jpg\",\"backdrop_path\":\"\/y8Rmadbft60Cupx6SmSvy8rHENH.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/disney.go.com\/wonderland\/\",\"id\":12155,\"imdb_id\":\"tt1014759\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Alice in Wonderland\",\"overview\":\"Alice, now 19 years old, returns to the whimsical world she first entered as a child and embarks on a journey to discover her true destiny.\",\"popularity\":130.564,\"poster_path\":\"\/o0kre9wRCZz3jjSjaru7QU0UtFz.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":16314,\"logo_path\":null,\"name\":\"Roth Films\",\"origin_country\":\"US\"},{\"id\":598,\"logo_path\":null,\"name\":\"Team Todd\",\"origin_country\":\"US\"},{\"id\":8601,\"logo_path\":null,\"name\":\"Tim Burton Productions\",\"origin_country\":\"US\"},{\"id\":80,\"logo_path\":null,\"name\":\"The Zanuck Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-03-03\",\"revenue\":1025467110,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You're invited to a very important date.\",\"title\":\"Alice in Wonderland\",\"video\":false,\"vote_average\":6.635,\"vote_count\":13679}"
+}

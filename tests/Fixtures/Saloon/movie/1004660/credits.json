@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=860",
+        "x-memc": "HIT",
+        "x-memc-key": "66c59e6a319122b690e166321640ef07",
+        "x-memc-age": "26145",
+        "x-memc-expires": "860",
+        "ETag": "W\/\"b539b0a48576b9ac17e72dc06d313e23\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jwqRasmcZiKLs_a37Jt7AAC-ebhoQl4OT4p3ChJksvYvQa9m-_5Urw=="
+    },
+    "data": "{\"id\":1004660,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":1494245,\"known_for_department\":\"Acting\",\"name\":\"Susanne Bohlmann\",\"original_name\":\"Susanne Bohlmann\",\"popularity\":1.861,\"profile_path\":null,\"credit_id\":\"62dfc2845aba32005d1cce8a\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1494177,\"known_for_department\":\"Acting\",\"name\":\"Christopher Hawkins\",\"original_name\":\"Christopher Hawkins\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62dfc2ac5aba32004d1e2a63\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":57766,\"known_for_department\":\"Sound\",\"name\":\"Paul R\u00e4biger\",\"original_name\":\"Paul R\u00e4biger\",\"popularity\":2.07,\"profile_path\":null,\"credit_id\":\"62dfc2d25aba320050d6ef33\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":3637802,\"known_for_department\":\"Crew\",\"name\":\"Lars Filthaut\",\"original_name\":\"Lars Filthaut\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62dfc30f1dbc880672d00514\",\"department\":\"Crew\",\"job\":\"Cinematography\"},{\"adult\":false,\"gender\":0,\"id\":2591319,\"known_for_department\":\"Camera\",\"name\":\"Anna Baranowski\",\"original_name\":\"Anna Baranowski\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62dfc32a5ca7040b2ad35905\",\"department\":\"Crew\",\"job\":\"Cinematography\"},{\"adult\":false,\"gender\":0,\"id\":2535578,\"known_for_department\":\"Sound\",\"name\":\"Jana Irmert\",\"original_name\":\"Jana Irmert\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62e023bce9da691496f3d106\",\"department\":\"Sound\",\"job\":\"Sound Designer\"},{\"adult\":false,\"gender\":0,\"id\":1730051,\"known_for_department\":\"Sound\",\"name\":\"Nils Vogel\",\"original_name\":\"Nils Vogel\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62e023c846f354004d73bd94\",\"department\":\"Sound\",\"job\":\"Sound Mixer\"},{\"adult\":false,\"gender\":0,\"id\":3638225,\"known_for_department\":\"Camera\",\"name\":\"Niklas Kern\",\"original_name\":\"Niklas Kern\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"62e023d6481382004cbd8f16\",\"department\":\"Camera\",\"job\":\"Camera Operator\"}]}"
+}

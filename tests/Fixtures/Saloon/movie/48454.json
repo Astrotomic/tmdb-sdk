@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1735",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14431",
+        "x-memc": "HIT",
+        "x-memc-key": "622b767011945f8b87cddf41d751695f",
+        "x-memc-age": "9825",
+        "x-memc-expires": "14431",
+        "ETag": "W\/\"2939f6aa1ceb3eb36d8e4bab4831b3ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aV7Y9qt34wPt5LaezKbsoxKh1_FbJzjT8TuzbeutK_d3NUEDDp0wgA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":48454,\"imdb_id\":\"tt0374312\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Eliminator\",\"overview\":\"Former LAPD cop, Dakota Varley, enters a power boat race seeking the prize of $250,000, but immediately discovers, first hand, that this race's risk matches the prize: one racer is killed, 3 others seriously injured in multiple action-packed crashes and explosions. Varley tries to leave the lake and collect his prize money but is drugged and kidnapped by Dawson and thrown into a different world: a world where survival means everything and no-one follows the rules. Surrounded by heavily-armed men, he soon learns that he and six other victims have been assembled to be contestants in the ultimate survival game: they will be hunted nightly by hunters with rifles until there is one remaining survivor, who will win a $10,000,000 cash prize!\",\"popularity\":5.611,\"poster_path\":\"\/gehabQdNDNomS1yAY6WRUzJKwuI.jpg\",\"production_companies\":[{\"id\":102811,\"logo_path\":null,\"name\":\"Shadowbox Pictures\",\"origin_country\":\"\"},{\"id\":102812,\"logo_path\":null,\"name\":\"Snow Tiger Productions LLC\",\"origin_country\":\"\"},{\"id\":37009,\"logo_path\":null,\"name\":\"Tritan Northstar Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-07-06\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Hunter Becomes the Hunted.\",\"title\":\"The Eliminator\",\"video\":false,\"vote_average\":4.25,\"vote_count\":4}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "965",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=833",
+        "x-memc": "HIT",
+        "x-memc-key": "d390941155d16465730632405eedac54",
+        "x-memc-age": "27758",
+        "x-memc-expires": "833",
+        "ETag": "W\/\"8f60bf01733e5ddb14203665d31a0192\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QM8bW1OnTgdkVARFBNinh0joU_xhET7RDzGt_SGwC2EIXYU-myMqOQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":702154,\"imdb_id\":\"tt3538364\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Sanguinolenta venganza\",\"overview\":\"\\\"The Vengador\\\", always concerned about society and mainly about young people, is like a father to Saul and Robert. He always guides them on the right path. Unfortunately, Robert is killed and this fighter will not rest until he avenges him.\",\"popularity\":2.456,\"poster_path\":\"\/auZK8rb8O6hvYKtq7IWHmtZ0q3O.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1997-04-03\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sanguinolenta venganza\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

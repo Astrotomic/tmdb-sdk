@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1141",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14363",
+        "x-memc": "HIT",
+        "x-memc-key": "38f40a943e19c7781c868cebf6d02ab2",
+        "x-memc-age": "7908",
+        "x-memc-expires": "14363",
+        "ETag": "W\/\"1397bcbf95cadd7d5c3f7268da51ec54\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_1y1-I4gPORfDxn76U2f1abuCg9BLNP4jc8d4f-paTe9_iNEGKeoTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gxmL7J38OiAWO6xvcOI7IXhGAJ.jpg\",\"belongs_to_collection\":null,\"budget\":2033000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":10907,\"imdb_id\":\"tt0029843\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Adventures of Robin Hood\",\"overview\":\"Robin Hood fights nobly for justice against the evil Sir Guy of Gisbourne while striving to win the hand of the beautiful Maid Marian.\",\"popularity\":27.221,\"poster_path\":\"\/c7LX3GMf9uXQTgVm3uxpm7E6Woc.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-05-13\",\"revenue\":3981000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Excitement... Danger... Suspense... as this classic adventure story sweeps across the screen!\",\"title\":\"The Adventures of Robin Hood\",\"video\":false,\"vote_average\":7.5,\"vote_count\":720}"
+}

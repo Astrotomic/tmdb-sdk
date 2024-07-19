@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1153",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15554",
+        "x-memc": "HIT",
+        "x-memc-key": "2f6a5e0ee54247970726f601c179c411",
+        "x-memc-age": "10741",
+        "x-memc-expires": "15554",
+        "ETag": "W\/\"949fcb96b411d17d2c3f61ed0206e06d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yMt8UHUS6r022loElGjqQz2HyWFZxSLp2qHB4QNYM7qd4G465WLMoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uMNuan4aOt7parK8YjT0bYoKC2J.jpg\",\"belongs_to_collection\":null,\"budget\":12460000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1154215,\"imdb_id\":\"tt28336131\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Elyas\",\"overview\":\"A former Special Forces soldier who has become solitary and paranoid since serving Afghanistan and recruited to provide the security for Amina and her daughter Nour.\",\"popularity\":10.661,\"poster_path\":\"\/dB6ojZkXfk6JFYaqZTTDUK8wj9O.jpg\",\"production_companies\":[{\"id\":13318,\"logo_path\":null,\"name\":\"R\u00e9cifilms\",\"origin_country\":\"FR\"},{\"id\":83,\"logo_path\":\"\/9OQ0rm55xtlgX7KcAKMUePJSrQc.png\",\"name\":\"France 2 Cin\u00e9ma\",\"origin_country\":\"FR\"},{\"id\":15433,\"logo_path\":\"\/9nnaDAbuHwbikxAV1t1BC2Z60GC.png\",\"name\":\"Orange Studio\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-07-03\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Elyas\",\"video\":false,\"vote_average\":6.273,\"vote_count\":12}"
+}

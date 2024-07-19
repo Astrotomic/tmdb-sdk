@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1532",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:41:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14164",
+        "x-memc": "HIT",
+        "x-memc-key": "ce71d65908d29812faf03d4ad5af3813",
+        "x-memc-age": "9762",
+        "x-memc-expires": "14164",
+        "ETag": "W\/\"0dbb00e3a3b1b8383c355f2a7c334442\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UEfRF2HWOqLN5rwbjGWY1ehXFpUpcUs40IX_c7L6ryn5LTJH_1HyoQ=="
+    },
+    "data": "{\"id\":1182454,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":3567876,\"known_for_department\":\"Directing\",\"name\":\"Ben Gaudet\",\"original_name\":\"Ben Gaudet\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"The Killer\/The Victims\",\"credit_id\":\"650f13b2e1faed00c615ef72\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":3567876,\"known_for_department\":\"Directing\",\"name\":\"Ben Gaudet\",\"original_name\":\"Ben Gaudet\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"650f13c53a4a1200ff4e4940\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":3567876,\"known_for_department\":\"Directing\",\"name\":\"Ben Gaudet\",\"original_name\":\"Ben Gaudet\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"650f13cf6f53e10aa5d2a509\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":3567876,\"known_for_department\":\"Directing\",\"name\":\"Ben Gaudet\",\"original_name\":\"Ben Gaudet\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"650f13fea9117f00ab6875c5\",\"department\":\"Costume \\u0026 Make-Up\",\"job\":\"Special Effects Makeup Artist\"},{\"adult\":false,\"gender\":2,\"id\":3567876,\"known_for_department\":\"Directing\",\"name\":\"Ben Gaudet\",\"original_name\":\"Ben Gaudet\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"650f141a26dac100eb199728\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":2146928,\"known_for_department\":\"Sound\",\"name\":\"Micky Engels\",\"original_name\":\"Micky Engels\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"650f1431e8d0b4014e0db4ff\",\"department\":\"Sound\",\"job\":\"Music\"}]}"
+}

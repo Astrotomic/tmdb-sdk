@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "886",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10192",
+        "x-memc": "HIT",
+        "x-memc-key": "fd010ae60c0a23d7316ee4ea484dbcb4",
+        "x-memc-age": "11981",
+        "x-memc-expires": "10192",
+        "ETag": "W\/\"1a7843b273945918a8ee6e0714d03f81\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Roco5acUq9867njPj5HCjk2rsm4HFnO0DStbK3B3ORLshYTbwW2pqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1000000,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":235776,\"imdb_id\":\"tt0127489\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Clubland\",\"overview\":\"Kennedy is a rebellious, young musician who believes that talent and determination are all it takes to be a success. But as he and his loyal bandmates learn, success carries a heavy price .\",\"popularity\":2.912,\"poster_path\":\"\/ghExwgPSbaWK4XoE9hS7r6nou4y.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-04-16\",\"revenue\":18529,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Clubland\",\"video\":false,\"vote_average\":1.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1130",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3405",
+        "x-memc": "HIT",
+        "x-memc-key": "a22d29c53f3c55679342e061bac09d05",
+        "x-memc-age": "25265",
+        "x-memc-expires": "3405",
+        "ETag": "W\/\"af68ea393d9bd9c33d555269f9398052\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "smX8sy7BmpWPx9oMJNq6z6OoDdU7PZHDWzEHrU1nfaaHGPQ1_2lAnQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":496200,\"imdb_id\":\"tt5424980\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"El Demonio de los Andes\",\"overview\":\"El Demonio de los Andes, directed by Palito Ortega Matute, is based on the Andean myth of the Jarjacha, a demonic character set on destroying everyone it comes across.  The legend of the Jajacha has been passed down from generation to generation. Ortega Matute spoke to people who were told about it by their parents, who had been told the tale by their parents. He also listened to accounts from people who say they\u2019ve seen the demon with their own eyes.\",\"popularity\":4.476,\"poster_path\":\"\/wAU8RCEbuF5RvB3ToKS15xfKGMi.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"PE\",\"name\":\"Peru\"}],\"release_date\":\"2014-08-28\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Demon of the Andes\",\"video\":false,\"vote_average\":6.773,\"vote_count\":22}"
+}

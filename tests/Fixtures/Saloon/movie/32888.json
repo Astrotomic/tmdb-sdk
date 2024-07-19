@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1373",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22461",
+        "x-memc": "HIT",
+        "x-memc-key": "87ba3671a8335b7dd1ba61a366cc4105",
+        "x-memc-age": "333",
+        "x-memc-expires": "22461",
+        "ETag": "W\/\"8c250b7fc842a3103a1dee6df3aa996e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WLNglbkxUx_P2nKa-PNNULCPhY2CsOP2SwX35QeHx3DjRH1GOgQsEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dEiTwmcFOU5sMrfyd2mJc7IvCL9.jpg\",\"belongs_to_collection\":{\"id\":351228,\"name\":\"Ski School Collection\",\"poster_path\":\"\/3OAVa6G0WKJTV0jIWAkh0QymZ54.jpg\",\"backdrop_path\":\"\/zLqG75Hzzonjzogzg7y7cdvN21w.jpg\"},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":32888,\"imdb_id\":\"tt0114465\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Ski School 2\",\"overview\":\"Dave has been enjoying life until he receives an ex-girlfriend's wedding invitation. Even though Beth dumped him years ago, Dave knows it's their destiny to be together. So Dave embarks on a quest: to save Beth from certain death-by-boredom, return balance to the universe, and maybe get in a little awesome skiing. Dave convinces his buddies to join him in his quest to make things right.\",\"popularity\":6.11,\"poster_path\":\"\/lMGtv7QlDkyraMkYHW8JTL4Ln8W.jpg\",\"production_companies\":[{\"id\":58061,\"logo_path\":null,\"name\":\"Two Ski Productions\",\"origin_country\":\"\"},{\"id\":10345,\"logo_path\":null,\"name\":\"Active Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"1994-02-17\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ski School 2\",\"video\":false,\"vote_average\":3.9,\"vote_count\":27}"
+}

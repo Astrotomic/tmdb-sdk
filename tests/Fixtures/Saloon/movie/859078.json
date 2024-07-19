@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "956",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1178",
+        "x-memc": "HIT",
+        "x-memc-key": "d85957ea68620b42c7d091dfee3bd6ff",
+        "x-memc-age": "27504",
+        "x-memc-expires": "1178",
+        "ETag": "W\/\"bba21249a52baff824ac94e37480b41a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HRXZ0J8msnlFlPaSCR3b-0As1I4pEMhQfa8zQdv2CNgYekI9UarW4Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aEaVESKaBdsbxYzPsdrWm3REvLg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":859078,\"imdb_id\":\"tt15163768\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u4e94\u4e2a\u6251\u6c34\u7684\u5c11\u5e74\",\"overview\":\"Five high schoolers join the swim team by accident and find themselves in a situation where they have to complete a synchronized swimming performance.\",\"popularity\":6.515,\"poster_path\":\"\/zSzbpWmoZlgeyNsYJDjV5HmmJBx.jpg\",\"production_companies\":[{\"id\":17818,\"logo_path\":\"\/a0dRBd4hPab4KjmbiIJpNwRfIVD.png\",\"name\":\"Beijing Enlight Pictures\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2021-10-01\",\"revenue\":0,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Water Boys\",\"video\":false,\"vote_average\":6.8,\"vote_count\":5}"
+}

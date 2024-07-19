@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1128",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2085",
+        "x-memc": "HIT",
+        "x-memc-key": "05f439fad97ce3dfd4068b1ab66b93a4",
+        "x-memc-age": "23044",
+        "x-memc-expires": "2085",
+        "ETag": "W\/\"fc0e51064fd05e756d505f7a20a397d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qnHSQUAMGUehOhkp0rFkYsib4AQo2RtUxmXFzw1mA5d7gMWLh78PMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ww9pokP6M6gp2Iu0o3sT5B7eN66.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":547,\"imdb_id\":\"tt0119314\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Horse Whisperer\",\"overview\":\"The mother of a severely traumatized daughter enlists the aid of a unique horse trainer to help the girl's equally injured horse.\",\"popularity\":31.413,\"poster_path\":\"\/ptkDeHY2mRJVyNRyxb9TgyAjTYs.jpg\",\"production_companies\":[{\"id\":316,\"logo_path\":null,\"name\":\"Wildwood Enterprises\",\"origin_country\":\"US\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-02-01\",\"revenue\":186883563,\"runtime\":170,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Robert Redford Film\",\"title\":\"The Horse Whisperer\",\"video\":false,\"vote_average\":6.899,\"vote_count\":1073}"
+}

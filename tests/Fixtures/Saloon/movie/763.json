@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1372",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19306",
+        "x-memc": "HIT",
+        "x-memc-key": "4ea4983fb7bb012dc8047f715ff2127e",
+        "x-memc-age": "2789",
+        "x-memc-expires": "19306",
+        "ETag": "W\/\"121aa042b20df4783d3ef2dcaa80ac87\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "e4okljYu0EQRZhrok8bTYlbzxFvaJ3X-aaMKfEa_-d_FCM87mVcrIQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z07GWpT24sV7PDaaRKm71W63yAC.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":763,\"imdb_id\":\"tt0103873\",\"origin_country\":[\"US\",\"NZ\"],\"original_language\":\"en\",\"original_title\":\"Braindead\",\"overview\":\"When a Sumatran rat-monkey bites Lionel Cosgrove's mother, she's transformed into a zombie and begins killing (and transforming) the entire town while Lionel races to keep things under control.\",\"popularity\":24.882,\"poster_path\":\"\/hHMr2LvuNwmEJmJt7GfHvwDv1P1.jpg\",\"production_companies\":[{\"id\":11,\"logo_path\":\"\/6FAuASQHybRkZUk08p9PzSs9ezM.png\",\"name\":\"WingNut Films\",\"origin_country\":\"NZ\"},{\"id\":294,\"logo_path\":\"\/a05DY2oSeUOVFDM61RsQa9x9RoC.png\",\"name\":\"New Zealand Film Commission\",\"origin_country\":\"NZ\"},{\"id\":466,\"logo_path\":null,\"name\":\"Avalon\/NFU Studios\",\"origin_country\":\"NZ\"},{\"id\":4063,\"logo_path\":\"\/psOuT9ReSYhcBEB5ptnw7D2FdsE.png\",\"name\":\"Trimark Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"}],\"release_date\":\"1992-08-13\",\"revenue\":242623,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some things won't stay down... even after they die.\",\"title\":\"Braindead\",\"video\":false,\"vote_average\":7.395,\"vote_count\":1572}"
+}

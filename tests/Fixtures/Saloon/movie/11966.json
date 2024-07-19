@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1399",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10040",
+        "x-memc": "HIT",
+        "x-memc-key": "3e41a977186755847fec3c48efcf4f47",
+        "x-memc-age": "17363",
+        "x-memc-expires": "10040",
+        "ETag": "W\/\"38f9da1ca98a488b81975b87dbf0f52d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KUlkvEivoXIxoufpUVZGJl3SAMkW7FPbcjvHHrAqP7vRawnkvx8pig=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ygvEqM9DBcHgGMlp99XMRq83ESh.jpg\",\"belongs_to_collection\":{\"id\":86347,\"name\":\"Short Circuit Collection\",\"poster_path\":\"\/gU0WgYpbWfiZfZFnBvRrI51Pa0U.jpg\",\"backdrop_path\":\"\/6o0PEsENKA7DLIs2G2lAlD5WBrd.jpg\"},\"budget\":10000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11966,\"imdb_id\":\"tt0096101\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Short Circuit 2\",\"overview\":\"Robot Johnny 5 moves to the city to help his friend Ben Jahrvi with his toy manufacturing enterprise, only to be manipulated by criminals who want to use him for their own nefarious purposes.\",\"popularity\":26.803,\"poster_path\":\"\/gn9Wa1fgrje1uqxiBpFjGOjUT74.jpg\",\"production_companies\":[{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"},{\"id\":662,\"logo_path\":null,\"name\":\"The Turman-Foster Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-07-06\",\"revenue\":21600000,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The adventures of America's most electric leading man continue.\",\"title\":\"Short Circuit 2\",\"video\":false,\"vote_average\":6.183,\"vote_count\":575}"
+}

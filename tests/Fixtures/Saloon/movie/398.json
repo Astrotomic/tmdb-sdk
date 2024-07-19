@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1426",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8030",
+        "x-memc": "HIT",
+        "x-memc-key": "0639618ab61f8516daae188ec03bf7bd",
+        "x-memc-age": "15695",
+        "x-memc-expires": "8030",
+        "ETag": "W\/\"e05238d76ce02e2ddbc8d08bf8bd35ae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "frpAL5XceOSBE3RkoU24lJusmTs4cNkAoC2QownUeaG8kQbJXny-bg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/taOYgqsAQz5nugWXw3KnS6VmJmx.jpg\",\"belongs_to_collection\":null,\"budget\":7000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.sonyclassics.com\/capote\/\",\"id\":398,\"imdb_id\":\"tt0379725\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Capote\",\"overview\":\"A biopic of writer Truman Capote and his assignment for The New Yorker to write the non-fiction book \\\"In Cold Blood\\\".\",\"popularity\":13.086,\"poster_path\":\"\/k7z0tDxzbDNev7F8l3Y56Pk5seR.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":58,\"logo_path\":\"\/voYCwlBHJQANtjvm5MNIkCF1dDH.png\",\"name\":\"Sony Pictures Classics\",\"origin_country\":\"US\"},{\"id\":54281,\"logo_path\":null,\"name\":\"A-Line Pictures\",\"origin_country\":\"\"},{\"id\":213,\"logo_path\":null,\"name\":\"Cooper's Town Productions\",\"origin_country\":\"\"},{\"id\":54280,\"logo_path\":null,\"name\":\"Infinity Media\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-09-30\",\"revenue\":49327405,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In New York City, he was the ultimate insider. But out here, he was on the outside, looking in.\",\"title\":\"Capote\",\"video\":false,\"vote_average\":6.991,\"vote_count\":1402}"
+}

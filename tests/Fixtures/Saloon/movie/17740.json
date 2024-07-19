@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1127",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11265",
+        "x-memc": "HIT",
+        "x-memc-key": "4df037c240877910c1dd70ef22d4528d",
+        "x-memc-age": "13989",
+        "x-memc-expires": "11265",
+        "ETag": "W\/\"be0bf1f18747348011ac7aae6788c151\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EHgrcVnz3nT0IdrFAcuZQuZgygAPQB8tK3yFkkhlTTKAfETHFKaUXg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9BER1lhqhDP7P19Fb19zS0NhXOx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.powderbluemovie.com\/\",\"id\":17740,\"imdb_id\":\"tt1032819\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Powder Blue\",\"overview\":\"On the gritty streets of LA, the destinies of four people desperate for connection and redemption are about to collide.\",\"popularity\":19.693,\"poster_path\":\"\/o1wQcqOoQQF7tt1HijnmQRLjTo4.jpg\",\"production_companies\":[{\"id\":3378,\"logo_path\":null,\"name\":\"Blue Snow Productions\",\"origin_country\":\"\"},{\"id\":3379,\"logo_path\":null,\"name\":\"Eleven Eleven Films\",\"origin_country\":\"\"},{\"id\":3380,\"logo_path\":null,\"name\":\"Spirit Dance Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-05-08\",\"revenue\":17835,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Every life has a breaking point\",\"title\":\"Powder Blue\",\"video\":false,\"vote_average\":6.1,\"vote_count\":212}"
+}

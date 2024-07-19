@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1793",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25133",
+        "x-memc": "HIT",
+        "x-memc-key": "941e0225602b6d0963c1a99e27930f72",
+        "x-memc-age": "1621",
+        "x-memc-expires": "25133",
+        "ETag": "W\/\"1111acfa97abbd6290f9153c9b683218\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_fxXIUC3dCtGYP0aReHYIZ7NVbvO4r9tuUBATBHKNkE8OSXSXZtOSg=="
+    },
+    "data": "{\"id\":391448,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1601280,\"known_for_department\":\"Acting\",\"name\":\"Campbell Gullan\",\"original_name\":\"Campbell Gullan\",\"popularity\":2.125,\"profile_path\":null,\"cast_id\":0,\"character\":\"\",\"credit_id\":\"5703af7bc3a36822bd001498\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1601281,\"known_for_department\":\"Acting\",\"name\":\"Marjorie Day\",\"original_name\":\"Marjorie Day\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"5703af839251416251001225\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1025905,\"known_for_department\":\"Acting\",\"name\":\"J. Fisher White\",\"original_name\":\"J. Fisher White\",\"popularity\":1.022,\"profile_path\":\"\/rLiqGKi2Z0DkZIKa5nyfbcBymTI.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"5703af8ac3a36822bb0011af\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":1114773,\"known_for_department\":\"Acting\",\"name\":\"James Lindsay\",\"original_name\":\"James Lindsay\",\"popularity\":1.089,\"profile_path\":null,\"cast_id\":3,\"character\":\"\",\"credit_id\":\"5703af9392514162660010bb\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":1601282,\"known_for_department\":\"Acting\",\"name\":\"Joan Vivian Reese\",\"original_name\":\"Joan Vivian Reese\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"\",\"credit_id\":\"5703afa0c3a36822c00013fe\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1112936,\"known_for_department\":\"Writing\",\"name\":\"Eug\u00e8ne Brieux\",\"original_name\":\"Eug\u00e8ne Brieux\",\"popularity\":0.607,\"profile_path\":null,\"credit_id\":\"5703afc59251417388000f7a\",\"department\":\"Writing\",\"job\":\"Theatre Play\"},{\"adult\":false,\"gender\":0,\"id\":1601283,\"known_for_department\":\"Directing\",\"name\":\"Alexander Butler\",\"original_name\":\"Alexander Butler\",\"popularity\":0.719,\"profile_path\":null,\"credit_id\":\"5703afb99251417994000170\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

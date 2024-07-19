@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3877",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:35:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1565",
+        "x-memc": "HIT",
+        "x-memc-key": "6b3d41136acaa69e37c52465eeaee1a5",
+        "x-memc-age": "23711",
+        "x-memc-expires": "1565",
+        "ETag": "W\/\"cc4284147eb98d587c1c9183aeed483d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bVCLybRgdN5IiSsGqCDM7zYxbxmsMVjUztiqir91HFRg3Lc930nc3w=="
+    },
+    "data": "{\"id\":1259422,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":4582580,\"known_for_department\":\"Directing\",\"name\":\"Holden Hall\",\"original_name\":\"Holden Hall\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Leon Kennedy\",\"credit_id\":\"65f3cd473852020163e1d8fc\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":4582584,\"known_for_department\":\"Acting\",\"name\":\"Milo Young\",\"original_name\":\"Milo Young\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Mario Fernandez\",\"credit_id\":\"65f3cd617390c00187a99380\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":4582577,\"known_for_department\":\"Acting\",\"name\":\"Joshua Worden\",\"original_name\":\"Joshua Worden\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"House Zombie\",\"credit_id\":\"65f3cd75595a560163053166\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":4582582,\"known_for_department\":\"Acting\",\"name\":\"TJ Barr (Gingybread)\",\"original_name\":\"TJ Barr (Gingybread)\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Dispatcher\",\"credit_id\":\"65f3cdd524f2ce0162161a89\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":4593556,\"known_for_department\":\"Acting\",\"name\":\"Timothy Ramirez\",\"original_name\":\"Timothy Ramirez\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Chainsaw Zombie\",\"credit_id\":\"65f3cdeda698cf0186f67ce4\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":4593557,\"known_for_department\":\"Acting\",\"name\":\"Ryne Farrell\",\"original_name\":\"Ryne Farrell\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"Extra\",\"credit_id\":\"65f3ce0aa698cf0186f67d40\",\"order\":5},{\"adult\":false,\"gender\":0,\"id\":4593558,\"known_for_department\":\"Acting\",\"name\":\"Gabe Rewerts\",\"original_name\":\"Gabe Rewerts\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":7,\"character\":\"Extra\",\"credit_id\":\"65f3ce18595a5601630532b5\",\"order\":6}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4582582,\"known_for_department\":\"Acting\",\"name\":\"TJ Barr (Gingybread)\",\"original_name\":\"TJ Barr (Gingybread)\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3ce4ca313b8018526e27d\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4582582,\"known_for_department\":\"Acting\",\"name\":\"TJ Barr (Gingybread)\",\"original_name\":\"TJ Barr (Gingybread)\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3ce697390c00187a995b5\",\"department\":\"Production\",\"job\":\"Production Manager\"},{\"adult\":false,\"gender\":2,\"id\":4582580,\"known_for_department\":\"Directing\",\"name\":\"Holden Hall\",\"original_name\":\"Holden Hall\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3ce7a595a560163053389\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4582582,\"known_for_department\":\"Acting\",\"name\":\"TJ Barr (Gingybread)\",\"original_name\":\"TJ Barr (Gingybread)\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3d5b97390c0014ba99114\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":false,\"gender\":0,\"id\":4582582,\"known_for_department\":\"Acting\",\"name\":\"TJ Barr (Gingybread)\",\"original_name\":\"TJ Barr (Gingybread)\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3d5ff24f2ce01621626f2\",\"department\":\"Crew\",\"job\":\"Production Artist\"},{\"adult\":false,\"gender\":2,\"id\":4582580,\"known_for_department\":\"Directing\",\"name\":\"Holden Hall\",\"original_name\":\"Holden Hall\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3d6241fa1c801965bbe67\",\"department\":\"Crew\",\"job\":\"Production Artist\"},{\"adult\":false,\"gender\":0,\"id\":4593556,\"known_for_department\":\"Acting\",\"name\":\"Timothy Ramirez\",\"original_name\":\"Timothy Ramirez\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3d635a313b8018527006a\",\"department\":\"Crew\",\"job\":\"Production Artist\"},{\"adult\":false,\"gender\":0,\"id\":4582582,\"known_for_department\":\"Acting\",\"name\":\"TJ Barr (Gingybread)\",\"original_name\":\"TJ Barr (Gingybread)\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"65f3d648a313b801852700be\",\"department\":\"Art\",\"job\":\"Prop Designer\"}]}"
+}

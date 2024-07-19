@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "230",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16478",
+        "x-memc": "HIT",
+        "x-memc-key": "2a13d8b879c32feeefa054bc1fcfed86",
+        "x-memc-age": "11631",
+        "x-memc-expires": "16478",
+        "ETag": "W\/\"48147bd5041e4fb83579a5f6fba17318\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jlzrevqoM8rNsrWRuYReJKexz0we-XW56xoZxmxpYU_I1-MclEmqfQ=="
+    },
+    "data": "{\"id\":226640,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/226640-black-noon\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}]}}}"
+}

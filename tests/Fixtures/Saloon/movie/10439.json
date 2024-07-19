@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1468",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24901",
+        "x-memc": "HIT",
+        "x-memc-key": "c3b99d38d2954d8c3f210a6e953373e6",
+        "x-memc-age": "1215",
+        "x-memc-expires": "24901",
+        "ETag": "W\/\"e0dd77af732676f347b8777b92fbacc8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yFFhcQZgIS6uk2IU6Qda68LgTyoX4EOh1bt_S3DLIHsBsJvTJwGDKg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c4Fl1cWiXcq4uJdOQudQClFjhho.jpg\",\"belongs_to_collection\":{\"id\":751156,\"name\":\"Hocus Pocus Collection\",\"poster_path\":\"\/1w8K4Dt3WOyCPpe94HY0rA9UXUj.jpg\",\"backdrop_path\":\"\/ep3u73OsN6PSxed9TFJnWqjwrdO.jpg\"},\"budget\":28000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/movies.disney.com\/hocus-pocus\",\"id\":10439,\"imdb_id\":\"tt0107120\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hocus Pocus\",\"overview\":\"After 300 years of slumber, three sister witches are accidentally resurrected in Salem on Halloween night, and it is up to three kids and their newfound feline friend to put an end to the witches' reign of terror once and for all.\",\"popularity\":85.86,\"poster_path\":\"\/by4D4Q9NlUjFSEUA1yrxq6ksXmk.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":8830,\"logo_path\":null,\"name\":\"Touchwood Pacific Partners 1\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-07-16\",\"revenue\":50800000,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's just a bunch of Hocus Pocus.\",\"title\":\"Hocus Pocus\",\"video\":false,\"vote_average\":7.05,\"vote_count\":2904}"
+}

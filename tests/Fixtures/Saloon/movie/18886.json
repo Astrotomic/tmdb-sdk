@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1353",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8445",
+        "x-memc": "HIT",
+        "x-memc-key": "9e1167590ca6621213571e0e9a8f4e26",
+        "x-memc-age": "17471",
+        "x-memc-expires": "8445",
+        "ETag": "W\/\"4a4d90ef218f57caec3c65d51d6fda04\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mvNChxU4irV38Hr9-QsQjlD0I5LQzz7Sts_cZECexJGj2nuiUDow5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/g2r0hHf6rDevBR3lEaAz7RrEHNV.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":18886,\"imdb_id\":\"tt0099587\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Flight of the Intruder\",\"overview\":\"U.S. Navy pilot Lt. Jake Grafton and his bombardier buddy, Lt. Cmdr. Virgil Cole, are two soldiers embedded in the Vietnam War growing frustrated by the military's constraints on their missions. Despite the best efforts of their commanding officer, Cmdr. Frank Camparelli, to re-engage them, this disillusioned pair decide to take the war effort into their own hands with an explosive battle plan that could well get them court-martialed.\",\"popularity\":11.845,\"poster_path\":\"\/tzjCePBItSRfZxLnOd3KBGHQIJl.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-01-18\",\"revenue\":14587732,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The only thing they can count on is each other.\",\"title\":\"Flight of the Intruder\",\"video\":false,\"vote_average\":5.629,\"vote_count\":112}"
+}

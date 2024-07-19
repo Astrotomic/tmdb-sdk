@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1226",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25070",
+        "x-memc": "HIT",
+        "x-memc-key": "936df74eec7c08155d4e315b4a32c989",
+        "x-memc-age": "3113",
+        "x-memc-expires": "25070",
+        "ETag": "W\/\"303f09ae986bdbaec36783d5749212a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R4GonboU38Df4Ys5jw6P6Fsdfo2ypfNLvp20YavAYLw565Z0lMMOAw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v1QEIuBM1vvpvfqalahhIyXY0Cm.jpg\",\"belongs_to_collection\":{\"id\":372257,\"name\":\"The Poseidon Adventure Collection\",\"poster_path\":\"\/ngvcBGzUbPsUGaSSLOaVNG2lfLW.jpg\",\"backdrop_path\":\"\/kE3SAAQfWVkjJUZy1ohha8hy3LH.jpg\"},\"budget\":5000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":551,\"imdb_id\":\"tt0069113\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Poseidon Adventure\",\"overview\":\"When their ocean liner capsizes, a group of passengers struggle to survive and escape.\",\"popularity\":27.631,\"poster_path\":\"\/lIGloOrUtGDx6E4vUTGae9C1phJ.jpg\",\"production_companies\":[{\"id\":10281,\"logo_path\":null,\"name\":\"Kent Productions\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1972-12-13\",\"revenue\":84563118,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Hell, upside down.\",\"title\":\"The Poseidon Adventure\",\"video\":false,\"vote_average\":7.102,\"vote_count\":850}"
+}

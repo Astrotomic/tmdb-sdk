@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1435",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18084",
+        "x-memc": "HIT",
+        "x-memc-key": "5159ad33095ddd043794751d25615b2d",
+        "x-memc-age": "4941",
+        "x-memc-expires": "18084",
+        "ETag": "W\/\"ba3f9f21a7949cdfd532b62718cc5f49\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9sTZSDcdso8iOWlpVo8649-5T9S7jgY6bFpax_KlznTlhI0r2JvY-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":666035,\"imdb_id\":\"tt15791574\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wanted Man\",\"overview\":\"Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.\",\"popularity\":23.747,\"poster_path\":\"\/pmdgdb8biQLLzTjySZLPdK13KwM.jpg\",\"production_companies\":[{\"id\":128107,\"logo_path\":null,\"name\":\"Red Orm Productions Inc.\",\"origin_country\":\"US\"},{\"id\":52256,\"logo_path\":null,\"name\":\"Thor Pictures\",\"origin_country\":\"\"},{\"id\":125231,\"logo_path\":\"\/snGfhwT46aqKWhP8izedkL48aZY.png\",\"name\":\"Wonder Street\",\"origin_country\":\"US\"},{\"id\":1020,\"logo_path\":\"\/kuUIHNwMec4dwOLghDhhZJzHZTd.png\",\"name\":\"Millennium Media\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-08-29\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"}],\"status\":\"Released\",\"tagline\":\"Some borders are better not crossed.\",\"title\":\"Wanted Man\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

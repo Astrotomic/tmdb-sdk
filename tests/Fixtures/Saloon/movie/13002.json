@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1556",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8121",
+        "x-memc": "HIT",
+        "x-memc-key": "1810f95f1e4cb4a1cf24556160d93889",
+        "x-memc-age": "18791",
+        "x-memc-expires": "8121",
+        "ETag": "W\/\"62aac3e686b2c629b5b70cd4aa296359\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZFNJHGaAVRh_FfVxOOuTJGlaTkwev4onoKEw9Z8rKItQqS9NmAsFoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v5xXTpfMT5NpjQeDMNYNLflaiuA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":13002,\"imdb_id\":\"tt0859594\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Barbie in the 12 Dancing Princesses\",\"overview\":\"King Randolph sends for his cousin, Duchess Rowena, to help turn his daughters, Princess Genevieve and her eleven sisters, into royal material. But the Duchess strips the sisters of their fun, including their favorite pastime: dancing. When all hope may be lost, the sisters discover a secret passageway to a magical land where they can dance the night away.\",\"popularity\":43.538,\"poster_path\":\"\/yBB7PwXRFJ29U8m8SnTcWVizFvM.jpg\",\"production_companies\":[{\"id\":5024,\"logo_path\":\"\/9CkYR0swSEj5iVi9bzx9erLnmzm.png\",\"name\":\"Mainframe Entertainment\",\"origin_country\":\"CA\"},{\"id\":6220,\"logo_path\":\"\/cAj69EL1zSXmZH6STbMGZrunyMD.png\",\"name\":\"Mattel\",\"origin_country\":\"US\"},{\"id\":64471,\"logo_path\":\"\/xBq8B45J5vEsrgYq1eDQCVw0wck.png\",\"name\":\"Universal Pictures Home Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-09-19\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Enchanted dancing in a magical world!\",\"title\":\"Barbie in the 12 Dancing Princesses\",\"video\":false,\"vote_average\":7.581,\"vote_count\":1151}"
+}

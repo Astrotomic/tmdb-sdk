@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1438",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2611",
+        "x-memc": "HIT",
+        "x-memc-key": "8956dc9fb1f5da2a3159865c5689e344",
+        "x-memc-age": "22718",
+        "x-memc-expires": "2611",
+        "ETag": "W\/\"17d7816b5d0261564b6dede4a2e1ad82\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s9kvtDo4iNP8jeiwTSysxuOGSjOXVbf1Ri9g2mTUTK9zr5MUPC2cKQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n2OaA7Je0fgcVnfJM7xDJoPny7x.jpg\",\"belongs_to_collection\":{\"id\":829314,\"name\":\"Enola Holmes Collection\",\"poster_path\":\"\/9QfsXZTS7gDJwkSmmBPlml3P8ca.jpg\",\"backdrop_path\":\"\/HScQCcEd3yucY3XYRCnkRzl7Gp.jpg\"},\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81406219\",\"id\":829280,\"imdb_id\":\"tt14641788\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Enola Holmes 2\",\"overview\":\"Now a detective-for-hire like her infamous brother, Enola Holmes takes on her first official case to find a missing girl, as the sparks of a dangerous conspiracy ignite a mystery that requires the help of friends \u2014 and Sherlock himself \u2014 to unravel.\",\"popularity\":46.639,\"poster_path\":\"\/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg\",\"production_companies\":[{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"},{\"id\":121424,\"logo_path\":\"\/laQkxRzl2PTQFHPKVUE54UM38sw.png\",\"name\":\"PCMA Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-11-30\",\"revenue\":0,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Go Big. Go Holmes.\",\"title\":\"Enola Holmes 2\",\"video\":false,\"vote_average\":7.407,\"vote_count\":1336}"
+}

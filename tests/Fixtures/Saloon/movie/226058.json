@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "905",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8447",
+        "x-memc": "HIT",
+        "x-memc-key": "2a9d5d34cc80e0a109bd7536a4d53d37",
+        "x-memc-age": "19947",
+        "x-memc-expires": "8447",
+        "ETag": "W\/\"0aae90b5f4cdc63a8f544c2957a25e9d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "e6kb_rKCgFcunOGdUXnEy7EZiQRbI3Wxder-YU22xn9cU_XwAKB9BQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":226058,\"imdb_id\":\"tt1331023\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Motherland\",\"overview\":\"After a long absence abroad, young Asian American woman Raffi Tang is called home when her estranged mother is murdered. She becomes increasingly drawn into a web of deception and incompetence while at the same time dealing with her own grief.\",\"popularity\":4.81,\"poster_path\":\"\/fCSiINP2nRPWLIgOYtGx52ICSPG.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-03-18\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Motherland\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

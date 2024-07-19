@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1175",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15201",
+        "x-memc": "HIT",
+        "x-memc-key": "d2e343aead8755445dd83b2335b72ba4",
+        "x-memc-age": "11770",
+        "x-memc-expires": "15201",
+        "ETag": "W\/\"93f87f240a81d7d3e8f8b89554bd7d11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kPkcwP28-PTua_BswW0B1HHlW0lFyYwips5dx2ur5RwgIvLCF97Qsg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bwDTWOd0SCFWfRw8ophhykOgUBS.jpg\",\"belongs_to_collection\":null,\"budget\":46000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1647,\"imdb_id\":\"tt0292506\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Recruit\",\"overview\":\"A brilliant CIA trainee must prove his worth at the Farm, the agency's secret training grounds, where he learns to watch his back and trust no one.\",\"popularity\":27.019,\"poster_path\":\"\/zd9eNagUB7FEaqffnSw3n3Nii4p.jpg\",\"production_companies\":[{\"id\":58262,\"logo_path\":null,\"name\":\"Birnbaum\/Barber Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-01-31\",\"revenue\":101200000,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Persian\",\"iso_639_1\":\"fa\",\"name\":\"\u0641\u0627\u0631\u0633\u06cc\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Trust. Betrayal. Deception. In the C.I.A. nothing is what it seems.\",\"title\":\"The Recruit\",\"video\":false,\"vote_average\":6.4,\"vote_count\":1678}"
+}

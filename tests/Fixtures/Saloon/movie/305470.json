@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1839",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15849",
+        "x-memc": "HIT",
+        "x-memc-key": "8daf46c2123b51e1449cce5afb18f62f",
+        "x-memc-age": "12510",
+        "x-memc-expires": "15849",
+        "ETag": "W\/\"cbcd1c314529737797230b1db3a794da\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EgvLQkEpl5GzpAbAmI9m_3MmBGoQ_qJO8dOPCBgeo9EnliXUisf4CA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2vcdZBbf7sPPzIHfN5ial24UbxK.jpg\",\"belongs_to_collection\":null,\"budget\":105000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/power-rangers\",\"id\":305470,\"imdb_id\":\"tt3717490\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Power Rangers\",\"overview\":\"Five ordinary teens must become something extraordinary when they learn that their small town of Angel Grove \u2014 and the world \u2014 is on the verge of being obliterated by an alien threat. Chosen by destiny, our heroes quickly discover they are the only ones who can save the planet. But to do so, they will have to overcome their real-life issues and before it\u2019s too late, band together as the Power Rangers.\",\"popularity\":48.407,\"poster_path\":\"\/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":11305,\"logo_path\":\"\/eZdOsxUSUtrEVdr5DY5zpkTf4Ks.png\",\"name\":\"Saban Brands\",\"origin_country\":\"US\"},{\"id\":76992,\"logo_path\":\"\/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png\",\"name\":\"Saban Films\",\"origin_country\":\"US\"},{\"id\":12292,\"logo_path\":\"\/4GQTeqos2luopEtp3OgMQYusQ5c.png\",\"name\":\"Temple Hill Entertainment\",\"origin_country\":\"US\"},{\"id\":72441,\"logo_path\":null,\"name\":\"TIK Films\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-03-23\",\"revenue\":142300000,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Together we are more.\",\"title\":\"Power Rangers\",\"video\":false,\"vote_average\":6.263,\"vote_count\":4323}"
+}

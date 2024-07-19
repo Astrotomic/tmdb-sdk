@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "780",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17058",
+        "x-memc": "HIT",
+        "x-memc-key": "1997000fde8ae205db356b87994c4e65",
+        "x-memc-age": "5192",
+        "x-memc-expires": "17058",
+        "ETag": "W\/\"39655a279117d71f532df83011749225\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6sgFMEMDNyaQBs7gj3Kfvvt5CrjM45pCcfOGx1UCVjR2SYSlnpGUfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":386678,\"imdb_id\":\"tt1064891\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Migration assist\u00e9e\",\"overview\":\"A bird requires some assistance for his migratory flight south, but things don't quite go as planned.\",\"popularity\":0.713,\"poster_path\":null,\"production_companies\":[{\"id\":12037,\"logo_path\":\"\/i2F3Oitr5AqFyPO8XGwIFTG40yk.png\",\"name\":\"La Poudri\u00e8re\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2007-01-27\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Assisted Migration\",\"video\":false,\"vote_average\":6.5,\"vote_count\":2}"
+}

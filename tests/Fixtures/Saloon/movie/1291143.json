@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1096",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8204",
+        "x-memc": "HIT",
+        "x-memc-key": "15e9ad40aca06c610b8e064a4035f6a3",
+        "x-memc-age": "15688",
+        "x-memc-expires": "8204",
+        "ETag": "W\/\"7663af24b16f40b1dd8ab73a7a06a3b0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2p5r4p2McjQ0y8Cp4xDr276ywH_DslT9SOuiEFoCxQxn28Qqlg8rnQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yjf0RWXeZ0FyStOD5e0i0KlnBVE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81427740\",\"id\":1291143,\"imdb_id\":\"tt32308418\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"How to Rob a Bank\",\"overview\":\"In this true-crime documentary, a charismatic rebel in 1990s Seattle pulls off an unprecedented string of bank robberies straight out of the movies.\",\"popularity\":32.379,\"poster_path\":\"\/3JuBviwcumsNZtC7qZjMzyKFtJy.jpg\",\"production_companies\":[{\"id\":56172,\"logo_path\":null,\"name\":\"Lone Wolf Studios\",\"origin_country\":\"US\"},{\"id\":139396,\"logo_path\":null,\"name\":\"Pinball Party Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-04\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"How to Rob a Bank\",\"video\":false,\"vote_average\":6.333,\"vote_count\":21}"
+}

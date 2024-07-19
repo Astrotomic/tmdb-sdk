@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "812",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17375",
+        "x-memc": "HIT",
+        "x-memc-key": "0d920e71c060add9f8db02d172d572ec",
+        "x-memc-age": "5227",
+        "x-memc-expires": "17375",
+        "ETag": "W\/\"afc50a480427aafc1674240283e222ee\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "G_GOTRiHU-szS3B9WdmPz8xZukbDQeEAORoyRNSvQCE3uoNHfgS6IA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":703997,\"imdb_id\":\"tt3576334\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"LUG\",\"overview\":\"A narrative short fiction film about a queer couple on a roadtrip shot on location during a cross country road trip in the summer of 2013.\",\"popularity\":1.26,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-01-01\",\"revenue\":0,\"runtime\":22,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"LUG\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

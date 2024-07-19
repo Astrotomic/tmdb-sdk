@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1080",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7248",
+        "x-memc": "HIT",
+        "x-memc-key": "13d44f1866745ac7c2f7bc9d05e8b0ff",
+        "x-memc-age": "15322",
+        "x-memc-expires": "7248",
+        "ETag": "W\/\"8197f28e1c2d33b2c38cbe99720df2b8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R_v-zg_g0yANM9-DnyRrHdYv75A8A_GlEsiY4678VaS5wxxk0YQsfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/k9X79JC2dDTcSpxuKJ3p2Teq3oZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81406459\",\"id\":1025463,\"imdb_id\":\"tt16427902\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Bi\u00f4nicos\",\"overview\":\"When the progress of robotics makes Paralympic athletes the new sports stars, Maria dreams of competing against her sister. For that, she will have to enter a world of crime and violence.\",\"popularity\":458.933,\"poster_path\":\"\/4nrNEM0wmWTBtepCoobvkHQqNKm.jpg\",\"production_companies\":[{\"id\":139925,\"logo_path\":\"\/j9hLirKyxRWjI4TiLUFdtBNGglZ.png\",\"name\":\"Black Filmes\",\"origin_country\":\"BR\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2024-05-28\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bionic\",\"video\":false,\"vote_average\":5.754,\"vote_count\":112}"
+}

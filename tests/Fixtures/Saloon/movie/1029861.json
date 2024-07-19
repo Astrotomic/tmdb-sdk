@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1070",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9508",
+        "x-memc": "HIT",
+        "x-memc-key": "736eef5bdd487a25516b99747c3bf284",
+        "x-memc-age": "12465",
+        "x-memc-expires": "9508",
+        "ETag": "W\/\"266f2404d75a8525489d29dadd516cac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "02unekYLM3QdfFxPGQEa14VTwfk2UIA4v7lYlykMrMBCc-N0DuX-nw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hOT20i5PoLNpYyljkzSWuEvz6G9.jpg\",\"belongs_to_collection\":null,\"budget\":20000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1029861,\"imdb_id\":\"tt19393764\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Nalle\",\"overview\":\"A young inexperienced man rekindles his emotional and intimate relationship with his only love\u2013his charming, and talking, childhood teddy bear.\",\"popularity\":3.654,\"poster_path\":\"\/ls3NiZXyu4vCtTXXJidDq6qrWbG.jpg\",\"production_companies\":[{\"id\":158240,\"logo_path\":\"\/lW8WFlzRyZHgPQWc9HYMBBmCOEu.png\",\"name\":\"F\u00e4rgfilm\",\"origin_country\":\"SE\"},{\"id\":2801,\"logo_path\":\"\/bswb1PLLsKDUXMLgy42bZtCtIde.png\",\"name\":\"Film i V\u00e4st\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2022-09-24\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"Someone to Hold Your Hand\",\"title\":\"Bear\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1100",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21253",
+        "x-memc": "HIT",
+        "x-memc-key": "7ae40b093f4b4fe07703ec92233edf88",
+        "x-memc-age": "2163",
+        "x-memc-expires": "21253",
+        "ETag": "W\/\"5c5b4d6f774546d8e0caaea6385931cf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JvgIOZDIU7Q4W22KgFgwtJsxYe-L03AxjjAukl9XDQY-5fn3MSAG6w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Ahn9zBmRImn0uJ17IuQugjywQZB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":959098,\"imdb_id\":\"tt16740144\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le Dernier Jaguar\",\"overview\":\"Grown up in the Amazon rainforest, Autumn lives with Hope, the cute baby jaguar she adopted. However, a circumstance forces Autumn to return to New York. Autumn goes back into the jungle to save Hope from grave danger.\",\"popularity\":576.889,\"poster_path\":\"\/ocHu00nOZzK0m9BsFdrFg3SglS0.jpg\",\"production_companies\":[{\"id\":73974,\"logo_path\":null,\"name\":\"Mai Juin Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-02-01\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Autumn and the Black Jaguar\",\"video\":false,\"vote_average\":5.554,\"vote_count\":29}"
+}

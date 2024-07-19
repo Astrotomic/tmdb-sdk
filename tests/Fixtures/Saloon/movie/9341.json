@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1899",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12840",
+        "x-memc": "HIT",
+        "x-memc-key": "e47e922d3d1023148ef978ce7ce448fb",
+        "x-memc-age": "11769",
+        "x-memc-expires": "12840",
+        "ETag": "W\/\"1b00c3fe4ea52a6edadcda4434045360\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1_R9Zrr3NklfZfW4mD2z8BMoGdmgWZB4oaJD8LiIZAuUZJldO0ldsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v2YxWPX2yKdo6arIAknJzKLxhZY.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":9341,\"imdb_id\":\"tt0298814\",\"origin_country\":[\"CA\",\"DE\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Core\",\"overview\":\"Geophysicist Dr. Josh Keyes discovers that an unknown force has caused the earth's inner core to stop rotating. With the planet's magnetic field rapidly deteriorating, our atmosphere literally starts to come apart at the seams with catastrophic consequences. To resolve the crisis, Keyes, along with a team of the world's most gifted scientists, travel into the earth's core. Their mission: detonate a device that will reactivate the core.\",\"popularity\":51.677,\"poster_path\":\"\/jaG2vih2z4V5fP9pnYSIL65lr8d.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":496,\"logo_path\":null,\"name\":\"David Foster Productions\",\"origin_country\":\"US\"},{\"id\":2199,\"logo_path\":null,\"name\":\"HorsePower Entertainment\",\"origin_country\":\"GB\"},{\"id\":12213,\"logo_path\":null,\"name\":\"Core Productions\",\"origin_country\":\"\"},{\"id\":7161,\"logo_path\":null,\"name\":\"LivePlanet\",\"origin_country\":\"\"},{\"id\":12214,\"logo_path\":null,\"name\":\"Munich Film Partners New Century \\u0026 Company (MFP) Core Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2003-03-28\",\"revenue\":74208267,\"runtime\":136,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The only way out is in.\",\"title\":\"The Core\",\"video\":false,\"vote_average\":5.8,\"vote_count\":1826}"
+}

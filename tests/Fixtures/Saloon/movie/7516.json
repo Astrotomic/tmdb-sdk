@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1923",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24898",
+        "x-memc": "HIT",
+        "x-memc-key": "96fc0dae165bfe14ad00ce49f45259b7",
+        "x-memc-age": "2434",
+        "x-memc-expires": "24898",
+        "ETag": "W\/\"c5125d2f55c5dc6d6699c6841085250b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ryUHQqcRZRf106sTAZJ4fIag0e54vMAwkMpCw_mTfkmHb0uItcc27w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iUS8yMKkJGl0RUabaYKZoxYxClo.jpg\",\"belongs_to_collection\":{\"id\":96680,\"name\":\"Smokin' Aces Collection\",\"poster_path\":\"\/nlVbASd2BX1k70cuY0LHb6EbX7R.jpg\",\"backdrop_path\":\"\/1TbMf5bJnYCP9sXhRSVHULPJDbw.jpg\"},\"budget\":17000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.smokinaces.net\/\",\"id\":7516,\"imdb_id\":\"tt0475394\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Smokin' Aces\",\"overview\":\"When a Las Vegas performer-turned-snitch named Buddy Israel decides to turn state's evidence and testify against the mob, it seems that a whole lot of people would like to make sure he's no longer breathing.\",\"popularity\":31.178,\"poster_path\":\"\/nrdnN8WqvyOt8Bnl3hgWcZD6ZyM.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"},{\"id\":7295,\"logo_path\":\"\/62E1B91PxZw8q4KNkge5Qemo7EM.png\",\"name\":\"Relativity Media\",\"origin_country\":\"US\"},{\"id\":7419,\"logo_path\":null,\"name\":\"Scion Films\",\"origin_country\":\"GB\"},{\"id\":221513,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2006-12-09\",\"revenue\":57103895,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Nobody gets away clean.\",\"title\":\"Smokin' Aces\",\"video\":false,\"vote_average\":6.478,\"vote_count\":1594}"
+}

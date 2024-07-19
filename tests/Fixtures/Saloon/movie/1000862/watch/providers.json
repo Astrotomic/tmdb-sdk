@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1190",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:18:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11641",
+        "x-memc": "HIT",
+        "x-memc-key": "d1e96231ed849a583fa68495e7c22f13",
+        "x-memc-age": "15804",
+        "x-memc-expires": "11641",
+        "ETag": "W\/\"10438df3f1524d8ab58f3bab51130d6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uyE2MG4iPHVUinZx8gvsvKzUgCeFmpdZRmoGQwsMAy2RNL37Yu8sqw=="
+    },
+    "data": "{\"id\":1000862,\"results\":{\"BE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1000862-pas-de-vagues\/watch?locale=BE\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":50}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":50}]},\"LU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1000862-pas-de-vagues\/watch?locale=LU\",\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":1}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":1}]}}}"
+}

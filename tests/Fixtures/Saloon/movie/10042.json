@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1060",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12627",
+        "x-memc": "HIT",
+        "x-memc-key": "47ccf82b2b4552e39ac4c133a5c17d42",
+        "x-memc-age": "10374",
+        "x-memc-expires": "12627",
+        "ETag": "W\/\"c2397ad443ad758f71826602f0c64ac7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7gpvlNOJpmT5ZsEflQM8jp6ZZYWD1_fI0rBzbHP78as9ZRGe8EMJEw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rTw3d5KtO7TCaGOQOeSnv7uujmR.jpg\",\"belongs_to_collection\":null,\"budget\":150000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10042,\"imdb_id\":\"tt0451262\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Within\",\"overview\":\"In a Asian desert, a team of explorers learn of a newly discovered cave system and set out to explore it. However as soon as they begin the descent, it becomes clear that this was a secret that should have remained below the surface.\",\"popularity\":10.038,\"poster_path\":\"\/lVEnRvjpWMPplRN5EX28cyNnVZk.jpg\",\"production_companies\":[{\"id\":26082,\"logo_path\":null,\"name\":\"Dead Crow Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-10-30\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Within\",\"video\":false,\"vote_average\":3.294,\"vote_count\":34}"
+}

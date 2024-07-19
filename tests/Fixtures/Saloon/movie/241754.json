@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "957",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5910",
+        "x-memc": "HIT",
+        "x-memc-key": "6b4625cfe3e78659492122cdc1a24825",
+        "x-memc-age": "18422",
+        "x-memc-expires": "5910",
+        "ETag": "W\/\"97c1fd8943bd6714da05f2f4bb9f633a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iH58uHZeyYH2aUN-Tos83wP1Mkq1WD0qydY4hrofnG6AcJA2fvCmgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uNlvJvY5VoiUMNfzg5dZHGKYYhe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":241754,\"imdb_id\":\"tt0042033\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Walking Hills\",\"overview\":\"A study in greed in which treasure hunters seek a shipment of gold buried in Death Valley.\",\"popularity\":4.965,\"poster_path\":\"\/yYWOAhLk4TyAyImgXbXQMbkDVaI.jpg\",\"production_companies\":[{\"id\":13622,\"logo_path\":null,\"name\":\"Producers-Actors Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1949-03-05\",\"revenue\":0,\"runtime\":78,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"10 WENT IN...7 CAME OUT...as the Walking Hills guarded their treasure!\",\"title\":\"The Walking Hills\",\"video\":false,\"vote_average\":6.0,\"vote_count\":18}"
+}

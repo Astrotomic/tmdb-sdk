@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1511",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14828",
+        "x-memc": "HIT",
+        "x-memc-key": "8944955fabd01c6f511cac75c2b5f5ec",
+        "x-memc-age": "8377",
+        "x-memc-expires": "14828",
+        "ETag": "W\/\"abb5c0a9091de377db1cfcfe857d7e5d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Lw3rWuIcRSuBsBdDKTHYeUulF6wvVEbJEn9IvXZo6j5RxvznQh4BLA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n7pj7eMjtajyIoiZgdITJwJOxok.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":13849,\"imdb_id\":\"tt0465430\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Cottage\",\"overview\":\"In a remote part of the countryside, a bungled kidnapping turns into a living nightmare for four central characters when they cross paths with a psychopathic farmer and all hell breaks loose.\",\"popularity\":20.097,\"poster_path\":\"\/piSt1fjgtR5REUOCNUF3dzEShxI.jpg\",\"production_companies\":[{\"id\":15282,\"logo_path\":null,\"name\":\"Steel Mill Pictures\",\"origin_country\":\"\"},{\"id\":2268,\"logo_path\":\"\/wgDks2qYgwN6u1OkW1bBre0rf4F.png\",\"name\":\"Isle of Man Film\",\"origin_country\":\"GB\"},{\"id\":2452,\"logo_path\":\"\/6CLoZ59fLPG7UyxQtGTqRevjf58.png\",\"name\":\"UK Film Council\",\"origin_country\":\"GB\"},{\"id\":2690,\"logo_path\":\"\/9XXpd39mDfkWmcNB6R0tpvzo781.png\",\"name\":\"Screen Yorkshire\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2008-02-07\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Sleeps Six Bloody Comfortably\",\"title\":\"The Cottage\",\"video\":false,\"vote_average\":5.9,\"vote_count\":222}"
+}

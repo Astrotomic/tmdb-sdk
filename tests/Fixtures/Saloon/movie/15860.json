@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1280",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22284",
+        "x-memc": "HIT",
+        "x-memc-key": "28c8cc0cf8188439ee24a03a86c5fd39",
+        "x-memc-age": "2057",
+        "x-memc-expires": "22284",
+        "ETag": "W\/\"07067f8027a3d01faf3d213b91461374\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SvZnku2KHzrBiYiajb0UisAXEjbbF-tWIfK-9JSZLwNxwPQAPhDFHA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dlAHvBxodUOBS4ZblGdqToNhSCZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":15860,\"imdb_id\":\"tt0482930\",\"origin_country\":[\"HK\",\"CN\"],\"original_language\":\"cn\",\"original_title\":\"\u9f8d\u864e\u9580\",\"overview\":\"Three young martial arts masters emerge from the back streets of Hong Kong to help the powerless fight injustice.\",\"popularity\":21.767,\"poster_path\":\"\/pVoNKyIS9eaMqI0wOlDWpxhR1XN.jpg\",\"production_companies\":[{\"id\":3407,\"logo_path\":\"\/iVMjKOFyRvm9PW45lW1wW6TSvnj.png\",\"name\":\"Shanghai Film Group\",\"origin_country\":\"CN\"},{\"id\":2269,\"logo_path\":null,\"name\":\"China Film Co-Production Corporation\",\"origin_country\":\"CN\"},{\"id\":4054,\"logo_path\":null,\"name\":\"Mandarin Films\",\"origin_country\":\"HK\"},{\"id\":30148,\"logo_path\":\"\/zerhOenUD6CkH8SMgZUhrDkOs4w.png\",\"name\":\"Bona Film Group\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"2006-07-27\",\"revenue\":8685526,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dragon Tiger Gate\",\"video\":false,\"vote_average\":6.599,\"vote_count\":192}"
+}

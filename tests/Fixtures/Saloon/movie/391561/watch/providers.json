@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "790",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5756",
+        "x-memc": "HIT",
+        "x-memc-key": "e310b04e57ef1dc5f003f9f34e1827d2",
+        "x-memc-age": "18663",
+        "x-memc-expires": "5756",
+        "ETag": "W\/\"2bd1520c65eae85a0962f00cc82b4f9c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VHeCD0Wwu3Pg4HwuX-zVqNDDNrunD8mCMBDGOQ5SSQbbT1k6_B2pxQ=="
+    },
+    "data": "{\"id\":391561,\"results\":{\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391561-exit-14\/watch?locale=AU\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":25}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/391561-exit-14\/watch?locale=KR\",\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}],\"buy\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}]}}}"
+}

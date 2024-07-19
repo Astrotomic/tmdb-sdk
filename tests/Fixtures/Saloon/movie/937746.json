@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1770",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17915",
+        "x-memc": "HIT",
+        "x-memc-key": "0ecb6909699631889ef7b6a691c47dbe",
+        "x-memc-age": "10082",
+        "x-memc-expires": "17915",
+        "ETag": "W\/\"02bc60ae33400a99ee830fa50d7d434c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zuGE2JyLD0EDfV2YLVoTtBYN24Fgatrce_68oCaZtcoAdbPqFT5qyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A3BnHM8a56lsHwn4o7ogiq1KHGh.jpg\",\"belongs_to_collection\":null,\"budget\":13272819,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/cohenmedia.net\/product\/io-capitano\",\"id\":937746,\"imdb_id\":\"tt14225838\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Io capitano\",\"overview\":\"Longing for a brighter future, two Senegalese teenagers embark on a journey from West Africa to Italy. However, between their dreams and reality lies a labyrinth of checkpoints, the Sahara Desert, and the vast waters of the Mediterranean.\",\"popularity\":212.004,\"poster_path\":\"\/arh0pfq8PfyLfob4ymMz8kzrVFR.jpg\",\"production_companies\":[{\"id\":53334,\"logo_path\":\"\/nuY4cvsxmTTHrGATRil6uLLHry5.png\",\"name\":\"Archimede\",\"origin_country\":\"IT\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"},{\"id\":8471,\"logo_path\":\"\/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png\",\"name\":\"Tarantula\",\"origin_country\":\"BE\"},{\"id\":7981,\"logo_path\":\"\/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png\",\"name\":\"Path\u00e9\",\"origin_country\":\"FR\"},{\"id\":209127,\"logo_path\":\"\/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png\",\"name\":\"Logical Content Ventures\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2023-09-07\",\"revenue\":0,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Wolof\",\"iso_639_1\":\"wo\",\"name\":\"Wolof\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Io Capitano\",\"video\":false,\"vote_average\":7.83,\"vote_count\":578}"
+}

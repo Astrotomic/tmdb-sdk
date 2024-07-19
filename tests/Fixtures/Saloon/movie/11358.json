@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1687",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14606",
+        "x-memc": "HIT",
+        "x-memc-key": "51ebf955002c0aee5b304982928dcda1",
+        "x-memc-age": "12222",
+        "x-memc-expires": "14606",
+        "ETag": "W\/\"bea8eece30e62c49defd510a1d5bc499\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4qqEIe-szK_GexDnpCzlgIjSkaCcF1fOpYFWjUUGuj0KqJTTiyk66A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fnBW07T1FmCxrZDpRnlnMK3Urs3.jpg\",\"belongs_to_collection\":{\"id\":299748,\"name\":\"Walking Tall (Reboot) Collection\",\"poster_path\":\"\/15zSGtSOH2PddGQEDQCnQ74nhVq.jpg\",\"backdrop_path\":\"\/zzVAOPbmA8bGmRVV8NsV8swBrbG.jpg\"},\"budget\":46000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11358,\"imdb_id\":\"tt0351977\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Walking Tall\",\"overview\":\"A former U.S. soldier returns to his hometown to find it overrun by crime and corruption, which prompts him to clean house.\",\"popularity\":36.476,\"poster_path\":\"\/2sdmKtRz2SlGSLxxZDePKm5zxus.jpg\",\"production_companies\":[{\"id\":10227,\"logo_path\":\"\/3YfRy3DBl4abcqkzGx4RVNz12yl.png\",\"name\":\"Mandeville Films\",\"origin_country\":\"US\"},{\"id\":23938,\"logo_path\":null,\"name\":\"Burke\/Samples\/Foster Productions\",\"origin_country\":\"\"},{\"id\":10339,\"logo_path\":\"\/dU7bjpBabgAd6R8INdVAyCjQ70w.png\",\"name\":\"WWE Studios\",\"origin_country\":\"US\"},{\"id\":23940,\"logo_path\":null,\"name\":\"Cub Eight Productions\",\"origin_country\":\"\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":1172,\"logo_path\":null,\"name\":\"Hyde Park Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-04-02\",\"revenue\":57223888,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One man will stand up for what's right.\",\"title\":\"Walking Tall\",\"video\":false,\"vote_average\":6.316,\"vote_count\":1442}"
+}

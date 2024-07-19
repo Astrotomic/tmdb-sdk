@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1315",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18942",
+        "x-memc": "HIT",
+        "x-memc-key": "c52cc4105e18e43ede29a5d9668cbd5b",
+        "x-memc-age": "5607",
+        "x-memc-expires": "18942",
+        "ETag": "W\/\"5cf3f2c0749751f26daf991ea964070d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AGv_1AJHgPrNhbZvhhC74xIAkRfeQS5-s-904iiQmoN9VYBeQ06ZcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/prMGhj8aBC4TYNAMDDDAQ2OeFZR.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.sonypictures.com\/movies\/heavenisforreal\/\",\"id\":236751,\"imdb_id\":\"tt1929263\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Heaven Is for Real\",\"overview\":\"The true story of the 4-year old son of a small-town pastor who, during emergency surgery, slips from consciousness and enters heaven. When he awakes, he recounts his experiences on the other side.\",\"popularity\":30.688,\"poster_path\":\"\/bYJhBhe6CPIHTl62kPfKfqicTaX.jpg\",\"production_companies\":[{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"},{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":16314,\"logo_path\":null,\"name\":\"Roth Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-04-16\",\"revenue\":101300000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Unlock the mystery\",\"title\":\"Heaven Is for Real\",\"video\":false,\"vote_average\":6.692,\"vote_count\":756}"
+}

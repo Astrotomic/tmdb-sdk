@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1784",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20954",
+        "x-memc": "HIT",
+        "x-memc-key": "dde955165d9fe95b15c4f5d167cdc498",
+        "x-memc-age": "4749",
+        "x-memc-expires": "20954",
+        "ETag": "W\/\"7c5ad5748977cb60903ebc3c7f07fb11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C2-abMhOVlH1Sdz1k4s1LiMxtgkPgx5dqqk-y_5LdF1O5n9KI4rGuw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vcj47nTm1fDlkxUwDb2GgYbKDDW.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":7000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/the-man-with-the-golden-gun\",\"id\":682,\"imdb_id\":\"tt0071807\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Man with the Golden Gun\",\"overview\":\"Cool government operative James Bond searches for a stolen invention that can turn the sun's heat into a destructive weapon. He soon crosses paths with the menacing Francisco Scaramanga, a hitman so skilled he has a seven-figure working fee. Bond then joins forces with the swimsuit-clad Mary Goodnight, and together they track Scaramanga to a Thai tropical isle hideout where the killer-for-hire lures the slick spy into a deadly maze for a final duel.\",\"popularity\":52.585,\"poster_path\":\"\/itH4xI6TbJtJSqcZ43B3MkpL1gy.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1974-12-14\",\"revenue\":97572000,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"},{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The world's greatest villains tried to kill James Bond...now it's Scaramanga's turn to try!\",\"title\":\"The Man with the Golden Gun\",\"video\":false,\"vote_average\":6.4,\"vote_count\":1964}"
+}

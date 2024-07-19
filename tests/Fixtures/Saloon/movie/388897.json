@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1002",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19335",
+        "x-memc": "HIT",
+        "x-memc-key": "80e07c1845d57296de06d6c04ae7fff0",
+        "x-memc-age": "8141",
+        "x-memc-expires": "19335",
+        "ETag": "W\/\"807511feb1d33d76412477dd6507e787\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VXo_ZoPKRKqHp9l32wlfJ6npqHlf6RTwjM0Hizxr94lD77qnKZy0yw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6ebluI8S7ucqhI4UlrLqSbxpfFe.jpg\",\"belongs_to_collection\":{\"id\":453631,\"name\":\"La Risa en Vacaciones\",\"poster_path\":\"\/feZ0PIfI0KftUnaJMSpF3CV1Szv.jpg\",\"backdrop_path\":\"\/304Bhiwlrijcx0epBjRx3vEEu3P.jpg\"},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":388897,\"imdb_id\":\"tt0207056\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"La risa en vacaciones 5\",\"overview\":\"\",\"popularity\":2.36,\"poster_path\":\"\/lD2drAAS6DwG80wSr3jURStjkg7.jpg\",\"production_companies\":[{\"id\":8165,\"logo_path\":null,\"name\":\"Televicine S.A. de C.V.\",\"origin_country\":\"MX\"},{\"id\":74493,\"logo_path\":null,\"name\":\"Univisi\u00f3n Network\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1994-03-21\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"La risa en vacaciones 5\",\"video\":false,\"vote_average\":5.3,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "946",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10730",
+        "x-memc": "HIT",
+        "x-memc-key": "a6bb2921819d9eb27fd0d94d52bd699c",
+        "x-memc-age": "14031",
+        "x-memc-expires": "10730",
+        "ETag": "W\/\"8edb8cece11c95650a76572f579e8d11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "euYdusAD2aCuyIdt9mnk_PhpJNxvrp_0WSGDA37t7CcXB5Kbl2AdDQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":236558,\"imdb_id\":\"tt0034121\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Robinson Crusoe Jr.\",\"overview\":\"Stranded on an island after his ship was wrecked by a hurricane, Porky meets a friendly African Native. They build a house, and Porky begins to explore the island. On his way we see various sight gags.\",\"popularity\":2.604,\"poster_path\":\"\/qsuX1uudsti6BRSfI5Lv4TE8Wtq.jpg\",\"production_companies\":[{\"id\":134798,\"logo_path\":null,\"name\":\"Leon Schlesinger Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-10-24\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Robinson Crusoe Jr.\",\"video\":false,\"vote_average\":4.833,\"vote_count\":6}"
+}

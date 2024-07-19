@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1621",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9583",
+        "x-memc": "HIT",
+        "x-memc-key": "e92964a0835044713e0f13a2691a09ca",
+        "x-memc-age": "15371",
+        "x-memc-expires": "9583",
+        "ETag": "W\/\"498c395bfa04da88ebf2957bc67776d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Sfd_CedPf_50jXTpTgEA1_slQAtZot-JtlJPuu73m2tH6r6rDu51_g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zGHdS1eLaU5wdYCJ6vY9QfQGCTo.jpg\",\"belongs_to_collection\":{\"id\":399,\"name\":\"Predator Collection\",\"poster_path\":\"\/6Z7lASptoiRVxiCFvZaFgH9qp7u.jpg\",\"backdrop_path\":\"\/fXVzk9OxQwROCuiWvd0Cv76qmZi.jpg\"},\"budget\":88000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/the-predator\",\"id\":346910,\"imdb_id\":\"tt3829266\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Predator\",\"overview\":\"When a young boy accidentally triggers the universe's most lethal hunters' return to Earth, only a ragtag crew of ex-soldiers and a disgruntled scientist can prevent the end of the human race.\",\"popularity\":59.787,\"poster_path\":\"\/a3eWGF6YPF7No5Rbtjc8QpDvz7l.jpg\",\"production_companies\":[{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":111737,\"logo_path\":null,\"name\":\"Canada Film Capital\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-09-05\",\"revenue\":160542134,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The hunt has evolved.\",\"title\":\"The Predator\",\"video\":false,\"vote_average\":5.63,\"vote_count\":4502}"
+}

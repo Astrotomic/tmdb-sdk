@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1229",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9015",
+        "x-memc": "HIT",
+        "x-memc-key": "2b3e29777b50a1baa8db12e501311b01",
+        "x-memc-age": "18868",
+        "x-memc-expires": "9015",
+        "ETag": "W\/\"bcbff37e8137298b627eb3d71ad49fe3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "35HRGrsrLWxgCLPomxWX52NatfluwfWnPQ14JvAHGsBMhuj8eXwn7Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xvcqme7lPw7nXNIQU71z11bbWRd.jpg\",\"belongs_to_collection\":{\"id\":456,\"name\":\"Sissi Collection\",\"poster_path\":\"\/rTMRGUPwmhiBXsF38hwYhc1sInK.jpg\",\"backdrop_path\":\"\/zJU3dyafiEPdH29h7NKJGj7u7cu.jpg\"},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":458,\"imdb_id\":\"tt0049762\",\"origin_country\":[\"AT\"],\"original_language\":\"de\",\"original_title\":\"Sissi - Die junge Kaiserin\",\"overview\":\"Sissi is now the empress of Austria and attempts to learn etiquette. While she is busy being empress she also has to deal with her difficult new mother-in-law, while the arch-duchess Sophie is trying to tell the emperor how to rule and also Sissi how to be a mother.\",\"popularity\":21.668,\"poster_path\":\"\/6jA6SqHoIEfZjRTQyNjNGYEV1eV.jpg\",\"production_companies\":[{\"id\":2122,\"logo_path\":null,\"name\":\"Erma-Film\",\"origin_country\":\"AT\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"}],\"release_date\":\"1956-12-01\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sissi: The Young Empress\",\"video\":false,\"vote_average\":7.2,\"vote_count\":330}"
+}

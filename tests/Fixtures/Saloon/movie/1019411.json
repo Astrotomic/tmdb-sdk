@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1337",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22547",
+        "x-memc": "HIT",
+        "x-memc-key": "342c8c47823d1b8e4621d5837c1ed576",
+        "x-memc-age": "3269",
+        "x-memc-expires": "22547",
+        "ETag": "W\/\"352ebca528089bdd55f50a3c0515a8ad\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0Eua-dx2sSzjDMG702snSOAEwqz3K7m3UMtadRRHwatGQ3T_xPIlTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jiGoKuVsKzF3isEY1MEDR90Eh1l.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.amazon.com\/dp\/B0CZSD17CT\",\"id\":1019411,\"imdb_id\":\"tt21469794\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Space Cadet\",\"overview\":\"Tiffany \\\"Rex\\\" Simpson has always dreamed of going to space, and her \\\"doctored\\\" application lands her in NASA's ultra-competitive astronaut training program. In over her head, can this Florida girl rely on her quick wits, moxie and determination to get through training and into the cosmos before she blows her cover?\",\"popularity\":264.041,\"poster_path\":\"\/7rda0SRuIGA8BDC8FTYHAOyXaRj.jpg\",\"production_companies\":[{\"id\":118472,\"logo_path\":\"\/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png\",\"name\":\"Stampede Ventures\",\"origin_country\":\"US\"},{\"id\":210099,\"logo_path\":\"\/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png\",\"name\":\"Amazon MGM Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-07-04\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Houston has a new problem.\",\"title\":\"Space Cadet\",\"video\":false,\"vote_average\":5.202,\"vote_count\":110}"
+}

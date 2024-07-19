@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "363",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:16:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4685",
+        "x-memc": "HIT",
+        "x-memc-key": "f0f9df409431356833f9f123896b4c44",
+        "x-memc-age": "20481",
+        "x-memc-expires": "4685",
+        "ETag": "W\/\"71bcb4b2ca7f81c8f10ccd219afe0074\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3AE8tWh_F4WPqjUONhbuXPHalfnUApSv3KqpdzT7Em3ztSt7hMT6uA=="
+    },
+    "data": "{\"id\":394922,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/394922-senza-lasciare-traccia\/watch?locale=IT\",\"buy\":[{\"logo_path\":\"\/rVEXDsaHzpwK1YhXEZrsmvfpdOR.jpg\",\"provider_id\":40,\"provider_name\":\"Chili\",\"display_priority\":101}],\"rent\":[{\"logo_path\":\"\/rVEXDsaHzpwK1YhXEZrsmvfpdOR.jpg\",\"provider_id\":40,\"provider_name\":\"Chili\",\"display_priority\":101}]}}}"
+}

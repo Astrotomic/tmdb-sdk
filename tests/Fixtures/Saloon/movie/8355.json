@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1623",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23741",
+        "x-memc": "HIT",
+        "x-memc-key": "c19867230ee1d80fe897adcc48aa1cb5",
+        "x-memc-age": "4674",
+        "x-memc-expires": "23741",
+        "ETag": "W\/\"157516f93b16c4d6ef1283c53a8ecaef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2kAuJ1nXeGbgRy_rRk9dYRP3So7NEUTmZlmjssnXvDpeMWOmi4ATew=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gkxSIlZPEwGPimQ8TEE8C52cOSO.jpg\",\"belongs_to_collection\":{\"id\":8354,\"name\":\"Ice Age Collection\",\"poster_path\":\"\/stQoHvo0q6ZcEkji2Z1wlAxKnDq.jpg\",\"backdrop_path\":\"\/ovWkSikbJUMwwmUdD6WTa1bbFrh.jpg\"},\"budget\":90000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/www.iceagemovies.com\/films\/ice-age-dawn-of-the-dinosaurs\",\"id\":8355,\"imdb_id\":\"tt1080016\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ice Age: Dawn of the Dinosaurs\",\"overview\":\"Times are changing for Manny the moody mammoth, Sid the motor mouthed sloth and Diego the crafty saber-toothed tiger. Life heats up for our heroes when they meet some new and none-too-friendly neighbors \u2013 the mighty dinosaurs.\",\"popularity\":104.309,\"poster_path\":\"\/cXOLaxcNjNAYmEx1trZxOTKhK3Q.jpg\",\"production_companies\":[{\"id\":9383,\"logo_path\":\"\/ppeMh4iZJQUMm1nAjRALeNhWDfU.png\",\"name\":\"Blue Sky Studios\",\"origin_country\":\"US\"},{\"id\":11749,\"logo_path\":\"\/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png\",\"name\":\"20th Century Fox Animation\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-06-26\",\"revenue\":886686817,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You won't believe your ice!\",\"title\":\"Ice Age: Dawn of the Dinosaurs\",\"video\":false,\"vote_average\":6.755,\"vote_count\":8110}"
+}

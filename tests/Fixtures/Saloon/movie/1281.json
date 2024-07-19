@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1594",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21210",
+        "x-memc": "HIT",
+        "x-memc-key": "295614f2ec48cb718f57bb09baf318c3",
+        "x-memc-age": "515",
+        "x-memc-expires": "21210",
+        "ETag": "W\/\"7b1fbad4aa43ecf42632f1c764351dcb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_lpD21cje_TOMx0557qQalfs3flml5taZum27UHHGTJzONlEh_BE0w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m8HTWJJSZiypHtKoaio66Gy9G21.jpg\",\"belongs_to_collection\":{\"id\":103372,\"name\":\"Mr. Bean Collection\",\"poster_path\":\"\/61Jcc1Gwc2KE7sIJ1HPqqdt67ji.jpg\",\"backdrop_path\":\"\/aIXcqHz5VKRLXHPsNo0dFoK7YP5.jpg\"},\"budget\":18000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1281,\"imdb_id\":\"tt0118689\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Bean\",\"overview\":\"Childlike Englishman, Mr. Bean, is an incompetent watchman at the Royal National Gallery. After the museum's board of directors' attempt to have him fired is blocked by the chairman, who has taken a liking to Bean, they send him to Los Angeles to act as their ambassador for the unveiling of a historic painting to humiliate him. Fooled, Mr. Bean must now successfully unveil the painting or risk his and a hapless Los Angeles curator's termination.\",\"popularity\":51.708,\"poster_path\":\"\/IwrDPrB4d2DMcpnGkvan46yINL.jpg\",\"production_companies\":[{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":686,\"logo_path\":\"\/qMVjV8YFbxXrGVF4wD6hRjllVbr.png\",\"name\":\"Tiger Aspect\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1997-07-03\",\"revenue\":251212670,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One man. One masterpiece. One very big mistake.\",\"title\":\"Bean\",\"video\":false,\"vote_average\":6.465,\"vote_count\":2337}"
+}

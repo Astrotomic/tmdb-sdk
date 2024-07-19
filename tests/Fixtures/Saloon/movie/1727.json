@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1307",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5398",
+        "x-memc": "HIT",
+        "x-memc-key": "f26c3845fc2835a71dc1f5bf4713d836",
+        "x-memc-age": "17584",
+        "x-memc-expires": "5398",
+        "ETag": "W\/\"89ba07a3a9ed44bee8682743675690a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "00yPYlrp58nYq12qrBYTtMYneBkgZMJq4LxTZaOrYgPlcBkuv2O1Jg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/coTUjqmUcrNLhxVISDdAAphemLt.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1727,\"imdb_id\":\"tt0099141\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bird on a Wire\",\"overview\":\"An FBI informant has kept his new identity secret for 15 years. Now an old flame has recognised him, and the bad guys are back for revenge.\",\"popularity\":27.181,\"poster_path\":\"\/vhsv2PrAPZ79ZpV64AJ2TiEI2zX.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":10201,\"logo_path\":\"\/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png\",\"name\":\"Interscope Communications\",\"origin_country\":\"US\"},{\"id\":12646,\"logo_path\":null,\"name\":\"The Badham-Cohen Group\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-05-18\",\"revenue\":138700000,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He\u2019s every woman\u2019s dream and one woman\u2019s nightmare.\",\"title\":\"Bird on a Wire\",\"video\":false,\"vote_average\":6.213,\"vote_count\":898}"
+}

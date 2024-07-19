@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1306",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10096",
+        "x-memc": "HIT",
+        "x-memc-key": "d7ed7c3c72ab3009d37664edecbbada0",
+        "x-memc-age": "16418",
+        "x-memc-expires": "10096",
+        "ETag": "W\/\"6168ec981d11073bdac85a9e3a67c1c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ewbFsxHL6ZEJzWpWAChp0Ko3_0-5_RURe2mmokT5e7nD4vd8Pp-sOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pcSjQftPIflB8pSy0g41oSktp6N.jpg\",\"belongs_to_collection\":null,\"budget\":52000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":568,\"imdb_id\":\"tt0112384\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Apollo 13\",\"overview\":\"The true story of technical troubles that scuttle the Apollo 13 lunar mission in 1970, risking the lives of astronaut Jim Lovell and his crew, with the failed journey turning into a thrilling saga of heroism. Drifting more than 200,000 miles from Earth, the astronauts work furiously with the ground crew to avert tragedy.\",\"popularity\":44.194,\"poster_path\":\"\/kzj95o9FlVxKziQq36mjES3wxel.jpg\",\"production_companies\":[{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-06-30\",\"revenue\":355237933,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\\\"Houston, we have a problem.\\\"\",\"title\":\"Apollo 13\",\"video\":false,\"vote_average\":7.451,\"vote_count\":5263}"
+}

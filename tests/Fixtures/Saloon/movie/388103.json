@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1127",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11804",
+        "x-memc": "HIT",
+        "x-memc-key": "009872519e2331756167b9f01a0011a0",
+        "x-memc-age": "16407",
+        "x-memc-expires": "11804",
+        "ETag": "W\/\"0a33370e0bd3f799712249fdd615804c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SlFzKa1N_283AzgdO--82piFIbCvAdJM1GsYnYEsTHoKcJ1v0eL2pw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aVoz7vDxz5WYtM85h2pfbxLTgfD.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":388103,\"imdb_id\":\"tt0033634\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Free and Easy\",\"overview\":\"This MGM B-picture was adapted from Ivor Novello's play The Truth Game. Max and Florian Clemington pretend to be members of the landed gentry. Max romances the much-older Lady Joan Culver before finding true love in the form of pretty heiress Martha Gray.\",\"popularity\":2.753,\"poster_path\":\"\/aFen7FGTmqjHTWPQyeHt4KO2C9S.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-02-28\",\"revenue\":0,\"runtime\":56,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"I Can't Give You Anything but LOVE!\",\"title\":\"Free and Easy\",\"video\":false,\"vote_average\":5.5,\"vote_count\":4}"
+}

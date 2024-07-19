@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1692",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4941",
+        "x-memc": "HIT",
+        "x-memc-key": "66146cfce8b04a20e9579ee3bb40bc89",
+        "x-memc-age": "20084",
+        "x-memc-expires": "4941",
+        "ETag": "W\/\"4c8191fd819afeffeaede17c52b28632\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NOxtmA9TleV7P8rNlNZ1P1uakZa1R7jjWA3juRskRYST2ApS3C4QsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c9xSFZQtC4c16Vn5CMOaB1pGk9J.jpg\",\"belongs_to_collection\":null,\"budget\":110000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":2024,\"imdb_id\":\"tt0187393\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Patriot\",\"overview\":\"After proving himself on the field of battle in the French and Indian War, Benjamin Martin wants nothing more to do with such things, preferring the simple life of a farmer. But when his son Gabriel enlists in the army to defend their new nation, America, against the British, Benjamin reluctantly returns to his old life to protect his son.\",\"popularity\":56.522,\"poster_path\":\"\/fWZd815QxUCUcrWQZwUkAp9ljG.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":762,\"logo_path\":\"\/3T7EpKcS13viHu3WzRtQGvi9sTY.png\",\"name\":\"Mutual Film Company\",\"origin_country\":\"US\"},{\"id\":347,\"logo_path\":null,\"name\":\"Centropolis Entertainment\",\"origin_country\":\"US\"},{\"id\":9269,\"logo_path\":null,\"name\":\"Global Medien KG\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-06-28\",\"revenue\":215294342,\"runtime\":165,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Before they were soldiers, they were family. Before they were legends, they were heroes. Before there was a nation, there was a fight for freedom.\",\"title\":\"The Patriot\",\"video\":false,\"vote_average\":7.182,\"vote_count\":3806}"
+}

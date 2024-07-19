@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1685",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3910",
+        "x-memc": "HIT",
+        "x-memc-key": "f2ad92809cb9148ee4ebda4230539ff5",
+        "x-memc-age": "17879",
+        "x-memc-expires": "3910",
+        "ETag": "W\/\"88310c855f06b04ca771e73ac32d120c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SOfXGce80tN4C6SY2kTo5CAEpkAkXh3ciHA_-UVcuqumbRLFpieJmg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/esIwzihCKlyqT6AjdI3q6WdSi5u.jpg\",\"belongs_to_collection\":null,\"budget\":185000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/disney.go.com\/brave\/#\/home\",\"id\":62177,\"imdb_id\":\"tt1217209\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Brave\",\"overview\":\"Brave is set in the mystical Scottish Highlands, where M\u00e9rida is the princess of a kingdom ruled by King Fergus and Queen Elinor. An unruly daughter and an accomplished archer, M\u00e9rida one day defies a sacred custom of the land and inadvertently brings turmoil to the kingdom. In an attempt to set things right, M\u00e9rida seeks out an eccentric old Wise Woman and is granted an ill-fated wish. Also figuring into M\u00e9rida\u2019s quest \u2014 and serving as comic relief \u2014 are the kingdom\u2019s three lords: the enormous Lord MacGuffin, the surly Lord Macintosh, and the disagreeable Lord Dingwall.\",\"popularity\":94.329,\"poster_path\":\"\/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-06-21\",\"revenue\":539000000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Change your fate.\",\"title\":\"Brave\",\"video\":false,\"vote_average\":7.019,\"vote_count\":13126}"
+}

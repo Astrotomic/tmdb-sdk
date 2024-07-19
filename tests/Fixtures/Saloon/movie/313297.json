@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1256",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11570",
+        "x-memc": "HIT",
+        "x-memc-key": "30e87bf854e1bd7b99afaebe8f035a3f",
+        "x-memc-age": "10740",
+        "x-memc-expires": "11570",
+        "ETag": "W\/\"c026f90b2d0f9f89d05f6ac45746bcf8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8v9k8Jh2x6h9rmx2aeIn4pd9Ukkiu08gMm1pNu5kGTR3oteG_nxS1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2nGKhDksmoDdkllXm5D5gy2urCg.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/kubothemovie.com\",\"id\":313297,\"imdb_id\":\"tt4302938\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kubo and the Two Strings\",\"overview\":\"Kubo mesmerizes the people in his village with his magical gift for spinning wild tales with origami. When he accidentally summons an evil spirit seeking vengeance, Kubo is forced to go on a quest to solve the mystery of his fallen samurai father and his mystical weaponry, as well as discover his own magical powers.\",\"popularity\":65.233,\"poster_path\":\"\/la6QA9tk4Foq8OBH2Dyh5dTcw6H.jpg\",\"production_companies\":[{\"id\":11537,\"logo_path\":\"\/AgCkAk8EpUG9fTmK6mWcaJA2Zwh.png\",\"name\":\"Laika\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-08-18\",\"revenue\":76249438,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The quest begins\",\"title\":\"Kubo and the Two Strings\",\"video\":false,\"vote_average\":7.636,\"vote_count\":3487}"
+}

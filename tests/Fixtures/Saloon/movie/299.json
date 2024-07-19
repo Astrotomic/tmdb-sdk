@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1038",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18019",
+        "x-memc": "HIT",
+        "x-memc-key": "0c7ce1687bd9d9857adc8df2820e5d61",
+        "x-memc-age": "3962",
+        "x-memc-expires": "18019",
+        "ETag": "W\/\"74501d39fcfbad0d4048df3ffa611627\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qoPVDpdmjML_R-FODs2XTWMKGqLHlllPmQBrdfxi85UZ6dmgfBrqeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4svggv4gfe6vHsrGpaRMzrXLozt.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":299,\"imdb_id\":\"tt0054135\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ocean's Eleven\",\"overview\":\"Danny Ocean and his gang attempt to rob the five biggest casinos in Las Vegas in one night.\",\"popularity\":26.799,\"poster_path\":\"\/A4R6u7SidBPVXMVzGSysCiRGTRz.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":67993,\"logo_path\":null,\"name\":\"Dorchester\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1960-08-10\",\"revenue\":2800000,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Just Danny Ocean and his 11 pals.\",\"title\":\"Ocean's Eleven\",\"video\":false,\"vote_average\":6.4,\"vote_count\":333}"
+}

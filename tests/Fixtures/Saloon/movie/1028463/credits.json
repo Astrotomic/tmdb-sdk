@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1274",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18926",
+        "x-memc": "HIT",
+        "x-memc-key": "62c0b7785c6bfcb4353023fb3e093937",
+        "x-memc-age": "4000",
+        "x-memc-expires": "18926",
+        "ETag": "W\/\"5b54191beb1b867d21ed839f075d0a78\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fk32ds1x6VSCuikYCXQi2KOQYiKZRqYM_4TYMdnXvwns8GewuPXJxQ=="
+    },
+    "data": "{\"id\":1028463,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3463462,\"known_for_department\":\"Acting\",\"name\":\"Xavier Alom\u00e0\",\"original_name\":\"Xavier Alom\u00e0\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Nacho\",\"credit_id\":\"63305a18387651007b51a3ec\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3715132,\"known_for_department\":\"Acting\",\"name\":\"Miriam Poblador\",\"original_name\":\"Miriam Poblador\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Eva\",\"credit_id\":\"63305a259ac535007ce2eb8f\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3715133,\"known_for_department\":\"Acting\",\"name\":\"\u00c1ngela Cavaller\",\"original_name\":\"\u00c1ngela Cavaller\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Lourdes\",\"credit_id\":\"63305a3acede69007b87e1ad\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3452282,\"known_for_department\":\"Directing\",\"name\":\"Ram\u00f3n Cat\u00e0\",\"original_name\":\"Ram\u00f3n Cat\u00e0\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"63305a542b8a430096598680\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3463462,\"known_for_department\":\"Acting\",\"name\":\"Xavier Alom\u00e0\",\"original_name\":\"Xavier Alom\u00e0\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"63305a683876510083338dae\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

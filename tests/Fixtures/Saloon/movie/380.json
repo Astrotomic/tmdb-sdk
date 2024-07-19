@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1546",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4968",
+        "x-memc": "HIT",
+        "x-memc-key": "4714249ae60320b6b314a2bb5ccb541c",
+        "x-memc-age": "23489",
+        "x-memc-expires": "4968",
+        "ETag": "W\/\"caf43959095b3d4580ee5cab9d35a8f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "G-nQJ2D7MTvw0wTiaPiYiFr9N82ZoQyH4tZsPsVYUA97BnrKCxKYBg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mrfbeWcjgSaZ9NEb0xJMR9xzSeB.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":380,\"imdb_id\":\"tt0095953\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rain Man\",\"overview\":\"When car dealer Charlie Babbitt learns that his estranged father has died, he returns home to Cincinnati, where he discovers that he has a savant older brother named Raymond and that his father's $3 million fortune is being left to the mental institution in which Raymond lives. Motivated by his father's money, Charlie checks Raymond out of the facility in order to return with him to Los Angeles. The brothers' cross-country trip ends up changing both their lives.\",\"popularity\":57.932,\"poster_path\":\"\/iTNHwO896WKkaoPtpMMS74d8VNi.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":206,\"logo_path\":null,\"name\":\"Star Partners II Ltd.\",\"origin_country\":\"US\"},{\"id\":276,\"logo_path\":null,\"name\":\"Guber\/Peters Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-12-12\",\"revenue\":354825435,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A journey through understanding and fellowship.\",\"title\":\"Rain Man\",\"video\":false,\"vote_average\":7.764,\"vote_count\":6197}"
+}

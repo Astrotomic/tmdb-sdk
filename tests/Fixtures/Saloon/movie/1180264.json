@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1056",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13976",
+        "x-memc": "HIT",
+        "x-memc-key": "c744e3756966bd887842d108210871d1",
+        "x-memc-age": "9626",
+        "x-memc-expires": "13976",
+        "ETag": "W\/\"6deed6b8317711fd807fdccb7c4dc2aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Z3nWN39-vS49sjwY80Ef2ikLz2AUsIsotO3ZiVc171QbEoFSgsAwmw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wbOhyRQi2to09FgfkyoXWi6Kd2T.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.greatamericanfamily.com\/movie\/12-games-of-christmas\/\",\"id\":1180264,\"imdb_id\":\"tt30223562\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"12 Games of Christmas\",\"overview\":\"A group of old friends and neighbors are transported into a Christmas-themed board game during a Christmas party.\",\"popularity\":5.915,\"poster_path\":\"\/rZP9LKc93uNz9mviEUyd2b23aCu.jpg\",\"production_companies\":[{\"id\":1311,\"logo_path\":\"\/ic2bTizdzRLDVzAvN7MXdUg3WQV.png\",\"name\":\"The Asylum\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-12-17\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"12 Games of Christmas\",\"video\":false,\"vote_average\":6.7,\"vote_count\":3}"
+}

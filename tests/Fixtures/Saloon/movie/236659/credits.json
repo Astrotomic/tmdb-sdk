@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2185",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23248",
+        "x-memc": "HIT",
+        "x-memc-key": "53727e6db181de14808e8070409613c8",
+        "x-memc-age": "2872",
+        "x-memc-expires": "23248",
+        "ETag": "W\/\"516999ab3b63aa70af966e9a4fe5a872\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yIbyk42C6E6tWc0hukIdwxlVZJHx8uXhbAxiXpregdVsa2kjHPnGIA=="
+    },
+    "data": "{\"id\":236659,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1004823,\"known_for_department\":\"Acting\",\"name\":\"Jack Mercer\",\"original_name\":\"Jack Mercer\",\"popularity\":4.123,\"profile_path\":\"\/lCdwmzQBcgzAYOMXum6zZ4PhSrI.jpg\",\"cast_id\":4,\"character\":\"Popeye \/ Nephews \/ Villain (voice) (uncredited)\",\"credit_id\":\"57befaccc3a3685bd30026c2\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1246276,\"known_for_department\":\"Acting\",\"name\":\"Margie Hines\",\"original_name\":\"Margie Hines\",\"popularity\":1.676,\"profile_path\":null,\"cast_id\":3,\"character\":\"Olive Oyl (voice) (uncredited)\",\"credit_id\":\"57befabfc3a3682155006551\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":89755,\"known_for_department\":\"Directing\",\"name\":\"Seymour Kneitel\",\"original_name\":\"Seymour Kneitel\",\"popularity\":3.581,\"profile_path\":\"\/6HeCQ7XXSDjQbl2RN6iYrs1zjX0.jpg\",\"credit_id\":\"52fe4e5ec3a36847f828c6a7\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1004823,\"known_for_department\":\"Acting\",\"name\":\"Jack Mercer\",\"original_name\":\"Jack Mercer\",\"popularity\":4.123,\"profile_path\":\"\/lCdwmzQBcgzAYOMXum6zZ4PhSrI.jpg\",\"credit_id\":\"640b5bb53a4a1200ee542e00\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":2,\"id\":1503219,\"known_for_department\":\"Writing\",\"name\":\"Jack Ward\",\"original_name\":\"Jack Ward\",\"popularity\":2.188,\"profile_path\":null,\"credit_id\":\"640b5bc19dee5800dee0aa91\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":2,\"id\":1123499,\"known_for_department\":\"Directing\",\"name\":\"Orestes Calpini\",\"original_name\":\"Orestes Calpini\",\"popularity\":2.419,\"profile_path\":null,\"credit_id\":\"640b5bcd3a4a12009bd6f32d\",\"department\":\"Visual Effects\",\"job\":\"Animation\"},{\"adult\":false,\"gender\":2,\"id\":1599621,\"known_for_department\":\"Visual Effects\",\"name\":\"Otto Feuer\",\"original_name\":\"Otto Feuer\",\"popularity\":0.223,\"profile_path\":null,\"credit_id\":\"640b5bd69dee5800b8757f74\",\"department\":\"Visual Effects\",\"job\":\"Animation\"},{\"adult\":false,\"gender\":2,\"id\":1123499,\"known_for_department\":\"Directing\",\"name\":\"Orestes Calpini\",\"original_name\":\"Orestes Calpini\",\"popularity\":2.419,\"profile_path\":null,\"credit_id\":\"640b5be241a5610113bd3898\",\"department\":\"Visual Effects\",\"job\":\"Animation Director\"}]}"
+}

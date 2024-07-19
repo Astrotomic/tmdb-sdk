@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1485",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14459",
+        "x-memc": "HIT",
+        "x-memc-key": "b4533b1a72f7da255e5de9a69ff083df",
+        "x-memc-age": "8576",
+        "x-memc-expires": "14459",
+        "ETag": "W\/\"a7a272c3c8125710cabdb3c53a356f9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qQh5Ju8lHi_k6g5gAqbR-qEwYz9siKn7r0b7GluK8aiJPkytacItmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uGNsUtgq0chPio3Tk0htDQu6DyP.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11942,\"imdb_id\":\"tt0071249\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bring Me the Head of Alfredo Garcia\",\"overview\":\"An American bartender and his prostitute girlfriend go on a road trip through the Mexican underworld to collect a $1 million bounty on the head of a dead gigolo.\",\"popularity\":13.812,\"poster_path\":\"\/gRWVf3InNlIlFT3WB9MnFdOwcYQ.jpg\",\"production_companies\":[{\"id\":14907,\"logo_path\":null,\"name\":\"Optimus Films\",\"origin_country\":\"\"},{\"id\":5153,\"logo_path\":\"\/d4BySWBlcGBBY58FG78DWMi9nrs.png\",\"name\":\"Estudios Churubusco Azteca\",\"origin_country\":\"MX\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1974-08-01\",\"revenue\":700000,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Why is his head worth one million dollars and the lives of 21 people?\",\"title\":\"Bring Me the Head of Alfredo Garcia\",\"video\":false,\"vote_average\":7.1,\"vote_count\":350}"
+}

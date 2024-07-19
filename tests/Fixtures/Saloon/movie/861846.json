@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "872",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18918",
+        "x-memc": "HIT",
+        "x-memc-key": "473e7ae44301bd2f3091a2087798110d",
+        "x-memc-age": "3243",
+        "x-memc-expires": "18918",
+        "ETag": "W\/\"abb5515f73c9d25a52fb377816ecc04d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_2zbb2Ergze4Mfv6Z2KBaoGAjZI1eZWmlaeyUSC1N8AhqVWvbbRYPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":861846,\"imdb_id\":null,\"origin_country\":[\"US\",\"SG\"],\"original_language\":\"en\",\"original_title\":\"\u5c0f\u98de\u9c7c\",\"overview\":\"A teenager who aspired to become one of the best swimmers, but was pressured by his father to abandon his interest and instead study hard for the examinations.\",\"popularity\":0.737,\"poster_path\":\"\/eCNG8tYR7qHFJxlgYbyKYsxPTGf.jpg\",\"production_companies\":[{\"id\":131754,\"logo_path\":\"\/bDkogDnA7kvNqDvgTWnhNJ0OdEu.png\",\"name\":\"MediaCorp\",\"origin_country\":\"SG\"}],\"production_countries\":[{\"iso_3166_1\":\"SG\",\"name\":\"Singapore\"}],\"release_date\":\"1983-01-01\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Flying Fish\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

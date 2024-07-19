@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1203",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2879",
+        "x-memc": "HIT",
+        "x-memc-key": "806ec39894ebcacaee3be5f2b6ea315d",
+        "x-memc-age": "25393",
+        "x-memc-expires": "2879",
+        "ETag": "W\/\"ada74e3f35a64969bc03a2dcfc5921b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LuY8LJLf-rb3C3JwJYNCViZ7a0Ka3hVk1mPTJsnXZAnfeFGqWnDXTw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9QXx4tS65s3oUBoQ27bMIwmBD9x.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":48466,\"imdb_id\":\"tt1725156\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Scared Shrekless\",\"overview\":\"Shrek challenges Donkey, Puss in Boots and his other fairy tale character friends to spend the night in Lord Farquaad's haunted castle, telling scary stories to see who can resist becoming scared and stay the longest.\",\"popularity\":23.567,\"poster_path\":\"\/aAQQJhX8NqKZ7ZNDUPQQKi1wK8h.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-10-28\",\"revenue\":0,\"runtime\":21,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Scared Shrekless\",\"video\":false,\"vote_average\":6.625,\"vote_count\":439}"
+}

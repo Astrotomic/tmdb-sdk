@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1680",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1028",
+        "x-memc": "HIT",
+        "x-memc-key": "899226527b5a46afe1cbde38dd16d23d",
+        "x-memc-age": "24081",
+        "x-memc-expires": "1028",
+        "ETag": "W\/\"98e58c50eb2a808e0ba85f73ce965710\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UI-Lh4q0oFgB76IBSIQEK1FJXLazRftxemMeUmH7fYB7Q8HHFR8SPw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nenJjvfe2Eq8uBMXFJnWj5mw4bi.jpg\",\"belongs_to_collection\":{\"id\":86027,\"name\":\"Aladdin Collection\",\"poster_path\":\"\/9jAbtLbAbebtuF5q1gZIPUCuegd.jpg\",\"backdrop_path\":\"\/kUHyN9PzQ59e2n3CwqMG99yxBvh.jpg\"},\"budget\":28000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/movies.disney.com\/aladdin\",\"id\":812,\"imdb_id\":\"tt0103639\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Aladdin\",\"overview\":\"Princess Jasmine grows tired of being forced to remain in the palace, so she sneaks out into the marketplace, in disguise, where she meets street urchin Aladdin. The couple falls in love, although Jasmine may only marry a prince. After being thrown in jail, Aladdin becomes embroiled in a plot to find a mysterious lamp, with which the evil Jafar hopes to rule the land.\",\"popularity\":68.562,\"poster_path\":\"\/oakAd8syy7jNQ4ZoaAGCQkTqcOV.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":171656,\"logo_path\":\"\/4UBohOtIr9DtxylH48Qsg6aDow6.png\",\"name\":\"Walt Disney Feature Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-11-25\",\"revenue\":504050219,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Imagine if you had three wishes, three hopes, three dreams and they all could come true.\",\"title\":\"Aladdin\",\"video\":false,\"vote_average\":7.653,\"vote_count\":11013}"
+}

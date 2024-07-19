@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1591",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8528",
+        "x-memc": "HIT",
+        "x-memc-key": "ce70cb376689dbd72a733407d2bd0e3b",
+        "x-memc-age": "14020",
+        "x-memc-expires": "8528",
+        "ETag": "W\/\"48ef76e506267bf60d82649ee85e4e7f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tDZWQZ0qeAJGeM9Hq3ukykNde08C0w0KlWMXEpuGrwPuM3EKmb6Mcw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cBwB9apqeapq6CIrpG1FrzKkIJq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":364902,\"imdb_id\":\"tt4247618\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Dresser\",\"overview\":\"One fateful night in a small English regional theatre during World War II a troupe of touring actors stage a production of Shakespeares King Lear. Bombs are falling, sirens are wailing, the curtain is up in an hour but the actor\/manager Sir who is playing Lear is nowhere to be seen. His dresser Norman must scramble to keep the production alive but will Sir turn up in time and if he does will he be able to perform that night? The Dresser is a wickedly funny and deeply moving story of friendship and loyalty as Sir reflects on his lifelong accomplishments and seeks to reconcile his turbulent friendships with those in his employ before the final curtain.\",\"popularity\":12.459,\"poster_path\":\"\/zu1RH6FJxRH3tavMrt1hSTSh6PP.jpg\",\"production_companies\":[{\"id\":3324,\"logo_path\":\"\/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png\",\"name\":\"BBC\",\"origin_country\":\"GB\"},{\"id\":19089,\"logo_path\":\"\/8Ae3B71e6sXpBsEgS4JGq6di5PM.png\",\"name\":\"Playground Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2015-10-31\",\"revenue\":0,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Dresser\",\"video\":false,\"vote_average\":6.3,\"vote_count\":77}"
+}

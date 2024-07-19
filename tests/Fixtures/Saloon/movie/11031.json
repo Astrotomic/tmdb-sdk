@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1636",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6813",
+        "x-memc": "HIT",
+        "x-memc-key": "ea26088a4a73145c4044124fd98d3610",
+        "x-memc-age": "17907",
+        "x-memc-expires": "6813",
+        "ETag": "W\/\"e9216dcb711172787cd3b69f33c20870\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9OT7DC1Ez-DwEuU0M8cK0UI68RzYd-dw5y8biARuNV9trtMzIqNpMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mQoSPZ8LR8d1ExCLWlcp8dlI78G.jpg\",\"belongs_to_collection\":{\"id\":975227,\"name\":\"This Is Spinal Tap Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":2500000,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11031,\"imdb_id\":\"tt0088258\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"This Is Spinal Tap\",\"overview\":\"\\\"This Is Spinal Tap\\\" shines a light on the self-contained universe of a metal band struggling to get back on the charts, including everything from its complicated history of ups and downs, gold albums, name changes and undersold concert dates, along with the full host of requisite groupies, promoters, hangers-on and historians, sessions, release events and those special behind-the-scenes moments that keep it all real.\",\"popularity\":20.543,\"poster_path\":\"\/z2LA8eBTSuuPC4NBhIZRNIwpimH.jpg\",\"production_companies\":[{\"id\":3566,\"logo_path\":null,\"name\":\"Spinal Tap Prod.\",\"origin_country\":\"\"},{\"id\":757,\"logo_path\":null,\"name\":\"Embassy Films Associates\",\"origin_country\":\"US\"},{\"id\":112748,\"logo_path\":\"\/lGUJXMRuudPSl4SrmXUaag0d8oj.png\",\"name\":\"Embassy Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1984-03-02\",\"revenue\":4700000,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Prepare to crank those amps up to eleven\",\"title\":\"This Is Spinal Tap\",\"video\":false,\"vote_average\":7.43,\"vote_count\":1360}"
+}

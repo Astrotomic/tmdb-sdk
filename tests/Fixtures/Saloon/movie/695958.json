@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1076",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6120",
+        "x-memc": "HIT",
+        "x-memc-key": "2383ecfab717a54a71153fea83a29890",
+        "x-memc-age": "20080",
+        "x-memc-expires": "6120",
+        "ETag": "W\/\"db0cb5f010be12338084682b8cfff5a7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VVn7KvRaXo7SMGv-VJvMPd68tUbYlLnAGLkQP2Qw8sS2cuoGH__5jA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hdyP0WWMbEr28395dSADp9mlrkm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81144153\",\"id\":695958,\"imdb_id\":\"tt8907992\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0926 \u0917\u0930\u094d\u0932 \u0911\u0928 \u0926 \u091f\u094d\u0930\u0947\u0928\",\"overview\":\"When a voyeuristic divorcee fixates on the lives of a perfect couple a far, she soon gets embroiled in a murder mystery that unfolds revealing truths about her own life.\",\"popularity\":14.54,\"poster_path\":\"\/6Zvov912Mm0mrjR5nEGbSujjnGE.jpg\",\"production_companies\":[{\"id\":7294,\"logo_path\":\"\/kK4PRgceWp9KNrycD8xx8seWxYU.png\",\"name\":\"Reliance Entertainment\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2021-02-26\",\"revenue\":0,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Girl on the Train\",\"video\":false,\"vote_average\":5.9,\"vote_count\":74}"
+}

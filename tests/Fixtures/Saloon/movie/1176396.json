@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1538",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18286",
+        "x-memc": "HIT",
+        "x-memc-key": "2a591246fff4eb89c93ac53abdec429d",
+        "x-memc-age": "6107",
+        "x-memc-expires": "18286",
+        "ETag": "W\/\"a4e9036f0f16a93fefbce719ea166197\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XYV7otM6nXa0ob4UVUUzAZH7SZA2xn89EqS3VjVnQP89h2LLMMDwKg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/73qFWxxhS7vGixWcHBYPeYOW2L7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/r\u00e5ttunge.com\/\",\"id\":1176396,\"imdb_id\":\"tt29048557\",\"origin_country\":[\"FR\",\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Balladen\",\"overview\":\"A fed up food delivery worker chooses a split second act of rebellion - one that results in an awkward, spiraling dance between the classes of 21st century Sweden.\",\"popularity\":0.569,\"poster_path\":\"\/ApLi0QTHxhwE7wje0SDW2QY5vos.jpg\",\"production_companies\":[{\"id\":209863,\"logo_path\":null,\"name\":\"R\u00e5ttunge Produktion\",\"origin_country\":\"\"},{\"id\":68259,\"logo_path\":\"\/ee93JRKJqv77qpZoCnR7JWJGKse.png\",\"name\":\"oriGine Films\",\"origin_country\":\"FR\"},{\"id\":2999,\"logo_path\":\"\/zGSqFee9aDgDuLD6vcs2mcJUem4.png\",\"name\":\"SVT\",\"origin_country\":\"SE\"},{\"id\":12477,\"logo_path\":\"\/tuREvnCzrM5sNXyrKRFCyB1gHF8.png\",\"name\":\"Film i Sk\u00e5ne\",\"origin_country\":\"SE\"},{\"id\":201,\"logo_path\":\"\/6UIpEURdjnmcJPwgTDRzVRuwADr.png\",\"name\":\"ARTE\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2023-09-09\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[{\"english_name\":\"Bengali\",\"iso_639_1\":\"bn\",\"name\":\"\u09ac\u09be\u0982\u09b2\u09be\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Ballad\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14302",
+        "x-memc": "HIT",
+        "x-memc-key": "e2d47cfd4f47b51571c34ec861ebbf1e",
+        "x-memc-age": "7488",
+        "x-memc-expires": "14302",
+        "ETag": "W\/\"41902438ab2ef3887f602af3170bb84c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sDzIE8kcmdMHM7BPa6uf8AgPj57ac7muytM1Xz9r7MT3ilw3nwwgMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qiH3QpwFrErzPNv36gOrTUNtZks.jpg\",\"belongs_to_collection\":{\"id\":923500,\"name\":\"Gates of Hell Trilogy\",\"poster_path\":\"\/lWTtyQOLJe12WjQ6HRbIIBDzdyZ.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":24920,\"imdb_id\":\"tt0081318\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Paura nella citt\u00e0 dei morti viventi\",\"overview\":\"A woman seemingly dies of fright after participating in a s\u00e9ance where she sees a vision of a Dunwich priest hanging himself in a church cemetery. New York City reporter Peter Bell investigates and learns that the priest's suicide has somehow opened a portal to Hell and must be sealed by All Saints Day, or else the dead will overtake humanity.\",\"popularity\":21.281,\"poster_path\":\"\/8ymAiDW9ct2GSywWkqATEiKE8OB.jpg\",\"production_companies\":[{\"id\":15868,\"logo_path\":null,\"name\":\"Medusa Distribuzione\",\"origin_country\":\"IT\"},{\"id\":1701,\"logo_path\":null,\"name\":\"Dania Film\",\"origin_country\":\"IT\"},{\"id\":2185,\"logo_path\":null,\"name\":\"National Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1980-08-11\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"From the bowels of the Earth they came... to collect the living!\",\"title\":\"City of the Living Dead\",\"video\":false,\"vote_average\":6.3,\"vote_count\":365}"
+}

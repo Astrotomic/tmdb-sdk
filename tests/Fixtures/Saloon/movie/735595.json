@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1224",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20332",
+        "x-memc": "HIT",
+        "x-memc-key": "2400d7300ad29e2610033e58f2c6cc74",
+        "x-memc-age": "6079",
+        "x-memc-expires": "20332",
+        "ETag": "W\/\"5780955eaf724552a33297f9927187c5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mHsnK_06Xyxr3ir9zvdSJhIyxwI7DQ62zrkfMXipZNNhDXZ05ENtsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mm1JTSYpaFSTFCEtwRWziGTSvCJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":735595,\"imdb_id\":\"tt9654108\",\"origin_country\":[\"AT\"],\"original_language\":\"de\",\"original_title\":\"Das schaurige Haus\",\"overview\":\"When a big-city family moves to a remote town, two young brothers and their new friends try to solve the menacing mystery that haunts their home.\",\"popularity\":14.935,\"poster_path\":\"\/1N5KeZaw8bQrt30UaV9qtPLjkwI.jpg\",\"production_companies\":[{\"id\":51075,\"logo_path\":null,\"name\":\"Naked Eye Filmproduction\",\"origin_country\":\"DE\"},{\"id\":3391,\"logo_path\":\"\/t0QBs2fI3mE3HxgoH1n39bYuzNu.png\",\"name\":\"ORF\",\"origin_country\":\"AT\"},{\"id\":18955,\"logo_path\":\"\/l75RRUtr7na0fmq9Vp091xFCIzT.png\",\"name\":\"Mona Film Produktion\",\"origin_country\":\"AT\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2020-10-30\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Scary House\",\"video\":false,\"vote_average\":5.581,\"vote_count\":227}"
+}

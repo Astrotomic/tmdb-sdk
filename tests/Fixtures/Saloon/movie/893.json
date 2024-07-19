@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "932",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11771",
+        "x-memc": "HIT",
+        "x-memc-key": "8a246bd39680bba38ba28db9960d40a1",
+        "x-memc-age": "14988",
+        "x-memc-expires": "11771",
+        "ETag": "W\/\"3cb385541459804da6cb5bd04d3b2362\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8hJEVLtVdJTZ6AIRHjvl3PAu9QAL3YzcU4wYaNOWufcwhUjgbbrLAg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":893,\"imdb_id\":\"tt0246859\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Die Polizistin\",\"overview\":\"Die Polizistin is a documentary by Andreas Dresen about the life of a young police woman who is faced with the difficulties between her responsibilities at work and her personal responsibilities.\",\"popularity\":8.966,\"poster_path\":\"\/vlvjjp7WD3K1J5G2lxPoWhU53bk.jpg\",\"production_companies\":[{\"id\":583,\"logo_path\":null,\"name\":\"Westdeutsche Universum-Film GmbH\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2000-05-10\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Policewoman\",\"video\":false,\"vote_average\":7.0,\"vote_count\":10}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "911",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17507",
+        "x-memc": "HIT",
+        "x-memc-key": "7831a11dc71958d71c4d257f0bf5d588",
+        "x-memc-age": "5959",
+        "x-memc-expires": "17507",
+        "ETag": "W\/\"33fd8d87474953d90d0b66e73b157210\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QaZrkWrp4thMpz9u042k292HB3DeuW0ADI1AV27x_pw0SQZc1vccMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4kJEEhXE1ydqaYM9cplvQMr2xXc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":241266,\"imdb_id\":\"tt0042468\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Flying Missile\",\"overview\":\"A Navy commander experiments with launching missiles from submarines.\",\"popularity\":7.808,\"poster_path\":\"\/pIjtctAevsQzyuD5GX59CRz8Jam.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1950-12-24\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Bomb That Stalks Its Prey!\",\"title\":\"The Flying Missile\",\"video\":false,\"vote_average\":5.4,\"vote_count\":5}"
+}

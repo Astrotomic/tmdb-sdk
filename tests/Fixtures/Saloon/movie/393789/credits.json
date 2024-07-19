@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3717",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5940",
+        "x-memc": "HIT",
+        "x-memc-key": "0022513d3c96b7f8577bc5c68e5fc2e6",
+        "x-memc-age": "16793",
+        "x-memc-expires": "5940",
+        "ETag": "W\/\"eda2aea3c374e14763265d76e8a46d11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z6mVFQznWE1JMPSEK9LlUdmR2ExQ4uhXPCYmHXuSMSdvzhM1bPnz8Q=="
+    },
+    "data": "{\"id\":393789,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1149143,\"known_for_department\":\"Acting\",\"name\":\"Hale Lytle\",\"original_name\":\"Hale Lytle\",\"popularity\":4.212,\"profile_path\":\"\/9HQA0OlpF6SjqjpVTTVfqH64Qgp.jpg\",\"cast_id\":3,\"character\":\"Dusty\",\"credit_id\":\"57c0756bc3a36820f8005d4a\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1551547,\"known_for_department\":\"Acting\",\"name\":\"Michael Barbieri\",\"original_name\":\"Michael Barbieri\",\"popularity\":3.688,\"profile_path\":\"\/y1fFGDF3xkuqC0wml47pCFdM80l.jpg\",\"cast_id\":0,\"character\":\"Pollack\",\"credit_id\":\"5717daa8925141276f00197a\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":1608455,\"known_for_department\":\"Acting\",\"name\":\"Judith Lightfoot Clarke\",\"original_name\":\"Judith Lightfoot Clarke\",\"popularity\":1.623,\"profile_path\":\"\/4yMzH2Idb9UIPaViqNkysZv6a4j.jpg\",\"cast_id\":1,\"character\":\"Dusty's Mom\",\"credit_id\":\"5717dac5925141276f001982\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":3950727,\"known_for_department\":\"Acting\",\"name\":\"Richard Price\",\"original_name\":\"Richard Price\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":14,\"character\":\"Dusty's Dad\",\"credit_id\":\"652116e607216600e2d9d474\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":4264631,\"known_for_department\":\"Acting\",\"name\":\"Todd Henry\",\"original_name\":\"Todd Henry\",\"popularity\":0.011,\"profile_path\":null,\"cast_id\":8,\"character\":\"Bully\",\"credit_id\":\"64fe390de0ca7f010de90856\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":1670570,\"known_for_department\":\"Acting\",\"name\":\"Jack Scott\",\"original_name\":\"Jack Scott\",\"popularity\":0.035,\"profile_path\":null,\"cast_id\":4,\"character\":\"Devin\",\"credit_id\":\"57c075a592514149eb002085\",\"order\":5},{\"adult\":false,\"gender\":0,\"id\":1670571,\"known_for_department\":\"Acting\",\"name\":\"Jake Kitchin\",\"original_name\":\"Jake Kitchin\",\"popularity\":0.014,\"profile_path\":null,\"cast_id\":5,\"character\":\"Joe\",\"credit_id\":\"57c075f99251411212006607\",\"order\":6},{\"adult\":false,\"gender\":0,\"id\":2693182,\"known_for_department\":\"Acting\",\"name\":\"Daniel Haughey\",\"original_name\":\"Daniel Haughey\",\"popularity\":0.112,\"profile_path\":null,\"cast_id\":9,\"character\":\"Principal\",\"credit_id\":\"64fe394defea7a00c3958985\",\"order\":7}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1134249,\"known_for_department\":\"Directing\",\"name\":\"Matt Kazman\",\"original_name\":\"Matt Kazman\",\"popularity\":0.541,\"profile_path\":\"\/67JUmnFTXqKQbVxoR3cTsvJhEUJ.jpg\",\"credit_id\":\"57bb43dac3a3686ef4001572\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1134249,\"known_for_department\":\"Directing\",\"name\":\"Matt Kazman\",\"original_name\":\"Matt Kazman\",\"popularity\":0.541,\"profile_path\":\"\/67JUmnFTXqKQbVxoR3cTsvJhEUJ.jpg\",\"credit_id\":\"57c0761e9251414b15004bae\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":1134249,\"known_for_department\":\"Directing\",\"name\":\"Matt Kazman\",\"original_name\":\"Matt Kazman\",\"popularity\":0.541,\"profile_path\":\"\/67JUmnFTXqKQbVxoR3cTsvJhEUJ.jpg\",\"credit_id\":\"64fe39756a222700aba7a2ce\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":1134249,\"known_for_department\":\"Directing\",\"name\":\"Matt Kazman\",\"original_name\":\"Matt Kazman\",\"popularity\":0.541,\"profile_path\":\"\/67JUmnFTXqKQbVxoR3cTsvJhEUJ.jpg\",\"credit_id\":\"64fe3979e0ca7f00ec8bfad7\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":2272177,\"known_for_department\":\"Production\",\"name\":\"Ben Altarescu\",\"original_name\":\"Ben Altarescu\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"64fe3984efea7a011ab6e6c4\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":2432777,\"known_for_department\":\"Camera\",\"name\":\"Ryan Nethery\",\"original_name\":\"Ryan Nethery\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"64fe3996efea7a0137d144ed\",\"department\":\"Crew\",\"job\":\"Cinematography\"}]}"
+}

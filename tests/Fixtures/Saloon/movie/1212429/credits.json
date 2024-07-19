@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "804",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3341",
+        "x-memc": "HIT",
+        "x-memc-key": "bfb95092705ac69d7adbc423f2bfc5c7",
+        "x-memc-age": "24450",
+        "x-memc-expires": "3341",
+        "ETag": "W\/\"8a2bc06318f4d54ff61b24d29a07326c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_hdMQSoleKsCAZvAtm_7cySdxXpJiwlFzV8NWulHvCWFlITCvFsQew=="
+    },
+    "data": "{\"id\":1212429,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":1381673,\"known_for_department\":\"Acting\",\"name\":\"Courtney Patterson\",\"original_name\":\"Courtney Patterson\",\"popularity\":3.696,\"profile_path\":\"\/d3zaWCozuVY9LWl1HrAs3dF2P04.jpg\",\"cast_id\":1,\"character\":\"Narrator\",\"credit_id\":\"656b01460859b4011c21a932\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":4408318,\"known_for_department\":\"Writing\",\"name\":\"Steve Massa\",\"original_name\":\"Steve Massa\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"656b015856846300cdb82b0f\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":557515,\"known_for_department\":\"Directing\",\"name\":\"Bret Wood\",\"original_name\":\"Bret Wood\",\"popularity\":0.078,\"profile_path\":null,\"credit_id\":\"656b016a0859b400ff74e9e9\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

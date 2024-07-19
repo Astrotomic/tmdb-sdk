@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1266",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18263",
+        "x-memc": "HIT",
+        "x-memc-key": "e0ac9716e3e040187953f03aa7ee70ae",
+        "x-memc-age": "4907",
+        "x-memc-expires": "18263",
+        "ETag": "W\/\"55990ba6cf9487aeefe459a1b098ac1f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9yYsUZZtGJ_hJp7KQeEO__twUUam80TegkXf-DqRpJn99pNvKIHzfA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/d0oHN3xA6TxOvADW64OiyYFpLOf.jpg\",\"belongs_to_collection\":null,\"budget\":42000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":5966,\"imdb_id\":\"tt0343135\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Along Came Polly\",\"overview\":\"Reuben Feffer is a guy who's spent his entire life playing it safe. Polly Prince is irresistible as a free-spirit who lives for the thrill of the moment. When these two comically mismatched souls collide, Reuben's world is turned upside down, as he makes an uproarious attempt to change his life from middle-of-the-road to totally-out-there.\",\"popularity\":29.463,\"poster_path\":\"\/ieTSn8YTsHoPK8GNf2J9eIkP5wo.jpg\",\"production_companies\":[{\"id\":216,\"logo_path\":\"\/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png\",\"name\":\"Jersey Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-01-16\",\"revenue\":178300000,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"For the most cautious man on Earth, life is about to get interesting.\",\"title\":\"Along Came Polly\",\"video\":false,\"vote_average\":6.008,\"vote_count\":2758}"
+}

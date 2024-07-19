@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "691",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6872",
+        "x-memc": "HIT",
+        "x-memc-key": "9882d36645495afdb6799249d9f59135",
+        "x-memc-age": "18690",
+        "x-memc-expires": "6872",
+        "ETag": "W\/\"27b62a08f2abd98c219d74eef75a5592\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ktA-buZNRVFN0LF7Q44SsA4rRxQpfpC65nOgTK1y_FdX-UO87ssjzw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/od7xeqFKe3gKDSVoOEJz6lAfzpf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1215589,\"imdb_id\":null,\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"FILM\",\"overview\":\"A man tries to make a film but gets sick.\",\"popularity\":0.918,\"poster_path\":\"\/gqdtIZDemygfGUcYI1SxLxXLDtz.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2019-06-19\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"FILM\",\"video\":false,\"vote_average\":7.333,\"vote_count\":9}"
+}

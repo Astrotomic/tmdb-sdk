@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1390",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6024",
+        "x-memc": "HIT",
+        "x-memc-key": "b401a379e1b7a28eddfed7aed156e351",
+        "x-memc-age": "17539",
+        "x-memc-expires": "6024",
+        "ETag": "W\/\"2b6866ee11edac15032b3374b0911754\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yLm4KDtIAtbydcuf6NJ6ofz-KfG_ziLr3NtzVcVrRXL_DuJOqTL4YQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a77bSwVuEPBcKO9zR6IEz0VhXRE.jpg\",\"belongs_to_collection\":{\"id\":33059,\"name\":\"Wild Things Collection\",\"poster_path\":\"\/iafrzHPYyZXZl96la1IrjxMsW1e.jpg\",\"backdrop_path\":\"\/wCh4W9gWT9DT7mRgWDofwcM2pwD.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":617,\"imdb_id\":\"tt0120890\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wild Things\",\"overview\":\"When teen-socialite Kelly Van Ryan and troubled bad girl Suzie Toller accuse guidance counselor Sam Lombardo of rape, he's suspended by the school, rejected by the town, and fighting to get his life back. One cop suspects conspiracy, but nothing is what it seems...\",\"popularity\":43.679,\"poster_path\":\"\/aaicreJBf7EuwGq3GgUV5ZedlfF.jpg\",\"production_companies\":[{\"id\":1236,\"logo_path\":null,\"name\":\"Mandalay Entertainment\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-03-20\",\"revenue\":67200000,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're dying to play with you.\",\"title\":\"Wild Things\",\"video\":false,\"vote_average\":6.365,\"vote_count\":1681}"
+}

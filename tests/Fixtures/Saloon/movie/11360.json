@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1089",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14142",
+        "x-memc": "HIT",
+        "x-memc-key": "cd3e5bb7100f0a554fd3e8b41db08690",
+        "x-memc-age": "13517",
+        "x-memc-expires": "14142",
+        "ETag": "W\/\"51da00be8a2f69d8da4f448abc0116b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cjIhcIrLHNA7hZM2y5XFntcgtraiXTtztWH1abUiA08DFlfl4RUHnQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aRVQ1EgTx3vbhK6qls2O834bPQc.jpg\",\"belongs_to_collection\":null,\"budget\":812000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":11360,\"imdb_id\":\"tt0033563\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dumbo\",\"overview\":\"Dumbo is a baby elephant born with over-sized ears and a supreme lack of confidence. But thanks to his even more diminutive buddy Timothy the Mouse,  the pint-sized pachyderm learns to surmount all obstacles.\",\"popularity\":63.631,\"poster_path\":\"\/2MOI6Zcw99uv4K22Is5S9LxBkDD.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-10-31\",\"revenue\":1600000,\"runtime\":64,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The One...The Only...The FABULOUS...\",\"title\":\"Dumbo\",\"video\":false,\"vote_average\":7.007,\"vote_count\":4836}"
+}

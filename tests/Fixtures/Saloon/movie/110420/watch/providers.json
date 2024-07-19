@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3491",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17514",
+        "x-memc": "HIT",
+        "x-memc-key": "1bef8aa4359f1780cbffe7305588724c",
+        "x-memc-age": "6886",
+        "x-memc-expires": "17514",
+        "ETag": "W\/\"1f356b02c35ba869167d4858db6b473e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u1DE2kjkxVeK2w7-s6b2o892dzdwF0l-yV2TLH_yz84rioBPBfPN6A=="
+    },
+    "data": "{\"id\":110420,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=BR\",\"ads\":[{\"logo_path\":\"\/oJRCAz1WKkKM9Ge7mX5KFnegTNY.jpg\",\"provider_id\":1875,\"provider_name\":\"Runtime\",\"display_priority\":68}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/j7wdfXtHKUpV9CNwnXUa68HImFx.jpg\",\"provider_id\":1968,\"provider_name\":\"Crunchyroll Amazon Channel\",\"display_priority\":12},{\"logo_path\":\"\/mXeC4TrcgdU6ltE9bCBCEORwSQR.jpg\",\"provider_id\":283,\"provider_name\":\"Crunchyroll\",\"display_priority\":126}]},\"HK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=HK\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":11}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}],\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3},{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}],\"buy\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=TW\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/110420\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/mXeC4TrcgdU6ltE9bCBCEORwSQR.jpg\",\"provider_id\":283,\"provider_name\":\"Crunchyroll\",\"display_priority\":7},{\"logo_path\":\"\/j7wdfXtHKUpV9CNwnXUa68HImFx.jpg\",\"provider_id\":1968,\"provider_name\":\"Crunchyroll Amazon Channel\",\"display_priority\":12}]}}}"
+}

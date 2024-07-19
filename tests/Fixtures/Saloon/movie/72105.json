@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1552",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17856",
+        "x-memc": "HIT",
+        "x-memc-key": "529ffffd6469f69e3e1f509df1c585c0",
+        "x-memc-age": "4894",
+        "x-memc-expires": "17856",
+        "ETag": "W\/\"230cf4b1b2725eef079287d62274c187\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8pIV25auNZFMzxNQfTpev4PUmU50Jfl9tBb-CN0hL38wbotbX910BQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wS9TiAS1WckeTS2IrFg5dRN9WQD.jpg\",\"belongs_to_collection\":{\"id\":266672,\"name\":\"Ted Collection\",\"poster_path\":\"\/uHKT9b6ptLpttGHlUF95sKQbtqF.jpg\",\"backdrop_path\":\"\/dGrNuWhapf8T0WH98xTC4LXgk1G.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/ted\",\"id\":72105,\"imdb_id\":\"tt1637725\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ted\",\"overview\":\"John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.\",\"popularity\":74.562,\"poster_path\":\"\/1QVZXQQHCEIj8lyUhdBYd2qOYtq.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":2531,\"logo_path\":\"\/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png\",\"name\":\"MRC\",\"origin_country\":\"US\"},{\"id\":8789,\"logo_path\":\"\/1smGq637YoNgkeBZXt7TAPDYGda.png\",\"name\":\"Fuzzy Door Productions\",\"origin_country\":\"US\"},{\"id\":13778,\"logo_path\":null,\"name\":\"Bluegrass Films\",\"origin_country\":\"US\"},{\"id\":44783,\"logo_path\":null,\"name\":\"Smart Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-06-29\",\"revenue\":549368315,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Ted is coming.\",\"title\":\"Ted\",\"video\":false,\"vote_average\":6.431,\"vote_count\":12084}"
+}

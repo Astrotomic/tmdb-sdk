@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1396",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14843",
+        "x-memc": "HIT",
+        "x-memc-key": "7abd45aaf18ed49ab125bf9ba65038a8",
+        "x-memc-age": "12415",
+        "x-memc-expires": "14843",
+        "ETag": "W\/\"565e4f1fa48ae4b11dbcc282d4bc5f6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-p7yUc1d9H3gbBB4pqRQJcTTU8wWFCkFgKxnSJrpQkxEpojTQahhcw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lWybXICZZpxnSvWSOW53XxTERUg.jpg\",\"belongs_to_collection\":{\"id\":722961,\"name\":\"Space Jam Collection\",\"poster_path\":\"\/1eq1pEctWy8umAjfIncFk273QOa.jpg\",\"backdrop_path\":\"\/kKIej57OVpFwsOUdn0KooJdJuDg.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/spacejam.com\",\"id\":2300,\"imdb_id\":\"tt0117705\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Space Jam\",\"overview\":\"With their freedom on the line, the Looney Tunes seek the help of NBA superstar Michael Jordon to win a basketball game against a team of moronic aliens.\",\"popularity\":36.253,\"poster_path\":\"\/4RN5El3Pj2W4gpwgiAGLVfSJv2g.jpg\",\"production_companies\":[{\"id\":3592,\"logo_path\":\"\/7rsVrGzIj5bJ3xbAgGnNObxGpFt.png\",\"name\":\"Warner Bros. Family Entertainment\",\"origin_country\":\"US\"},{\"id\":6443,\"logo_path\":null,\"name\":\"Ivan Reitman Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-11-15\",\"revenue\":250200000,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Get ready to jam.\",\"title\":\"Space Jam\",\"video\":false,\"vote_average\":6.829,\"vote_count\":5873}"
+}

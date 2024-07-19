@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "961",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13521",
+        "x-memc": "HIT",
+        "x-memc-key": "9e21bf339e497c90c2272a807f89f776",
+        "x-memc-age": "8469",
+        "x-memc-expires": "13521",
+        "ETag": "W\/\"48204837e96418eede43bf3960b81690\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kqL_Eief9EdV4kAavwcxI9b5syi0ciiMCDaaUELpfJGFRLmnFzG2bA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":395519,\"imdb_id\":\"tt2998284\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Perspectives\",\"overview\":\"Jarnow regularizes a child's primitive sketch of a house into increasingly firmer architecture, showing how the same place might by rendered by different hands. Objects twist and turn, a drawing resolving into a wall painting, as the perspective shifts, boxes within boxes, until the viewer is back outside\",\"popularity\":0.436,\"poster_path\":null,\"production_companies\":[{\"id\":76226,\"logo_path\":null,\"name\":\"Infinity Factory\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-05-01\",\"revenue\":0,\"runtime\":1,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Perspectives\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

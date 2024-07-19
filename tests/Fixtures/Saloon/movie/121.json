@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1975",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9188",
+        "x-memc": "HIT",
+        "x-memc-key": "1863784a0d26190eb0b2a2fc134ec77e",
+        "x-memc-age": "13992",
+        "x-memc-expires": "9188",
+        "ETag": "W\/\"f67ed1d77ef0527b54133c44820a74f1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZYFyMCe23e9BBpd8jE8XWXMfVLy8W3V-mTGYtCoz19FFtkva5F6rFg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zcc0My3G4SYR72VuEYHNcUWkkW0.jpg\",\"belongs_to_collection\":{\"id\":119,\"name\":\"The Lord of the Rings Collection\",\"poster_path\":\"\/oENY593nKRVL2PnxXsMtlh8izb4.jpg\",\"backdrop_path\":\"\/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg\"},\"budget\":79000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.lordoftherings.net\/\",\"id\":121,\"imdb_id\":\"tt0167261\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lord of the Rings: The Two Towers\",\"overview\":\"Frodo Baggins and the other members of the Fellowship continue on their sacred quest to destroy the One Ring--but on separate paths. Their destinies lie at two towers--Orthanc Tower in Isengard, where the corrupt wizard Saruman awaits, and Sauron's fortress at Barad-dur, deep within the dark lands of Mordor. Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for the orc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.\",\"popularity\":105.944,\"poster_path\":\"\/5VTN0pR8gcqV3EPUHHfMGnJYN9L.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":11,\"logo_path\":\"\/6FAuASQHybRkZUk08p9PzSs9ezM.png\",\"name\":\"WingNut Films\",\"origin_country\":\"NZ\"},{\"id\":5237,\"logo_path\":\"\/mlnr7vsBHvLye8oEb5A76C0t8x9.png\",\"name\":\"The Saul Zaentz Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-12-18\",\"revenue\":926287400,\"runtime\":179,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The fellowship is broken. The power of darkness grows...\",\"title\":\"The Lord of the Rings: The Two Towers\",\"video\":false,\"vote_average\":8.4,\"vote_count\":21355}"
+}

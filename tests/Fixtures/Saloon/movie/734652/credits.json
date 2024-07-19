@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "281",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15728",
+        "x-memc": "HIT",
+        "x-memc-key": "98606beaf5eeca2817454fbe3bb2224a",
+        "x-memc-age": "8459",
+        "x-memc-expires": "15728",
+        "ETag": "W\/\"c53e6a6bc73fe06a3e7ae8b0a6d2acde\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Zez51Zd6fc8M3Z_9KYd_HVmQc79z1CHLA2_In4BPag0vbhM47xeFGw=="
+    },
+    "data": "{\"id\":734652,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1140236,\"known_for_department\":\"Directing\",\"name\":\"Park Seung-cheol\",\"original_name\":\"\ubc15\uc2b9\ucca0\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"639eebc8688cd0008c5ed66e\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1237",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12919",
+        "x-memc": "HIT",
+        "x-memc-key": "854cff06d018a2f0ddf99b7f017c22a0",
+        "x-memc-age": "12654",
+        "x-memc-expires": "12919",
+        "ETag": "W\/\"8b92e094c281161df04f05ab9371cab7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RH-vjHDHaVukpGMqWHCDQ22BiKFZZX79w6294ys8WDQPuo_EnZRZlg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6bXiMdZezdJ6WyshAaV2GIEqdEu.jpg\",\"belongs_to_collection\":null,\"budget\":29000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":10990,\"imdb_id\":\"tt0117107\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mulholland Falls\",\"overview\":\"In 1950s Los Angeles, a special crime squad of the LAPD investigates the murder of a young woman.\",\"popularity\":22.896,\"poster_path\":\"\/tT5rYDXloX5ZxISr8HdlRC9TBcP.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":1644,\"logo_path\":\"\/l5JFudbLN3vr1sSkjRoqF7To8Ky.png\",\"name\":\"Largo Entertainment\",\"origin_country\":\"US\"},{\"id\":80,\"logo_path\":null,\"name\":\"The Zanuck Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-04-26\",\"revenue\":11500000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The power of love vs. the love of power.\",\"title\":\"Mulholland Falls\",\"video\":false,\"vote_average\":5.966,\"vote_count\":268}"
+}

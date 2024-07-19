@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1085",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2279",
+        "x-memc": "HIT",
+        "x-memc-key": "10ee8eb4dcce15f898326d3c48d7daa9",
+        "x-memc-age": "23107",
+        "x-memc-expires": "2279",
+        "ETag": "W\/\"63a5e21be94b87f7c5a47f5d3e7deefa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YG8gX3lbhE4j2P5Q0MW59YyuGJ6V-Q-xqqyav7HVk6J6qUgdw7cPOg=="
+    },
+    "data": "{\"id\":395663,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":86543,\"known_for_department\":\"Acting\",\"name\":\"David Attenborough\",\"original_name\":\"David Attenborough\",\"popularity\":17.72,\"profile_path\":\"\/tt3LW3XftcvxOZtMXmIaJSWFN7y.jpg\",\"cast_id\":3,\"character\":\"Self\",\"credit_id\":\"5726eb629251415443001fbe\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":115298,\"known_for_department\":\"Production\",\"name\":\"Anthony Geffen\",\"original_name\":\"Anthony Geffen\",\"popularity\":3.13,\"profile_path\":null,\"credit_id\":\"5726e695c3a3685a2e0007f3\",\"department\":\"Production\",\"job\":\"Executive Producer\"},{\"adult\":false,\"gender\":0,\"id\":1614014,\"known_for_department\":\"Directing\",\"name\":\"Anne Sommerfield\",\"original_name\":\"Anne Sommerfield\",\"popularity\":1.439,\"profile_path\":null,\"credit_id\":\"5726e6b0c3a368549e00144d\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1614014,\"known_for_department\":\"Directing\",\"name\":\"Anne Sommerfield\",\"original_name\":\"Anne Sommerfield\",\"popularity\":1.439,\"profile_path\":null,\"credit_id\":\"57cb6257c3a36867bc003205\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

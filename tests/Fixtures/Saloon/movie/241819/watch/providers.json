@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "856",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6788",
+        "x-memc": "HIT",
+        "x-memc-key": "f7dcfd5e46f88994e06ccf83e1463cde",
+        "x-memc-age": "21271",
+        "x-memc-expires": "6788",
+        "ETag": "W\/\"4263ae729ce724b886b851ffea4145e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ArWvqRfQ8-ULEMgKECzf9kEvVQGPfiDennkHJ4XWomhIYi1E8LeGrA=="
+    },
+    "data": "{\"id\":241819,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/241819-robbers-roost\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}],\"free\":[{\"logo_path\":\"\/8VhN4PeHU7yfMNoWK0DnwdS1HlS.jpg\",\"provider_id\":1838,\"provider_name\":\"Tivify\",\"display_priority\":68}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/241819-robbers-roost\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/96HJkA4nMkcOtiqH9oF1YYtGBHK.jpg\",\"provider_id\":2050,\"provider_name\":\"ScreenPix Apple TV Channel\",\"display_priority\":262}],\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

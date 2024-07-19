@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "891",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18054",
+        "x-memc": "HIT",
+        "x-memc-key": "f80a735584e77e10f705261687f7a57e",
+        "x-memc-age": "9002",
+        "x-memc-expires": "18054",
+        "ETag": "W\/\"aca10b8896ebf14839508e019026afd4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vIHd2z4fl-g01f0j48q_0yTaQpbknKgiShcNwqqnLAZx1vJETmn-0g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9deUqdRtGm9Ko4K7DIA0KavScHu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":234391,\"imdb_id\":\"tt0059257\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Haunted Mouse\",\"overview\":\"Jerry is paid a visit by a look-alike magician.\",\"popularity\":4.563,\"poster_path\":\"\/dQpF6hDEVFk4h4VGxMFcADpYLCS.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1965-03-24\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Haunted Mouse\",\"video\":false,\"vote_average\":6.1,\"vote_count\":19}"
+}

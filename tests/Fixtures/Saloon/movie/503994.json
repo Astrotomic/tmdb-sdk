@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "997",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16054",
+        "x-memc": "HIT",
+        "x-memc-key": "97b01943dd3ae32df589637d32666815",
+        "x-memc-age": "10687",
+        "x-memc-expires": "16054",
+        "ETag": "W\/\"0adbe5ce099c698e786c678b64ac1d22\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "n3n2-1vECqOJyx1pNTZOJQna8Zz2pfkNNo3-VLSCpppf2zlIglEmLg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":503994,\"imdb_id\":\"tt0181826\",\"origin_country\":[\"YU\"],\"original_language\":\"sh\",\"original_title\":\"So\",\"overview\":\"Due to fighting against the Germans and the Ustashas, the partisans in central Bosnia decide to strike the salt pans, and take the much needed salt for the people and army. After serious attacks and heavy losses, they complete their mission successfully.\",\"popularity\":1.384,\"poster_path\":\"\/oJGYzxUMLYxyqkEvIh97wC30ThH.jpg\",\"production_companies\":[{\"id\":47265,\"logo_path\":null,\"name\":\"Studio Film Sarajevo\",\"origin_country\":\"BA\"}],\"production_countries\":[{\"iso_3166_1\":\"YU\",\"name\":\"Yugoslavia\"}],\"release_date\":\"1973-07-17\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Serbo-Croatian\",\"iso_639_1\":\"sh\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Salt\",\"video\":false,\"vote_average\":6.5,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1459",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22959",
+        "x-memc": "HIT",
+        "x-memc-key": "c1e7e8d377cfe350fc02b593249a0525",
+        "x-memc-age": "143",
+        "x-memc-expires": "22959",
+        "ETag": "W\/\"d55ce493dd40906decf82e29206d13ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5VhynQ6Lw29-WIJKmxpEfhCLS-Y8pjJch_tEIDRt18WQg9jzW_PbCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lnOGnHqDlZMRGQTEukwWBu5s7fd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10752,\"name\":\"War\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":10857,\"imdb_id\":\"tt0090315\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"When the Wind Blows\",\"overview\":\"With the help of government-issued pamphlets, an elderly British couple build a shelter and prepare for an impending nuclear attack, unaware that times and the nature of war have changed from their romantic memories of World War II.\",\"popularity\":16.174,\"poster_path\":\"\/sQ7CgHdDcKnnzhCXA7wC2JVL7qq.jpg\",\"production_companies\":[{\"id\":19261,\"logo_path\":null,\"name\":\"Penguin Books\",\"origin_country\":\"\"},{\"id\":12745,\"logo_path\":null,\"name\":\"British Screen Productions\",\"origin_country\":\"GB\"},{\"id\":15255,\"logo_path\":null,\"name\":\"TVC London\",\"origin_country\":\"GB\"},{\"id\":120197,\"logo_path\":null,\"name\":\"Meltdown Productions\",\"origin_country\":\"\"},{\"id\":6705,\"logo_path\":\"\/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png\",\"name\":\"Film4 Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1986-10-24\",\"revenue\":5274,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A horrifying vision of tomorrow.\",\"title\":\"When the Wind Blows\",\"video\":false,\"vote_average\":7.402,\"vote_count\":266}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1381",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2351",
+        "x-memc": "HIT",
+        "x-memc-key": "409f4e7d2c5364a8f65a9d01dab9514f",
+        "x-memc-age": "20872",
+        "x-memc-expires": "2351",
+        "ETag": "W\/\"1fa834c4364979147ba422ef578c96a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WuiPn9X7igPU79JrrGbdHuMj4tjIoGpi8zw9fmWJOjfm6bkSgd3rDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6yoLAbC4wnriSswgz6RCShOYKNg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":505579,\"imdb_id\":\"tt2237324\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bent\",\"overview\":\"On his latest private investigation, a shamed former cop connects a murder case to a government conspiracy involving rogue agents from a top spy agency.\",\"popularity\":20.175,\"poster_path\":\"\/xUqimeu4KzFeqTvblNLvG8Y1DAo.jpg\",\"production_companies\":[{\"id\":3604,\"logo_path\":\"\/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png\",\"name\":\"Grindstone Entertainment Group\",\"origin_country\":\"US\"},{\"id\":104321,\"logo_path\":null,\"name\":\"Groove Tails Productions\",\"origin_country\":\"\"},{\"id\":93419,\"logo_path\":null,\"name\":\"Primary Wave Entertainment\",\"origin_country\":\"US\"},{\"id\":104322,\"logo_path\":null,\"name\":\"Rod Movies AIE\",\"origin_country\":\"\"},{\"id\":59593,\"logo_path\":null,\"name\":\"AMBI Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-03-09\",\"revenue\":55429,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Corruption has it's own set of rules.\",\"title\":\"Bent\",\"video\":false,\"vote_average\":5.26,\"vote_count\":175}"
+}

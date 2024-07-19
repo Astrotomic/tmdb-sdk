@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1373",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=140",
+        "x-memc": "HIT",
+        "x-memc-key": "f278fb1a8eb5e01764cf176fb5260dd2",
+        "x-memc-age": "23150",
+        "x-memc-expires": "140",
+        "ETag": "W\/\"594948d261761bb1b5979be56540f180\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DYok9KuGX5TJiNQYi81koi3c9V3dzuU79w81jYnwMwYNxrCHBAF9Sw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oALZ7G0nVV9wLSu3Pn9zwhhJiCh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":699673,\"imdb_id\":\"tt5314138\",\"origin_country\":[\"AE\"],\"original_language\":\"en\",\"original_title\":\"Aerials\",\"overview\":\"Earth is invaded by Aliens from outer space. An intermarried couple living in the city of Dubai are confined to their home due to the uncertainty of the situation. Disconnected from the world outside due to the loss of communication, they explore around their cultural differences in Science in order to understand the reason behind Aliens coming to our planet; only to find themselves caught between a series of extraterrestrial encounters at their very home.\",\"popularity\":1.124,\"poster_path\":\"\/1pN8MOdXMTVuU0kHh3g2Qst0C4e.jpg\",\"production_companies\":[{\"id\":133182,\"logo_path\":null,\"name\":\"Fat Brothers Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AE\",\"name\":\"United Arab Emirates\"}],\"release_date\":\"2016-06-16\",\"revenue\":1124,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Why are they here?\",\"title\":\"Aerials\",\"video\":false,\"vote_average\":2.0,\"vote_count\":1}"
+}

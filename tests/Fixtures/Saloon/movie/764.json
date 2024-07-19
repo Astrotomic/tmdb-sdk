@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1109",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27116",
+        "x-memc": "HIT",
+        "x-memc-key": "fb9a32234c26ba4eb4ca5ea9ae68ed41",
+        "x-memc-age": "1626",
+        "x-memc-expires": "27116",
+        "ETag": "W\/\"a5fc40eccbdb26e06318f70eac905b53\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "85qo-YeRip6zp20mKQcMK62m4C2vJG1Dswz6JQJzDWwFCkjHlhRG9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2OgSIyerY8zUNw8czWiIn6D4kos.jpg\",\"belongs_to_collection\":{\"id\":1960,\"name\":\"Evil Dead Collection\",\"poster_path\":\"\/eWFADubShlTEUiNsPcN6BMOKakr.jpg\",\"backdrop_path\":\"\/52ucWq0dQLUTb6PPH9q4jm9MY7f.jpg\"},\"budget\":350000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":764,\"imdb_id\":\"tt0083907\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Evil Dead\",\"overview\":\"In 1979, a group of college students find a Sumerian Book of the Dead in an old wilderness cabin they've rented for a weekend getaway.\",\"popularity\":70.156,\"poster_path\":\"\/uYxQ6xhP3WjqPZtxyAOnZQWnZqn.jpg\",\"production_companies\":[{\"id\":467,\"logo_path\":null,\"name\":\"Renaissance Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1981-09-10\",\"revenue\":29612367,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The ultimate experience in gruelling terror.\",\"title\":\"The Evil Dead\",\"video\":false,\"vote_average\":7.299,\"vote_count\":3846}"
+}

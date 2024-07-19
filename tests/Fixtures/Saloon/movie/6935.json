@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=985",
+        "x-memc": "HIT",
+        "x-memc-key": "a9a290bb2f1bb3c94ac98ca5ad5d1a5c",
+        "x-memc-age": "25944",
+        "x-memc-expires": "985",
+        "ETag": "W\/\"2efa61539471ac80d01e2ad95820eb2d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZPfPVKE23dICczHBK9eg5plkEPcCtsVUK4nx7Gyq-kR_kP9oNg8WDg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ayNzn2jbKJbJWGNEWzLYgikVxs.jpg\",\"belongs_to_collection\":{\"id\":107471,\"name\":\"Yamakasi Collection\",\"poster_path\":\"\/jiUYHa7Xq9mutuNCL03gXRd0imy.jpg\",\"backdrop_path\":\"\/brTwRwoszOadojCoRzCbNjbYd9S.jpg\"},\"budget\":15000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":6935,\"imdb_id\":\"tt0267129\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Yamakasi\",\"overview\":\"Yamakasi - Les samoura\u00efs des temps modernes is a 2001 French movie written by Luc Besson. It demonstrates the skills of the Yamakasi, a group of traceurs who battle against injustice in the Paris ghetto. They use parkour to steal from the rich in order to pay off medical bills for a kid injured copying their techniques.\",\"popularity\":14.003,\"poster_path\":\"\/7INcVJWvyT5pwnGHTYrhZXD7zvS.jpg\",\"production_companies\":[{\"id\":6896,\"logo_path\":\"\/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png\",\"name\":\"EuropaCorp\",\"origin_country\":\"FR\"},{\"id\":121921,\"logo_path\":null,\"name\":\"Leeloo Productions\",\"origin_country\":\"\"},{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2001-04-04\",\"revenue\":1297401,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Yamakasi\",\"video\":false,\"vote_average\":6.012,\"vote_count\":538}"
+}

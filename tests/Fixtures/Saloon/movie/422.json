@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1514",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21296",
+        "x-memc": "HIT",
+        "x-memc-key": "691c89ce29fef5c0d40aa36e02d5b83b",
+        "x-memc-age": "6992",
+        "x-memc-expires": "21296",
+        "ETag": "W\/\"22a179550a8f4031c0a3d4f5c1676c0e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "c07sSWX7cCWhK5GKnEP3OnRepUINP-ihH2y6tfw3vbwS8GYAuDkkaA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ng5JFJ7TlixGXFIdbLXRimYTCCH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":422,\"imdb_id\":\"tt0056801\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"8\u00bd\",\"overview\":\"Guido Anselmi, a film director, finds himself creatively barren at the peak of his career. Urged by his doctors to rest, Anselmi heads for a luxurious resort, but a sorry group gathers\u2014his producer, staff, actors, wife, mistress, and relatives\u2014each one begging him to get on with the show. In retreat from their dependency, he fantasizes about past women and dreams of his childhood.\",\"popularity\":25.723,\"poster_path\":\"\/sjTIqwvPNAnEN7fcRK8MOlGfZMB.jpg\",\"production_companies\":[{\"id\":9387,\"logo_path\":null,\"name\":\"Cineriz\",\"origin_country\":\"IT\"},{\"id\":10882,\"logo_path\":null,\"name\":\"Francinex\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1963-02-14\",\"revenue\":0,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"A picture that goes beyond what men think about - because no man ever thought about it in quite this way!\",\"title\":\"8\u00bd\",\"video\":false,\"vote_average\":8.164,\"vote_count\":2210}"
+}

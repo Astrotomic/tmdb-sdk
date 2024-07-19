@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1244",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8268",
+        "x-memc": "HIT",
+        "x-memc-key": "ff53bcbf5d5fb3861db411d8873ceb3d",
+        "x-memc-age": "19885",
+        "x-memc-expires": "8268",
+        "ETag": "W\/\"60266d0d486aa935e6f9e7dff9372ea7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rii5YSM9Xxy-E4UhBKtPxn5qVFPYNtHKxOSM2fSKNDUm3d3WJ8na7g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7BdxZXbSkUiVeCRXKD3hi9KYeWm.jpg\",\"belongs_to_collection\":{\"id\":77816,\"name\":\"Kung Fu Panda Collection\",\"poster_path\":\"\/xoYc0RYKSc3xC4S9OpPZxKocKtj.jpg\",\"backdrop_path\":\"\/uDosHOFFWtF5YteBRygHALFqLw2.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.kungfupanda.com\/\",\"id\":49444,\"imdb_id\":\"tt1302011\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kung Fu Panda 2\",\"overview\":\"Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.\",\"popularity\":85.854,\"poster_path\":\"\/mtqqD00vB4PGRt20gWtGqFhrkd0.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-05-25\",\"revenue\":665692281,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Twice the awesomeness.\",\"title\":\"Kung Fu Panda 2\",\"video\":false,\"vote_average\":7.027,\"vote_count\":6959}"
+}

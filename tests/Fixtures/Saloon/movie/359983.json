@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1465",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4514",
+        "x-memc": "HIT",
+        "x-memc-key": "ca560d301e22d09f0b4bd7b18a985f01",
+        "x-memc-age": "22501",
+        "x-memc-expires": "4514",
+        "ETag": "W\/\"bed41d68d26ee324814714d308ce12de\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4lsYJgYaib7tloRPqzboX66eHCIFP4yMO8wEx1Psv0iEHyxxgxTCig=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/poRKW1DNzNXfZQPPSGDVaRcwN7a.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":359983,\"imdb_id\":\"tt4938602\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lion Guard: Return of the Roar\",\"overview\":\"Set in the African savannah, the film follows Kion as he assembles the members of the 'Lion Guard'. Throughout the film, the diverse team of young animals will learn how to utilize each of their unique abilities to solve problems and accomplish tasks to maintain balance within the Circle of Life, while also introducing viewers to the vast array of animals that populate the prodigious African landscape.\",\"popularity\":27.76,\"poster_path\":\"\/duqg6CiSik02nSXjiQHo8TcwY4b.jpg\",\"production_companies\":[{\"id\":3475,\"logo_path\":\"\/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png\",\"name\":\"Disney Television Animation\",\"origin_country\":\"US\"},{\"id\":79465,\"logo_path\":\"\/6qOISqaMEeKhvYGB0ryEtlcRZaM.png\",\"name\":\"Mercury Filmworks\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-11-22\",\"revenue\":0,\"runtime\":44,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A new hero finds his roar!\",\"title\":\"The Lion Guard: Return of the Roar\",\"video\":false,\"vote_average\":6.7,\"vote_count\":1218}"
+}

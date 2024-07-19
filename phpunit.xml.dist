@@ -16,4 +16,7 @@
             <directory suffix=".php">./src</directory>
         </include>
     </source>
+    <php>
+        <env name="TMDB_TOKEN" value="Add.Your.Token"/>
+    </php>
 </phpunit>

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1490",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=793",
+        "x-memc": "HIT",
+        "x-memc-key": "6d74fc1592f166b52d3ff124953c4dff",
+        "x-memc-age": "23882",
+        "x-memc-expires": "793",
+        "ETag": "W\/\"0c8118a28c52dae093cc3336573f17b6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MAwXcWruWfMIcudOLJyJta5mmu0j5LIPxxvoe5fvvKWMlHvUusUG1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qvFNH6e0ce2RqGZNLCZJLDx0Mfj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":82657,\"imdb_id\":\"tt1975159\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Flight 7500\",\"overview\":\"Flight 7500 departs Los Angeles International Airport bound for Tokyo. As the overnight flight makes its way over the Pacific Ocean during its ten-hour course, the passengers encounter what appears to be a supernatural force in the cabin.\",\"popularity\":19.181,\"poster_path\":\"\/qqp5P9sONdOhUuPdv05LSMrM1mG.jpg\",\"production_companies\":[{\"id\":829,\"logo_path\":\"\/aXqwCvJSCDbTclkxAYfsT1l4Dsa.png\",\"name\":\"Vertigo Entertainment\",\"origin_country\":\"US\"},{\"id\":5490,\"logo_path\":\"\/xuJSR4dWsvkE194aemIJwflyNF2.png\",\"name\":\"CBS Films\",\"origin_country\":\"US\"},{\"id\":2617,\"logo_path\":null,\"name\":\"Ozla Pictures\",\"origin_country\":\"\"},{\"id\":4777,\"logo_path\":null,\"name\":\"Ozla Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-05-16\",\"revenue\":0,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"At 30,000 feet. There's Nowhere to Run.\",\"title\":\"Flight 7500\",\"video\":false,\"vote_average\":4.884,\"vote_count\":525}"
+}

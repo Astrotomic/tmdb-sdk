@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1070",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12876",
+        "x-memc": "HIT",
+        "x-memc-key": "b960a1417cc8b429d228e84f694c2852",
+        "x-memc-age": "10936",
+        "x-memc-expires": "12876",
+        "ETag": "W\/\"7ecab850750aceeb72dba9ea1d0a3eeb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dazOlHOuyWrNrBG7UsXZSmsBIIXr-Hymu8RMN79Eh43Gd8LNbdhPWQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vmifOWRWG0WMZNzp42hufShgAya.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":856632,\"imdb_id\":\"tt15186844\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Experiencer\",\"overview\":\"After taking a wrong turn, a young man somehow falls into a mysterious cave and becomes hopelessly lost. As he searches for a way out, the journey he experiences forces him to confront the deepest parts of himself.\",\"popularity\":2.727,\"poster_path\":\"\/7d3MIKUsUA5p2X8xx3Ad8Kenh6b.jpg\",\"production_companies\":[{\"id\":165142,\"logo_path\":null,\"name\":\"Artist' Moving Image\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1977-01-01\",\"revenue\":0,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"The Sun and His Shadow Complete the Work\",\"title\":\"The Experiencer\",\"video\":false,\"vote_average\":10.0,\"vote_count\":13}"
+}

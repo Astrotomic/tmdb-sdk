@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1234",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13432",
+        "x-memc": "HIT",
+        "x-memc-key": "f23a318fc0bce8ee825b22286e9ae798",
+        "x-memc-age": "13989",
+        "x-memc-expires": "13432",
+        "ETag": "W\/\"7f045148653d69c1f26569e5fed9229d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0gomb8lq7GnGtxFTS36gjEVftCZVxbjB7iLwiZBheCEcEOC1BMFriA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gSCT6oP2Sbm71naW28Lh7afcMgY.jpg\",\"belongs_to_collection\":null,\"budget\":250000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":12493,\"imdb_id\":\"tt0057565\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5929\u56fd\u3068\u5730\u7344\",\"overview\":\"In the midst of an attempt to take over his company, a powerhouse executive is hit with a huge ransom demand when his servants son is kidnapped\",\"popularity\":22.301,\"poster_path\":\"\/tgNjemQPG96uIezpiUiXFcer5ga.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":2680,\"logo_path\":null,\"name\":\"Kurosawa Production\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1963-03-01\",\"revenue\":0,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"From Akira Kurosawa, director of \\\"Yojimbo\\\" and \\\"Sanjuro\\\" comes a tense, taut film of a modern \\\"perfect crime\\\" with more excitement than even Hitchcock could create.\",\"title\":\"High and Low\",\"video\":false,\"vote_average\":8.322,\"vote_count\":852}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1321",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20910",
+        "x-memc": "HIT",
+        "x-memc-key": "efa79e489bd0288e2038b3406533c9e7",
+        "x-memc-age": "4975",
+        "x-memc-expires": "20910",
+        "ETag": "W\/\"6ab3d5aa8fd2c4c5c13f6ab84731a8df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iutlguaklPgcIBaTLkq9W2TBQx9HFk_Tvs6wG2Jy65ufrbyQ7p9EKQ=="
+    },
+    "data": "{\"id\":705485,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":37518,\"known_for_department\":\"Acting\",\"name\":\"Will More\",\"original_name\":\"Will More\",\"popularity\":2.926,\"profile_path\":\"\/d9L3KGTxbYex6KUpIhqNElOpZVg.jpg\",\"cast_id\":1,\"character\":\"Self\",\"credit_id\":\"5ec190dd6d675a00207fc15c\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":37513,\"known_for_department\":\"Directing\",\"name\":\"Iv\u00e1n Zulueta\",\"original_name\":\"Iv\u00e1n Zulueta\",\"popularity\":4.92,\"profile_path\":\"\/eVlM4f8epamM60bpMq2OC4uCpVi.jpg\",\"cast_id\":2,\"character\":\"Self\",\"credit_id\":\"5ec191054e52ed002136a538\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2213887,\"known_for_department\":\"Directing\",\"name\":\"Carlos Escolano\",\"original_name\":\"Carlos Escolano\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec1913113a388001d2525fa\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2213887,\"known_for_department\":\"Directing\",\"name\":\"Carlos Escolano\",\"original_name\":\"Carlos Escolano\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ec191594e52ed001f36b796\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":1173037,\"known_for_department\":\"Directing\",\"name\":\"Andr\u00e9s Duque\",\"original_name\":\"Andr\u00e9s Duque\",\"popularity\":1.278,\"profile_path\":null,\"credit_id\":\"5ec191a38e2e00001f159e92\",\"department\":\"Writing\",\"job\":\"Idea\"}]}"
+}

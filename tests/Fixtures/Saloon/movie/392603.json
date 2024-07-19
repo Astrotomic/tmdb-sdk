@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1311",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11354",
+        "x-memc": "HIT",
+        "x-memc-key": "a62f820a6faa6001f6d2abc7003cb8f4",
+        "x-memc-age": "12488",
+        "x-memc-expires": "11354",
+        "ETag": "W\/\"dafcdcaa8259f92fca4d32e690898e1d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4xT7-FO5QwbHPVl__pEovx1NXEanDrNl-bfhLUW2TV_Xd2BNfahBqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":930063,\"name\":\"Miss Switch Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":392603,\"imdb_id\":\"tt0305833\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Miss Switch to the Rescue\",\"overview\":\"One dark and stormy night, Rupert is called on by a mysterious stranger who gives him a ship in a bottle...with a tiny living man onboard! He frees the man, who turns out to be the evil warlock, Mordo, who kidnaps Amelia and takes her back in time to 1640. Rupert calls on Miss Switch for help in this new adventure.\",\"popularity\":5.004,\"poster_path\":\"\/oA3Ct1SqkiF5nigCK6Q0mll5LGb.jpg\",\"production_companies\":[{\"id\":61119,\"logo_path\":null,\"name\":\"Ruby-Spears Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1982-01-16\",\"revenue\":0,\"runtime\":43,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When witches and warlocks strike in the night, only one can save the day...\",\"title\":\"Miss Switch to the Rescue\",\"video\":false,\"vote_average\":6.7,\"vote_count\":3}"
+}

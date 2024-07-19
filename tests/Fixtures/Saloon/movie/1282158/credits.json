@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "776",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:34:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23286",
+        "x-memc": "HIT",
+        "x-memc-key": "b264799b3afc0411ba78e53099ad5f11",
+        "x-memc-age": "3612",
+        "x-memc-expires": "23286",
+        "ETag": "W\/\"f83a33ee4d917970a3777841ac3addce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "B174Ye7luUPG3En4L3ygCqy3fbujb1x2XiwlPwlM9VO7SIOUJ4oGbQ=="
+    },
+    "data": "{\"id\":1282158,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1835519,\"known_for_department\":\"Writing\",\"name\":\"William Henne\",\"original_name\":\"William Henne\",\"popularity\":0.328,\"profile_path\":null,\"credit_id\":\"662fd1a75a78840121c22fb5\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":4682873,\"known_for_department\":\"Directing\",\"name\":\"Yann Bonnin\",\"original_name\":\"Yann Bonnin\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"662fd1d0d96c3c012599176a\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1835519,\"known_for_department\":\"Writing\",\"name\":\"William Henne\",\"original_name\":\"William Henne\",\"popularity\":0.328,\"profile_path\":null,\"credit_id\":\"662fd25151c01f012259eae4\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

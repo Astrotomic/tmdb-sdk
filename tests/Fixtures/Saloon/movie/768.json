@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1100",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19225",
+        "x-memc": "HIT",
+        "x-memc-key": "f7f5ed2a5026b6c74beb310586e68141",
+        "x-memc-age": "5799",
+        "x-memc-expires": "19225",
+        "ETag": "W\/\"379453435e908ca3367286071e55d93f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KK0G-XFHGv4kCyKkFupt66CgyxTz-L7ULUk0tlEK4xDTZgAFumdsbg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xo2S7gRwCvWdVqM0Swv37yA2rzw.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":768,\"imdb_id\":\"tt0120681\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"From Hell\",\"overview\":\"Frederick Abberline is an opium-huffing inspector from Scotland Yard who falls for one of Jack the Ripper's prostitute targets in this Hughes brothers adaption of a graphic novel that posits the Ripper's true identity.\",\"popularity\":29.264,\"poster_path\":\"\/t2WpWM8nBO4sULXr2bDfNEt4qgr.jpg\",\"production_companies\":[{\"id\":230079,\"logo_path\":null,\"name\":\"Underworld Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-02-08\",\"revenue\":74558115,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"More than the legend will survive.\",\"title\":\"From Hell\",\"video\":false,\"vote_average\":6.696,\"vote_count\":2721}"
+}

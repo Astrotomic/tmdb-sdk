@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1164",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24287",
+        "x-memc": "HIT",
+        "x-memc-key": "18e4fa7fc441278a09acedbac4d95f2a",
+        "x-memc-age": "3650",
+        "x-memc-expires": "24287",
+        "ETag": "W\/\"fad71af14fccff52d5eae994ad3e79e5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pcnFF4HUR5fNfhbI7CfBkhCy9FYql9Lzj0hrH599W_9Ny6r3_nIlEw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5EkowLSlfQT50KbeHzhvbdyaIoI.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":8838,\"imdb_id\":\"tt0120749\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mercury Rising\",\"overview\":\"Renegade FBI agent Art Jeffries protects a nine-year-old autistic boy who has cracked the government's new \\\"unbreakable\\\" code.\",\"popularity\":29.307,\"poster_path\":\"\/60AAso6I2TzQCy2SjqtzPni8csA.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":23,\"logo_path\":\"\/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png\",\"name\":\"Imagine Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-04-03\",\"revenue\":93100000,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Someone knows too much.\",\"title\":\"Mercury Rising\",\"video\":false,\"vote_average\":6.3,\"vote_count\":1470}"
+}

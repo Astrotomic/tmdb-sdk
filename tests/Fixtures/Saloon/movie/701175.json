@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1117",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8252",
+        "x-memc": "HIT",
+        "x-memc-key": "05709f0d0d77fad81ad34c893f1e68b5",
+        "x-memc-age": "14453",
+        "x-memc-expires": "8252",
+        "ETag": "W\/\"7cc32cbc11ab7a5721fa60dcb196eb9c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Tm_hVm5VErMM73QVjMmixoAbhNCXKq3A3D-cv1_y-kq4zNvjuvn29w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zxsamH7UFEHzFXspREj60PpsMIO.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.netflix.com\/\/title\/81136406\",\"id\":701175,\"imdb_id\":\"tt11127690\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"El practicante\",\"overview\":\"Unable to face his new reality in a wheelchair, \u00c1ngel develops a deadly obsession with the woman who left him and unleashes a sinister revenge plot.\",\"popularity\":19.915,\"poster_path\":\"\/l9ruFmHoUws4A45s8FBZuMNC6Mu.jpg\",\"production_companies\":[{\"id\":20656,\"logo_path\":null,\"name\":\"Babieka Films\",\"origin_country\":\"ES\"},{\"id\":139254,\"logo_path\":null,\"name\":\"Zabriskie Films\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2020-09-16\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Paramedic\",\"video\":false,\"vote_average\":6.1,\"vote_count\":615}"
+}

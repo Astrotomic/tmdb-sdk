@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1145",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:27:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15880",
+        "x-memc": "HIT",
+        "x-memc-key": "37f84cc55bcc00a63f35de850f18766c",
+        "x-memc-age": "10782",
+        "x-memc-expires": "15880",
+        "ETag": "W\/\"537d2f5e39d5fd3e4940450ba968fdbc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "urg3Mcl9FZKiuPbfQmqoy9tP92J7v-ZSOD_SnXWQFeeD1JSq-inLQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5XIRL45dcc44GKkcKTzRXsRuxaR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81386989\",\"id\":1014779,\"imdb_id\":\"tt21836538\",\"origin_country\":[\"ES\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Figo Affair: The Transfer That Changed Football\",\"overview\":\"This documentary spotlights one of the most contentious deals in football history and the extraordinary player at the center of the storm: Lu\u00eds Figo.\",\"popularity\":10.841,\"poster_path\":\"\/cmUmwFRrgQguSPPut2SYzwNEQEY.jpg\",\"production_companies\":[{\"id\":147506,\"logo_path\":null,\"name\":\"Pitch Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2022-08-25\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Figo Affair: The Transfer That Changed Football\",\"video\":false,\"vote_average\":7.022,\"vote_count\":92}"
+}

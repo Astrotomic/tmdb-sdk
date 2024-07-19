@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1466",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=582",
+        "x-memc": "HIT",
+        "x-memc-key": "963b3498f3849eb447b9b750dab8eada",
+        "x-memc-age": "22243",
+        "x-memc-expires": "582",
+        "ETag": "W\/\"1a90bfe1ac1d096f0371853f86f9f57b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_4B_0LGkT5qfNwSwM-UfO4nI6TRpMVWL9LxqQSilZI9lvTATVmIFoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jYbABnXml6XyQ7cfhZFkMRZvMQz.jpg\",\"belongs_to_collection\":{\"id\":824004,\"name\":\"Diabolik Collection\",\"poster_path\":\"\/lTzH3f7jTdtzl7JzK6FgKxfqt8T.jpg\",\"backdrop_path\":\"\/kju1yy7rPlyyH2GEsJhYjizGtnd.jpg\"},\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":823999,\"imdb_id\":\"tt15307230\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Diabolik - Ginko all'attacco!\",\"overview\":\"Diabolik narrowly escapes Inspector Ginko's latest trap, leaving his partner in crime Eva Kant behind. Furious, Eva offers Ginko her help in capturing him, but the former has to face first the return of an old flame of his, noblewoman Altea.\",\"popularity\":16.815,\"poster_path\":\"\/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg\",\"production_companies\":[{\"id\":94370,\"logo_path\":null,\"name\":\"Mompracem\",\"origin_country\":\"IT\"},{\"id\":123289,\"logo_path\":null,\"name\":\"Astorina S.A.C.\",\"origin_country\":\"\"},{\"id\":141573,\"logo_path\":null,\"name\":\"Emilia-Romagna Film Commission\",\"origin_country\":\"\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2022-11-17\",\"revenue\":1228459,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Diabolik - Ginko Attacks\",\"video\":false,\"vote_average\":5.997,\"vote_count\":445}"
+}

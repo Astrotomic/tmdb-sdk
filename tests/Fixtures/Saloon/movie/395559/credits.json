@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "290",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19576",
+        "x-memc": "HIT",
+        "x-memc-key": "f4c1d2796f1d502eeb3663851b9271dc",
+        "x-memc-age": "3012",
+        "x-memc-expires": "19576",
+        "ETag": "W\/\"544b68a106ab6fad335eecfd7bfb8938\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rPFHKDMH6OdvE4D-nAGSTqgJV6_Fx4432yA_rx0FwLxaZlBrMfCsCw=="
+    },
+    "data": "{\"id\":395559,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1561511,\"known_for_department\":\"Directing\",\"name\":\"Ann Marie Fleming\",\"original_name\":\"Ann Marie Fleming\",\"popularity\":1.654,\"profile_path\":null,\"credit_id\":\"57262759c3a3681c260038f9\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

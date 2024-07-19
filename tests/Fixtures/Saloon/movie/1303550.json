@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "776",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14654",
+        "x-memc": "HIT",
+        "x-memc-key": "f23574c70c2677e3edf05018eb6684eb",
+        "x-memc-age": "7568",
+        "x-memc-expires": "14654",
+        "ETag": "W\/\"4da58287080442274ed0bbb3eb5824b6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OWNCstvg0mQukEXLsLRHTL4pY1_H9O-MhocNEXU2_hfjT9aIpgR8VQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9DJ20DJQ6ZGQ9DFoyZDcGvWlEEd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1303550,\"imdb_id\":null,\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u5f02\u5f62\u5bc4\u751f: \u8d77\u6e90\",\"overview\":\"\",\"popularity\":6.739,\"poster_path\":\"\/g0BMPT5HcFhrN23Ovrqv0nSs5ci.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2024-06-12\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Captives\",\"video\":false,\"vote_average\":4.4,\"vote_count\":5}"
+}

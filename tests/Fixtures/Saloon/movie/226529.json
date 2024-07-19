@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "987",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21545",
+        "x-memc": "HIT",
+        "x-memc-key": "01ad7a175f9be1362f57b18697dfbc44",
+        "x-memc-age": "1719",
+        "x-memc-expires": "21545",
+        "ETag": "W\/\"2c8bdff1951821e96f597fc77e684821\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hqVnGQ3SLoNmSSu8rlZ4w2xj475d-AGO7eOZo3aViWNVWYHT0_2MqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/I7BPKftWhR6qUrZVcwPUNwvmm4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":226529,\"imdb_id\":\"tt2012110\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Being Venice\",\"overview\":\"Venice is having trouble with the men in her life: she breaks up with her lover and starts an affair with her best friend. The aggravation of her ex-hippy dad, camped on her sofa, is the last straw.\",\"popularity\":3.049,\"poster_path\":\"\/kxNEai6n7nlgLGz9qKB7lSRykun.jpg\",\"production_companies\":[{\"id\":209726,\"logo_path\":null,\"name\":\"Dragonet Films\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"}],\"release_date\":\"2013-01-17\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Being Venice\",\"video\":false,\"vote_average\":4.6,\"vote_count\":7}"
+}

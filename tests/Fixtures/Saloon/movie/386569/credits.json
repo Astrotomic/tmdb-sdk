@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "284",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9925",
+        "x-memc": "HIT",
+        "x-memc-key": "3d37166e56ba8c78d2d8c5ed56b929f1",
+        "x-memc-age": "13618",
+        "x-memc-expires": "9925",
+        "ETag": "W\/\"62c1ca6fa180145e59e3a179a164dcd3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "A4sax4uf1N9CmeHjdrJ_8qsTYtzwOvJBWTEK1RdFYXi-xPdZC4u14g=="
+    },
+    "data": "{\"id\":386569,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":3528781,\"known_for_department\":\"Directing\",\"name\":\"Takashi Ohashi\",\"original_name\":\"Takashi Ohashi\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"626beac57cffda0b371f98a5\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

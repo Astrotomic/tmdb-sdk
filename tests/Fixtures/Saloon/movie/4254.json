@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1121",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12188",
+        "x-memc": "HIT",
+        "x-memc-key": "9625dc86903c9fa8a61994ec240507ec",
+        "x-memc-age": "12007",
+        "x-memc-expires": "12188",
+        "ETag": "W\/\"152b8eeb196f754c78e3bc306da71088\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NiLJLSDqEhX1A7L-p7VfWKGZKezt7e55z1SEY1fL8LojrYFMCRPVFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ki5i4vy1mjnEB7u8Azhi8mQxlKA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":4254,\"imdb_id\":\"tt0347304\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0915\u0932 \u0939\u094b \u0928\u093e \u0939\u094b\",\"overview\":\"An uptight MBA student falls for the charismatic new neighbor who charms her troubled family \u2013 but he has a secret that forces him to push her away.\",\"popularity\":13.911,\"poster_path\":\"\/zhMI6I0kSLnewTMwE0A8Tz3Cj2f.jpg\",\"production_companies\":[{\"id\":19146,\"logo_path\":\"\/5Ff25ornzVNhm5skuAvMAR556NB.png\",\"name\":\"Dharma Productions\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2003-11-27\",\"revenue\":0,\"runtime\":187,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A story of a lifetime\u2026 in a heartbeat.\",\"title\":\"Kal Ho Naa Ho\",\"video\":false,\"vote_average\":7.5,\"vote_count\":369}"
+}

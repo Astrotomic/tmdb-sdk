@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "631",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8591",
+        "x-memc": "HIT",
+        "x-memc-key": "a3d572280264f2e6b20f4216d77ef5b8",
+        "x-memc-age": "16553",
+        "x-memc-expires": "8591",
+        "ETag": "W\/\"57926d8697f34fea4d8ec36f7b087224\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kWxAJN9kFMm38C30VtYg4mazA4meDMe2yOIKhYbvukDmiggpRQUOxQ=="
+    },
+    "data": "{\"id\":233561,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/233561-jacqueline\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1},{\"logo_path\":\"\/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg\",\"provider_id\":257,\"provider_name\":\"fuboTV\",\"display_priority\":8},{\"logo_path\":\"\/lD7HKUmXDvUya58DceiTA809Zbf.jpg\",\"provider_id\":636,\"provider_name\":\"MGM Plus Roku Premium Channel\",\"display_priority\":34},{\"logo_path\":\"\/p4TlGiuRoH9sDZeppPJeMhizs26.jpg\",\"provider_id\":2100,\"provider_name\":\"Amazon Prime Video with Ads\",\"display_priority\":283}]}}}"
+}

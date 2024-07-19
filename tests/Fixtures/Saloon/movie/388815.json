@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "990",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13636",
+        "x-memc": "HIT",
+        "x-memc-key": "7676faf624ea4df38ed5ebd8e79edeeb",
+        "x-memc-age": "13046",
+        "x-memc-expires": "13636",
+        "ETag": "W\/\"03ba12e8bc254bbab55c7007ea043641\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mUT5IgYupp2aLhwk6G4fgA_T9GR3pyrXbyggwQzURw2JYoFDsHfEBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/akzkZ6E59QNDvPTldK1BnEJMgCj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":388815,\"imdb_id\":\"tt5320612\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Vi har m\u00e5nga namn\",\"overview\":\"A sacrificial passive woman spends her life breeding happiness into her family. What happens when her world of security cracks, shatters completely and her identity dissolves?\",\"popularity\":5.058,\"poster_path\":\"\/jMnbSZR2ZD9AkqUaJcsdtchRWtj.jpg\",\"production_companies\":[{\"id\":2999,\"logo_path\":\"\/zGSqFee9aDgDuLD6vcs2mcJUem4.png\",\"name\":\"SVT\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"1976-03-19\",\"revenue\":0,\"runtime\":51,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"We Have Many Names\",\"video\":false,\"vote_average\":5.0,\"vote_count\":3}"
+}

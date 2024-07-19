@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1614",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20501",
+        "x-memc": "HIT",
+        "x-memc-key": "c42f8034b09c3892d82c8b721ac714a0",
+        "x-memc-age": "1559",
+        "x-memc-expires": "20501",
+        "ETag": "W\/\"de34da1db9c76098ed34536e6f8ad875\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mg_lMKl6R89Qx92V3bP0hog_0IrCNglzTrmfFOc482W03WbNu0XTUw=="
+    },
+    "data": "{\"id\":1040496,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1040496-mondays\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1040496-mondays\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0},{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":1},{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":28}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1040496-mondays\/watch?locale=TW\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]}}}"
+}

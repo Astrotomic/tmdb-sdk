@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "870",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19657",
+        "x-memc": "HIT",
+        "x-memc-key": "ba0cca70e7b3949baf47c3fc5d305a6b",
+        "x-memc-age": "3884",
+        "x-memc-expires": "19657",
+        "ETag": "W\/\"58bdf354037f9a54731abf5096047bef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RBhd5_8K3UNNFeVZO-F811TBghzbVfgdl78uJPM4ti9EK0ExRmkm9Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":1205657,\"name\":\"E\u017eo a G\u00e1bor Vlkolinsk\u00fd\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":868852,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"sk\",\"original_title\":\"E\u017eo Vlkolinsk\u00fd\",\"overview\":\"\",\"popularity\":1.81,\"poster_path\":null,\"production_companies\":[{\"id\":28449,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 telev\u00edzia Bratislava\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1978-01-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"E\u017eo Vlkolinsk\u00fd\",\"video\":false,\"vote_average\":8.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1563",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20144",
+        "x-memc": "HIT",
+        "x-memc-key": "bbefef6c7e5e4c024ef7c49627f3f8eb",
+        "x-memc-age": "2080",
+        "x-memc-expires": "20144",
+        "ETag": "W\/\"38691cd06e2467ba00d68d51ff7436d2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w38e4Vd75fCiZeq6zNbKXD9ZT5V6_qr9lqMO_OZS7AcAO8EG88Sjuw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rTJRWO9zHcB29JecTXHg0wUa4Xs.jpg\",\"belongs_to_collection\":null,\"budget\":200000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":391,\"imdb_id\":\"tt0058461\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Per un pugno di dollari\",\"overview\":\"The Man With No Name enters the Mexican village of San Miguel in the midst of a power struggle among the three Rojo brothers and sheriff John Baxter. When a regiment of Mexican soldiers bearing gold intended to pay for new weapons is waylaid by the Rojo brothers, the stranger inserts himself into the middle of the long-simmering battle, selling false information to both sides for his own benefit.\",\"popularity\":60.002,\"poster_path\":\"\/lBwOEpwVeUAmrmglcstnaGcJq3Y.jpg\",\"production_companies\":[{\"id\":10481,\"logo_path\":null,\"name\":\"Jolly Film\",\"origin_country\":\"IT\"},{\"id\":19498,\"logo_path\":null,\"name\":\"Ocean Films\",\"origin_country\":\"ES\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"1964-09-12\",\"revenue\":14500000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"In his own way he is, perhaps, the most dangerous man who ever lived!\",\"title\":\"A Fistful of Dollars\",\"video\":false,\"vote_average\":7.8,\"vote_count\":4063}"
+}

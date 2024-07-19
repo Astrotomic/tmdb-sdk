@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1481",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1825",
+        "x-memc": "HIT",
+        "x-memc-key": "1c13c73d673acb71161762e9ae180106",
+        "x-memc-age": "20364",
+        "x-memc-expires": "1825",
+        "ETag": "W\/\"968dc7db3a513939c6f9877b083ecc9d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qGSusqp66DI02HmfG2YQLbUhLLHKrmfnqaYNrA7tiH69BUPZNyCHJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ysGfI3HPamzzgdOYukBrk7Q8fU5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":2032,\"imdb_id\":\"tt0416111\",\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u041f\u0435\u0440\u0435\u0433\u043e\u043d\",\"overview\":\"A group of American pilots from Alaska ferry Airacobra fighter planes across the ocean on Lend-lease. The orderly course of life is disrupted when it becomes clear that the American pilots are attractive and charming young women. The feelings of the Russian young men collide into barriers of culture and language resulting in a host of awkward, funny, and sometimes tragic situations.It is the story of Russians, Americans, and natives of the Far North. It is the story of man and woman in war. Love and death are squeezed between the hills as human fates are destroyed and born.\",\"popularity\":4.502,\"poster_path\":\"\/dZpEi2CqFCTGiZWNytCVxeFb3j.jpg\",\"production_companies\":[{\"id\":318,\"logo_path\":\"\/q0UG4oZERwIywJdDPF4lRlvdYGW.png\",\"name\":\"CTB Film Company\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2006-06-04\",\"revenue\":0,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Transit\",\"video\":false,\"vote_average\":5.091,\"vote_count\":11}"
+}

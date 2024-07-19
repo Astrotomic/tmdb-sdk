@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "242",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2423",
+        "x-memc": "HIT",
+        "x-memc-key": "cca9da5ae9caafe447a68ae443414469",
+        "x-memc-age": "22042",
+        "x-memc-expires": "2423",
+        "ETag": "W\/\"b67a6feaec60261c357e4d0f55096cd1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s5ptKcC-8L5N7lDaHBoW27Gpn-vV85dV9y99Ca1T5M9v8S1Xwdzz0g=="
+    },
+    "data": "{\"id\":229831,\"results\":{\"TZ\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/229831-pagbabalik-ng-panday\/watch?locale=TZ\",\"ads\":[{\"logo_path\":\"\/nHxedyutqerk1yWBsc17mF8gteZ.jpg\",\"provider_id\":511,\"provider_name\":\"iWantTFC\",\"display_priority\":24}]}}}"
+}

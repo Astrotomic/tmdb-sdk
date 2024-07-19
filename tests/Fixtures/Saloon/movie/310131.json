@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2064",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28329",
+        "x-memc": "HIT",
+        "x-memc-key": "937f149c098f02c45a240f1dfa8197e8",
+        "x-memc-age": "442",
+        "x-memc-expires": "28329",
+        "ETag": "W\/\"fbf78f105efebb584dc11757109fdbb0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "x1QNTVrhAFwS8ddQfoiKOJBJbhqNECAJvlVFDKy-pJg3J64K3ptqYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dEY6lCgiODGMDPY3Oo2j09ngPiq.jpg\",\"belongs_to_collection\":null,\"budget\":3500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"http:\/\/a24films.com\/films\/witch\/\",\"id\":310131,\"imdb_id\":\"tt4263482\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Witch\",\"overview\":\"In 1630, a farmer relocates his family to a remote plot of land on the edge of a forest where strange, unsettling things happen. With suspicion and paranoia mounting, each family member's faith, loyalty and love are tested in shocking ways.\",\"popularity\":55.406,\"poster_path\":\"\/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg\",\"production_companies\":[{\"id\":79436,\"logo_path\":null,\"name\":\"Very Special Projects\",\"origin_country\":\"\"},{\"id\":6531,\"logo_path\":null,\"name\":\"Parts \\u0026 Labor\",\"origin_country\":\"US\"},{\"id\":30666,\"logo_path\":\"\/g8LmDZVFWDRJW72sj0nAj1gh8ac.png\",\"name\":\"RT Features\",\"origin_country\":\"BR\"},{\"id\":34456,\"logo_path\":\"\/8M1gePvKplgyHRD5WWfONbWOAuk.png\",\"name\":\"Rooks Nest Entertainment\",\"origin_country\":\"GB\"},{\"id\":41641,\"logo_path\":null,\"name\":\"Maiden Voyage Pictures\",\"origin_country\":\"GB\"},{\"id\":57430,\"logo_path\":\"\/4vWiIwU0RLJJMGiqqNUnQyBsVI5.png\",\"name\":\"Pulse Films\",\"origin_country\":\"GB\"},{\"id\":61011,\"logo_path\":\"\/kDPeollsOtUtGqqEF4P29NwEjf5.png\",\"name\":\"Scythia Films\",\"origin_country\":\"CA\"},{\"id\":79434,\"logo_path\":\"\/Arvz4tu5nMsQyuNxXsbPh4jrMms.png\",\"name\":\"Code Red Productions\",\"origin_country\":\"US\"},{\"id\":79435,\"logo_path\":null,\"name\":\"Mott Street Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-02-19\",\"revenue\":40423945,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Evil takes many forms.\",\"title\":\"The Witch\",\"video\":false,\"vote_average\":6.958,\"vote_count\":6714}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1648",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20530",
+        "x-memc": "HIT",
+        "x-memc-key": "04a2d0f7ef7cc43eeddb45f1e05e1647",
+        "x-memc-age": "5173",
+        "x-memc-expires": "20530",
+        "ETag": "W\/\"a347ab393631dbdd0d98a2b956ad28b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-4imgC0IwmNLL5TvTNW48mwtG5FUo-148D4ujaGROUVKH0iYt5Kw8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y0sXAOehV5zx1E64HBSyjDSZK22.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":11362,\"imdb_id\":\"tt0245844\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Count of Monte Cristo\",\"overview\":\"Edmond Dant\u00e9s's life and plans to marry the beautiful Mercedes are shattered when his best friend, Fernand, deceives him. After spending 13 miserable years in prison, Dant\u00e9s escapes with the help of a fellow inmate and plots his revenge, cleverly insinuating himself into the French nobility.\",\"popularity\":48.247,\"poster_path\":\"\/ifMgDAUXVQLY4DeOu3VTTi55jSP.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":158,\"logo_path\":\"\/6SHlNIype9zmyEMRsBtoueUtLsq.png\",\"name\":\"Spyglass Entertainment\",\"origin_country\":\"US\"},{\"id\":7692,\"logo_path\":null,\"name\":\"World 2000 Entertainment\",\"origin_country\":\"IE\"},{\"id\":7693,\"logo_path\":null,\"name\":\"Count of Monte Cristo Ltd.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-01-23\",\"revenue\":75400000,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Prepare for adventure. Count on revenge.\",\"title\":\"The Count of Monte Cristo\",\"video\":false,\"vote_average\":7.658,\"vote_count\":1718}"
+}

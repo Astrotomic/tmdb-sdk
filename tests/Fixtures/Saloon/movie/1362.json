@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1620",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5557",
+        "x-memc": "HIT",
+        "x-memc-key": "f2d8882758ee129827c1096fa177eef1",
+        "x-memc-age": "19897",
+        "x-memc-expires": "5557",
+        "ETag": "W\/\"caa1779108651e093354b10f0a448189\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HhY2VMxkOe0tbOZRfI_9zr4pSxNk8_vsDIUqCRJ6b_BBax4YGiD3Nw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bCDn6Bzfjjiov7Reu5MVZIhVQJm.jpg\",\"belongs_to_collection\":{\"id\":141290,\"name\":\"The Lord of the Rings (Animated) Collection\",\"poster_path\":\"\/yLzL7Pv4ZAJ81QD6esn0AqdNgzr.jpg\",\"backdrop_path\":\"\/8rKJzqBVUbcshKROW4pamVSt1UO.jpg\"},\"budget\":3000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":1362,\"imdb_id\":\"tt0077687\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hobbit\",\"overview\":\"Bilbo Baggins the Hobbit was just minding his own business, when his occasional visitor Gandalf the Wizard drops in one night. One by one, a whole group of dwarves drop in, and before he knows it, Bilbo has joined their quest to reclaim their kingdom, taken from them by the evil dragon Smaug. The only problem is that Gandalf has told the dwarves that Bilbo is an expert burglar, but he isn't...\",\"popularity\":24.2,\"poster_path\":\"\/2ohvyMPhvjftLrM6S6Ljr6QrL0u.jpg\",\"production_companies\":[{\"id\":688,\"logo_path\":\"\/65PkdDSyh6fwXgwg47x73pvgWiW.png\",\"name\":\"Rankin\/Bass Productions\",\"origin_country\":\"US\"},{\"id\":29,\"logo_path\":\"\/2ZGkaLO1oVR39zxtQca8iDaU7fR.png\",\"name\":\"Topcraft\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-11-27\",\"revenue\":0,\"runtime\":77,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Hobbit\",\"video\":false,\"vote_average\":6.5,\"vote_count\":300}"
+}

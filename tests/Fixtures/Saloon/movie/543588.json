@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1252",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=767",
+        "x-memc": "HIT",
+        "x-memc-key": "ed90f9b60e1a633e1f61fc2c612fe97a",
+        "x-memc-age": "27300",
+        "x-memc-expires": "767",
+        "ETag": "W\/\"8ffbfb9fa2a793640f16979a3af24c63\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Im7g1MQGCIG7Vp8zLEo1wMFmUNcrZJVmUxt8SkvVbZgZEojbCS6icA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":543588,\"imdb_id\":\"tt0466346\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fetch\",\"overview\":\"Cat wins a radio contest, and attempts to answer the phone as Dog chases down his tennis ball.\",\"popularity\":2.339,\"poster_path\":\"\/imIN9clUv8opLU4tJnoZlKewHx7.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":2348,\"logo_path\":\"\/oydqrfwRAm6qqdYbxuMmmPsVi87.png\",\"name\":\"Nickelodeon Movies\",\"origin_country\":\"US\"},{\"id\":4859,\"logo_path\":\"\/wOF6aAYFE5BQryYyaMdQPqUWYwt.png\",\"name\":\"Nickelodeon Animation Studio\",\"origin_country\":\"US\"},{\"id\":65440,\"logo_path\":\"\/yDb4ZgFhO7CO97cOMXufCaENzMY.png\",\"name\":\"Peter Hannan Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-11-20\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Fetch\",\"video\":false,\"vote_average\":4.4,\"vote_count\":7}"
+}

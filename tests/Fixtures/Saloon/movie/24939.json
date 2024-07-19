@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1429",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21253",
+        "x-memc": "HIT",
+        "x-memc-key": "400d9e9bc6e66cded33967c6b08bfc02",
+        "x-memc-age": "6166",
+        "x-memc-expires": "21253",
+        "ETag": "W\/\"8ad847b5559dc78cad19c713a911f33b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CPySNYfBng0WltEeHGIlAft6Egg7c3ITeX0fAavjBdDcAdrSag0l8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rVvmHuoP02sjBMumip9BalBarop.jpg\",\"belongs_to_collection\":{\"id\":101471,\"name\":\"Return of the Living Dead Collection\",\"poster_path\":\"\/7ekXvck6C94gKbfH6WlKK2qqdVL.jpg\",\"backdrop_path\":\"\/jy3Jib8MOEWQIel5QkzVydH04a9.jpg\"},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":24939,\"imdb_id\":\"tt0411806\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Return of the Living Dead: Rave to the Grave\",\"overview\":\"A college student creates and sells a drug called 'Z' on campus which resurrects the living dead, who wreak havoc at a Halloween rave.\",\"popularity\":16.41,\"poster_path\":\"\/f91aC7oOAhD1OejJRbHvN83d80T.jpg\",\"production_companies\":[{\"id\":1370,\"logo_path\":\"\/uch218gB4XWNz3JNhlc65A5Q207.png\",\"name\":\"Castel Film\",\"origin_country\":\"RO\"},{\"id\":52135,\"logo_path\":null,\"name\":\"Denholm Trading Inc.\",\"origin_country\":\"\"},{\"id\":52136,\"logo_path\":null,\"name\":\"Aurora Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"RO\",\"name\":\"Romania\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-10-15\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Dance til' you drop...dead.\",\"title\":\"Return of the Living Dead: Rave to the Grave\",\"video\":false,\"vote_average\":5.2,\"vote_count\":201}"
+}

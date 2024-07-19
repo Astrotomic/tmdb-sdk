@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1720",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6473",
+        "x-memc": "HIT",
+        "x-memc-key": "dda6830e5a18442da954216e70126788",
+        "x-memc-age": "15826",
+        "x-memc-expires": "6473",
+        "ETag": "W\/\"50a618669d06396ec1f744589667e5ea\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CewjfzHP1g7ZkyCUFypatPE45ta_Nn_dIhyddBRDy8VfjZ9DyHfpyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w6bL89ASEYXgivfXhZosLS3106o.jpg\",\"belongs_to_collection\":null,\"budget\":3100000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":408483,\"imdb_id\":\"tt4173170\",\"origin_country\":[\"FI\"],\"original_language\":\"fi\",\"original_title\":\"Ikitie\",\"overview\":\"Jussi Ketola, returns to Finland from the great depression struck America only to face growing political unrest. One summer night of 1930, nationalist thugs violently abduct Ketola from his home. Beaten and forced to walk the Eternal Road towards a foreign Soviet Russia, where cruelty seems to know no end, his only dream is to return to his family cost it what it may. Hope dies last.\",\"popularity\":6.984,\"poster_path\":\"\/oaNMSwOfsmik9E2kqHvJflcMSTD.jpg\",\"production_companies\":[{\"id\":6162,\"logo_path\":\"\/ra1wla9Ubim8l26uqSs5UZU0cWE.png\",\"name\":\"Taska Film\",\"origin_country\":\"EE\"},{\"id\":5240,\"logo_path\":\"\/ibvN7yjNr8HR92nOn8d4d6TQrYt.png\",\"name\":\"MRP Matila R\u00f6hr Productions\",\"origin_country\":\"FI\"},{\"id\":17537,\"logo_path\":null,\"name\":\"Anagram Film\",\"origin_country\":\"SE\"},{\"id\":2801,\"logo_path\":\"\/bswb1PLLsKDUXMLgy42bZtCtIde.png\",\"name\":\"Film i V\u00e4st\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"EE\",\"name\":\"Estonia\"},{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"},{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"2017-09-15\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Finnish\",\"iso_639_1\":\"fi\",\"name\":\"suomi\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Eternal Road\",\"video\":false,\"vote_average\":6.9,\"vote_count\":38}"
+}

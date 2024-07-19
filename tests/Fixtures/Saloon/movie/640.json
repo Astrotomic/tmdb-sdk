@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1374",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7938",
+        "x-memc": "HIT",
+        "x-memc-key": "7f72068b38b1b0839f5635b6ffc9fbdb",
+        "x-memc-age": "19603",
+        "x-memc-expires": "7938",
+        "ETag": "W\/\"d004fbf265dce6279e5dad556dbd09fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aKNhyemD6hgjxujI8Ps2E2kzNBpzoLgf7qLY_QutZZC-3R4V2Vzsbw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Ag6qhzsJd3k1NKuNrG9RmhZDMh7.jpg\",\"belongs_to_collection\":null,\"budget\":52000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":640,\"imdb_id\":\"tt0264464\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Catch Me If You Can\",\"overview\":\"A true story about Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars worth of checks as a Pan Am pilot, doctor, and legal prosecutor. An FBI agent makes it his mission to put him behind bars. But Frank not only eludes capture, he revels in the pursuit.\",\"popularity\":84.477,\"poster_path\":\"\/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg\",\"production_companies\":[{\"id\":11084,\"logo_path\":null,\"name\":\"Parkes\/MacDonald Productions\",\"origin_country\":\"US\"},{\"id\":367,\"logo_path\":null,\"name\":\"Kemp Company\",\"origin_country\":\"\"},{\"id\":368,\"logo_path\":null,\"name\":\"Splendid Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-12-16\",\"revenue\":352114312,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The true story of a real fake.\",\"title\":\"Catch Me If You Can\",\"video\":false,\"vote_average\":7.977,\"vote_count\":15299}"
+}

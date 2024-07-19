@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1486",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=319",
+        "x-memc": "HIT",
+        "x-memc-key": "9d2bbfdb192d7872dc246e1fdf519b2b",
+        "x-memc-age": "27838",
+        "x-memc-expires": "319",
+        "ETag": "W\/\"bd3f2bde286e8485f2f54b17723d4b23\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "laqNKLWgTE2VcRi5Dwc_lkiwMn3tb_DMQmjUoth33f3SIzxhJmA5ZA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tintsaQ0WLzZsTMkTiqtMB3rfc8.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.miramax.com\/movie\/the-gentlemen\",\"id\":522627,\"imdb_id\":\"tt8367814\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Gentlemen\",\"overview\":\"American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he\u2019s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.\",\"popularity\":54.014,\"poster_path\":\"\/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":2900,\"logo_path\":null,\"name\":\"Toff Guy Films\",\"origin_country\":\"GB\"},{\"id\":210118,\"logo_path\":null,\"name\":\"Coach Films\",\"origin_country\":\"GB\"},{\"id\":47729,\"logo_path\":\"\/bAxh897TGgdR0Py6wdd0UuE147Z.png\",\"name\":\"STXfilms\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-01-23\",\"revenue\":115171795,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Criminal. Class.\",\"title\":\"The Gentlemen\",\"video\":false,\"vote_average\":7.683,\"vote_count\":5541}"
+}

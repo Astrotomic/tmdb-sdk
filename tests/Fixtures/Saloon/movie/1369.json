@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1614",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22541",
+        "x-memc": "HIT",
+        "x-memc-key": "907d842a08f9c43e57a6287674972144",
+        "x-memc-age": "3246",
+        "x-memc-expires": "22541",
+        "ETag": "W\/\"980625480afb7afc7097ea0598cf688b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f_dSyKp8id6I3NqK3qXqOi8ItSXZQNTaqpsOE731kjeAC0TrlsOWfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xh820ngf1lauGQuFiTvzYuCe6vj.jpg\",\"belongs_to_collection\":{\"id\":5039,\"name\":\"Rambo Collection\",\"poster_path\":\"\/feGOEOVrOLyjtEnVa88rQLgD3XY.jpg\",\"backdrop_path\":\"\/ecvVwlK75evrAlsEE96V14KN6MN.jpg\"},\"budget\":44000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/rambo-first-blood-part-ii\",\"id\":1369,\"imdb_id\":\"tt0089880\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rambo: First Blood Part II\",\"overview\":\"John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.\",\"popularity\":81.855,\"poster_path\":\"\/pzPdwOitmTleVE3YPMfIQgLh84p.jpg\",\"production_companies\":[{\"id\":275,\"logo_path\":\"\/2MxNWlN5b3UXt1OfmznsWEQzFwq.png\",\"name\":\"Carolco Pictures\",\"origin_country\":\"US\"},{\"id\":5153,\"logo_path\":\"\/d4BySWBlcGBBY58FG78DWMi9nrs.png\",\"name\":\"Estudios Churubusco Azteca\",\"origin_country\":\"MX\"},{\"id\":52941,\"logo_path\":null,\"name\":\"Anabasis N.V.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1985-05-21\",\"revenue\":300400432,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"}],\"status\":\"Released\",\"tagline\":\"No man, no law, no war can stop him.\",\"title\":\"Rambo: First Blood Part II\",\"video\":false,\"vote_average\":6.6,\"vote_count\":3776}"
+}

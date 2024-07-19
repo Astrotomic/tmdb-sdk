@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1276",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7459",
+        "x-memc": "HIT",
+        "x-memc-key": "77bb763d4a8e2ce88acaab90b1806854",
+        "x-memc-age": "19803",
+        "x-memc-expires": "7459",
+        "ETag": "W\/\"52c419ac8e1e9a403b8787b7902a3929\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jBp_o4bnwcZ1Ev16Tu4FnByLBIdaPmOr9JszwmutV_DACtJASY_WYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":225000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":396211,\"imdb_id\":\"tt4381426\",\"origin_country\":[\"TH\"],\"original_language\":\"th\",\"original_title\":\"\u0e1f.\u0e2e\u0e35\u0e41\u0e25\u0e23\u0e4c\",\"overview\":\"Pongsatorn is a teacher in Thailand working on his thesis for his Master's degree. His chosen subject his the life and works of a French Catholic priest who lived in Thailand in the early part of the 20th century. His professor rejects his early drafts to his anger before realising the professor has pushed him to fully understand his chosen topic.\",\"popularity\":5.838,\"poster_path\":\"\/IPcyPtkIcWOC7jYFTJdy8u6iVW.jpg\",\"production_companies\":[{\"id\":76422,\"logo_path\":null,\"name\":\"Fivestar Movies\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"}],\"release_date\":\"2015-03-09\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"}],\"status\":\"Released\",\"tagline\":\"A story of french teacher who devotes himself to siam\u2026\",\"title\":\"F.Hilaire\",\"video\":false,\"vote_average\":6.6,\"vote_count\":5}"
+}

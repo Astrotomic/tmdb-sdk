@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1616",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16881",
+        "x-memc": "HIT",
+        "x-memc-key": "9cfe75b68a3967390f41252d3e00923d",
+        "x-memc-age": "7922",
+        "x-memc-expires": "16881",
+        "ETag": "W\/\"b2cab286740f7fce29b491681915a061\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yyTK9fKgiteSb76hzo9NpsN4eXNKie3DS0AYcuZ7EKxdPllpiGqfDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gOlMx8kFIIUmYVRIKuLbaLhBJSZ.jpg\",\"belongs_to_collection\":{\"id\":1125292,\"name\":\"Freaky Friday Collection\",\"poster_path\":\"\/lJIhtjceI9EHFpI6EdUkoGDUJKi.jpg\",\"backdrop_path\":\"\/7UCGF1UyTZFGgnf9pOjBsFRXvIp.jpg\"},\"budget\":26000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":10330,\"imdb_id\":\"tt0322330\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Freaky Friday\",\"overview\":\"Mother and daughter bicker over everything -- what Anna wears, whom she likes and what she wants to do when she's older. In turn, Anna detests Tess's fianc\u00e9. When a magical fortune cookie switches their personalities, they each get a peek at how the other person feels, thinks and lives.\",\"popularity\":83.504,\"poster_path\":\"\/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg\",\"production_companies\":[{\"id\":93528,\"logo_path\":null,\"name\":\"Casual Friday Productions\",\"origin_country\":\"\"},{\"id\":3538,\"logo_path\":null,\"name\":\"Gunn Films\",\"origin_country\":\"\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-08-05\",\"revenue\":160846332,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Mondays are manic. Wednesdays are wild. And Fridays are about to get a little freaky.\",\"title\":\"Freaky Friday\",\"video\":false,\"vote_average\":6.5,\"vote_count\":3682}"
+}

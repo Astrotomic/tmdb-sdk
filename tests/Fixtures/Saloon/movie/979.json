@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1860",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10650",
+        "x-memc": "HIT",
+        "x-memc-key": "ca9020e8c05fa739625160856c46d9aa",
+        "x-memc-age": "16729",
+        "x-memc-expires": "10650",
+        "ETag": "W\/\"fd30528dc567278a87f7f2a6e713e028\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FWzjY1iKd0bXgk1HUxkDqeTg07yNjI_ye3T6BD_dicbuzUbOaS9oQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xV1EfNSEg6id6juJPr1vM6p9x5X.jpg\",\"belongs_to_collection\":null,\"budget\":3500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":979,\"imdb_id\":\"tt0290673\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Irr\u00e9versible\",\"overview\":\"A woman\u2019s lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can\u2019t be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.\",\"popularity\":80.329,\"poster_path\":\"\/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg\",\"production_companies\":[{\"id\":856,\"logo_path\":\"\/3tfzS2CrX6Ntbu927XzHXEPDA6y.png\",\"name\":\"Wild Bunch\",\"origin_country\":\"FR\"},{\"id\":616,\"logo_path\":\"\/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png\",\"name\":\"Eskwad\",\"origin_country\":\"FR\"},{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"},{\"id\":1157,\"logo_path\":null,\"name\":\"Les Cin\u00e9mas de la Zone\",\"origin_country\":\"FR\"},{\"id\":4176,\"logo_path\":null,\"name\":\"Nord-Ouest Productions\",\"origin_country\":\"FR\"},{\"id\":19233,\"logo_path\":null,\"name\":\"120 Films\",\"origin_country\":\"FR\"},{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2002-05-22\",\"revenue\":6500000,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Time Destroys All Things.\",\"title\":\"Irreversible\",\"video\":false,\"vote_average\":7.225,\"vote_count\":2786}"
+}

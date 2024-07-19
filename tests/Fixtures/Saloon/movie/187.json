@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1751",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23485",
+        "x-memc": "HIT",
+        "x-memc-key": "ca02f2e66b5c5acf79aef98d12586526",
+        "x-memc-age": "3158",
+        "x-memc-expires": "23485",
+        "ETag": "W\/\"07de1d8b7d9ac2b647f46b16c0479d97\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MN5kfHPiQ8RORPM_wyFNV42BZdM6D4KW42UzZ00i5AwE-o4HbJ3hfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lt1rGQSqhk2T2T4lHo6CTQYvoWP.jpg\",\"belongs_to_collection\":{\"id\":135179,\"name\":\"Sin City Collection\",\"poster_path\":\"\/8LZQY73htfMWyK0s2AGLwYlAVkA.jpg\",\"backdrop_path\":\"\/nrn5Uogru1UPhnGZdc0g5Kvkyni.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.miramax.com\/movie\/sin-city\/\",\"id\":187,\"imdb_id\":\"tt0401792\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sin City\",\"overview\":\"Welcome to Sin City. This town beckons to the tough, the corrupt, the brokenhearted. Some call it dark\u2026 Hard-boiled. Then there are those who call it home \u2014 Crooked cops, sexy dames, desperate vigilantes. Some are seeking revenge, others lust after redemption, and then there are those hoping for a little of both. A universe of unlikely and reluctant heroes still trying to do the right thing in a city that refuses to care.\",\"popularity\":47.206,\"poster_path\":\"\/i66G50wATMmPrvpP95f0XP6ZdVS.jpg\",\"production_companies\":[{\"id\":7405,\"logo_path\":\"\/rfnws0uY8rsNAsrLbx3gEIcYXx3.png\",\"name\":\"Dimension Films\",\"origin_country\":\"US\"},{\"id\":10807,\"logo_path\":\"\/j0BcMaJKIiDDYHq9lriTcM0Npka.png\",\"name\":\"Troublemaker Studios\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-04-01\",\"revenue\":158700000,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Walk down the right back alley in Sin City and you can find anything...\",\"title\":\"Sin City\",\"video\":false,\"vote_average\":7.458,\"vote_count\":7918}"
+}

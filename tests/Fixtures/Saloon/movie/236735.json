@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1604",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21958",
+        "x-memc": "HIT",
+        "x-memc-key": "98eb9f3979d261bb000c7f2e93ea71c5",
+        "x-memc-age": "5705",
+        "x-memc-expires": "21958",
+        "ETag": "W\/\"f2d137203623cba09da6a2c42b11887b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nvWWW1HnGtQnTGna3k19Neqi9cApvPs5u6gPxdpSMgrSeAQFykp4jg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qLuu0GysqAM2nw6JEIjTkJdEwp7.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":236735,\"imdb_id\":\"tt3253930\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"La isla m\u00ednima\",\"overview\":\"The Spanish deep South, 1980. A series of brutal murders of adolescent girls in a remote and forgotten town bring together two disparate characters - both detectives in the homicide division - to investigate the cases. With deep divisions in their ideology, detectives Juan and Pedro must put aside their differences if they are to successfully hunt down a killer who for years has terrorized a community in the shadow of a general disregard for women rooted in a misogynistic past.\",\"popularity\":17.422,\"poster_path\":\"\/moQkaslWyRgBxwp5KxljMyDKyd3.jpg\",\"production_companies\":[{\"id\":31899,\"logo_path\":null,\"name\":\"Sacromonte Films\",\"origin_country\":\"\"},{\"id\":29566,\"logo_path\":\"\/wHbtRtUnXGNzX0riQIpq1fcgueq.png\",\"name\":\"Atresmedia\",\"origin_country\":\"ES\"},{\"id\":7342,\"logo_path\":\"\/wNfgwQ0kzY74pSAf8mmguPI5nHX.png\",\"name\":\"At\u00edpica Films\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2014-09-25\",\"revenue\":5169755,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"}],\"status\":\"Released\",\"tagline\":\"Life, Death, Redemption.\",\"title\":\"Marshland\",\"video\":false,\"vote_average\":7.045,\"vote_count\":932}"
+}

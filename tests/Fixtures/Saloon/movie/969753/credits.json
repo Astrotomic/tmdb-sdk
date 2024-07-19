@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "768",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:32:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12798",
+        "x-memc": "HIT",
+        "x-memc-key": "def57dd24126e3aed80b1f5ba02abf1c",
+        "x-memc-age": "13180",
+        "x-memc-expires": "12798",
+        "ETag": "W\/\"5d3054c622513c4e353e6b6e326d0438\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "X9Hxx8H5zwl06rKxkzzhTMHJ2uY4oL6zdng__uzWiP0Ev1wK9VHLwg=="
+    },
+    "data": "{\"id\":969753,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3531427,\"known_for_department\":\"Acting\",\"name\":\"Sung Ju Hyung\",\"original_name\":\"Sung Ju Hyung\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Ju-Hyung\",\"credit_id\":\"626e3390162bc300a824a969\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3531428,\"known_for_department\":\"Acting\",\"name\":\"Cha Kyung Hun\",\"original_name\":\"Cha Kyung Hun\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Kyung-Hun\",\"credit_id\":\"626e339e162bc300a824a98a\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3531429,\"known_for_department\":\"Directing\",\"name\":\"Jun Dy\",\"original_name\":\"Jun Dy\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"626e33b8245dbe3381a3ff63\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

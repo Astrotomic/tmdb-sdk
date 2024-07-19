@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "563",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19139",
+        "x-memc": "HIT",
+        "x-memc-key": "ea053559edd8138ca32b891555a158e1",
+        "x-memc-age": "8368",
+        "x-memc-expires": "19139",
+        "ETag": "W\/\"625a3e2072a6a109ec1f049709c0894b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sAEB5mfJOTpTFode0zbG9Ox-1LXJcw4gbml7IYzGRUXtlHKdDRyH_g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[],\"homepage\":\"\",\"id\":597174,\"imdb_id\":null,\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"6\",\"overview\":\"\",\"popularity\":1.186,\"poster_path\":\"\/4FHkFpEMNUalsa0MxqvM0v5au1D.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2016-10-25\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"6\",\"video\":false,\"vote_average\":4.938,\"vote_count\":8}"
+}

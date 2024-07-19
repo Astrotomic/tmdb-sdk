@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "916",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21082",
+        "x-memc": "HIT",
+        "x-memc-key": "1e75abc8d962904658abf7c12a3dbdaa",
+        "x-memc-age": "5387",
+        "x-memc-expires": "21082",
+        "ETag": "W\/\"a4d19f6922af23ec07ddbc9eda80e37f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "788keDLQgkgjmVSzCoDkvK7W4VjA0g_DJ4STNub57ROFMZm2Ufo5Qg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":2585,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":1029833,\"imdb_id\":\"tt21818272\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Rose & Gin\",\"overview\":\"Two sisters seek a stolen treasure in exchange for an antidote after one is poisoned by their own father.\",\"popularity\":5.508,\"poster_path\":\"\/jln42qKHsckhzgQFmHWT5aLs3uU.jpg\",\"production_companies\":[{\"id\":132606,\"logo_path\":\"\/8qUTlLfxUDEsMsKY4UgXBthTNis.png\",\"name\":\"Deakin University\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2022-06-24\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He lives in the walls.\",\"title\":\"Rose & Gin\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

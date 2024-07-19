@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1449",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2827",
+        "x-memc": "HIT",
+        "x-memc-key": "ecae242a9ae3d6c7dd9ddd196953350d",
+        "x-memc-age": "22754",
+        "x-memc-expires": "2827",
+        "ETag": "W\/\"ad0599ef0c71c794cf0c291fc732440b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kXtZh-rNNQLcfahJDSeRDkwAR3iAYviIf8NFvGufxPlTNd2-pHs9cA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/p2fRZzxla6NoRbIH2KOZq0gHb5S.jpg\",\"belongs_to_collection\":{\"id\":1084247,\"name\":\"Zootopia Collection\",\"poster_path\":\"\/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg\",\"backdrop_path\":\"\/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/movies.disney.com\/zootopia\",\"id\":269149,\"imdb_id\":\"tt2948356\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Zootopia\",\"overview\":\"Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.\",\"popularity\":108.94,\"poster_path\":\"\/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg\",\"production_companies\":[{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-02-11\",\"revenue\":1023784195,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Welcome to the urban jungle.\",\"title\":\"Zootopia\",\"video\":false,\"vote_average\":7.748,\"vote_count\":15956}"
+}

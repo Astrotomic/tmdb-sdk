@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1288",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12891",
+        "x-memc": "HIT",
+        "x-memc-key": "643d34346f7305f746e47533a848869b",
+        "x-memc-age": "14628",
+        "x-memc-expires": "12891",
+        "ETag": "W\/\"d7f24c9a68fa7ed1917584f1f1e73fd3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nXd1o5TKftZ5I8YAYqzc8B6diDVVMhrzQD92fwWdbQSaI7_H8zJDqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jKEQoKWXvRcZfBd1GkcuK2n1KQG.jpg\",\"belongs_to_collection\":null,\"budget\":14000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":5919,\"imdb_id\":\"tt0072308\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Towering Inferno\",\"overview\":\"At the opening party of a colossal\u2014but poorly constructed\u2014skyscraper, a massive fire breaks out, threatening to destroy the tower and everyone in it.\",\"popularity\":22.356,\"poster_path\":\"\/mFM1GbrRrT3DWUFFo8koSITFnYe.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":14024,\"logo_path\":null,\"name\":\"Irwin Allen Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1974-12-14\",\"revenue\":116000000,\"runtime\":165,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One tiny spark becomes a night of blazing suspense.\",\"title\":\"The Towering Inferno\",\"video\":false,\"vote_average\":7.015,\"vote_count\":888}"
+}

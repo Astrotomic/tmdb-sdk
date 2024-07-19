@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "589",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:13:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12628",
+        "x-memc": "HIT",
+        "x-memc-key": "d4b58abd8fdc52431cef9757f122da88",
+        "x-memc-age": "10099",
+        "x-memc-expires": "12628",
+        "ETag": "W\/\"efaafb73e5d4062887c2c6c1d45dd4d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a7pq6n2ngJosYbA5bk7vs4Lfk5MEU6Bowb2yZEvw0KxUJTBNBErg2w=="
+    },
+    "data": "{\"id\":1205983,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":1366120,\"known_for_department\":\"Sound\",\"name\":\"Kristen Anderson-Lopez\",\"original_name\":\"Kristen Anderson-Lopez\",\"popularity\":3.668,\"profile_path\":\"\/j0IJP06I5SVUtxcbZ1oRG0SB2D8.jpg\",\"credit_id\":\"6557c36f53866e00e293fa04\",\"department\":\"Sound\",\"job\":\"Songs\"},{\"adult\":false,\"gender\":2,\"id\":1229800,\"known_for_department\":\"Writing\",\"name\":\"Robert Lopez\",\"original_name\":\"Robert Lopez\",\"popularity\":2.842,\"profile_path\":\"\/9UrQyBJHYZTl3STt3rATt9vBXfI.jpg\",\"credit_id\":\"6557c37322931a00c58c617b\",\"department\":\"Sound\",\"job\":\"Songs\"}]}"
+}

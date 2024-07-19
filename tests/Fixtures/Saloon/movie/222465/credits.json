@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "548",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:26:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25308",
+        "x-memc": "HIT",
+        "x-memc-key": "446860c6b0bd5c7bcea34933d63858ee",
+        "x-memc-age": "777",
+        "x-memc-expires": "25308",
+        "ETag": "W\/\"9631aa821304928580803e9b6127eb7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "O5-DnwLEmgZnre-Y5wKcFGZ4WNk3mHomg7nj7XNKgIPn9Vxio0oq8g=="
+    },
+    "data": "{\"id\":222465,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":97842,\"known_for_department\":\"Directing\",\"name\":\"Matt Green\",\"original_name\":\"Matt Green\",\"popularity\":3.142,\"profile_path\":null,\"credit_id\":\"5fb6fbf09a358d004364d450\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":941290,\"known_for_department\":\"Acting\",\"name\":\"Kely McClung\",\"original_name\":\"Kely McClung\",\"popularity\":2.177,\"profile_path\":\"\/xQqmrArYtCTku9LrT6UUdoljqfU.jpg\",\"credit_id\":\"5fb6fc03875d1a003c456777\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

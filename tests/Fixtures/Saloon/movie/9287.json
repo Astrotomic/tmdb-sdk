@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1076",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13832",
+        "x-memc": "HIT",
+        "x-memc-key": "5a3469a7c1f23a1550de1abc1e8f4094",
+        "x-memc-age": "14271",
+        "x-memc-expires": "13832",
+        "ETag": "W\/\"5dba7d0fb7bd39db445456281b3d0a6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h1Mk_aHR5z-S-Fmb0hEc2Z4lV7PCHBLsKbHoymRBqh-Txv9xHgCDnA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/YZVX4nqC9pwdDmRr2euKkGlOum.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":9287,\"imdb_id\":\"tt0109321\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Botte di Natale\",\"overview\":\"Two brothers who hate themselves are going to spend Christmas with their mother. She tries to get them together.\",\"popularity\":15.702,\"poster_path\":\"\/lZRD3lyOmeIZeR4kWudaErV7Jum.jpg\",\"production_companies\":[{\"id\":29165,\"logo_path\":\"\/d1wokdgTjC7lJs6yktVd61JZrwD.png\",\"name\":\"Rialto Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-11-25\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"How The West was almost lost\",\"title\":\"Troublemakers\",\"video\":false,\"vote_average\":6.124,\"vote_count\":209}"
+}

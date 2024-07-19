@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1224",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:13:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17070",
+        "x-memc": "HIT",
+        "x-memc-key": "f314db5685cb7ccebe612820b849bfa6",
+        "x-memc-age": "7980",
+        "x-memc-expires": "17070",
+        "ETag": "W\/\"4f7ec7b2c54e0e8c91a9a93a1424317d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kJ6964xCNox2F2bPmfwn6HnJ_HYFv23uFJJE6xQBbei4fnD-RJW32Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/LQG7HcTmlp1wvdfw2fPmIqveDb.jpg\",\"belongs_to_collection\":{\"id\":1155843,\"name\":\"Op\u00e9ration Portugal - Saga\",\"poster_path\":\"\/c1UP5QAPKEpBoqJtHnKpje2f2if.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1155840,\"imdb_id\":\"tt30471155\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Op\u00e9ration Portugal 2 - La Vie De Ch\u00e2teau\",\"overview\":\"Hakim has to foil the plans of a shady developer : the count of Neuville. Helped by his friends, he seeps into the count's castle, but he also has to prepare his wedding with Julia.\",\"popularity\":8.959,\"poster_path\":\"\/ipm8H0UNidY25p4IJDRpWRwVf3g.jpg\",\"production_companies\":[{\"id\":77550,\"logo_path\":\"\/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png\",\"name\":\"Moana Films\",\"origin_country\":\"FR\"},{\"id\":176968,\"logo_path\":null,\"name\":\"Coupains Production\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-02-07\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Op\u00e9ration Portugal 2 - La Vie De Ch\u00e2teau\",\"video\":false,\"vote_average\":5.0,\"vote_count\":13}"
+}

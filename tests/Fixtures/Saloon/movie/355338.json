@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1033",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16084",
+        "x-memc": "HIT",
+        "x-memc-key": "a45c52f282034bd93c6025cf310d034e",
+        "x-memc-age": "9016",
+        "x-memc-expires": "16084",
+        "ETag": "W\/\"62370e818ef6a67569c23ab3d3e55873\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EuT7m6Hcho10MvBY_jMYr-srAIRqwtYQLW86xovnmLgsqCgpqnNr3A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wSGF90Ki9bDaUWsAICtqQh0uqJy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":355338,\"imdb_id\":\"tt4941804\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Riley's First Date?\",\"overview\":\"Riley, now 12, who is hanging out with her parents at home when potential trouble comes knocking. Mom's and Dad's Emotions find themselves forced to deal with Riley going on her first \\\"date.\\\"\",\"popularity\":82.273,\"poster_path\":\"\/cGLwfmLqg39822RFQMUDat0UJev.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-11-03\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Riley's First Date?\",\"video\":false,\"vote_average\":7.194,\"vote_count\":935}"
+}

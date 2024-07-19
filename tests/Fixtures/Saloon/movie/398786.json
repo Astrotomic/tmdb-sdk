@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1176",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23277",
+        "x-memc": "HIT",
+        "x-memc-key": "da8471976d41cd49dbe183d0dfb34bc4",
+        "x-memc-age": "53",
+        "x-memc-expires": "23277",
+        "ETag": "W\/\"ad87cacdae7a41cefe2223c71e7e1ca1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "H17dVTGsLhWPnQpmCR2R3_44bapgRRgFWzj3Z-DW1R7Xt-oLg4y0kw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o8UR1OEJxkdjo4eipuWhV60LlGe.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":398786,\"imdb_id\":\"tt5458088\",\"origin_country\":[\"IN\"],\"original_language\":\"ml\",\"original_title\":\"\u0d15\u0d2e\u0d4d\u0d2e\u0d1f\u0d4d\u0d1f\u0d3f\u0d2a\u0d4d\u0d2a\u0d3e\u0d1f\u0d02\",\"overview\":\"Krishnan, who has been living away from his family and friends in Mumbai, gets a call from his friend Ganga in Kerala, out of the blue. He senses danger, and leaves for Kammattipadam, where both of them grew up.\",\"popularity\":10.351,\"poster_path\":\"\/cszf5aLxZnXr4kVdGDaX5ddFQlJ.jpg\",\"production_companies\":[{\"id\":4284,\"logo_path\":null,\"name\":\"Century Films\",\"origin_country\":\"IN\"},{\"id\":69640,\"logo_path\":null,\"name\":\"Global United Media\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2016-05-20\",\"revenue\":0,\"runtime\":177,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"Malayalam\",\"iso_639_1\":\"ml\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kammatti Paadam\",\"video\":false,\"vote_average\":7.878,\"vote_count\":45}"
+}

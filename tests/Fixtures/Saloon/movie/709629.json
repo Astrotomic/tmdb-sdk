@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1393",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=29",
+        "x-memc": "HIT",
+        "x-memc-key": "c3d9980af0385b332a3435b945210b41",
+        "x-memc-age": "28116",
+        "x-memc-expires": "29",
+        "ETag": "W\/\"0832335ec60afdd7effc5201c4028c1f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sRZYoVWHjqPiPDTpCyEuw51jxCSOeG0-eTkhKcPLPEBhuD3GDqy_sQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nq4LRhGrCZ8ucxMaLMPa3uZV6ku.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":709629,\"imdb_id\":\"tt11332500\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Guerra de Likes\",\"overview\":\"In order to advance her career in the dynamic world of publicity in Mexico City, Raquel tries to reunite with her high school friend Cecy who has become the queen of social media. But unlike followers, friendships do not come instantly.\",\"popularity\":9.639,\"poster_path\":\"\/jpdWHOu6EJbYnLXLCA52h82nLEz.jpg\",\"production_companies\":[{\"id\":16322,\"logo_path\":\"\/pKjLo6lCOYCwfK0efWCfAXqYzaY.png\",\"name\":\"Itaca Films\",\"origin_country\":\"MX\"},{\"id\":160501,\"logo_path\":null,\"name\":\"Feel Good Films\",\"origin_country\":\"\"},{\"id\":20580,\"logo_path\":\"\/oRR9EXVoKP9szDkVKlze5HVJS7g.png\",\"name\":\"Amazon Studios\",\"origin_country\":\"US\"},{\"id\":63520,\"logo_path\":\"\/ytQNtv7i4wtkuLyguqRLC0FX8GL.png\",\"name\":\"Sony Pictures International Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-03-12\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"War of Likes\",\"video\":false,\"vote_average\":7.7,\"vote_count\":238}"
+}

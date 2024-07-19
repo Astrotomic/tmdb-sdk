@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1362",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26492",
+        "x-memc": "HIT",
+        "x-memc-key": "1aed4f22f51a05bb3bb12fe12e725b16",
+        "x-memc-age": "1429",
+        "x-memc-expires": "26492",
+        "ETag": "W\/\"4c9ba2495f61a7cd80d65b0fcf64cab7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "d4PLTPLZXZOHlU3HZ5-f_7THMJO3cJs1OAf2zI6yufAiTr9yqm2oCQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i4NvcHeYeAdLEFiLxEVvUA3BT0.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":8916,\"imdb_id\":\"tt0120587\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Antz\",\"overview\":\"A neurotic worker ant in love with a rebellious princess rises to unlikely stardom when he switches places with a soldier. Signing up to march in a parade, he ends up under the command of a bloodthirsty general. But he's actually been enlisted to fight against a termite army.\",\"popularity\":67.229,\"poster_path\":\"\/lWPjxbUMpAHFkJpZHHNWhQaRsax.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-10-02\",\"revenue\":171757863,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Every ant has his day.\",\"title\":\"Antz\",\"video\":false,\"vote_average\":6.161,\"vote_count\":4338}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1528",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21137",
+        "x-memc": "HIT",
+        "x-memc-key": "ee766128b4ff1d4a1bd049d55de017ff",
+        "x-memc-age": "5786",
+        "x-memc-expires": "21137",
+        "ETag": "W\/\"922d2d8f7c8a7aa824a16567386485fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aNMG5bz1dwlLpYhtoe8cZbN4tx-oGiWX64CXwbnNjw-6Qo8bZf2y1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6iUNJZymJBMXXriQyFZfLAKnjO6.jpg\",\"belongs_to_collection\":{\"id\":468552,\"name\":\"Wonder Woman Collection\",\"poster_path\":\"\/8AQRfTuTHeFTddZN4IUAqprN8Od.jpg\",\"backdrop_path\":\"\/n9KlvCOBFDmSyw3BgNrkUkxMFva.jpg\"},\"budget\":149000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/wonder-woman\",\"id\":297762,\"imdb_id\":\"tt0451279\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wonder Woman\",\"overview\":\"An Amazon princess comes to the world of Man in the grips of the First World War to confront the forces of evil and bring an end to human conflict.\",\"popularity\":69.131,\"poster_path\":\"\/imekS7f1OuHyUP2LAiTEM0zBzUz.jpg\",\"production_companies\":[{\"id\":507,\"logo_path\":\"\/aRmHe6GWxYMRCQljF75rn2B9Gv8.png\",\"name\":\"Atlas Entertainment\",\"origin_country\":\"US\"},{\"id\":9995,\"logo_path\":\"\/mAIGhOYhN4N2N0F7p4dbKhgXf3l.png\",\"name\":\"Cruel \\u0026 Unusual Films\",\"origin_country\":\"US\"},{\"id\":128064,\"logo_path\":\"\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png\",\"name\":\"DC Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-05-30\",\"revenue\":823970682,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Power. Grace. Wisdom. Wonder.\",\"title\":\"Wonder Woman\",\"video\":false,\"vote_average\":7.227,\"vote_count\":19646}"
+}

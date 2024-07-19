@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3572",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25002",
+        "x-memc": "HIT",
+        "x-memc-key": "9d7cff8fdc97dea292404c5d090b0af1",
+        "x-memc-age": "364",
+        "x-memc-expires": "25002",
+        "ETag": "W\/\"e75645ec355af1d04a3714824a9ef8fa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lx5zMkSaNKnEv4jWLqbhe_ibe9GR69D1ai-itBjF5g9hCweIo8JAQg=="
+    },
+    "data": "{\"id\":718235,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1257867,\"known_for_department\":\"Acting\",\"name\":\"August Maturo\",\"original_name\":\"August Maturo\",\"popularity\":7.233,\"profile_path\":\"\/2haSmurs6WIFGu7dadXouGHW1qm.jpg\",\"cast_id\":3,\"character\":\"Joshua\",\"credit_id\":\"5efa0277be7f350033a49765\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":8786,\"known_for_department\":\"Acting\",\"name\":\"Ayelet Zurer\",\"original_name\":\"Ayelet Zurer\",\"popularity\":31.849,\"profile_path\":\"\/ea3MLLgsIdDhDLkjUCmkR0ZxjDC.jpg\",\"cast_id\":1,\"character\":\"Shoshonna\",\"credit_id\":\"5efa022dcffeed0039061bd9\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":44651,\"known_for_department\":\"Acting\",\"name\":\"Ken Duken\",\"original_name\":\"Ken Duken\",\"popularity\":15.292,\"profile_path\":\"\/y0W1vcjV7RWmVAIgm03erG47fHs.jpg\",\"cast_id\":2,\"character\":\"Ralph\",\"credit_id\":\"5efa025155b0c0003914dc5e\",\"order\":2},{\"adult\":false,\"gender\":1,\"id\":159877,\"known_for_department\":\"Acting\",\"name\":\"Lois Robbins\",\"original_name\":\"Lois Robbins\",\"popularity\":4.105,\"profile_path\":\"\/nr2qB8hxcquk3ORZIFjhFuMgl6X.jpg\",\"cast_id\":6,\"character\":\"Greta\",\"credit_id\":\"5efa050dcffeed00380492a3\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":1593710,\"known_for_department\":\"Acting\",\"name\":\"Rebeka Rea\",\"original_name\":\"Rebeka Rea\",\"popularity\":0.746,\"profile_path\":\"\/4ElP5UwgaSlOYeGV3a4Sp1rUU5h.jpg\",\"cast_id\":7,\"character\":\"Mrs. Komorsky's Daughter\",\"credit_id\":\"5efa050e55b0c0003614db8a\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":1454944,\"known_for_department\":\"Acting\",\"name\":\"Levente Moln\u00e1r\",\"original_name\":\"Levente Moln\u00e1r\",\"popularity\":6.691,\"profile_path\":\"\/chkWuFXgtz2xFkSHFuOiipLnSIL.jpg\",\"cast_id\":8,\"character\":\"Stengel\",\"credit_id\":\"5efa050ee93e950034b70a3d\",\"order\":5},{\"adult\":false,\"gender\":2,\"id\":2327106,\"known_for_department\":\"Acting\",\"name\":\"Hans Peterson\",\"original_name\":\"Hans Peterson\",\"popularity\":1.028,\"profile_path\":\"\/3MI8UXBJCvi2l46KcAOgcSU3QB8.jpg\",\"cast_id\":9,\"character\":\"Peter\",\"credit_id\":\"5efa050ed6d64d0036c8b2f6\",\"order\":6},{\"adult\":false,\"gender\":2,\"id\":146123,\"known_for_department\":\"Acting\",\"name\":\"Peter Linka\",\"original_name\":\"Peter Linka\",\"popularity\":3.938,\"profile_path\":\"\/4AiCsFDtzRTaH4nKF5m8QWxKLD3.jpg\",\"cast_id\":10,\"character\":\"J\u00fcrgen Klein\",\"credit_id\":\"5efa050e13af5f003758ef95\",\"order\":7},{\"adult\":false,\"gender\":2,\"id\":1676636,\"known_for_department\":\"Acting\",\"name\":\"Peter Schueller\",\"original_name\":\"Peter Schueller\",\"popularity\":2.51,\"profile_path\":\"\/xeQte9pYSmWn4xaXfEEXd4WVo5p.jpg\",\"cast_id\":11,\"character\":\"SS Training Official\",\"credit_id\":\"5efa050fa284eb00368ea3ba\",\"order\":8},{\"adult\":false,\"gender\":0,\"id\":2696104,\"known_for_department\":\"Acting\",\"name\":\"Viktor D\u00e9nes\",\"original_name\":\"Viktor D\u00e9nes\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":12,\"character\":\"Mr. Komorsky\",\"credit_id\":\"5efa050fd6d64d0036c8b301\",\"order\":9},{\"adult\":false,\"gender\":0,\"id\":2696105,\"known_for_department\":\"Acting\",\"name\":\"Vikt\u00f3ria Stefanovszky\",\"original_name\":\"Vikt\u00f3ria Stefanovszky\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":13,\"character\":\"Rachel Schoenmann\",\"credit_id\":\"5efa050f13af5f00345bed72\",\"order\":10}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":198945,\"known_for_department\":\"Writing\",\"name\":\"Lynn Roth\",\"original_name\":\"Lynn Roth\",\"popularity\":3.322,\"profile_path\":null,\"credit_id\":\"5efa02d75437f500368bd36f\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2696081,\"known_for_department\":\"Writing\",\"name\":\"Asher Kravitz\",\"original_name\":\"Asher Kravitz\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5efa02afbe7f350035a2ab08\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

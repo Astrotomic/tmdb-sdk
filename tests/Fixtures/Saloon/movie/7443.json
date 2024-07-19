@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1747",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2589",
+        "x-memc": "HIT",
+        "x-memc-key": "7d5a2a44bb31d07d98c34beb103e1977",
+        "x-memc-age": "19456",
+        "x-memc-expires": "2589",
+        "ETag": "W\/\"7e6bc8944faadc23d491098e200455e4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u6V39bYNPCRcRxOxEnhmT9wlD3OJ0SjiTqyn9gqBr6obLmOauufmsg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xWG7emUlBPhsJ2MyQHqH0poeXwm.jpg\",\"belongs_to_collection\":{\"id\":718551,\"name\":\"Chicken Run Collection\",\"poster_path\":\"\/rn3ZedQ6AfA60xG2WDe8FRIW29G.jpg\",\"backdrop_path\":\"\/3ruzhPlPlfnDY4aX7Hx9o5auyJd.jpg\"},\"budget\":45000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":7443,\"imdb_id\":\"tt0120630\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Chicken Run\",\"overview\":\"The creators of Wallace & Gromit bring you an exciting and original story about a group of chickens determined to fly the coop\u2013even if they can\u2019t fly! It\u2019s hardly poultry in motion when Rocky attempts to teach Ginger and her feathered friends to fly\u2026but, with teamwork, determination and a little bit o\u2019 cluck, the fearless flock plots one last attempt in a spectacular bid for freedom.\",\"popularity\":50.753,\"poster_path\":\"\/zszChc7quMGvFwzgKQnxd0QTcnc.jpg\",\"production_companies\":[{\"id\":297,\"logo_path\":\"\/58TnhYZqbMYgkHM6lg7dJoYJ4RH.png\",\"name\":\"Aardman\",\"origin_country\":\"GB\"},{\"id\":7981,\"logo_path\":\"\/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png\",\"name\":\"Path\u00e9\",\"origin_country\":\"FR\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-06-23\",\"revenue\":224834564,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There's nothing more determined than poultry with a plan.\",\"title\":\"Chicken Run\",\"video\":false,\"vote_average\":6.816,\"vote_count\":4898}"
+}

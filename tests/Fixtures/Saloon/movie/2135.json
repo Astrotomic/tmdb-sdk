@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1338",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=38",
+        "x-memc": "HIT",
+        "x-memc-key": "3c2c53c5229bbfcb863b4ce521ae340f",
+        "x-memc-age": "24066",
+        "x-memc-expires": "38",
+        "ETag": "W\/\"8a1bd91afdd2804f1b5f08df9d767fac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CEI1txKX5TnAuvK6ckuMkOjoaEyBNqwi4BkSruR_7GJsPXHUhbL_Ow=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i0eOILDW8HipIkOUSKhB1dvZzNJ.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/timemachine.countingdown.com\/\",\"id\":2135,\"imdb_id\":\"tt0268695\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Time Machine\",\"overview\":\"Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds mankind divided into two warring races.\",\"popularity\":29.753,\"poster_path\":\"\/9QB6wIc6XOtoi02uUCLSvY0onSL.jpg\",\"production_companies\":[{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":11084,\"logo_path\":null,\"name\":\"Parkes\/MacDonald Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-03-04\",\"revenue\":123700000,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The greatest adventure THROUGH all time!\",\"title\":\"The Time Machine\",\"video\":false,\"vote_average\":6.249,\"vote_count\":2200}"
+}

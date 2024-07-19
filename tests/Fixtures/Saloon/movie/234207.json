@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1062",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=405",
+        "x-memc": "HIT",
+        "x-memc-key": "70290ea2ce78c3f9c6a6ef688577b8cf",
+        "x-memc-age": "27302",
+        "x-memc-expires": "405",
+        "ETag": "W\/\"0756359aaa88884256def5bf6ebba240\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sP-bMIJy0VTxe08vFG6itFP8ZTaEeMbcwJu9Mkq40nOIuKBKlFVR9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kAGU1QEmNvMJLju7SoMz33MCL1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":234207,\"imdb_id\":\"tt0026654\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Love Me Forever\",\"overview\":\"A man who loves an aspiring opera singer is prepared to sacrifice everything to help her with her career, even though he knows she doesn't love him.\",\"popularity\":2.761,\"poster_path\":\"\/SY3Ce2MZXu10SUpTRk04H8D2Ry.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1935-06-28\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She Brings You the Grandest of All Musical Romances!\",\"title\":\"Love Me Forever\",\"video\":false,\"vote_average\":4.0,\"vote_count\":2}"
+}

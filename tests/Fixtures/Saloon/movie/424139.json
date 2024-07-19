@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1654",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3804",
+        "x-memc": "HIT",
+        "x-memc-key": "7dd67410ada67422f11a1207a3402454",
+        "x-memc-age": "19721",
+        "x-memc-expires": "3804",
+        "ETag": "W\/\"f6d230776129496c0c3cfa95f74d51ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aQeAe6-Mhaa6GMu-pGE5an4qv-T5KZY-nJxpZmPT9B1v1rTRC4xhNw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hO1oTBGNxO5fBKVEuWnSpICJH7c.jpg\",\"belongs_to_collection\":{\"id\":91361,\"name\":\"Halloween Collection\",\"poster_path\":\"\/rv9SZcjJBzutpk3FzPjdEfaKOF2.jpg\",\"backdrop_path\":\"\/d6uWYZe7h7M3F7h4IBjO1jgIkMh.jpg\"},\"budget\":10000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.halloweenmovie.com\",\"id\":424139,\"imdb_id\":\"tt1502407\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Halloween\",\"overview\":\"Laurie Strode comes to her final confrontation with Michael Myers, the masked figure who has haunted her since she narrowly escaped his killing spree on Halloween night four decades ago.\",\"popularity\":58.006,\"poster_path\":\"\/f7JAX5EGk4GgsEnus6OxyzwpFp7.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":15822,\"logo_path\":\"\/Aodu1OPI0LHTWYr7Jlm4R2XY2og.png\",\"name\":\"Trancas International Films\",\"origin_country\":\"US\"},{\"id\":20848,\"logo_path\":\"\/htPfdm3yNRVsDz8CyyMozALKOO0.png\",\"name\":\"Rough House Pictures\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-10-18\",\"revenue\":259900000,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Face Your Fate.\",\"title\":\"Halloween\",\"video\":false,\"vote_average\":6.6,\"vote_count\":4580}"
+}

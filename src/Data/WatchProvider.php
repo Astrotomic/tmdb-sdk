@@ -7,8 +7,8 @@ use Astrotomic\Tmdb\Images\Logo;
 readonly class WatchProvider
 {
     final public function __construct(
-        public int $id,
-        public string $name,
+        public int $providerId,
+        public string $providerName,
         public int $displayPriority,
         public string $logoPath,
     ) {}
@@ -16,8 +16,8 @@ readonly class WatchProvider
     public static function fromArray(array $data): self
     {
         return new static(
-            id: $data['provider_id'],
-            name: $data['provider_name'],
+            providerId: $data['provider_id'],
+            providerName: $data['provider_name'],
             displayPriority: $data['display_priority'],
             logoPath: $data['logo_path'],
         );
@@ -27,7 +27,7 @@ readonly class WatchProvider
     {
         return new Logo(
             $this->logoPath,
-            $this->name
+            $this->providerName
         );
     }
 }

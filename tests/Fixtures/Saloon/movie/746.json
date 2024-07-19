@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2029",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8558",
+        "x-memc": "HIT",
+        "x-memc-key": "d58408149f6bb261836aee5bf3e3320b",
+        "x-memc-age": "15674",
+        "x-memc-expires": "8558",
+        "ETag": "W\/\"b3c6df8a302db02e62e76dac62fd72d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6DITtIh2gAcU3_m-JI3hZsFYimkDCsWUWdAvDv018bt__hg8Kvrwcg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mTw4n5MYQMftHuGsSmBrgMu7C1H.jpg\",\"belongs_to_collection\":null,\"budget\":23800000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":746,\"imdb_id\":\"tt0093389\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Last Emperor\",\"overview\":\"A dramatic history of Pu Yi, the last of the Emperors of China, from his lofty birth and brief reign in the Forbidden City, the object of worship by half a billion people; through his abdication, his decline and dissolute lifestyle; his exploitation by the invading Japanese, and finally to his obscure existence as just another peasant worker in the People's Republic.\",\"popularity\":29.988,\"poster_path\":\"\/7TILJhdeJAaEyDiwvJZMo9SQBoe.jpg\",\"production_companies\":[{\"id\":469,\"logo_path\":null,\"name\":\"Hemdale Film Corporation\",\"origin_country\":\"GB\"},{\"id\":472,\"logo_path\":null,\"name\":\"Soprofilms\",\"origin_country\":\"FR\"},{\"id\":473,\"logo_path\":null,\"name\":\"TAO Film\",\"origin_country\":\"IT\"},{\"id\":474,\"logo_path\":null,\"name\":\"Yanco\",\"origin_country\":\"CN\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":11561,\"logo_path\":\"\/8HB3TFUeo83keAPHfFfrNtN2MmA.png\",\"name\":\"Recorded Picture Company\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1987-10-04\",\"revenue\":44000000,\"runtime\":163,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Chichewa; Nyanja\",\"iso_639_1\":\"ny\",\"name\":\"\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"1500 slaves. 353,260,000 royal subjects. Warlords. Concubines. And 2 wives. He was the loneliest boy in the world.\",\"title\":\"The Last Emperor\",\"video\":false,\"vote_average\":7.6,\"vote_count\":1627}"
+}

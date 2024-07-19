@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1215",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 07:11:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13547",
+        "x-memc": "HIT",
+        "x-memc-key": "1811bb479f3a42f350d2cec279c37e83",
+        "x-memc-age": "10431",
+        "x-memc-expires": "13547",
+        "ETag": "W\/\"19b3343525c2f4718d0d954e2319a80d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yWGW1p2hG9HYqEK0lcbNHQCqO5W2q3TyketS7o2yRDb4PMZqwqDF_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":531330,\"name\":\"Top Gun Collection\",\"poster_path\":\"\/rL9DzQxkVF3BWQsdRukiJ7vrMQi.jpg\",\"backdrop_path\":\"\/9MGm0XT04ob99MyGQfMT7I8y3UE.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1229934,\"imdb_id\":\"tt30849976\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Top Gun 3\",\"overview\":\"Sequel to Top Gun: Maverick (2022) and third entry in the \u201cTop Gun\u201d franchise. Plot TBA.\",\"popularity\":10.315,\"poster_path\":null,\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":10288,\"logo_path\":\"\/Aszf09kIVXR6cwG9lwjZIawbYVS.png\",\"name\":\"Don Simpson\/Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":82819,\"logo_path\":\"\/gXfFl9pRPaoaq14jybEn1pHeldr.png\",\"name\":\"Skydance Media\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Top Gun 3\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1540",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3289",
+        "x-memc": "HIT",
+        "x-memc-key": "ce4f7c61bfa5a880df88320823adbceb",
+        "x-memc-age": "23833",
+        "x-memc-expires": "3289",
+        "ETag": "W\/\"be72d0fb1da46c7e348822f833eb1299\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WdsjrKkk3xpXyzvfMbeGbPvQ8Gczhe2Y0JrUR2rtFVRe6dORiQroyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j4irvwRLITgGr6vcP8NIKCUA67y.jpg\",\"belongs_to_collection\":{\"id\":8917,\"name\":\"Hellraiser Collection\",\"poster_path\":\"\/lIK0UgJsA18Z5I1PwpucXzgyF3A.jpg\",\"backdrop_path\":\"\/g0XtsgbwFcFHNZGarpk6qAOPX7T.jpg\"},\"budget\":1000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":9003,\"imdb_id\":\"tt0093177\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Hellraiser\",\"overview\":\"Hedonist Frank Cotton finds a mysterious puzzle box that summons the Cenobites, who open the doors to a dominion where pain and pleasure are indivisible.\",\"popularity\":64.246,\"poster_path\":\"\/3Z0oPHyLnk3Vx6ZMC1MiVwIrKhO.jpg\",\"production_companies\":[{\"id\":1950,\"logo_path\":\"\/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png\",\"name\":\"New World Pictures\",\"origin_country\":\"US\"},{\"id\":15338,\"logo_path\":null,\"name\":\"Cinemarque Entertainment\",\"origin_country\":\"US\"},{\"id\":15339,\"logo_path\":null,\"name\":\"Film Futures\",\"origin_country\":\"\"},{\"id\":15340,\"logo_path\":null,\"name\":\"Rivdel Films\",\"origin_country\":\"\"},{\"id\":96477,\"logo_path\":null,\"name\":\"New World\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-09-11\",\"revenue\":14575193,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He'll tear your soul apart.\",\"title\":\"Hellraiser\",\"video\":false,\"vote_average\":6.9,\"vote_count\":2454}"
+}

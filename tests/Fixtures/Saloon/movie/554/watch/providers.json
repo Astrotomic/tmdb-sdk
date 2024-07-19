@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "722",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19025",
+        "x-memc": "HIT",
+        "x-memc-key": "6769b43343ccab8aa8bd63b32b84df66",
+        "x-memc-age": "5317",
+        "x-memc-expires": "19025",
+        "ETag": "W\/\"6788aff4a9dab970c40443dfe994a69c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Sz41fiGudOZRx3ss0BUW0NaZ_AxOxTRd5flX_5ArVvETeShWOPZung=="
+    },
+    "data": "{\"id\":554,\"results\":{\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/554\/watch?locale=RU\",\"flatrate\":[{\"logo_path\":\"\/r7cgAhlSLI4r80P1Si9P0jOevrr.jpg\",\"provider_id\":570,\"provider_name\":\"Premier\",\"display_priority\":20},{\"logo_path\":\"\/51wuCkUdkEQTUtB8TrtZzzxp3Tj.jpg\",\"provider_id\":117,\"provider_name\":\"Kinopoisk\",\"display_priority\":23}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":4}],\"ads\":[{\"logo_path\":\"\/yyMxS08v80D96O7NtL9supa5sn7.jpg\",\"provider_id\":557,\"provider_name\":\"More TV\",\"display_priority\":16}],\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":4}]}}}"
+}

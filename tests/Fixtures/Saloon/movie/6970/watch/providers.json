@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "524",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12260",
+        "x-memc": "HIT",
+        "x-memc-key": "a06e8e50eb3aa29e332e4f7590cca695",
+        "x-memc-age": "12424",
+        "x-memc-expires": "12260",
+        "ETag": "W\/\"f174f8a406755845646df784f09d7b6a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "33or56qwUZWNQOa4EJBEsntleuaPwi1_TSYMDiPeo6KPXmxXLjkQcA=="
+    },
+    "data": "{\"id\":6970,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6970-welcome-to-woop-woop\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"flatrate\":[{\"logo_path\":\"\/96HJkA4nMkcOtiqH9oF1YYtGBHK.jpg\",\"provider_id\":2050,\"provider_name\":\"ScreenPix Apple TV Channel\",\"display_priority\":262}],\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1298",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23029",
+        "x-memc": "HIT",
+        "x-memc-key": "7317c038e70e7796d53142d7d6787d09",
+        "x-memc-age": "3953",
+        "x-memc-expires": "23029",
+        "ETag": "W\/\"0b426294145584b99a6306a086b01a36\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cEeLZ260DRl20aaW-jn7A4k2nWZzQz7-5c8SPmOo7KzABXddQjKctg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yMXP2ZXgfqnFxDg5y1Pb5xohLRE.jpg\",\"belongs_to_collection\":{\"id\":1202455,\"name\":\"Dark Resurrection - Collezione\",\"poster_path\":\"\/mzgcaGsjLzyqXEolzsGHZ6efldh.jpg\",\"backdrop_path\":null},\"budget\":7000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.darkresurrection.com\/en\/films\/volume1.html\",\"id\":24551,\"imdb_id\":\"tt1105757\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Dark Resurrection\",\"overview\":\"An ancient prophesy convinces the powerful Master Sorran to commence an obsessive search for Eron, a mythical place capable of giving the Chosen One infinite knowledge.\",\"popularity\":2.316,\"poster_path\":\"\/voyuEfN4KRUF5s7pX3b1AK6Qmfc.jpg\",\"production_companies\":[{\"id\":26355,\"logo_path\":null,\"name\":\"Lords Of Illusion\",\"origin_country\":\"\"},{\"id\":31322,\"logo_path\":null,\"name\":\"Guerre Stellari Net\",\"origin_country\":\"\"},{\"id\":31323,\"logo_path\":null,\"name\":\"RCL Sound FX\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2007-06-07\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dark Resurrection\",\"video\":false,\"vote_average\":6.0,\"vote_count\":21}"
+}

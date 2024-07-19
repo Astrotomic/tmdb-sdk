@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "901",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 14:21:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6675",
+        "x-memc": "HIT",
+        "x-memc-key": "297a463956f1ac4852321f2111b17444",
+        "x-memc-age": "18424",
+        "x-memc-expires": "6675",
+        "ETag": "W\/\"4d7442f3eca7c40e027a0a8ec316e49c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UoM3aSFq4MORq9Yy2ZbDSYMj0gsq_s1TZBwlmcAxlyLM1Ir9YaIEIg=="
+    },
+    "data": "{\"credit_type\":\"cast\",\"department\":\"Acting\",\"job\":\"Actor\",\"media\":{\"backdrop_path\":\"\/ncEsesgOJDNrTUED89hYbA117wo.jpg\",\"id\":603,\"title\":\"The Matrix\",\"original_title\":\"The Matrix\",\"overview\":\"Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.\",\"poster_path\":\"\/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg\",\"media_type\":\"movie\",\"adult\":false,\"original_language\":\"en\",\"genre_ids\":[28,878],\"popularity\":115.152,\"release_date\":\"1999-03-31\",\"video\":false,\"vote_average\":8.216,\"vote_count\":25158,\"character\":\"Neo\"},\"media_type\":\"movie\",\"id\":\"52fe425bc3a36847f80181c1\",\"person\":{\"id\":6384,\"name\":\"Keanu Reeves\",\"original_name\":\"Keanu Reeves\",\"media_type\":\"person\",\"adult\":false,\"popularity\":100.87,\"gender\":2,\"known_for_department\":\"Acting\",\"profile_path\":\"\/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg\"}}"
+}

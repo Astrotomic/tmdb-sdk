@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1635",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4187",
+        "x-memc": "HIT",
+        "x-memc-key": "d9ce03bd0083ec19297d9245f0b8dfe6",
+        "x-memc-age": "17636",
+        "x-memc-expires": "4187",
+        "ETag": "W\/\"5055ebd901d542253d6a3f3d8513cd26\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Q2WzaGchxycpCbDkVGBfQHqu46Rn3Uc5y_tm-L2w7tDpSaYuAfG1WQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/b6w7gKLQLS2zw4JK0XmKgQ4gnzr.jpg\",\"belongs_to_collection\":{\"id\":230,\"name\":\"The Godfather Collection\",\"poster_path\":\"\/zqV8MGXfpLZiFVObLxpAI7wWonJ.jpg\",\"backdrop_path\":\"\/mDMCET9Ens5ANvZAWRpluBsMAtS.jpg\"},\"budget\":13000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":240,\"imdb_id\":\"tt0071562\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Godfather Part II\",\"overview\":\"In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.\",\"popularity\":111.111,\"poster_path\":\"\/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":536,\"logo_path\":null,\"name\":\"The Coppola Company\",\"origin_country\":\"US\"},{\"id\":70,\"logo_path\":\"\/ueaENQkPcy8rlr5fGZVBXKOhlBh.png\",\"name\":\"American Zoetrope\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1974-12-20\",\"revenue\":102600000,\"runtime\":202,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The rise and fall of the Corleone empire.\",\"title\":\"The Godfather Part II\",\"video\":false,\"vote_average\":8.576,\"vote_count\":12122}"
+}

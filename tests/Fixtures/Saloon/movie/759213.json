@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1144",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6617",
+        "x-memc": "HIT",
+        "x-memc-key": "f0937f30baa67c62ea10b58fda3dd65f",
+        "x-memc-age": "20399",
+        "x-memc-expires": "6617",
+        "ETag": "W\/\"0e4f5333c3266ffe6c160eaf7285703a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SuAjEApA6ZM8ooSG3geBpkkjDT6tTBlIseuLMYxxaXoAJqcoDd9eNg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tINu5EWHiQfMDPxEbVOKUqvlOon.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":759213,\"imdb_id\":\"tt8273104\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Captive\",\"overview\":\"A teenage runaway who\u2019s trapped by a delusional man, pretends to be his daughter in order to escape.\",\"popularity\":13.958,\"poster_path\":\"\/8ofszdXTti3my1RGvyruu3rl9Hc.jpg\",\"production_companies\":[{\"id\":153784,\"logo_path\":null,\"name\":\"Katherine's Lullaby LLC\",\"origin_country\":\"\"},{\"id\":88606,\"logo_path\":\"\/9NKtkn1QfC6cqXB107nGox1rgqt.png\",\"name\":\"Vertical Entertainment\",\"origin_country\":\"US\"},{\"id\":97473,\"logo_path\":\"\/wUdvGcrOBNhYNWqPCYSyXbP5hpS.png\",\"name\":\"High Octane Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-10-30\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Get out alive.\",\"title\":\"Captive\",\"video\":false,\"vote_average\":7.24,\"vote_count\":25}"
+}

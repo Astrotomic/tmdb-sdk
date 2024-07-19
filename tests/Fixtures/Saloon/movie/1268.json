@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1459",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21800",
+        "x-memc": "HIT",
+        "x-memc-key": "2d9effda37e6dae00c5c5e833fdcd7cb",
+        "x-memc-age": "6159",
+        "x-memc-expires": "21800",
+        "ETag": "W\/\"55959a5e13af615a79c489205be7ef10\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OkSC6fn-mHKFIFXFaTYE6dPK6knyspQW9A-zAujqvrdnVfOh2qdYQQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yU5jOx10pP6veJW6CLblr6MduHH.jpg\",\"belongs_to_collection\":{\"id\":103372,\"name\":\"Mr. Bean Collection\",\"poster_path\":\"\/61Jcc1Gwc2KE7sIJ1HPqqdt67ji.jpg\",\"backdrop_path\":\"\/aIXcqHz5VKRLXHPsNo0dFoK7YP5.jpg\"},\"budget\":25000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1268,\"imdb_id\":\"tt0453451\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Mr. Bean's Holiday\",\"overview\":\"Mr. Bean wins a trip to Cannes where he unwittingly separates a young boy from his father and must help the two reunite. On the way he discovers France, bicycling and true love, among other things.\",\"popularity\":43.866,\"poster_path\":\"\/bSSx9Sq6irWwN9NTQmoT9KE8kXn.jpg\",\"production_companies\":[{\"id\":686,\"logo_path\":\"\/qMVjV8YFbxXrGVF4wD6hRjllVbr.png\",\"name\":\"Tiger Aspect\",\"origin_country\":\"GB\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2007-03-22\",\"revenue\":232225908,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Disaster is just a small step away.\",\"title\":\"Mr. Bean's Holiday\",\"video\":false,\"vote_average\":6.359,\"vote_count\":2782}"
+}

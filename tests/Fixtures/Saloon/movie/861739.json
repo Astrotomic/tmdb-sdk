@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "677",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9254",
+        "x-memc": "HIT",
+        "x-memc-key": "263e0affe4bec7559a08a1bacd0051e9",
+        "x-memc-age": "18717",
+        "x-memc-expires": "9254",
+        "ETag": "W\/\"adb74e2c21d0f8d8a657c0b87d6aa0a1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1f-gHIru7DZexLrYXFEYeTWaijjcG2feDP-WEGZvRIhnHBwn7sV93g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":861739,\"imdb_id\":\"tt0001457\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Hvem er hun?\",\"overview\":\"Danish version of Alexandre Bisson's play Madame X.\",\"popularity\":3.756,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"1910-09-29\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Who Is She?\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

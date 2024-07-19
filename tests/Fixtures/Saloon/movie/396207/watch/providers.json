@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "500",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:47:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8201",
+        "x-memc": "HIT",
+        "x-memc-key": "3ef9f4891e8a9511315bce226478c9b6",
+        "x-memc-age": "19774",
+        "x-memc-expires": "8201",
+        "ETag": "W\/\"471ee758b5667a84b87db30ee1e99041\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C37nj63r1y-qp5e_98bLHeEGkfVa3AdqP7ehFcqGYddUzpJUvk0G7g=="
+    },
+    "data": "{\"id\":396207,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/396207-okinawa\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1},{\"logo_path\":\"\/p4TlGiuRoH9sDZeppPJeMhizs26.jpg\",\"provider_id\":2100,\"provider_name\":\"Amazon Prime Video with Ads\",\"display_priority\":283}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}]}}}"
+}

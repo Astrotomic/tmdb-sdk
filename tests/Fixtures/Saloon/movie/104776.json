@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "939",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8985",
+        "x-memc": "HIT",
+        "x-memc-key": "e275a9eaeb4bc5c40170ff00bdc28e0f",
+        "x-memc-age": "15944",
+        "x-memc-expires": "8985",
+        "ETag": "W\/\"88dd96a2253468ca49b79882a14ca618\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hXcAfdIGR4aNRdvEDrAJn7hHDi3TdmZ7LKMV1WpxVyuk_Sn2ulel9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rRIjR9twAGBrO2SF4Rp1oo54042.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":104776,\"imdb_id\":\"tt0046712\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30a2\u30ca\u30bf\u30cf\u30f3\",\"overview\":\"During WWII, a group of Japanese soldiers are stranded on the remote Pacific island of Anatahan.\",\"popularity\":8.942,\"poster_path\":\"\/hfut8CVv8VlTH0DnIE2pI0Zlv7z.jpg\",\"production_companies\":[{\"id\":38972,\"logo_path\":null,\"name\":\"Daiwa Building\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1953-06-28\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Anatahan\",\"video\":false,\"vote_average\":6.681,\"vote_count\":36}"
+}

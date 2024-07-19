@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "230",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11141",
+        "x-memc": "HIT",
+        "x-memc-key": "d4e0fc3a2f7e5517027c7e22626aa568",
+        "x-memc-age": "15272",
+        "x-memc-expires": "11141",
+        "ETag": "W\/\"35324fcf4e3fafabc53b14edfd310842\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f32a39163a1e36ace7a71a85e2d2884.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MI8DTYT7c7ZmOCGoK5r5OACBtRI307yyKxWK3wXl3UcIP_Dnw0LS1w=="
+    },
+    "data": "{\"id\":399357,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/399357-rynox\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/nIm8xq1JYgHfusIcDnccEBQkoWp.jpg\",\"provider_id\":224,\"provider_name\":\"BFI Player\",\"display_priority\":15}]}}}"
+}

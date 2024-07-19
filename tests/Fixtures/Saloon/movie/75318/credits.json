@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1811",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2702",
+        "x-memc": "HIT",
+        "x-memc-key": "1651fe09d9fc8ae063e45554f43f574d",
+        "x-memc-age": "25236",
+        "x-memc-expires": "2702",
+        "ETag": "W\/\"05be51bae2a4a788fa0e8569a4fd0f74\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "U1rFvrzE-v8mb1q16zvFHKCBJKpVH3xyco6IshnZwRbkKnJygQaq9A=="
+    },
+    "data": "{\"id\":75318,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3559713,\"known_for_department\":\"Acting\",\"name\":\"Johanna Christensen\",\"original_name\":\"Johanna Christensen\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Josie\",\"credit_id\":\"628a23ec7d5db51b291823b4\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3559714,\"known_for_department\":\"Acting\",\"name\":\"Brandon Daniels\",\"original_name\":\"Brandon Daniels\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"Jermaine\",\"credit_id\":\"628a240d5cea182dd0447577\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":551300,\"known_for_department\":\"Acting\",\"name\":\"Daniel Landeros\",\"original_name\":\"Daniel Landeros\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Julio\",\"credit_id\":\"628a2436b513a813b3039a51\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":363956,\"known_for_department\":\"Acting\",\"name\":\"Raul Martinez\",\"original_name\":\"Raul Martinez\",\"popularity\":0.757,\"profile_path\":null,\"cast_id\":6,\"character\":\"Marco\",\"credit_id\":\"628a244d1a324877dfa85758\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":467271,\"known_for_department\":\"Acting\",\"name\":\"Jose Rosete\",\"original_name\":\"Jose Rosete\",\"popularity\":10.546,\"profile_path\":\"\/7txBc8cYN5babjetfR9Q2Adz8XE.jpg\",\"cast_id\":7,\"character\":\"Romero\",\"credit_id\":\"628a24685cea182dcfb97dfc\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1265681,\"known_for_department\":\"Directing\",\"name\":\"Eduardo Quiroz\",\"original_name\":\"Eduardo Quiroz\",\"popularity\":1.704,\"profile_path\":null,\"credit_id\":\"5fb6fc81b76cbb003e4a2b6e\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1265682,\"known_for_department\":\"Directing\",\"name\":\"Jose Quiroz\",\"original_name\":\"Jose Quiroz\",\"popularity\":1.429,\"profile_path\":null,\"credit_id\":\"5fb6fc8e967cc7004216c2e5\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

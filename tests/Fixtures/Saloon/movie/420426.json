@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1250",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19332",
+        "x-memc": "HIT",
+        "x-memc-key": "ba382a3f446d1e57ff915bca3d7bc5be",
+        "x-memc-age": "9087",
+        "x-memc-expires": "19332",
+        "ETag": "W\/\"e6b4d716ed0b7afd7eb2b624d9c18f92\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qfDuj4apBDiN0CMAgBmduook0Fi7yS6NQjJ-zCgytr5_8B1vhKTtfA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oZc9fUwHJ880Q4lFP98s7T5a7Fe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/80217733\",\"id\":420426,\"imdb_id\":\"tt5979872\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d6\u30ea\u30fc\u30c1\",\"overview\":\"High school student Ichigo Kurosaki lives an ordinary life, besides being able to see ghosts and the blurry memories of his mother's death under strange circumstances when he was a kid. His peaceful world suddenly breaks as he meets Rukia Kuchiki, a God of Death.\",\"popularity\":25.493,\"poster_path\":\"\/dWiwxqAtP09fBfYyzH85u8nFwOH.jpg\",\"production_companies\":[{\"id\":5896,\"logo_path\":null,\"name\":\"Cine Bazar\",\"origin_country\":\"JP\"},{\"id\":3627,\"logo_path\":\"\/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png\",\"name\":\"Warner Bros. Japan\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2018-07-20\",\"revenue\":3729856,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The Soul Reaper Agent Arc.\",\"title\":\"Bleach\",\"video\":false,\"vote_average\":6.612,\"vote_count\":533}"
+}

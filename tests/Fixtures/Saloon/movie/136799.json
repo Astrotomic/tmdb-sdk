@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2820",
+        "x-memc": "HIT",
+        "x-memc-key": "f9ded4968c48a9af62b08fd3dab24a94",
+        "x-memc-age": "20181",
+        "x-memc-expires": "2820",
+        "ETag": "W\/\"3260a2c8b7924c99923d9fabf112a960\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LdzhrdLBlvc1WYW6sEZbZqOyXo_UpSKsJA4upI2U00jn74f0hU3VeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gWCWHybWuVg3GmZpdY8qWGb85HR.jpg\",\"belongs_to_collection\":{\"id\":489724,\"name\":\"The Trolls Collection\",\"poster_path\":\"\/i4aII37O184x7K3dC7fpF9CAfS4.jpg\",\"backdrop_path\":\"\/xtgonS6wcxK5RfnWWohYZF3mhjM.jpg\"},\"budget\":125000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/www.dreamworks.com\/trolls\/\",\"id\":136799,\"imdb_id\":\"tt1679335\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Trolls\",\"overview\":\"After the monstrous Bergens invade Troll Village, Princess Poppy, the happiest Troll ever born, and overly-cautious, curmudgeonly outcast Branch set off on a journey to rescue her friends. Their mission is full of adventure and mishaps, as this mismatched duo try to tolerate each other long enough to get the job done.\",\"popularity\":60.738,\"poster_path\":\"\/9VlK2j0THZWzhQPq0W3Oc0IIdBB.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-10-13\",\"revenue\":347337803,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Find your happy place.\",\"title\":\"Trolls\",\"video\":false,\"vote_average\":6.651,\"vote_count\":3503}"
+}

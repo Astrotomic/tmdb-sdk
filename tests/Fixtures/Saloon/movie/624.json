@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1322",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4410",
+        "x-memc": "HIT",
+        "x-memc-key": "d7572b3ef6e6c1e7a57ad8c641c690e1",
+        "x-memc-age": "20613",
+        "x-memc-expires": "4410",
+        "ETag": "W\/\"5c29c291d88931d23414b95734734480\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rIXBpW0osC2fjZZGLx2sebwqqbrvGyzVGfUpDEPlVz_c_iBiIxV1XQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ctWdpQM7yBlvWfCzb5LuOunfHvB.jpg\",\"belongs_to_collection\":{\"id\":956687,\"name\":\"Easy Rider Collection\",\"poster_path\":\"\/rNvC9e2eo9LKpyFXNffQNdOKKi4.jpg\",\"backdrop_path\":null},\"budget\":400000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":624,\"imdb_id\":\"tt0064276\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Easy Rider\",\"overview\":\"Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.\",\"popularity\":50.079,\"poster_path\":\"\/3H3vwPGX6EbBRffIVHp3eHHcjka.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":14595,\"logo_path\":null,\"name\":\"Pando Company Inc.\",\"origin_country\":\"\"},{\"id\":15266,\"logo_path\":null,\"name\":\"BBS Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1969-06-26\",\"revenue\":60000000,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A man went looking for America and couldn\u2019t find it anywhere...\",\"title\":\"Easy Rider\",\"video\":false,\"vote_average\":7.085,\"vote_count\":1904}"
+}

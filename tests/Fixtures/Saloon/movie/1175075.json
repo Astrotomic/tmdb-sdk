@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1545",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3815",
+        "x-memc": "HIT",
+        "x-memc-key": "4ba24574e1caf6c2d7d46746f2346458",
+        "x-memc-age": "18508",
+        "x-memc-expires": "3815",
+        "ETag": "W\/\"f90cead4613b6267c9d9e4c91c7d8c15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4o6SkT1QwLabXtu0oDszk8Yma5YRA9j1iZoo81eRp2I-KZN48TIavQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2UYUojn45G06tk2gTbQc20DQGCm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.filmfactoryentertainment.com\/films\/checkmates\",\"id\":1175075,\"imdb_id\":\"tt28375638\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Menudas piezas\",\"overview\":\"Candela, the headmistress of an elite school, after a traumatic divorce, returns to her old high school to lead a group of rebellious students through chess. There she will learn that in chess, and in life, it doesn't matter if you are a king or a pawn, because everyone ends up in the same box.\",\"popularity\":44.469,\"poster_path\":\"\/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg\",\"production_companies\":[{\"id\":1182,\"logo_path\":\"\/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png\",\"name\":\"Telecinco Cinema\",\"origin_country\":\"ES\"},{\"id\":153822,\"logo_path\":null,\"name\":\"Felicitas Media\",\"origin_country\":\"\"},{\"id\":104632,\"logo_path\":\"\/gxKYWKH1s5fYJogAorKdG1DZTvr.png\",\"name\":\"Lightbox Animation Studios\",\"origin_country\":\"ES\"},{\"id\":224345,\"logo_path\":null,\"name\":\"Menudas piezas\",\"origin_country\":\"ES\"},{\"id\":224346,\"logo_path\":\"\/tOVeUxQmbwpGierhMpP8XzYGp8k.png\",\"name\":\"Mediterr\u00e1neo Mediaset Espa\u00f1a Group\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2024-04-12\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Checkmates\",\"video\":false,\"vote_average\":7.316,\"vote_count\":38}"
+}

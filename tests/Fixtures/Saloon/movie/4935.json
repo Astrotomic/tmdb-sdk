@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1754",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19340",
+        "x-memc": "HIT",
+        "x-memc-key": "3c83f962286f350e618277644e96d3f9",
+        "x-memc-age": "5842",
+        "x-memc-expires": "19340",
+        "ETag": "W\/\"3889fe3bb1b9a43a0ced8e4344741b93\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LkUDek1x2KRKPRzI3wE1vqo_m67rmR_lmKrQXvHs_Iax-IKW9pNywg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xqaN2WYQclQlqvKvsOcNgOx2vRn.jpg\",\"belongs_to_collection\":null,\"budget\":24000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":4935,\"imdb_id\":\"tt0347149\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30cf\u30a6\u30eb\u306e\u52d5\u304f\u57ce\",\"overview\":\"Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.\",\"popularity\":245.017,\"poster_path\":\"\/6pZgH10jhpToPcf0uvyTCPFhWpI.jpg\",\"production_companies\":[{\"id\":10342,\"logo_path\":\"\/eS79pslnoKbWg7t3PMA9ayl0bGs.png\",\"name\":\"Studio Ghibli\",\"origin_country\":\"JP\"},{\"id\":2752,\"logo_path\":\"\/qEGEoCAV9FWAuohymR5I0vjJMgM.png\",\"name\":\"dentsu Music And Entertainment\",\"origin_country\":\"JP\"},{\"id\":11847,\"logo_path\":\"\/rZP0I1p3hZNUMNFPHUSal6rWThQ.png\",\"name\":\"Mitsubishi\",\"origin_country\":\"JP\"},{\"id\":6755,\"logo_path\":\"\/c0ENH8QeZLvCACpzCpwvYMy2SDr.png\",\"name\":\"Nippon Television Network Corporation\",\"origin_country\":\"JP\"},{\"id\":1780,\"logo_path\":\"\/jdnvUiU7I3Uf2ig0VZNNjf0ORRL.png\",\"name\":\"TFC\",\"origin_country\":\"JP\"},{\"id\":1779,\"logo_path\":\"\/41nGzTdCnORYZIZzaGZtfsBwQCl.png\",\"name\":\"Tokuma Shoten\",\"origin_country\":\"JP\"},{\"id\":12518,\"logo_path\":\"\/qJZAVb8vx6qFLQJ6cunRkVUJVdB.png\",\"name\":\"d-rights\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2004-09-09\",\"revenue\":236049757,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The two lived there.\",\"title\":\"Howl's Moving Castle\",\"video\":false,\"vote_average\":8.407,\"vote_count\":9585}"
+}

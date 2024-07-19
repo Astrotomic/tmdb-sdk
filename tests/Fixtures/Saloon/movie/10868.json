@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1271",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3386",
+        "x-memc": "HIT",
+        "x-memc-key": "e42ddb29941fd3961fe7a60c7a441de5",
+        "x-memc-age": "23167",
+        "x-memc-expires": "3386",
+        "ETag": "W\/\"30bd1b05629a518394532e5f7c481423\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h11_6r0Xha3tRrbw8rxxtapNbOIHErl3f0TGhngBLm6CLYcB5vqrhg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/l6RKD2IjmGvtauSvx1xs2UY6CqU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10868,\"imdb_id\":\"tt0094608\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Accused\",\"overview\":\"After a young woman suffers a brutal rape in a bar one night, a prosecutor assists in bringing the perpetrators to justice, including the ones who encouraged and cheered on the attack.\",\"popularity\":22.37,\"poster_path\":\"\/5DlWHYb5Q65GaHYHDo6PqGOuoF1.jpg\",\"production_companies\":[{\"id\":90738,\"logo_path\":null,\"name\":\"Paramount Pictures Canada\",\"origin_country\":\"CA\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":14361,\"logo_path\":null,\"name\":\"Jaffe-Lansing\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-10-14\",\"revenue\":0,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The first scream was for help. The second is for justice.\",\"title\":\"The Accused\",\"video\":false,\"vote_average\":7.029,\"vote_count\":568}"
+}

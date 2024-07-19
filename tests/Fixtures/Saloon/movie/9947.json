@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1610",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19229",
+        "x-memc": "HIT",
+        "x-memc-key": "fc5c2331e4ef98efa7d0a7267362f4b2",
+        "x-memc-age": "7406",
+        "x-memc-expires": "19229",
+        "ETag": "W\/\"3cb6d605ba5ec8089bcd6ddd60a1ad8f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HKPOZR-b7cqc45dsxvUDNrvyCTkAqzungnkffr2bRMY-tJWVdPCqqw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rLMQvYhl6DU6QZVNcJTbs87gVPs.jpg\",\"belongs_to_collection\":null,\"budget\":43000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/marvel.com\/movies\/movie\/13\/elektra\",\"id\":9947,\"imdb_id\":\"tt0357277\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Elektra\",\"overview\":\"Elektra the warrior survives a near-death experience, becomes an assassin-for-hire, and tries to protect her two latest targets, a single father and his young daughter, from a group of supernatural assassins.\",\"popularity\":37.092,\"poster_path\":\"\/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg\",\"production_companies\":[{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"},{\"id\":10104,\"logo_path\":\"\/wRn5HnYMGeJHmItRypgOZOC6gwY.png\",\"name\":\"New Regency Pictures\",\"origin_country\":\"US\"},{\"id\":19551,\"logo_path\":\"\/2WpWp9b108hizjHKdA107hFmvQ5.png\",\"name\":\"Marvel Enterprises\",\"origin_country\":\"US\"},{\"id\":19552,\"logo_path\":null,\"name\":\"Horseshoe Bay Productions\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-01-13\",\"revenue\":56681566,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Looks CAN kill.\",\"title\":\"Elektra\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2349}"
+}

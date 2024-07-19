@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "804",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13192",
+        "x-memc": "HIT",
+        "x-memc-key": "4b1ff5c61d5fc5529902332e4b4cdc6b",
+        "x-memc-age": "14854",
+        "x-memc-expires": "13192",
+        "ETag": "W\/\"153b1a13d58c9a8a7059e8e219d37d52\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GMee-kSZmtpAfp2C6r2vcO6YVYDjokvP4QkuEU_6TcoIV86gm_4APA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":395518,\"imdb_id\":\"tt2998212\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Map Projections\",\"overview\":\"In what would become a familiar theme throughout his carrer, Jarnow explores the earth from above, invoking Buckminster Fuller's Dymaxion and the Gnomic map to illustrate different geometric and compromise projections.\",\"popularity\":1.248,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-05-01\",\"revenue\":0,\"runtime\":1,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Map Projections\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

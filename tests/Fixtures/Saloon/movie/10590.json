@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1721",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7633",
+        "x-memc": "HIT",
+        "x-memc-key": "53737ba51ad47d139ac48d716786018e",
+        "x-memc-age": "20632",
+        "x-memc-expires": "7633",
+        "ETag": "W\/\"e7689b76b3e271d9511e1d2bd166504a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YuXil140VkBJcqroF4HYJ8Au6CWOtNPy5wxiALyTENMuap-vwRTK-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":10590,\"imdb_id\":\"tt0277434\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"We Were Soldiers\",\"overview\":\"The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.\",\"popularity\":37.38,\"poster_path\":\"\/q2LeLzw4q9HTelkKx29dyTMf5zK.jpg\",\"production_companies\":[{\"id\":53005,\"logo_path\":null,\"name\":\"Wheelhouse Entertainment\",\"origin_country\":\"US\"},{\"id\":4564,\"logo_path\":null,\"name\":\"Icon Entertainment International\",\"origin_country\":\"GB\"},{\"id\":53006,\"logo_path\":null,\"name\":\"Motion Picture Production GmbH \\u0026 Co. Erste KG\",\"origin_country\":\"\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":152,\"logo_path\":\"\/ttbRwgVW7EoVOS4Af7MnyxFM0FM.png\",\"name\":\"Icon Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-03-01\",\"revenue\":114660784,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"400 U.S paratroopers. 4,000 Vietnamese soldiers. 12,000 miles away from home. 1 man led them into battle.\",\"title\":\"We Were Soldiers\",\"video\":false,\"vote_average\":7.139,\"vote_count\":1985}"
+}

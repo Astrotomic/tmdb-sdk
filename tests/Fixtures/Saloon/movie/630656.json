@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1383",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7411",
+        "x-memc": "HIT",
+        "x-memc-key": "1ce025dedf122290c3986ebdcf25c6f2",
+        "x-memc-age": "20611",
+        "x-memc-expires": "7411",
+        "ETag": "W\/\"d5fe1d22c01ff666ddec6b2f582972ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oAfMAm0MMP-avqHyXpqGUisZqcro2y0vUSYvRRp0Ht92HyYMrZWTwg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7bf0HqO64dbzGKpK8sKJJDnv3TE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":630656,\"imdb_id\":\"tt30842832\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Death and Return of Superman\",\"overview\":\"The Death of Superman and Reign of the Supermen now presented as an over two-hour unabridged and seamless animated feature. Witness the no-holds-barred battle between the Justice League and an unstoppable alien force known only as Doomsday, a battle that only Superman can finish and will forever change the face of Metropolis.\",\"popularity\":24.284,\"poster_path\":\"\/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg\",\"production_companies\":[{\"id\":2785,\"logo_path\":\"\/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png\",\"name\":\"Warner Bros. Animation\",\"origin_country\":\"US\"},{\"id\":9993,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-10-01\",\"revenue\":0,\"runtime\":166,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Death and Return of Superman\",\"video\":true,\"vote_average\":6.7,\"vote_count\":1196}"
+}

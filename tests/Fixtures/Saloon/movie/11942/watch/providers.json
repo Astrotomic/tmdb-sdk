@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "609",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14758",
+        "x-memc": "HIT",
+        "x-memc-key": "0a97ae5cc71fbcaac34998ac86460d98",
+        "x-memc-age": "12814",
+        "x-memc-expires": "14758",
+        "ETag": "W\/\"fd0196ef72bc5315cab3cfb3a791d234\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "k_Qo9TSsN7MYhe_aeA6MFwrFuDZgANYAnT0AiimhKu0B9-E3KWTCBg=="
+    },
+    "data": "{\"id\":11942,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11942-bring-me-the-head-of-alfredo-garcia\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11942-bring-me-the-head-of-alfredo-garcia\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}]}}}"
+}

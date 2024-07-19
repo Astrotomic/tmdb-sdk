@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1543",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18329",
+        "x-memc": "HIT",
+        "x-memc-key": "377d69e69febad3e8c528024abed903c",
+        "x-memc-age": "3741",
+        "x-memc-expires": "18329",
+        "ETag": "W\/\"26c3bbe7c774844a84f34a53d927ba79\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UCz-Z3fEyvB-1INNgDYElzzPE0JVFcoV8Q4ByfNTH4ntln7exOQVZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg\",\"belongs_to_collection\":{\"id\":8537,\"name\":\"Superman Collection\",\"poster_path\":\"\/k1d3n4TJAGTF90x93QhL9jKUaXv.jpg\",\"backdrop_path\":\"\/la0EhOrgVAiY8sf3ILz3wgoaNXH.jpg\"},\"budget\":55000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/superman-movie\",\"id\":1924,\"imdb_id\":\"tt0078346\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Superman\",\"overview\":\"Mild-mannered Clark Kent works as a reporter at the Daily Planet alongside his crush, Lois Lane. Clark must summon his superhero alter-ego when the nefarious Lex Luthor launches a plan to take over the world.\",\"popularity\":78.997,\"poster_path\":\"\/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg\",\"production_companies\":[{\"id\":51861,\"logo_path\":null,\"name\":\"Dovemead Films\",\"origin_country\":\"\"},{\"id\":213555,\"logo_path\":null,\"name\":\"Alexander and Ilya Salkind Productions\",\"origin_country\":\"\"},{\"id\":211429,\"logo_path\":null,\"name\":\"International Film Production\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1978-12-14\",\"revenue\":300500000,\"runtime\":143,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You'll believe a man can fly.\",\"title\":\"Superman\",\"video\":false,\"vote_average\":7.139,\"vote_count\":3709}"
+}

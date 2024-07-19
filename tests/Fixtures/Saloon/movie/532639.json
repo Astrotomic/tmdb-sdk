@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1190",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5766",
+        "x-memc": "HIT",
+        "x-memc-key": "434cccc124e6e227c5d6b97a75e8ece6",
+        "x-memc-age": "22441",
+        "x-memc-expires": "5766",
+        "ETag": "W\/\"3ffc7a52ae234572ce5f0470b925c39a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "n2eYwTZeUve0fZt_jSIjQeva4Ygl7KCGnITZMyo_q5lHDj0a93dCHg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.disneyplus.com\/movies\/pinocchio\/5fzcpc295rQn\",\"id\":532639,\"imdb_id\":\"tt4593060\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pinocchio\",\"overview\":\"A wooden puppet embarks on a thrilling adventure to become a real boy.\",\"popularity\":46.127,\"poster_path\":\"\/g8sclIV4gj1TZqUpnL82hKOTK3B.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":1473,\"logo_path\":null,\"name\":\"Depth of Field\",\"origin_country\":\"US\"},{\"id\":11395,\"logo_path\":\"\/5vSBzUwnCcaF90ZTchG3LwRKQ2M.png\",\"name\":\"ImageMovers\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-07\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The timeless classic.\",\"title\":\"Pinocchio\",\"video\":false,\"vote_average\":6.369,\"vote_count\":1544}"
+}

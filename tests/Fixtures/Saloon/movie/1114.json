@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1073",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22835",
+        "x-memc": "HIT",
+        "x-memc-key": "57bddbc80e506ed6fa8707912522e8c7",
+        "x-memc-age": "4246",
+        "x-memc-expires": "22835",
+        "ETag": "W\/\"ceeca2505036c5253adcc4ae58bc020b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cp6qFM43NuQkdqd6Zn1edgegtywaOlRMhnNVfDEz--t2wakyNq2D2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8jB2BJAbXTVAUl3GvbyGCEXKXMe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.kamelfilm.de\/\",\"id\":1114,\"imdb_id\":\"tt0373861\",\"origin_country\":[\"MN\"],\"original_language\":\"mn\",\"original_title\":\"Die Geschichte vom weinenden Kamel\",\"overview\":\"When a Mongolian nomadic family's newest camel colt is rejected by its mother, a musician is needed for a ritual to change her mind.\",\"popularity\":12.275,\"poster_path\":\"\/c3SAAO5hNJqLWLlJr9TZ6CQ8eGI.jpg\",\"production_companies\":[{\"id\":665,\"logo_path\":\"\/bUomMJoEX2W7XpgvNeWswCFKzrW.png\",\"name\":\"Hochschule f\u00fcr Fernsehen und Film M\u00fcnchen\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"MN\",\"name\":\"Mongolia\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2003-06-29\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Mongolian\",\"iso_639_1\":\"mn\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Story of the Weeping Camel\",\"video\":false,\"vote_average\":7.1,\"vote_count\":100}"
+}

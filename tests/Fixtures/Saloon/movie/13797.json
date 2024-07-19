@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1440",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11022",
+        "x-memc": "HIT",
+        "x-memc-key": "824a0b6b54614455abac5abb51bec435",
+        "x-memc-age": "12619",
+        "x-memc-expires": "11022",
+        "ETag": "W\/\"41276c7c6f8f477c55bc518c9a244c23\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xrCV6KAfPk1qFyawaxhopqs7AQlwewtiEmGo6JAZNRm9BhJT4rcz8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/obiXMD1o3RdQ8CfiwKahdh8Uduy.jpg\",\"belongs_to_collection\":{\"id\":98430,\"name\":\"Feast Collection\",\"poster_path\":\"\/1clQ6DCLxmvysHkU7HxWToDzuPo.jpg\",\"backdrop_path\":\"\/qtD9j2sHcyVHUbbT6To5AHAlLir.jpg\"},\"budget\":2000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":13797,\"imdb_id\":\"tt1104835\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Feast II: Sloppy Seconds\",\"overview\":\"The monsters have made it into a small neighboring town in the middle of nowhere and the locals have to band with the survivors of the bar' slaughter to figure out how to survive.\",\"popularity\":8.539,\"poster_path\":\"\/wYoaVnVWmM69DOHLdh7nzej3jtA.jpg\",\"production_companies\":[{\"id\":7161,\"logo_path\":null,\"name\":\"LivePlanet\",\"origin_country\":\"\"},{\"id\":2811,\"logo_path\":null,\"name\":\"Neo Art \\u0026 Logic\",\"origin_country\":\"\"},{\"id\":7619,\"logo_path\":null,\"name\":\"Dimension Extreme\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-10-07\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're BACK ... and STILL HUNGRY\",\"title\":\"Feast II: Sloppy Seconds\",\"video\":false,\"vote_average\":5.2,\"vote_count\":169}"
+}

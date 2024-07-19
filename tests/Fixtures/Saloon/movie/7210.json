@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1233",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2771",
+        "x-memc": "HIT",
+        "x-memc-key": "4e823ad9a45879bd42f146dae6d8be3d",
+        "x-memc-age": "23930",
+        "x-memc-expires": "2771",
+        "ETag": "W\/\"066d214b53c900b489534ec53c7e81a0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SiVkfEm55uQPQTW8p43f1ituqpfaKGIo7p1KLVZ0UyFkAcZ0SbbAlw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/grbiEA94z6QyxppttfQupv1Yenb.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.hardcover-derfilm.de\/\",\"id\":7210,\"imdb_id\":\"tt1010313\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Hardcover\",\"overview\":\"\",\"popularity\":4.011,\"poster_path\":\"\/9Gfk6EIiayJB8UaH4H3YwCy04jI.jpg\",\"production_companies\":[{\"id\":46,\"logo_path\":\"\/3xFdKHLXPGHEbrAkmsepGE8974Y.png\",\"name\":\"WDR\",\"origin_country\":\"DE\"},{\"id\":198,\"logo_path\":null,\"name\":\"GFP Medienfonds\",\"origin_country\":\"\"},{\"id\":201,\"logo_path\":\"\/6UIpEURdjnmcJPwgTDRzVRuwADr.png\",\"name\":\"ARTE\",\"origin_country\":\"FR\"},{\"id\":315,\"logo_path\":\"\/hdu0sVxgtCuQud0xF8ZBiN7hEhY.png\",\"name\":\"Filmstiftung Nordrhein-Westfalen\",\"origin_country\":\"DE\"},{\"id\":736,\"logo_path\":null,\"name\":\"Little Shark Entertainment\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2008-04-02\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hardcover\",\"video\":false,\"vote_average\":6.7,\"vote_count\":10}"
+}

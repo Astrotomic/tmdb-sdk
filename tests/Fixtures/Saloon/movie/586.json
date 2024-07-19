@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1440",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6855",
+        "x-memc": "HIT",
+        "x-memc-key": "eac649365f4f17f256e4e30303e3701b",
+        "x-memc-age": "16285",
+        "x-memc-expires": "6855",
+        "ETag": "W\/\"6a0eb148d3477576cde134ba4aa10b0e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oJTmuUr38LzMbyxoAnBDBoyykEKwWPN9uSxEfucws54wr5_hr7K0DA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8KM1KWQt434blaRMbDOJ8ZZ3K3W.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":586,\"imdb_id\":\"tt0120885\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wag the Dog\",\"overview\":\"During the final weeks of a presidential race, the President is accused of sexual misconduct. To distract the public until the election, the President's adviser hires a Hollywood producer to help him stage a fake war.\",\"popularity\":16.196,\"poster_path\":\"\/nA9vfJLJSYjvYsjfzFqi9z1tPrt.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":11391,\"logo_path\":\"\/t6m0uRTzaFHCsvEpikENE0PWJGb.png\",\"name\":\"Tribeca Productions\",\"origin_country\":\"US\"},{\"id\":11407,\"logo_path\":null,\"name\":\"Baltimore Pictures\",\"origin_country\":\"US\"},{\"id\":2154,\"logo_path\":null,\"name\":\"Punch Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-12-25\",\"revenue\":64256513,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Albanian\",\"iso_639_1\":\"sq\",\"name\":\"shqip\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A comedy about truth, justice and other special effects.\",\"title\":\"Wag the Dog\",\"video\":false,\"vote_average\":6.955,\"vote_count\":910}"
+}

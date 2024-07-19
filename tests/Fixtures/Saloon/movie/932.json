@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1042",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13706",
+        "x-memc": "HIT",
+        "x-memc-key": "be467468136b23b14a9e33cc1424ed96",
+        "x-memc-age": "13958",
+        "x-memc-expires": "13706",
+        "ETag": "W\/\"ba186b4c65dd94c6046fcd706e04cca8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "42CqSqBRZCv6fHnBoj-CuhQWPNu03dwvArgpB82m3QaHyMH0C4KKTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rDY83RwnMILzH9b21mDuZChJBz4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":932,\"imdb_id\":\"tt0038769\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Die M\u00f6rder sind unter uns\",\"overview\":\"After returning from a concentration camp, Susanne finds an ex-soldier living in her apartment. Together the two try to move past their experiences during WWII.\",\"popularity\":8.658,\"poster_path\":\"\/r6Z9GcVtbmU7CRmigKTiI6wg4Jg.jpg\",\"production_companies\":[{\"id\":602,\"logo_path\":\"\/pVsXRFbYVDe5BhsATCAh1rt5F0k.png\",\"name\":\"DEFA\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1946-10-15\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Murderers Are Among Us\",\"video\":false,\"vote_average\":7.1,\"vote_count\":51}"
+}

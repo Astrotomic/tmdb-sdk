@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "800",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20553",
+        "x-memc": "HIT",
+        "x-memc-key": "b5b36e3ee6f0396756b9bb316ecc9e25",
+        "x-memc-age": "6767",
+        "x-memc-expires": "20553",
+        "ETag": "W\/\"9958045680a72dfa0f78bb7a2186b030\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WrJ3_t6AqqoC0DI8RFqZX6dLaQ96vlGcdzgcWGQnBG1MqGHHz7TCYQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":709597,\"imdb_id\":null,\"origin_country\":[\"IL\"],\"original_language\":\"he\",\"original_title\":\"\u05d2\u05d1\u05e8\u05d9\u05d0\u05dc\",\"overview\":\"Gavriel's parents divorce affected his adult life.\",\"popularity\":0.511,\"poster_path\":\"\/8CyzaVE9JlxqYytphNO5hq3tTG3.jpg\",\"production_companies\":[{\"id\":137111,\"logo_path\":\"\/n5iVQvyb8AzD8uor00EOrpIPylr.png\",\"name\":\"thelma yellin\",\"origin_country\":\"IL\"}],\"production_countries\":[{\"iso_3166_1\":\"IL\",\"name\":\"Israel\"}],\"release_date\":\"2020-01-30\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gavriel\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

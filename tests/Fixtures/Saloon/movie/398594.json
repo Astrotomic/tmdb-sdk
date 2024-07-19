@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1132",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6236",
+        "x-memc": "HIT",
+        "x-memc-key": "6614e1c83edfc3afc940431cf7d30942",
+        "x-memc-age": "22212",
+        "x-memc-expires": "6236",
+        "ETag": "W\/\"0674045a9f5a9d9612931c6a134e1de1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2p91qijv96qcPNbiY2l1GifQRM6N-hhEatE8svGQWOd6XFvvWF1ZWw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fGSXANhF9FXyNc3KOY9irRw9cVm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":398594,\"imdb_id\":\"tt0024271\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Love Birds\",\"overview\":\"ZaSu Pitts and Slim Summerville meet when both are sold deeds to an abandoned ranch in the California desert. Their lonely lives become much more crowded when a drifter discovers gold on the property\u2014though all he\u2019s found is Slim\u2019s missing filling. (adapted from MoMA capsule)\",\"popularity\":5.307,\"poster_path\":\"\/4xj2jrDP00Dbx1SCLBbjkmFnQUv.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1934-05-04\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A nest egg of fun that will hatch a million laughs\",\"title\":\"Love Birds\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

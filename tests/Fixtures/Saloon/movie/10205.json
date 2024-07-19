@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1048",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5993",
+        "x-memc": "HIT",
+        "x-memc-key": "18daee97420b4d0d6cedc795e04b0d8e",
+        "x-memc-age": "16373",
+        "x-memc-expires": "5993",
+        "ETag": "W\/\"f6240a4a1ac5c06f22c72aadf943ece7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uQ-d-2vriwxVrSI8WxcCblr6CPhTvwMtbP2J6AGKCnqHxGfNxqhI8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bHbPkjctfWzUyOWGKMW5dt7wpzf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10205,\"imdb_id\":\"tt0189456\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Cut\",\"overview\":\"A group of film students set out to finish filming a movie that was never completed after its director was murdered. After they begin filming, they realize they're in for a bit of trouble, not unlike the late director...\",\"popularity\":19.318,\"poster_path\":\"\/64Dn0qJdC0E744uIWYtN5xQL9om.jpg\",\"production_companies\":[{\"id\":2081,\"logo_path\":null,\"name\":\"Beyond Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2000-02-23\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They just have to finish the movie\u2026 before it finishes them!\",\"title\":\"Cut\",\"video\":false,\"vote_average\":4.4,\"vote_count\":69}"
+}

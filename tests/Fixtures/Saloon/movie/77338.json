@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1521",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19949",
+        "x-memc": "HIT",
+        "x-memc-key": "d819ff77433de39f63f43db92e9ad3b0",
+        "x-memc-age": "2088",
+        "x-memc-expires": "19949",
+        "ETag": "W\/\"95cb9397704c72a2e88d7f517b58fdaf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bbMPhOVfKnlOP60efloT3gD5tbB8Ei6jbx7r37eCz7oMex8Aitd4ng=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bGksau9GGu0uJ8DJQ8DYc9JW5LM.jpg\",\"belongs_to_collection\":null,\"budget\":13000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":77338,\"imdb_id\":\"tt1675434\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Intouchables\",\"overview\":\"A true story of two men who should never have met \u2013 a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.\",\"popularity\":54.631,\"poster_path\":\"\/1QU7HKgsQbGpzsJbJK4pAVQV9F5.jpg\",\"production_companies\":[{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"},{\"id\":7038,\"logo_path\":\"\/9YDo78sKAy6xxqBwVBT2Vi9FSZl.png\",\"name\":\"Quad Productions\",\"origin_country\":\"FR\"},{\"id\":7766,\"logo_path\":\"\/rwBbDJAlUC0mAVnO02APsy0O80T.png\",\"name\":\"Chaocorp\",\"origin_country\":\"FR\"},{\"id\":8018,\"logo_path\":null,\"name\":\"Ten Films\",\"origin_country\":\"FR\"},{\"id\":356,\"logo_path\":\"\/tSJvuFaLIp7l0ONLUiAHA61GbXu.png\",\"name\":\"TF1 Films Production\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2011-11-02\",\"revenue\":426590315,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Sometimes you have to reach into someone else's world to find out what's missing in your own.\",\"title\":\"The Intouchables\",\"video\":false,\"vote_average\":8.28,\"vote_count\":16917}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "803",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14389",
+        "x-memc": "HIT",
+        "x-memc-key": "d023c7629b20d79bbceae8978efa4857",
+        "x-memc-age": "14041",
+        "x-memc-expires": "14389",
+        "ETag": "W\/\"26c1da807ae595c4e4e00c32bd5fc105\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2D6jp_hzF2HRvfE2OPlpoCVFTEO4W342pHRiNXO2_vabXoBVwAkeBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mikDYfd04DBgO8tWUj5vOQk3tRK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1022468,\"imdb_id\":\"tt9301940\",\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Poh\u00e1r za prvn\u00ed polo\u010das\",\"overview\":\"\",\"popularity\":5.804,\"poster_path\":null,\"production_companies\":[{\"id\":18199,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 televize Praha\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1972-11-19\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Poh\u00e1r za prvn\u00ed polo\u010das\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

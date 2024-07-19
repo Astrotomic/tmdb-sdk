@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1459",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21780",
+        "x-memc": "HIT",
+        "x-memc-key": "e4a943b2eec6f56796cc8162185f66a6",
+        "x-memc-age": "4078",
+        "x-memc-expires": "21780",
+        "ETag": "W\/\"2aa671641091d6282d0da2808c993607\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KwhrTNRGKBPrhMt2uFZ2U_ZAmy2a1uvcP5Bhw-E9VQyFkbREQzI5wQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/48ern5F857hPdEwJeUT6bnfGnHF.jpg\",\"belongs_to_collection\":{\"id\":4438,\"name\":\"The Space Odyssey Series\",\"poster_path\":\"\/bxQaNDuSLCllnMSQ0ZLg7e6HrMW.jpg\",\"backdrop_path\":\"\/15FumSExI9SRoL7QJWZAsA0b10c.jpg\"},\"budget\":28000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":4437,\"imdb_id\":\"tt0086837\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"2010\",\"overview\":\"While planet Earth poises on the brink of nuclear self-destruction, a team of Russian and American scientists aboard the Leonov hurtles to a rendezvous with the still-orbiting Discovery spacecraft and its sole known survivor, the homicidal computer HAL.\",\"popularity\":32.021,\"poster_path\":\"\/mEWKXuCMv7mFMxXVSTI3v8UOQuq.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1984-12-06\",\"revenue\":40400000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"In the very near future, a small group of Americans and Russians set out on the greatest adventure of them all...to see if there is life beyond the stars.\",\"title\":\"2010\",\"video\":false,\"vote_average\":6.66,\"vote_count\":901}"
+}

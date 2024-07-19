@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1009",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3081",
+        "x-memc": "HIT",
+        "x-memc-key": "0b8ebab1c076f4618e0a554f56ac8ee4",
+        "x-memc-age": "24853",
+        "x-memc-expires": "3081",
+        "ETag": "W\/\"0790af0efefacdb9d1a9111925a6462d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LZrg8wG7cYX-8Q_8aeDoF2ZbciDrTvsgzrHTxoIuJmK-urTMK1M4jg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yn6DvHSEXE8Ao3QaNlELpqeSOqx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":3782,\"imdb_id\":\"tt0044741\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u751f\u304d\u308b\",\"overview\":\"Kanji Watanabe is a middle-aged man who has worked in the same monotonous bureaucratic position for decades. Learning he has cancer, he starts to look for the meaning of his life.\",\"popularity\":29.766,\"poster_path\":\"\/dgNTS4EQDDVfkzJI5msKuHu2Ei3.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1952-10-09\",\"revenue\":55240,\"runtime\":143,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"A big story of a little man which will grip your soul ...\",\"title\":\"Ikiru\",\"video\":false,\"vote_average\":8.307,\"vote_count\":1090}"
+}

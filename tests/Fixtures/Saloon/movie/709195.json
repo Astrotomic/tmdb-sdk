@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1079",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10971",
+        "x-memc": "HIT",
+        "x-memc-key": "14387692f3f20cb474f0104f33104cc0",
+        "x-memc-age": "12343",
+        "x-memc-expires": "10971",
+        "ETag": "W\/\"fead724bb4e236145870d695a59c5640\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nm7oGjnLwq9VZ0onJt-E2QMAFIppLZLLjzSGawrQlfmEfbuZ_Zz34Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bDBBjhkHAXQhfSuhdrh4MdpjSfC.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.filmsharks.com\/en\/catalogue\/film\/legions\/\",\"id\":709195,\"imdb_id\":\"tt23555256\",\"origin_country\":[\"AR\"],\"original_language\":\"es\",\"original_title\":\"Legiones\",\"overview\":\"While evil forces descend on Argentina, humanity\u2019s best hope, a once-legendary shaman is confined to an insane asylum, powerless to avert the demonic resurrection.\",\"popularity\":4.454,\"poster_path\":\"\/9bpmojZqoclbXGcsG2VJq4GOWa3.jpg\",\"production_companies\":[{\"id\":134586,\"logo_path\":\"\/eGBMR6E7GQj8NL5LIceTelBfj7j.png\",\"name\":\"Coruya Cine\",\"origin_country\":\"AR\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"}],\"release_date\":\"2022-04-15\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Legions\",\"video\":false,\"vote_average\":6.8,\"vote_count\":32}"
+}

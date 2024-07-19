@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1566",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20100",
+        "x-memc": "HIT",
+        "x-memc-key": "65d0c2cb4f43a4dc9dbc615069ec2122",
+        "x-memc-age": "1640",
+        "x-memc-expires": "20100",
+        "ETag": "W\/\"455e4a8d5a29c172d996d46e9887dd17\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "D5ICJ9KS6F8_nfvmxG3W-JMRiwYq-W5Sc7_sxsoE04Bxg_h6S1qiiQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vBuw223bR0jeI3GHMfCjNBCGo6.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":119283,\"imdb_id\":\"tt1904996\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Parker\",\"overview\":\"A thief with a unique code of professional ethics is double-crossed by his crew and left for dead. Assuming a new disguise and forming an unlikely alliance with a woman on the inside, he looks to hijack the score of the crew's latest heist.\",\"popularity\":40.963,\"poster_path\":\"\/u1cl4RsdqMjolVVsHwiLRPN1CT2.jpg\",\"production_companies\":[{\"id\":7215,\"logo_path\":null,\"name\":\"Incentive Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":24049,\"logo_path\":\"\/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png\",\"name\":\"Sierra\/Affinity\",\"origin_country\":\"US\"},{\"id\":63965,\"logo_path\":null,\"name\":\"Alexander\/Mitchell Productions\",\"origin_country\":\"\"},{\"id\":972,\"logo_path\":null,\"name\":\"Current Entertainment\",\"origin_country\":\"US\"},{\"id\":737,\"logo_path\":\"\/dK1GZ1u4our8sJW0Sts1JHeNSLn.png\",\"name\":\"Sidney Kimmel Entertainment\",\"origin_country\":\"US\"},{\"id\":8833,\"logo_path\":null,\"name\":\"Anvil Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-01-23\",\"revenue\":46216641,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"To get away clean, you have to play dirty.\",\"title\":\"Parker\",\"video\":false,\"vote_average\":6.0,\"vote_count\":2964}"
+}

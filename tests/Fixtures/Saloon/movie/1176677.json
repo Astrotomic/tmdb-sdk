@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "781",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16694",
+        "x-memc": "HIT",
+        "x-memc-key": "e335c00ed2e4584cfd8c3323d714e91e",
+        "x-memc-age": "7701",
+        "x-memc-expires": "16694",
+        "ETag": "W\/\"6631b169d637e60d3b5232559fa8f366\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vtpPdZcFD4ErIf_xafPMv5WUTK8GJkzjz-yfCZDk4nCydlXTiC3WDw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1176677,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"sk\",\"original_title\":\"Na brehu priezra\u010dnej rieky\",\"overview\":\"\",\"popularity\":1.76,\"poster_path\":null,\"production_companies\":[{\"id\":28449,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 telev\u00edzia Bratislava\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1966-01-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Na brehu priezra\u010dnej rieky\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

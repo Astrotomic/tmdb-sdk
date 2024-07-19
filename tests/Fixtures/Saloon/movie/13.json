@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1420",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10693",
+        "x-memc": "HIT",
+        "x-memc-key": "9997eda4af89689d2f3b448dffc4429b",
+        "x-memc-age": "15570",
+        "x-memc-expires": "10693",
+        "ETag": "W\/\"52cb3141a04e04e0bafdb2e38a30c32c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gA_fgiAr2W5hEnag1q7HvdfjuYIf5sNFswxNNLKSWVHnl0Z6-HRgqg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mzfx54nfDPTUXZOG48u4LaEheDy.jpg\",\"belongs_to_collection\":null,\"budget\":55000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.paramountmovies.com\/movies\/forrest-gump\",\"id\":13,\"imdb_id\":\"tt0109830\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Forrest Gump\",\"overview\":\"A man with a low IQ has accomplished great things in his life and been present during significant historic events\u2014in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.\",\"popularity\":100.568,\"poster_path\":\"\/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":21920,\"logo_path\":null,\"name\":\"The Steve Tisch Company\",\"origin_country\":\"\"},{\"id\":412,\"logo_path\":null,\"name\":\"Wendy Finerman Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-06-23\",\"revenue\":677387716,\"runtime\":142,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The world will never be the same once you've seen it through the eyes of Forrest Gump.\",\"title\":\"Forrest Gump\",\"video\":false,\"vote_average\":8.5,\"vote_count\":26879}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1424",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12168",
+        "x-memc": "HIT",
+        "x-memc-key": "76b70bd1f7f6da232194a391f9aff934",
+        "x-memc-age": "16523",
+        "x-memc-expires": "12168",
+        "ETag": "W\/\"af2741085bc57e9760fb6c8d8e3296d2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EWwR5IlTphPYoxIybvUp4z_09UrMEBPzHTtZg82AgS6r_hB9-5u-Kg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ptcXbbxTyjHfEE4d4QocNP0YQct.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":1200000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/dr-no\",\"id\":646,\"imdb_id\":\"tt0055928\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Dr. No\",\"overview\":\"Agent 007 battles mysterious Dr. No, a scientific genius bent on destroying the U.S. space program. As the countdown to disaster begins, Bond must go to Jamaica, where he encounters beautiful Honey Ryder, to confront a megalomaniacal villain in his massive island headquarters.\",\"popularity\":77.702,\"poster_path\":\"\/9zCOLJmLNst0sCPZlkW1IRoH65E.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1962-10-07\",\"revenue\":59567035,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Now meet the most extraordinary gentleman spy in all fiction!\",\"title\":\"Dr. No\",\"video\":false,\"vote_average\":6.999,\"vote_count\":3479}"
+}

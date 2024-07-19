@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1092",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22240",
+        "x-memc": "HIT",
+        "x-memc-key": "ffa41cacd85319fa7e98e30ad55ac024",
+        "x-memc-age": "5958",
+        "x-memc-expires": "22240",
+        "ETag": "W\/\"e75fff1a877c616e350c0b8db3b1a097\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-5s8Ifve1pB-Bf7QRM-tWDm0zn3y5VvQgwyT0ZuhxEcKc32nZPW-bA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hrNEUPygFp7UrGheo2nCMjfmv7d.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"http:\/\/www.whenelephantswereyoung.com\",\"id\":389109,\"imdb_id\":\"tt2101347\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"When Elephants Were Young\",\"overview\":\"A young man and his young elephant street beg in gritty Bangkok amid the controversial elephant business that threatens their survival, until the opportunity comes to release the elephant to the wild.\",\"popularity\":3.222,\"poster_path\":\"\/htTRyqt5j0r33ChiDid9IfFFEHj.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2016-08-12\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"When Elephants Were Young\",\"video\":false,\"vote_average\":8.5,\"vote_count\":2}"
+}

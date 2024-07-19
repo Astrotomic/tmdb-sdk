@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1228",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8816",
+        "x-memc": "HIT",
+        "x-memc-key": "c913bd0e14f45c6fa915e6c14818f22b",
+        "x-memc-age": "19028",
+        "x-memc-expires": "8816",
+        "ETag": "W\/\"460831b7fe28ada34c828cf02d0b1264\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gr26mkVxgdojv68laUYIhC6JvjMQdSjZ2CsS4hbTg8i7JuSEMNBiyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":7000,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"http:\/\/www.sallva.com\",\"id\":697951,\"imdb_id\":\"tt12233564\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Lob\u00e3o \u2013 N\u00e3o H\u00e1 Estilo Sem Fracasso\",\"overview\":\"\\\"Lob\u00e3o - N\u00e3o H\u00e1 Estilo Sem Fracasso\\\" investigates the artistic career of Lob\u00e3o, one of the most famous musicians of brazilian rock in the 80s. From some interviews with people such as Edgard Scandurra, Liminha and Marcelo Sussekind, this short movie shows various points of view about music industry and it presents hits of Lob\u00e3o such as \\\"Das Tripas Cora\u00e7\u00e3o\\\" and \\\"Mal de Amor\\\".\",\"popularity\":1.593,\"poster_path\":\"\/9qcQT1jGMYisVS4JZ8APpg8SoUH.jpg\",\"production_companies\":[{\"id\":132907,\"logo_path\":null,\"name\":\"Sallva Filmes\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2011-07-15\",\"revenue\":1000,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"no failure is the new style\",\"title\":\"Lob\u00e3o \u2013 Decadence Avec Elegance\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

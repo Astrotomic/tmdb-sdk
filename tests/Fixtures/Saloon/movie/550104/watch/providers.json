@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1274",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:48:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17321",
+        "x-memc": "HIT",
+        "x-memc-key": "89f7b1dbdad9bafe0f8acb4eed99f5af",
+        "x-memc-age": "9049",
+        "x-memc-expires": "17321",
+        "ETag": "W\/\"1a54d0c37624ab515f37f73ea5fdf121\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ctePR1n5GkxLToFHUl42fByCsu0-lGfa2mC1z_94C8TifLsaRRoLuw=="
+    },
+    "data": "{\"id\":550104,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550104-forever-friends\/watch?locale=JP\",\"flatrate\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550104-forever-friends\/watch?locale=KR\",\"rent\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/crFbxg6jkiKc14gpIGMkre9Y3mu.jpg\",\"provider_id\":96,\"provider_name\":\"Naver Store\",\"display_priority\":6}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550104-forever-friends\/watch?locale=TW\",\"flatrate\":[{\"logo_path\":\"\/r9rEesXJjzY8sH3NLqNdkPdZ714.jpg\",\"provider_id\":624,\"provider_name\":\"KKTV\",\"display_priority\":34}]}}}"
+}

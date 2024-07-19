@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1103",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1775",
+        "x-memc": "HIT",
+        "x-memc-key": "ec275a168af948334a26167645af2bd8",
+        "x-memc-age": "22110",
+        "x-memc-expires": "1775",
+        "ETag": "W\/\"e677fc785032bac9f51d88af083b2902\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ShUZGGt_ucTCDoEA5sLzCTsVMTfPG4WSOi9UnHtlpYzEL9AImxI0Rg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tKcZwwEMTN2qg8OSL4Lnv22ixcr.jpg\",\"belongs_to_collection\":null,\"budget\":11000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":18387,\"imdb_id\":\"tt0077235\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Big Wednesday\",\"overview\":\"Three 1960s California surfers fool around, drift apart and reunite years later to ride epic waves.\",\"popularity\":22.387,\"poster_path\":\"\/zMOZoNszmmlf3jUivDUEFgCrReo.jpg\",\"production_companies\":[{\"id\":6128,\"logo_path\":null,\"name\":\"A-Team\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1978-05-26\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A day will come that is like no other... and nothing that happens after will ever be the same.\",\"title\":\"Big Wednesday\",\"video\":false,\"vote_average\":6.9,\"vote_count\":170}"
+}

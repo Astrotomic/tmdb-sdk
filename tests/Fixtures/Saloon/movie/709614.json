@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1044",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12432",
+        "x-memc": "HIT",
+        "x-memc-key": "33973e4d8b8881beb9cac2927da98a0b",
+        "x-memc-age": "12571",
+        "x-memc-expires": "12432",
+        "ETag": "W\/\"5fcbf0a43a1045e2f8e68251bafea229\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IVd1zD2zJ1-BHuzrgtdlX9OtRT8jy-ANluyAHZhkak9aF0w_U-149Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nctYn2hMm2fxoXMOL36ZFby7CB4.jpg\",\"belongs_to_collection\":null,\"budget\":10000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.trustmemovie.com\/\",\"id\":709614,\"imdb_id\":\"tt8630924\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Trust Me\",\"overview\":\"A folk horror movie about a woman who follows her boyfriend into the woods for a romantic surprise only to find something far more sinister. Inspired by thousands of witness accounts documenting the ongoing phenomenon of a certain species of shape-shifting creature in the forests of North America.\",\"popularity\":5.992,\"poster_path\":\"\/951t3910hHAQ4bIa8PLiJWSPodl.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-06-15\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Something Is Watching Us\",\"title\":\"Trust Me\",\"video\":false,\"vote_average\":5.6,\"vote_count\":8}"
+}

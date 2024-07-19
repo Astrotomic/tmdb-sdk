@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1885",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15826",
+        "x-memc": "HIT",
+        "x-memc-key": "7c1110e2515a91ca07a921c63ef4afff",
+        "x-memc-age": "10997",
+        "x-memc-expires": "15826",
+        "ETag": "W\/\"3cb828dc4ac9d66368a379ce9eef170e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gSC8dTApRrKzV_pZzXeNIRYyN6YmP72KrUjMxy6pnzWtNkDc61xP9A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ueXbXSehnVK62UqfLrdJdWZ7gla.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.bangkokdangerousmovie.net\/\",\"id\":13184,\"imdb_id\":\"tt0814022\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bangkok Dangerous\",\"overview\":\"When carrying out a hit, assassin Joe always makes use of the knowledge of the local population. On arriving in Bangkok, Joe meets street kid Kong and he becomes his primary aide. But when Kong is nearly killed, he asks Joe to train him up in the deadly arts and unwittingly becomes a target of a band of killers.\",\"popularity\":38.785,\"poster_path\":\"\/iTRftxHW8i4H7ONaOiCIwEXjNDJ.jpg\",\"production_companies\":[{\"id\":449,\"logo_path\":null,\"name\":\"Virtual Studios\",\"origin_country\":\"US\"},{\"id\":831,\"logo_path\":\"\/vLENXiYTyITnMDrTKabUXhgTKX2.png\",\"name\":\"Saturn Films\",\"origin_country\":\"US\"},{\"id\":2779,\"logo_path\":null,\"name\":\"Blue Star Pictures\",\"origin_country\":\"\"},{\"id\":2877,\"logo_path\":\"\/a1pn9aou2NsfB7QJVNAUOsE8LqR.png\",\"name\":\"Living Films\",\"origin_country\":\"TH\"},{\"id\":2878,\"logo_path\":null,\"name\":\"Bangkok Dangerous\",\"origin_country\":\"\"},{\"id\":7380,\"logo_path\":null,\"name\":\"Initial Entertainment Group\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-08-21\",\"revenue\":42487390,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Thai\",\"iso_639_1\":\"th\",\"name\":\"\u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's all in the execution.\",\"title\":\"Bangkok Dangerous\",\"video\":false,\"vote_average\":5.177,\"vote_count\":976}"
+}

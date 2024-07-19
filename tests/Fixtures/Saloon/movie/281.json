@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1362",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:59:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2096",
+        "x-memc": "HIT",
+        "x-memc-key": "7045d497f18e90cb452df8eaba7cd62f",
+        "x-memc-age": "20616",
+        "x-memc-expires": "2096",
+        "ETag": "W\/\"d4a18251515ebcd81268889fa80cb92a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "23Quj95H5xARCUexnOoxAACWCMtYiAo7JmcX4q_jYaJmcru6JUh7DA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zSFuvi6fIPT8CHpH1KMG25T2Iub.jpg\",\"belongs_to_collection\":null,\"budget\":42000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.strange-days.com\",\"id\":281,\"imdb_id\":\"tt0114558\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Strange Days\",\"overview\":\"Former policeman Lenny Nero has moved into a more lucrative trade: the illegal sale of virtual reality-like recordings that allow users to experience the emotions and past experiences of others. While they typically contain tawdry incidents, Nero is shocked when he receives one showing a murder.\",\"popularity\":39.603,\"poster_path\":\"\/rY5BrDRcYAKE0BYmmT66YG6Uy5Q.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":574,\"logo_path\":\"\/nLNW1TeFUYU0M5U0qmYUzOIwlB6.png\",\"name\":\"Lightstorm Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-10-13\",\"revenue\":7959291,\"runtime\":145,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You Know You Want It\",\"title\":\"Strange Days\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1293}"
+}

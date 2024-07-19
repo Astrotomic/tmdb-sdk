@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "829",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2620",
+        "x-memc": "HIT",
+        "x-memc-key": "112aeb07b39088b71b4bbcf933108d73",
+        "x-memc-age": "20944",
+        "x-memc-expires": "2620",
+        "ETag": "W\/\"2d93ea1513cec0772022e87d44ca95aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gTYG1vPjvinMNCwtKXzXqPPClPg2B7t3wsgj0sKV4bl-FOTmkCaLfQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":543561,\"imdb_id\":\"tt1606228\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b4\u30ad\u30d6\u30ea\",\"overview\":\"Kiyoshi's work as a pest control man leads him to a mysteriously deserted house. Then on his 20th birthday he receives a letter from his dead grandfather telling him that he is the Messiah.\",\"popularity\":1.329,\"poster_path\":\"\/9eB85LiTn5Y80IgkBykJSWVfffX.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2009-10-30\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cockroach\",\"video\":false,\"vote_average\":7.0,\"vote_count\":3}"
+}

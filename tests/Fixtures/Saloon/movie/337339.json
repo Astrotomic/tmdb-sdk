@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1542",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16801",
+        "x-memc": "HIT",
+        "x-memc-key": "9c4e8ac1293797fdd64ddd1cfa227464",
+        "x-memc-age": "10050",
+        "x-memc-expires": "16801",
+        "ETag": "W\/\"ffc0fbd68832859a1ef9b6e8c7947a41\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wr8Uc_pO5o6kOvTjaOzciSddbAeR88A2NQXRikcbPiuNQI0TkgVI8Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jzdnhRhG0dsuYorwvSqPqqnM1cV.jpg\",\"belongs_to_collection\":{\"id\":9485,\"name\":\"The Fast and the Furious Collection\",\"poster_path\":\"\/rKKSOVv6iU3nULrKQmd9uEx9gez.jpg\",\"backdrop_path\":\"\/56h4DCt0ogIRI7B71xD5iA5hES1.jpg\"},\"budget\":250000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.thefastsaga.com\/fast-saga\/ff8\",\"id\":337339,\"imdb_id\":\"tt4630562\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Fate of the Furious\",\"overview\":\"When a mysterious woman seduces Dom into the world of crime and a betrayal of those closest to him, the crew face trials that will test them as never before.\",\"popularity\":92.368,\"poster_path\":\"\/dImWM7GJqryWJO9LHa3XQ8DD5NH.jpg\",\"production_companies\":[{\"id\":333,\"logo_path\":\"\/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png\",\"name\":\"Original Film\",\"origin_country\":\"US\"},{\"id\":1225,\"logo_path\":\"\/rIxhJMR7oK8b2fMakmTfRLY2TZv.png\",\"name\":\"One Race\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-04-12\",\"revenue\":1236000000,\"runtime\":136,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Never give up on family.\",\"title\":\"The Fate of the Furious\",\"video\":false,\"vote_average\":6.879,\"vote_count\":10098}"
+}

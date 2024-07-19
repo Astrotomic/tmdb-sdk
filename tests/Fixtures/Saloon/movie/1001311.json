@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1130",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=175",
+        "x-memc": "HIT",
+        "x-memc-key": "304997e178e3d2d1c2f885f9c7098661",
+        "x-memc-age": "26247",
+        "x-memc-expires": "175",
+        "ETag": "W\/\"35db2b42b1745e4a47f4ec3b5f1f9d95\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lHxXtkdZkIUiSI7Fp-OKfj9ttRH9SxwAY_MM26JpMR_Km-fwGrmFKg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iTWrsOVsUqcwYSxrpINNs3hG2nC.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81210788\",\"id\":1001311,\"imdb_id\":\"tt13964390\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Sous la Seine\",\"overview\":\"In order to save Paris from an international bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine.\",\"popularity\":706.026,\"poster_path\":\"\/qZPLK5ktRKa3CL4sKRZtj8UlPYc.jpg\",\"production_companies\":[{\"id\":195537,\"logo_path\":null,\"name\":\"Full Players\",\"origin_country\":\"FR\"},{\"id\":220755,\"logo_path\":null,\"name\":\"Let Me Be\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-06-04\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Watch out before swim.\",\"title\":\"Under Paris\",\"video\":false,\"vote_average\":6.092,\"vote_count\":911}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1502",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2148",
+        "x-memc": "HIT",
+        "x-memc-key": "9996257e074e8d8a207596f08168c227",
+        "x-memc-age": "19764",
+        "x-memc-expires": "2148",
+        "ETag": "W\/\"160e61433d3384340343fc5aaec9f51e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ai8ImfF_j3SQawCwoweXpaaPAM7LLI7o0uBq2P-WYIARzboG9SuNMg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cDJ61O1STtbWNBwefuqVrRe3d7l.jpg\",\"belongs_to_collection\":{\"id\":131296,\"name\":\"Thor Collection\",\"poster_path\":\"\/yw7gr7DhHHVTLlO8Se8uH17TDMA.jpg\",\"backdrop_path\":\"\/3KL8UNKFWgIKXzLHjwY0uwgjzYl.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/thor.marvel.com\/\",\"id\":10195,\"imdb_id\":\"tt0800369\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Thor\",\"overview\":\"Against his father Odin's will, The Mighty Thor - a powerful but arrogant warrior god - recklessly reignites an ancient war. Thor is cast down to Earth and forced to live among humans as punishment. Once here, Thor learns what it takes to be a true hero when the most dangerous villain of his world sends the darkest forces of Asgard to invade Earth.\",\"popularity\":97.911,\"poster_path\":\"\/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"},{\"id\":7505,\"logo_path\":\"\/837VMM4wOkODc1idNxGT0KQJlej.png\",\"name\":\"Marvel Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-04-21\",\"revenue\":449326618,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Courage is immortal.\",\"title\":\"Thor\",\"video\":false,\"vote_average\":6.769,\"vote_count\":20775}"
+}

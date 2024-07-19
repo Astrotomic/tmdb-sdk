@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1123",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2386",
+        "x-memc": "HIT",
+        "x-memc-key": "a3d382e3aa9a3b224c5b7529249beb66",
+        "x-memc-age": "23292",
+        "x-memc-expires": "2386",
+        "ETag": "W\/\"12908c1bfd567920c811d57c016b8509\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Kcp9jy6xE2xVxl1J0DOZmXsnvW0Hfr7MBWPp1Y141knVfVJNW81ZAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":395559,\"imdb_id\":\"tt0313806\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"You Take Care Now\",\"overview\":\"You Take Care Now, an early student film, is a perfect exemplar of Ann Marie Fleming's idiosyncratic vision and stands as one of her signature works. Made on 16mm, and incorporating found footage, original material, animation, and processed images (Vancouver's groundbreaking avant-garde cinema of the 1970s is a decided influence here), Fleming's film offers a visually dazzling, emotionally wrenching, oddly humorous account of two profound personal traumas.\",\"popularity\":1.301,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"1989-01-01\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"You Take Care Now\",\"video\":false,\"vote_average\":8.0,\"vote_count\":1}"
+}

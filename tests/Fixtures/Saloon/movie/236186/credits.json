@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1438",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7063",
+        "x-memc": "HIT",
+        "x-memc-key": "88a3c1bd9b17fc937d6713e629f7438e",
+        "x-memc-age": "16396",
+        "x-memc-expires": "7063",
+        "ETag": "W\/\"35ddcf0cc9d39a2b3a7466520480c69a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_8cdafN6vxlg9gwwYrUbXC0Ji8po2qgTUkT6lZKON5WP7wgD2_VVUw=="
+    },
+    "data": "{\"id\":236186,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1004823,\"known_for_department\":\"Acting\",\"name\":\"Jack Mercer\",\"original_name\":\"Jack Mercer\",\"popularity\":4.123,\"profile_path\":\"\/lCdwmzQBcgzAYOMXum6zZ4PhSrI.jpg\",\"cast_id\":3,\"character\":\"Popeye (voice) (uncredited)\",\"credit_id\":\"54b74536c3a3686c5f001271\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1246276,\"known_for_department\":\"Acting\",\"name\":\"Margie Hines\",\"original_name\":\"Margie Hines\",\"popularity\":1.676,\"profile_path\":null,\"cast_id\":4,\"character\":\"Olive Oyl (voice) (uncredited)\",\"credit_id\":\"54b745429251411d730012ad\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":143463,\"known_for_department\":\"Directing\",\"name\":\"Dave Fleischer\",\"original_name\":\"Dave Fleischer\",\"popularity\":8.119,\"profile_path\":\"\/D1Dcuvwz3zHwe0ByaJqWkImQjs.jpg\",\"credit_id\":\"52fe4e56c3a36847f828ac6d\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":89755,\"known_for_department\":\"Directing\",\"name\":\"Seymour Kneitel\",\"original_name\":\"Seymour Kneitel\",\"popularity\":3.581,\"profile_path\":\"\/6HeCQ7XXSDjQbl2RN6iYrs1zjX0.jpg\",\"credit_id\":\"52fe4e56c3a36847f828ac73\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":606084,\"known_for_department\":\"Production\",\"name\":\"Max Fleischer\",\"original_name\":\"Max Fleischer\",\"popularity\":4.65,\"profile_path\":\"\/m4i8FwtAeh3u1J01cdFsCf0G6VB.jpg\",\"credit_id\":\"62ee0e6b46aed400917df893\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

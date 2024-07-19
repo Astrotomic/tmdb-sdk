@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "883",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5646",
+        "x-memc": "HIT",
+        "x-memc-key": "9b5cc6e3ebf77feb264f4353b3e6f4d8",
+        "x-memc-age": "20814",
+        "x-memc-expires": "5646",
+        "ETag": "W\/\"059e6668caab6fc16ae949d8e916f689\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5Oba62LhIXzRWFRv3e7i-rkkQ4glfr4IwvYIXxjK_tWm-wGkAdtqVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dn8Xx9QErHUhJjepkyy03jLRaLB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10639,\"imdb_id\":\"tt0206088\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"LiebesLuder\",\"overview\":\"\",\"popularity\":2.265,\"poster_path\":\"\/aVLzs8eJhEpFHSSpRa1hT3CBaai.jpg\",\"production_companies\":[{\"id\":230,\"logo_path\":\"\/yHUO3r7pjGTvtXLFb4zA66vC7cU.png\",\"name\":\"Boje Buck Produktion GmbH\",\"origin_country\":\"DE\"},{\"id\":46,\"logo_path\":\"\/3xFdKHLXPGHEbrAkmsepGE8974Y.png\",\"name\":\"WDR\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2000-11-02\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"LiebesLuder\",\"video\":false,\"vote_average\":4.4,\"vote_count\":5}"
+}

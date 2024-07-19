@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1206",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9931",
+        "x-memc": "HIT",
+        "x-memc-key": "06e0d3a661de00a526dbefaa3ad79553",
+        "x-memc-age": "14232",
+        "x-memc-expires": "9931",
+        "ETag": "W\/\"eddd6db86600454b1d71ab27c9dc08ad\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yvzo74yrr6FBYuAwoqgdB6lJJTymULoVrGc_L1aYHClNgu745-2_EQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/msqeiEyIRpPAtrCeRGFNZQ9tkJL.jpg\",\"belongs_to_collection\":null,\"budget\":450000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/durian.blender.org\/\",\"id\":45745,\"imdb_id\":\"tt1727587\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sintel\",\"overview\":\"A wandering warrior finds an unlikely friend in the form of a young dragon. The two develop a close bond, until one day the dragon is snatched away. She then sets out on a relentless quest to reclaim her friend, finding in the end that her quest exacts a far greater price than she had ever imagined.\",\"popularity\":11.331,\"poster_path\":\"\/4BMG9hk9NvSBeQvC82sVmVRK140.jpg\",\"production_companies\":[{\"id\":6908,\"logo_path\":\"\/l7mhd4PXPeJPOxSL1MqSfKUtTRW.png\",\"name\":\"Blender Foundation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"}],\"release_date\":\"2010-09-30\",\"revenue\":0,\"runtime\":14,\"spoken_languages\":[{\"english_name\":\"Dutch\",\"iso_639_1\":\"nl\",\"name\":\"Nederlands\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sintel\",\"video\":false,\"vote_average\":7.445,\"vote_count\":155}"
+}

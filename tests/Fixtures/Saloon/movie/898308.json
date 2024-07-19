@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1500",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2963",
+        "x-memc": "HIT",
+        "x-memc-key": "93d3709458ed853da4d0302ab1582bcb",
+        "x-memc-age": "25360",
+        "x-memc-expires": "2963",
+        "ETag": "W\/\"8cf0a132fc5c3a305a9d3ed8c33bcead\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_frkSIXCGoCruqPWcYYQWw5dKWeAZIInqIoxLXGs9Q2FoMlNfiN6PA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sWLlgUVsmwir6jf9XmzbTRdrtrB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/darby-and-the-dead\",\"id\":898308,\"imdb_id\":\"tt15745226\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Darby and the Dead\",\"overview\":\"After Darby Harper suffered a near-death experience as a child, she gained the ability to see ghosts. To combat the existential boredom of high school, she runs a side business counseling local spirits in her spare time. When an unexpected occurrence happens between Darby and Capri, the most popular girl at her high school, Darby reluctantly agrees to help her and in the process learns how to fit in with the living world again.\",\"popularity\":17.067,\"poster_path\":\"\/v1mtYW0qShlS3YFy10D8GqTk6LI.jpg\",\"production_companies\":[{\"id\":127928,\"logo_path\":\"\/h0rjX5vjW5r8yEnUBStFarjcLT4.png\",\"name\":\"20th Century Studios\",\"origin_country\":\"US\"},{\"id\":35076,\"logo_path\":\"\/tjL893PyjsZ1PELRu7gvitNAzcC.png\",\"name\":\"Footprint Features\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-12-02\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Ghosted but not gone.\",\"title\":\"Darby and the Dead\",\"video\":false,\"vote_average\":5.8,\"vote_count\":68}"
+}

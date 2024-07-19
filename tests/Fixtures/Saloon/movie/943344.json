@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "724",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13264",
+        "x-memc": "HIT",
+        "x-memc-key": "78a7abe13e3ae75212ac83e1c91b6419",
+        "x-memc-age": "13938",
+        "x-memc-expires": "13264",
+        "ETag": "W\/\"bdb13c7e5a0ddde59d8238f6dad0ccff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lzeVTvjRiExg0xBuhxQ0Pp097Pm-q5JarbxI5k5ki9mBSjO6uOnGiw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oSJV6nAfHzyE9v6oEAXmDjbko00.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":943344,\"imdb_id\":\"tt19638448\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u5730\u5e95\u602a\u7269\",\"overview\":\"\",\"popularity\":1369.83,\"poster_path\":\"\/lWVwWRLqpS1OaNg7KT0ZecSW0PK.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2023-04-27\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Underground Monster\",\"video\":false,\"vote_average\":3.667,\"vote_count\":6}"
+}

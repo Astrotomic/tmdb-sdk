@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "944",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9768",
+        "x-memc": "HIT",
+        "x-memc-key": "f8b69965ac1777121fce5a856998fd39",
+        "x-memc-age": "12036",
+        "x-memc-expires": "9768",
+        "ETag": "W\/\"637988937014a3f99a2cf247c15ed372\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pNi_tx_rg9g4WfB4K66Hugqytm-YKy7xaJijPfWkXU46yw2ccqGT7Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":16554,\"imdb_id\":\"tt1281299\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Heimatkunde\",\"overview\":\"Former \\\"Titanic\\\" satire magazine editor Martin Sonneborn takes an undercover trip around Berlin and discovers the East-German mentality and what is left of the socialist German Democratic Republic.\",\"popularity\":2.321,\"poster_path\":\"\/cte0tJLn7RHSWFu1DiC0r4eM5bb.jpg\",\"production_companies\":[{\"id\":2067,\"logo_path\":\"\/y5knLIUjYsKBIlM4W0dLruWwYaC.png\",\"name\":\"RBB\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2008-10-01\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Heimatkunde\",\"video\":false,\"vote_average\":6.8,\"vote_count\":6}"
+}

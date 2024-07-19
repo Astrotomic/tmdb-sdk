@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "803",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25377",
+        "x-memc": "HIT",
+        "x-memc-key": "7a9cdfef65e74e70615554d65aa978a5",
+        "x-memc-age": "1438",
+        "x-memc-expires": "25377",
+        "ETag": "W\/\"0223bf846a5d28c1f24ba91711152035\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Zvkids9QvbUbcjUVS4F6K2RiLMqlcTCve0vFj66ZymKWi09wO6R4ww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1205607,\"imdb_id\":null,\"origin_country\":[\"XC\"],\"original_language\":\"sk\",\"original_title\":\"\u010cl\u00e1nok na prv\u00fa stranku\",\"overview\":\"\",\"popularity\":7.485,\"poster_path\":null,\"production_companies\":[{\"id\":28449,\"logo_path\":\"\/mDjPjvkTpRywYMGcuNReCe4xWbG.png\",\"name\":\"\u010ceskoslovensk\u00e1 telev\u00edzia Bratislava\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1978-11-20\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Slovak\",\"iso_639_1\":\"sk\",\"name\":\"Sloven\u010dina\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"\u010cl\u00e1nok na prv\u00fa stranku\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

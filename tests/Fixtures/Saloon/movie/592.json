@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1556",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9723",
+        "x-memc": "HIT",
+        "x-memc-key": "063457077abc43154f8f235aa882ec2e",
+        "x-memc-age": "16880",
+        "x-memc-expires": "9723",
+        "ETag": "W\/\"b8cb4eb46bd7676abace1bff55759db1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WjqY3iNTEuupsks8P8R9BDDNxWY5kw4juxSUnxarpgYsw1_hNvromw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg\",\"belongs_to_collection\":null,\"budget\":1600000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.zoetrope.com\/american-zoetrope\/the.conversation\",\"id\":592,\"imdb_id\":\"tt0071360\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Conversation\",\"overview\":\"Surveillance expert Harry Caul is hired by a mysterious client's brusque aide to tail a young couple. Tracking the pair through San Francisco's Union Square, Caul and his associate Stan manage to record a cryptic conversation between them. Tormented by memories of a previous case that ended badly, Caul becomes obsessed with the resulting tape, trying to determine if the couple is in danger.\",\"popularity\":24.078,\"poster_path\":\"\/leZtiWJXHEp2x7jVW7djhcSboSJ.jpg\",\"production_companies\":[{\"id\":14120,\"logo_path\":null,\"name\":\"The Directors Company\",\"origin_country\":\"US\"},{\"id\":536,\"logo_path\":null,\"name\":\"The Coppola Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1974-04-07\",\"revenue\":4420000,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Harry Caul is an invader of privacy. The best in the business. He can record any conversation between two people anywhere. So far, three people are dead because of him.\",\"title\":\"The Conversation\",\"video\":false,\"vote_average\":7.527,\"vote_count\":1655}"
+}

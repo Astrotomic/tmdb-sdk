@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1599",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4281",
+        "x-memc": "HIT",
+        "x-memc-key": "86adf7bfb09b92cefc88e4693d870870",
+        "x-memc-age": "17647",
+        "x-memc-expires": "4281",
+        "ETag": "W\/\"23a1b6cc6e8e82b9532b9bb6f96879e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8dvMkDqRDINGPuuSPC1_orP3-vM5PN7HRy7kdoZjP_q_t4u1647byg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jynfI114q3kOAbIiVjVfFFmttU2.jpg\",\"belongs_to_collection\":null,\"budget\":16000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":101,\"imdb_id\":\"tt0110413\",\"origin_country\":[\"FR\"],\"original_language\":\"en\",\"original_title\":\"L\u00e9on: The Professional\",\"overview\":\"L\u00e9on, the top hit man in New York, has earned a rep as an effective \\\"cleaner\\\". But when his next-door neighbors are wiped out by a loose-cannon DEA agent, he becomes the unwilling custodian of 12-year-old Mathilda. Before long, Mathilda's thoughts turn to revenge, and she considers following in L\u00e9on's footsteps.\",\"popularity\":155.805,\"poster_path\":\"\/yI6X2cCM5YPJtxMhUd3dPGqDAhw.jpg\",\"production_companies\":[{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"},{\"id\":66743,\"logo_path\":null,\"name\":\"Les Films du Dauphin\",\"origin_country\":\"FR\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1994-09-14\",\"revenue\":45284974,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"If you want the job done right, hire a professional.\",\"title\":\"L\u00e9on: The Professional\",\"video\":false,\"vote_average\":8.309,\"vote_count\":14451}"
+}

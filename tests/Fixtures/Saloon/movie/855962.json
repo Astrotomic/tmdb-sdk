@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "887",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3927",
+        "x-memc": "HIT",
+        "x-memc-key": "d793790289c2db856ce7fba818fecba8",
+        "x-memc-age": "22360",
+        "x-memc-expires": "3927",
+        "ETag": "W\/\"a7975388dbdc3e526d9fb692af43ae91\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Kd2y_yWdYb-XqsCoUAEPPob-rOg-9quQfR49G7LqJqQekJIPoOf28Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lljSNSmd6Rlj9cBPxxPBiKirS9Z.jpg\",\"belongs_to_collection\":null,\"budget\":100,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":855962,\"imdb_id\":\"tt0253881\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Vana Espuma\",\"overview\":\"When the darkness in a musician's dreams tears its way into his waking life, a series of brutal murders rocks the city and word spreads of a spectral form looming over the rooftops.\",\"popularity\":0.752,\"poster_path\":\"\/zsgCJ43RnziBSS4c7HczvYXL7Uc.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CO\",\"name\":\"Colombia\"}],\"release_date\":\"1998-01-01\",\"revenue\":0,\"runtime\":28,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Idle Mist\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1374",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6967",
+        "x-memc": "HIT",
+        "x-memc-key": "b1486918e113de7fdc0b7f4321c6666f",
+        "x-memc-age": "15306",
+        "x-memc-expires": "6967",
+        "ETag": "W\/\"47b227f59348d24dc64adbb93998d11d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DAOqgT7B0Hxl6FiRHZH6GNbpbcIrFW-2z2AD5oyslQizw9_w3BlAhQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lZYsPT5WzDMgHe4tZzO9GHVN9ei.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1641,\"imdb_id\":\"tt0141098\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Forces of Nature\",\"overview\":\"Ben Holmes, a professional book-jacket blurbologist, is trying to get to Savannah for his wedding. He just barely catches the last plane, but a seagull flies into the engine as the plane is taking off. All later flights are cancelled because of an approaching hurricane, so he is forced to hitch a ride in a Geo Metro with an attractive but eccentric woman named Sara.\",\"popularity\":18.345,\"poster_path\":\"\/etmjiee84g6G9WALmLkJ1DhenAu.jpg\",\"production_companies\":[{\"id\":1560,\"logo_path\":null,\"name\":\"Roth-Arnold Productions\",\"origin_country\":\"\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-03-12\",\"revenue\":93888180,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He went from the eye of the storm, into the arms of a hurricane.\",\"title\":\"Forces of Nature\",\"video\":false,\"vote_average\":5.408,\"vote_count\":522}"
+}

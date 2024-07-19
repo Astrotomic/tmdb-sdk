@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "230",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14359",
+        "x-memc": "HIT",
+        "x-memc-key": "f7c389327e7c51c4ce47674fad6205b2",
+        "x-memc-age": "11077",
+        "x-memc-expires": "14359",
+        "ETag": "W\/\"dcbae22bace3ef349424e9582001a2e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "54ucy-3M8u3BA2P8bEgnVCzYBaNjbBQ4mx8DmH8Ig0wqFzg7nRoHPQ=="
+    },
+    "data": "{\"id\":696826,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/696826-il-regno\/watch?locale=IT\",\"rent\":[{\"logo_path\":\"\/aRy3fDxHOKRq3nhC5J4Sp96kW2b.jpg\",\"provider_id\":2149,\"provider_name\":\"CG tv\",\"display_priority\":112}]}}}"
+}

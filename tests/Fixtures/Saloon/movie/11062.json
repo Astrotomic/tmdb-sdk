@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1183",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10398",
+        "x-memc": "HIT",
+        "x-memc-key": "0be72968720df9df1d84176c77fc2fcb",
+        "x-memc-age": "11820",
+        "x-memc-expires": "10398",
+        "ETag": "W\/\"cc99e6dc68d24649a694c75e4dc21e78\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fGEjmmpboRgOw26IyKQi2u5R-17ag6rmxUUpZyiELglhgKDWW3KzBA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9z9SwlbhlV1oaai2gPhyRE8xpIG.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11062,\"imdb_id\":\"tt0115907\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"City Hall\",\"overview\":\"The accidental shooting of a boy in New York leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.\",\"popularity\":19.52,\"poster_path\":\"\/tEpefYZtoDZsMflWrPIXbW0OSwN.jpg\",\"production_companies\":[{\"id\":97,\"logo_path\":\"\/7znWcbDd4PcJzJUlJxYqAlPPykp.png\",\"name\":\"Castle Rock Entertainment\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-02-16\",\"revenue\":33440204,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It started with a shootout on a rainswept street and ended in a scandal that shattered New York.\",\"title\":\"City Hall\",\"video\":false,\"vote_average\":5.9,\"vote_count\":273}"
+}

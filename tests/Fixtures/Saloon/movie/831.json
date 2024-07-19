@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1082",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7435",
+        "x-memc": "HIT",
+        "x-memc-key": "1950ed8327e6e2a8b5b776958b0bce50",
+        "x-memc-age": "16524",
+        "x-memc-expires": "7435",
+        "ETag": "W\/\"12ff03695d0fc6123ebf75f69c7fd9d8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R6hup5vZjRlFYcmYLbDb-Je1aoyiF4ynvR7RL9Y7aBVuxV1Lfvn5og=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/inQQLXDOkb3jwDqNqHF8Lnel6yU.jpg\",\"belongs_to_collection\":null,\"budget\":800000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":831,\"imdb_id\":\"tt0047577\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"This Island Earth\",\"overview\":\"Aliens have landed and are hiding on Earth, but need Earth\u2019s scientists to help them fight an inter-planetary war.\",\"popularity\":10.965,\"poster_path\":\"\/2viRDpHmhzQoreZok2auLjkVbSE.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1955-06-01\",\"revenue\":1700000,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Two mortals trapped in outer space... challenging the unearthly furies of an outlaw planet gone mad!\",\"title\":\"This Island Earth\",\"video\":false,\"vote_average\":5.979,\"vote_count\":210}"
+}

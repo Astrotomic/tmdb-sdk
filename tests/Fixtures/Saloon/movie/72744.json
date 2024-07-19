@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1240",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15663",
+        "x-memc": "HIT",
+        "x-memc-key": "306e477bd9d63ffda793042b759fa639",
+        "x-memc-age": "13090",
+        "x-memc-expires": "15663",
+        "ETag": "W\/\"7623fc84ed715643677211644aaffac6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZnK_a3NGQl-s6bgbA_n-ol7IiD1mAwrrmlJIdDQay-Xjt3asbOOG_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uBkg8SVYt1mlng5L3eccm2P38QG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/www.pj20.com\/\",\"id\":72744,\"imdb_id\":\"tt1417592\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pearl Jam Twenty\",\"overview\":\"Carved from over 1,200 hours of footage spanning the band\u2019s career, Pearl Jam: Twenty is the definitive portrait of Pearl Jam. Part concert film, part intimate insider-hang, and part testimonial to the power of music.\",\"popularity\":10.242,\"poster_path\":\"\/d38PBlEsj5W9Od581GuWLeTuy4F.jpg\",\"production_companies\":[{\"id\":58637,\"logo_path\":\"\/ow51X3ZjwBSE2UeYOF9ya8xfiI9.png\",\"name\":\"Tremolo Productions\",\"origin_country\":\"US\"},{\"id\":485,\"logo_path\":\"\/tVOP0mIeoYLua4Rw66OYNzitrrI.png\",\"name\":\"Vinyl Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2011-09-20\",\"revenue\":471334,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pearl Jam Twenty\",\"video\":false,\"vote_average\":7.8,\"vote_count\":94}"
+}

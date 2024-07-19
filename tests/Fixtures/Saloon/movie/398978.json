@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1671",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21181",
+        "x-memc": "HIT",
+        "x-memc-key": "eb77b9e20a1278034d38bc3d56b28ef4",
+        "x-memc-age": "4229",
+        "x-memc-expires": "21181",
+        "ETag": "W\/\"62045fc12837d36fe84eb3c9d038a168\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f_jsnKn61ErSEwrJn5o1XpK_J4qh_z0Sj7_InzV6xFJIonY6IRcZeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1RDto0tLo8Fhq7OcwgDaM7nECb7.jpg\",\"belongs_to_collection\":null,\"budget\":159000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/www.theirishman-movie.com\",\"id\":398978,\"imdb_id\":\"tt1302006\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Irishman\",\"overview\":\"Pennsylvania, 1956. Frank Sheeran, a war veteran of Irish origin who works as a truck driver, accidentally meets mobster Russell Bufalino. Once Frank becomes his trusted man, Bufalino sends him to Chicago with the task of helping Jimmy Hoffa, a powerful union leader related to organized crime, with whom Frank will maintain a close friendship for nearly twenty years.\",\"popularity\":41.916,\"poster_path\":\"\/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg\",\"production_companies\":[{\"id\":11391,\"logo_path\":\"\/t6m0uRTzaFHCsvEpikENE0PWJGb.png\",\"name\":\"Tribeca Productions\",\"origin_country\":\"US\"},{\"id\":23243,\"logo_path\":null,\"name\":\"Sikelia Productions\",\"origin_country\":\"US\"},{\"id\":8880,\"logo_path\":\"\/fE7LBw7Jz8R29EABFGCvWNriZxN.png\",\"name\":\"Winkler Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-11-01\",\"revenue\":968853,\"runtime\":209,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"His story changed history\",\"title\":\"The Irishman\",\"video\":false,\"vote_average\":7.608,\"vote_count\":6633}"
+}

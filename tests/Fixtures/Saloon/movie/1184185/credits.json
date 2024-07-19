@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1620",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2562",
+        "x-memc": "HIT",
+        "x-memc-key": "7ef9975f4a9adc3cbf93e8084ea27d63",
+        "x-memc-age": "20431",
+        "x-memc-expires": "2562",
+        "ETag": "W\/\"eb7eea27a6525f3b0b6ffeb902e141e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fZT5BAreHHBoyAwef7m5Cm1Wzl4pBVDTqEfmPlGTANh3HsFHT2bTPQ=="
+    },
+    "data": "{\"id\":1184185,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":3238872,\"known_for_department\":\"Acting\",\"name\":\"Toni Welch\",\"original_name\":\"Toni Welch\",\"popularity\":0.017,\"profile_path\":null,\"cast_id\":1,\"character\":\"Herself\",\"credit_id\":\"6513c6bb9b861600c5c94703\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1531583,\"known_for_department\":\"Acting\",\"name\":\"Michelle Mitchenor\",\"original_name\":\"Michelle Mitchenor\",\"popularity\":3.257,\"profile_path\":\"\/Pukky7YaDh8qDukOAxGbSgmQG4.jpg\",\"cast_id\":5,\"character\":\"Tonesa Welch\",\"credit_id\":\"653cb174c8a5ac0100f9bd6a\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":12974,\"known_for_department\":\"Acting\",\"name\":\"Leon\",\"original_name\":\"Leon\",\"popularity\":18.092,\"profile_path\":\"\/uhLVZV2rH0nnXwQKtsIT0qGsTyg.jpg\",\"cast_id\":6,\"character\":\"Emerson\",\"credit_id\":\"653cb194cc968300c9e3828a\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":2535,\"known_for_department\":\"Acting\",\"name\":\"Vivica A. Fox\",\"original_name\":\"Vivica A. Fox\",\"popularity\":29.59,\"profile_path\":\"\/oIzevp0dqjIxqRQ2VoSzjiDCBt.jpg\",\"credit_id\":\"653cb0d0719aeb00ab2b2753\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":1,\"id\":3248866,\"known_for_department\":\"Writing\",\"name\":\"Gabrielle Collins\",\"original_name\":\"Gabrielle Collins\",\"popularity\":1.413,\"profile_path\":null,\"credit_id\":\"653cb11d519bbb00c433ae0c\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":2363467,\"known_for_department\":\"Production\",\"name\":\"Tressa Azarel Smallwood\",\"original_name\":\"Tressa Azarel Smallwood\",\"popularity\":1.883,\"profile_path\":null,\"credit_id\":\"653cb129bc2cb300c97e11ef\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

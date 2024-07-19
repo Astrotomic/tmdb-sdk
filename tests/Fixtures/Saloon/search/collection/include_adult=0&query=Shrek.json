@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "386",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24990",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "2d11a1a014de6bb60a85e8f325c4a727",
+        "x-memc-age": "0",
+        "x-memc-expires": "24990",
+        "ETag": "W\/\"a4ff73db938635313ef35c8f5ee6cb0a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TGT3WxlhZAJZ72A01WSRqM4Y11nJ30YdmaBkIrOTEgm1twsCWzigTg=="
+    },
+    "data": "{\"page\":1,\"results\":[{\"adult\":false,\"backdrop_path\":\"\/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg\",\"id\":2150,\"name\":\"Shrek Collection\",\"original_language\":\"en\",\"original_name\":\"Shrek Collection\",\"overview\":\"The fairytale story of a large, strong, solitude-loving, intimidating ogre named Shrek, and his friends.\",\"poster_path\":\"\/m3IA3X59cEup41xs4DJLptlfsza.jpg\"}],\"total_pages\":1,\"total_results\":1}"
+}

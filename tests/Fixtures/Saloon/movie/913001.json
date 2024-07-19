@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1745",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2129",
+        "x-memc": "HIT",
+        "x-memc-key": "6fcb467f9ef6d0c1df0e22a4603f746e",
+        "x-memc-age": "21702",
+        "x-memc-expires": "2129",
+        "ETag": "W\/\"d45f48ee3279e7b8d22841ebf9b3984e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OVF6Ov43O69l-G8bXY7eyA6qEKvDwmm3k5vNMtQvSgei99hBHGGX2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r488XPGouCdLA4HSU4L8pVfmQke.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/ponoc.jp\/Rudger\/en\/\",\"id\":913001,\"imdb_id\":\"tt16369708\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5c4b\u6839\u88cf\u306e\u30e9\u30b8\u30e3\u30fc\",\"overview\":\"Amanda and her imaginary friend Rudger go on thrilling make-believe adventures. But when Rudger finds himself alone, he faces a mysterious threat.\",\"popularity\":117.102,\"poster_path\":\"\/xGImONYZnE2Wxc7N99JAifREs5Z.jpg\",\"production_companies\":[{\"id\":84493,\"logo_path\":\"\/c0NLXe9hd1lZdMYHDcx0qEZRw5k.png\",\"name\":\"STUDIO PONOC\",\"origin_country\":\"JP\"},{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":6755,\"logo_path\":\"\/c0ENH8QeZLvCACpzCpwvYMy2SDr.png\",\"name\":\"Nippon Television Network Corporation\",\"origin_country\":\"JP\"},{\"id\":164892,\"logo_path\":null,\"name\":\"The Walt Disney Company (Japan)\",\"origin_country\":\"JP\"},{\"id\":2073,\"logo_path\":\"\/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png\",\"name\":\"KADOKAWA\",\"origin_country\":\"JP\"},{\"id\":11849,\"logo_path\":\"\/ssKAToULWqC6LJXOJWtd0O3VdV0.png\",\"name\":\"Lawson\",\"origin_country\":\"JP\"},{\"id\":172748,\"logo_path\":\"\/jCy6vJN1QCrWsxmIfdoGcM0p3nj.png\",\"name\":\"Poplar\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2023-12-15\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"A boy no one can see, and the Imaginaries.\",\"title\":\"The Imaginary\",\"video\":false,\"vote_average\":8.174,\"vote_count\":23}"
+}

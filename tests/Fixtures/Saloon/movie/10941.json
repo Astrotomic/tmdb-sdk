@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1380",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25075",
+        "x-memc": "HIT",
+        "x-memc-key": "54af836f099b410df43029b764dd46f6",
+        "x-memc-age": "709",
+        "x-memc-expires": "25075",
+        "ETag": "W\/\"bea11b51c041056230838f2d9330728f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PL_BdlKAeL-a0pyHW44KGhH9QXIvLDtu2UJW3cIu78l1KUpqXJzJjg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nRc6pwhW51n2f1AAg3b5590MBpz.jpg\",\"belongs_to_collection\":{\"id\":10441,\"name\":\"Babylon 5 Collection\",\"poster_path\":\"\/4SmQl6eoFuyvHPj1noqqKf93yK6.jpg\",\"backdrop_path\":\"\/mpiKaJZSIDVGbuKxL1KyQPxeW6Y.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10941,\"imdb_id\":\"tt0121804\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Babylon 5: Thirdspace\",\"overview\":\"Susan Ivanova discovers a derelict spaceship in hyperspace. They tow it back to Babylon 5, then strange things start happening. People are being telepathically taken over by aliens from another (third)space.\",\"popularity\":8.788,\"poster_path\":\"\/lGRkbsA4cqFBjvshNAnCnUg0uyV.jpg\",\"production_companies\":[{\"id\":2181,\"logo_path\":null,\"name\":\"Babylonian Productions\",\"origin_country\":\"\"},{\"id\":678,\"logo_path\":\"\/AbIc38dGx4b8dhKS7oeRL6aXFDv.png\",\"name\":\"Turner Network Television\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-07-17\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One mistake. One mistake out of so many. So many others.\",\"title\":\"Babylon 5: Thirdspace\",\"video\":false,\"vote_average\":6.631,\"vote_count\":118}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1103",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11064",
+        "x-memc": "HIT",
+        "x-memc-key": "4eb69f9c02805ef8a343266a76ddb406",
+        "x-memc-age": "10694",
+        "x-memc-expires": "11064",
+        "ETag": "W\/\"e1e0f0ffa50380937b4c69e864379361\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "byOcLf8VYvPh5CBZ7TSRmQrZqSsQ7mrgmI7dam3kDqY-YsD4_vaphg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cabkKlqKhiNkgGSCMhybqkwllkE.jpg\",\"belongs_to_collection\":null,\"budget\":8500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1619,\"imdb_id\":\"tt0202677\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Way of the Gun\",\"overview\":\"Two criminal drifters without sympathy get more than they bargained for after kidnapping and holding for ransom the surrogate mother of a powerful and shady man.\",\"popularity\":13.161,\"poster_path\":\"\/wrjMMdgn1a4ChlaBmlzKnb78nr6.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-09-08\",\"revenue\":19125401,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Choose your side carefully, because the only way out is the way of the gun.\",\"title\":\"The Way of the Gun\",\"video\":false,\"vote_average\":6.317,\"vote_count\":412}"
+}

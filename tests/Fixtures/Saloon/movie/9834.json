@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1257",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19923",
+        "x-memc": "HIT",
+        "x-memc-key": "e47c099560cee8b07912d2011f969520",
+        "x-memc-age": "8635",
+        "x-memc-expires": "19923",
+        "ETag": "W\/\"83dfcbabaa75a44488aa9c53baf0e0c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XmhC2VDDovKX5pvLXbgCiECBiezWrtt0c9xCrs5ns0E4ubRErIR79Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o4XkGHM8DT5uFJRG2mzjUMAi0SA.jpg\",\"belongs_to_collection\":{\"id\":328073,\"name\":\"The Net Collection\",\"poster_path\":\"\/sO76zaomJunfbwKmoeDvPepgk6P.jpg\",\"backdrop_path\":\"\/5j4HxayNgcAgGStNKqPxM0QNC7V.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":9834,\"imdb_id\":\"tt0449077\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Net 2.0\",\"overview\":\"The life of a young computer systems analyst is thrown into turmoil after arriving in Istanbul to start a new job. She soon finds her passport missing, her credit cards useless, her bank account empty and her identity stolen. As the story progresses we find people and events may not be what they seem...\",\"popularity\":11.218,\"poster_path\":\"\/7ofTl14cmpu5hCeD2HWh2T5QFH5.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-02-15\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Foreign country, no money, no identity, nothing is as it seems...\",\"title\":\"The Net 2.0\",\"video\":false,\"vote_average\":5.165,\"vote_count\":82}"
+}

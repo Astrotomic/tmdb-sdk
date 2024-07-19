@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18025",
+        "x-memc": "HIT",
+        "x-memc-key": "556b20997f2e52dba58265ea497b7273",
+        "x-memc-age": "9067",
+        "x-memc-expires": "18025",
+        "ETag": "W\/\"378dbb804e30b4f78274b38c9028b576\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kI8kqsNjTTq-trle46K41FbhDLDDZk85NxUNiR3mqZdc837o0Qj8FQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":734652,\"imdb_id\":\"tt24517258\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"77\ub2e8\uc758 \ube44\ubc00\",\"overview\":\"Sang-ho and Sun-ja are kidnapped by someone and live in brutal abuse while performing acrobatics in a circus troupe called the \\\"77th Dan\\\". One day their uncle comes to visit them and they try to escape, but when Sun-ja is captured by the circus, a black hooded person suddenly appears to help them.\",\"popularity\":1.81,\"poster_path\":\"\/xFvyMUqqM8fyCJInVJE9p4qeJOT.jpg\",\"production_companies\":[{\"id\":180261,\"logo_path\":null,\"name\":\"Samdo Films\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"1978-07-23\",\"revenue\":0,\"runtime\":69,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"77 Group's Secret\",\"video\":false,\"vote_average\":3.5,\"vote_count\":2}"
+}

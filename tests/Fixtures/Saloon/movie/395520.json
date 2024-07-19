@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "808",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25974",
+        "x-memc": "HIT",
+        "x-memc-key": "42515f1cd7deb33c3593c7a1a9267161",
+        "x-memc-age": "2564",
+        "x-memc-expires": "25974",
+        "ETag": "W\/\"e61c803f8fc533c4a7afff8cb53d8709\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fmgsRol_3dVejW7vlBIpUs8BfSxLGVjgB0zP0vRvtr1LIurQVBWvhQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":395520,\"imdb_id\":\"tt2998290\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shorelines\",\"overview\":\"After a day of gathering hundreds of seashells and rocks from the beach, Jarnow uses the found objects to construct a stop motion commentary on how we look at nature through various cinematic techniques.\",\"popularity\":0.83,\"poster_path\":\"\/lK1JMXgxehi8QKtaX9qiVyh9CHp.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-05-01\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Shorelines\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

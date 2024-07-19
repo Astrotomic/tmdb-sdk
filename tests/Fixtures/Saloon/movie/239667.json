@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "948",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11517",
+        "x-memc": "HIT",
+        "x-memc-key": "2c8496a93fc4b66a3286921578ada770",
+        "x-memc-age": "15394",
+        "x-memc-expires": "11517",
+        "ETag": "W\/\"9c39f044a27d2bb93c1ba00de6f7f965\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UAs8fcR0KPRJTtVHpfQ773e8i3-o9WJwOTy-NNJcBiwVzHs4PtsWXQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/v9JxM8LqFDeE6HFloTu24Sdtrf3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":239667,\"imdb_id\":\"tt0901500\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d1\u30c3\u30c1\u30ae! LOVE&PEACE\",\"overview\":\"In 1974, during the height of the recession, a Japanese Korean family relocates to Tokyo to raise money and seek better treatment for their ill son.\",\"popularity\":6.799,\"poster_path\":\"\/q02ujI6wUXvUEune9TFlSX3fGaR.jpg\",\"production_companies\":[{\"id\":18400,\"logo_path\":null,\"name\":\"Cine Quanon\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2007-10-10\",\"revenue\":0,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pacchigi! Love & Peace\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

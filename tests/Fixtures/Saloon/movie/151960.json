@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1409",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6334",
+        "x-memc": "HIT",
+        "x-memc-key": "17494485feab75646dcb3683c8b9c4e3",
+        "x-memc-age": "22335",
+        "x-memc-expires": "6334",
+        "ETag": "W\/\"699bac8931c0c7d65f6b3934a7950ee0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ok2vVqq7WuXzZaKcxbd7W6k6AYeDMIClGPzK789UwhzDXeP1rVzxFw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1BaUaXBRKzwNESZ6hZkZjelatmt.jpg\",\"belongs_to_collection\":{\"id\":270252,\"name\":\"Planes Collection\",\"poster_path\":\"\/9iPjXft2km9DxlX4vGTqqP81STr.jpg\",\"backdrop_path\":\"\/zGoePWKFLVJlxDWUUJhxSQgmkCa.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":151960,\"imdb_id\":\"tt1691917\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Planes\",\"overview\":\"Dusty is a cropdusting plane who dreams of competing in a famous aerial race. The problem? He is hopelessly afraid of heights. With the support of his mentor Skipper and a host of new friends, Dusty sets off to make his dreams come true.\",\"popularity\":28.407,\"poster_path\":\"\/i2xgU0y0p77WTrB0oIkbpdaWq8R.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":5391,\"logo_path\":\"\/o5AcK10ViutenSa4XTD18ClCEWe.png\",\"name\":\"DisneyToon Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-08-09\",\"revenue\":219788712,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"From above the world of Cars\",\"title\":\"Planes\",\"video\":false,\"vote_average\":5.9,\"vote_count\":1641}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1303",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6393",
+        "x-memc": "HIT",
+        "x-memc-key": "2b74dd919c158e7acee8f5a604e12641",
+        "x-memc-age": "17930",
+        "x-memc-expires": "6393",
+        "ETag": "W\/\"289380011fc1e1b021231e9a244671e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ElvEo82vPXXvcBz3DuZp5Zj6FsONRUCQYPfiDU4FbchentyI6mI01A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/92mpNNg6v2PN2HN2C2Z4g0v3Tya.jpg\",\"belongs_to_collection\":null,\"budget\":34000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/tmnt\",\"id\":1273,\"imdb_id\":\"tt0453556\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"TMNT\",\"overview\":\"After the defeat of their old arch nemesis, The Shredder, the Turtles have grown apart as a family. Struggling to keep them together, their rat sensei, Splinter, becomes worried when strange things begin to brew in New York City.\",\"popularity\":69.148,\"poster_path\":\"\/6ZCWn7BGpDLBDigtdiuGyBdEqab.jpg\",\"production_companies\":[{\"id\":3463,\"logo_path\":null,\"name\":\"Imagi Animation Studios\",\"origin_country\":\"HK\"},{\"id\":30900,\"logo_path\":\"\/gyO0BxkreNepFOxc882GIdWHblX.png\",\"name\":\"Mirage Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-03-23\",\"revenue\":95608995,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Whole New Breed of Heroes.\",\"title\":\"TMNT\",\"video\":false,\"vote_average\":6.142,\"vote_count\":1064}"
+}

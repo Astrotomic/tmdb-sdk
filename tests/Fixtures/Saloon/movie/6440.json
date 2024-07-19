@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1096",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15893",
+        "x-memc": "HIT",
+        "x-memc-key": "52cb48914e7933f25df9e0079f71cf52",
+        "x-memc-age": "10125",
+        "x-memc-expires": "15893",
+        "ETag": "W\/\"d79c81d486ddb842ca6c1507e22a644f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C6H4478w59NXziAtBuXiHTiuNlnh8Dxf3E4zhN9ZKiRjIGy_b61a_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gnyGSoVKOIz1BR34lIBuuTq0Znl.jpg\",\"belongs_to_collection\":null,\"budget\":38000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.miramax.com\/movie\/the-shipping-news\",\"id\":6440,\"imdb_id\":\"tt0120824\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Shipping News\",\"overview\":\"An emotionally-beaten man with his young daughter moves to his ancestral home in Newfoundland to reclaim his life.\",\"popularity\":15.656,\"poster_path\":\"\/3IdEZw4YN4NfvjLRyZVWpI0z2IH.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-12-18\",\"revenue\":24690441,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You'll never guess what you'll find inside...\",\"title\":\"The Shipping News\",\"video\":false,\"vote_average\":6.343,\"vote_count\":360}"
+}

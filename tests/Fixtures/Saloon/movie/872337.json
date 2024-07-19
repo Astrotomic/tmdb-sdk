@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "907",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2088",
+        "x-memc": "HIT",
+        "x-memc-key": "2feeb24dd3d3ca0e1f93cd65b5431f01",
+        "x-memc-age": "20927",
+        "x-memc-expires": "2088",
+        "ETag": "W\/\"1e2803b4840802bf933c40533cf56674\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9CNfK1h3sFKdXBmb-r2XnqkSrJlKPeqNR4h61MyFg63Qdfdvbh782g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":872337,\"imdb_id\":\"tt15392734\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"From Zero to One\",\"overview\":\"From Malkuth to Kether and back, the whole spin of the wheel. A retelling of a series of dreams and visions experienced by the director in her Great Quest.\",\"popularity\":3.404,\"poster_path\":\"\/vzmJyeCUyYPfYF4SNn6yqXlMxoT.jpg\",\"production_companies\":[{\"id\":152745,\"logo_path\":null,\"name\":\"Mesmerize Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CL\",\"name\":\"Chile\"}],\"release_date\":\"2021-09-09\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"Based on a true story.\",\"title\":\"From Zero to One\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

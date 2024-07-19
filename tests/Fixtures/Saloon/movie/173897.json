@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1838",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:20:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26486",
+        "x-memc": "HIT",
+        "x-memc-key": "0668538b928e21aed93bae0a73608dc0",
+        "x-memc-age": "1551",
+        "x-memc-expires": "26486",
+        "ETag": "W\/\"0e03c083438f6fbea88214c7baed9e56\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qxaFmKlRD3v4UMZqJD_6qS8zRhG22llCjwE6Cpl4VFasUOaXvpDRuQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sQRfWdDxH53Vk7ZJ1UqzcaBHocO.jpg\",\"belongs_to_collection\":{\"id\":17255,\"name\":\"Resident Evil Collection\",\"poster_path\":\"\/ed8cYt6V7DVoVuHhBV5dD2YRFvb.jpg\",\"backdrop_path\":\"\/8utTJ9WoQeYcZ0Ztciv6auqwLXl.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":173897,\"imdb_id\":\"tt2592614\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Resident Evil: The Final Chapter\",\"overview\":\"Picking up immediately after the events in Resident Evil: Retribution, Alice is the only survivor of what was meant to be humanity's final stand against the undead. Now, she must return to where the nightmare began - The Hive in Raccoon City, where the Umbrella Corporation is gathering its forces for a final strike against the only remaining survivors of the apocalypse.\",\"popularity\":2.783,\"poster_path\":\"\/7glPlA0xPpxPxBu0TnY4ulQVCV1.jpg\",\"production_companies\":[{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"},{\"id\":248,\"logo_path\":null,\"name\":\"Impact Pictures\",\"origin_country\":\"GB\"},{\"id\":342,\"logo_path\":\"\/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png\",\"name\":\"Davis Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-12-23\",\"revenue\":312200000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Evil comes home\",\"title\":\"Resident Evil: The Final Chapter\",\"video\":false,\"vote_average\":6.1,\"vote_count\":3087}"
+}

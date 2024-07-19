@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1301",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3353",
+        "x-memc": "HIT",
+        "x-memc-key": "edd4c4baa0c6d0f218930ddb996f027b",
+        "x-memc-age": "19444",
+        "x-memc-expires": "3353",
+        "ETag": "W\/\"cd0d6f00f511959e0ed65632a4bad389\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Uht-QZxNA8Iu8fPD6o6fVurW14ges-V3JmbMo5yaxwgr6-dH4b4tpA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jRi6AKMPLnMtsFtWY0FUXZOlnVb.jpg\",\"belongs_to_collection\":{\"id\":473971,\"name\":\"Daddy's Home Collection\",\"poster_path\":\"\/dcDVS2XXZQEm19q7ZszJHbsAYqZ.jpg\",\"backdrop_path\":\"\/umOVzY5wG2vNcZmyTLrZYAYj7yn.jpg\"},\"budget\":69000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.daddyshomemovie.com\/\",\"id\":419680,\"imdb_id\":\"tt5657846\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Daddy's Home 2\",\"overview\":\"Brad and Dusty must deal with their intrusive fathers during the holidays.\",\"popularity\":46.777,\"poster_path\":\"\/rF2IoKL0IFmumEXQFUuB8LajTYP.jpg\",\"production_companies\":[{\"id\":19177,\"logo_path\":null,\"name\":\"Red Granite Pictures\",\"origin_country\":\"US\"},{\"id\":4740,\"logo_path\":\"\/20IuOPEwlHRXnn0MTOsEmw0wcql.png\",\"name\":\"Gary Sanchez Productions\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-11-09\",\"revenue\":180613180,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"More Daddies. More Problems.\",\"title\":\"Daddy's Home 2\",\"video\":false,\"vote_average\":6.294,\"vote_count\":2466}"
+}

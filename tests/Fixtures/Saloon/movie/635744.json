@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1577",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12515",
+        "x-memc": "HIT",
+        "x-memc-key": "e37eaec8e4e95b093b0752598c2f709d",
+        "x-memc-age": "9620",
+        "x-memc-expires": "12515",
+        "ETag": "W\/\"b06d97dcbe05432944b2ff3705fd961b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tsE5xmBBUhp9lmu7RdsHbHPPYO4Z_FDstX0qHJpPZsgFASb0UVL7zA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kTtBDUeDZATzrTUlqHUG0ZWjg9m.jpg\",\"belongs_to_collection\":{\"id\":285564,\"name\":\"Jarhead Collection\",\"poster_path\":\"\/aRFpBjCseFD6UmahAuLdqS7Or5q.jpg\",\"backdrop_path\":\"\/ifSnip5tvaHvxLPAyjkiihE6T2I.jpg\"},\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":635744,\"imdb_id\":\"tt10767720\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jarhead: Law of Return\",\"overview\":\"Major Ronan Jackson, an accomplished fighter pilot for the Israel Defense Forces and son of a U.S. Senator, is shot down while flying through Syrian airspace. After miraculously surviving the crash, Jackson is taken captive by a group of Hezbollah militiamen. A squad of elite soldiers, led by Gunnery Sergeant Dave Torres, risk their own lives in the hopes of saving an ally they've never met.\",\"popularity\":19.643,\"poster_path\":\"\/6LlqyjAik3Kh68QQ9AchSJEF0Z5.jpg\",\"production_companies\":[{\"id\":17009,\"logo_path\":\"\/ssowAxOrrqsSR2CKeiytOXwLoCW.png\",\"name\":\"Universal 1440 Entertainment\",\"origin_country\":\"US\"},{\"id\":29185,\"logo_path\":\"\/3SHlavyUJiZIn4ZS5h3B9ggP0Cf.png\",\"name\":\"BUFO\",\"origin_country\":\"BG\"}],\"production_countries\":[{\"iso_3166_1\":\"IL\",\"name\":\"Israel\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-10-01\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Jarhead: Law of Return\",\"video\":false,\"vote_average\":6.535,\"vote_count\":3336}"
+}

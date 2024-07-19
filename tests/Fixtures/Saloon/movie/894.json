@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1706",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3336",
+        "x-memc": "HIT",
+        "x-memc-key": "c8711ac029b9820bf093810f89dd1d8c",
+        "x-memc-age": "24739",
+        "x-memc-expires": "3336",
+        "ETag": "W\/\"c7fbed0047582bdf1754c480aeb624aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AQRXEdjfnnZIrScHC91jaQHZFTZHg_EpEyjUA8R1rhgDh1AgtJ7gdw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7iFUHQKqVlNq48Sr85ls3PndUbC.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.willenbrock-derfilm.de\/\",\"id\":894,\"imdb_id\":\"tt0396273\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Willenbrock\",\"overview\":\"Second-hand car sales man Willenbrock has everything that he could ever wish for. He is married, has two lovers, a cottage in the German city Gr\u00fcnen, and a BMW. Yet one day while at his cottage he gets mugged and his life is drastically changed. Little by little the world he once felt safe in falls apart around him.\",\"popularity\":4.428,\"poster_path\":\"\/x7OPrm4GvGGlUDqgBvIH6uQ981F.jpg\",\"production_companies\":[{\"id\":585,\"logo_path\":null,\"name\":\"UFA Filmproduktion GmbH\",\"origin_country\":\"\"},{\"id\":586,\"logo_path\":null,\"name\":\"Trebitsch Produktion International GmbH\",\"origin_country\":\"DE\"},{\"id\":587,\"logo_path\":\"\/6UIpEURdjnmcJPwgTDRzVRuwADr.png\",\"name\":\"ARTE\",\"origin_country\":\"DE\"},{\"id\":588,\"logo_path\":\"\/6mWg9rdVSj8gwgMiOmZH4iBCcMm.png\",\"name\":\"MDR\",\"origin_country\":\"DE\"},{\"id\":264,\"logo_path\":\"\/fA90qwUKgPhMONqtwY60GaHRyrW.png\",\"name\":\"Studio Babelsberg\",\"origin_country\":\"DE\"},{\"id\":213027,\"logo_path\":null,\"name\":\"Arte\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-03-17\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Willenbrock\",\"video\":false,\"vote_average\":6.5,\"vote_count\":13}"
+}

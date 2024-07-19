@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "716",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10036",
+        "x-memc": "HIT",
+        "x-memc-key": "898a663966a164156ba2f9e0aff5c8b3",
+        "x-memc-age": "15181",
+        "x-memc-expires": "10036",
+        "ETag": "W\/\"f93eb87d93808d2d4200aa37becb038a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "76F138oSGUrCIgj0Qm2dDmkr_aO_dXeu9DZrAv0tvyMYFR55aCWdeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":864700,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Godzilla Battle Royale\",\"overview\":\"Godzilla Battle Royale is a low-budget Godzilla fan film, directed and written by Billy DuBose. It was theatrically screened in the Pickwick Theater.\",\"popularity\":0.98,\"poster_path\":\"\/sUa2eBxvRNMMUtpwkbYlv7qLqTs.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2014-11-06\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Godzilla Battle Royale\",\"video\":false,\"vote_average\":8.2,\"vote_count\":5}"
+}

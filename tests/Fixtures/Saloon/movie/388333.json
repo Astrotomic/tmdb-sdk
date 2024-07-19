@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1159",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2085",
+        "x-memc": "HIT",
+        "x-memc-key": "a9366966bcc55e087a4ade197826b040",
+        "x-memc-age": "25941",
+        "x-memc-expires": "2085",
+        "ETag": "W\/\"84e35fe02a3e75c1157895c39be2b1c5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8W7I9arXmEvUOrTbPAwZV9WmsLvkvH3XckD-EYR28ZmBBH1nxpOIrw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oQCrHuAqqQCJ5H2gvAbsXd0T4Sw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":388333,\"imdb_id\":\"tt4169250\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"M.S. Dhoni: The Untold Story\",\"overview\":\"Based on the life story of Mahendra Singh Dhoni, and his journey to being the world cup winning captain of the Indian cricket team.\",\"popularity\":11.2,\"poster_path\":\"\/lUpMckVHaB55YJ3SMK0arwxKmCt.jpg\",\"production_companies\":[{\"id\":12154,\"logo_path\":\"\/sOHlz02xc4TmVTL4qY08dATNjxl.png\",\"name\":\"Star Studios\",\"origin_country\":\"IN\"},{\"id\":123281,\"logo_path\":null,\"name\":\"Inspired Entertainments\",\"origin_country\":\"\"},{\"id\":80514,\"logo_path\":null,\"name\":\"Friday Filmworks\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2016-09-30\",\"revenue\":0,\"runtime\":190,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"The Man You Know... The Journey You Don't\",\"title\":\"M.S. Dhoni: The Untold Story\",\"video\":false,\"vote_average\":7.16,\"vote_count\":163}"
+}

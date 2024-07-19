@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1586",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21090",
+        "x-memc": "HIT",
+        "x-memc-key": "48674b4e744a911ebc0f50438103c648",
+        "x-memc-age": "7117",
+        "x-memc-expires": "21090",
+        "ETag": "W\/\"aa8e6bf0fc793ca813898588338e82fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hRbIP2hUaKoRAURfRs4twbgQbx2ju9UEy8xpcdnLLWTSaaJNMEdkeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ghUdl0VYOJeoPiT4fbBfKWxTLuw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":213110,\"imdb_id\":\"tt0468445\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Amazing Screw-On Head\",\"overview\":\"Based on the award-winning comic book by Mike Mignola (creator of Hellboy), The Amazing Screw-On Head chronicles the adventures of a Civil War-era secret agent with an extraordinary special power who serves under president Abraham Lincoln.\",\"popularity\":7.634,\"poster_path\":\"\/gTANNf43FKKxN5bEGNGIhBF9Wg2.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":2526,\"logo_path\":\"\/kzIW6QWhacDwzGoXEIWhac8rb70.png\",\"name\":\"Kickstart Entertainment\",\"origin_country\":\"US\"},{\"id\":103359,\"logo_path\":null,\"name\":\"Living Dead Guy Productions\",\"origin_country\":\"US\"},{\"id\":7901,\"logo_path\":null,\"name\":\"Harmony Gold\",\"origin_country\":\"\"},{\"id\":43756,\"logo_path\":\"\/bwwJk6P9hycQGwUbWFj07cfyCG4.png\",\"name\":\"DR Movie\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-08-20\",\"revenue\":0,\"runtime\":22,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Put the screw to villainy.\",\"title\":\"The Amazing Screw-On Head\",\"video\":false,\"vote_average\":6.784,\"vote_count\":44}"
+}

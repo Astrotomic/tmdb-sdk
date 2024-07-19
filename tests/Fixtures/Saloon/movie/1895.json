@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1300",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:43:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15179",
+        "x-memc": "HIT",
+        "x-memc-key": "cbe85b2e4f6edc5ce0ded0cf070a5a5a",
+        "x-memc-age": "7232",
+        "x-memc-expires": "15179",
+        "ETag": "W\/\"386f6e0c0c8a1f75329d6928cd607a45\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mlofoMwDD0qWr1RYJSLkFULRVPI2Xoe7zQAJC_8Rl6-CUr_EbSW8iA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aQX9Hc4pCdbkzf4Oz6FMSpujagV.jpg\",\"belongs_to_collection\":{\"id\":10,\"name\":\"Star Wars Collection\",\"poster_path\":\"\/22dj38IckjzEEUZwN1tPU5VJ1qq.jpg\",\"backdrop_path\":\"\/zZDkgOmFMVYpGAkR9Tkxw0CRnxX.jpg\"},\"budget\":113000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.starwars.com\/films\/star-wars-episode-iii-revenge-of-the-sith\",\"id\":1895,\"imdb_id\":\"tt0121766\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Star Wars: Episode III - Revenge of the Sith\",\"overview\":\"The evil Darth Sidious enacts his final plan for unlimited power -- and the heroic Jedi Anakin Skywalker must choose a side.\",\"popularity\":64.238,\"poster_path\":\"\/xfSAoBEm9MNBjmlNcDYLvLSMlnq.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-05-17\",\"revenue\":850000000,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The saga is complete.\",\"title\":\"Star Wars: Episode III - Revenge of the Sith\",\"video\":false,\"vote_average\":7.43,\"vote_count\":13418}"
+}

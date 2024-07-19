@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "893",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3901",
+        "x-memc": "HIT",
+        "x-memc-key": "30195006bd126f83ab4af219f4cbba85",
+        "x-memc-age": "21289",
+        "x-memc-expires": "3901",
+        "ETag": "W\/\"ddc717377dab5b5de920b6fb464ca6ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vA4_osJUQe9pABiDLt0YrKqMT_eTYjrcyoQ1PqxruUu9n7_ikbkemg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":395478,\"imdb_id\":\"tt0023388\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Renegades of the West\",\"overview\":\"A cowboy goes undercover to catch the cattle thieves who killed his father.\",\"popularity\":1.632,\"poster_path\":\"\/7dMI2DZ2VBrPTfD7JYw9PQkYl4N.jpg\",\"production_companies\":[{\"id\":6,\"logo_path\":\"\/n53F7K9scQWFXYbrCablqLKqJdp.png\",\"name\":\"RKO Radio Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1932-11-25\",\"revenue\":0,\"runtime\":55,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The King of Western Stars!\",\"title\":\"Renegades of the West\",\"video\":false,\"vote_average\":5.5,\"vote_count\":2}"
+}

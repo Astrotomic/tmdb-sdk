@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "938",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16913",
+        "x-memc": "HIT",
+        "x-memc-key": "6a35be64fe981da7d6ea7ec40777cc61",
+        "x-memc-age": "6719",
+        "x-memc-expires": "16913",
+        "ETag": "W\/\"f5a9f268ac943bfdce35dc4d2712bc0c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SpIMpqPR9TV_tJblqiinK-FIAyuH2C0cP72WtOegNJbjmdBQH2wNug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":858543,\"imdb_id\":\"tt1291122\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Duke Nukem\",\"overview\":\"\",\"popularity\":1.306,\"poster_path\":\"\/fKceANuQtRbYiQUYjzR7LXSuksM.jpg\",\"production_companies\":[{\"id\":158612,\"logo_path\":\"\/uuByByK2kn72I2c6MGsoa5YQlcJ.png\",\"name\":\"Gearbox Studios\",\"origin_country\":\"US\"},{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"\",\"title\":\"Duke Nukem\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

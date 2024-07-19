@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1417",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14748",
+        "x-memc": "HIT",
+        "x-memc-key": "8e3da584b31b131641fcc8b12b9addf0",
+        "x-memc-age": "13574",
+        "x-memc-expires": "14748",
+        "ETag": "W\/\"1370c30bceb01b9f8321df87e7fe20a1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y8Y6f4NEE-Nt_GOsrDgq_x-LPj9tT62gDNqf9u7GLEi53wYrU9wbYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/53Ldv31482YmjG8xzIXHhEVBkEy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1087571,\"imdb_id\":\"tt26744818\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Un amor\",\"overview\":\"Upon settling in the countryside village of La Escapa, Nat accepts a disturbing sexual proposal by neighbour Andreas, paving the way for a self-consuming passion.\",\"popularity\":5.765,\"poster_path\":\"\/34VeLVwFihUvhlqk8U7QiNlbbkU.jpg\",\"production_companies\":[{\"id\":200804,\"logo_path\":\"\/7rQ6WdOccPyIPI0pTztsxy3QikE.png\",\"name\":\"Buena Pinta Media\",\"origin_country\":\"ES\"},{\"id\":200805,\"logo_path\":null,\"name\":\"Perdici\u00f3n Films\",\"origin_country\":\"\"},{\"id\":200806,\"logo_path\":null,\"name\":\"Monte Glauco AIE\",\"origin_country\":\"\"},{\"id\":67412,\"logo_path\":\"\/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png\",\"name\":\"Movistar+\",\"origin_country\":\"ES\"},{\"id\":5085,\"logo_path\":\"\/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png\",\"name\":\"TV3\",\"origin_country\":\"ES\"},{\"id\":981,\"logo_path\":\"\/pkrdO9ykplO4Zc8edikoSX5APUN.png\",\"name\":\"TVE\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2023-11-10\",\"revenue\":0,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Un amor\",\"video\":false,\"vote_average\":6.31,\"vote_count\":21}"
+}

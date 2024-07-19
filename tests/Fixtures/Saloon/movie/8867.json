@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1693",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9607",
+        "x-memc": "HIT",
+        "x-memc-key": "1b0c105c0b1109783d3ef254adaa9a34",
+        "x-memc-age": "18226",
+        "x-memc-expires": "9607",
+        "ETag": "W\/\"800d21e7d3eb3ac56b98e5b46fd259fc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Oc7mTIVqM_g-PxEGiTcjs5dhSZ8qbvksT-watDc9aZR_c2knrq4fnQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tFmrdnfXM0p6ihMTFpptYOKEfSl.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":8867,\"imdb_id\":\"tt0098141\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Punisher\",\"overview\":\"The avenging angel of Marvel Comics fame comes brilliantly to life in this searing action-adventure thriller! Dolph Lundgren stars as Frank Castle, a veteran cop who loses his entire family to a mafia car bomb. His ex-partner believes Castle survived the blast and became the Punisher, living in the sewers and exacting vigilante violence against mob bosses throughout the city. When the populace is caught in the midst of a gang war that he caused, Castle must again emerge from the shadows and save the innocent.\",\"popularity\":55.48,\"poster_path\":\"\/tA0O0hYyHX7Hl2Fl8VEtGtfBtjI.jpg\",\"production_companies\":[{\"id\":218858,\"logo_path\":null,\"name\":\"New World Pictures\",\"origin_country\":\"AU\"},{\"id\":218859,\"logo_path\":null,\"name\":\"Robert Mark Kamen Productions\",\"origin_country\":\"US\"},{\"id\":96477,\"logo_path\":null,\"name\":\"New World\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1989-10-05\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If society won't punish the guilty, he will.\",\"title\":\"The Punisher\",\"video\":false,\"vote_average\":5.757,\"vote_count\":565}"
+}

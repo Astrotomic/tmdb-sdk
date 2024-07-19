@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1106",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10216",
+        "x-memc": "HIT",
+        "x-memc-key": "09ddabde66d94df1a5d778e8ae55a8ca",
+        "x-memc-age": "14489",
+        "x-memc-expires": "10216",
+        "ETag": "W\/\"15ef95a7dbcbde749d8c3b99ecf5995e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MhH8yzDWonJNB0kzCtSqtXOS4iSKAeSs48rIB9xRiSSSwxwaJeAASw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/euj0TiabuFzHzOFftRFY9zpm2i1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":428081,\"imdb_id\":\"tt5985052\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"High Society\",\"overview\":\"Two girls from very different social backgrounds discover, at the age of 25, that they had been switched at birth.\",\"popularity\":15.846,\"poster_path\":\"\/y1jkYgGExy1MsAEgvdnxEu0yQsR.jpg\",\"production_companies\":[{\"id\":17466,\"logo_path\":null,\"name\":\"Warner Bros. Entertainment Germany\",\"origin_country\":\"DE\"},{\"id\":67049,\"logo_path\":\"\/rMleYBpiJNDFdWt9zVXJJETIDta.png\",\"name\":\"Hellinger \/ Doll Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":190145,\"logo_path\":null,\"name\":\"Decker Bros.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2017-09-14\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Opposites attract\",\"title\":\"High Society\",\"video\":false,\"vote_average\":6.2,\"vote_count\":143}"
+}

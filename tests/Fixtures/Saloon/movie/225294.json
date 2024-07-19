@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1040",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5800",
+        "x-memc": "HIT",
+        "x-memc-key": "5f1b7036045aaf2850114e34a5e4a517",
+        "x-memc-age": "19715",
+        "x-memc-expires": "5800",
+        "ETag": "W\/\"68b804fa68047862932f49075b749558\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oHda-lg-4aUaIobAGRgXU0MUq6DX0CiIO47QBZ1g50crWOEjISaS_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":5000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":225294,\"imdb_id\":\"tt2281175\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dark Times\",\"overview\":\"It's Christmas time in Tallahassee, and the employees of the Blue Skies Nuclear Power plant are gearing up for the best holiday party ever. However, after a reactor meltdown, and total evacuation, they'll soon find out that the woods this year aren't exactly filled with Holiday Cheer.\",\"popularity\":1.377,\"poster_path\":null,\"production_companies\":[{\"id\":17109,\"logo_path\":null,\"name\":\"Tolling Bell Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-10-19\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dark Times\",\"video\":false,\"vote_average\":6.5,\"vote_count\":4}"
+}

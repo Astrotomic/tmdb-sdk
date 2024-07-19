@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1750",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:42:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22495",
+        "x-memc": "HIT",
+        "x-memc-key": "6457925b7b30965c0f971dc5b3aaeb08",
+        "x-memc-age": "5199",
+        "x-memc-expires": "22495",
+        "ETag": "W\/\"a9958e852a4bcb1e6654d08c1ac0c8ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WoWMCgVBymei6EOQjlu2gpG5FlUaa3TKAGQiO3RjM06xojwnU9lWNA=="
+    },
+    "data": "{\"id\":597174,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1454852,\"known_for_department\":\"Sound\",\"name\":\"Ana Balc\u00e1zar\",\"original_name\":\"Ana Balc\u00e1zar\",\"popularity\":0.029,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"5cbf4ab30e0a2660dcf3ecfc\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2295345,\"known_for_department\":\"Acting\",\"name\":\"Melina Paredes\",\"original_name\":\"Melina Paredes\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"5cbf4abbc3a3681458833ebf\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":2295299,\"known_for_department\":\"Writing\",\"name\":\"Jim Marcelo\",\"original_name\":\"Jim Marcelo\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"\",\"credit_id\":\"5cbf4ac5c3a368776c89ca35\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":2295298,\"known_for_department\":\"Acting\",\"name\":\"Eduardo Quispe\",\"original_name\":\"Eduardo Quispe\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":4,\"character\":\"\",\"credit_id\":\"5cbf4acc9251410671fb8de9\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":2295348,\"known_for_department\":\"Acting\",\"name\":\"Grecia Aguinaga\",\"original_name\":\"Grecia Aguinaga\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"\",\"credit_id\":\"5cbf4b28c3a3687f8f88d9a4\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2295298,\"known_for_department\":\"Acting\",\"name\":\"Eduardo Quispe\",\"original_name\":\"Eduardo Quispe\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5cbf4b44c3a36872c98b712d\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2295299,\"known_for_department\":\"Writing\",\"name\":\"Jim Marcelo\",\"original_name\":\"Jim Marcelo\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5cbf4b500e0a266b96fb33cb\",\"department\":\"Camera\",\"job\":\"Director of Photography\"}]}"
+}

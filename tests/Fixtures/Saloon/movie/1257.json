@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1412",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20041",
+        "x-memc": "HIT",
+        "x-memc-key": "621d502e5c59afe3ee0836829a848a4d",
+        "x-memc-age": "3118",
+        "x-memc-expires": "20041",
+        "ETag": "W\/\"8b9c15102c775ee2662afad9c616b351\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xuzyVspX26tmfJ7MiAK5W7Bw6nl3oWSOLS41xPS58V4jfFLGMLBwbw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rdcE4paOjDuslZeZYA8zPRD6ngc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.becauseisaidsomovie.com\/index_intro.htm\",\"id\":1257,\"imdb_id\":\"tt0490084\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Because I Said So\",\"overview\":\"In an effort to prevent family history from repeating itself, meddlesome mom Daphne Wilder attempts to set up her youngest daughter, Milly, with Mr. Right. Meanwhile, her other daughters try to keep their mom's good intentions under control.\",\"popularity\":17.802,\"poster_path\":\"\/wQtGQnr5RPnmzSfV9zUcgh8R9NX.jpg\",\"production_companies\":[{\"id\":12026,\"logo_path\":\"\/l1Y8SRH3EaElU2niZQLT3I8tOFp.png\",\"name\":\"Gold Circle Films\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-02-02\",\"revenue\":69485490,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She's just your normal, overprotective, overbearing, over-the-top mother.\",\"title\":\"Because I Said So\",\"video\":false,\"vote_average\":5.909,\"vote_count\":606}"
+}

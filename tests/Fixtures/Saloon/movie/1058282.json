@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1348",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19360",
+        "x-memc": "HIT",
+        "x-memc-key": "a595cd9b4bd4d4a2250f7fe9cba96a07",
+        "x-memc-age": "5987",
+        "x-memc-expires": "19360",
+        "ETag": "W\/\"293ee6dd2b82e58362ac1e781a8986d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KpE3zQ12jm_8WjtgNsqNoXiQRv4jJKFuJ2Pp7b0OM5tugl7xZEbcyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2ZBz6sY6k8wXmYVnXEApQYC8qYP.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.newday.com\/films\/that-which-once-was\",\"id\":1058282,\"imdb_id\":\"tt1976621\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"That Which Once Was\",\"overview\":\"In 2032 an eight-year old boy, displaced by global warming, fends for himself as an environmental refugee in a hostile northern metropolis. Haunted by memories of flooding that left him homeless and orphaned, the boy forms an unexpected friendship with an Inuk ice carver who helps him confront his past.\",\"popularity\":3.356,\"poster_path\":\"\/xPAqc6UV0itYXRSiKwVnkMbpOwb.jpg\",\"production_companies\":[{\"id\":143898,\"logo_path\":null,\"name\":\"Kimikat Productions\",\"origin_country\":\"\"},{\"id\":75306,\"logo_path\":null,\"name\":\"New Day Films\",\"origin_country\":\"\"},{\"id\":10943,\"logo_path\":\"\/9jd9RFYraPpPCz7rpqp5KhrwfAH.png\",\"name\":\"ITVS\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-04-18\",\"revenue\":0,\"runtime\":20,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"That Which Once Was\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

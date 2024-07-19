@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1529",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20710",
+        "x-memc": "HIT",
+        "x-memc-key": "cb0e73ddb51d9718ef02650f582d6473",
+        "x-memc-age": "6542",
+        "x-memc-expires": "20710",
+        "ETag": "W\/\"4d5b67cb8909cd206b7fecdb65bc1c51\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GAJr1hPLhwpVdroJCIRvFjNXGQl3GPRpFSwiOKoPzDo9cBzg7uwPkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cCvp5Sni75agCtyJkNOMapORUQV.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":111,\"imdb_id\":\"tt0086250\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Scarface\",\"overview\":\"After getting a green card in exchange for assassinating a Cuban government official, Tony Montana stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.\",\"popularity\":97.637,\"poster_path\":\"\/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":56976,\"logo_path\":null,\"name\":\"Martin Bregman Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1983-12-09\",\"revenue\":66023329,\"runtime\":169,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"He loved the American Dream. With a vengeance.\",\"title\":\"Scarface\",\"video\":false,\"vote_average\":8.17,\"vote_count\":11491}"
+}

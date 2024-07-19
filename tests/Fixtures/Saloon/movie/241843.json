@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1123",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5411",
+        "x-memc": "HIT",
+        "x-memc-key": "9f290001e0c4f5aa668e1fb05dc1dea4",
+        "x-memc-age": "21193",
+        "x-memc-expires": "5411",
+        "ETag": "W\/\"6ea7b48faed08e68d01f35b847441bcb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AYfMhk12FaRwuqHJGjuYQOcJe_ZOSnh2X7z6boNWfmjwkx8_cLaPVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ctmEbssNFywTiwekSl4LJw1s1jq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":241843,\"imdb_id\":\"tt2490326\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cooties\",\"overview\":\"A mysterious virus hits an isolated elementary school, transforming the kids into a feral swarm of mass savages. An unlikely hero must lead a motley band of teachers in the fight of their lives.\",\"popularity\":24.455,\"poster_path\":\"\/qnH3SCfb3ePz9qM8BvBtq9JLLXY.jpg\",\"production_companies\":[{\"id\":44884,\"logo_path\":null,\"name\":\"Glacier Films\",\"origin_country\":\"\"},{\"id\":34519,\"logo_path\":\"\/MGFizEilC4bv5aDeF8YfEyjDVG.png\",\"name\":\"SpectreVision\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-10-10\",\"revenue\":581011,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Please don't feed the children.\",\"title\":\"Cooties\",\"video\":false,\"vote_average\":5.9,\"vote_count\":717}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1629",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4903",
+        "x-memc": "HIT",
+        "x-memc-key": "9886336e6431d709618a13e8973d910d",
+        "x-memc-age": "20411",
+        "x-memc-expires": "4903",
+        "ETag": "W\/\"ccee049dda860813a2bd07498ef26e67\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MF4Bmr3Da9QZvGmCpDsgd9eTWuToYQrKS_v9yZqKoEjPcerRjq_xzA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hXTWVJMsI9BkxMLliqL1j0FT55t.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81478004\",\"id\":606402,\"imdb_id\":\"tt12663250\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc57c\ucc28\",\"overview\":\"Nicknamed after a human-devouring spirit, the ruthless leader of an overseas black ops team takes up a dangerous mission in a city riddled with spies.\",\"popularity\":29.767,\"poster_path\":\"\/whZ8OkI7W8cBOmtoiFyb72Ekt3U.jpg\",\"production_companies\":[{\"id\":68968,\"logo_path\":null,\"name\":\"Sang Sang Film\",\"origin_country\":\"KR\"},{\"id\":86775,\"logo_path\":null,\"name\":\"1 Production Film Company\",\"origin_country\":\"\"},{\"id\":171714,\"logo_path\":null,\"name\":\"Taipei Film Commission\",\"origin_country\":\"TW\"},{\"id\":74216,\"logo_path\":\"\/gNBRUzI4CI9cKfNDsR9KOdlkEj6.png\",\"name\":\"Busan Film Commission\",\"origin_country\":\"KR\"},{\"id\":3491,\"logo_path\":\"\/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png\",\"name\":\"Showbox\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"},{\"iso_3166_1\":\"TW\",\"name\":\"Taiwan\"}],\"release_date\":\"2022-04-08\",\"revenue\":0,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The battle of spies begins.\",\"title\":\"Yaksha: Ruthless Operations\",\"video\":false,\"vote_average\":6.463,\"vote_count\":188}"
+}

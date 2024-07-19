@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1450",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14786",
+        "x-memc": "HIT",
+        "x-memc-key": "547e9ed0d6b05b5e82c8378131cb13a2",
+        "x-memc-age": "11733",
+        "x-memc-expires": "14786",
+        "ETag": "W\/\"6324cff05cb8c467b6d92d8c7bfbf340\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o9upXpXoGzTv6RG2hXfPAYdARHKuZQ7SL7Bv_3UllN6UMyGW8oNP0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ffFiduNAjRdbwwPfhsuDv4tici0.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":9405,\"imdb_id\":\"tt0119013\",\"origin_country\":[\"US\",\"HK\"],\"original_language\":\"en\",\"original_title\":\"Double Team\",\"overview\":\"A CIA agent is interned for failing to kill an international terrorist. Escaping from his island exile, he teams up with a flamboyant arms dealer and sets out to find the terrorist and rescue the agent's family. Together they're a two-man arsenal... with enough voltage to rock the free world.\",\"popularity\":30.104,\"poster_path\":\"\/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":1236,\"logo_path\":null,\"name\":\"Mandalay Entertainment\",\"origin_country\":\"\"},{\"id\":3618,\"logo_path\":null,\"name\":\"Film Workshop\",\"origin_country\":\"\"},{\"id\":133983,\"logo_path\":null,\"name\":\"One Story Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-04-04\",\"revenue\":48138337,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They don't play by the rules.\",\"title\":\"Double Team\",\"video\":false,\"vote_average\":5.137,\"vote_count\":732}"
+}

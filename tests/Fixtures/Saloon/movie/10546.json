@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1716",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:59:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3002",
+        "x-memc": "HIT",
+        "x-memc-key": "10aaa5751d7786b29c0874a987524e9f",
+        "x-memc-age": "25778",
+        "x-memc-expires": "3002",
+        "ETag": "W\/\"8929690728eb18c2225992a2a8ffcd30\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AQ4NwyoIqev8ouRgswJYI32LuSjjhXqLGEoksjCpTP-X99osPETUBg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i5hp04Eoou5YJWsJsmL7Zsw7Yfl.jpg\",\"belongs_to_collection\":{\"id\":9436,\"name\":\"The Crow Collection\",\"poster_path\":\"\/kfU8OZptlBfR5DL9LNGL301Zmlz.jpg\",\"backdrop_path\":\"\/xxJs7xqY0vMuNlznQboBzq8RlZm.jpg\"},\"budget\":13000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.miramax.com\/movie\/crow-ii-city-of-angels\/\",\"id\":10546,\"imdb_id\":\"tt0115986\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Crow: City of Angels\",\"overview\":\"A murder victim is brought back to life by a mysterious crow. With the help of a beautiful woman named Sarah, he exacts revenge on his killers -- only to realize his enemy has discovered the one weakness that can destroy him forever.\",\"popularity\":22.25,\"poster_path\":\"\/wcWXBujfOUKYbWRnfnAUJaqxRrn.jpg\",\"production_companies\":[{\"id\":7405,\"logo_path\":\"\/rfnws0uY8rsNAsrLbx3gEIcYXx3.png\",\"name\":\"Dimension Films\",\"origin_country\":\"US\"},{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":140433,\"logo_path\":null,\"name\":\"Bad Bird Productions\",\"origin_country\":\"US\"},{\"id\":138907,\"logo_path\":\"\/3RdLG2Kx1nGI6E0UhQfQ3NqmQxJ.png\",\"name\":\"Image Comics\",\"origin_country\":\"US\"},{\"id\":4030,\"logo_path\":null,\"name\":\"Jeff Most Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-08-29\",\"revenue\":25300000,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Believe in the power of another\",\"title\":\"The Crow: City of Angels\",\"video\":false,\"vote_average\":5.6,\"vote_count\":510}"
+}

@@ -6,12 +6,13 @@ use Astrotomic\Tmdb\Collections\MovieCollection;
 use Saloon\Enums\Method;
 use Saloon\Http\Request;
 use Saloon\Http\Response;
+use Saloon\PaginationPlugin\Contracts\Paginatable;
 use Saloon\Traits\Request\CreatesDtoFromResponse;
 
 /**
  * @link https://developer.themoviedb.org/reference/search-movie
  */
-class GetSearchRequest extends Request
+class GetSearchRequest extends Request implements Paginatable
 {
     use CreatesDtoFromResponse;
 

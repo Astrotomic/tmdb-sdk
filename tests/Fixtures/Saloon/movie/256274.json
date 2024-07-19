@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1310",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7605",
+        "x-memc": "HIT",
+        "x-memc-key": "3fa004a0ab3983aaadfb68d0d0fd4f50",
+        "x-memc-age": "15529",
+        "x-memc-expires": "7605",
+        "ETag": "W\/\"b2c9c0dafec1661513893beda929264c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lIh2LIEEbNTrAH5g288pPIdvP0baxDg515ddNTw9jBd4uKWyqJ1m0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.asabovesobelowmovie.com\/\",\"id\":256274,\"imdb_id\":\"tt2870612\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"As Above, So Below\",\"overview\":\"When a team of explorers ventures into the uncharted maze of bones that lies beneath the streets of Paris, they embark on a journey into madness and terror.\",\"popularity\":63.755,\"poster_path\":\"\/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg\",\"production_companies\":[{\"id\":66930,\"logo_path\":null,\"name\":\"Brothers Dowdle Productions\",\"origin_country\":\"\"},{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-08-14\",\"revenue\":41900000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The only way out is down.\",\"title\":\"As Above, So Below\",\"video\":false,\"vote_average\":6.696,\"vote_count\":3337}"
+}

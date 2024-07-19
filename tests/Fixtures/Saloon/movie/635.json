@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1462",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4784",
+        "x-memc": "HIT",
+        "x-memc-key": "8a2891cb27262862e4dea75dc646fd20",
+        "x-memc-age": "17260",
+        "x-memc-expires": "4784",
+        "ETag": "W\/\"2d3617e200077db6ac146240bb062e32\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JDkMElFIjAWtWnrBihjiDoMi9WQP_zM9vmczGZakN4aOqrrM8U6DqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yc0jYCnnlh8qC39P5mXj5G67VWJ.jpg\",\"belongs_to_collection\":null,\"budget\":17000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"http:\/\/alanparker.com\/film\/angel-heart\/\",\"id\":635,\"imdb_id\":\"tt0092563\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Angel Heart\",\"overview\":\"A down-and-out Brooklyn detective is hired to track down a singer on an odyssey that will take him through the desperate streets of Harlem, the smoke-filled jazz clubs of New Orleans, and the swamps of Louisiana and its seedy underworld of voodoo.\",\"popularity\":30.127,\"poster_path\":\"\/h5v3wjJQNB7q2RntEnKDLhKtTFE.jpg\",\"production_companies\":[{\"id\":13721,\"logo_path\":null,\"name\":\"Winkast Film Productions\",\"origin_country\":\"GB\"},{\"id\":24905,\"logo_path\":null,\"name\":\"Union\",\"origin_country\":\"\"},{\"id\":275,\"logo_path\":\"\/2MxNWlN5b3UXt1OfmznsWEQzFwq.png\",\"name\":\"Carolco Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-03-06\",\"revenue\":17185954,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"It will scare you to your very soul.\",\"title\":\"Angel Heart\",\"video\":false,\"vote_average\":7.14,\"vote_count\":1473}"
+}

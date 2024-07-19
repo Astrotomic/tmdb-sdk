@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "883",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17649",
+        "x-memc": "HIT",
+        "x-memc-key": "a2f9857f7443186cc119bbd972074168",
+        "x-memc-age": "5828",
+        "x-memc-expires": "17649",
+        "ETag": "W\/\"0b572567644b3f01aba16f2d3efe4343\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "njEtx9TkVW3vK160ksVp55gZk8oo14QmlHeK-ZtPqIOXNPbLtGgWWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nbTAwW8y4VWeymD80vF2cBSAJGw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":996503,\"imdb_id\":\"tt18076250\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Snake Hotel\",\"overview\":\"A group of female inmates wanting to shorten their prison sentences take part in a hellish game of cat and mouse with a giant mutated snake.\",\"popularity\":6.871,\"poster_path\":\"\/2VFzkPOygrZ2dFgMJuoFYE6Eocv.jpg\",\"production_companies\":[{\"id\":155744,\"logo_path\":\"\/qwVw2UPwBOQZkhOb3LyHgID5xKQ.png\",\"name\":\"Jagged Edge Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2023-09-21\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Snake Hotel\",\"video\":false,\"vote_average\":5.5,\"vote_count\":24}"
+}

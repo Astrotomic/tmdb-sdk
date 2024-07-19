@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "951",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18525",
+        "x-memc": "HIT",
+        "x-memc-key": "7b3cdbe44a7e82a5a1aa086bbd0afedb",
+        "x-memc-age": "7927",
+        "x-memc-expires": "18525",
+        "ETag": "W\/\"b063c0e39d761f5808a1f120d9528cb0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GoKgjfb_eQCd_YLrAm08oXWR-ngZDmQHzkaEgATZWlXPGZ9trdpUaQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395742,\"imdb_id\":\"tt1754255\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Nach den Jahren\",\"overview\":\"They used to spend every summer here, but now the daughters have grown up, the parents are divorced and the wooden cabin at the lake has to be cleared out. Those four, once a family, come together again for a whole weekend - and the feelings and memories of the past are closer than they thought.\",\"popularity\":4.164,\"poster_path\":\"\/z3KmULjbm0P49216x25Am2zD4ol.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2010-10-27\",\"revenue\":0,\"runtime\":22,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"After the Years\",\"video\":false,\"vote_average\":1.0,\"vote_count\":1}"
+}

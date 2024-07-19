@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "964",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5429",
+        "x-memc": "HIT",
+        "x-memc-key": "007364f6c3a717bd2893d73aac736cda",
+        "x-memc-age": "21480",
+        "x-memc-expires": "5429",
+        "ETag": "W\/\"1e04a2a9929c343c433b7648c6d596e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MnlXDHmDVcFzrELz7N5Kj_GeCOWY6t2oHYTHLlYRpFXPb1FlBAxhbQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1212470,\"imdb_id\":\"tt3657408\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The General: Tour of Filming Locations\",\"overview\":\"In this visual essay John Bengtson, author of Silent Echoes: Discovering Early Hollywood Through the Films of Buster Keaton, pinpoints the locations used in the filming of The General and offers glimpses of how they look today.\",\"popularity\":2.545,\"poster_path\":null,\"production_companies\":[{\"id\":39134,\"logo_path\":\"\/sijjN3vMtjCnc1LkCM7HSBErcO3.png\",\"name\":\"Kino Lorber\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-11-10\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The General: Tour of Filming Locations\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

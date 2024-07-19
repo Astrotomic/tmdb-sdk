@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "798",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=849",
+        "x-memc": "HIT",
+        "x-memc-key": "594b70efe2343129f527ea7c4a57cc06",
+        "x-memc-age": "21751",
+        "x-memc-expires": "849",
+        "ETag": "W\/\"d10774239aa953064519e7d0c0e2f3de\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Zrrf-EzaPnwXlJp0hnXMy6FAeWtRv3K5FYIFm_MwEuUDBB1vfvP8Hw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":705473,\"imdb_id\":\"tt0400782\",\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Rud\u00e1 z\u00e1\u0159e nad Kladnem\",\"overview\":\"\",\"popularity\":4.077,\"poster_path\":\"\/e64WxkZue9h3r0ZknhJaM7DMyWr.jpg\",\"production_companies\":[{\"id\":12509,\"logo_path\":null,\"name\":\"Studio um\u011bleck\u00e9ho filmu Praha\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1956-02-24\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Rud\u00e1 z\u00e1\u0159e nad Kladnem\",\"video\":false,\"vote_average\":3.0,\"vote_count\":2}"
+}

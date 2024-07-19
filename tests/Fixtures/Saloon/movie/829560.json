@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1433",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7023",
+        "x-memc": "HIT",
+        "x-memc-key": "f5a3542ee59db372922dcc1326f44fb5",
+        "x-memc-age": "15094",
+        "x-memc-expires": "7023",
+        "ETag": "W\/\"6614638a119e7168fa28f9af7ab5b6e6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NWE3O2egwN7Y3J3zMJVP-R-dZTeicys4CJoVohN_dbDTFkp44c7VtA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/luN8SoFuDxxXitmFItkL435BSzk.jpg\",\"belongs_to_collection\":{\"id\":829561,\"name\":\"365 Days Collection\",\"poster_path\":\"\/AkYEOw8PSpUxx9w5a6WL60QKSYF.jpg\",\"backdrop_path\":\"\/yxnx4pBJgUqrmygFmAKwnL4EVI7.jpg\"},\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81397579\",\"id\":829560,\"imdb_id\":\"tt21106646\",\"origin_country\":[\"PL\"],\"original_language\":\"pl\",\"original_title\":\"Kolejne 365 dni\",\"overview\":\"Laura and Massimo's relationship hangs in the balance as they try to overcome trust issues while a tenacious Nacho works to push them apart.\",\"popularity\":120.785,\"poster_path\":\"\/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg\",\"production_companies\":[{\"id\":113069,\"logo_path\":\"\/xdOWWeuVPyy1rUZW7DWJUz16vuF.png\",\"name\":\"Ekipa\",\"origin_country\":\"PL\"},{\"id\":135466,\"logo_path\":null,\"name\":\"Future Space\",\"origin_country\":\"PL\"},{\"id\":5622,\"logo_path\":\"\/bKcpepYRLylECRb5LVkskW0TQIX.png\",\"name\":\"TVN Group\",\"origin_country\":\"PL\"}],\"production_countries\":[{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"2022-08-19\",\"revenue\":0,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Next 365 Days\",\"video\":false,\"vote_average\":6.4,\"vote_count\":1028}"
+}

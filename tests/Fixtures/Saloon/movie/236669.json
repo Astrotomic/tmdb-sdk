@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "771",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21327",
+        "x-memc": "HIT",
+        "x-memc-key": "4ce891e8e9c02607fa407ad4ed573052",
+        "x-memc-age": "5419",
+        "x-memc-expires": "21327",
+        "ETag": "W\/\"16b157b446e95a43c3c5622c1550aa33\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s1Bmp_ThOeSpXtYR3I8VTHmwyJ0vlpq3jGqIyNsLSwX06lfdLahMsg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4XR8wIcVpwwK6gBfFXyyXUWWUqX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":236669,\"imdb_id\":\"tt0151306\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Last Roundup\",\"overview\":\"Private Gandy Goose and Sergeant Sourpuss go in hot pursuit of Adolf Hitler and Benito Mussolini, depicted respectively as a hog and an oversized monkey.\",\"popularity\":2.246,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-03-14\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Last Roundup\",\"video\":false,\"vote_average\":8.0,\"vote_count\":1}"
+}

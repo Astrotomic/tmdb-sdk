@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1025",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8704",
+        "x-memc": "HIT",
+        "x-memc-key": "a8d202b0642ed24dd877804953ba26d0",
+        "x-memc-age": "14366",
+        "x-memc-expires": "8704",
+        "ETag": "W\/\"fdf93cbb7b2fa79c2b085083534bc9c3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "De4sca2CPE7TQnODIvj6_j8y-bLTHcRA2CdWNztYDO7rjOYf2xXRSg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1212601,\"imdb_id\":\"tt3657448\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Silent Echoes: Seven Chances\",\"overview\":\"In this visual essay John Bengtson, author of Silent Echoes: Discovering Early Hollywood Through the Films of Buster Keaton, provides a tour of where Seven Chances was filmed, comparing archival images with contemporary photos, and sharing stories of Mrs. Eleanor Keaton's visit to the Seven Chances church.\",\"popularity\":0.491,\"poster_path\":null,\"production_companies\":[{\"id\":39134,\"logo_path\":\"\/sijjN3vMtjCnc1LkCM7HSBErcO3.png\",\"name\":\"Kino Lorber\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-12-13\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Silent Echoes: Seven Chances\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

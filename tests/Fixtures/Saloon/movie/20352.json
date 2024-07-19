@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1423",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13145",
+        "x-memc": "HIT",
+        "x-memc-key": "bbba76383ae83b60dd4ce3f7b8d1d204",
+        "x-memc-age": "11565",
+        "x-memc-expires": "13145",
+        "ETag": "W\/\"5337917172e29a74451ec2682b538e02\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cp5oIjxz-6fmGXzoRewM7411MoRvHW5nu2fc5vrO4x8f6UlO-Hmq1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2XSeKDmIa2KxaiJy4J9e8FrIZhk.jpg\",\"belongs_to_collection\":{\"id\":86066,\"name\":\"Despicable Me Collection\",\"poster_path\":\"\/95prV91f4DxkBnLU43YjLbU1m3q.jpg\",\"backdrop_path\":\"\/37xamYKRUGCRux532lKcZdVGYuR.jpg\"},\"budget\":69000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.despicable.me\/\",\"id\":20352,\"imdb_id\":\"tt1323594\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Despicable Me\",\"overview\":\"Villainous Gru lives up to his reputation as a despicable, deplorable and downright unlikable guy when he hatches a plan to steal the moon from the sky. But he has a tough time staying on task after three orphans land in his care.\",\"popularity\":217.489,\"poster_path\":\"\/9lOloREsAhBu0pEtU0BgeR1rHyo.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-07-08\",\"revenue\":543284256,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some call him bad. They call him dad.\",\"title\":\"Despicable Me\",\"video\":false,\"vote_average\":7.242,\"vote_count\":14756}"
+}

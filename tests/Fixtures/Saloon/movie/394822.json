@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1208",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8894",
+        "x-memc": "HIT",
+        "x-memc-key": "a4460294f1ff955c15c054a069d91138",
+        "x-memc-age": "14918",
+        "x-memc-expires": "8894",
+        "ETag": "W\/\"472c38c7c1b894c249476246faf1def0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gM0GXVZRKhavahkSWdwdVhZaYXrXmrKevYhvDzLShPPmDuy6HyXY_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qmbLv7gyaGNWXJBYK8CxB7z1BXg.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":394822,\"imdb_id\":\"tt1724597\",\"origin_country\":[\"DE\",\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"London Town\",\"overview\":\"A 14-year old boy\u2019s life changes forever when his estranged mother introduces him to the music of The Clash in 1979 London.\",\"popularity\":10.543,\"poster_path\":\"\/Aa6EPK58oGbbyE2WBt4mUdxt4ZS.jpg\",\"production_companies\":[{\"id\":1422,\"logo_path\":\"\/rIB6DuimR1qgLE14cBwpMABC2xx.png\",\"name\":\"Killer Films\",\"origin_country\":\"US\"},{\"id\":86523,\"logo_path\":null,\"name\":\"Culmination Productions\",\"origin_country\":\"US\"},{\"id\":94402,\"logo_path\":null,\"name\":\"Dutch Tilt Film\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-08-03\",\"revenue\":1126,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"London Town\",\"video\":false,\"vote_average\":6.1,\"vote_count\":31}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1762",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19650",
+        "x-memc": "HIT",
+        "x-memc-key": "4cf4eef843073db2ddf2fa0cb01b48f6",
+        "x-memc-age": "2956",
+        "x-memc-expires": "19650",
+        "ETag": "W\/\"b1484b448e4eba288ba8852e5f5eb916\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lkqHc7u0a_94GVOwLRZE3y9liig0l7hIaEZWXGbaEWtwd5h-2iTZJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gum3tuO1zKHBdElSQPS08PJ1w67.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":783,\"imdb_id\":\"tt0083987\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Gandhi\",\"overview\":\"In the early years of the 20th century, Mohandas K. Gandhi, a British-trained lawyer, forsakes all worldly possessions to take up the cause of Indian independence. Faced with armed resistance from the British government, Gandhi adopts a policy of 'passive resistance', endeavouring to win freedom for his people without resorting to bloodshed.\",\"popularity\":22.09,\"poster_path\":\"\/rOXftt7SluxskrFrvU7qFJa5zeN.jpg\",\"production_companies\":[{\"id\":500,\"logo_path\":\"\/yDDFvMZAEbLGAm90LxzmayEfvE5.png\",\"name\":\"Goldcrest\",\"origin_country\":\"GB\"},{\"id\":501,\"logo_path\":null,\"name\":\"Indo-British\",\"origin_country\":\"\"},{\"id\":502,\"logo_path\":null,\"name\":\"International Film Investors\",\"origin_country\":\"US\"},{\"id\":32413,\"logo_path\":\"\/jXHqu6xyG8l5mKwK66u5ahzYdfD.png\",\"name\":\"National Film Development Corporation of India\",\"origin_country\":\"IN\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1982-12-01\",\"revenue\":77737889,\"runtime\":191,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"His triumph changed the world forever.\",\"title\":\"Gandhi\",\"video\":false,\"vote_average\":7.558,\"vote_count\":2234}"
+}

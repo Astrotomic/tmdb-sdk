@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1153",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9354",
+        "x-memc": "HIT",
+        "x-memc-key": "0b4ed34b0ea7febae3f399d152188a95",
+        "x-memc-age": "17609",
+        "x-memc-expires": "9354",
+        "ETag": "W\/\"838c4ad3b16b37731948b228d33784aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sX1b53Ok-SN9mr7YtLIC9CH5BzKDvQgnIviQylIOo-EHewDfger9GQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ljYxHqrXTubIHPKyqmnMuFFQqgX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":24923,\"imdb_id\":\"tt0071396\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Messiah of Evil\",\"overview\":\"A young woman searching for her missing artist father finds herself in the strange seaside town of Point Dume, which seems to be under the influence of a mysterious undead cult.\",\"popularity\":14.879,\"poster_path\":\"\/ysmkuMncUUvMW1QpcNn7yjl2wN1.jpg\",\"production_companies\":[{\"id\":24379,\"logo_path\":null,\"name\":\"International Cine Film Corp.\",\"origin_country\":\"\"},{\"id\":24380,\"logo_path\":null,\"name\":\"V\/M Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1973-05-02\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Terror you won't want to remember\u2014in a film you won\u2019t be able to forget.\",\"title\":\"Messiah of Evil\",\"video\":false,\"vote_average\":6.172,\"vote_count\":125}"
+}

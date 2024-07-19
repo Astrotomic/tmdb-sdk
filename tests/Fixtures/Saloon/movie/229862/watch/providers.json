@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "232",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:02:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19091",
+        "x-memc": "HIT",
+        "x-memc-key": "1a240ebdbcbe1ef2996f4c238a84effc",
+        "x-memc-age": "4053",
+        "x-memc-expires": "19091",
+        "ETag": "W\/\"6bf74a9ef46333eec1a5de506f0be1b7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tJ6X1EphACWiXzqKb0Tj1kvBO9ER8KepQt45uvbCHtqI7RqpbrRQYw=="
+    },
+    "data": "{\"id\":229862,\"results\":{\"TZ\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/229862-ang-panday\/watch?locale=TZ\",\"ads\":[{\"logo_path\":\"\/nHxedyutqerk1yWBsc17mF8gteZ.jpg\",\"provider_id\":511,\"provider_name\":\"iWantTFC\",\"display_priority\":24}]}}}"
+}

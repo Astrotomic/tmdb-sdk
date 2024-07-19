@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1236",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10198",
+        "x-memc": "HIT",
+        "x-memc-key": "023a9ee238de5a4cfe613a0ab9e1abb3",
+        "x-memc-age": "13992",
+        "x-memc-expires": "10198",
+        "ETag": "W\/\"eade62b326e917d5123472af1e941985\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yiFCZlAheqvSfeAcTX4Rmv-RjM5ru2Y3fOXfGzVIA-ZGUoY-BszT0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o8sHDEdPa9oxkGlHkXATXzNoniR.jpg\",\"belongs_to_collection\":{\"id\":101471,\"name\":\"Return of the Living Dead Collection\",\"poster_path\":\"\/7ekXvck6C94gKbfH6WlKK2qqdVL.jpg\",\"backdrop_path\":\"\/jy3Jib8MOEWQIel5QkzVydH04a9.jpg\"},\"budget\":6000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":24929,\"imdb_id\":\"tt0095990\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Return of the Living Dead Part II\",\"overview\":\"A group of kids discover one of the drums containing a rotting corpse and release the 2-4-5 Trioxin gas into the air, causing the dead to once again rise from the grave and seek out brains.\",\"popularity\":21.977,\"poster_path\":\"\/d0b17gVu7z7LFhXNuR9RsgMKo9N.jpg\",\"production_companies\":[{\"id\":68860,\"logo_path\":null,\"name\":\"Greenfox\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-01-15\",\"revenue\":9200000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Just when you thought it was safe to be dead.\",\"title\":\"Return of the Living Dead Part II\",\"video\":false,\"vote_average\":6.2,\"vote_count\":575}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3570",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25785",
+        "x-memc": "HIT",
+        "x-memc-key": "7cf287c4add37f0d7c8555013a0fe4dc",
+        "x-memc-age": "1848",
+        "x-memc-expires": "25785",
+        "ETag": "W\/\"3a6f042fbe793484a9d660de6936d037\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AjIG-IC43Q5p9w_O6VU81aDScEGFrZvn4DhqYHlkXwaGiYLUXxY-GA=="
+    },
+    "data": "{\"id\":391455,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":4068,\"known_for_department\":\"Acting\",\"name\":\"Gary Cooper\",\"original_name\":\"Gary Cooper\",\"popularity\":78.13,\"profile_path\":\"\/9qVldt5g8g3lQBu81nd05Hg2MNP.jpg\",\"cast_id\":4,\"character\":\"Roy Glenister\",\"credit_id\":\"5703bf7092514162660012bf\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":19021,\"known_for_department\":\"Acting\",\"name\":\"Kay Johnson\",\"original_name\":\"Kay Johnson\",\"popularity\":7.259,\"profile_path\":\"\/qwSqdoA8QYtQSEbryYHVr1Pd2Nx.jpg\",\"cast_id\":5,\"character\":\"Helen Chester\",\"credit_id\":\"5703bf7c9251416251001496\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":13556,\"known_for_department\":\"Acting\",\"name\":\"Betty Compson\",\"original_name\":\"Betty Compson\",\"popularity\":6.696,\"profile_path\":\"\/3t9XDvBRSMKR6Eg9jLzFjIPqWKh.jpg\",\"cast_id\":6,\"character\":\"Cherry Malotte\",\"credit_id\":\"5703bf8992514173880011a3\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":104017,\"known_for_department\":\"Acting\",\"name\":\"William 'Stage' Boyd\",\"original_name\":\"William 'Stage' Boyd\",\"popularity\":2.612,\"profile_path\":\"\/zS3F4RNqZAsVUm1VsTEq5fA4uf7.jpg\",\"cast_id\":7,\"character\":\"Alec McNamara\",\"credit_id\":\"5703bf95c3a36822cc0013e9\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":112363,\"known_for_department\":\"Acting\",\"name\":\"Harry Green\",\"original_name\":\"Harry Green\",\"popularity\":2.757,\"profile_path\":\"\/1tO4hqEg81n43bJT9riGLPbmicF.jpg\",\"cast_id\":8,\"character\":\"Herman\",\"credit_id\":\"5703bfa292514173880011a9\",\"order\":4},{\"adult\":false,\"gender\":2,\"id\":2016,\"known_for_department\":\"Acting\",\"name\":\"Slim Summerville\",\"original_name\":\"Slim Summerville\",\"popularity\":11.631,\"profile_path\":\"\/940E4Wlj0XNUgwa1JtR2zRnZuNz.jpg\",\"cast_id\":9,\"character\":\"Slapjack Simms\",\"credit_id\":\"5703bfacc3a36822b20013db\",\"order\":5}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":94298,\"known_for_department\":\"Writing\",\"name\":\"Bartlett Cormack\",\"original_name\":\"Bartlett Cormack\",\"popularity\":3.137,\"profile_path\":null,\"credit_id\":\"5703bf57c3a36822b40013a0\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":1,\"id\":1050220,\"known_for_department\":\"Writing\",\"name\":\"Agnes Brand Leahy\",\"original_name\":\"Agnes Brand Leahy\",\"popularity\":2.033,\"profile_path\":null,\"credit_id\":\"5703bf6292514162540013a3\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":524146,\"known_for_department\":\"Writing\",\"name\":\"Rex Beach\",\"original_name\":\"Rex Beach\",\"popularity\":4.248,\"profile_path\":null,\"credit_id\":\"5703bf45c3a36822bd001729\",\"department\":\"Writing\",\"job\":\"Novel\"},{\"adult\":false,\"gender\":2,\"id\":1083502,\"known_for_department\":\"Directing\",\"name\":\"Edwin Carewe\",\"original_name\":\"Edwin Carewe\",\"popularity\":4.953,\"profile_path\":\"\/8FX0ejZ4s9ZxHq2QelghNpCm2lt.jpg\",\"credit_id\":\"5703bf3bc3a36822bb0013e0\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1265586,\"known_for_department\":\"Camera\",\"name\":\"Harry Fischbeck\",\"original_name\":\"Harry Fischbeck\",\"popularity\":0.648,\"profile_path\":null,\"credit_id\":\"58f44d0d9251413da701c4c9\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":2,\"id\":2333347,\"known_for_department\":\"Camera\",\"name\":\"George Bourne\",\"original_name\":\"George Bourne\",\"popularity\":0.057,\"profile_path\":null,\"credit_id\":\"5cfd37cc0e0a26168ecdc0ce\",\"department\":\"Camera\",\"job\":\"Assistant Camera\"},{\"adult\":false,\"gender\":2,\"id\":7689,\"known_for_department\":\"Costume \\u0026 Make-Up\",\"name\":\"Wally Westmore\",\"original_name\":\"Wally Westmore\",\"popularity\":8.802,\"profile_path\":\"\/udXfZgyri6PGGZoj5flmjbF6nHm.jpg\",\"credit_id\":\"5d16f23e5b4fed001e468a5a\",\"department\":\"Costume \\u0026 Make-Up\",\"job\":\"Makeup Artist\"}]}"
+}

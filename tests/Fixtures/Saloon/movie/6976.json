@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1066",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8447",
+        "x-memc": "HIT",
+        "x-memc-key": "3296aff6a15f26168cd6dc6e8d3a4eb4",
+        "x-memc-age": "15902",
+        "x-memc-expires": "8447",
+        "ETag": "W\/\"01e4810f17cf1d3265a507a0fd5cfc77\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LZyUM5yrtrgV_aS6cQ0BMXwmDoR-b5Dk2rXVI1lP-0hPF1PNvIvAAw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wRSYoaiUfb3qiLm7PRCLIJ7aduj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":6976,\"imdb_id\":\"tt0067983\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Whoever Slew Auntie Roo?\",\"overview\":\"A demented widow lures unsuspecting children into her mansion in a bizarre \\\"Hansel and Gretel\\\" twist.\",\"popularity\":7.662,\"poster_path\":\"\/p0aHTsFDXdysFouvKlkCXHhyIZU.jpg\",\"production_companies\":[{\"id\":16593,\"logo_path\":null,\"name\":\"Hemdale\",\"origin_country\":\"US\"},{\"id\":9266,\"logo_path\":\"\/lRinQ7scVye5N8qkUIoCB4QXbRh.png\",\"name\":\"American International Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1972-02-11\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She's Taking a STAB at Motherhood!\",\"title\":\"Whoever Slew Auntie Roo?\",\"video\":false,\"vote_average\":6.3,\"vote_count\":66}"
+}

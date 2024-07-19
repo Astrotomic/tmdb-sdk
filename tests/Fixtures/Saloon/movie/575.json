@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1558",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8083",
+        "x-memc": "HIT",
+        "x-memc-key": "0fe0ad9fe73ba692326c647b41341441",
+        "x-memc-age": "20503",
+        "x-memc-expires": "8083",
+        "ETag": "W\/\"93429c27d049671428bfa341b5867379\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h_rNKXCESA4gcjBqRzgwDbi9aRLTz7Myy22BTRhGNDNnoiDpkFtOYw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6LrSj1vsYALVLTf2RCCfJFWimM7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.dasexperiment.de\/intro\/\",\"id\":575,\"imdb_id\":\"tt0250258\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das Experiment\",\"overview\":\"Das Experiment is a shocking psycho thriller about the potential for brutality that humans hide. Even more shocking is the fact that it\u2019s based on an actual occurrence \u2014 a 1971 psychological experiment at Stanford University that was aborted prematurely when the experimenters lost control.\",\"popularity\":31.769,\"poster_path\":\"\/o6Yq5XcFfsmG5IVEy4qdJ8levmj.jpg\",\"production_companies\":[{\"id\":1107,\"logo_path\":null,\"name\":\"Seven Pictures\",\"origin_country\":\"DE\"},{\"id\":52109,\"logo_path\":null,\"name\":\"Typhoon\",\"origin_country\":\"\"},{\"id\":330,\"logo_path\":\"\/eexIacUyasFIvRc0hODnDTsDoSu.png\",\"name\":\"Fanes Film\",\"origin_country\":\"DE\"},{\"id\":191,\"logo_path\":\"\/d5tPJd8jGLtJC5cp9NG0HeoTyoe.png\",\"name\":\"Senator Film\",\"origin_country\":\"DE\"},{\"id\":830,\"logo_path\":null,\"name\":\"Senator International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-03-07\",\"revenue\":13782896,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"You are invited to participate\",\"title\":\"The Experiment\",\"video\":false,\"vote_average\":7.394,\"vote_count\":1049}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1640",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18938",
+        "x-memc": "HIT",
+        "x-memc-key": "eead75b0485b382701608acb6330db7a",
+        "x-memc-age": "8713",
+        "x-memc-expires": "18938",
+        "ETag": "W\/\"2d313b60797e5011e7b0c351517a97d9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TTqfEyFYXayJClhnVmawhYAcFRKnLMMfUAmymZ3ZJejlE7p1EOPR9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hhCp6ZLDjS5wUHkGg7k3VGvH3Xm.jpg\",\"belongs_to_collection\":{\"id\":387219,\"name\":\"The Hustler Collection\",\"poster_path\":\"\/8kBQvshMpK76aET1hLfAxnDle5W.jpg\",\"backdrop_path\":\"\/3Mi3mckWv3xKNq2tlwlrixQexkv.jpg\"},\"budget\":13800000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11873,\"imdb_id\":\"tt0090863\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Color of Money\",\"overview\":\"Former pool hustler \\\"Fast Eddie\\\" Felson decides he wants to return to the game by taking a pupil. He meets talented but green Vincent Lauria and proposes a partnership. As they tour pool halls, Eddie teaches Vincent the tricks of scamming, but he eventually grows frustrated with Vincent's showboat antics, leading to an argument and a falling-out. Eddie takes up playing again and soon crosses paths with Vincent as an opponent.\",\"popularity\":22.122,\"poster_path\":\"\/dVdnHmdQu3JtLAAksjTmTEF76gD.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":10531,\"logo_path\":null,\"name\":\"Silver Screen Partners II\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-10-17\",\"revenue\":52293982,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The Hustler isn't what he used to be. But he has the next best thing. A kid who is.\",\"title\":\"The Color of Money\",\"video\":false,\"vote_average\":6.859,\"vote_count\":1306}"
+}

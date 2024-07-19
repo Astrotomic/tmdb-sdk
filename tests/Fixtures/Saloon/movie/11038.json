@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1416",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9497",
+        "x-memc": "HIT",
+        "x-memc-key": "2d4aa029bf25dd9e9884e8d7ad85faf9",
+        "x-memc-age": "12759",
+        "x-memc-expires": "9497",
+        "ETag": "W\/\"24a5c6decde034c41f20a4da0791c7ba\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Oc9Rf7yZSzkMgvFfgGemU1aEiEAZA9jk967BEWyRLsDyUcJaRwy7sA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gzA2s08vclqcnmXQ9lwakEUoGfx.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":11038,\"imdb_id\":\"tt0092105\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tough Guys\",\"overview\":\"Harry Doyle and Archie Lang are two old-time train robbers, who held up a train in 1956 and have been incarcerated for thirty years. After serving their time, they are released from jail and have to adjust to a new life of freedom. and soon realize that they still have the pizzazz when, picking up their prison checks at a bank, they foil a robbery attempt.\",\"popularity\":13.409,\"poster_path\":\"\/eDp0MPUSCeXrIziaZC65iUHISLs.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":10531,\"logo_path\":null,\"name\":\"Silver Screen Partners II\",\"origin_country\":\"\"},{\"id\":611,\"logo_path\":null,\"name\":\"Bryna Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-10-03\",\"revenue\":21458229,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're Out To Teach A New World Some Old Tricks.\",\"title\":\"Tough Guys\",\"video\":false,\"vote_average\":5.915,\"vote_count\":130}"
+}

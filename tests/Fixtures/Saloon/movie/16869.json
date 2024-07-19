@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2001",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26687",
+        "x-memc": "HIT",
+        "x-memc-key": "430ab38e22227664023c3738405b2f5d",
+        "x-memc-age": "1804",
+        "x-memc-expires": "26687",
+        "ETag": "W\/\"a9b1b009e7c186eae9b2b06435d6f0c8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uI7xEPuHRKg0-yi8kGKJjnc0sJt2c7_yzOAAw_BWu-iimtl9tiATkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1Jpkm9qZcsT0mSyVXgs4VlGjPNI.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":16869,\"imdb_id\":\"tt0361748\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Inglourious Basterds\",\"overview\":\"In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \\\"The Basterds\\\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.\",\"popularity\":100.487,\"poster_path\":\"\/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg\",\"production_companies\":[{\"id\":308,\"logo_path\":\"\/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png\",\"name\":\"The Weinstein Company\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":59,\"logo_path\":\"\/yH7OMeSxhfP0AVM6iT0rsF3F4ZC.png\",\"name\":\"A Band Apart\",\"origin_country\":\"US\"},{\"id\":6817,\"logo_path\":null,\"name\":\"Zehnte Babelsberg Film\",\"origin_country\":\"DE\"},{\"id\":6818,\"logo_path\":null,\"name\":\"Visiona Romantica\",\"origin_country\":\"US\"},{\"id\":682,\"logo_path\":null,\"name\":\"Peninsula Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-08-02\",\"revenue\":321457747,\"runtime\":153,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"A basterd's work is never done.\",\"title\":\"Inglourious Basterds\",\"video\":false,\"vote_average\":8.219,\"vote_count\":21826}"
+}

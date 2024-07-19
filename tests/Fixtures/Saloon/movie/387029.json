@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1270",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4242",
+        "x-memc": "HIT",
+        "x-memc-key": "b14b5381fe1a637c294d182654faf7fa",
+        "x-memc-age": "19635",
+        "x-memc-expires": "4242",
+        "ETag": "W\/\"9edfd1b8237ca8ca0a2ded14ab219a34\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IVTkmKHLryt7H-TdljIWkMPajl7aclVVx_iPqDgpI5eHz0eba5y-LQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tttBGAjiocbxrAjUF5V4PBnA34z.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":387029,\"imdb_id\":\"tt0181294\",\"origin_country\":[\"GR\"],\"original_language\":\"el\",\"original_title\":\"\u039f \u0386\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2 \u03c0\u03bf\u03c5 \u0393\u03cd\u03c1\u03b9\u03c3\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7 \u0396\u03ad\u03c3\u03c4\u03b7\",\"overview\":\"Loukas has been living in Africa for many many years, working hard to send money to his family who has stayed in Greece. When the time has come to return home, he decides to surprise his family and arrives to Greece without telling them that he's coming. Loukas is anxious to see his wife and his grown-up children after so long, but they may not share the same feeling.\",\"popularity\":5.593,\"poster_path\":\"\/df3yYz5d3oXZT7RB63O6YR2pMdT.jpg\",\"production_companies\":[{\"id\":22155,\"logo_path\":\"\/qLSar0cnYCEvazUsnP9UkBsY0GJ.png\",\"name\":\"Karagiannis-Karatzopoulos\",\"origin_country\":\"GR\"}],\"production_countries\":[{\"iso_3166_1\":\"GR\",\"name\":\"Greece\"}],\"release_date\":\"1972-01-01\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Man Who Returned from the Heat\",\"video\":false,\"vote_average\":5.4,\"vote_count\":8}"
+}

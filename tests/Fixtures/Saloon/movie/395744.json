@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "669",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13631",
+        "x-memc": "HIT",
+        "x-memc-key": "302ba85294887188979ed32d035176fb",
+        "x-memc-age": "8303",
+        "x-memc-expires": "13631",
+        "ETag": "W\/\"ae0b49376bd9c55f5fce3eabcf2d4230\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cfl0Bg44qZMD_WZmErnJEEsAJn9NsnICFTDnAv5XBThFhTm_LdTpfQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":395744,\"imdb_id\":\"tt4720320\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Death Loves Life\",\"overview\":\"An adolescent Death is enamored by Life's innocence and vivacity, but his attempts to befriend her backfire.\",\"popularity\":0.508,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2015-08-20\",\"revenue\":0,\"runtime\":5,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Death Loves Life\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1705",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18448",
+        "x-memc": "HIT",
+        "x-memc-key": "f0a5532494018a70106509a69711c166",
+        "x-memc-age": "5928",
+        "x-memc-expires": "18448",
+        "ETag": "W\/\"d557e57f880e4444ad12f80d8bdba027\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rfGSDJfX3Xa41wy3mzU9J4VkbLY2B2w_LP_frCHlxIH31dhB-atHSw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cWczNud8Y8i8ab0Z4bxos4myWYO.jpg\",\"belongs_to_collection\":{\"id\":1268789,\"name\":\"Tangled Collection\",\"poster_path\":\"\/3iM2w88ZX0wFZffVLOfKc24h0bW.jpg\",\"backdrop_path\":\"\/hi7m7cJw9VxOeBgrVhCLtxveGM9.jpg\"},\"budget\":260000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/disney.go.com\/disneypictures\/tangled\/\",\"id\":38757,\"imdb_id\":\"tt0398286\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tangled\",\"overview\":\"When the kingdom's most wanted-and most charming-bandit Flynn Rider hides out in a mysterious tower, he's taken hostage by Rapunzel, a beautiful and feisty tower-bound teen with 70 feet of magical, golden hair. Flynn's curious captor, who's looking for her ticket out of the tower where she's been locked away for years, strikes a deal with the handsome thief and the unlikely duo sets off on an action-packed escapade, complete with a super-cop horse, an over-protective chameleon and a gruff gang of pub thugs.\",\"popularity\":130.092,\"poster_path\":\"\/ym7Kst6a4uodryxqbGOxmewF235.jpg\",\"production_companies\":[{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-11-24\",\"revenue\":592461732,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're taking adventure to new lengths.\",\"title\":\"Tangled\",\"video\":false,\"vote_average\":7.607,\"vote_count\":11172}"
+}

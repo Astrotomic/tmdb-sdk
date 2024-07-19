@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1543",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3071",
+        "x-memc": "HIT",
+        "x-memc-key": "853a8ab129f13eaf20e374ef6538eff5",
+        "x-memc-age": "19493",
+        "x-memc-expires": "3071",
+        "ETag": "W\/\"39a804f8a1a0f79655c782ad48983962\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AohZb5e1tYaGrUikeZGt41pI21kTjWKX3zlStWK1ITqYeyDglY48NQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ocesZs2joS6MqTXRWmRGqNIF56p.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":1790,\"imdb_id\":\"tt0064409\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Heaven with a Gun\",\"overview\":\"Jim Killian arrives in a small Arizona town hoping to establish a peaceful life as the local preacher, but he soon finds himself in the middle of a feud between sheep ranchers and cattlemen. Leloopa, a young Native American woman, pleads for Killian's help after her shepherd father is hung by Coke Beck, the vicious son of the head cattle rancher. Killian must weigh his actions carefully lest he perpetuate the cycle of retribution and revenge.\",\"popularity\":6.521,\"poster_path\":\"\/bwqCdQmOrQuVOuhKaYELqONlwlX.jpg\",\"production_companies\":[{\"id\":3760,\"logo_path\":null,\"name\":\"King Brothers Productions\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1969-05-20\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Jim Killian killed like an artist. This is the story of his masterpiece.\",\"title\":\"Heaven with a Gun\",\"video\":false,\"vote_average\":5.5,\"vote_count\":23}"
+}

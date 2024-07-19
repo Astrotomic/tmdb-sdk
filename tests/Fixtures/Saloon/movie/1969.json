@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1733",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6687",
+        "x-memc": "HIT",
+        "x-memc-key": "165533fbe08c261cef2d6bb744bec43c",
+        "x-memc-age": "17010",
+        "x-memc-expires": "6687",
+        "ETag": "W\/\"63210911e069b465b8f58d8547af5f51\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2sw4fN4SzUZX4mrpZZ-sCwDTCeoqCwYZv-ct7aQUYJfIyqNDCYezGQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/74pF8usxBxot67OoVxy5b4yhRGs.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":37,\"name\":\"Western\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1969,\"imdb_id\":\"tt0416496\",\"origin_country\":[\"MX\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Bandidas\",\"overview\":\"Set in the late 19th century. When a ruthless robber baron takes away everything they cherish, a rough-and-tumble, idealistic peasant and a sophisticated heiress embark on a quest for justice, vengeance\u2026and a few good heists.\",\"popularity\":28.596,\"poster_path\":\"\/3qdc6SohDYb1pe9ypv4NShWZMAN.jpg\",\"production_companies\":[{\"id\":11473,\"logo_path\":\"\/qAFim6lLYyvlWyDIRZcGr6oZwkg.png\",\"name\":\"A.J.O.Z. Films\",\"origin_country\":\"FR\"},{\"id\":828,\"logo_path\":null,\"name\":\"Ultra Films\",\"origin_country\":\"\"},{\"id\":6586,\"logo_path\":null,\"name\":\"TPS Star\",\"origin_country\":\"FR\"},{\"id\":6896,\"logo_path\":\"\/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png\",\"name\":\"EuropaCorp\",\"origin_country\":\"FR\"},{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"},{\"id\":356,\"logo_path\":\"\/tSJvuFaLIp7l0ONLUiAHA61GbXu.png\",\"name\":\"TF1 Films Production\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2006-01-18\",\"revenue\":18381890,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Being bad never looked so good!\",\"title\":\"Bandidas\",\"video\":false,\"vote_average\":6.012,\"vote_count\":1060}"
+}

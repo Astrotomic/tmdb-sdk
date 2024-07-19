@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1367",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20972",
+        "x-memc": "HIT",
+        "x-memc-key": "ef7e177157d0521f0467b019fafde8e1",
+        "x-memc-age": "5660",
+        "x-memc-expires": "20972",
+        "ETag": "W\/\"a5d2796e27d70fff639440719bf4b074\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UVl7_r1fthVAZcrH_eUBkx3z5TP68gpn0dNxX7LqE-tAcQDTIyYWug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3FJ8QqU3DVfX7ydlnoNMFU3EGsu.jpg\",\"belongs_to_collection\":{\"id\":247028,\"name\":\"Rurouni Kenshin (Live-Action) Collection\",\"poster_path\":\"\/yBYLuwZ1zbRBEKaZmwiThsEqUbC.jpg\",\"backdrop_path\":\"\/qqImtljiWsHdI3qSAXBEVDSw50R.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/rurouni-kenshin.jp\",\"id\":602063,\"imdb_id\":\"tt11809034\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u308b\u308d\u3046\u306b\u5263\u5fc3 \u6700\u7d42\u7ae0 The Final\",\"overview\":\"In 1879, Kenshin and his allies face their strongest enemy yet: his former brother-in-law Enishi Yukishiro and his minions, who've vowed their revenge.\",\"popularity\":45.056,\"poster_path\":\"\/eYZ9yOBXlkMmorvurGnQHQW3Zvu.jpg\",\"production_companies\":[{\"id\":3627,\"logo_path\":\"\/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png\",\"name\":\"Warner Bros. Japan\",\"origin_country\":\"JP\"},{\"id\":3219,\"logo_path\":null,\"name\":\"Amuse Soft Entertainment\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2021-04-23\",\"revenue\":33457923,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The Future Starts Here\",\"title\":\"Rurouni Kenshin: The Final\",\"video\":false,\"vote_average\":7.691,\"vote_count\":451}"
+}

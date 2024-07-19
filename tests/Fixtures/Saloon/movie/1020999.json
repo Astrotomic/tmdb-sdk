@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1274",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22147",
+        "x-memc": "HIT",
+        "x-memc-key": "a0ec53675094152a81baa5cb408470dd",
+        "x-memc-age": "2673",
+        "x-memc-expires": "22147",
+        "ETag": "W\/\"55c151a3d95e3ec69077c593139fb2fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QEz4aMPsWW4aTCFnXK7NVP3lN2BlviF3ijpcCGn1LqYC6CMStQJSGw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pDSYkymHnUvPIS7icDgXqvFG2NV.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":1020999,\"imdb_id\":null,\"origin_country\":[\"FR\"],\"original_language\":\"xx\",\"original_title\":\"Instinct\",\"overview\":\"After a diving excursion in the middle of the ocean, Lindsey is viciously sexually assaulted by Bruce, her instructor. She fends him of and they fall overboard into the water. Bruce grabs her and sinks her to the depths of the ocean. In this spiral of violence, she has no way to breathe.\",\"popularity\":7.197,\"poster_path\":\"\/pWYNacFYwWm81IxmwzXPHbAmlWB.jpg\",\"production_companies\":[{\"id\":45486,\"logo_path\":\"\/ud90QKvxQF0PWjty14Qs1coqa9A.png\",\"name\":\"ESMA\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2022-09-08\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"A stranded young woman, holding her breath, will need to awaken her instincts to escape man\u2019s cruelty and face the hostility of Nature.\",\"title\":\"Instinct\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

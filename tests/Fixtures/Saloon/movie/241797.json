@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1058",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1255",
+        "x-memc": "HIT",
+        "x-memc-key": "98d36869cf134dc96a83f603892ef4d9",
+        "x-memc-age": "25438",
+        "x-memc-expires": "1255",
+        "ETag": "W\/\"e3c317d64891980208d5678074f7df3f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3JufgXCXy_BxlXBkr098KTc6gYIyjLTHfnSGs5n5JIczv9y8POeKKw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j9KxB5tDz11LKjH3oJvkrobIHFa.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":241797,\"imdb_id\":\"tt0061525\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Covenant with Death\",\"overview\":\"An innocent man is found guilty of murder and sentenced to death, but as he's about to be hanged he accidentally kills his executioner. He now faces a new trial, presided over by a young and inexperienced judge.\",\"popularity\":4.782,\"poster_path\":\"\/nmAaDECRQfnke7XXvvScsBL2G99.jpg\",\"production_companies\":[{\"id\":16064,\"logo_path\":null,\"name\":\"William Conrad Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1967-02-15\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The bristling best seller comes to angry life.\",\"title\":\"A Covenant with Death\",\"video\":false,\"vote_average\":5.0,\"vote_count\":11}"
+}

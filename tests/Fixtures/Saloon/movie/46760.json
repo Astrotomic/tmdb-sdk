@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "852",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3079",
+        "x-memc": "HIT",
+        "x-memc-key": "19434755e5f945bb9f51f8c8027863ae",
+        "x-memc-age": "23675",
+        "x-memc-expires": "3079",
+        "ETag": "W\/\"8364a6f190f2b9d9a438c9a6a6fcfd83\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sfwcAomD8O9pN7QQOnhlKfU86LyLkFq3j5hxoxClW9G2PpCDbE8M2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n3DcizJDhyakNmTTBfkKgcl9vjo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":46760,\"imdb_id\":\"tt1024842\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Float\",\"overview\":\"The story of a young painter from the Bahamas, Jonny Roberts, who travels to an exotic island to find inspiration but finds unexpected love and adventure in a complex and tortured Romeo.\",\"popularity\":0.718,\"poster_path\":\"\/8vhZNWfLYzJDvjWfpdWnoSvK2pw.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"BS\",\"name\":\"Bahamas\"}],\"release_date\":\"2007-04-30\",\"revenue\":0,\"runtime\":34,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Float\",\"video\":false,\"vote_average\":5.4,\"vote_count\":9}"
+}

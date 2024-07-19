@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "540",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9553",
+        "x-memc": "HIT",
+        "x-memc-key": "75b2f182a5387b125adf63a849c52a34",
+        "x-memc-age": "12628",
+        "x-memc-expires": "9553",
+        "ETag": "W\/\"db23ca032e4eeae6cf0c3a7015677274\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LvLP7Yw5ItmTAO2U8hs4kRblT03LLegUkCgytSuYiopjvrOOpU-ZXw=="
+    },
+    "data": "{\"id\":34658,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/34658\/watch?locale=BR\",\"flatrate\":[{\"logo_path\":\"\/rXNXvz2096ri69ZlZsFwKxZYJsS.jpg\",\"provider_id\":499,\"provider_name\":\"Oldflix\",\"display_priority\":23}]},\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/34658\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}],\"rent\":[{\"logo_path\":\"\/hPcjSaWfMwEqXaCMu7Fkb529Dkc.jpg\",\"provider_id\":356,\"provider_name\":\"wavve\",\"display_priority\":3}]}}}"
+}

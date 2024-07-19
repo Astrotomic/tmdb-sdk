@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "835",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21959",
+        "x-memc": "HIT",
+        "x-memc-key": "f0ec39bc2efdc8b2cc2d4a5f8e6efca2",
+        "x-memc-age": "4089",
+        "x-memc-expires": "21959",
+        "ETag": "W\/\"247e70a1b03cb1ba70eb193dce2bb047\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6IZroctMdUplokRBHlvLXKSMBoIJpYFdgLMQlkirrBMXKoHc8BcnCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":861883,\"imdb_id\":null,\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Carol\",\"overview\":\"A drug that affects the body from within decomposes and causes unimaginable pain that can only be alleviated by eating human flesh. This is Carols story.\",\"popularity\":0.587,\"poster_path\":\"\/yQVgHpVfA6MqgjrXLoAd7fYifAg.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1993-01-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"What really happened on the night of October 26, 1991?\",\"title\":\"Carol\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

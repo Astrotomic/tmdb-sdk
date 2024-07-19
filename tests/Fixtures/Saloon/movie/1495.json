@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1933",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=711",
+        "x-memc": "HIT",
+        "x-memc-key": "848b1a17fd5e0b8b51eb65270ccfea8e",
+        "x-memc-age": "22567",
+        "x-memc-expires": "711",
+        "ETag": "W\/\"ef37a6a4ddb0502596d174442dc674a9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oAliwoVjm9O8J1v2rLmT5DPZW5B54bqQxqlH1dfAE6uxwZvnZv_KtQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg\",\"belongs_to_collection\":null,\"budget\":130000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":1495,\"imdb_id\":\"tt0320661\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Kingdom of Heaven\",\"overview\":\"After his wife dies, a blacksmith named Balian is thrust into royalty, political intrigue and bloody holy wars during the Crusades.\",\"popularity\":207.497,\"poster_path\":\"\/uk55nBEFIQFveIiy9jvLGiVtk4h.jpg\",\"production_companies\":[{\"id\":1645,\"logo_path\":\"\/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png\",\"name\":\"Scott Free Productions\",\"origin_country\":\"GB\"},{\"id\":19478,\"logo_path\":null,\"name\":\"BK\",\"origin_country\":\"GB\"},{\"id\":19479,\"logo_path\":null,\"name\":\"KOH\",\"origin_country\":\"US\"},{\"id\":19480,\"logo_path\":null,\"name\":\"Reino del Cielo\",\"origin_country\":\"ES\"},{\"id\":19482,\"logo_path\":null,\"name\":\"Inside Track 3\",\"origin_country\":\"GB\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":424,\"logo_path\":null,\"name\":\"Babelsberg Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-05-03\",\"revenue\":218100001,\"runtime\":144,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"}],\"status\":\"Released\",\"tagline\":\"Be without fear in the face of your enemies. Safeguard the helpless, and do no wrong\",\"title\":\"Kingdom of Heaven\",\"video\":false,\"vote_average\":6.959,\"vote_count\":4115}"
+}

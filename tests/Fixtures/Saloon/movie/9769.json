@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1396",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1944",
+        "x-memc": "HIT",
+        "x-memc-key": "a1d0df2cc6fafef46c5d51a254c9c7c0",
+        "x-memc-age": "22007",
+        "x-memc-expires": "1944",
+        "ETag": "W\/\"4db16e43d0bdee1b5fd5ea687614d2f4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wf5kl3n0lZxzbXPFHuJt3TfRa2J77tA8ofBQl0RH6sG154cyL4XMgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/b9diKSmofRcgjbUxDrSPms82yAN.jpg\",\"belongs_to_collection\":null,\"budget\":62000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":9769,\"imdb_id\":\"tt0119558\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lolita\",\"overview\":\"Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.\",\"popularity\":63.028,\"poster_path\":\"\/6F4bV1DsCHjYCXRwIA6NZY7dcnD.jpg\",\"production_companies\":[{\"id\":7981,\"logo_path\":\"\/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png\",\"name\":\"Path\u00e9\",\"origin_country\":\"FR\"},{\"id\":21143,\"logo_path\":null,\"name\":\"Lolita Productions\",\"origin_country\":\"\"},{\"id\":1869,\"logo_path\":null,\"name\":\"AMLF\",\"origin_country\":\"FR\"},{\"id\":1214,\"logo_path\":null,\"name\":\"Guild\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-09-27\",\"revenue\":1100000,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A forbidden love. An unthinkable attraction. The ultimate price.\",\"title\":\"Lolita\",\"video\":false,\"vote_average\":7.14,\"vote_count\":1717}"
+}

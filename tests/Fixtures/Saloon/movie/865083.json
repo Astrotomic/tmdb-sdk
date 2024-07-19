@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "749",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7082",
+        "x-memc": "HIT",
+        "x-memc-key": "fb88d0fd437ee923dbf32ad8f81cce8b",
+        "x-memc-age": "21198",
+        "x-memc-expires": "7082",
+        "ETag": "W\/\"28c6301b913bc4b7dc5d5d77e64546b3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R2ueRwNlvDBzqu8AT57kbPh_kJKmrlyA2vrzB6m5deAIxgU3iQMdFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e4OVCtry4WzYq9iqQ5Js59TeXKQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":865083,\"imdb_id\":null,\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u88f8\u5c71\",\"overview\":\"\",\"popularity\":1.938,\"poster_path\":\"\/kDVwKWLQ2OR5wu7JKDzcwXTDg6c.jpg\",\"production_companies\":[{\"id\":104524,\"logo_path\":null,\"name\":\"Beijing ShengShi HuaRei Film Investment \\u0026 Management Co.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2010-08-20\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"\u88f8\u5c71\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

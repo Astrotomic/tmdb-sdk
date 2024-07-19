@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "756",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7891",
+        "x-memc": "HIT",
+        "x-memc-key": "e876c9246204f942feb6c646915092f5",
+        "x-memc-age": "15540",
+        "x-memc-expires": "7891",
+        "ETag": "W\/\"baa6c2fb3c96d833b53b6a22eea022df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7HbNDIC1NOnwY3mIAq7cdHAi9_f_eOKwH5Gp2Op1OJi7CcPAhgXipQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":386939,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Art Education\",\"overview\":\"Feministic interpretations of famous paintings by Vermeer, Michelangelo and others.\",\"popularity\":1.024,\"poster_path\":\"\/e15C5aMp48ao9XTmjaGhrd0TYB9.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1976-01-01\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Art Education\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1487",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1513",
+        "x-memc": "HIT",
+        "x-memc-key": "5d8a9bc07fa63ddcb23a22bf5fb3a7de",
+        "x-memc-age": "24446",
+        "x-memc-expires": "1513",
+        "ETag": "W\/\"1a8e777c5cfe8eae640f17c6f770c90a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4OZ4Mrl4LDrK8hXApUjYhEkmiTVqhfv0elF0sejAT9zXb2hj-YKUUw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":238295,\"imdb_id\":\"tt0383714\",\"origin_country\":[\"US\",\"MX\"],\"original_language\":\"en\",\"original_title\":\"Which Way, Por Favor?\",\"overview\":\"The breathtaking sights and sounds of Mexico's lush Pacific coast come alive in this captivating comedy-drama shot in the isolated seaside village of Yelapa. Join four offbeat travelers hunting for romantic adventure, hidden cash, a mysterious father, and the mythic sorceror, \\\"Don Juan,\\\" made famous in books by Carlos Castaneda. Featuring a cast of North American actors and Yelapa locals and an original soundtrack recorded by members of the David Grisman Band, Tito Puente, Van Morrison, The Robert Gray Band -- and the grammy-winning CARLOS SANTANA Band.\",\"popularity\":0.118,\"poster_path\":null,\"production_companies\":[{\"id\":18279,\"logo_path\":null,\"name\":\"Living Fiction Films\",\"origin_country\":\"\"},{\"id\":18280,\"logo_path\":null,\"name\":\"Inspiration Conspiracy\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-01-01\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Life's a trip\",\"title\":\"Which Way, Por Favor?\",\"video\":false,\"vote_average\":3.0,\"vote_count\":2}"
+}

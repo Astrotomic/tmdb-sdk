@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1205",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14875",
+        "x-memc": "HIT",
+        "x-memc-key": "debae32e14b4d95a28403602b70194fe",
+        "x-memc-age": "9660",
+        "x-memc-expires": "14875",
+        "ETag": "W\/\"dcbb605016404c9944af2d9b2f6e5a93\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4Odk_ec6ISUnWt0m1atcJWQCrdt39VqjvWQ_yVNkPXXdKqcX8P1vPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/d4r2Plr9tQLReMVXVV8RP0eumTM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1116984,\"imdb_id\":\"tt27562761\",\"origin_country\":[\"IE\"],\"original_language\":\"en\",\"original_title\":\"All You Need Is Death\",\"overview\":\"A young couple who collect rare folk ballads discover the dark side of love when they surreptitiously record and translate an ancient, taboo folk song from the deep, forgotten past.\",\"popularity\":5.979,\"poster_path\":\"\/yiEkGNiXPKgyRGyqy3MfCVEoRx1.jpg\",\"production_companies\":[{\"id\":226935,\"logo_path\":\"\/51aFmi2BMjDv0JLh8u0t0kQMM2E.png\",\"name\":\"1185 Films\",\"origin_country\":\"GB\"},{\"id\":12142,\"logo_path\":\"\/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png\",\"name\":\"XYZ Films\",\"origin_country\":\"US\"},{\"id\":226936,\"logo_path\":null,\"name\":\"Witchman Films\",\"origin_country\":\"IE\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"}],\"release_date\":\"2024-03-19\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Love is a knife with a blade for a handle.\",\"title\":\"All You Need Is Death\",\"video\":false,\"vote_average\":4.5,\"vote_count\":11}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1600",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:24:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10500",
+        "x-memc": "HIT",
+        "x-memc-key": "1eaa98b35ce6948fe5a1b8cd0141f2e5",
+        "x-memc-age": "11844",
+        "x-memc-expires": "10500",
+        "ETag": "W\/\"106559162abf8210a97299588d540303\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "d7uEmrw6r-0LQho6PjiEsk_7pXZFBuSiv5xJ83cQREvbN1gko7tSvg=="
+    },
+    "data": "{\"id\":726302,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3185687,\"known_for_department\":\"Acting\",\"name\":\"Takeaki Wachi\",\"original_name\":\"Takeaki Wachi\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Akihiro Tachi \/ Dharuriser\",\"credit_id\":\"6109cc7938469a0072469f61\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2518877,\"known_for_department\":\"Acting\",\"name\":\"Yusuke Miura\",\"original_name\":\"Yusuke Miura\",\"popularity\":0.014,\"profile_path\":null,\"cast_id\":3,\"character\":\"Manabu Tanabe\",\"credit_id\":\"6109cd607719d7002ca13130\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":236155,\"known_for_department\":\"Acting\",\"name\":\"Kunihiko Ida\",\"original_name\":\"Kunihiko Ida\",\"popularity\":5.141,\"profile_path\":\"\/hKdi4ytv3RL9pnUOEal0ktcNtQ6.jpg\",\"cast_id\":4,\"character\":\"Akira Tachi\",\"credit_id\":\"6109ce6a323eba00735f3c1b\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":3185696,\"known_for_department\":\"Crew\",\"name\":\"Justo Dieguez\",\"original_name\":\"Justo Dieguez\",\"popularity\":0.391,\"profile_path\":\"\/lgpjRHDF3H6ztb9B3noOFvpc7N9.jpg\",\"cast_id\":5,\"character\":\"Alejandro\",\"credit_id\":\"6109cea47719d7002ca1344e\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":1711442,\"known_for_department\":\"Acting\",\"name\":\"Momona\",\"original_name\":\"Momona\",\"popularity\":0.744,\"profile_path\":null,\"cast_id\":6,\"character\":\"Mio Tachi\",\"credit_id\":\"6109cfdae61e6d0047166bf3\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3185682,\"known_for_department\":\"Directing\",\"name\":\"Katsunori Sato\",\"original_name\":\"Katsunori Sato\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6109cb622f8d09005e1b7634\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

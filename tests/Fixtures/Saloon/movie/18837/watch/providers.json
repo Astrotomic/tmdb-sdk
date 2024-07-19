@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1455",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:01:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9872",
+        "x-memc": "HIT",
+        "x-memc-key": "8733c2467cf52196ebeac6a39096ee68",
+        "x-memc-age": "16090",
+        "x-memc-expires": "9872",
+        "ETag": "W\/\"e0d15d22430528e35e128b19c224a8e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "axEd4rXJ-kBvqVX11F9I57lbozN_2_njstA0HGsEQxa812QwlihAmg=="
+    },
+    "data": "{\"id\":18837,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/18837-movie-edition\/watch?locale=CA\",\"rent\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/18837-movie-edition\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":14},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":21}],\"rent\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":17}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/18837-movie-edition\/watch?locale=IE\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/18837-movie-edition\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/18837-movie-edition\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

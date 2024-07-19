@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1039",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15442",
+        "x-memc": "HIT",
+        "x-memc-key": "60c05104a13b2236565faeeb77bb9780",
+        "x-memc-age": "10243",
+        "x-memc-expires": "15442",
+        "ETag": "W\/\"b34a46111d222dc36d9ea08bfd8e2af6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KVMkhlVoLQmCpToEwoie0eUsjtnNQ0NvoIJGyCsEru71a7jcFgbMsQ=="
+    },
+    "data": "{\"id\":477042,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/477042-virus-tropical\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"SE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/477042-virus-tropical\/watch?locale=SE\",\"flatrate\":[{\"logo_path\":\"\/vyu1bwP7H0p7B8BLB3QRwHVmvlA.jpg\",\"provider_id\":435,\"provider_name\":\"Draken Films\",\"display_priority\":19}],\"buy\":[{\"logo_path\":\"\/sNmIwrniZZORvNJOmEuWGhwBJNf.jpg\",\"provider_id\":426,\"provider_name\":\"SF Anytime\",\"display_priority\":18}],\"rent\":[{\"logo_path\":\"\/sNmIwrniZZORvNJOmEuWGhwBJNf.jpg\",\"provider_id\":426,\"provider_name\":\"SF Anytime\",\"display_priority\":18},{\"logo_path\":\"\/sgws7qaFHYTEeYhc8RCjZ5D7IlH.jpg\",\"provider_id\":517,\"provider_name\":\"TriArt Play\",\"display_priority\":24}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/477042-virus-tropical\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg\",\"provider_id\":191,\"provider_name\":\"Kanopy\",\"display_priority\":48}]}}}"
+}

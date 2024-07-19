@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17129",
+        "x-memc": "HIT",
+        "x-memc-key": "282fefdb006b557cf7df0189fb5c8662",
+        "x-memc-age": "7013",
+        "x-memc-expires": "17129",
+        "ETag": "W\/\"51e0d773e722abcdedcf14fafc34b395\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "E5tNq4nFu2jhA-XYXEvafdEeZXpHv-VElhErpvohMiYPSTQRhteFCw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8H69AJend3bT6pDfLkxxqBqSe5b.jpg\",\"belongs_to_collection\":{\"id\":10964,\"name\":\"Flatfoot Collection\",\"poster_path\":\"\/pRzBYVBa0ETMS5p2n53LTtwt0XY.jpg\",\"backdrop_path\":\"\/ea8ZuMrCfHMYiW5efInFYEmPOUS.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11048,\"imdb_id\":\"tt0070534\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Piedone lo sbirro\",\"overview\":\"Inspector \u201cFlatfoot\u201d Rizzo investigates crime and corruption in Naples.\",\"popularity\":14.968,\"poster_path\":\"\/rNMzCn0BFdXY8dWz48sbHDEhWK8.jpg\",\"production_companies\":[{\"id\":14074,\"logo_path\":null,\"name\":\"C.A.P.A.C.\",\"origin_country\":\"\"},{\"id\":10523,\"logo_path\":null,\"name\":\"Mondial Televisione Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1973-10-25\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"A one man demolition squad!\",\"title\":\"The Knock Out Cop\",\"video\":false,\"vote_average\":6.454,\"vote_count\":163}"
+}

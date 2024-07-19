@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1306",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16782",
+        "x-memc": "HIT",
+        "x-memc-key": "7d70e5887b780d282218016c2e3cba66",
+        "x-memc-age": "11596",
+        "x-memc-expires": "16782",
+        "ETag": "W\/\"0b504b11a1005738087a6a5267b23203\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LxNnaWLv5DBdJNV0QZzQOCTj4Mu6woZ8RqM8WmJcERQyQFteOmp2QQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/x0bQvdpr88xVhMrVM93tEIKSM2q.jpg\",\"belongs_to_collection\":null,\"budget\":600000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":938,\"imdb_id\":\"tt0059578\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Per qualche dollaro in pi\u00f9\",\"overview\":\"Two bounty hunters are in pursuit of \\\"El Indio,\\\" one of the most wanted fugitives in the western territories, and his gang.\",\"popularity\":76.826,\"poster_path\":\"\/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg\",\"production_companies\":[{\"id\":7508,\"logo_path\":null,\"name\":\"PEA\",\"origin_country\":\"IT\"},{\"id\":47,\"logo_path\":\"\/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png\",\"name\":\"Constantin Film\",\"origin_country\":\"DE\"},{\"id\":42498,\"logo_path\":null,\"name\":\"Arturo Gonz\u00e1lez Producciones Cinematogr\u00e1ficas\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"1965-12-18\",\"revenue\":15000000,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The man with no name is back... the man in black is waiting... a walking arsenal - he uncoils, strikes and kills!\",\"title\":\"For a Few Dollars More\",\"video\":false,\"vote_average\":8.0,\"vote_count\":3829}"
+}

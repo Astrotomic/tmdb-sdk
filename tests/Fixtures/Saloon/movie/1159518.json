@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1228",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24532",
+        "x-memc": "HIT",
+        "x-memc-key": "2e16eb90179a1ef33472efe074267091",
+        "x-memc-age": "16",
+        "x-memc-expires": "24532",
+        "ETag": "W\/\"95de8b9f26fb5fe357467768a8cd1671\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "auxngNAwNE3-Sm6LQqx2P_5pWx0IlLq_AOGAtapYcsLWfhQ3j6VHQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dbtGinhWWKgQLQ0hjZHMFWxBJcJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1159518,\"imdb_id\":\"tt22805590\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Black Noise\",\"overview\":\"Members of an elite security team deployed to rescue a VIP on an exclusive island.The rescue mission becomes a desperate attempt to survive, escape the island and elude the sinister presence that seeks to harm them.\",\"popularity\":1081.034,\"poster_path\":\"\/snKpXexv5dtWqEKEmXrJtp8QGQC.jpg\",\"production_companies\":[{\"id\":175756,\"logo_path\":null,\"name\":\"Sherbone Media\",\"origin_country\":\"US\"},{\"id\":205274,\"logo_path\":\"\/sMovSdUKQGJNuMw7GKdlKQZmD3U.png\",\"name\":\"MSR Media SKN\",\"origin_country\":\"KN\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-03\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Within the light lies something dark.\",\"title\":\"Black Noise\",\"video\":false,\"vote_average\":5.313,\"vote_count\":16}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1169",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10157",
+        "x-memc": "HIT",
+        "x-memc-key": "2a622e285c228b179ba80a062fb0cee4",
+        "x-memc-age": "17304",
+        "x-memc-expires": "10157",
+        "ETag": "W\/\"dd21e763ff7a4ea3b6816e02ec170a5e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m1IqR2RQZXIXwUFiY9nUTFF6W7BCgjon1SslnpC_zKLpk7L7N4fnFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tfC2q3BPJIQW28sOexF8SYUYV5j.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.infromthesidemovie.com\",\"id\":622082,\"imdb_id\":\"tt7947604\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"In from the Side\",\"overview\":\"Mark, a new and inexperienced rugby club member, finds himself drawn to Warren, a seasoned first team player. When a series of happenstances at an away fixture lead to a drunken encounter, Mark and Warren unwittingly embark on a romantic affair they struggle to hide from their partners and teammates.\",\"popularity\":13.818,\"poster_path\":\"\/3ZJzL6L0RFVBg6qa2CDAXxXxJjC.jpg\",\"production_companies\":[{\"id\":84263,\"logo_path\":null,\"name\":\"Take a Seat Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2022-09-16\",\"revenue\":52885,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Love is a contact sport.\",\"title\":\"In from the Side\",\"video\":false,\"vote_average\":6.8,\"vote_count\":62}"
+}

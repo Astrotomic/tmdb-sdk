@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1332",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:24:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15822",
+        "x-memc": "HIT",
+        "x-memc-key": "42614ec3b632a240e96caa538bbe7266",
+        "x-memc-age": "10216",
+        "x-memc-expires": "15822",
+        "ETag": "W\/\"bb8c14e833cdb3a3ee34131e2c40bf83\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vn4XLJLjC7qRoY1tLOEhEsYhvf1JLDZukaRsSf2SY36oKNnQkjaB8w=="
+    },
+    "data": "{\"id\":225119,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":60434,\"known_for_department\":\"Acting\",\"name\":\"Dee Snider\",\"original_name\":\"Dee Snider\",\"popularity\":12.278,\"profile_path\":\"\/bIFTxFlhYMWmwtQCnJjAQQbAnI6.jpg\",\"cast_id\":0,\"character\":\"\",\"credit_id\":\"550e52aa9251414699008898\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1211736,\"known_for_department\":\"Acting\",\"name\":\"Eddie 'Fingers' Ojeda\",\"original_name\":\"Eddie 'Fingers' Ojeda\",\"popularity\":2.539,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"550e52bdc3a3683eb80014ae\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1211729,\"known_for_department\":\"Acting\",\"name\":\"Jay Jay French\",\"original_name\":\"Jay Jay French\",\"popularity\":2.425,\"profile_path\":\"\/airULoFN3z7hIxZYitzH6vpMVml.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"550e52ca92514146a0008973\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1211730,\"known_for_department\":\"Acting\",\"name\":\"Mark Mendoza\",\"original_name\":\"Mark Mendoza\",\"popularity\":0.372,\"profile_path\":null,\"cast_id\":3,\"character\":\"\",\"credit_id\":\"550e52e5c3a3681db2008064\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":226405,\"known_for_department\":\"Acting\",\"name\":\"A.J. Pero\",\"original_name\":\"A.J. Pero\",\"popularity\":1.303,\"profile_path\":\"\/zlFblYjGaFoAyNSpMNjjNKfSJFw.jpg\",\"cast_id\":4,\"character\":\"\",\"credit_id\":\"550e52f5c3a3683f0a001414\",\"order\":4}],\"crew\":[]}"
+}

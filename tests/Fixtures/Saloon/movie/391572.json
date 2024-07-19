@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "899",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6752",
+        "x-memc": "HIT",
+        "x-memc-key": "e9ddf875c44ef5fab0ed290a70bb858d",
+        "x-memc-age": "20047",
+        "x-memc-expires": "6752",
+        "ETag": "W\/\"7089b5b6a043b38f3dab519cf5ca98c5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hRlDdQYbqliLYlwv8bXvtRzLkSXqOAZxiiMjgN3zsHS3En7JMk_tPA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":391572,\"imdb_id\":\"tt0036347\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"She's for Me\",\"overview\":\"Two lawyers fall for their beautiful client.\",\"popularity\":1.338,\"poster_path\":\"\/sBrPe7su2M2qYNcAkOLheLZFNDb.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-12-10\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Two's Company... But Four's A Heck Of A Lot More Fun!\",\"title\":\"She's for Me\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

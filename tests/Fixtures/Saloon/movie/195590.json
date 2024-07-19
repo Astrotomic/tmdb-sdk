@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1535",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21036",
+        "x-memc": "HIT",
+        "x-memc-key": "bd956c378512999b4fe173537fe7a9df",
+        "x-memc-age": "3841",
+        "x-memc-expires": "21036",
+        "ETag": "W\/\"1284147f92afa4c9491614653419e5f5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eIEZi5r7uYyV5ni2O04ixx2nT4viYdP5NGBsWSX9UXoOyMK1VGbsIQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vbC4aCxtmiT88pf1dosP3940MfG.jpg\",\"belongs_to_collection\":null,\"budget\":21500000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":195590,\"imdb_id\":\"tt2126235\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Collide\",\"overview\":\"An American backpacker gets involved with a ring of drug smugglers as their driver, and winds up on the run from his employers across Cologne\u2019s autobahns.\",\"popularity\":20.501,\"poster_path\":\"\/mmRizqT81KfcY91hndIt0TReqtB.jpg\",\"production_companies\":[{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":84988,\"logo_path\":\"\/rzpfuMEMDQnmqp0YTFMEqgfDrxY.png\",\"name\":\"42\",\"origin_country\":\"GB\"},{\"id\":7625,\"logo_path\":\"\/kzq4ibnNeZrp00zpBWv3st1QCOh.png\",\"name\":\"Automatik Entertainment\",\"origin_country\":\"US\"},{\"id\":10289,\"logo_path\":\"\/4lXJcFjACjb34LF78AUjEz4FtB9.png\",\"name\":\"DMG Entertainment\",\"origin_country\":\"US\"},{\"id\":56832,\"logo_path\":null,\"name\":\"Hands-on Producers\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-10\",\"revenue\":6817535,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Collide\",\"video\":false,\"vote_average\":5.54,\"vote_count\":569}"
+}

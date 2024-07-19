@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1908",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2300",
+        "x-memc": "HIT",
+        "x-memc-key": "0f30c38671a2993e5b16db655d40132f",
+        "x-memc-age": "24589",
+        "x-memc-expires": "2300",
+        "ETag": "W\/\"3552b17e6d1fa2719afb4f80fcafdb69\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "D1UEVK6-Xn3g7f9wPwNMS5hYGyenQrZR_J8qFY04qIBrQk6Jbzxi3A=="
+    },
+    "data": "{\"id\":221289,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":63661,\"known_for_department\":\"Acting\",\"name\":\"Jenny Mollen\",\"original_name\":\"Jenny Mollen\",\"popularity\":12.191,\"profile_path\":\"\/dV7yR2II4S6t20TafuW3q6FOgMr.jpg\",\"cast_id\":1,\"character\":\"Emily\",\"credit_id\":\"52fe4dc39251416c7513fd7f\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":21593,\"known_for_department\":\"Acting\",\"name\":\"Jason Biggs\",\"original_name\":\"Jason Biggs\",\"popularity\":48.021,\"profile_path\":\"\/3nRgOQylYbNuDiddtNoh8uWTz5P.jpg\",\"cast_id\":2,\"character\":\"Max\",\"credit_id\":\"52fe4dc39251416c7513fd83\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":35551,\"known_for_department\":\"Acting\",\"name\":\"Julie Benz\",\"original_name\":\"Julie Benz\",\"popularity\":55.348,\"profile_path\":\"\/avcCYkQjRM7qgE0MZ5VXcK3XcKz.jpg\",\"cast_id\":3,\"character\":\"Caitlynn\",\"credit_id\":\"52fe4dc39251416c7513fd87\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":113563,\"known_for_department\":\"Acting\",\"name\":\"Rhys Coiro\",\"original_name\":\"Rhys Coiro\",\"popularity\":21.105,\"profile_path\":\"\/pjPbrZHU0kJUiMOPYfxK8FeBwWQ.jpg\",\"cast_id\":4,\"character\":\"Daniel\",\"credit_id\":\"52fe4dc39251416c7513fd8b\",\"order\":3},{\"adult\":false,\"gender\":2,\"id\":1168178,\"known_for_department\":\"Acting\",\"name\":\"Mario E. Garcia\",\"original_name\":\"Mario E. Garcia\",\"popularity\":1.707,\"profile_path\":null,\"cast_id\":5,\"character\":\"Cop\",\"credit_id\":\"52fe4dc39251416c7513fd8f\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":59218,\"known_for_department\":\"Directing\",\"name\":\"Kat Coiro\",\"original_name\":\"Kat Coiro\",\"popularity\":6.56,\"profile_path\":\"\/qDDOjHtPFvYMJuBlke5z8BSvFDo.jpg\",\"credit_id\":\"52fe4dc39251416c7513fd95\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":1,\"id\":63661,\"known_for_department\":\"Acting\",\"name\":\"Jenny Mollen\",\"original_name\":\"Jenny Mollen\",\"popularity\":12.191,\"profile_path\":\"\/dV7yR2II4S6t20TafuW3q6FOgMr.jpg\",\"credit_id\":\"52fe4dc39251416c7513fd9b\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

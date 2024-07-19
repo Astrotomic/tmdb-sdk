@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "729",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15663",
+        "x-memc": "HIT",
+        "x-memc-key": "c14a95c6da49c1209a52c8385d10aba4",
+        "x-memc-age": "11220",
+        "x-memc-expires": "15663",
+        "ETag": "W\/\"5b9466b38fe39c98e55c1bd45badc944\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "P3DB-30Y7xLMawXkpiOO93cKE6Uag99qeHIpyQf9HuUz562e98Lsow=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":543557,\"imdb_id\":\"tt0242651\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Mar\u00eda Cristina\",\"overview\":\"Decent, hard-working young woman gradually finds her way toward love and happiness. With occasional spasms of Afro-Cuban dancing.\",\"popularity\":1.121,\"poster_path\":\"\/d8L5MPp59m3yVzviJbWtYigfPGz.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1951-11-15\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mar\u00eda Cristina\",\"video\":false,\"vote_average\":5.0,\"vote_count\":5}"
+}

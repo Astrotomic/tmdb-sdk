@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1154",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15829",
+        "x-memc": "HIT",
+        "x-memc-key": "6474ac76774a700abadb51c412562f72",
+        "x-memc-age": "8178",
+        "x-memc-expires": "15829",
+        "ETag": "W\/\"3f14946369966d1247b1c41d3bf61ad8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nug98p3XeOJFLGTlJfN0Kz0SRluPwofmvh6u_UB1EUJJ9WUgGCaTBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gEJ7bMzbwwatwvBRMF6vORcByC1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":241742,\"imdb_id\":\"tt3120508\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bone Alone\",\"overview\":\"When a family visits Grandma's house on Christmas Eve, they leave their dog at home alone. And when burglars try to take the presents from under the tree, the dog must use every trick it knows to stop them.\",\"popularity\":10.717,\"poster_path\":\"\/1FumrDBIN6JfE7nBZf47gvBd3fL.jpg\",\"production_companies\":[{\"id\":1311,\"logo_path\":\"\/ic2bTizdzRLDVzAvN7MXdUg3WQV.png\",\"name\":\"The Asylum\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-10-04\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"When they left him Home Alone, He had to SAVE CHRISTMAS.\",\"title\":\"Bone Alone\",\"video\":false,\"vote_average\":4.3,\"vote_count\":31}"
+}

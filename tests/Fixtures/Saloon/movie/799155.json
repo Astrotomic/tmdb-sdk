@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1289",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20666",
+        "x-memc": "HIT",
+        "x-memc-key": "44f050475ff20597c99108a13195087c",
+        "x-memc-age": "7932",
+        "x-memc-expires": "20666",
+        "ETag": "W\/\"76e1ad2ee780909d433ea98301d3aa87\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fx9Bk9WB8Dz8_C_PpZn31mYBdPNB-jPvoXltsHYgpbxmoQzX2evAzw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ba9TgAO4I8RyA2LljzR3MspHaM9.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":799155,\"imdb_id\":\"tt7529298\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"Attack\",\"overview\":\"With the Parliament under siege, India\u2019s first super soldier Arjun Shergill is tasked to get hold of the terrorists in the nick of time, save the Prime Minister from their clutches and stop a dirty bomb from exploding and destroying Delhi. Will Arjun succeed in his mission?\",\"popularity\":87.775,\"poster_path\":\"\/5jGKbYuZtdxSNOocI6ZziQeiY4n.jpg\",\"production_companies\":[{\"id\":19143,\"logo_path\":null,\"name\":\"JA Entertainment\",\"origin_country\":\"IN\"},{\"id\":103329,\"logo_path\":\"\/bjJ6phaG9F8cGm3RYBjly8wYuH5.png\",\"name\":\"Pen Studios\",\"origin_country\":\"IN\"},{\"id\":166343,\"logo_path\":null,\"name\":\"Ajay Kapoor Productions\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2022-04-01\",\"revenue\":0,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Attack\",\"video\":false,\"vote_average\":6.744,\"vote_count\":199}"
+}

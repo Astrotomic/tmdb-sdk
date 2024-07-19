@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1538",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19987",
+        "x-memc": "HIT",
+        "x-memc-key": "32f852de37c14ad28de5540a71ab9a0d",
+        "x-memc-age": "6757",
+        "x-memc-expires": "19987",
+        "ETag": "W\/\"3fab4ff7b46ab93d52f6872a70741d10\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w2DkPsf1sYB5FaukPpaV1xvkWFoy7-4uovzg6hgj3GRKZSbJjcnCWA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qD4oylPXPLxQCULTWPzhwWSeEVI.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.loveinthetime.com\/\",\"id\":6639,\"imdb_id\":\"tt0484740\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Love in the Time of Cholera\",\"overview\":\"In Colombia just after the Great War, an old man falls from a ladder; dying, he professes great love for his wife. After the funeral, a man calls on the widow - she dismisses him angrily. Flash back more than 50 years to the day Florentino Ariza, a telegraph boy, falls in love with Fermina Daza, the daughter of a mule trader.\",\"popularity\":16.364,\"poster_path\":\"\/7y5VuS218Nqc8eVdeuOrlYWWD0D.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":114737,\"logo_path\":null,\"name\":\"Grosvenor Park Media\",\"origin_country\":\"US\"},{\"id\":491,\"logo_path\":\"\/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png\",\"name\":\"Summit Entertainment\",\"origin_country\":\"US\"},{\"id\":7420,\"logo_path\":null,\"name\":\"Stone Village Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-10-04\",\"revenue\":4607608,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"How long would you wait for love?\",\"title\":\"Love in the Time of Cholera\",\"video\":false,\"vote_average\":6.6,\"vote_count\":370}"
+}

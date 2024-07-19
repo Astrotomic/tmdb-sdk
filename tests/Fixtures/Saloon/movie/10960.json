@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1591",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24715",
+        "x-memc": "HIT",
+        "x-memc-key": "38ad256e562f230958ef2f64d0988b72",
+        "x-memc-age": "2190",
+        "x-memc-expires": "24715",
+        "ETag": "W\/\"76cd293e3ebb58229c854c3524ed9b28\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jxWEz7Ir34BAnU7wcPy70M5vFk4qhykyHZqqhL7vzgQIQ0ohlEVfOw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r6Yt0MUo7Lx5u5Q9i076otOFzUW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":10960,\"imdb_id\":\"tt0117397\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Project: ALF\",\"overview\":\"Six years ago, the space alien ALF was on his way back to his new home when the Alien Task Force finally caught up with him. Now he is being studied at a top-secret base. There he finds allies who feel that ALF's existence should be announced to the world to ensure his safety... especially when they learn that the abrasive Colonel Milfoil wants ALF destroyed.\",\"popularity\":16.983,\"poster_path\":\"\/cI69vlDUuSrkSM5sFvBPgxptdt5.jpg\",\"production_companies\":[{\"id\":62631,\"logo_path\":null,\"name\":\"Alien Productions\",\"origin_country\":\"\"},{\"id\":4963,\"logo_path\":null,\"name\":\"Patchett Kaufman Entertainment\",\"origin_country\":\"US\"},{\"id\":62630,\"logo_path\":null,\"name\":\"Paul Fusco Productions\",\"origin_country\":\"\"},{\"id\":18692,\"logo_path\":null,\"name\":\"UFA Fernsehproduktion GmbH\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-02-17\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Call the government! Alert the media! Hide the cat! ALF's back!\",\"title\":\"Project: ALF\",\"video\":false,\"vote_average\":5.7,\"vote_count\":97}"
+}

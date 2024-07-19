@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1212",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=602",
+        "x-memc": "HIT",
+        "x-memc-key": "7dcf5cf238a6a9b748bb23ea566de45e",
+        "x-memc-age": "26361",
+        "x-memc-expires": "602",
+        "ETag": "W\/\"70187617693d4e9a24b64539b7184b23\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YjI8FJC_3IZ-eDHOTxKBaCkrfKH2X7VT4vDj2fFHr_oQypSIad7K8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s8InPXG9h4ZqjAXDdiBpASDpNvo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":169428,\"imdb_id\":\"tt0060201\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Los Caifanes\",\"overview\":\"A couple on the verge of getting married gets mixed up with a gang of thugs in this routine crime drama that underscores the Socio-economic disparity in the Mexican culture. The upper-class couple rides along with outsiders who go club-hopping and resort to petty thievery. After their adventure, the couple questions whether or not they are right for each other.\",\"popularity\":8.758,\"poster_path\":\"\/omnmTCDk4HHaO76P5ewCVGiYZlG.jpg\",\"production_companies\":[{\"id\":15317,\"logo_path\":null,\"name\":\"Cinematogr\u00e1fica Marte S.A.\",\"origin_country\":\"MX\"},{\"id\":4875,\"logo_path\":null,\"name\":\"Estudios Am\u00e9rica\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1967-08-17\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Los Caifanes\",\"video\":false,\"vote_average\":7.879,\"vote_count\":33}"
+}

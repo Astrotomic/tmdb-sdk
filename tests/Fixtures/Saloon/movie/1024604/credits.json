@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1742",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:13:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18853",
+        "x-memc": "HIT",
+        "x-memc-key": "c09bdc25b543adb4be826286f4526a78",
+        "x-memc-age": "5971",
+        "x-memc-expires": "18853",
+        "ETag": "W\/\"77ea7a52f02581a8740a1193c5a84301\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w9uv-yKG4GOm1xi_poTL6_FFgVSaSQrDgPw-5f5P-NQFtUlpyZXQCQ=="
+    },
+    "data": "{\"id\":1024604,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":19394,\"known_for_department\":\"Acting\",\"name\":\"Idina Menzel\",\"original_name\":\"Idina Menzel\",\"popularity\":29.152,\"profile_path\":\"\/dY4Uev9Z8DWEh2lAKrz7YyVNDQC.jpg\",\"cast_id\":3,\"character\":\"Elsa (voice)\",\"credit_id\":\"64104682a6c104007905d334\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":40462,\"known_for_department\":\"Acting\",\"name\":\"Kristen Bell\",\"original_name\":\"Kristen Bell\",\"popularity\":65.877,\"profile_path\":\"\/rP74dJXl7EjinGM0shQtUOlH5s2.jpg\",\"cast_id\":4,\"character\":\"Anna (voice)\",\"credit_id\":\"641069a3b4224200f790f761\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":54415,\"known_for_department\":\"Acting\",\"name\":\"Josh Gad\",\"original_name\":\"Josh Gad\",\"popularity\":28.792,\"profile_path\":\"\/17iKlfWZBDTAucqjkhRKHr9xjIz.jpg\",\"cast_id\":1,\"character\":\"Olaf (voice)\",\"credit_id\":\"63e451fcd036b600abb02e42\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":221611,\"known_for_department\":\"Acting\",\"name\":\"Jonathan Groff\",\"original_name\":\"Jonathan Groff\",\"popularity\":22.905,\"profile_path\":\"\/3kmnYKAzSc3Lp7iK5pcj97Hx9Cm.jpg\",\"cast_id\":5,\"character\":\"Kristoff (voice)\",\"credit_id\":\"641069c4323eba00ef62e1f2\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":63977,\"known_for_department\":\"Writing\",\"name\":\"Hans Christian Andersen\",\"original_name\":\"Hans Christian Andersen\",\"popularity\":12.062,\"profile_path\":\"\/azV6ZIGZh80eZpVCHAu2cDnytJb.jpg\",\"credit_id\":\"63e5cb652fccee00bc270a82\",\"department\":\"Writing\",\"job\":\"Original Story\"},{\"adult\":false,\"gender\":2,\"id\":61416,\"known_for_department\":\"Production\",\"name\":\"Peter Del Vecho\",\"original_name\":\"Peter Del Vecho\",\"popularity\":4.288,\"profile_path\":\"\/2RKMDnVoD1fX6QWOE8yfFS1WXSU.jpg\",\"credit_id\":\"64493cd42fdec60573a10c06\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "878",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4314",
+        "x-memc": "HIT",
+        "x-memc-key": "9a800e3c65a532f13ee22c8bd875aa69",
+        "x-memc-age": "19191",
+        "x-memc-expires": "4314",
+        "ETag": "W\/\"941044573872d6a0d0476b59a8aa5a5c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jJaqf5Zo2M29NcKR1zGtt4c79qoVHuQAHaud909jYor1fSm0H8gbAQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":547235,\"imdb_id\":\"tt2169538\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Don't Come After Me\",\"overview\":\"Jenna was just a newborn when her mother left her to die in a frozen forest. 17 years later Jenna tracks her mother down and invades her new family disguised as a babysitter.\",\"popularity\":1.715,\"poster_path\":\"\/jZCM8j9cNKhGHN2qeTYwetaRryL.jpg\",\"production_companies\":[{\"id\":108657,\"logo_path\":null,\"name\":\"Mangaani Motion Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"In Production\",\"tagline\":\"Sweet child of mine\",\"title\":\"Don't Come After Me\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

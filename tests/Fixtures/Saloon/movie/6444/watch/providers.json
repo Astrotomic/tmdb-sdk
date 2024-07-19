@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1611",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17652",
+        "x-memc": "HIT",
+        "x-memc-key": "bfc0ee16c543c68bc0437be891357f56",
+        "x-memc-age": "10115",
+        "x-memc-expires": "17652",
+        "ETag": "W\/\"66e03c579a166cd15c95e46e21912565\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LBxKxDowHs8vqqLN8_RCyazpAZLLrH2zRo-IzAEBRIyMmgOcd9fXzw=="
+    },
+    "data": "{\"id\":6444,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6444-tatie-danielle\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6444-tatie-danielle\/watch?locale=CH\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6444-tatie-danielle\/watch?locale=DE\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":19}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":19}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/6444-tatie-danielle\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12},{\"logo_path\":\"\/cAUTwxqoI7zc9XtYr1SMtWZEsXg.jpg\",\"provider_id\":58,\"provider_name\":\"Canal VOD\",\"display_priority\":120}],\"buy\":[{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12},{\"logo_path\":\"\/cAUTwxqoI7zc9XtYr1SMtWZEsXg.jpg\",\"provider_id\":58,\"provider_name\":\"Canal VOD\",\"display_priority\":120}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1261",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1108",
+        "x-memc": "HIT",
+        "x-memc-key": "e99bdbffe8d445d5cfd37cc146cc0523",
+        "x-memc-age": "27254",
+        "x-memc-expires": "1108",
+        "ETag": "W\/\"7249a008513ab4a7cb83ad8394d18342\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xMA6cqyVK5cljOTx2G2PZeDynrk5bKhfp2_lBybCLRaNSTL06Yxtug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y9Dr6yCVYRmjKuDjOjNyWxVuGjp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/freestylereleasing.com\/the-masked-saint\/\",\"id\":370464,\"imdb_id\":\"tt3103166\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Masked Saint\",\"overview\":\"The journey of a professional wrestler who becomes a small town pastor and moonlights as a masked vigilante fighting injustice. While facing crises at home and at the church, the Pastor must evade the police and somehow reconcile his violent secret identity with his calling as a pastor.\",\"popularity\":90.893,\"poster_path\":\"\/zlT1Tc9hA1Ntye5hr7Gxos9U6U9.jpg\",\"production_companies\":[{\"id\":197523,\"logo_path\":null,\"name\":\"Ridgerock Entertainment Group\",\"origin_country\":\"US\"},{\"id\":197525,\"logo_path\":null,\"name\":\"P23 Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-01-08\",\"revenue\":0,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Husband. Pastor. Hero.\",\"title\":\"The Masked Saint\",\"video\":false,\"vote_average\":5.414,\"vote_count\":64}"
+}

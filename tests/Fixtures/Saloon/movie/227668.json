@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1553",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22857",
+        "x-memc": "HIT",
+        "x-memc-key": "4de84ed2013c0fc704b60401e920f1e0",
+        "x-memc-age": "2729",
+        "x-memc-expires": "22857",
+        "ETag": "W\/\"492ebc61fe9c04b315c1380e08abdc7e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6F-rOho9ehp5RZPE-aQCw-4lAdTAJLGpfJZWeLlsNZirtRf6h8tRlQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r3RDMpTou68u0dBuhKHcBz2wTel.jpg\",\"belongs_to_collection\":{\"id\":977885,\"name\":\"The Perry Mason TV Movie Collection\",\"poster_path\":\"\/hRt0FtQWGjTfRZH8VbBDa6bUUMG.jpg\",\"backdrop_path\":\"\/icY9E7A8WUi9sWvyZMoQ8S7J5cE.jpg\"},\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":227668,\"imdb_id\":\"tt0095855\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Perry Mason: The Case of the Lady in the Lake\",\"overview\":\"A woman suddenly disappears after an early morning walk, and her husband is accused of murder.\",\"popularity\":3.999,\"poster_path\":\"\/axPDkRFx9wsI3GPgdxBxArkJ1nR.jpg\",\"production_companies\":[{\"id\":12077,\"logo_path\":\"\/s6p5INYKlo6gD6RFXlm9ACA2VVj.png\",\"name\":\"Viacom Productions\",\"origin_country\":\"US\"},{\"id\":56689,\"logo_path\":\"\/l97Fx8D6qNfrkC50mxVt5ONossk.png\",\"name\":\"Dean Hargrove Productions\",\"origin_country\":\"US\"},{\"id\":56690,\"logo_path\":\"\/5cEgzWHzPriA6ZSNaZWkqJqi2UU.png\",\"name\":\"Fred Silverman Company\",\"origin_country\":\"US\"},{\"id\":106634,\"logo_path\":\"\/3je2R9JZv4STKHX5igutY3hnVl2.png\",\"name\":\"Strathmore Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-05-15\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Perry Mason: The Case of the Lady in the Lake\",\"video\":false,\"vote_average\":6.778,\"vote_count\":9}"
+}

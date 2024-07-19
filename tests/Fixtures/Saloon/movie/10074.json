@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1490",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21673",
+        "x-memc": "HIT",
+        "x-memc-key": "21c2ecb4c6a05639faeb71f40f014464",
+        "x-memc-age": "2952",
+        "x-memc-expires": "21673",
+        "ETag": "W\/\"68dec5ddd47e6d7bef11417d5b502dd3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "08mUzEhwFAWMR_zq2vQWotXe6xna1NNQz6R0i9nx99F7SXsMLghJKQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/R0p2aJVD7NTrCJFbDlTPKoVCCz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":10074,\"imdb_id\":\"tt0787475\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hot Rod\",\"overview\":\"For Rod Kimble, performing stunts is a way of life, even though he is rather accident-prone. Poor Rod cannot even get any respect from his stepfather, Frank, who beats him up in weekly sparring matches. When Frank falls ill, Rod devises his most outrageous stunt yet to raise money for Frank's operation -- and then Rod will kick Frank's butt.\",\"popularity\":53.019,\"poster_path\":\"\/jRkt03dXCVKnbvcQm3ygU1cjg9Y.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":1756,\"logo_path\":\"\/d7YyNzysIF0lSb4lJRf1ar6MHxi.png\",\"name\":\"Broadway Video\",\"origin_country\":\"US\"},{\"id\":58553,\"logo_path\":null,\"name\":\"Michaels-Goldwyn\",\"origin_country\":\"US\"},{\"id\":53808,\"logo_path\":\"\/k0pZvs5B71HHuj8ybypApC1LV5u.png\",\"name\":\"The Lonely Island\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-08-03\",\"revenue\":14353654,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Smack destiny in the face.\",\"title\":\"Hot Rod\",\"video\":false,\"vote_average\":6.389,\"vote_count\":948}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1879",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8098",
+        "x-memc": "HIT",
+        "x-memc-key": "207e7e9aa3ff794d1abd48204c5ca2bf",
+        "x-memc-age": "18332",
+        "x-memc-expires": "8098",
+        "ETag": "W\/\"f59fa1cdf67347f578062c95e21d847b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EUAxdnwd3wlX0OM30wA_ui-v7gZQqwIxq7pDZOUdDLH7yaFdZkEN1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6MKr3KgOLmzOP6MSuZERO41Lpkt.jpg\",\"belongs_to_collection\":{\"id\":837007,\"name\":\"Cruella Collection\",\"poster_path\":\"\/lXiLDlf1AKOY6i0eOZ7gi7zLH2O.jpg\",\"backdrop_path\":null},\"budget\":200000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/movies.disney.com\/cruella\",\"id\":337404,\"imdb_id\":\"tt3228774\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cruella\",\"overview\":\"In 1970s London amidst the punk rock revolution, a young grifter named Estella is determined to make a name for herself with her designs. She befriends a pair of young thieves who appreciate her appetite for mischief, and together they are able to build a life for themselves on the London streets. One day, Estella\u2019s flair for fashion catches the eye of the Baroness von Hellman, a fashion legend who is devastatingly chic and terrifyingly haute. But their relationship sets in motion a course of events and revelations that will cause Estella to embrace her wicked side and become the raucous, fashionable and revenge-bent Cruella.\",\"popularity\":94.477,\"poster_path\":\"\/wToO8opxkGwKgSfJ1JK8tGvkG6U.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3538,\"logo_path\":null,\"name\":\"Gunn Films\",\"origin_country\":\"\"},{\"id\":2527,\"logo_path\":\"\/osO7TGmlRMistSQ5JZusPhbKUHk.png\",\"name\":\"Marc Platt Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-05-26\",\"revenue\":233503234,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Hello Cruel World\",\"title\":\"Cruella\",\"video\":false,\"vote_average\":8.016,\"vote_count\":9103}"
+}

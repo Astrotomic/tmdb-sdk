@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "723",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:48:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8243",
+        "x-memc": "HIT",
+        "x-memc-key": "f6d93dde4bc646639fb06b040375c9a1",
+        "x-memc-age": "19653",
+        "x-memc-expires": "8243",
+        "ETag": "W\/\"2fa6f54514320c62be6a15bd4390cc61\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tgWE5SkAa9yXG-vFiY8fVISNme4UL2tqzHMM43p8L9G9ZLfvBAX_zg=="
+    },
+    "data": "{\"id\":246196,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/246196-3-lust-of-the-dead\/watch?locale=CA\",\"rent\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23}],\"buy\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":23}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/246196-3-lust-of-the-dead\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

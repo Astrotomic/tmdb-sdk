@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1662",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12745",
+        "x-memc": "HIT",
+        "x-memc-key": "9f72043624335bd774485a1f0f5b7616",
+        "x-memc-age": "9506",
+        "x-memc-expires": "12745",
+        "ETag": "W\/\"3a974b2b699f401366d453acfbfeb10a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Q_Z9F6XEHcN44xC6PNcUJNxzKl8jJjEaHTh8hzBUDhzqPBWEZpD19w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bW2R6PejAFk6FVCyLmTsgn8ETqZ.jpg\",\"belongs_to_collection\":null,\"budget\":5500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/shin-ultraman.jp\/\",\"id\":634429,\"imdb_id\":\"tt10737918\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b7\u30f3\u30fb\u30a6\u30eb\u30c8\u30e9\u30de\u30f3\",\"overview\":\"The Japanese government sets up a special task force to fight the giant creatures suddenly appearing across the country. Soon, the squad unexpectedly meets a giant silver humanoid who starts appearing every time a space monster attacks!\",\"popularity\":46.705,\"poster_path\":\"\/8e4WjXrOY7WH94jlhBeoYCYUVwj.jpg\",\"production_companies\":[{\"id\":5905,\"logo_path\":\"\/d6soAmyJmbmWS8W3jq8Rb6Fxsl3.png\",\"name\":\"Tsuburaya Productions\",\"origin_country\":\"JP\"},{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":4145,\"logo_path\":\"\/aEiJyMKr2CxrAJiIdtN70wXqn.png\",\"name\":\"khara\",\"origin_country\":\"JP\"},{\"id\":5896,\"logo_path\":null,\"name\":\"Cine Bazar\",\"origin_country\":\"JP\"},{\"id\":182161,\"logo_path\":\"\/wvG4lK0m76M6jK8WbWkXNecA7SP.png\",\"name\":\"TOHO Studios\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2022-05-13\",\"revenue\":34441594,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Have you become so fond of humans, Ultraman?\",\"title\":\"Shin Ultraman\",\"video\":false,\"vote_average\":7.212,\"vote_count\":151}"
+}

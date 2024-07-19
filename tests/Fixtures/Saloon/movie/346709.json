@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1723",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13999",
+        "x-memc": "HIT",
+        "x-memc-key": "83abcd60566c679174ac2113fea55556",
+        "x-memc-age": "7816",
+        "x-memc-expires": "13999",
+        "ETag": "W\/\"f0fc13f1c4d2ef909d2cb477d8256bc6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SyzyNMQTqz5Et7laonnU-xNZJHY-8DNgk6VdnFchlV1ViOZ7oDBXiw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ygIHxA8EB246fwnNlHn6gN1QCf4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":346709,\"imdb_id\":\"tt3541524\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Line of Duty\",\"overview\":\"Frank Penny is a disgraced cop looking for a shot at redemption. When the police chief's 11-year-old daughter is abducted, Frank goes rogue to try and save her. But to find the girl, Frank will need the help of Ava Brooks, whose live-streaming news channel is broadcasting Frank's every move.\",\"popularity\":19.907,\"poster_path\":\"\/wMszdTo0UuGcAEEDHsQL9dmwLIG.jpg\",\"production_companies\":[{\"id\":33768,\"logo_path\":\"\/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png\",\"name\":\"The Solution\",\"origin_country\":\"US\"},{\"id\":92336,\"logo_path\":\"\/6Xc60wER3i1DfIBzIK1Ot7aI0EC.png\",\"name\":\"Sprockefeller Pictures\",\"origin_country\":\"US\"},{\"id\":78821,\"logo_path\":null,\"name\":\"Setient Pictures\",\"origin_country\":\"\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"},{\"id\":5056,\"logo_path\":\"\/583ITs4w9sK31FnJwKiRwapTpzb.png\",\"name\":\"Head Gear Films\",\"origin_country\":\"GB\"},{\"id\":207242,\"logo_path\":null,\"name\":\"Hassik Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-12-25\",\"revenue\":646389,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The clock is ticking. The world is watching.\",\"title\":\"Line of Duty\",\"video\":false,\"vote_average\":5.942,\"vote_count\":311}"
+}

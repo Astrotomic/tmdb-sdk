@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1273",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23948",
+        "x-memc": "HIT",
+        "x-memc-key": "33f9fbeb027edc03afe3658a75f732fd",
+        "x-memc-age": "4786",
+        "x-memc-expires": "23948",
+        "ETag": "W\/\"f88b2e8630ed1706911a04a384e3bcfc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vUAWs-kX9dtxnvJmr4z5GvdGIQnxgmq2VMd0eh9Ftl2sPtSMFfC7zA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yOGELMEm6DPkdrBoJ7JbsyByCbn.jpg\",\"belongs_to_collection\":null,\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/movies.disney.com\/meet-the-robinsons\",\"id\":1267,\"imdb_id\":\"tt0396555\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Meet the Robinsons\",\"overview\":\"Lewis, a brilliant young inventor, is keen on creating a time machine to find his mother, who abandoned him in an orphanage. Things take a turn when he meets Wilbur Robinson and his family.\",\"popularity\":59.687,\"poster_path\":\"\/naya0zF4kT401Sx15AtwB9vpcJr.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-03-23\",\"revenue\":169332978,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Think your family's weird?\",\"title\":\"Meet the Robinsons\",\"video\":false,\"vote_average\":6.91,\"vote_count\":2768}"
+}

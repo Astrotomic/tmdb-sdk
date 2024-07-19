@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "865",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7473",
+        "x-memc": "HIT",
+        "x-memc-key": "bc5ec608ba139ea5837cf5d86ebb5aee",
+        "x-memc-age": "18292",
+        "x-memc-expires": "7473",
+        "ETag": "W\/\"2ca40865815dffaaeb8bbf98ad961f0e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3nvWvMa-bZAmWWEr2Vr9-yjJBvgRMHSsjaYJG20tQynaTuxIwSlJ8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":858532,\"imdb_id\":\"tt0897388\",\"origin_country\":[\"FR\",\"CH\"],\"original_language\":\"fr\",\"original_title\":\"Silence de Septembre (Chapitre 2) ou Quelques jours d'\u00e9t\u00e9 d'apr\u00e8s Chabout\u00e9\",\"overview\":\"\",\"popularity\":3.646,\"poster_path\":\"\/g3Ix2o4la8URseOsy4PELoFIzJ7.jpg\",\"production_companies\":[{\"id\":158603,\"logo_path\":null,\"name\":\"Free War Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"}],\"release_date\":\"2005-01-25\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Silence de Septembre (Chapitre 2) ou Quelques jours d'\u00e9t\u00e9 d'apr\u00e8s Chabout\u00e9\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

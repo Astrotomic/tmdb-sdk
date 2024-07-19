@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1327",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7242",
+        "x-memc": "HIT",
+        "x-memc-key": "c66656b7f548d989db1b215ebb13df5a",
+        "x-memc-age": "14751",
+        "x-memc-expires": "7242",
+        "ETag": "W\/\"db353e78e3add97ad00e78c3b5731a5d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_MUtngqnLdZvsnjOovmttAsPzIxKcYvrDVydIIfKEZhJlyeIy8kORg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gt4EnUGbbGbNOX0q47YII3WxB48.jpg\",\"belongs_to_collection\":{\"id\":464270,\"name\":\"The Man from Earth Collection\",\"poster_path\":\"\/8qkYt13q4VDT0y8n0Ioew2AssFJ.jpg\",\"backdrop_path\":\"\/qFmRn6T7vM0EuOwbeiGkWabluQJ.jpg\"},\"budget\":200000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/manfromearth.com\/\",\"id\":13363,\"imdb_id\":\"tt0756683\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Man from Earth\",\"overview\":\"An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.\",\"popularity\":30.733,\"poster_path\":\"\/V086R82gNgWrotaXZFO4JhdgB1.jpg\",\"production_companies\":[{\"id\":2741,\"logo_path\":null,\"name\":\"Falling Sky Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-06-10\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"From one of the acclaimed writers of Star Trek and The Twilight Zone comes a story that transcends both time and space...\",\"title\":\"The Man from Earth\",\"video\":false,\"vote_average\":7.635,\"vote_count\":2385}"
+}

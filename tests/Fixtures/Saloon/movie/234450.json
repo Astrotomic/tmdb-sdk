@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "998",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11944",
+        "x-memc": "HIT",
+        "x-memc-key": "23b6cf773f602c773ee8055d677f061e",
+        "x-memc-age": "12016",
+        "x-memc-expires": "11944",
+        "ETag": "W\/\"5014569738dabc242f48293ef7c17bb3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RP81vlVva69YvQYa8LDURo4jMrrJJPlaIKaNDH7Du794Ab2hhJd8aA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":234450,\"imdb_id\":\"tt0147979\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Charlie's Mother-in-Law\",\"overview\":\"Charlie Beary is trying to depart for a fishing trip with pal Pete. Unfortunately, just then wife Bessie's mother comes to his home to help with spring cleaning, and won't stop barking orders at him.\",\"popularity\":2.886,\"poster_path\":null,\"production_companies\":[{\"id\":8520,\"logo_path\":null,\"name\":\"Walter Lantz Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1963-04-16\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Charlie's Mother-in-Law\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

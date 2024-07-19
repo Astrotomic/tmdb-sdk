@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "936",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8646",
+        "x-memc": "HIT",
+        "x-memc-key": "cc0317b7948bd8adb2c5e2f4ffc8ac14",
+        "x-memc-age": "19430",
+        "x-memc-expires": "8646",
+        "ETag": "W\/\"3fc214f5181b88651b6ecd64b6173bef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kRtvNiNEO_RHj3Bgevn52gZXCdO4bzlxSLbITmpoLTQmRBdg60es3A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/f13RF99zjorGVJnSSsOqyj5dzYh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"https:\/\/www.pixar.com\/lou\",\"id\":433471,\"imdb_id\":\"tt6267732\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lou\",\"overview\":\"A Pixar short about a lost-and-found box and the unseen monster within.\",\"popularity\":7.253,\"poster_path\":\"\/4G2CdCQjtZYYurVuO38dAcnJYuJ.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-06-16\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Lou\",\"video\":false,\"vote_average\":7.5,\"vote_count\":377}"
+}

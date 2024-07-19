@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "843",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21446",
+        "x-memc": "HIT",
+        "x-memc-key": "5af93513bbcf90ec4824418a22fc92ff",
+        "x-memc-age": "1516",
+        "x-memc-expires": "21446",
+        "ETag": "W\/\"62f9df9da5d3408cd5cf711399c3f076\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "k_CtudzyAaSSTH-9l7D0NSvk_jwgy5QjISAmDuSenZ64vGxRBFzCuA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1248504,\"imdb_id\":\"tt1798604\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bait\",\"overview\":\"An employee at a high-end resort leads a handful of students into shark infested waters after he's beaten and humiliated by one of the guys in the group.\",\"popularity\":2.4,\"poster_path\":null,\"production_companies\":[{\"id\":221442,\"logo_path\":null,\"name\":\"Mobydick Investment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Bait\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

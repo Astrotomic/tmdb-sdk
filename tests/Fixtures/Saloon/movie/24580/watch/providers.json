@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1700",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=699",
+        "x-memc": "HIT",
+        "x-memc-key": "85d1175b6fcec912be643b69d2227733",
+        "x-memc-age": "21253",
+        "x-memc-expires": "699",
+        "ETag": "W\/\"75e07cc18fb004ce3a8f21d809402792\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tUxXHMy7RlcB6Ue9qqp0o-Pu3AG8oL4-7dTM2D2woVGHG4qjFCRi9Q=="
+    },
+    "data": "{\"id\":24580,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24580-the-quatermass-xperiment\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24580-the-quatermass-xperiment\/watch?locale=GB\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":9,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":2},{\"logo_path\":\"\/jTtwvCgQxD8W7vljH5pH28PfYQD.jpg\",\"provider_id\":1744,\"provider_name\":\"Icon Film Amazon Channel\",\"display_priority\":88},{\"logo_path\":\"\/p4TlGiuRoH9sDZeppPJeMhizs26.jpg\",\"provider_id\":2100,\"provider_name\":\"Amazon Prime Video with Ads\",\"display_priority\":143}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":14},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":21}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]},\"GG\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24580-the-quatermass-xperiment\/watch?locale=GG\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/24580-the-quatermass-xperiment\/watch?locale=IE\",\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]}}}"
+}

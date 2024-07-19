@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1328",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24095",
+        "x-memc": "HIT",
+        "x-memc-key": "dfd7428e8591407419b2b9bf896e1d58",
+        "x-memc-age": "2558",
+        "x-memc-expires": "24095",
+        "ETag": "W\/\"b72d125e316104e523589916bb1d930f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NxENLH4qd30oLBvSF9d0jhQ1tvSdyoAFA6T0sQn5eMuhz_UQ4QyZgg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vIOqw0OBXpSeAxBVYwWqCMrcda8.jpg\",\"belongs_to_collection\":{\"id\":869982,\"name\":\"Zulu Collection\",\"poster_path\":\"\/v9uadXmUoBufDo1tC7b7CjsKYXO.jpg\",\"backdrop_path\":\"\/dOCp3rhXatKgiVbx9jvd8qgKJAf.jpg\"},\"budget\":1720000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":14433,\"imdb_id\":\"tt0058777\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Zulu\",\"overview\":\"In 1879, during the Anglo-Zulu War, man-of-the-people Lt. Chard and snooty Lt. Bromhead are in charge of defending the isolated and vastly outnumbered Natal outpost of Rorke's Drift from tribal hordes.\",\"popularity\":36.827,\"poster_path\":\"\/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg\",\"production_companies\":[{\"id\":75496,\"logo_path\":null,\"name\":\"Diamond Films UK\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1964-01-22\",\"revenue\":8000000,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Zulu\",\"iso_639_1\":\"zu\",\"name\":\"isiZulu\"}],\"status\":\"Released\",\"tagline\":\"Dwarfing the mightiest! Towering over the greatest!\",\"title\":\"Zulu\",\"video\":false,\"vote_average\":7.4,\"vote_count\":498}"
+}

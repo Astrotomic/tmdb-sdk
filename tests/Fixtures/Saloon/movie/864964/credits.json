@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "536",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:23:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10284",
+        "x-memc": "HIT",
+        "x-memc-key": "566fd29c3d4ae36f2baa72e1686c7f8b",
+        "x-memc-age": "11886",
+        "x-memc-expires": "10284",
+        "ETag": "W\/\"1d66247d8b0cf4e40bae18613916636b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5mFQ5gwZ_n-i85dXaT_Ft8ATK8xaahtT7486GgPukV-YfRgvmyZHaA=="
+    },
+    "data": "{\"id\":864964,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":1109056,\"known_for_department\":\"Acting\",\"name\":\"Shijimi\",\"original_name\":\"Shijimi\",\"popularity\":20.212,\"profile_path\":\"\/uW1haU13k5DYBH2ACOGIboVG2f.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"647c650317497300c132d584\",\"order\":0}],\"crew\":[{\"adult\":true,\"gender\":0,\"id\":3210206,\"known_for_department\":\"Directing\",\"name\":\"Sakata Tooru\",\"original_name\":\"Sakata Tooru\",\"popularity\":0.6,\"profile_path\":null,\"credit_id\":\"612457b44a52f8007d884d31\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

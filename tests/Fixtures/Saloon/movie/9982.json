@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1393",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23637",
+        "x-memc": "HIT",
+        "x-memc-key": "18663c89be9b0df3d9b0592c1996d3b8",
+        "x-memc-age": "1262",
+        "x-memc-expires": "23637",
+        "ETag": "W\/\"d920b86d4e418070ca8c087f3d8862a4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Zm-mtcer-FitKOQCuECW7A4UZgl0wUKUE00oroZkzmBSrOm1fu0o-g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h37N1O8LUyGW1o2dIWufm9jzpk7.jpg\",\"belongs_to_collection\":null,\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/movies.disney.com\/chicken-little\",\"id\":9982,\"imdb_id\":\"tt0371606\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Chicken Little\",\"overview\":\"When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world's biggest hero is a little chicken.\",\"popularity\":65.868,\"poster_path\":\"\/ic7HarXbjPE1lCdHGavGA8VLtmy.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":171656,\"logo_path\":\"\/4UBohOtIr9DtxylH48Qsg6aDow6.png\",\"name\":\"Walt Disney Feature Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-11-04\",\"revenue\":314400000,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When it comes to saving the world, it helps to be a little chicken.\",\"title\":\"Chicken Little\",\"video\":false,\"vote_average\":5.892,\"vote_count\":3816}"
+}

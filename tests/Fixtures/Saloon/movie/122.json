@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2001",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:18:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5113",
+        "x-memc": "HIT",
+        "x-memc-key": "a14b670f43c47c4829849214e7f90447",
+        "x-memc-age": "22442",
+        "x-memc-expires": "5113",
+        "ETag": "W\/\"415aa2efd995f44307c08ae64be414e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o4Ogb_bCNFL2T5wXk_OzhUXWukPzSVFNCqhlhcjbVbsNvn88DID6sw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg\",\"belongs_to_collection\":{\"id\":119,\"name\":\"The Lord of the Rings Collection\",\"poster_path\":\"\/oENY593nKRVL2PnxXsMtlh8izb4.jpg\",\"backdrop_path\":\"\/bccR2CGTWVVSZAG0yqmy3DIvhTX.jpg\"},\"budget\":94000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.lordoftherings.net\",\"id\":122,\"imdb_id\":\"tt0167260\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lord of the Rings: The Return of the King\",\"overview\":\"As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.\u200b\",\"popularity\":143.587,\"poster_path\":\"\/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":11,\"logo_path\":\"\/6FAuASQHybRkZUk08p9PzSs9ezM.png\",\"name\":\"WingNut Films\",\"origin_country\":\"NZ\"},{\"id\":5237,\"logo_path\":\"\/mlnr7vsBHvLye8oEb5A76C0t8x9.png\",\"name\":\"The Saul Zaentz Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-12-01\",\"revenue\":1118888979,\"runtime\":201,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There can be no triumph without loss. No victory without suffering. No freedom without sacrifice.\",\"title\":\"The Lord of the Rings: The Return of the King\",\"video\":false,\"vote_average\":8.482,\"vote_count\":23629}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "826",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16891",
+        "x-memc": "HIT",
+        "x-memc-key": "8fd1583ab9b5e6b6c4c7b411531c2267",
+        "x-memc-age": "8793",
+        "x-memc-expires": "16891",
+        "ETag": "W\/\"b93b4d5c2e0d22a0ba3d7eb203ae4953\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Q0UJTcVtWHx2eROeN0jLcnWDnA2xIWTjR-0Z5AYgH-wBHboHph6f1g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w8lhgDGqE7T8GswPoGSkyHKhQL6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":1202696,\"imdb_id\":\"tt4158726\",\"origin_country\":[\"CZ\"],\"original_language\":\"cs\",\"original_title\":\"D\u011bdo, \u010daruj!\",\"overview\":\"\",\"popularity\":0.917,\"poster_path\":null,\"production_companies\":[{\"id\":487,\"logo_path\":\"\/x3BUIowxU2skXOpnOeOkl7kIYDo.png\",\"name\":\"\u010cesk\u00e1 televize\",\"origin_country\":\"CZ\"}],\"production_countries\":[{\"iso_3166_1\":\"CZ\",\"name\":\"Czech Republic\"}],\"release_date\":\"1996-01-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"D\u011bdo, \u010daruj!\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

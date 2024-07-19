@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1049",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5162",
+        "x-memc": "HIT",
+        "x-memc-key": "bedeebf32f22e54aaac37efcf2b729e9",
+        "x-memc-age": "21212",
+        "x-memc-expires": "5162",
+        "ETag": "W\/\"19c8913b862b7bbaf1ebe1dd1d861873\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1Nd6HJ2A4RzbiAa7Q-Wpe82kwk8xqmVvrOR94JwLxG-2E2xo8bZaFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qD3yYekQketJread9YEByPL3HpU.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":14460,\"imdb_id\":\"tt0080421\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Battle Beyond the Stars\",\"overview\":\"A young farmer assembles a band of diverse mercenaries to defend his peaceful planet from an evil tyrant.\",\"popularity\":15.214,\"poster_path\":\"\/eExDr6W0A3XRTItD5X05tAl1avO.jpg\",\"production_companies\":[{\"id\":1950,\"logo_path\":\"\/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png\",\"name\":\"New World Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-09-08\",\"revenue\":11000000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A battle beyond time, beyond space.\",\"title\":\"Battle Beyond the Stars\",\"video\":false,\"vote_average\":5.3,\"vote_count\":183}"
+}

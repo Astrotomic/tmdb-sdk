@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "903",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4646",
+        "x-memc": "HIT",
+        "x-memc-key": "553cb0db1435b2110bb3bdea99f6f5f1",
+        "x-memc-age": "18912",
+        "x-memc-expires": "4646",
+        "ETag": "W\/\"4f2d01fc0418a243a8260ae94f759262\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u-vRcQR2EdaHECbD67HXGM_NuwpJ_EwwV4G7wKiMf_-SUIfHncDD9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":862229,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"\u5ee3\u5dde\u4e09\u65e5\u5c60\u57ce\u8a18\",\"overview\":\"It was assisted by the Qing army and some traitors (Fan Cheng-En), who captured Guangzhou and massacred the civilians for three days until Sun Yat-Sen established the Republic of China and Chiang Kai-Shek succeeded in the Northern Expedition.\",\"popularity\":2.227,\"poster_path\":\"\/5j18mxqZ2rQOWsY3Wn7XxCCgjJV.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"1937-03-31\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Three-Day Massacre in Guangzhou\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

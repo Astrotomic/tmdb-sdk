@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "900",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3236",
+        "x-memc": "HIT",
+        "x-memc-key": "5952322276d50544d7f9e7350f766b33",
+        "x-memc-age": "19717",
+        "x-memc-expires": "3236",
+        "ETag": "W\/\"b295aa9ba6898e316cac330433467146\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ANBXakCU41VAe8_MtudN6fVZYM8c8MxstcZ9r8i8kS9BLr8etQ_KzA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y0eyUFB8dBLKjbQFeAgFMiklQDq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1254,\"imdb_id\":\"tt0485241\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Je vais bien, ne t'en fais pas\",\"overview\":\"A 19-year-old searches for her twin brother after he runs away from home, following a fight with their father.\",\"popularity\":11.068,\"poster_path\":\"\/yD6skMZZq0Rgn2NhI9dk4B2Dipu.jpg\",\"production_companies\":[{\"id\":942,\"logo_path\":null,\"name\":\"Fin Ao\u00fbt Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2006-09-06\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Don't Worry, I'm Fine\",\"video\":false,\"vote_average\":7.212,\"vote_count\":556}"
+}

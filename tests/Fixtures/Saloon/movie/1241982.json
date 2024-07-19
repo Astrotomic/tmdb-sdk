@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1587",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1569",
+        "x-memc": "HIT",
+        "x-memc-key": "46482bc017e1cd2b57f379de6cef8bdf",
+        "x-memc-age": "23816",
+        "x-memc-expires": "1569",
+        "ETag": "W\/\"71330dfef240a5c86d00306e538046d5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NtUf7tXdc93oOKkL0qfBR4K1Y8gTfSGeJvpB5GOCqtAH7EJYsaU2nw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ucF4aQhaj0hWdV4jtBSqXh2zgXi.jpg\",\"belongs_to_collection\":{\"id\":1241984,\"name\":\"Moana Collection\",\"poster_path\":\"\/4P5j5sExV9x6hZnQhk9hRFyZKyn.jpg\",\"backdrop_path\":\"\/4OgaftFNqtE1UvfDDb2Eov7A5Rz.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":1241982,\"imdb_id\":\"tt13622970\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Moana 2\",\"overview\":\"After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.\",\"popularity\":84.538,\"poster_path\":\"\/sxuS6IcVF0T0dJgBv3x703m69Rr.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"},{\"id\":158526,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-11-27\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"In Production\",\"tagline\":\"The ocean is calling them back.\",\"title\":\"Moana 2\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

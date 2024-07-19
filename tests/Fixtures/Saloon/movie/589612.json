@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1336",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16908",
+        "x-memc": "HIT",
+        "x-memc-key": "c9cb6bb24d4c041606ee044e3eb513aa",
+        "x-memc-age": "6279",
+        "x-memc-expires": "16908",
+        "ETag": "W\/\"5cd64fd8092d6caf0cb44ba81cafc4be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jGfmSuyEhLbC3_wO_H5aEKyCjpIO6BdqI_GA7xmpI4ksCR3N8vDCVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/XPMsLvZBD25wC8AM1ersvUKnmn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/acalltospy.com\",\"id\":589612,\"imdb_id\":\"tt7698468\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Call to Spy\",\"overview\":\"The story of Vera Atkins, a crafty spy recruiter, and two of the first women she selects for Churchill's \\\"secret army\\\": Virginia Hall, a daring American undaunted by a disability and Noor Inayat Khan, a pacifist. These civilian women form an unlikely sisterhood while entangled in dangerous missions to turn the tide of the war.\",\"popularity\":15.132,\"poster_path\":\"\/cK5D0ss2LLSZtOZKvgOVTcCdXIE.jpg\",\"production_companies\":[{\"id\":143020,\"logo_path\":null,\"name\":\"SMT Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-10-02\",\"revenue\":0,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Ordinary women. Extraordinary heroes.\",\"title\":\"A Call to Spy\",\"video\":false,\"vote_average\":6.9,\"vote_count\":177}"
+}

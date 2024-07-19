@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1907",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19423",
+        "x-memc": "HIT",
+        "x-memc-key": "77c5ecfd0ae7c4a46f4caa90594fc3f0",
+        "x-memc-age": "6125",
+        "x-memc-expires": "19423",
+        "ETag": "W\/\"bf62d78e9dfcce414a68ac2f55887086\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jMWI5AEbrAh8VQGU49himhDrYyqm-2GuU6QKywyXiQAFkWu-tDQzjQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qjiiIuv1SkMPFbskL0FbZyd3dUj.jpg\",\"belongs_to_collection\":null,\"budget\":3800000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":37,\"name\":\"Western\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.sukiyakimovie.com\/\",\"id\":13637,\"imdb_id\":\"tt0906665\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"Sukiyaki Western Django\",\"overview\":\"A nameless gunfighter arrives in a town ripped apart by rival gangs and, though courted by both to join, chooses his own path.\",\"popularity\":10.901,\"poster_path\":\"\/6GLjfl1Atsawd5Aq83Qc4fQ9W1T.jpg\",\"production_companies\":[{\"id\":648,\"logo_path\":\"\/s811As3dkcqSgl4nEWEVYfJVVxh.png\",\"name\":\"Sony Music Entertainment\",\"origin_country\":\"JP\"},{\"id\":1778,\"logo_path\":\"\/b5rT6VbYza3LyfltCmz1OcqzWJM.png\",\"name\":\"dentsu\",\"origin_country\":\"JP\"},{\"id\":4649,\"logo_path\":null,\"name\":\"Sedic\",\"origin_country\":\"JP\"},{\"id\":7111,\"logo_path\":\"\/vHUCDHu63vjfQjDNHvKqlUWOdwE.png\",\"name\":\"Geneon Universal Entertainment\",\"origin_country\":\"JP\"},{\"id\":9149,\"logo_path\":\"\/isLUpud9N56ifftJZ4XvzwBBpoG.png\",\"name\":\"Shogakukan\",\"origin_country\":\"JP\"},{\"id\":81418,\"logo_path\":\"\/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png\",\"name\":\"Nagoya Broadcasting Network\",\"origin_country\":\"JP\"},{\"id\":9300,\"logo_path\":\"\/9sSD1XufVCJWAadNiC9Mwu994VD.png\",\"name\":\"TV Asahi\",\"origin_country\":\"JP\"},{\"id\":123663,\"logo_path\":null,\"name\":\"Tokyu Recreation\",\"origin_country\":\"JP\"},{\"id\":6128,\"logo_path\":null,\"name\":\"A-Team\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2007-09-15\",\"revenue\":2725258,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sukiyaki Western Django\",\"video\":false,\"vote_average\":6.256,\"vote_count\":320}"
+}

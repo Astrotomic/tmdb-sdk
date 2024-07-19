@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1583",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9456",
+        "x-memc": "HIT",
+        "x-memc-key": "85048e88df0c4939fcd70c5841b16629",
+        "x-memc-age": "13589",
+        "x-memc-expires": "9456",
+        "ETag": "W\/\"19ce21182a5056617272db171fd32880\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2Jt7ndLbDEZ4vGKl0WibCkr1cDVdLe3K1YiYM3X9-c68molYPSdlHw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3s9O5af2xWKWR5JzP2iJZpZeQQg.jpg\",\"belongs_to_collection\":{\"id\":328,\"name\":\"Jurassic Park Collection\",\"poster_path\":\"\/jcUXVtJ6s0NG0EaxllQCAUtqdr0.jpg\",\"backdrop_path\":\"\/njFixYzIxX8jsn6KMSEtAzi4avi.jpg\"},\"budget\":170000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/jurassic-world-fallen-kingdom\",\"id\":351286,\"imdb_id\":\"tt4881806\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jurassic World: Fallen Kingdom\",\"overview\":\"Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.\",\"popularity\":107.19,\"poster_path\":\"\/XiyoA8Kk87UQ4svKRCRWepjIzf.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-06-06\",\"revenue\":1310466296,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"The park is gone.\",\"title\":\"Jurassic World: Fallen Kingdom\",\"video\":false,\"vote_average\":6.5,\"vote_count\":11550}"
+}

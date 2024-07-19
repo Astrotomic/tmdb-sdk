@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1361",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17381",
+        "x-memc": "HIT",
+        "x-memc-key": "6ff451fe743cbf94162b45f6402dd00a",
+        "x-memc-age": "11029",
+        "x-memc-expires": "17381",
+        "ETag": "W\/\"b071fd2b6fc0c47ea48201e46b3cf7e9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jlQXYYW2XUDfVdp0rsq4aevq6_yaoPtfFvuu0acOi0LaMOscRQikiA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5wJ2tckpvwcxGCAgZiccodwEJpf.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":841,\"imdb_id\":\"tt0087182\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dune\",\"overview\":\"In the year 10,191, the most precious substance in the universe is the spice Melange. The spice extends life. The spice expands consciousness. The spice is vital to space travel.  The spice exists on only one planet in the entire universe, the vast desert planet Arrakis, also known as Dune.  Its native inhabitants, the Fremen, have long held a prophecy that a man would come, a messiah who would lead them to true freedom.\",\"popularity\":100.122,\"poster_path\":\"\/lyP3eKSEgZkChb77cKMIbydbPSq.jpg\",\"production_companies\":[{\"id\":10308,\"logo_path\":\"\/pOHLwTFBPtPnz8BWP8T4w3UCTEB.png\",\"name\":\"Dino De Laurentiis Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1984-12-14\",\"revenue\":30982607,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A world beyond your experience, beyond your imagination.\",\"title\":\"Dune\",\"video\":false,\"vote_average\":6.2,\"vote_count\":2923}"
+}

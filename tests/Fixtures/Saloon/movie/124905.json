@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1651",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20321",
+        "x-memc": "HIT",
+        "x-memc-key": "9fe1d5084b80d94d304825f1c3d6cc4b",
+        "x-memc-age": "7660",
+        "x-memc-expires": "20321",
+        "ETag": "W\/\"9cda013bbe76808841ab46fc8ef6d5ae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qHbFY6GUUM4O3w1NrgwjQ_2Wf6Siv5z4994NoDjbdJ4VNgF7eCcbpw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zCjZfevPFBbOh2SAx2syIBHSqEI.jpg\",\"belongs_to_collection\":{\"id\":535313,\"name\":\"Godzilla Collection\",\"poster_path\":\"\/inNN466SKHNjbGmpfhfsaPQNleS.jpg\",\"backdrop_path\":\"\/oboBn4VYB79uDxnyIri0Nt3U3N2.jpg\"},\"budget\":160000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.godzillamovie.com\",\"id\":124905,\"imdb_id\":\"tt0831387\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Godzilla\",\"overview\":\"Ford Brody, a Navy bomb expert, has just reunited with his family in San Francisco when he is forced to go to Japan to help his estranged father, Joe. Soon, both men are swept up in an escalating crisis when an ancient alpha predator arises from the sea to combat malevolent adversaries that threaten the survival of humanity. The creatures leave colossal destruction in their wake, as they make their way toward their final battleground: San Francisco.\",\"popularity\":174.614,\"poster_path\":\"\/zokD6uxR2iWfYM3Y84yGJvnNTK7.jpg\",\"production_companies\":[{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-05-14\",\"revenue\":524978362,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Tagalog\",\"iso_639_1\":\"tl\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"The world ends, Godzilla begins.\",\"title\":\"Godzilla\",\"video\":false,\"vote_average\":6.339,\"vote_count\":8938}"
+}

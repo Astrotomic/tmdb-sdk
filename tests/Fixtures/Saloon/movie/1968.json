@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7159",
+        "x-memc": "HIT",
+        "x-memc-key": "d35d961e4ccc0a47904618d2af673323",
+        "x-memc-age": "16485",
+        "x-memc-expires": "7159",
+        "ETag": "W\/\"d504d9892382787f225ca6674e2524b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DCgx33N2OPS4AztzeI-zx78NTchN1bv8Ps8f90h-F0Z4lFs_3zdA0w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9f5wCpkbbEtqEUQU9UJGV3zQEyz.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1968,\"imdb_id\":\"tt0119141\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fools Rush In\",\"overview\":\"After a one night stand with Alex, Isabel realizes that she is pregnant and they decide to get married. However, along with the marriage comes compromise of one's own cultural traditions.\",\"popularity\":27.304,\"poster_path\":\"\/tcRaMjWoF8K7h1LqOH7FOOLRQ3e.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-02-14\",\"revenue\":42000000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"What if finding the love of your life meant changing the life that you loved?\",\"title\":\"Fools Rush In\",\"video\":false,\"vote_average\":6.41,\"vote_count\":530}"
+}

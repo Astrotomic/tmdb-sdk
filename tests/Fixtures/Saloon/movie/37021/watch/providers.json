@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "661",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7345",
+        "x-memc": "HIT",
+        "x-memc-key": "25dc951f5cd5b4fd421d27671e482d05",
+        "x-memc-age": "19155",
+        "x-memc-expires": "7345",
+        "ETag": "W\/\"89b50715c80d642f21ef5c6a75ef2b7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lZXBlLe9W4n19OsIK8KJ67ybqAm7WRBiNM0R5ez_7l0i6_AVAwCBCA=="
+    },
+    "data": "{\"id\":37021,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/37021\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/37021\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

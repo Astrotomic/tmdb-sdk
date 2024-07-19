@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1080",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14600",
+        "x-memc": "HIT",
+        "x-memc-key": "4811a00bb1b739bc664c947c9330d0f6",
+        "x-memc-age": "12012",
+        "x-memc-expires": "14600",
+        "ETag": "W\/\"e6dcdc7abb52bca01453c4cce31bf431\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_wba_be6csPlreH9YzN4fO76pk-s1-vnK6RTdqTW4ZptOv8fcyLbzg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vlxC5WXy01aiHb9YLB9sWFHxg8t.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":861866,\"imdb_id\":\"tt15220036\",\"origin_country\":[\"ZA\"],\"original_language\":\"af\",\"original_title\":\"Atlantis\",\"overview\":\"When tomboy taxi-driver Ra'ida's rebellious younger brother Marid goes missing, she turns to her powerful family for help. She is determined to find out who killed her brother and ensure justice, above all, prevails.\",\"popularity\":5.596,\"poster_path\":\"\/bKm9849YpdHD5sHTarrjzFOQYUW.jpg\",\"production_companies\":[{\"id\":9137,\"logo_path\":null,\"name\":\"Moonlighting Films\",\"origin_country\":\"ZA\"}],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"}],\"release_date\":\"2021-08-05\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Afrikaans\",\"iso_639_1\":\"af\",\"name\":\"Afrikaans\"}],\"status\":\"Released\",\"tagline\":\"In the city of the lost she went looking for justice.\",\"title\":\"Atlantis\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

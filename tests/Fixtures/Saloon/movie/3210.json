@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "930",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10376",
+        "x-memc": "HIT",
+        "x-memc-key": "463845ea51b1d9113aeb635dd5a081a3",
+        "x-memc-age": "18116",
+        "x-memc-expires": "10376",
+        "ETag": "W\/\"f0698d9a1885329adbdc9b0d07de0a70\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KoxfM3vrqS8dPZvLvb4G6tA2vPsDXHGnYRdMmSeyFthvtKTgJuVXxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/k05eAsMK9XRp6rTH3wXKCW1fx1m.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3210,\"imdb_id\":\"tt0062159\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Projected Man\",\"overview\":\"Matter-transmitter sabotage leaves a British scientist (Bryant Halliday) disfigured and full of amps.\",\"popularity\":3.468,\"poster_path\":\"\/yX69WGtHobpiYIitXR3o0ZLSZ3d.jpg\",\"production_companies\":[{\"id\":1361,\"logo_path\":null,\"name\":\"Compton Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1966-03-01\",\"revenue\":0,\"runtime\":77,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Horror of Horrors!\",\"title\":\"The Projected Man\",\"video\":false,\"vote_average\":4.3,\"vote_count\":27}"
+}

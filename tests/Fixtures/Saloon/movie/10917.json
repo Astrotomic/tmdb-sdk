@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1082",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14546",
+        "x-memc": "HIT",
+        "x-memc-key": "4f3c2de33576a207b0a9bbf8039e4fab",
+        "x-memc-age": "10305",
+        "x-memc-expires": "14546",
+        "ETag": "W\/\"d5acb241abd354706b6d4ccff0da7c98\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lL99OxKmxiu7Es2lwAL3b6_bsARcJJLfjh2n_1LkH9UZZc5HM-jkoA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sZlb6FAyeKkOXHOuwSCi7blYaJ2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":10917,\"imdb_id\":\"tt0100797\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Too Young to Die\",\"overview\":\"An abused 15 year old is charged with a murder that carries the death penalty in this fact-based story.\",\"popularity\":11.896,\"poster_path\":\"\/w8TpJYHjacR6UbPOCoQ6n9G2ODH.jpg\",\"production_companies\":[{\"id\":19237,\"logo_path\":null,\"name\":\"Von Zerneck Sertner Films\",\"origin_country\":\"\"},{\"id\":37177,\"logo_path\":null,\"name\":\"Frank \\u0026 Bob Films II\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-02-26\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They were young, in love and wanted for murder.\",\"title\":\"Too Young to Die\",\"video\":false,\"vote_average\":5.4,\"vote_count\":102}"
+}

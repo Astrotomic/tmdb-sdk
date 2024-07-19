@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "905",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23618",
+        "x-memc": "HIT",
+        "x-memc-key": "658eabd9f0c557a8247661fd960135ee",
+        "x-memc-age": "4460",
+        "x-memc-expires": "23618",
+        "ETag": "W\/\"d8d21c15375f08ace6095bf3f797f5d4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LyLjIcQ0HiFGK71r5opI5v2eskda05kVI6SPEtZZ3g9PEinjD0tQUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1179802,\"imdb_id\":\"tt0209183\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ninth Life\",\"overview\":\"Sam is a painter who returns to Dallas for a show of his recent paintings. While there he picks the scabs off some old wounds: namely the fizzled relationship with his old girlfriend Molly who has subsequently become the hot singer\/celeb on the Deep Ellum music scene and the fractured friendship with his former artist buddy George who also has a thing for Molly.\",\"popularity\":2.657,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"1991-01-01\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"Art, Love & Death\",\"title\":\"Ninth Life\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

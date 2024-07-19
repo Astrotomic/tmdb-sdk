@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1541",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1794",
+        "x-memc": "HIT",
+        "x-memc-key": "42bedaf47329d2711bae7b27ee923941",
+        "x-memc-age": "23103",
+        "x-memc-expires": "1794",
+        "ETag": "W\/\"8865c36b1e565e42dd68a8324da0da1f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PLDpxzKwICMOqO7BBzSTzuaJF7Yzhm1EHX_EkjKyy89DYnfd22N63A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rWFLgIRGXzECIbczgo7dmnwq55q.jpg\",\"belongs_to_collection\":{\"id\":9649,\"name\":\"Mexico Collection\",\"poster_path\":\"\/9sj1GR6N7kvECj99ppPvUc9kIZ9.jpg\",\"backdrop_path\":\"\/6p1OzuIKWnTDfDea7IpB9xra5J.jpg\"},\"budget\":7000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":8068,\"imdb_id\":\"tt0112851\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Desperado\",\"overview\":\"Mariachi plunges headfirst into the dark border underworld when he follows a trail of blood to the last of the infamous Mexican drug lords, Bucho, for an action-packed, bullet-riddled showdown. With the help of his best friend and a beautiful bookstore owner, the Mariachi tracks Bucho, takes on his army of desperados, and leaves a trail of blood of his own.\",\"popularity\":47.3,\"poster_path\":\"\/e3gwpBeXpvGZsxUya9zNym5QXrw.jpg\",\"production_companies\":[{\"id\":11705,\"logo_path\":null,\"name\":\"Los Hooligans Productions\",\"origin_country\":\"\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1995-08-25\",\"revenue\":25400000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He came back to settle the score with someone. Anyone. EVERYONE.\",\"title\":\"Desperado\",\"video\":false,\"vote_average\":6.931,\"vote_count\":2756}"
+}

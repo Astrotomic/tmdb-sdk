@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1484",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16425",
+        "x-memc": "HIT",
+        "x-memc-key": "f577223fb322e7d5e54d75c750e698cb",
+        "x-memc-age": "10131",
+        "x-memc-expires": "16425",
+        "ETag": "W\/\"7f428d855a5b027404553ac54382bbe8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-uOOloOmhtRlTEwXH69m1ttr_SW9WxquGBF5vPtERvDqZQLGPRbDBg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dAHrR2Avzpdpii9RGRGglJqt0BU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":537,\"imdb_id\":\"tt0436445\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Je ne suis pas l\u00e0 pour \u00eatre aim\u00e9\",\"overview\":\"Jean-Claude Delsart, a 50 years-old bailiff, with his worn-out smile and heart, abandoned a long time ago the idea that life could give him pleasures. Until the day, he dares to push the doors of a tango lesson...\",\"popularity\":6.474,\"poster_path\":\"\/9nlF36ymCFTkss54lotmSSEmIaQ.jpg\",\"production_companies\":[{\"id\":309,\"logo_path\":\"\/eVdJe4ha50lW1Eop1tq93TMh1XW.png\",\"name\":\"Angoa-Agicoa\",\"origin_country\":\"FR\"},{\"id\":310,\"logo_path\":\"\/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png\",\"name\":\"CNC\",\"origin_country\":\"FR\"},{\"id\":311,\"logo_path\":\"\/TNGvZ8zOklntjPP3EcsHtrR8Rc.png\",\"name\":\"PROCIREP\",\"origin_country\":\"FR\"},{\"id\":313,\"logo_path\":\"\/rx5CT9wUnEz0AcdpcX9epujv7nw.png\",\"name\":\"TS Productions\",\"origin_country\":\"FR\"},{\"id\":314,\"logo_path\":null,\"name\":\"Uni Etoile 2\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2005-10-12\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Not Here to Be Loved\",\"video\":false,\"vote_average\":6.7,\"vote_count\":26}"
+}

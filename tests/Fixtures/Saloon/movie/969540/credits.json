@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "541",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:41:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20609",
+        "x-memc": "HIT",
+        "x-memc-key": "0a114c162ad2677e1fe5b02d9b36f12e",
+        "x-memc-age": "5389",
+        "x-memc-expires": "20609",
+        "ETag": "W\/\"da8256224a1dbbf2d7b4c7ac91bc71fe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AnCQ8FyOMTp30gE3hwJZbugRg7_dsgqmzjBY9N6DXgHHYtnOUK94-w=="
+    },
+    "data": "{\"id\":969540,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3159983,\"known_for_department\":\"Acting\",\"name\":\"Tuomo Holopainen\",\"original_name\":\"Tuomo Holopainen\",\"popularity\":0.069,\"profile_path\":null,\"cast_id\":2,\"character\":\"narrator\",\"credit_id\":\"626d7f52c56d2d11b1385f78\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3530669,\"known_for_department\":\"Directing\",\"name\":\"Kari Kemppainen\",\"original_name\":\"Kari Kemppainen\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"626d7f42eec4f31197cb0383\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

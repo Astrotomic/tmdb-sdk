@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1136",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13356",
+        "x-memc": "HIT",
+        "x-memc-key": "fd07f1cbd591bda56e47a910cf6467f0",
+        "x-memc-age": "8533",
+        "x-memc-expires": "13356",
+        "ETag": "W\/\"47c651bd3b5f53793a0e1d7e0513643c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aw3nzKc-rGPQFa6EFIn2DjzzSIuQmnon__-HLQ1SMWirFyHGV6mFGQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":225898,\"imdb_id\":\"tt1409798\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Exit to Hell\",\"overview\":\"A gang war between a gang and the mafia escalates and claims numerous victims on both sides.\",\"popularity\":0.219,\"poster_path\":\"\/1j9ReY42daLmDjdsCUMoCrbWoi1.jpg\",\"production_companies\":[{\"id\":17157,\"logo_path\":null,\"name\":\"FunHouse Features\",\"origin_country\":\"\"},{\"id\":17158,\"logo_path\":null,\"name\":\"Nunsuch Pictures\",\"origin_country\":\"\"},{\"id\":17159,\"logo_path\":null,\"name\":\"Cas-Mor Productions\",\"origin_country\":\"\"},{\"id\":17160,\"logo_path\":null,\"name\":\"Gallery Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-09-30\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Justice is Served\",\"title\":\"Exit to Hell\",\"video\":false,\"vote_average\":3.0,\"vote_count\":11}"
+}

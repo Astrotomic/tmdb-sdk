@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1212",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15419",
+        "x-memc": "HIT",
+        "x-memc-key": "ac6288287a71e18d97ee523afdf0fb7f",
+        "x-memc-age": "10947",
+        "x-memc-expires": "15419",
+        "ETag": "W\/\"913fe376a1fce6ef5176df4a4bca2923\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rRzAmezk6GAVebsNNYJWRg07LO32ajmxGTQmhyBBDec9ElBaB3gkmw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7ks7A3mAO7twDOvBVE4cR8LaIM8.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.bluelockmovie.com\",\"id\":1104844,\"imdb_id\":\"tt28671146\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5287\u5834\u7248\u30d6\u30eb\u30fc\u30ed\u30c3\u30af -EPISODE \u51ea-\",\"overview\":\"One day, Nagi Seishiro receives an invitation to the mysterious BLUE LOCK Project. What awaits him there is an encounter with the finest strikers assembled from across the country. Nagi's dream of becoming the best, alongside Mikage Reo, will take this prodigy to a world he's never known.\",\"popularity\":115.392,\"poster_path\":\"\/ae434jM5NG2kKX1rRkG5giMhpPI.jpg\",\"production_companies\":[{\"id\":30294,\"logo_path\":\"\/k2aOFwsa0NL0MuHA3Oh0kpoQm8D.png\",\"name\":\"8bit\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2024-04-19\",\"revenue\":11201738,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"BLUE LOCK THE MOVIE -EPISODE NAGI-\",\"video\":false,\"vote_average\":8.7,\"vote_count\":18}"
+}

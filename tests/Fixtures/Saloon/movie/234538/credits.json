@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1370",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25577",
+        "x-memc": "HIT",
+        "x-memc-key": "fc24b5524c57df2000920b1fd22f2266",
+        "x-memc-age": "2830",
+        "x-memc-expires": "25577",
+        "ETag": "W\/\"460eb485486033312acd7851caecf9be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8JOuNgbctCG4ke5smowAkIEPMe85ERtkk_e5RM81jU5zYZVhiTKUZQ=="
+    },
+    "data": "{\"id\":234538,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":33923,\"known_for_department\":\"Acting\",\"name\":\"Mel Blanc\",\"original_name\":\"Mel Blanc\",\"popularity\":22.46,\"profile_path\":\"\/8fevv4K06TmHsYom2XfmxgKrTcd.jpg\",\"cast_id\":4,\"character\":\"Barnyard Dog \/ Foghorn Leghorn \/ Ostrich (voice)\",\"credit_id\":\"630ab5e7ca7ec6007efd489e\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":132742,\"known_for_department\":\"Directing\",\"name\":\"Robert McKimson\",\"original_name\":\"Robert McKimson\",\"popularity\":6.408,\"profile_path\":\"\/4fgokuTV7tlwekg91WeDZRuLQNc.jpg\",\"credit_id\":\"52fe4e34c3a36847f8283aa7\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":422939,\"known_for_department\":\"Sound\",\"name\":\"Milt Franklyn\",\"original_name\":\"Milt Franklyn\",\"popularity\":4.218,\"profile_path\":\"\/wvwkvfkRYm9txQNGaqwkOj7Hn8b.jpg\",\"credit_id\":\"61b13a75f056d50041e5c2fb\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":2,\"id\":150037,\"known_for_department\":\"Writing\",\"name\":\"David Detiege\",\"original_name\":\"David Detiege\",\"popularity\":3.32,\"profile_path\":null,\"credit_id\":\"630ab73a18864b0080e49d78\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":2,\"id\":149379,\"known_for_department\":\"Editing\",\"name\":\"Treg Brown\",\"original_name\":\"Treg Brown\",\"popularity\":3.547,\"profile_path\":null,\"credit_id\":\"630ab826e18b97007bdaeaed\",\"department\":\"Editing\",\"job\":\"Editor\"}]}"
+}

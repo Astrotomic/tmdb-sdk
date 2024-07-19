@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1276",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5712",
+        "x-memc": "HIT",
+        "x-memc-key": "5850bb93018ad8ac29d09a58f3ef02e4",
+        "x-memc-age": "19871",
+        "x-memc-expires": "5712",
+        "ETag": "W\/\"f438279d79513a41c9b26b3b161f7da0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jHWrtZ1Dd2WjUjkRE6d23JBqHSDxZTfg3-iZhzdiuJtJHQ8BBfkKFg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8wI0M7HDHhDsoxMCkcAVUx7O6DX.jpg\",\"belongs_to_collection\":null,\"budget\":38000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.onlythebrave-movie.com\",\"id\":395991,\"imdb_id\":\"tt3829920\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Only the Brave\",\"overview\":\"Members of the Granite Mountain Hotshots battle deadly wildfires to save an Arizona town.\",\"popularity\":59.455,\"poster_path\":\"\/lC7WdUNLOJI3sllaDGNdFy2GT8g.jpg\",\"production_companies\":[{\"id\":435,\"logo_path\":\"\/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png\",\"name\":\"di Bonaventura Pictures\",\"origin_country\":\"US\"},{\"id\":33681,\"logo_path\":\"\/dHx2nsV9AC7IBlKN2dk1FDImvOz.png\",\"name\":\"Black Label Media\",\"origin_country\":\"US\"},{\"id\":51513,\"logo_path\":\"\/eWhUrhDH1DapiMCnK7I9f5HPDjd.png\",\"name\":\"Cond\u00e9 Nast Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-09-22\",\"revenue\":25754775,\"runtime\":133,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It\u2019s not what stands in front of you, it\u2019s who stands beside you\",\"title\":\"Only the Brave\",\"video\":false,\"vote_average\":7.414,\"vote_count\":1526}"
+}

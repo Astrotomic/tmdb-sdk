@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1500",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1905",
+        "x-memc": "HIT",
+        "x-memc-key": "915c950d7d4ae96a73892f7d84fce6c6",
+        "x-memc-age": "22809",
+        "x-memc-expires": "1905",
+        "ETag": "W\/\"fec16131177f150f1a5df162cbb1b0f1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mlljP9uunBMo74TkFXBegF6p95YgnYR9c3pPFdJ24JEFuBnMKsTcBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sOkUBkwq21ZEThCX7wboY2Xl3m5.jpg\",\"belongs_to_collection\":null,\"budget\":900000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":880,\"imdb_id\":\"tt0112379\",\"origin_country\":[\"NL\"],\"original_language\":\"nl\",\"original_title\":\"Antonia\",\"overview\":\"After World War II, Antonia and her daughter, Danielle, go back to their Dutch hometown, where Antonia's late mother has bestowed a small farm upon her. There, Antonia settles down and joins a tightly-knit but unusual community. Those around her include quirky friend Crooked Finger, would-be suitor Bas and, eventually for Antonia, a granddaughter and great-granddaughter who help create a strong family of empowered women.\",\"popularity\":9.908,\"poster_path\":\"\/nUCVi6bBIL7LGC61nYaCqikAhIA.jpg\",\"production_companies\":[{\"id\":575,\"logo_path\":null,\"name\":\"Bergen Film\",\"origin_country\":\"\"},{\"id\":576,\"logo_path\":null,\"name\":\"Bard Entertainments\",\"origin_country\":\"\"},{\"id\":577,\"logo_path\":null,\"name\":\"NPS Televisie\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"}],\"release_date\":\"1995-09-21\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"Dutch\",\"iso_639_1\":\"nl\",\"name\":\"Nederlands\"}],\"status\":\"Released\",\"tagline\":\"A motion picture that celebrates everything you love about life.\",\"title\":\"Antonia's Line\",\"video\":false,\"vote_average\":7.059,\"vote_count\":118}"
+}

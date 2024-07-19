@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1125",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13685",
+        "x-memc": "HIT",
+        "x-memc-key": "8b6f70a2000575cb52023c4f5a9e85d7",
+        "x-memc-age": "12881",
+        "x-memc-expires": "13685",
+        "ETag": "W\/\"9c40b026e2f14b50bc63fe3c57365e68\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M9H4yGYz2Qxom0MlXt0nTUf3rjt9pnE1_28tqpLY1cUmyHXUKolm9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fB6FTrvJ8tMweDDgR01ekAqZxMP.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6658,\"imdb_id\":\"tt0071171\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Auf der Alm, da gibt's koa S\u00fcnd'\",\"overview\":\"A scientist discovers a way to turn cow manure into energy. Two secret agents are dispatched to find out the formula but they devote more time to having sex with each other than they do going after the scientist. Pretty soon everyone in the area is after the scientist but they also wind up spending more time having sex with each other.\",\"popularity\":10.288,\"poster_path\":\"\/pK2FT1V3EH1hAGgQLt0upTyv1Un.jpg\",\"production_companies\":[{\"id\":10437,\"logo_path\":null,\"name\":\"Lisa Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1974-10-01\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"It's Your Cup of TNT\",\"title\":\"Bottoms Up\",\"video\":false,\"vote_average\":4.2,\"vote_count\":9}"
+}

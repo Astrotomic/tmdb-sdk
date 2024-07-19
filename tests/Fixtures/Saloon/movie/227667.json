@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1541",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26890",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "bb05710110a33c39ae433f7837be902f",
+        "x-memc-age": "0",
+        "x-memc-expires": "26890",
+        "ETag": "W\/\"3f3caf16e8e64f212d0565314f5d7fa8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fly1qnEotAvsyXgM_N5xPMdMg6gCJ-pgjTj9IxntbXFUv4rp59PF9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":977885,\"name\":\"The Perry Mason TV Movie Collection\",\"poster_path\":\"\/hRt0FtQWGjTfRZH8VbBDa6bUUMG.jpg\",\"backdrop_path\":\"\/icY9E7A8WUi9sWvyZMoQ8S7J5cE.jpg\"},\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":227667,\"imdb_id\":\"tt0091750\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Perry Mason: The Case of the Shooting Star\",\"overview\":\"An actor rigs a fake shooting on TV with the connivance of his friend, the show's host, but the practical joke goes wrong when the gun turns out to contain a live round.\",\"popularity\":3.582,\"poster_path\":\"\/sJvhAhQexMcNlMdPq5pQhW3RUhD.jpg\",\"production_companies\":[{\"id\":12077,\"logo_path\":\"\/s6p5INYKlo6gD6RFXlm9ACA2VVj.png\",\"name\":\"Viacom Productions\",\"origin_country\":\"US\"},{\"id\":56689,\"logo_path\":\"\/l97Fx8D6qNfrkC50mxVt5ONossk.png\",\"name\":\"Dean Hargrove Productions\",\"origin_country\":\"US\"},{\"id\":76219,\"logo_path\":null,\"name\":\"InterMedia Entertainment Company\",\"origin_country\":\"US\"},{\"id\":106634,\"logo_path\":\"\/3je2R9JZv4STKHX5igutY3hnVl2.png\",\"name\":\"Strathmore Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-11-08\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Perry Mason: The Case of the Shooting Star\",\"video\":false,\"vote_average\":6.9,\"vote_count\":10}"
+}

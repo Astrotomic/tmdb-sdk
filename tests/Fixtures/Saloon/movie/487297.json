@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1365",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23292",
+        "x-memc": "HIT",
+        "x-memc-key": "5235992c0edb1dae5f499c9f4bd528ad",
+        "x-memc-age": "2758",
+        "x-memc-expires": "23292",
+        "ETag": "W\/\"8524531fca6a48e9e6678179e6fc52ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oL-kdoUZcuTtBopNIp5t91Q1V8SnK-nnx2fDR-ZsZw-hgbEdvu1n_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pmVBOsh8TBvvtFKIo6QS5dE6tTs.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/whatmenwantmovie.com\",\"id\":487297,\"imdb_id\":\"tt7634968\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"What Men Want\",\"overview\":\"Magically able to hear what men are thinking, a sports agent uses her newfound ability to turn the tables on her overbearing male colleagues.\",\"popularity\":49.42,\"poster_path\":\"\/30IiwvIRqPGjUV0bxJkZfnSiCL.jpg\",\"production_companies\":[{\"id\":114117,\"logo_path\":null,\"name\":\"BET Films\",\"origin_country\":\"\"},{\"id\":96540,\"logo_path\":\"\/AgYjTNeIKOh0yvegPLSjq8EOsif.png\",\"name\":\"Paramount Players\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":49968,\"logo_path\":\"\/gz2hSoMkvMJdTMgCLFGRJErPwXY.png\",\"name\":\"Will Packer Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-02-08\",\"revenue\":69766483,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She can hear men's thoughts. Let the games begin.\",\"title\":\"What Men Want\",\"video\":false,\"vote_average\":6.179,\"vote_count\":1408}"
+}

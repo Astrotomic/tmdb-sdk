@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1560",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5489",
+        "x-memc": "HIT",
+        "x-memc-key": "9d8b8d2c41cb35e4e61e1cf3e2e783e4",
+        "x-memc-age": "23082",
+        "x-memc-expires": "5489",
+        "ETag": "W\/\"2daed065cc6289b1d1ca58605d426b7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uqs25IcwMOv0thz4nWan9vH5IqGdu9-5IvEh8LfQek6RxQdPx7CJHQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eLqQ6RleEKUBbqsxQvfJK2iOuVy.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.xyzfilms.com\/hidden-strike\",\"id\":457332,\"imdb_id\":\"tt6879446\",\"origin_country\":[\"US\",\"CN\"],\"original_language\":\"en\",\"original_title\":\"Hidden Strike\",\"overview\":\"Two elite soldiers must escort civilians through a gauntlet of gunfire and explosions.\",\"popularity\":49.716,\"poster_path\":\"\/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg\",\"production_companies\":[{\"id\":79732,\"logo_path\":null,\"name\":\"Talent International Media\",\"origin_country\":\"\"},{\"id\":12142,\"logo_path\":\"\/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png\",\"name\":\"XYZ Films\",\"origin_country\":\"US\"},{\"id\":48805,\"logo_path\":null,\"name\":\"Changchun Film Studio\",\"origin_country\":\"CN\"},{\"id\":25660,\"logo_path\":null,\"name\":\"Huaxia Film Distribution\",\"origin_country\":\"CN\"},{\"id\":232656,\"logo_path\":null,\"name\":\"Flame Pictures Company\",\"origin_country\":\"\"},{\"id\":110797,\"logo_path\":null,\"name\":\"Epitome Capital\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-07-06\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There is a plan. They just don't know what it is.\",\"title\":\"Hidden Strike\",\"video\":false,\"vote_average\":6.963,\"vote_count\":926}"
+}

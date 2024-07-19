@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1293",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12704",
+        "x-memc": "HIT",
+        "x-memc-key": "163dab7e862b2fa0158f61af8a48c51a",
+        "x-memc-age": "15131",
+        "x-memc-expires": "12704",
+        "ETag": "W\/\"5d16f4f67bda616db7fc8cc9c82e0b6e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EbAgQMT9yD2PAbOff3QEvyT8LBHCs2HYhlOMe34SnDBSyFkUfi74Qg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":700,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.youtube.com\/watch?v=uDgiQxzQNnM\",\"id\":709564,\"imdb_id\":\"tt10558946\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Double Bill (Blood Oaks\/Sex Demon)\",\"overview\":\"Writer\/director Joseph Vrenick presents the ultimate Grindhouse experience in about 15 minutes. Starting with a fake trailer for a fake movie Blood Oaks, followed by the featured short, Sex Demon. A movie about a young couple's big night being rudely interrupted by demonic possession and the only person who can get rid of the demon is the wannabe punk kid with a convention bought spell book that turns out to be the real deal.\",\"popularity\":2.122,\"poster_path\":\"\/7ikAu5OawbpTvMw8xSP1qXy5LDd.jpg\",\"production_companies\":[{\"id\":134557,\"logo_path\":null,\"name\":\"Papillion Pictures\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2019-05-10\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You Ain't Seen Nothin' Yet.\",\"title\":\"Double Bill (Blood Oaks\/Sex Demon)\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

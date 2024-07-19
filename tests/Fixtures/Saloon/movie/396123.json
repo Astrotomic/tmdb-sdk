@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "946",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26317",
+        "x-memc": "HIT",
+        "x-memc-key": "f2c1ee8ef89becc3995cba4c9c0c642d",
+        "x-memc-age": "2214",
+        "x-memc-expires": "26317",
+        "ETag": "W\/\"09a3b0695e6472d7a36f5aec06eedc71\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NQwTwpKY8zf_eIyKRh5xL5YFQziL98B_hGIuknRmhSb9_yx8kzHeDQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":396123,\"imdb_id\":\"tt1823087\",\"origin_country\":[\"FR\"],\"original_language\":\"xx\",\"original_title\":\"Burning Safari\",\"overview\":\"Small alien robots land on Earth for a photo safari. Their encounter with a wild ape man will prove communication between the two species to be... difficult.\",\"popularity\":1.539,\"poster_path\":\"\/A1mAFHL1XXreHfjqFvqHpZ8C2ie.jpg\",\"production_companies\":[{\"id\":71552,\"logo_path\":\"\/hmFPR24kEVCPi6A47x2j6n7qfza.png\",\"name\":\"Gobelins\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2006-05-04\",\"revenue\":0,\"runtime\":2,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Burning Safari\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

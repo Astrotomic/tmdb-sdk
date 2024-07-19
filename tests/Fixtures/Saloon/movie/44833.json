@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1944",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11926",
+        "x-memc": "HIT",
+        "x-memc-key": "64bbc11816e659703b95c80e578da1fb",
+        "x-memc-age": "14641",
+        "x-memc-expires": "11926",
+        "ETag": "W\/\"b402e7016af74fb18196b8df9d21ec75\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HDwfwHhPo9EqZybzx1a_9gDiUO9Wm-DrzIxuX_FqPccXQq5o4yBcnQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/50sWmsnQ62nu94D9z4nqdv9zBqJ.jpg\",\"belongs_to_collection\":null,\"budget\":209000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":44833,\"imdb_id\":\"tt1440129\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Battleship\",\"overview\":\"When mankind beams a radio signal into space, a reply comes from \u2018Planet G\u2019, in the form of several alien crafts that splash down in the waters off Hawaii. Lieutenant Alex Hopper is a weapons officer assigned to the USS John Paul Jones, part of an international naval coalition which becomes the world's last hope for survival as they engage the hostile alien force of unimaginable strength. While taking on the invaders, Hopper must also try to live up to the potential that his brother, and his fianc\u00e9e's father\u2014an Admiral\u2014expect of him.\",\"popularity\":51.209,\"poster_path\":\"\/9b0Im7SfedHiajTwzSL9zGyBI7M.jpg\",\"production_companies\":[{\"id\":13778,\"logo_path\":null,\"name\":\"Bluegrass Films\",\"origin_country\":\"US\"},{\"id\":20153,\"logo_path\":null,\"name\":\"Film 44\",\"origin_country\":\"US\"},{\"id\":1778,\"logo_path\":\"\/b5rT6VbYza3LyfltCmz1OcqzWJM.png\",\"name\":\"dentsu\",\"origin_country\":\"JP\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":22826,\"logo_path\":\"\/37ZxE1qShQ44VdsRPkO1zOtnMKi.png\",\"name\":\"Hasbro Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-04-11\",\"revenue\":303025485,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The battle for Earth begins at sea.\",\"title\":\"Battleship\",\"video\":false,\"vote_average\":5.9,\"vote_count\":5384}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1768",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7006",
+        "x-memc": "HIT",
+        "x-memc-key": "c07b40db9dd0fdb6d541033493dba6c2",
+        "x-memc-age": "18888",
+        "x-memc-expires": "7006",
+        "ETag": "W\/\"5766d6d186620548ae293dc48d3c0a4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YOljDUGYfGXT9-LMH20QxSXBMsdDZuRcKURkbPJvLDbgarzDtmKE4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xfiGkD1ObZD5dr0arxGFxUevWZz.jpg\",\"belongs_to_collection\":{\"id\":101471,\"name\":\"Return of the Living Dead Collection\",\"poster_path\":\"\/7ekXvck6C94gKbfH6WlKK2qqdVL.jpg\",\"backdrop_path\":\"\/jy3Jib8MOEWQIel5QkzVydH04a9.jpg\"},\"budget\":4000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10925,\"imdb_id\":\"tt0089907\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Return of the Living Dead\",\"overview\":\"When foreman Frank shows new employee Freddy a secret military experiment in a supply warehouse in Louisville, Kentucky, the two klutzes accidentally release a gas that reanimates corpses into flesh-eating zombies. As the epidemic spreads throughout the town, and the creatures satisfy their hunger in gory and outlandish ways, Frank and Freddy fight to survive with the help of their boss and a mysterious mortician.\",\"popularity\":51.729,\"poster_path\":\"\/qVTFBabgnWz4jZ8wOQRYZI5EITF.jpg\",\"production_companies\":[{\"id\":469,\"logo_path\":null,\"name\":\"Hemdale Film Corporation\",\"origin_country\":\"GB\"},{\"id\":4763,\"logo_path\":null,\"name\":\"Fox Films Ltd.\",\"origin_country\":\"GB\"},{\"id\":4764,\"logo_path\":null,\"name\":\"Cinema 84\",\"origin_country\":\"US\"},{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-04-25\",\"revenue\":14200000,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're Back From The Grave and Ready To Party!\",\"title\":\"The Return of the Living Dead\",\"video\":false,\"vote_average\":7.1,\"vote_count\":1966}"
+}

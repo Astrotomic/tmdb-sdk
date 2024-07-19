@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1354",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1795",
+        "x-memc": "HIT",
+        "x-memc-key": "f6eaf6f4eaa6221b65aa611e3ce7b98f",
+        "x-memc-age": "24023",
+        "x-memc-expires": "1795",
+        "ETag": "W\/\"511dddc569e01ff55b695b7925c645a5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9y0A45nFVYkxJKaLYktm5K9Za8ADDgMVD8XaP70a8dY-Ga_-xK22bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nxWUUSYOTEAjARGUI9EcTBSMo2u.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":241765,\"imdb_id\":\"tt2198241\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Outsider\",\"overview\":\"Revolves around a British military contractor Lex Walker who is told his daughter has died. When he arrives in Los Angeles and discovers the body is not hers, he begins an investigation.\",\"popularity\":25.763,\"poster_path\":\"\/yzCyzP0FwzprnbFxWapmoL2MLO7.jpg\",\"production_companies\":[{\"id\":3546,\"logo_path\":null,\"name\":\"Hollywood Media Bridge\",\"origin_country\":\"US\"},{\"id\":5357,\"logo_path\":\"\/19A0Ilxeh1bWMlyMtMgGzcNBn07.png\",\"name\":\"Zero Gravity Management\",\"origin_country\":\"US\"},{\"id\":35625,\"logo_path\":\"\/65KsaZPfESjEmubhxe2VpJiGLH.png\",\"name\":\"Premiere Entertainment Group\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-03-11\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Outgunned. Outnumbered. Out for blood.\",\"title\":\"The Outsider\",\"video\":false,\"vote_average\":4.489,\"vote_count\":91}"
+}

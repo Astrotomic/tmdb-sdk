@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1572",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9137",
+        "x-memc": "HIT",
+        "x-memc-key": "56328c7950073cffa2d6d406cab85b4a",
+        "x-memc-age": "17140",
+        "x-memc-expires": "9137",
+        "ETag": "W\/\"65d05f7a0d830c48941bbd2eb2cf2465\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Wq9xJXxfCbkRMu1XxFS_AvwP8mV_jMhUQi97d6QHtPrg9S0mtuMvsw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/egrxDU6GM8Dv5u5e8Nm2Wlq7k2E.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10237,\"imdb_id\":\"tt0064437\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Honeymoon Killers\",\"overview\":\"Martha Beck, an obese nurse who is desperately lonely, joins a \\\"correspondence club\\\" and finds a romantic pen pal in Ray Fernandez. Martha falls hard for Ray, and is intent on sticking with him even when she discovers he's a con man who seduces lonely single women, kills them and then takes their money. She poses as Ray's sister and joins Ray on a wild killing spree, fueled by her lingering concern that Ray will leave her for one of his marks.\",\"popularity\":15.667,\"poster_path\":\"\/3n69M2qBFMWEYAOOQdvxYAaaDLM.jpg\",\"production_companies\":[{\"id\":29406,\"logo_path\":null,\"name\":\"Roxanne Company\",\"origin_country\":\"\"},{\"id\":9266,\"logo_path\":\"\/lRinQ7scVye5N8qkUIoCB4QXbRh.png\",\"name\":\"American International Pictures\",\"origin_country\":\"US\"},{\"id\":88161,\"logo_path\":null,\"name\":\"Cinerama Releasing Corporation\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1970-02-04\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Love is a bitch ... called Martha.\",\"title\":\"The Honeymoon Killers\",\"video\":false,\"vote_average\":6.599,\"vote_count\":106}"
+}

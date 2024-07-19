@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1343",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19976",
+        "x-memc": "HIT",
+        "x-memc-key": "45368ae2e5beb416f06d1da1a2595e91",
+        "x-memc-age": "3208",
+        "x-memc-expires": "19976",
+        "ETag": "W\/\"6f9c223491b628c1ac62856c17aa3bdc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "axaoHE2hA92uzRNMFHEs_8j3m336DcogNILLzVyehe2Lw3fW6YmRxA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wRqyerpR1vhnaK4xhTDyq0Kuik6.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":18214,\"imdb_id\":\"tt0094750\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Black Eagle\",\"overview\":\"One of the US Air Force's most modern tactical aircrafts, an F-100 with a new laser guidance system, crashes into the sea near Malta - a region where the Soviet forces are highly present, too. The CIA immediately sends out their best secret agent, Ken Tani, to salvage the system before it falls into enemy hands. To ensure his loyalty, they bring his two young sons to a nearby hotel on the island.\",\"popularity\":23.811,\"poster_path\":\"\/hMm9hIhErPcgONWknYBgfQP2Z00.jpg\",\"production_companies\":[{\"id\":56811,\"logo_path\":null,\"name\":\"Magus Productions\",\"origin_country\":\"\"},{\"id\":56812,\"logo_path\":null,\"name\":\"Rotecon B.V.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-05-01\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There are no armies. There is no glory. This fight is one on one.\",\"title\":\"Black Eagle\",\"video\":false,\"vote_average\":4.946,\"vote_count\":224}"
+}

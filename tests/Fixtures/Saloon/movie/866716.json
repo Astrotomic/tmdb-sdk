@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1083",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8020",
+        "x-memc": "HIT",
+        "x-memc-key": "78fe38052bbe9b84dcb823bcc29f4584",
+        "x-memc-age": "19415",
+        "x-memc-expires": "8020",
+        "ETag": "W\/\"56467f10ac79c2d003c9387c8d4f645f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_ygG9gOAIutiJBy0aeoJIjrsyB9qiLJsGAlrvSeDc90VU9tSjteJeg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zxBxvlT2wIRGJXNd9uYaPCeX8zR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":866716,\"imdb_id\":\"tt15162666\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"When Shadows Dance at Night\",\"overview\":\"Following her brother's death, Georgia, a young college student, returns home to her reservation only to find she's become the prey of a shapeshifting, faceless figure.\",\"popularity\":2.216,\"poster_path\":\"\/p3qpTngExtaq8O5XlYjQ6Buibcn.jpg\",\"production_companies\":[{\"id\":96056,\"logo_path\":\"\/o2VlzDYQZyqPnaXx5dyyQ0I1ML1.png\",\"name\":\"Toronto Metropolitan University\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2021-10-22\",\"revenue\":0,\"runtime\":16,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Don't get caught alone...\",\"title\":\"When Shadows Dance at Night\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

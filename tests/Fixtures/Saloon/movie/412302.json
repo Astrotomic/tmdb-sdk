@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1644",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5976",
+        "x-memc": "HIT",
+        "x-memc-key": "db39ff8070c073d23a7ad43a253fa1cb",
+        "x-memc-age": "19790",
+        "x-memc-expires": "5976",
+        "ETag": "W\/\"698da065aac25caf22421329bbbf0fc4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7zq5T_SJ0yxOEMDqBk7jI5k04UM5u0Y6r6GwSLu5wbH-eEnlUYqntA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eReiiUBlDgF2dAtKkpxzzK6H8t2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.geminithefilm.com\/\",\"id\":412302,\"imdb_id\":\"tt5795086\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Gemini\",\"overview\":\"A heinous crime tests the complex relationship between a tenacious personal assistant and her Hollywood starlet boss. As the assistant travels across Los Angeles to unravel the mystery, she must stay one step ahead of a determined policeman and confront her own understanding of friendship, truth and celebrity.\",\"popularity\":22.16,\"poster_path\":\"\/oIltQs7MPk7VQFG3DJfgC63mShU.jpg\",\"production_companies\":[{\"id\":1976,\"logo_path\":\"\/vuNHAl3LpcNtjtRx8Ml4gpUMO2G.png\",\"name\":\"filmscience\",\"origin_country\":\"US\"},{\"id\":20311,\"logo_path\":null,\"name\":\"Syncopated Films\",\"origin_country\":\"\"},{\"id\":20848,\"logo_path\":\"\/htPfdm3yNRVsDz8CyyMozALKOO0.png\",\"name\":\"Rough House Pictures\",\"origin_country\":\"US\"},{\"id\":103697,\"logo_path\":\"\/9gsomzlpj1lLR7kupysQ7nSFcHh.png\",\"name\":\"PASTEL\",\"origin_country\":\"US\"},{\"id\":11341,\"logo_path\":\"\/xytTBODEy3p20ksHL4Ftxr483Iv.png\",\"name\":\"Stage 6 Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-06-14\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It\u2019s all there if you know how to look.\",\"title\":\"Gemini\",\"video\":false,\"vote_average\":5.4,\"vote_count\":131}"
+}

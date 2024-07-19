@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1060",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9507",
+        "x-memc": "HIT",
+        "x-memc-key": "65a6dbab15f8608bf4d20f51bddbcfa1",
+        "x-memc-age": "15242",
+        "x-memc-expires": "9507",
+        "ETag": "W\/\"8ccad8a556f0e7d8466904b5793ef73b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h6mGq0N2nSJOrN9bdA4cCacra5wJkzgdKrXdhRSv9gyTUJ7xRU4C_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5vi6Nq1VoMqFcUIpNSd5oEjjYlV.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":253711,\"imdb_id\":\"tt0113261\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hard Justice\",\"overview\":\"When A.T.F. agent Nick Adams goes undercover in a prison to unravel the mystery of a fellow agents death there. Warden Pike and his pet goons are involved in all kinds of corrupt activities; dope dealing and gun smuggling to name a few.\",\"popularity\":4.846,\"poster_path\":\"\/uI33qigPWcQNX3jNMF76ocE4zB7.jpg\",\"production_companies\":[{\"id\":1020,\"logo_path\":\"\/kuUIHNwMec4dwOLghDhhZJzHZTd.png\",\"name\":\"Millennium Media\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-07-15\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"...There's No Escape\",\"title\":\"Hard Justice\",\"video\":false,\"vote_average\":5.7,\"vote_count\":8}"
+}

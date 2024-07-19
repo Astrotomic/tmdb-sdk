@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1502",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12457",
+        "x-memc": "HIT",
+        "x-memc-key": "c079632e8ec63ef99280ffaf637ddce0",
+        "x-memc-age": "12840",
+        "x-memc-expires": "12457",
+        "ETag": "W\/\"9f161686433402fe0d616ce12aa83dfa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kou0O_jfYaRSZgm4CBJhIYKue-G6bEz511BP9QpRR7_1PyVkWOLmGw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/flYEmZuMyDJKomYbprKzkbltXRw.jpg\",\"belongs_to_collection\":{\"id\":33938,\"name\":\"Airport Collection\",\"poster_path\":\"\/yDnEIOmCgPZJ55d8WeRjlgqgi78.jpg\",\"backdrop_path\":\"\/aahejNK1UOMWT2FNGOjgQDvczE.jpg\"},\"budget\":6000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":7227,\"imdb_id\":\"tt0075648\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Airport '77\",\"overview\":\"Flight 23 has crashed in the Bermuda Triangle after a hijacking gone wrong. Now the surviving passengers must brave panic, slow leaks, oxygen depletion, and more while attempting a daring plan, all while 200 feet underwater.\",\"popularity\":25.733,\"poster_path\":\"\/m9b3frZR0Wu8I3ayN3QPrxfZMvC.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":3736,\"logo_path\":null,\"name\":\"Jennings Lang Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-03-11\",\"revenue\":30000000,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hungarian\",\"iso_639_1\":\"hu\",\"name\":\"Magyar\"}],\"status\":\"Released\",\"tagline\":\"Flight 23 has crashed in the Bermuda Triangle... passengers still alive, trapped underwater...\",\"title\":\"Airport '77\",\"video\":false,\"vote_average\":5.586,\"vote_count\":279}"
+}

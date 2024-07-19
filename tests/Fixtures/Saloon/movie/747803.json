@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2141",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17270",
+        "x-memc": "HIT",
+        "x-memc-key": "e94e70283338bf88cf0be7300e9f84d1",
+        "x-memc-age": "4344",
+        "x-memc-expires": "17270",
+        "ETag": "W\/\"f73fc6ddb5f59ec5e5d5decafd5e009f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4w1T_Bw8jdYZa2ggKPZiS1xDXNyjcpSeFwpGriiS3wTJpfKvlLfu5w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vmDa8HijINCAFYKqsMz0YM3sVyE.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.23ten.com\/one-way\",\"id\":747803,\"imdb_id\":\"tt13075730\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"One Way\",\"overview\":\"On the run with a bag full of cash after a robbing his former crime boss\u2014and a potentially fatal wound\u2014Freddy slips onto a bus headed into a rainy night in Georgia. With his life slipping through his fingers, Freddy is left with very few choices to survive.\",\"popularity\":17.184,\"poster_path\":\"\/uQCxOziq79P3wDsRwQhhkhQyDsJ.jpg\",\"production_companies\":[{\"id\":76991,\"logo_path\":\"\/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png\",\"name\":\"Highland Film Group\",\"origin_country\":\"US\"},{\"id\":149070,\"logo_path\":\"\/1UAOiEYsfWBVEswnU8Dj9M9Kx9.png\",\"name\":\"Bay Point Media\",\"origin_country\":\"US\"},{\"id\":104678,\"logo_path\":\"\/3SsbZgTQDicxLi5uUS2LCkthsmc.png\",\"name\":\"23ten\",\"origin_country\":\"GB\"},{\"id\":119056,\"logo_path\":\"\/vbhwOf0TQ4z12GIytYGWmhPJAOz.png\",\"name\":\"Particular Crowd\",\"origin_country\":\"US\"},{\"id\":117761,\"logo_path\":\"\/4Aa24Ase2LR6wesRolVQ0vinI8T.png\",\"name\":\"Streamline Global\",\"origin_country\":\"US\"},{\"id\":179981,\"logo_path\":\"\/vbI6QgAC9s3BilQ5Oa7juyrf59N.png\",\"name\":\"Thomasville Pictures\",\"origin_country\":\"US\"},{\"id\":179982,\"logo_path\":null,\"name\":\"Ignition Film Productions\",\"origin_country\":\"IE\"},{\"id\":164800,\"logo_path\":null,\"name\":\"Source Management + Production\",\"origin_country\":\"US\"},{\"id\":179983,\"logo_path\":null,\"name\":\"Short Porch Pictures\",\"origin_country\":\"US\"},{\"id\":179986,\"logo_path\":null,\"name\":\"Baird Film\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-02\",\"revenue\":30272,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"No wrong turn goes unpunished.\",\"title\":\"One Way\",\"video\":false,\"vote_average\":5.935,\"vote_count\":123}"
+}

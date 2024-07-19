@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1072",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15144",
+        "x-memc": "HIT",
+        "x-memc-key": "3fe6205c04bab99c9a2e4ac4feb5252e",
+        "x-memc-age": "7320",
+        "x-memc-expires": "15144",
+        "ETag": "W\/\"f961a850e4da072e07c7020cd1b7434f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XuCFg5dLinE-6lq_fG67QryCbhtyFxjfQ8TgcX36_DiPgBqeHhpnFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zgAPQwiYX96vJ9tguZRQ6TJClwS.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":650743,\"imdb_id\":\"tt13958700\",\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f Ad Libitum\",\"overview\":\"The talented and practical journalist German Krylov, in pursuit of sensation, finds himself in a company that sells a feeling of love. Unexpectedly for himself, he becomes the object of manipulation and falls into a trap from which it is difficult to get out.\",\"popularity\":23.072,\"poster_path\":\"\/A90JZ3RRY8ZeDkh5vMzX9Qtun2R.jpg\",\"production_companies\":[{\"id\":115895,\"logo_path\":null,\"name\":\"Gramani Film\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2021-01-21\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ad Libitum\",\"video\":false,\"vote_average\":6.423,\"vote_count\":13}"
+}

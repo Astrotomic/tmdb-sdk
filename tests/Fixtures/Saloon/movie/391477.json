@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1288",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8924",
+        "x-memc": "HIT",
+        "x-memc-key": "28fbd332068b01788227c31c88a24ab8",
+        "x-memc-age": "13965",
+        "x-memc-expires": "8924",
+        "ETag": "W\/\"e676eb840e6db0b0a9c93f41f4997482\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QVhl9N3rzVEgCI1amwVsAFxQRUdOi9Ump-9wKTyUzZgsFm2u2lpolg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/evozfrdHPMVSjVUdtVq3lRXUT7R.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":391477,\"imdb_id\":\"tt5609302\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u9078\u8001\u9802\",\"overview\":\"The godfather of the triad Jing Hing and his senior bosses need to select a new boss to run the daily operations of the five gangs under their control. Chuck, a lifelong member of the triad, dreams of being the elected one, but his wife wants him to leave the criminal life and spend time with their child. Wulf, a former cop, also wants take over the seat. Both will try to achieve their goal by any means necessary.\",\"popularity\":9.142,\"poster_path\":\"\/qzE3Ewb26HilHSO0gweiORgY3Rx.jpg\",\"production_companies\":[{\"id\":96962,\"logo_path\":null,\"name\":\"HK Film Production Limited\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"2016-03-31\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Mobfathers\",\"video\":false,\"vote_average\":5.955,\"vote_count\":33}"
+}

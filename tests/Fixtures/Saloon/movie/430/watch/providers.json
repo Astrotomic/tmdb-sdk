@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "355",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:16:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24447",
+        "x-memc": "HIT",
+        "x-memc-key": "08e06d63d305ebd625ec851fd0731d2f",
+        "x-memc-age": "3854",
+        "x-memc-expires": "24447",
+        "ETag": "W\/\"d6e8fe678e2fbb44af3c901aea49f191\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uNy4TvQwFyXd0cs0oD8kUixcUX2WQnXSQSVi0D_Uy77U9PGQ0v0pig=="
+    },
+    "data": "{\"id\":430,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/430-one-two-three\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/dQeAar5H991VYporEjUspolDarG.jpg\",\"provider_id\":119,\"provider_name\":\"Amazon Prime Video\",\"display_priority\":1},{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]}}}"
+}

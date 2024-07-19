@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1699",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19405",
+        "x-memc": "HIT",
+        "x-memc-key": "74ec3cf7c4c5c50da9e4e6f32d2a2d28",
+        "x-memc-age": "3493",
+        "x-memc-expires": "19405",
+        "ETag": "W\/\"ff4af89b673d0907abec9992e69397d1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tJ31Kr1pvFtPPMhdWqi-_kYI_C2nxrCks9XNXiGfYVtGkbliPP6iAg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uceohbhT4QLNRzdLmOtVBXAzxlW.jpg\",\"belongs_to_collection\":{\"id\":10522,\"name\":\"Starship Troopers Collection\",\"poster_path\":\"\/uumu3Xj1ME1632SCsyVJwITgOKZ.jpg\",\"backdrop_path\":\"\/iKbdiRzFaQaKMtYoeQIuwGoDvSv.jpg\"},\"budget\":105000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":563,\"imdb_id\":\"tt0120201\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Starship Troopers\",\"overview\":\"Set in the future, the story follows a young soldier named Johnny Rico and his exploits in the Mobile Infantry. Rico's military career progresses from recruit to non-commissioned officer and finally to officer against the backdrop of an interstellar war between mankind and an arachnoid species known as \\\"the Bugs\\\".\",\"popularity\":43.923,\"poster_path\":\"\/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg\",\"production_companies\":[{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":216219,\"logo_path\":null,\"name\":\"Jon Davison Productions\",\"origin_country\":\"\"},{\"id\":216246,\"logo_path\":null,\"name\":\"Big Bug Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-11-07\",\"revenue\":121214377,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A new kind of enemy. A new kind of war.\",\"title\":\"Starship Troopers\",\"video\":false,\"vote_average\":7.065,\"vote_count\":4743}"
+}

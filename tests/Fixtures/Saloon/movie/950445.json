@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "988",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18732",
+        "x-memc": "HIT",
+        "x-memc-key": "a33eb906a7b8e1d317070dd9e32b4dc8",
+        "x-memc-age": "6792",
+        "x-memc-expires": "18732",
+        "ETag": "W\/\"5142b13821a48789902d2ab5ec0a6a25\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RKgXCEDX9gTseKRV2r4Ym_IFMMQ7zt5Dz4y944xSsOU0H5NS2VxHyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5DJaUn1l9w1OaRYXzEkJBuFO5C2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81111324\",\"id\":950445,\"imdb_id\":\"tt18555320\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Return to Space\",\"overview\":\"The inspirational rise of SpaceX as well as Elon Musk's two-decade effort to resurrect America\u2019s space travel ambitions.\",\"popularity\":14.854,\"poster_path\":\"\/uyatxKGACzSNqDzTe5sv5YHAY30.jpg\",\"production_companies\":[{\"id\":116323,\"logo_path\":\"\/2cjJeC2MQMPwT2INRpqRxH8Xuz1.png\",\"name\":\"Little Monster Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-04-07\",\"revenue\":0,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Return to Space\",\"video\":false,\"vote_average\":6.533,\"vote_count\":647}"
+}

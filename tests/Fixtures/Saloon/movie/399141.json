@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "970",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7550",
+        "x-memc": "HIT",
+        "x-memc-key": "5c2d3b64b12a6ead83d9f8511a20df0f",
+        "x-memc-age": "16586",
+        "x-memc-expires": "7550",
+        "ETag": "W\/\"455151eb6f82a472de02175c997140e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XzthkcFlI8HIkA6JAODrbNSTAngeJvrnNlbB29p_5o66wAZMEhafPQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aFEb0R654XQyxtTmaAyGRhKmhy3.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":399141,\"imdb_id\":\"tt0034930\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Junior G-Men of the Air\",\"overview\":\"A group of street kids battle a terrorist gang led by a Japanese spy.\",\"popularity\":3.49,\"poster_path\":\"\/kljXgYSyEGX3RTmrbs7miruyTaz.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1942-06-30\",\"revenue\":0,\"runtime\":225,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"All-New Air Thrills!\",\"title\":\"Junior G-Men of the Air\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

@@ -3,12 +3,13 @@
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\TvSeason;
-use Illuminate\Support\Collection;
+use Illuminate\Support\Arr;
+use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends Collection<array-key, TvSeason>
+ * @extends IlluminateCollection<array-key, TvSeason>
  */
-class TvSeasonCollection extends Collection
+class TvSeasonCollection extends IlluminateCollection
 {
     /**
      * @param  array<array-key, array>  $data
@@ -16,8 +17,16 @@ class TvSeasonCollection extends Collection
      */
     public static function fromArray(?array $data): self
     {
-        return static::make($data)->map(
-            fn (array $item): TvSeason => TvSeason::fromArray($item)
-        );
+        return static::make(Arr::map(
+            array: $data ?? [],
+            callback: fn (array $item) => TvSeason::fromArray($item)
+        ));
+    }
+
+    public function __construct($items = [])
+    {
+        parent::__construct($items);
+
+        $this->ensure(TvSeason::class);
     }
 }

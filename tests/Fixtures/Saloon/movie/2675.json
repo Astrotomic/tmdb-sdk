@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1358",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6512",
+        "x-memc": "HIT",
+        "x-memc-key": "4ad571ccdadcdbc485e7b5cb499ce389",
+        "x-memc-age": "20305",
+        "x-memc-expires": "6512",
+        "ETag": "W\/\"54f4bbfb595d871849bfcabf20968e59\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3GB-HfQZNipU3w3oOpc6Oz_X7WP7FdzSVVNygoh0nLQxADchLfhCSw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jw88BtmMliB1Mbwf3JyfYszS4Xk.jpg\",\"belongs_to_collection\":null,\"budget\":72000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":2675,\"imdb_id\":\"tt0286106\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Signs\",\"overview\":\"A family living on a farm finds mysterious crop circles in their fields which suggests something more frightening to come.\",\"popularity\":43.468,\"poster_path\":\"\/hyZkNEbNgnciUVTyu4NZTjlCh4L.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"},{\"id\":12236,\"logo_path\":\"\/bVu0qQm4GujSTCvZZz9S3rHDczA.png\",\"name\":\"Blinding Edge Pictures\",\"origin_country\":\"US\"},{\"id\":862,\"logo_path\":\"\/vdK6ZhC2CSW36j0VPEavRxOpbEg.png\",\"name\":\"The Kennedy\/Marshall Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-08-02\",\"revenue\":408200000,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"It's not like they didn't warn us.\",\"title\":\"Signs\",\"video\":false,\"vote_average\":6.7,\"vote_count\":5448}"
+}

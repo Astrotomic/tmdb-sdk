@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "887",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22982",
+        "x-memc": "HIT",
+        "x-memc-key": "edc5a18cc3da08664e4bd68dba6433d0",
+        "x-memc-age": "4646",
+        "x-memc-expires": "22982",
+        "ETag": "W\/\"68a00d22987e0f4395fb6b286d74bde1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9uWCtqpUIypwqILrWWAr44W8RH-CJ827gaAF9kDQe9skVNs-4AAC2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":236649,\"imdb_id\":\"tt0034737\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fleets of Stren'th\",\"overview\":\"When enemy planes attack the battleship he's serving on, Popeye fights back.\",\"popularity\":2.508,\"poster_path\":\"\/lQtqFMrViGG3qU1xb8VLQR6reWQ.jpg\",\"production_companies\":[{\"id\":8302,\"logo_path\":null,\"name\":\"Fleischer Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1942-03-13\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Fleets of Stren'th\",\"video\":false,\"vote_average\":5.7,\"vote_count\":7}"
+}

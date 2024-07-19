@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1573",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19848",
+        "x-memc": "HIT",
+        "x-memc-key": "90a0a0fb6e8d0825710e720c994eb83b",
+        "x-memc-age": "4623",
+        "x-memc-expires": "19848",
+        "ETag": "W\/\"f874885afaa36024fe399f3691582a02\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AdmVVQhDxyuplT19N7e5j0xxvwjdRdhDnW_pWlRgpR6qTRVwUbo1-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hVYhrKuQNFro6jXHZMn60uYjrIP.jpg\",\"belongs_to_collection\":null,\"budget\":19500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.foxsearchlight.com\/theshapeofwater\/\",\"id\":399055,\"imdb_id\":\"tt5580390\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Shape of Water\",\"overview\":\"An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.\",\"popularity\":55.062,\"poster_path\":\"\/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg\",\"production_companies\":[{\"id\":101082,\"logo_path\":\"\/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png\",\"name\":\"Double Dare You Productions\",\"origin_country\":\"US\"},{\"id\":43,\"logo_path\":\"\/4RgIPr55kBakgupWkzdDxqXJEqr.png\",\"name\":\"Fox Searchlight Pictures\",\"origin_country\":\"US\"},{\"id\":81023,\"logo_path\":null,\"name\":\"Bull Productions\",\"origin_country\":\"\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-12-01\",\"revenue\":195300000,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"A Fairy Tale for Troubled Times\",\"title\":\"The Shape of Water\",\"video\":false,\"vote_average\":7.245,\"vote_count\":11912}"
+}

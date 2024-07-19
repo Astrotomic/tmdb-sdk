@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1372",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22393",
+        "x-memc": "HIT",
+        "x-memc-key": "3e5dfd32188c3fae6194f204e8fae751",
+        "x-memc-age": "4519",
+        "x-memc-expires": "22393",
+        "ETag": "W\/\"a6d4a9a568d6098a2cf25faecb070419\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J7oBtewzI4YBSXoqK7PnHKNePO4uzBHH5rBNj78-9BcYObDdfrF97g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hM6AttTwVdiL00jSAiIMsUutqMX.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.babymamamovie.net\/\",\"id\":8780,\"imdb_id\":\"tt0871426\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Baby Mama\",\"overview\":\"A successful, single businesswoman who dreams of having a baby discovers she is infertile and hires a working class woman to be her unlikely surrogate.\",\"popularity\":12.241,\"poster_path\":\"\/xZOwucsL5NInPyFcmqJzytHkaJR.jpg\",\"production_companies\":[{\"id\":7295,\"logo_path\":\"\/62E1B91PxZw8q4KNkge5Qemo7EM.png\",\"name\":\"Relativity Media\",\"origin_country\":\"US\"},{\"id\":58553,\"logo_path\":null,\"name\":\"Michaels-Goldwyn\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":5726,\"logo_path\":\"\/rnMFkRXYfeDDsDMKg9HjabsHQif.png\",\"name\":\"Universal Pictures International\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-04-25\",\"revenue\":64400000,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Would you put your eggs in this basket?\",\"title\":\"Baby Mama\",\"video\":false,\"vote_average\":5.943,\"vote_count\":634}"
+}

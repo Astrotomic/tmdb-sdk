@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1350",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23784",
+        "x-memc": "HIT",
+        "x-memc-key": "8f3a34745b484ec0e761a9b0394d9b5e",
+        "x-memc-age": "678",
+        "x-memc-expires": "23784",
+        "ETag": "W\/\"68212b32dfc092e70a957baa2712a4c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F9ToHg1nYl6GWf5rj1LKxP88kegOQcTcRRXE6Bfvr5IIg2cksn5AZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mQsMFca19fZsLKMc6x5FjwncTYh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1672,\"imdb_id\":\"tt0082949\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le Professionnel\",\"overview\":\"French secret service agent Josselin Beaumont is dispatched to take down African warlord N'Jala. But when his assignment is canceled, he's shocked to learn that his government is surrendering him to local authorities. He is given a mock trial and sentenced to 20 years of hard labor. But Beaumont escapes from prison and vows not only to avenge himself against his betrayers but also to finish his original assignment.\",\"popularity\":33.934,\"poster_path\":\"\/dhAZ8T0tTlTNw3D7Cn8wc87sk1w.jpg\",\"production_companies\":[{\"id\":10784,\"logo_path\":null,\"name\":\"Cerito Films\",\"origin_country\":\"\"},{\"id\":7110,\"logo_path\":null,\"name\":\"Les Films Ariane\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1981-10-21\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Never leave vengeance to amateurs.\",\"title\":\"The Professional\",\"video\":false,\"vote_average\":7.243,\"vote_count\":509}"
+}

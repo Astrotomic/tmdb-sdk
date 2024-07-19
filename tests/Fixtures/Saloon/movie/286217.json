@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1735",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19743",
+        "x-memc": "HIT",
+        "x-memc-key": "ca3f7dd7523c9aa0c0adb394ef87ace4",
+        "x-memc-age": "3026",
+        "x-memc-expires": "19743",
+        "ETag": "W\/\"b0b5424dec8b0e018c4af1e9f2c14599\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xQPcsiDh5y2WR_I6DjvJrF8_he7S5_OJIwQPtDEDM--iqzMPw4K3SQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3dPhs7hUnQLphDFzdkD407VZDYo.jpg\",\"belongs_to_collection\":null,\"budget\":108000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/the-martian\",\"id\":286217,\"imdb_id\":\"tt3659388\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Martian\",\"overview\":\"During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.\",\"popularity\":55.77,\"poster_path\":\"\/5BHuvQ6p9kfc091Z8RiFNhCwL4b.jpg\",\"production_companies\":[{\"id\":1645,\"logo_path\":\"\/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png\",\"name\":\"Scott Free Productions\",\"origin_country\":\"GB\"},{\"id\":28788,\"logo_path\":\"\/Aqomtf9oh5dKtxBNEagkdlp3aGv.png\",\"name\":\"Genre Films\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-09-30\",\"revenue\":631058917,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"Bring Him Home\",\"title\":\"The Martian\",\"video\":false,\"vote_average\":7.686,\"vote_count\":19368}"
+}

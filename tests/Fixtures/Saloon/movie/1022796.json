@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1459",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16314",
+        "x-memc": "HIT",
+        "x-memc-key": "f62ce5258de7a113b863dd3a45cf2ff1",
+        "x-memc-age": "5932",
+        "x-memc-expires": "16314",
+        "ETag": "W\/\"e90c7461d38be9072cc07b3a927cd4e5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fcm-IbCqfHZfKl7bXwTAhdFCOuEWlbsoM5anC4rPSPxxMbjI-fv6EQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ehumsuIBbgAe1hg343oszCLrAfI.jpg\",\"belongs_to_collection\":null,\"budget\":175000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/movies.disney.com\/wish\",\"id\":1022796,\"imdb_id\":\"tt11304740\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wish\",\"overview\":\"Asha, a sharp-witted idealist, makes a wish so powerful that it is answered by a cosmic force \u2013 a little ball of boundless energy called Star. Together, Asha and Star confront a most formidable foe - the ruler of Rosas, King Magnifico - to save her community and prove that when the will of one courageous human connects with the magic of the stars, wondrous things can happen.\",\"popularity\":259.729,\"poster_path\":\"\/vgJZSqKMXWDDx09iSIStGKfHMku.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-13\",\"revenue\":254997360,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Be careful what you wish for.\",\"title\":\"Wish\",\"video\":false,\"vote_average\":6.38,\"vote_count\":1317}"
+}

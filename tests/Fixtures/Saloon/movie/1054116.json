@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "993",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11149",
+        "x-memc": "HIT",
+        "x-memc-key": "380b098a42b886f9fbc57ceba31981b8",
+        "x-memc-age": "11482",
+        "x-memc-expires": "11149",
+        "ETag": "W\/\"da9e5cf3374af4b93dfa69dc9d3b91f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wjE406HDIvhixzoAFZvObXNuS08bbloDk6KxRN-0SrruoH-9CxTpsg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1054116,\"imdb_id\":\"tt11589858\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2 \uff5e\u30aa\u30fc\u30eb\u30de\u30a4\u30c8\uff1a\u30e9\u30a4\u30b8\u30f3\u30b0\uff5e\",\"overview\":\"3rd My Hero Academia OVA. A short special about All Might included with the Blu-ray\/DVD release of My Hero Academia: Two Heroes.\",\"popularity\":50.138,\"poster_path\":\"\/vmRfBDkI5gH7mBUAsmVnWFLz3pm.jpg\",\"production_companies\":[{\"id\":2849,\"logo_path\":\"\/cN3JNIKawjOMtfk0GBVIbsx69bg.png\",\"name\":\"BONES\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2019-02-13\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"My Hero Academia: All Might Rising\",\"video\":false,\"vote_average\":6.4,\"vote_count\":32}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "871",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14340",
+        "x-memc": "HIT",
+        "x-memc-key": "94d099b124ea07a4a54654e313b4b97f",
+        "x-memc-age": "8657",
+        "x-memc-expires": "14340",
+        "ETag": "W\/\"b9451fc667cf6a1185595d178a6ac558\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8EjvSnLvV56-8ghh4FNv89Xeq5L96UDs1xaPDeoqeuSgvXGlAtQaTw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/blackflag.tv\/movies.php\",\"id\":1247860,\"imdb_id\":null,\"origin_country\":[\"AR\"],\"original_language\":\"es\",\"original_title\":\"Algo est\u00e1 sangrando\",\"overview\":\"A young woman murders her ex-partner and his new girlfriend in La Plata.\",\"popularity\":3.823,\"poster_path\":\"\/u9iOVpt7T6xtrIuODJQBY21Yhoe.jpg\",\"production_companies\":[{\"id\":23405,\"logo_path\":null,\"name\":\"Roman Porno Eiga\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"}],\"release_date\":\"2005-01-01\",\"revenue\":0,\"runtime\":12,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Something is Bleeding\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

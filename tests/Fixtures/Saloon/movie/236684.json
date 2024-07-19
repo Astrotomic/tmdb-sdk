@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1003",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16125",
+        "x-memc": "HIT",
+        "x-memc-key": "2fbfe77f736850fe94eaec0b53d7aa76",
+        "x-memc-age": "5507",
+        "x-memc-expires": "16125",
+        "ETag": "W\/\"0d660eed9ae7e3ceda66745ffc1b334a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lAPv47ZGmcsMBr0pQsMs8pqjkBNumbmY2SWxwz9FpCPDz0l2iYBBYA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3KUqlLEFRRuiOPDGY9FqBwJ36Jq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":236684,\"imdb_id\":\"tt0153176\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Too Weak to Work\",\"overview\":\"Bluto thinks he needs a complete rest (and a pretty nurse), at Havarest Hospital. Popeye, however, soon teaches him that honest toil is best as he puts him through a workout in the rest hospital.\",\"popularity\":2.058,\"poster_path\":\"\/fBR5itfnzyJ5JLLzwCqfZ47PTYF.jpg\",\"production_companies\":[{\"id\":4178,\"logo_path\":null,\"name\":\"Famous Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-03-19\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Too Weak to Work\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

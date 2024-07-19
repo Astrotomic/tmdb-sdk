@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1284",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4805",
+        "x-memc": "HIT",
+        "x-memc-key": "b6a2e24b7c9608f6d9c5189c7326ba58",
+        "x-memc-age": "22508",
+        "x-memc-expires": "4805",
+        "ETag": "W\/\"36ae12d2d087dd65124f9c84bbcebf9e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ribPao3iD54wy3BUkphjUuYJq7umPE3vZXk16FnGvDIyXGrXn1h2ZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ySYMPpD6eCBRD1YU1HK5ZKEN1gE.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6020,\"imdb_id\":\"tt0279781\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sorority Boys\",\"overview\":\"After being falsely accused of stealing the budget for their annual cocktail cruise, three very different fraternity brothers are kicked out of their dorm. In order to clear their name and to secure their future careers, the three dress up in drag and pledge the sorority next door where they learn a few valuable - and hilarious - lessons about themselves and the female species.\",\"popularity\":15.856,\"poster_path\":\"\/tN8HzauIioA4GUEyVV0ik0QGPkD.jpg\",\"production_companies\":[{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-03-22\",\"revenue\":12517488,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The only way to become one of the boys again... is to become one of the girls.\",\"title\":\"Sorority Boys\",\"video\":false,\"vote_average\":5.434,\"vote_count\":229}"
+}

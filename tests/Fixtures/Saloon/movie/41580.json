@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "776",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20203",
+        "x-memc": "HIT",
+        "x-memc-key": "ebd736cb3d13e0d1a8b946adc5037841",
+        "x-memc-age": "8283",
+        "x-memc-expires": "20203",
+        "ETag": "W\/\"9646983fbcd21d540e81eafe7250e5a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tuqQIl5FjBaPl5lkLVdV33utcquQpaffR9PNql6nVJGRF2CNVV1kLw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lF3stznsrRzgiWBVG4x1lYOXQiA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":41580,\"imdb_id\":\"tt0109454\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le Colonel Chabert\",\"overview\":\"When Colonel Chabert returns from the war, he discovers that he has lost everything.\",\"popularity\":6.654,\"poster_path\":\"\/qY9waC3FdCHPf3aMgF8l3qVqzn6.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1994-09-21\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Colonel Chabert\",\"video\":false,\"vote_average\":6.391,\"vote_count\":64}"
+}

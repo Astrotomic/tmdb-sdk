@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "921",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4368",
+        "x-memc": "HIT",
+        "x-memc-key": "753e3d8ca03521351a578465a7a8946d",
+        "x-memc-age": "24118",
+        "x-memc-expires": "4368",
+        "ETag": "W\/\"1a34ea5013e0c556075564e1056fd862\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "q8ZtJJagYJXx8YfQgYMKMLsrPOTQmBdzqs3KEjCTpGzxOCuEThsG_Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1033702,\"imdb_id\":\"tt5931586\",\"origin_country\":[\"IE\"],\"original_language\":\"en\",\"original_title\":\"MacCumhaill\",\"overview\":\"MacCumhaill is a tale of a vigilante who assumes himself to be the reincarnation of the mythical Fionn MacCumhaill. He is obsessed and convinced that modern day Ireland is completely over run by crime and violence and will do anything he can to stop this trend continuing.\",\"popularity\":3.85,\"poster_path\":\"\/5zcbPBWC8sLjwyJDBUHUjFci5WS.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"}],\"release_date\":\"2017-02-23\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"MacCumhaill\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

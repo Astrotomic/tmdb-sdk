@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1117",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5819",
+        "x-memc": "HIT",
+        "x-memc-key": "be51e44a9b0975a81c8596505ef22c8c",
+        "x-memc-age": "22757",
+        "x-memc-expires": "5819",
+        "ETag": "W\/\"75898e60084cdde4deb324b2c50e2aae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ceMLfG3_Ow_yk4dJuawSpPRqkKxMCTC8G2LbRATO7bmIWGNJsIXKkg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1LP114sHOJxmPDxR2cJZ3ddCu1J.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":222349,\"imdb_id\":\"tt0103794\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Berlin Conspiracy\",\"overview\":\"As the Berlin Wall crumbles, four canisters containing biological weapons are stolen by European terrorists. The East and West must work together to stop the terrorists from selling the weapons to the highest bidder. It is up to the CIA and an East German agent to overcome their own differences and get the weapons back.\",\"popularity\":1.476,\"poster_path\":\"\/kmC1fkKkqoN4LalEBukFsopPa0i.jpg\",\"production_companies\":[{\"id\":4688,\"logo_path\":null,\"name\":\"Concorde-New Horizons\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-03-24\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Berlin Conspiracy\",\"video\":false,\"vote_average\":4.5,\"vote_count\":2}"
+}

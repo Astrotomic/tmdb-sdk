@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2151",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:35:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13844",
+        "x-memc": "HIT",
+        "x-memc-key": "fa09bcb2166aac934ad8740e39758c49",
+        "x-memc-age": "9435",
+        "x-memc-expires": "13844",
+        "ETag": "W\/\"b0d5bfcccbd87097c26f8b2da7e95434\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ylkA2zEah_m3ktcZP2kI6SVNujXB1mK-DpXUHdeY5uw6AvdmvKZsQw=="
+    },
+    "data": "{\"id\":140405,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":81129,\"known_for_department\":\"Acting\",\"name\":\"Chris Martin\",\"original_name\":\"Chris Martin\",\"popularity\":23.951,\"profile_path\":\"\/LK6ptUtgzijpcTGwCCXXC5cBpu.jpg\",\"cast_id\":6,\"character\":\"Self\",\"credit_id\":\"5513417ac3a36860b3001d89\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":81132,\"known_for_department\":\"Acting\",\"name\":\"Will Champion\",\"original_name\":\"Will Champion\",\"popularity\":6.558,\"profile_path\":\"\/zlIXAjhg884Xx5cnnJk4DOuISt7.jpg\",\"cast_id\":8,\"character\":\"Self\",\"credit_id\":\"593ceff892514105b701a276\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":81131,\"known_for_department\":\"Acting\",\"name\":\"Jon Buckland\",\"original_name\":\"Jon Buckland\",\"popularity\":7.301,\"profile_path\":\"\/vrBNUEH06BGkQ9bihe2VRJUj4Mz.jpg\",\"cast_id\":9,\"character\":\"Self\",\"credit_id\":\"593cf003925141059301a7d2\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":81130,\"known_for_department\":\"Acting\",\"name\":\"Guy Berryman\",\"original_name\":\"Guy Berryman\",\"popularity\":11.791,\"profile_path\":\"\/yj7mbD66phm5u3ODsEo02WJQVVx.jpg\",\"cast_id\":10,\"character\":\"Self\",\"credit_id\":\"593cf00cc3a3680f33017b0e\",\"order\":3},{\"adult\":false,\"gender\":1,\"id\":131519,\"known_for_department\":\"Acting\",\"name\":\"Rihanna\",\"original_name\":\"Rihanna\",\"popularity\":15.964,\"profile_path\":\"\/piXUA7L0gWQNtnDPXtBe24C9FF6.jpg\",\"cast_id\":11,\"character\":\"Self\",\"credit_id\":\"60d5025ea76ac50046d30bcd\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":572551,\"known_for_department\":\"Directing\",\"name\":\"Paul Dugdale\",\"original_name\":\"Paul Dugdale\",\"popularity\":7.164,\"profile_path\":\"\/bWM0X1OMVml3FhDph4EGcs3QtHC.jpg\",\"credit_id\":\"52fe4a8e9251416c750e6103\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1051399,\"known_for_department\":\"Sound\",\"name\":\"Jon Hopkins\",\"original_name\":\"Jon Hopkins\",\"popularity\":0.834,\"profile_path\":null,\"credit_id\":\"52fe4a8e9251416c750e60f1\",\"department\":\"Crew\",\"job\":\"Score Engineer\"},{\"adult\":false,\"gender\":0,\"id\":1112503,\"known_for_department\":\"Crew\",\"name\":\"Rik Simpson\",\"original_name\":\"Rik Simpson\",\"popularity\":0.005,\"profile_path\":null,\"credit_id\":\"52fe4a8e9251416c750e60fd\",\"department\":\"Crew\",\"job\":\"Mixing Engineer\"}]}"
+}

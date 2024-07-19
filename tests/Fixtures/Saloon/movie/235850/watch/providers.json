@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "370",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15484",
+        "x-memc": "HIT",
+        "x-memc-key": "3fe16c77bcbab1b3606188530a1c157d",
+        "x-memc-age": "11172",
+        "x-memc-expires": "15484",
+        "ETag": "W\/\"151fc79f016c9804df0584bfc7d0fbec\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UNXt7FFoMgVHJOmzk4nkbaup-sdRL21uOGkFAZefjqVi5b-EbK1Y3w=="
+    },
+    "data": "{\"id\":235850,\"results\":{\"NO\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/235850-ung-frue-forsvunnet\/watch?locale=NO\",\"rent\":[{\"logo_path\":\"\/sNmIwrniZZORvNJOmEuWGhwBJNf.jpg\",\"provider_id\":426,\"provider_name\":\"SF Anytime\",\"display_priority\":18}],\"buy\":[{\"logo_path\":\"\/sNmIwrniZZORvNJOmEuWGhwBJNf.jpg\",\"provider_id\":426,\"provider_name\":\"SF Anytime\",\"display_priority\":18}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1865",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16909",
+        "x-memc": "HIT",
+        "x-memc-key": "51976913be4323887172b390cf6ff252",
+        "x-memc-age": "6685",
+        "x-memc-expires": "16909",
+        "ETag": "W\/\"1c457f2d5ed4db63f5f095ca91aaf8fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CQBZVg6iUjtngShRxt34y3j_tr4yH2dMK3sB1lHU-aCswVA7vbpeIQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zDtoAya6AY8YYBcOMOjbNDwX3WX.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":551499,\"imdb_id\":\"tt7972178\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"70 Binladens\",\"overview\":\"Raquel is desperate: a series of unfortunate events have led to her daughter being taken and she needs a large amount of money to get her back, and fast. After a desperate plea to the bank, she manages to secure the loan she needs. The problem is that precisely at that moment, a peculiar couple of robbers enter the branch: the drug-addicted Jonan and his partner Lola, who is a deadly combination of smart and psychotic. But Raquel\u2019s stakes are too high, and she knows she must think carefully to outsmart them, save herself and get her money.\",\"popularity\":9.981,\"poster_path\":\"\/4gcLReyZd83sPuEPvW6JJwEaaYt.jpg\",\"production_companies\":[{\"id\":7344,\"logo_path\":\"\/wSPFwK4I42Z63YWcuTzcq8e4dhw.png\",\"name\":\"Sayaka Producciones\",\"origin_country\":\"ES\"},{\"id\":32485,\"logo_path\":\"\/fVXreZkiJTOq1cCi6htSQlPSy7R.png\",\"name\":\"Pokeepsie Films\",\"origin_country\":\"ES\"},{\"id\":17727,\"logo_path\":\"\/wsFoLgLvaS1FaYBt0pJ1LJ9v3cB.png\",\"name\":\"La Panda\",\"origin_country\":\"US\"},{\"id\":67412,\"logo_path\":\"\/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png\",\"name\":\"Movistar+\",\"origin_country\":\"ES\"},{\"id\":31123,\"logo_path\":\"\/Q9F9wXH9XRsSwvR9eA0Yn8P1wT.png\",\"name\":\"EiTB\",\"origin_country\":\"ES\"},{\"id\":981,\"logo_path\":\"\/pkrdO9ykplO4Zc8edikoSX5APUN.png\",\"name\":\"TVE\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2019-03-08\",\"revenue\":159630,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"70 Big Ones\",\"video\":false,\"vote_average\":5.678,\"vote_count\":77}"
+}

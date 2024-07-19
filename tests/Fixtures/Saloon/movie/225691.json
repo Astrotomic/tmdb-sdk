@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1463",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10566",
+        "x-memc": "HIT",
+        "x-memc-key": "134b6f263129f697c3a335fea98cb6ec",
+        "x-memc-age": "17063",
+        "x-memc-expires": "10566",
+        "ETag": "W\/\"991f0ad46395fabff57983292b69737d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eB_iuKoRjSURKxHNjXl7ypic_Ixur7opcY16-8kHSos8_HlQ-TgiaA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":225691,\"imdb_id\":\"tt0284381\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"El palo\",\"overview\":\"Lola's a single mom, broke, working as a janitor and maid. Silvia is pregnant, and her lover (her boss) won't leave his wife. Maite, newly a widow, discovers she's penniless but wants to maintain appearances and give her daughter a fancy wedding, and Pecholata, a punk kid living in a youth center, will soon be turned out on the streets. Lola, who cleans a bank every morning, decides to rob it, convincing the others to join her: they'll use replica guns, dress as men, take Silvia hostage, and all will be smooth. But things go awry, including the fact that Lola's ex, Gustavo, is a cop. Desperation may be the mother of invention - and a corrupt bank manager its father.\",\"popularity\":5.762,\"poster_path\":\"\/4n4TFjmI9kawpTimlxPtwETFlvS.jpg\",\"production_companies\":[{\"id\":50947,\"logo_path\":null,\"name\":\"Grupo Boca\",\"origin_country\":\"\"},{\"id\":9335,\"logo_path\":null,\"name\":\"Canal+ Espa\u00f1a\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2001-05-03\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Hold-Up\",\"video\":false,\"vote_average\":6.0,\"vote_count\":19}"
+}

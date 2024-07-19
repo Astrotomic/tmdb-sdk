@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1526",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1933",
+        "x-memc": "HIT",
+        "x-memc-key": "b6ce4d0c0b68da7f87f3e2ef2913c86e",
+        "x-memc-age": "20815",
+        "x-memc-expires": "1933",
+        "ETag": "W\/\"3724db85cad50cce527c49e2790f04aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "71NnG3AXhVrlhzRqCEgSgdqzDPf1NTfFe8ftawcj_cjSeKALNcXOZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iqrjewqeGYVrjxkVmmlL6DcgBT9.jpg\",\"belongs_to_collection\":null,\"budget\":9500000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.trustmovie2011.com\/\",\"id\":44945,\"imdb_id\":\"tt1529572\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Trust\",\"overview\":\"A suburban family is torn apart when fourteen-year-old Annie meets her first boyfriend online. After months of communicating via online chat and phone, Annie discovers her friend is not who he originally claimed to be. Shocked into disbelief, her parents are shattered by their daughter's actions and struggle to support her as she comes to terms with what has happened to her once innocent life.\",\"popularity\":22.0,\"poster_path\":\"\/rXoZYWd2G7pBh8N8Cp5ZO5Sjzbl.jpg\",\"production_companies\":[{\"id\":65129,\"logo_path\":null,\"name\":\"Dark Harbor Stories\",\"origin_country\":\"US\"},{\"id\":925,\"logo_path\":\"\/dIb9hjXNOkgxu4kBWdIdK8nM4w.png\",\"name\":\"Nu Image\",\"origin_country\":\"US\"},{\"id\":1020,\"logo_path\":\"\/kuUIHNwMec4dwOLghDhhZJzHZTd.png\",\"name\":\"Millennium Media\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-09-10\",\"revenue\":120000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What took her family years to build, a stranger stole in an instant.\",\"title\":\"Trust\",\"video\":false,\"vote_average\":6.6,\"vote_count\":907}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1216",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5844",
+        "x-memc": "HIT",
+        "x-memc-key": "18c28b9c596e3f2094149d17a6be9fd7",
+        "x-memc-age": "16148",
+        "x-memc-expires": "5844",
+        "ETag": "W\/\"49fe5a9dbb8807141a4f01cbf43f46cf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8zXM3dyDh1JqVSu3TuWMq17R9L_YWfaAWA-zD_t0bYGB-TgArsbp2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y4nGjTJ4d0x5tQ7EFLhuDO81QaV.jpg\",\"belongs_to_collection\":{\"id\":97771,\"name\":\"Major League Collection\",\"poster_path\":\"\/mGMQbxcbJ9I1DURMf7EKcfOCl9v.jpg\",\"backdrop_path\":\"\/vNqeD5ECuhb7FdQiOPCjeI23YK2.jpg\"},\"budget\":25000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11067,\"imdb_id\":\"tt0110442\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Major League II\",\"overview\":\"After losing in the ALCS the year before, the Cleveland Indians are determined to make it into the World Series this time! However, they first have to contend with Rachel Phelps again when she buys back the team.\",\"popularity\":18.006,\"poster_path\":\"\/2QAb0gZusyMsZ1W5ce85plVciDp.jpg\",\"production_companies\":[{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-03-30\",\"revenue\":30626182,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The dream team is back!\",\"title\":\"Major League II\",\"video\":false,\"vote_average\":5.709,\"vote_count\":316}"
+}

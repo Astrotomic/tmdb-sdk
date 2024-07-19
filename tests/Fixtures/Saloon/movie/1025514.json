@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "918",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3442",
+        "x-memc": "HIT",
+        "x-memc-key": "8b0dc0286a1735ca82ddf78c6d2c4954",
+        "x-memc-age": "23658",
+        "x-memc-expires": "3442",
+        "ETag": "W\/\"38605688bb0650b015902553e76755e4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-XZTIoGjxwWDGGrlYpwEsRBrokgcNOCq7FpUtJ0ItavXGJ5ll7EBVw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/g6sc92ltdp5ChUV4m96HKAtg5rL.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":1025514,\"imdb_id\":null,\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u305f\u3060\u3044\u307e\u3000\u601d\u3044\u51fa\u306e\u4f50\u8cc0\",\"overview\":\"\",\"popularity\":3.515,\"poster_path\":\"\/67DwCce9Sm8p1SCFBvMIkwijBDZ.jpg\",\"production_companies\":[{\"id\":7164,\"logo_path\":\"\/vHsaqTkQ2ZTbdqrCA272YahoVlg.png\",\"name\":\"TMS Entertainment\",\"origin_country\":\"JP\"},{\"id\":9148,\"logo_path\":\"\/rtW3NadfF4kR5mTW00ahiFxw6k7.png\",\"name\":\"Pony Canyon\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2017-03-12\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Tadaima Omoide no Saga\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22619",
+        "x-memc": "HIT",
+        "x-memc-key": "ceae8788d6c61fe413789c939550c2b5",
+        "x-memc-age": "1210",
+        "x-memc-expires": "22619",
+        "ETag": "W\/\"e2a0d1752828966bbe35b347003b713d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MQCF5_BM3hqgQWx74asrtCqI0wcYCbutEiw_Mf3oSVpzGj5d1bN1nQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s0yjfb4Eafdkcl0pgByGqJSOwti.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":11013,\"imdb_id\":\"tt0274812\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Secretary\",\"overview\":\"A young woman, recently released from a mental hospital, gets a job as a secretary to a demanding lawyer, where their employer-employee relationship turns into a sexual, sadomasochistic one.\",\"popularity\":35.753,\"poster_path\":\"\/mdRXSE7ho185SZlXj0JSwuecEd3.jpg\",\"production_companies\":[{\"id\":4730,\"logo_path\":null,\"name\":\"Slough Pond\",\"origin_country\":\"\"},{\"id\":4731,\"logo_path\":null,\"name\":\"double A Films\",\"origin_country\":\"US\"},{\"id\":157500,\"logo_path\":null,\"name\":\"TwoPoundBag Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-09-20\",\"revenue\":9300000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Assume the position.\",\"title\":\"Secretary\",\"video\":false,\"vote_average\":6.8,\"vote_count\":1568}"
+}

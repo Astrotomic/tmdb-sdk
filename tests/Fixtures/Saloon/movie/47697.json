@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1604",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17403",
+        "x-memc": "HIT",
+        "x-memc-key": "93ab5f7e7b819e71958a7dad96da762b",
+        "x-memc-age": "8094",
+        "x-memc-expires": "17403",
+        "ETag": "W\/\"5e835819de89d6c3ee933b3e65db74b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LGtLgxCffxPini8bctvJXLf73F30QOGb4gzB6sd-BvtCgvfHCcsZKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kHbwWLE4mFVoC4wFCXsZ2HioRuf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":47697,\"imdb_id\":\"tt0045251\",\"origin_country\":[\"US\",\"IT\",\"MA\"],\"original_language\":\"en\",\"original_title\":\"Othello\",\"overview\":\"When a secret marriage is planned between Othello, a Moorish general, and Desdemona, the daughter of Senator Brabantio, her old suitor Roderigo takes it hard. He allies himself with Iago, who has his own grudge against Othello, and the two conspire to bring Othello down. When their first plan, to have him accused of witchcraft, fails, they plant evidence intended to make him believe Desdemona is unfaithful.\",\"popularity\":13.622,\"poster_path\":\"\/2IS8i2FVKV9kD9KS3QJaEWcwHpx.jpg\",\"production_companies\":[{\"id\":2260,\"logo_path\":null,\"name\":\"Les Films Marceau\",\"origin_country\":\"FR\"},{\"id\":11447,\"logo_path\":null,\"name\":\"Mercury Productions\",\"origin_country\":\"\"},{\"id\":6084,\"logo_path\":null,\"name\":\"Scalera Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"MA\",\"name\":\"Morocco\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1951-11-28\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Orson Welles' magnificent screening of Shakespeare's immortal tragedy\",\"title\":\"Othello\",\"video\":false,\"vote_average\":7.347,\"vote_count\":189}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1102",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19116",
+        "x-memc": "HIT",
+        "x-memc-key": "46537fbaa1cbc077abea2f5eb556cf74",
+        "x-memc-age": "7581",
+        "x-memc-expires": "19116",
+        "ETag": "W\/\"83c7fbf20bad03d8d05b04ef8f1512fe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sWkS01xyxq7Q4a_KkUch16nKEPGetmoaGimQAILrAGjy80wjn3GWpA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":703,\"imdb_id\":\"tt0075686\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Annie Hall\",\"overview\":\"New York comedian Alvy Singer falls in love with the ditsy Annie Hall.\",\"popularity\":28.953,\"poster_path\":\"\/jj46Biz1WYQZoVZfXxeT9u4XRrS.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":13954,\"logo_path\":null,\"name\":\"Rollins-Joffe Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-04-19\",\"revenue\":38288028,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"A nervous romance.\",\"title\":\"Annie Hall\",\"video\":false,\"vote_average\":7.753,\"vote_count\":3795}"
+}

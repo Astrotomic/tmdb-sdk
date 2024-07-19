@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1144",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4490",
+        "x-memc": "HIT",
+        "x-memc-key": "ea75338a73dce085e1acf380a76214f1",
+        "x-memc-age": "20034",
+        "x-memc-expires": "4490",
+        "ETag": "W\/\"a31df661121df1c76ebf58da68271a9a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HuOSFajG_4Mxq0eOanyUmHFi4BKOLf9obSCBppuYl7LeFd_e7Zu4eQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9QMbzoO8Xwsjo2Enyvhns6yHDck.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10251,\"imdb_id\":\"tt0494199\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"5ive Girls\",\"overview\":\"Five wayward teenage girls are sent to a reformatory and discover they possess unique powers to battle the ancient demon, Legion, which holds thrall over the sinister institution.\",\"popularity\":13.612,\"poster_path\":\"\/9EKL1Ta42cj9rSqopfu3QJFE3G1.jpg\",\"production_companies\":[{\"id\":2393,\"logo_path\":null,\"name\":\"Peace Arch Entertainment Group\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2007-02-07\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"5 Witches. 5 Powers. One Evil.\",\"title\":\"5ive Girls\",\"video\":false,\"vote_average\":5.236,\"vote_count\":91}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1237",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12307",
+        "x-memc": "HIT",
+        "x-memc-key": "9b91f85c77d519d9f4b6ccbee31571d6",
+        "x-memc-age": "10881",
+        "x-memc-expires": "12307",
+        "ETag": "W\/\"a5e3ed8f79381f0da6e0efe7c4da4117\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L63PZ8mM4MiS_ExauX7UT5F4-e8hVQWrOE_8k-hxYpZnawXvej-AqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w6mr3tvckNmlt5EMIBlsnI1YWnl.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10961,\"imdb_id\":\"tt0437857\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Behind the Mask: The Rise of Leslie Vernon\",\"overview\":\"The next great psycho horror slasher has given a documentary crew exclusive access to his life as he plans his reign of terror over the sleepy town of Glen Echo, all the while deconstructing the conventions and archetypes of the horror genre for them.\",\"popularity\":21.76,\"poster_path\":\"\/vie8a3z219Zsw81eAsM58B6VFEn.jpg\",\"production_companies\":[{\"id\":14589,\"logo_path\":\"\/5WrEKsyGdTfT3T075EukSoIuxSU.png\",\"name\":\"Code Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-03-16\",\"revenue\":69136,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Freddy, Jason, Michael. We All Need Someone To Look Up To.\",\"title\":\"Behind the Mask: The Rise of Leslie Vernon\",\"video\":false,\"vote_average\":6.437,\"vote_count\":426}"
+}

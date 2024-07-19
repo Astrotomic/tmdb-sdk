@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "369",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8036",
+        "x-memc": "HIT",
+        "x-memc-key": "128c28fc1202128bebc85c87c3289872",
+        "x-memc-age": "19730",
+        "x-memc-expires": "8036",
+        "ETag": "W\/\"d1d2102fd48d629dab41e7d64781681c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FQeNHyyjO1Cj4kK6zfqY9JXSSYGsh-j1cj1-Xjia-vE3TozZFmljIg=="
+    },
+    "data": "{\"id\":20093,\"results\":{\"KR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/20093-talento-de-barrio\/watch?locale=KR\",\"flatrate\":[{\"logo_path\":\"\/5gmEivxOGPdq4Afpq1f8ktLtEW1.jpg\",\"provider_id\":97,\"provider_name\":\"Watcha\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]}}}"
+}

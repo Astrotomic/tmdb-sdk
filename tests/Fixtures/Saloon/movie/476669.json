@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1514",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16318",
+        "x-memc": "HIT",
+        "x-memc-key": "d4b40ef247ccdd771a46e94d57ab0262",
+        "x-memc-age": "10488",
+        "x-memc-expires": "16318",
+        "ETag": "W\/\"8a531ad008e03987c4702bb55779097a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rnyadcaaDUV_cSOl9oMGTiTt-GRG56StUujqwTgnHWiHtz1j-KdY1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4OTYefcAlaShn6TGVK33UxLW9R7.jpg\",\"belongs_to_collection\":{\"id\":391860,\"name\":\"Kingsman Collection\",\"poster_path\":\"\/iR8L2XHA72wmYHc6O8LZmwV5hd5.jpg\",\"backdrop_path\":\"\/4RvHJHSuQUKRzUx8h6a8VAxvbIE.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/the-kings-man\",\"id\":476669,\"imdb_id\":\"tt6856242\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The King's Man\",\"overview\":\"As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.\",\"popularity\":103.255,\"poster_path\":\"\/aq4Pwv5Xeuvj6HZKtxyd23e6bE9.jpg\",\"production_companies\":[{\"id\":5374,\"logo_path\":\"\/pMUiImmYANjZUlZFiZMWziQDSs6.png\",\"name\":\"Marv\",\"origin_country\":\"GB\"},{\"id\":78995,\"logo_path\":null,\"name\":\"Cloudy Productions\",\"origin_country\":\"GB\"},{\"id\":127928,\"logo_path\":\"\/h0rjX5vjW5r8yEnUBStFarjcLT4.png\",\"name\":\"20th Century Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-12-22\",\"revenue\":125900000,\"runtime\":131,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Witness the bloody origin.\",\"title\":\"The King's Man\",\"video\":false,\"vote_average\":6.774,\"vote_count\":4343}"
+}

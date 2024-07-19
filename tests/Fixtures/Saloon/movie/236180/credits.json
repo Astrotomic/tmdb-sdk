@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1158",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13434",
+        "x-memc": "HIT",
+        "x-memc-key": "7011a431413ee61ebe1c8fff8dd7b425",
+        "x-memc-age": "14943",
+        "x-memc-expires": "13434",
+        "ETag": "W\/\"7d7b6ecb52bd59607ac2e68de7443b32\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ARxiT6ArdIsrEmUJoIBdi_yWCExGdwuFTaBblUXrSQAeTGJ_CnHQYQ=="
+    },
+    "data": "{\"id\":236180,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1004823,\"known_for_department\":\"Acting\",\"name\":\"Jack Mercer\",\"original_name\":\"Jack Mercer\",\"popularity\":4.123,\"profile_path\":\"\/lCdwmzQBcgzAYOMXum6zZ4PhSrI.jpg\",\"cast_id\":3,\"character\":\"Popeye (voice) (uncredited)\",\"credit_id\":\"57bfadcec3a36801c4000597\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1246276,\"known_for_department\":\"Acting\",\"name\":\"Margie Hines\",\"original_name\":\"Margie Hines\",\"popularity\":1.676,\"profile_path\":null,\"cast_id\":4,\"character\":\"Olive Oyl (voice) (uncredited)\",\"credit_id\":\"57bfadd7c3a3684d380034d0\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":143463,\"known_for_department\":\"Directing\",\"name\":\"Dave Fleischer\",\"original_name\":\"Dave Fleischer\",\"popularity\":8.119,\"profile_path\":\"\/D1Dcuvwz3zHwe0ByaJqWkImQjs.jpg\",\"credit_id\":\"52fe4e56c3a36847f828ac21\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":89755,\"known_for_department\":\"Directing\",\"name\":\"Seymour Kneitel\",\"original_name\":\"Seymour Kneitel\",\"popularity\":3.581,\"profile_path\":\"\/6HeCQ7XXSDjQbl2RN6iYrs1zjX0.jpg\",\"credit_id\":\"52fe4e56c3a36847f828ac27\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

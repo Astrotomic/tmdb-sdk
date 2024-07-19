@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "744",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27184",
+        "x-memc": "HIT",
+        "x-memc-key": "791e4671a7f0e3d69f7ab33b96a83b6d",
+        "x-memc-age": "354",
+        "x-memc-expires": "27184",
+        "ETag": "W\/\"35b597202311113db10428a3d85d3b06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "63goC_xK8zMwU0EHs07OKfPsAwLTzXH8j9Hb89z3h4dwX1bMN7zRvg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":394787,\"imdb_id\":\"tt0121907\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u4e0d\u6587\u5c0f\u4e08\u592b\u4e4b\u9280\u5ea7\u5b09\u6625\",\"overview\":\"Three perverted idiots go to Tokyo on a business trip.\",\"popularity\":6.24,\"poster_path\":\"\/wHFJIKCbA2UtiiGpZIJdU0o6IBl.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1991-09-26\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Stooges in Tokyo\",\"video\":false,\"vote_average\":1.0,\"vote_count\":2}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1246",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4615",
+        "x-memc": "HIT",
+        "x-memc-key": "f33fe5b94faff4e350e875aa39386591",
+        "x-memc-age": "19673",
+        "x-memc-expires": "4615",
+        "ETag": "W\/\"9a29d7d214e9db5f28457e2486e2881a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bQD-UGU4VOO13D9uZk3jHQACXevyhpVmBTXL9dMVkIppltoMP8inpg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cOrUJAJJvj6DDI8RigcXQJTa7zB.jpg\",\"belongs_to_collection\":{\"id\":507956,\"name\":\"Terms of Endearment Collection\",\"poster_path\":\"\/cSxkhlwKAHfJdsHTryYhTCvXl10.jpg\",\"backdrop_path\":\"\/5OjBecfq9Se5tKElwrDWwIpfFE6.jpg\"},\"budget\":8000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11050,\"imdb_id\":\"tt0086425\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Terms of Endearment\",\"overview\":\"Aurora, a finicky woman, is in search of true love while her daughter faces marital issues. Together, they help each other deal with problems and find reasons to live a joyful life.\",\"popularity\":14.49,\"poster_path\":\"\/l77DRjJuykqKMtD9GTK4YT7qKHW.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1983-11-20\",\"revenue\":108423749,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Come to laugh, come to cry, come to care, come to terms.\",\"title\":\"Terms of Endearment\",\"video\":false,\"vote_average\":7.096,\"vote_count\":726}"
+}

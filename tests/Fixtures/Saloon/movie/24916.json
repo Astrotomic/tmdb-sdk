@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1018",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20546",
+        "x-memc": "HIT",
+        "x-memc-key": "6606f3b74fa9766da9bd3f51f08105df",
+        "x-memc-age": "7367",
+        "x-memc-expires": "20546",
+        "ETag": "W\/\"1ead8b7831cb01bdac1f73eb337790ad\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Vs-JBTMcxZ77BiFNRE2tWzsIcO103W6Ing-cgeRTb9SmGPHFMZsSTw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wknrIabMtr6RnYUde20FxsqwiaW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":24916,\"imdb_id\":\"tt0277605\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u751f\u5316\u58fd\u5c4d\",\"overview\":\"Two mall employees driving to work hit a man who drank a soda laced with a chemical that turns people into cannibals.\",\"popularity\":12.063,\"poster_path\":\"\/gqEGc7LiW7CVzpNvBFyZman0z4V.jpg\",\"production_companies\":[{\"id\":43928,\"logo_path\":null,\"name\":\"Cameron Entertainment Co., Ltd.\",\"origin_country\":\"\"},{\"id\":41466,\"logo_path\":null,\"name\":\"Brilliant Idea Group\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1998-06-11\",\"revenue\":791702,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bio Zombie\",\"video\":false,\"vote_average\":6.0,\"vote_count\":48}"
+}

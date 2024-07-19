@@ -26,7 +26,7 @@ readonly class Movie
         public string $originalLanguage,
         public string $originalTitle,
         public ?string $overview,
-        public float $popularity,
+        public ?float $popularity,
         public ?string $posterPath,
         public CompanyCollection $productionCompanies,
         public CountryCollection $productionCountries,
@@ -37,9 +37,9 @@ readonly class Movie
         public ?MovieStatus $status,
         public ?string $tagline,
         public string $title,
-        public bool $video,
-        public float $voteAverage,
-        public int $voteCount,
+        public ?bool $video,
+        public ?float $voteAverage,
+        public ?int $voteCount,
     ) {}
 
     public static function fromArray(array $data): self
@@ -56,7 +56,7 @@ readonly class Movie
             originalLanguage: $data['original_language'],
             originalTitle: $data['original_title'],
             overview: $data['overview'],
-            popularity: $data['popularity'],
+            popularity: $data['popularity'] ?? null,
             posterPath: $data['poster_path'],
             productionCompanies: CompanyCollection::fromArray($data['production_companies'] ?? null),
             productionCountries: CountryCollection::fromArray($data['production_countries'] ?? null),
@@ -67,9 +67,9 @@ readonly class Movie
             status: empty($data['status']) ? null : MovieStatus::from($data['status']),
             tagline: $data['tagline'] ?? null,
             title: $data['title'],
-            video: $data['video'],
-            voteAverage: $data['vote_average'],
-            voteCount: $data['vote_count'],
+            video: $data['video'] ?? null,
+            voteAverage: $data['vote_average'] ?? null,
+            voteCount: $data['vote_count'] ?? null,
         );
     }
 

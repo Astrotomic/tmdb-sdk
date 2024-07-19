@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1847",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4365",
+        "x-memc": "HIT",
+        "x-memc-key": "5861d6742623736d2844521ab0134653",
+        "x-memc-age": "23874",
+        "x-memc-expires": "4365",
+        "ETag": "W\/\"1dd926a1bf5d9e578fad7d097dc0e1b8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DMhOb-QjxFdE10Jzs4bGCUwSvW8UpDn7np0URDYgKTRf1cyO3rl5Lw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6b1dUAKrZZDpgWmpUshKyJNgS8g.jpg\",\"belongs_to_collection\":{\"id\":1570,\"name\":\"Die Hard Collection\",\"poster_path\":\"\/fn3aXwADNC0nmJ51GYnkrOseVgB.jpg\",\"backdrop_path\":\"\/5kHVblr87FUScuab1PVSsK692IL.jpg\"},\"budget\":110000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/live-free-or-die-hard\",\"id\":1571,\"imdb_id\":\"tt0337978\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Live Free or Die Hard\",\"overview\":\"John McClane is back and badder than ever, and this time he's working for Homeland Security. He calls on the services of a young hacker in his bid to stop a ring of Internet terrorists intent on taking control of America's computer infrastructure.\",\"popularity\":74.948,\"poster_path\":\"\/wplG0vWnpnzkIBDxBhTfIygqfoK.jpg\",\"production_companies\":[{\"id\":444,\"logo_path\":null,\"name\":\"Dune Entertainment\",\"origin_country\":\"US\"},{\"id\":890,\"logo_path\":null,\"name\":\"Cheyenne Enterprises\",\"origin_country\":\"US\"},{\"id\":11845,\"logo_path\":null,\"name\":\"Wintergreen Productions\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-06-20\",\"revenue\":383531464,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The choice will be clear.\",\"title\":\"Live Free or Die Hard\",\"video\":false,\"vote_average\":6.627,\"vote_count\":5654}"
+}

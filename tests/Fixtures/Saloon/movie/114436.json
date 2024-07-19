@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1132",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5158",
+        "x-memc": "HIT",
+        "x-memc-key": "a63d706e9ffd875e8b00cebad3aaf0fe",
+        "x-memc-age": "21685",
+        "x-memc-expires": "5158",
+        "ETag": "W\/\"1880dafdbbb24c5cead605c0a8b840aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VS8-yyrG2A_reqVhSlpyJSsts2stEAUAhgbSZuRSIxRSWFH_rxz45A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uBxcxhj1sF8NWcKsuKe7My0zDi5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":114436,\"imdb_id\":\"tt0109134\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0905\u0902\u091c\u093e\u092e\",\"overview\":\"After mistaking a flight attendant's attention for love, a wealthy, spoiled man becomes obsessed with her and soon tears her life apart.\",\"popularity\":11.164,\"poster_path\":\"\/j8pC5tg33gLbiPSYP3EQODV8MWH.jpg\",\"production_companies\":[{\"id\":110575,\"logo_path\":null,\"name\":\"B4U Entertainment\",\"origin_country\":\"\"},{\"id\":160722,\"logo_path\":null,\"name\":\"Eros Worldwide\",\"origin_country\":\"\"},{\"id\":177876,\"logo_path\":null,\"name\":\"Albatros Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"1994-04-22\",\"revenue\":0,\"runtime\":146,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Anjaam\",\"video\":false,\"vote_average\":7.0,\"vote_count\":29}"
+}

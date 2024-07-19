@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1038",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22497",
+        "x-memc": "HIT",
+        "x-memc-key": "f3ee534c5f4780162c5aafe53c470e85",
+        "x-memc-age": "4187",
+        "x-memc-expires": "22497",
+        "ETag": "W\/\"27d80e3dbbef32b57cc446767e73e579\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9yNZikmAm1LQb-GnGJ_xX-S1Gw7aB9sC-d19w92JcOAK-ADKndji4Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cz81SzJ6x89R3sfeOqSbYYBLPZ6.jpg\",\"belongs_to_collection\":null,\"budget\":5000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":705467,\"imdb_id\":\"tt11505200\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"Mam\u00e3e Tem um Dem\u00f4nio\",\"overview\":\"Tete Barilove is dead, but her body is nowhere to be found. Beni, a longtime fan, finds clues that could lead her to the truth about Brazil's most famous 90s singer.\",\"popularity\":0.413,\"poster_path\":\"\/bqxzIFEdghLQPBpUF5a09QLb0MV.jpg\",\"production_companies\":[{\"id\":132990,\"logo_path\":null,\"name\":\"Universidade Anhembi Morumbi\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2019-12-12\",\"revenue\":0,\"runtime\":25,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"Did you see my blue dress?\",\"title\":\"Mommy Got a Demon\",\"video\":false,\"vote_average\":8.0,\"vote_count\":3}"
+}

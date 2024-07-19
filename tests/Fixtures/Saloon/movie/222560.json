@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1614",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8521",
+        "x-memc": "HIT",
+        "x-memc-key": "597e9a39a2675100eb5353b811c48cba",
+        "x-memc-age": "16676",
+        "x-memc-expires": "8521",
+        "ETag": "W\/\"768dc0fd742ff68f76986ecb0f9e3d4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ry0-JHvpvQSfKjyprXWciAnbQRf_zLwaTSuV_K6bBweQcLUAjn5RhA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":222560,\"imdb_id\":\"tt0291022\",\"origin_country\":[\"ES\",\"MX\"],\"original_language\":\"es\",\"original_title\":\"Aro Tolbukhin - en la mente del asesino\",\"overview\":\"After a strict upbringing and the death of his beloved sister, Aro Tolbukhin leaves Hungary for Guatemala. Taken in as a political refugee at a mission, Aro grows close to Sister Carmen and becomes part of the community, but a series of misfortunes drive him to arson and murder. Now on death row, Aro is interviewed about his life and motivations by a film crew trying to understand what made him snap.\",\"popularity\":2.023,\"poster_path\":\"\/yyja13VQHDUHpclZdkZsxuAbxpI.jpg\",\"production_companies\":[{\"id\":12488,\"logo_path\":null,\"name\":\"Ober\u00f3n Cinematogr\u00e1fica\",\"origin_country\":\"ES\"},{\"id\":2910,\"logo_path\":null,\"name\":\"Altavista Films\",\"origin_country\":\"MX\"},{\"id\":9335,\"logo_path\":null,\"name\":\"Canal+ Espa\u00f1a\",\"origin_country\":\"ES\"},{\"id\":65102,\"logo_path\":null,\"name\":\"Lestes Films\",\"origin_country\":\"\"},{\"id\":10050,\"logo_path\":\"\/SowPJ8W5Gy6OgyAFyWnv4KjcPo.png\",\"name\":\"TVG\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2002-11-08\",\"revenue\":103908,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Catalan\",\"iso_639_1\":\"ca\",\"name\":\"Catal\u00e0\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Aro Tolbukhin in the Mind of a Killer\",\"video\":false,\"vote_average\":5.8,\"vote_count\":11}"
+}

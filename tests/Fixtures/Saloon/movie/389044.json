@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1528",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17207",
+        "x-memc": "HIT",
+        "x-memc-key": "ae49b20726928d11b8d9759d59d45ee9",
+        "x-memc-age": "8665",
+        "x-memc-expires": "17207",
+        "ETag": "W\/\"a528899334fe20c9124039486c22f8ce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uk7NzDE8d-q10fiAZTpYZKtnnA3LtwFwlzMgb6-AkehHIS0mvEiYyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/46hp8s3IN8SjR8K4ukrWr32gQu5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":389044,\"imdb_id\":\"tt4161564\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"L'effet aquatique\",\"overview\":\"Samir, a lanky crane operator in Montreuil, falls madly for Agathe. As master swimmer at the pool Thorez he decides to take swimming lessons with her. But the lie does not last three lessons - Agathe hate liars. Chosen to represent the Seine-Saint-Denis, Agathe flies to Iceland for the 10th Congress of the International Masters Swimming. Samir has no choice but to fly in turn also.\",\"popularity\":7.891,\"poster_path\":\"\/boN4R7vdMzfs6QYV9CWI2ZEOV3f.jpg\",\"production_companies\":[{\"id\":207,\"logo_path\":\"\/uskenzq65wJe0cT0D8StQI3hJnO.png\",\"name\":\"Agat Films \\u0026 Cie \/ Ex Nihilo\",\"origin_country\":\"FR\"},{\"id\":14938,\"logo_path\":\"\/qbTj5eKcWTz3G9SU6LKImzAsne2.png\",\"name\":\"Zik Zak Filmworks\",\"origin_country\":\"IS\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IS\",\"name\":\"Iceland\"}],\"release_date\":\"2016-06-29\",\"revenue\":0,\"runtime\":82,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Icelandic\",\"iso_639_1\":\"is\",\"name\":\"\u00cdslenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Together Project\",\"video\":false,\"vote_average\":6.0,\"vote_count\":90}"
+}

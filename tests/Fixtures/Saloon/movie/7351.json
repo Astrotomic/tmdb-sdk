@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2130",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3569",
+        "x-memc": "HIT",
+        "x-memc-key": "aeeb6886d31e741160b6be973cf1ab61",
+        "x-memc-age": "22789",
+        "x-memc-expires": "3569",
+        "ETag": "W\/\"61148df7ba3b6cc5f3dd795c16729e9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Iy7imcGneOoAJ_1uHfrhVPTKJk57ILKTPiv-s6jpfDpkMsh0yhDYlA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2jlP10p6exBOlBm9asqzgjhIrlj.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":7351,\"imdb_id\":\"tt0903627\",\"origin_country\":[\"MX\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Julia\",\"overview\":\"An alcoholic becomes involved in a fellow A.A. member's plan to kidnap her young son from the boy's wealthy grandfather.\",\"popularity\":11.242,\"poster_path\":\"\/9TuusjQoZqbsFr5DmnuBV7amoBB.jpg\",\"production_companies\":[{\"id\":2137,\"logo_path\":\"\/zTHaMcMvmXhIx4e2e7Df7azc0fC.png\",\"name\":\"Le Bureau\",\"origin_country\":\"FR\"},{\"id\":2138,\"logo_path\":null,\"name\":\"Jaibol Films\",\"origin_country\":\"\"},{\"id\":760,\"logo_path\":null,\"name\":\"Les Productions Bagheera\",\"origin_country\":\"FR\"},{\"id\":591,\"logo_path\":\"\/q5I5RDwMEiqoNmfaJgd2LraEOJY.png\",\"name\":\"France 3 Cin\u00e9ma\",\"origin_country\":\"FR\"},{\"id\":8676,\"logo_path\":\"\/5u4GmXn4QMU39GQxGZoGfNtQ23r.png\",\"name\":\"uFilm\",\"origin_country\":\"BE\"},{\"id\":694,\"logo_path\":\"\/5LEHONGkZBIoWvp1ygHOF8iyi1M.png\",\"name\":\"StudioCanal\",\"origin_country\":\"FR\"},{\"id\":5708,\"logo_path\":null,\"name\":\"The 7th Floor\",\"origin_country\":\"\"},{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"},{\"id\":11244,\"logo_path\":\"\/gCHH1xt3dKjlm9NuMPF9ekpPWD6.png\",\"name\":\"France 3\",\"origin_country\":\"FR\"},{\"id\":851,\"logo_path\":\"\/kieSA3GFVysJcAUXNRer06u6e5x.png\",\"name\":\"MEDIA Programme of the European Union\",\"origin_country\":\"BE\"},{\"id\":1991,\"logo_path\":null,\"name\":\"Motion Investment Group\",\"origin_country\":\"BE\"},{\"id\":859,\"logo_path\":\"\/wK6ssskf1QaGp057lSYb6fa3Nwc.png\",\"name\":\"Saga Film\",\"origin_country\":\"BE\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2008-03-12\",\"revenue\":1300000,\"runtime\":144,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Julia\",\"video\":false,\"vote_average\":6.721,\"vote_count\":113}"
+}

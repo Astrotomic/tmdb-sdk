@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1045",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22404",
+        "x-memc": "HIT",
+        "x-memc-key": "e487748269126588e64c2b9441661a79",
+        "x-memc-age": "3306",
+        "x-memc-expires": "22404",
+        "ETag": "W\/\"e5064e875fee6c963471ee171e282e20\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "98UQ2pl6TbmkkgbXooobF47BAfIK2bLYpjdis08SzzKKpo3sbh_BKw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":400875,\"imdb_id\":\"tt5747692\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Apr\u00e8s Hitler\",\"overview\":\"What happened in France just after WWII, between 1945 and 1949? An interesting historic documentary looks at the fate of male and female (presumed) collaborators with the Nazis, the use of the POW in the reconstruction of the plundered and devastated country.\",\"popularity\":4.48,\"poster_path\":\"\/aMWhEZTYcdQmsQNbKGBKlPBv5nB.jpg\",\"production_companies\":[{\"id\":11331,\"logo_path\":\"\/wcHhcw58wms26ejFLx1unYDT37n.png\",\"name\":\"Cin\u00e9t\u00e9v\u00e9\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2016-05-08\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"After Hitler\",\"video\":false,\"vote_average\":7.9,\"vote_count\":13}"
+}

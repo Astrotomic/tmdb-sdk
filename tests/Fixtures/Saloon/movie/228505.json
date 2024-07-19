@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1063",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24214",
+        "x-memc": "HIT",
+        "x-memc-key": "68feb8ec0588c031d1944e89cb59c094",
+        "x-memc-age": "499",
+        "x-memc-expires": "24214",
+        "ETag": "W\/\"171f59ec94f1bddff9ec3bbffa1fabd6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FH1hDP4JXcN2asdO14nFVJAM9YY5HGzuRFwlbHBS4PEDautYa8s_Fw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":228505,\"imdb_id\":\"tt1517190\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"Hitori kakurenbo\",\"overview\":\"A blog on a mysterious website quickly spreads like wildfire, starting a dangerous online game. At 3:00 in the afternoon, a teddy bear stuffed with rice and nails is sunk into a bathtub. The lights go out and the player is required to stab the bear with the knife, then write their experiences in the blog. But lately the comments have taken a dark, demented turn, as if the players are being possessed.\",\"popularity\":1.166,\"poster_path\":\"\/8rSThQPKVGGaJjV3oFor0RLAwBB.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2008-07-18\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hide and Go Kill\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

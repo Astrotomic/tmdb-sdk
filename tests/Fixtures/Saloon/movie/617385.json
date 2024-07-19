@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1074",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22326",
+        "x-memc": "HIT",
+        "x-memc-key": "23b82a18514be863593dfa8fe5a32862",
+        "x-memc-age": "1647",
+        "x-memc-expires": "22326",
+        "ETag": "W\/\"d1e03d15557910aed41ab38c6d18edd5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BtTRhAwdEQ19jkJ9D2w90mKjtAjQoYxDPwp2duubMWNeGZxndiCIyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6nI7VfewE0afDs2QczEfc24m6NH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":617385,\"imdb_id\":\"tt10709232\",\"origin_country\":[\"IN\"],\"original_language\":\"ta\",\"original_title\":\"\u0bb9\u0bc0\u0bb0\u0bcb\",\"overview\":\"A fraudster gets to fulfill his childhood dream of being a superhero when he takes on a ruthless businessman whose business strategy is to crush the dreams of children.\",\"popularity\":6.402,\"poster_path\":\"\/qxvtZaQpP7o7HpL0KeE0tn7x04V.jpg\",\"production_companies\":[{\"id\":79795,\"logo_path\":\"\/7yeEWra4nkzELavDkRnprmKQi27.png\",\"name\":\"KJR Studios\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2019-12-18\",\"revenue\":0,\"runtime\":159,\"spoken_languages\":[{\"english_name\":\"Tamil\",\"iso_639_1\":\"ta\",\"name\":\"\u0ba4\u0bae\u0bbf\u0bb4\u0bcd\"},{\"english_name\":\"Telugu\",\"iso_639_1\":\"te\",\"name\":\"\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hero\",\"video\":false,\"vote_average\":6.4,\"vote_count\":19}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1501",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12985",
+        "x-memc": "HIT",
+        "x-memc-key": "24180c53d1ae41b1481d637797f124f2",
+        "x-memc-age": "14790",
+        "x-memc-expires": "12985",
+        "ETag": "W\/\"0ef90390c7e69019ab32185dab3123d5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WXJ0ubUHoeFvXbJ-2dJc-1iNcnBB6Pfe9F7aq88mmfhpZ_v-lNPTZw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zIp8rPr0UzL2QhB5JCU04DqPeHQ.jpg\",\"belongs_to_collection\":{\"id\":9338,\"name\":\"Police Academy Collection\",\"poster_path\":\"\/1VRdXVy2FYlX4EtllnLKWK6kYDJ.jpg\",\"backdrop_path\":\"\/dEkJGGXnUlH6xEOjE4NYpgf378H.jpg\"},\"budget\":12000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/police-academy-3-back-training\/\",\"id\":12118,\"imdb_id\":\"tt0091777\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Police Academy 3: Back in Training\",\"overview\":\"When police funding is cut, the Governor announces he must close one of the academies. To make it fair, the two police academies must compete against each other to stay in operation. Mauser persuades two officers in Lassard's academy to better his odds, but things don't quite turn out as expected...\",\"popularity\":29.46,\"poster_path\":\"\/pBxGgWSR0CMaCVMA2kQS5MWU1z3.jpg\",\"production_companies\":[{\"id\":69583,\"logo_path\":null,\"name\":\"Police Academy Productions\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-03-20\",\"revenue\":107600000,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Run for cover!\",\"title\":\"Police Academy 3: Back in Training\",\"video\":false,\"vote_average\":5.8,\"vote_count\":1177}"
+}

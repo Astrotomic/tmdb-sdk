@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "469",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11111",
+        "x-memc": "HIT",
+        "x-memc-key": "0efa7cf764b90be43456db5ef4ee2911",
+        "x-memc-age": "14202",
+        "x-memc-expires": "11111",
+        "ETag": "W\/\"9dc0b5a0ac28e3b716c4bdd09593073e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KkPHcK6w5dWRU6bFkKfSvnG2C5jSixEgjQxCban_GYN5wG5fQF8ZCA=="
+    },
+    "data": "{\"id\":549736,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549736-the-beaning\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/yhrtzYd43pFIhRq0ruO8umJPuyn.jpg\",\"provider_id\":258,\"provider_name\":\"Criterion Channel\",\"display_priority\":22}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549736-the-beaning\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/yhrtzYd43pFIhRq0ruO8umJPuyn.jpg\",\"provider_id\":258,\"provider_name\":\"Criterion Channel\",\"display_priority\":43}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1367",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7719",
+        "x-memc": "HIT",
+        "x-memc-key": "810d5287aaadddb6c8d7a2e73b68c0cc",
+        "x-memc-age": "17613",
+        "x-memc-expires": "7719",
+        "ETag": "W\/\"7e9998e8a47d871b686a4763b93fd97a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QnSibso_SoPeGFJTFD80CA_K0EQGUwZtEc3KEzHdOjmyTPeSN94K8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1Uh8yuXlFcMDpVHWZJidjanT06e.jpg\",\"belongs_to_collection\":null,\"budget\":12500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":319,\"imdb_id\":\"tt0108399\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"True Romance\",\"overview\":\"Clarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.\",\"popularity\":35.291,\"poster_path\":\"\/39lXk6ud6KiJgGbbWI2PUKS7y2.jpg\",\"production_companies\":[{\"id\":10210,\"logo_path\":\"\/gHaNnHd4LjNAoAG5aJthVrdAjZo.png\",\"name\":\"Morgan Creek Entertainment\",\"origin_country\":\"US\"},{\"id\":342,\"logo_path\":\"\/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png\",\"name\":\"Davis Films\",\"origin_country\":\"FR\"},{\"id\":3322,\"logo_path\":null,\"name\":\"August Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-09-09\",\"revenue\":12600000,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Stealing. Cheating. Killing. Who said romance was dead?\",\"title\":\"True Romance\",\"video\":false,\"vote_average\":7.545,\"vote_count\":2634}"
+}

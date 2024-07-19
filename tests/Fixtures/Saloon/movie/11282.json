@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1825",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15914",
+        "x-memc": "HIT",
+        "x-memc-key": "ca6fc53b7478f7440a5f371bebeded82",
+        "x-memc-age": "6237",
+        "x-memc-expires": "15914",
+        "ETag": "W\/\"11b526eae7ce9d5c036c471be25e44ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EJj6F_Ud35Hcffc4JKrCGrf8mAdg33rZ-Zg1pcds-_K4jOB-8QpyyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6llCvjW3CRR3uLWXkzCDCihC8jq.jpg\",\"belongs_to_collection\":{\"id\":30663,\"name\":\"Harold \\u0026 Kumar Collection\",\"poster_path\":\"\/eLA2f4NH2oSiLoJg6uU7tYb8gBU.jpg\",\"backdrop_path\":\"\/b70mFgsSn2hl3CvC0nRx0SHUEX0.jpg\"},\"budget\":9000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":11282,\"imdb_id\":\"tt0366551\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Harold & Kumar Go to White Castle\",\"overview\":\"Nerdy accountant Harold and his irrepressible friend, Kumar, get stoned watching television and find themselves utterly bewitched by a commercial for White Castle. Convinced there must be one nearby, the two set out on a late-night odyssey that takes them deep into New Jersey. Somehow, the boys manage to run afoul of rednecks, cops and even a car-stealing Neil Patrick Harris before getting anywhere near their beloved sliders.\",\"popularity\":32.268,\"poster_path\":\"\/5vO7R4xYlDipTp8gzfRbWegO8eb.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":830,\"logo_path\":null,\"name\":\"Senator International\",\"origin_country\":\"US\"},{\"id\":770,\"logo_path\":null,\"name\":\"Kingsgate Films\",\"origin_country\":\"\"},{\"id\":1205,\"logo_path\":\"\/wQX3t4qtxm7gBQE3RHuoLghgb73.png\",\"name\":\"Endgame Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-05-30\",\"revenue\":23936908,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Fast food. High times.\",\"title\":\"Harold & Kumar Go to White Castle\",\"video\":false,\"vote_average\":6.521,\"vote_count\":1997}"
+}

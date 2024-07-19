@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1023",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14660",
+        "x-memc": "HIT",
+        "x-memc-key": "9e0791610539bed9cb7ae3c7f20eeab4",
+        "x-memc-age": "13678",
+        "x-memc-expires": "14660",
+        "ETag": "W\/\"824a820c0691601695cdeb3d068c99b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wuuwyW7UbLjG2JuxYF0iD-LsIk2KgjvNiE3T-aqKBlIfZMh1CkOquA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3202,\"imdb_id\":\"tt0076881\",\"origin_country\":[\"US\",\"IE\"],\"original_language\":\"en\",\"original_title\":\"Victor Frankenstein\",\"overview\":\"Victor Frankenstein's search for the secret of life leads to the creation of a monster that consumes his life and family.\",\"popularity\":1.692,\"poster_path\":\"\/dLin9xOyRXbyq8JONf5G2sh4SMy.jpg\",\"production_companies\":[{\"id\":110917,\"logo_path\":null,\"name\":\"Aspect\",\"origin_country\":\"\"},{\"id\":110918,\"logo_path\":null,\"name\":\"National Film Society of Ireland\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"1977-01-01\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Terror of Frankenstein\",\"video\":false,\"vote_average\":6.7,\"vote_count\":6}"
+}

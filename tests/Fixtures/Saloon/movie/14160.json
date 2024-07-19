@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1241",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24459",
+        "x-memc": "HIT",
+        "x-memc-key": "618cd9025ea02a834c3ee3a79ed04170",
+        "x-memc-age": "4244",
+        "x-memc-expires": "24459",
+        "ETag": "W\/\"0d5181ab9f799de17ab2204d407bdcd2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0zBgXeU00dAsAdKXTejpffcBQGFJxdPojGgX57QtIloMyTKbkw61Bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hGGC9gKo7CFE3fW07RA587e5kol.jpg\",\"belongs_to_collection\":null,\"budget\":175000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"http:\/\/disney.go.com\/disneypictures\/up\/\",\"id\":14160,\"imdb_id\":\"tt1049413\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Up\",\"overview\":\"Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.\",\"popularity\":150.014,\"poster_path\":\"\/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-05-28\",\"revenue\":735099082,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The greatest adventure is just getting back home.\",\"title\":\"Up\",\"video\":false,\"vote_average\":7.96,\"vote_count\":19828}"
+}

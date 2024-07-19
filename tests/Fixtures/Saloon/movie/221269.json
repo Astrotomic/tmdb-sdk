@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1102",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12798",
+        "x-memc": "HIT",
+        "x-memc-key": "d6d84b32536e0c0778d9d07b0c8400e9",
+        "x-memc-age": "12121",
+        "x-memc-expires": "12798",
+        "ETag": "W\/\"4a1358803ecd271cc6c97f53293e77db\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2FwcHVbY83Z1GQif3SruHbCVMBDUzTlbb6Kbhd76DaKUhs1O_U8NtQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":221269,\"imdb_id\":\"tt0884326\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Karma Calling\",\"overview\":\"This zany take on the American Dream follows the Raj clan, who are just like any other family in Hoboken, N.J.: drowning in debt, driving one another crazy and ... mixed up with the mob by way of a call center in India.\",\"popularity\":0.635,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-03-13\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Love and family in the age of outsourcing.\",\"title\":\"Karma Calling\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

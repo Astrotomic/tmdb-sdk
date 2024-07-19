@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1463",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3438",
+        "x-memc": "HIT",
+        "x-memc-key": "8c3ab16c483e5d492a531c1d3507567f",
+        "x-memc-age": "20327",
+        "x-memc-expires": "3438",
+        "ETag": "W\/\"41c626c7c45f4ab679e450a1cb6b0e4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rukY0ulCuMEh-9iblZX1uWJSmW_XTxRKWbiKi9ugNRfbvvAKlQURpw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/t3LwNN6teRjDlJADo2jcfVLJVDu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":569016,\"imdb_id\":\"tt9535950\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uc5b8\ub2c8\",\"overview\":\"A woman seeks to take revenge when her younger sister disappears and she finds out that her sister suffered violence and sexual abuse from school bullies.\",\"popularity\":22.829,\"poster_path\":\"\/3KJVCVADvtZ6esjPWPHObjPMuK4.jpg\",\"production_companies\":[{\"id\":113586,\"logo_path\":\"\/1ttGM0XnnO82aKJwWp4iBrveK7G.png\",\"name\":\"The Contents On\",\"origin_country\":\"KR\"},{\"id\":115543,\"logo_path\":\"\/kMsoq2uAziGgB3w6zjP3xMQHlOP.png\",\"name\":\"JNC Media Group\",\"origin_country\":\"KR\"},{\"id\":119446,\"logo_path\":\"\/OtKHwFyTlm5XUFMrWakECpve7T.png\",\"name\":\"kth\",\"origin_country\":\"KR\"},{\"id\":6897,\"logo_path\":null,\"name\":\"Filma Pictures\",\"origin_country\":\"KR\"},{\"id\":11590,\"logo_path\":\"\/7OOrgnVw0RAX3tq8ikWUmNud8qT.png\",\"name\":\"Finecut\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2019-01-01\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"Nothing can stop her from saving her missing sister.\",\"title\":\"No Mercy\",\"video\":false,\"vote_average\":7.221,\"vote_count\":131}"
+}

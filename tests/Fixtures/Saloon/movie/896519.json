@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "936",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20296",
+        "x-memc": "HIT",
+        "x-memc-key": "b355c68754a5deca3b086ae0abf0f867",
+        "x-memc-age": "4639",
+        "x-memc-expires": "20296",
+        "ETag": "W\/\"5adc60fd92c7f3666afc218f23a87697\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cnlLvLActrFpF0JcmYlhPbT7TevoOy0XoAdAISkUlwd7fWv1hEe2rw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":896519,\"imdb_id\":\"tt4524812\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"Ghost in the Shell: Production Report\",\"overview\":\"A behind the scenes look at the making of the 1995 classic anime, Ghost in the Shell.\",\"popularity\":4.338,\"poster_path\":\"\/pPoNWeeYogiAMrxatIEUl9KA6Ss.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-01-01\",\"revenue\":0,\"runtime\":26,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ghost in the Shell: Production Report\",\"video\":false,\"vote_average\":6.2,\"vote_count\":5}"
+}

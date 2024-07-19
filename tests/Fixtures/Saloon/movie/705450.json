@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "839",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25521",
+        "x-memc": "HIT",
+        "x-memc-key": "b4d1a106b14ef62ac3f4d3bc08e89bff",
+        "x-memc-age": "810",
+        "x-memc-expires": "25521",
+        "ETag": "W\/\"d333866ed237d7a11ff4f9352438430b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hpUkDSiNhVC-tPRRWbs-PqtQtmmibEZub_oaUQUB62bLXJJb0iElUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kUf6iU8fnHk3Lw1OXU4XOrrQm2G.jpg\",\"belongs_to_collection\":null,\"budget\":5000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":705450,\"imdb_id\":\"tt10967922\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"I Who Have No One\",\"overview\":\"After years of wanting to look like those who grace the covers of magazines, Frances ends up making headlines in a different way.\",\"popularity\":0.344,\"poster_path\":\"\/2BFa3t27RDTBLbTP4HzErlXpEaB.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2019-12-31\",\"revenue\":0,\"runtime\":25,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Beauty is only skin deep.\",\"title\":\"I Who Have No One\",\"video\":false,\"vote_average\":6.5,\"vote_count\":2}"
+}

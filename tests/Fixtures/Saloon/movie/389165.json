@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "993",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=533",
+        "x-memc": "HIT",
+        "x-memc-key": "95f52e0b22f1df262a643234bf7ec0f7",
+        "x-memc-age": "23427",
+        "x-memc-expires": "533",
+        "ETag": "W\/\"5aa6efff8fb5e84f086f437ffefff6df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gIUl-N5ih_KJ3-lzUhBEgWxzrsRV7htKIHPOWy2cU_HnMVjyaDLtfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mJs5NhgNCQmJw6ALd6V5OHLLBIz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.code8.com\/\",\"id\":389165,\"imdb_id\":\"tt5574166\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Code 8\",\"overview\":\"In Lincoln City, 4% of people have extraordinary abilities. Most live below the poverty line, under the close surveillance of a heavily militarized police force. Taylor, a construction worker with powers, is forced to fight after committing a misdemeanor\u2026\",\"popularity\":11.425,\"poster_path\":\"\/z1fXSh5rIrzBCOJt72MvxmSvrAn.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2016-03-22\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Code 8\",\"video\":false,\"vote_average\":6.511,\"vote_count\":176}"
+}

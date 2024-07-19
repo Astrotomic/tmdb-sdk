@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1759",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20247",
+        "x-memc": "HIT",
+        "x-memc-key": "c2a7319c8a723bec0b6a29393c1ef265",
+        "x-memc-age": "5684",
+        "x-memc-expires": "20247",
+        "ETag": "W\/\"f209eeee8d26cedd9349a08607b38ad2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BSAmrgJs3ygmgVks9TeKRZf_4qvwhbV_k3K_fNedIq89NG5PqoQr-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":395817,\"imdb_id\":\"tt4058618\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Thicket\",\"overview\":\"An innocent young man, Jack, goes on an epic quest to rescue his sister Lula after she has been kidnapped by the violent killer Cut Throat Bill and her gang. To save her, Jack enlists the help of a crafty bounty hunter named Reginald Jones, a grave-digging alcoholic son of an ex-slave, and a street-smart prostitute. The gang tracks Cut Throat Bill into the deadly no-man\u2019s land known as The Big Thicket \u2014 a place where blood and chaos reign.\",\"popularity\":10.51,\"poster_path\":\"\/ub1deGqUOWtznj2Rces2YzqhGHk.jpg\",\"production_companies\":[{\"id\":153734,\"logo_path\":\"\/9pHAaHxAJtz6jobVWPkF1kG3kEG.png\",\"name\":\"Tubi\",\"origin_country\":\"US\"},{\"id\":107244,\"logo_path\":null,\"name\":\"Estuary Films\",\"origin_country\":\"US\"},{\"id\":12467,\"logo_path\":\"\/qxkYfDP05Rrwu8Msgieq6XbCX4K.png\",\"name\":\"Nomadic Pictures\",\"origin_country\":\"CA\"},{\"id\":2994,\"logo_path\":null,\"name\":\"Hollywood Gang Productions\",\"origin_country\":\"US\"},{\"id\":194802,\"logo_path\":null,\"name\":\"MiLu Entertainment\",\"origin_country\":\"\"},{\"id\":25140,\"logo_path\":\"\/6SeV4YCwyIDktJlvrVwiEDSLovF.png\",\"name\":\"The Exchange\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-09-05\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Post Production\",\"tagline\":\"\",\"title\":\"The Thicket\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

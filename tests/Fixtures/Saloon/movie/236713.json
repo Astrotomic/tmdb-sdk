@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1292",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11265",
+        "x-memc": "HIT",
+        "x-memc-key": "66f010acd1b297472a4e69d268aa84af",
+        "x-memc-age": "10971",
+        "x-memc-expires": "11265",
+        "ETag": "W\/\"fc9fd96e558a5b49efa1415c8482d965\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dbNZ8GTctqsgIZOpK9vX8CVzw0WACYbM6RBzBAn1UL-oy4ROrp9CLg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":236713,\"imdb_id\":\"tt0161767\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Love Lies Bleeding\",\"overview\":\"Jack the Ripper terrorizes London in 1888. The young talented journalist Catherine Winwood begins her first job. The relationship between Catherine and the surgeon Jonathan Stevens threatens to shatter, as her fianc\u00e9 may be involved in the gruesome murderer of young prostitutes in the Whitechapel district. But Inspector Frederick Abberline arrests another suspected surgeon ..\",\"popularity\":3.686,\"poster_path\":\"\/u8de8mA5Jr9849EJM1mnv35yFWp.jpg\",\"production_companies\":[{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":57962,\"logo_path\":null,\"name\":\"Etamp Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-06-23\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Love Lies Bleeding\",\"video\":false,\"vote_average\":6.7,\"vote_count\":3}"
+}

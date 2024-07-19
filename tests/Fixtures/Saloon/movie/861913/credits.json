@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1110",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21757",
+        "x-memc": "HIT",
+        "x-memc-key": "825afc0a170e9a7f4de7b184da86c697",
+        "x-memc-age": "4484",
+        "x-memc-expires": "21757",
+        "ETag": "W\/\"0b58a273fb20ef8dbc67a9ffc506b2fb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UX4KEO1cyFn1Kyj-EZHrYany9QuxBFVocOupbklXrkdSvarJd9ptxQ=="
+    },
+    "data": "{\"id\":861913,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":3199741,\"known_for_department\":\"Acting\",\"name\":\"Magnus Mefisto\",\"original_name\":\"Magnus Mefisto\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"YouTuber Magnus Mefisto\",\"credit_id\":\"611a7d51151c5c004615d34e\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":1698081,\"known_for_department\":\"Acting\",\"name\":\"Hern\u00e1n M\u00e1rquez\",\"original_name\":\"Hern\u00e1n M\u00e1rquez\",\"popularity\":0.139,\"profile_path\":\"\/gixQeTqvRGllLeXDiYAOPmDiNxZ.jpg\",\"cast_id\":3,\"character\":\"V\u00edctima\",\"credit_id\":\"611a7d6f006b010046aa60aa\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1765137,\"known_for_department\":\"Acting\",\"name\":\"Enzo Giordano\",\"original_name\":\"Enzo Giordano\",\"popularity\":0.015,\"profile_path\":null,\"credit_id\":\"611aba9a2dc44e002c41eb79\",\"department\":\"Crew\",\"job\":\"Special Effects\"},{\"adult\":false,\"gender\":0,\"id\":2815386,\"known_for_department\":\"Costume \\u0026 Make-Up\",\"name\":\"Rom\u00e1n Kampelmacher\",\"original_name\":\"Rom\u00e1n Kampelmacher\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611abaa6006b01002f2822b0\",\"department\":\"Crew\",\"job\":\"Special Effects\"}]}"
+}

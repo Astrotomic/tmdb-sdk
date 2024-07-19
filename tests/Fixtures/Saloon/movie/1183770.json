@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1088",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10821",
+        "x-memc": "HIT",
+        "x-memc-key": "5dab504ecc3fddb4f66cb43b0bdda6df",
+        "x-memc-age": "11990",
+        "x-memc-expires": "10821",
+        "ETag": "W\/\"a82459d999495b0972bdf89f8244b313\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mSi0msoAVgscc06z8U0qn52lKXfy5Pxd0T9qmYMdxgE1ntJzZ1Yt9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eJAMbsiqNUdKCHWsYvC878ziNwy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1183770,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"NichLmao vs. Swarmz vs. Ryan Johnston vs. BDave\",\"overview\":\"The MF & DAZN X Series is back for its eighth event, as NichLmao vs. Swarmz vs. Ryan Johnston vs. B Dave headlines the card.\",\"popularity\":4.665,\"poster_path\":\"\/vEyZo4wxBPxDHTbtHQTUsnObVz.jpg\",\"production_companies\":[{\"id\":185744,\"logo_path\":\"\/sDV9DlqQ8HH27dZ6fSSw8HI9vIb.png\",\"name\":\"Misfits Boxing\",\"origin_country\":\"GB\"},{\"id\":135210,\"logo_path\":\"\/uVtnYQgOoNZePh5Jm4f7mXNG1uH.png\",\"name\":\"DAZN\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2023-07-22\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Survivor Tag\",\"title\":\"NichLmao vs. Swarmz vs. Ryan Johnston vs. BDave\",\"video\":true,\"vote_average\":0.0,\"vote_count\":0}"
+}

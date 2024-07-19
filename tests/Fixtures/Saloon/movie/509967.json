@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1208",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21004",
+        "x-memc": "HIT",
+        "x-memc-key": "cc6f486094c7ece7514e4bf2791922bf",
+        "x-memc-age": "5331",
+        "x-memc-expires": "21004",
+        "ETag": "W\/\"c418254b9d301e591b58d5796c57a495\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "D4IqZEKvf5VSHnXZIE_r1KDDJbH60ORDExk1pnuRV2JyqMhReVochA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eFw5YSorHidsajLTayo1noueIxI.jpg\",\"belongs_to_collection\":null,\"budget\":150000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81001887\",\"id\":509967,\"imdb_id\":\"tt8106534\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"6 Underground\",\"overview\":\"After faking his death, a tech billionaire recruits a team of international operatives for a bold and bloody mission to take down a brutal dictator.\",\"popularity\":50.836,\"poster_path\":\"\/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg\",\"production_companies\":[{\"id\":82819,\"logo_path\":\"\/gXfFl9pRPaoaq14jybEn1pHeldr.png\",\"name\":\"Skydance Media\",\"origin_country\":\"US\"},{\"id\":6734,\"logo_path\":\"\/u55FhlG6vFNzSVKLcmnFFwLb2cc.png\",\"name\":\"Bay Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-12-10\",\"revenue\":0,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They say no one can save the world. Meet no one.\",\"title\":\"6 Underground\",\"video\":false,\"vote_average\":6.346,\"vote_count\":4623}"
+}

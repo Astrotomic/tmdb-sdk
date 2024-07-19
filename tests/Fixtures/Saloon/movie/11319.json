@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1496",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15911",
+        "x-memc": "HIT",
+        "x-memc-key": "22cd290866ab208c156f5b11ee491b62",
+        "x-memc-age": "9215",
+        "x-memc-expires": "15911",
+        "ETag": "W\/\"94666683f8691b42b5d1d4b2c8e5fdb6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8IT6eUMIY__jQvNs3wJKyO160rX5sNgYym7IeiYsknuJuiphHWGsVA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dSlofjxxcTSLmnH6602WsSSELU5.jpg\",\"belongs_to_collection\":{\"id\":57971,\"name\":\"The Rescuers Collection\",\"poster_path\":\"\/6OGgrYU7bWFritfSW76uvCklM0.jpg\",\"backdrop_path\":\"\/5LxWcUb02pWN0FkNyDPYq34JV1M.jpg\"},\"budget\":7500000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":11319,\"imdb_id\":\"tt0076618\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Rescuers\",\"overview\":\"What can two little mice possibly do to save an orphan girl who's fallen into evil hands? With a little cooperation and faith in oneself, anything is possible! As members of the mouse-run International Rescue Aid Society, Bernard and Miss Bianca respond to orphan Penny's call for help. The two mice search for clues with the help of an old cat named Rufus.\",\"popularity\":41.769,\"poster_path\":\"\/49rGpB2x6AFB83SC4IBl9foRIGp.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-06-22\",\"revenue\":169000000,\"runtime\":78,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Two tiny agents vs. the world's wickedest woman in a dazzling animated adventure!\",\"title\":\"The Rescuers\",\"video\":false,\"vote_average\":6.776,\"vote_count\":2414}"
+}

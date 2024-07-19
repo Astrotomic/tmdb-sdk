@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1060",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16948",
+        "x-memc": "HIT",
+        "x-memc-key": "2c947d950469422183cb5e3238945893",
+        "x-memc-age": "10638",
+        "x-memc-expires": "16948",
+        "ETag": "W\/\"faff631ed02435a7c23a51ba96d179d2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eM4dWV4K-rsRotvQ_aQ0S0HZWUixyc7TJyA7S97ZHdw9njBa8xav3A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xVpb8QB426LP9YYHyevKMw9Y3uQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":709589,\"imdb_id\":\"tt16059146\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u604b\u3059\u308b\u5bc4\u751f\u866b\",\"overview\":\"A man named Kengo Kosaka is germaphobe, Due to his disorder, he is also a lonely young man. Meanwhile, high school student Hijiri Sanagi has Ommatophobia. Both Kengo Kosaka and Hijiri Sanagi do not expect to find love with another person.\",\"popularity\":9.804,\"poster_path\":\"\/2bRVTUnbkrXwI0U4pXXDgrvBGjj.jpg\",\"production_companies\":[{\"id\":2073,\"logo_path\":\"\/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png\",\"name\":\"KADOKAWA\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2021-11-12\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Parasite in Love\",\"video\":false,\"vote_average\":6.9,\"vote_count\":14}"
+}

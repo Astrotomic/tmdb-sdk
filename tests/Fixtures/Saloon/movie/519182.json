@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1504",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21",
+        "x-memc": "HIT",
+        "x-memc-key": "d42881c90ccb794f1a846216d6b9d862",
+        "x-memc-age": "27036",
+        "x-memc-expires": "21",
+        "ETag": "W\/\"b0ebe6589167ae49e8ae1b5fed9fc755\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VZaw-yDDUW5IYf21rp6WlCJXH7a3Yk84gRr_N0MoD2TYSg9BA6tmvw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fDmci71SMkfZM8RnCuXJVDPaSdE.jpg\",\"belongs_to_collection\":{\"id\":86066,\"name\":\"Despicable Me Collection\",\"poster_path\":\"\/95prV91f4DxkBnLU43YjLbU1m3q.jpg\",\"backdrop_path\":\"\/37xamYKRUGCRux532lKcZdVGYuR.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.despicable.me\",\"id\":519182,\"imdb_id\":\"tt7510222\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Despicable Me 4\",\"overview\":\"Gru and Lucy and their girls \u2014 Margo, Edith and Agnes \u2014 welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Meanwhile, Gru faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.\",\"popularity\":4182.19,\"poster_path\":\"\/3w84hCFJATpiCO5g8hpdWVPBbmq.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-06-20\",\"revenue\":437809340,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Things just got a little more despicable.\",\"title\":\"Despicable Me 4\",\"video\":false,\"vote_average\":7.411,\"vote_count\":308}"
+}

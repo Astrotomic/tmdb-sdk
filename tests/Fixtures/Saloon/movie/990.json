@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1324",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6050",
+        "x-memc": "HIT",
+        "x-memc-key": "0db7437ba050eae7162cf918f12f32ff",
+        "x-memc-age": "18628",
+        "x-memc-expires": "6050",
+        "ETag": "W\/\"ad3b55b68ba48e78f3caeef202841f3f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VWw8TkToqEpDA8WlMNNmEiapRhzvUuDU-irakar3QNslxNa4_0kigQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1aspiiXDHVizaCYTNaWwRQSmXCh.jpg\",\"belongs_to_collection\":{\"id\":387219,\"name\":\"The Hustler Collection\",\"poster_path\":\"\/8kBQvshMpK76aET1hLfAxnDle5W.jpg\",\"backdrop_path\":\"\/3Mi3mckWv3xKNq2tlwlrixQexkv.jpg\"},\"budget\":2000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":990,\"imdb_id\":\"tt0054997\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hustler\",\"overview\":\"Fast Eddie Felson is a small-time pool hustler with a lot of talent but a self-destructive attitude. His bravado causes him to challenge the legendary Minnesota Fats to a high-stakes match.\",\"popularity\":26.153,\"poster_path\":\"\/snItsSViawjaadW9mlWUmGwR41R.jpg\",\"production_companies\":[{\"id\":22820,\"logo_path\":null,\"name\":\"Rossen Films\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1961-09-25\",\"revenue\":7600000,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They called him Fast Eddie. He was a winner. He was a loser. He was a hustler.\",\"title\":\"The Hustler\",\"video\":false,\"vote_average\":7.683,\"vote_count\":940}"
+}

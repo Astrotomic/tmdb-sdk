@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1378",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16687",
+        "x-memc": "HIT",
+        "x-memc-key": "deb4e00ac4044134f6c58e21bf7939db",
+        "x-memc-age": "6218",
+        "x-memc-expires": "16687",
+        "ETag": "W\/\"f57244c40b22b0c10a75ef53ac521d47\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ha04FNPX4xR1xwwwcfhlcG1nZFR_v3X3S4Wzud0JSfOa_Afjh5RwAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fDZ2DCKW2D7J0ABNr9EICdD2H1s.jpg\",\"belongs_to_collection\":{\"id\":136214,\"name\":\"Pocahontas Collection\",\"poster_path\":\"\/fcFFdNwgkLXCdIxe0H7RFasmogh.jpg\",\"backdrop_path\":\"\/or6DYoMtttpgs0g7cTBE5DgeUUf.jpg\"},\"budget\":55000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/movies.disney.com\/pocahontas\",\"id\":10530,\"imdb_id\":\"tt0114148\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pocahontas\",\"overview\":\"Pocahontas, daughter of a Native American tribe chief, falls in love with an English soldier as colonists invade 17th century Virginia.\",\"popularity\":58.872,\"poster_path\":\"\/kZ1ft0QZ4e3zDUPMBftEkwI9ftd.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":171656,\"logo_path\":\"\/4UBohOtIr9DtxylH48Qsg6aDow6.png\",\"name\":\"Walt Disney Feature Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-06-14\",\"revenue\":346100000,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An American legend comes to life.\",\"title\":\"Pocahontas\",\"video\":false,\"vote_average\":6.924,\"vote_count\":5547}"
+}

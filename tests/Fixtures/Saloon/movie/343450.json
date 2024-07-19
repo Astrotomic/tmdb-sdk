@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1114",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14048",
+        "x-memc": "HIT",
+        "x-memc-key": "8ce5d8bf733cea6bd8811d51a752fb1e",
+        "x-memc-age": "13045",
+        "x-memc-expires": "14048",
+        "ETag": "W\/\"8eaa2181e31119080bc4c294a09779fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MLNWwxhqNWq4FPfL3a4pdosXAZUxeT99V8QNYc-pCWDKO-ffBge7Mg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sESihFuxmXfz7pB6F6vP4btyYP5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":343450,\"imdb_id\":\"tt0063075\",\"origin_country\":[\"HU\"],\"original_language\":\"hu\",\"original_title\":\"Holdudvar\",\"overview\":\"Edit, who became the wife of a politician out of a simple peasant girl, suddenly becomes a widow as a result of an accident. She never loved her husband. She lives a wealthy and lonely life amidst false friends, facing one of the last alternatives of her life, i.e. having to face her past in the hope of an independent new beginning.\",\"popularity\":4.796,\"poster_path\":\"\/iPFXkfESDsEJltZXiW7sJCXIU16.jpg\",\"production_companies\":[{\"id\":8100,\"logo_path\":\"\/1HuVRo0SYPSzYvduxVf4baaWqOI.png\",\"name\":\"Mafilm\",\"origin_country\":\"HU\"}],\"production_countries\":[{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"}],\"release_date\":\"1969-01-09\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Hungarian\",\"iso_639_1\":\"hu\",\"name\":\"Magyar\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Binding Sentiments\",\"video\":false,\"vote_average\":6.3,\"vote_count\":8}"
+}

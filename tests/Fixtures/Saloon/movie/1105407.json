@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1363",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2015",
+        "x-memc": "HIT",
+        "x-memc-key": "b92f50224028d2b8f0c4980cc4e13a7c",
+        "x-memc-age": "20312",
+        "x-memc-expires": "2015",
+        "ETag": "W\/\"ec0a143b932755e905e642c26c95d79a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "n8PLikmRplM86lqq41GXeCKu-hl9elP5VtzhdbwMP7ODzvb8Hm3_EQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fUC5VsQcU3m6zmYMD96R7RqPuMn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1105407,\"imdb_id\":\"tt27304026\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Damaged\",\"overview\":\"A Chicago detective travels to Scotland after an emerging serial killer\u2019s crimes match those that he investigated five years earlier, one of which was the crime scene of his murdered girlfriend.\",\"popularity\":185.27,\"poster_path\":\"\/xEG4TcrGceqQBVXC8VBDTvXHdIx.jpg\",\"production_companies\":[{\"id\":121063,\"logo_path\":\"\/dvpzPTQKLg2nhh95OlBhvGFb8gD.png\",\"name\":\"Red Sea Media\",\"origin_country\":\"US\"},{\"id\":121204,\"logo_path\":\"\/vbtvY4IxgUZk713rkmoTO4MHIac.png\",\"name\":\"BondIt Media Capital\",\"origin_country\":\"US\"},{\"id\":224189,\"logo_path\":null,\"name\":\"Tartan Bridge Films\",\"origin_country\":\"GB\"},{\"id\":25635,\"logo_path\":null,\"name\":\"High Five Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-12\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Damaged\",\"video\":false,\"vote_average\":5.652,\"vote_count\":157}"
+}

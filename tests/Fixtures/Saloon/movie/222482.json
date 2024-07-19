@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "908",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27115",
+        "x-memc": "HIT",
+        "x-memc-key": "46e8949d7c51d41192f3763e72575120",
+        "x-memc-age": "886",
+        "x-memc-expires": "27115",
+        "ETag": "W\/\"690d00741562505a7a53ba2b9a652a4a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ng8LLC0fq1XIOswM8ju37JUsTyj8nJQh8Kdg2_jfh2DcoReFralMjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":222482,\"imdb_id\":\"tt2186464\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"For Menneskeheten\",\"overview\":\"A zombie apocalypse comedy about the last boy on earth and his robot friend, who seek out the last woman on earth in order to repopulate the planet. The only problem is that he's 14 and she's 25, and she has no interest in sleeping with a teenager.\",\"popularity\":0.591,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"NO\",\"name\":\"Norway\"}],\"release_date\":\"2012-11-01\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Saving the Human Race\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

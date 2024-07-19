@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1001",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1661",
+        "x-memc": "HIT",
+        "x-memc-key": "0d0fab8e6ee0779deb175c906871c0ea",
+        "x-memc-age": "26690",
+        "x-memc-expires": "1661",
+        "ETag": "W\/\"1c2523c101e57f01304c5ff35823fb1e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lEZ7_5u1SW4TIXx3VnpJZo1McBAE9I7q4ge4JRiWHXiLRPDbR7jsiA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/odgDBoMZ0uguuAQZMVD2ArSTRsV.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":36,\"name\":\"History\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":549736,\"imdb_id\":\"tt7616534\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Beaning\",\"overview\":\"An experimental documentary exploring a sinister theory surrounding the death of Cleveland baseball player Ray Chapman in 1920 and the subsequent rise of the Yankee dynasty.\",\"popularity\":2.358,\"poster_path\":\"\/sM6rRcmRCrk3rwHDgrjc5L6alxw.jpg\",\"production_companies\":[{\"id\":146647,\"logo_path\":null,\"name\":\"Erie Steelworks\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-11-11\",\"revenue\":0,\"runtime\":9,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Beaning\",\"video\":false,\"vote_average\":7.2,\"vote_count\":5}"
+}

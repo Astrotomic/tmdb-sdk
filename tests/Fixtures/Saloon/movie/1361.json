@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1191",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15337",
+        "x-memc": "HIT",
+        "x-memc-key": "80d33de078d15f0a95e30fbf79c3c05f",
+        "x-memc-age": "12850",
+        "x-memc-expires": "15337",
+        "ETag": "W\/\"00077847b594d857432b51f80c612ec1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gQST7FY8XtXVP_7pVVbE7G8MZ-jZ4o7MWbp18CayURD21WCHi9stjQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fBzwSM5zl4xp9L3rFu1PihmY0vh.jpg\",\"belongs_to_collection\":{\"id\":141290,\"name\":\"The Lord of the Rings (Animated) Collection\",\"poster_path\":\"\/yLzL7Pv4ZAJ81QD6esn0AqdNgzr.jpg\",\"backdrop_path\":\"\/8rKJzqBVUbcshKROW4pamVSt1UO.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":1361,\"imdb_id\":\"tt0079802\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Return of the King\",\"overview\":\"Two Hobbits struggle to destroy the Ring in Mount Doom while their friends desperately fight evil Lord Sauron's forces in a final battle.\",\"popularity\":16.103,\"poster_path\":\"\/sC5j2cUgGe1IQ33WdLYx6G4KiDm.jpg\",\"production_companies\":[{\"id\":688,\"logo_path\":\"\/65PkdDSyh6fwXgwg47x73pvgWiW.png\",\"name\":\"Rankin\/Bass Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-05-11\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Return of the King\",\"video\":false,\"vote_average\":6.376,\"vote_count\":190}"
+}

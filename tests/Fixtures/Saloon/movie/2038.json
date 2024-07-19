@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1376",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18018",
+        "x-memc": "HIT",
+        "x-memc-key": "76beda16ec4f2690714700cc021f7570",
+        "x-memc-age": "6256",
+        "x-memc-expires": "18018",
+        "ETag": "W\/\"3d83ed1e81afa267a9b2f23493e13a4f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SXJFB6Y9X6X3vJt8q_hU-0IH1P57YSWb_dAZvJ3QzSQb6LyvLYg0JQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jHEFMgqEXGyHExaZ4w2gYkd34Uo.jpg\",\"belongs_to_collection\":{\"id\":123251,\"name\":\"Iron Eagle Collection\",\"poster_path\":\"\/wr2LChB1p1U8qX0rF2LdQgMgtAJ.jpg\",\"backdrop_path\":\"\/jgfkfXcsRLLmysrHFuINadUwSKV.jpg\"},\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":2038,\"imdb_id\":\"tt0103617\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Iron Eagle III\",\"overview\":\"Chappy discovers a drug-smuggling scheme at his own air base. It turns out that the lives of some village people in Peru are at stake, and he decides to fly there with ancient airplanes and friends to free them.\",\"popularity\":8.251,\"poster_path\":\"\/ylvfsnacoqsTdZuLty2XVRolnNH.jpg\",\"production_companies\":[{\"id\":14159,\"logo_path\":null,\"name\":\"Seven Arts Pictures\",\"origin_country\":\"\"},{\"id\":275,\"logo_path\":\"\/2MxNWlN5b3UXt1OfmznsWEQzFwq.png\",\"name\":\"Carolco Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-01-09\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Four heroes from the past fight as one to protect the future.\",\"title\":\"Iron Eagle III\",\"video\":false,\"vote_average\":4.148,\"vote_count\":61}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1312",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3720",
+        "x-memc": "HIT",
+        "x-memc-key": "804c8c7ab63914b9c627a4a168db3c8f",
+        "x-memc-age": "19025",
+        "x-memc-expires": "3720",
+        "ETag": "W\/\"0917b91f7fa044f4f9aa70b4de370410\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4Ag9ha_Ubi29c2KybY8h3TXQQApVbQLN3mKm2W0IzTa3lboGfHE_0g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3nwV2IO2fqlMcBI3w7coCsbND1g.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":6845,\"imdb_id\":\"tt0080573\",\"origin_country\":[\"IE\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Cry of the Innocent\",\"overview\":\"An American insurance executive, who sees his wife and children die when a plane crashes into their vacation cottage on the Irish coast, uncovers a series of suspicious clues indicating that it was no accident after a pretty financial reporter who resembles his dead wife turns up.\",\"popularity\":2.638,\"poster_path\":\"\/Ap5ahfKb7iKlXPQToyebkLZel4k.jpg\",\"production_companies\":[{\"id\":1502,\"logo_path\":\"\/ywjcvHUiKxv7cYsestkONF8LieH.png\",\"name\":\"NBC\",\"origin_country\":\"US\"},{\"id\":187579,\"logo_path\":null,\"name\":\"Tara Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IE\",\"name\":\"Ireland\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-06-15\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cry of the Innocent\",\"video\":false,\"vote_average\":5.0,\"vote_count\":4}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "825",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8329",
+        "x-memc": "HIT",
+        "x-memc-key": "6de8ac887fd59faa2c3b9d893cbccea2",
+        "x-memc-age": "14178",
+        "x-memc-expires": "8329",
+        "ETag": "W\/\"849ab16604c7d33f3ba832ba6457e245\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "913dFwmNMzKJ8qmeExp2m7CEY9F9esYvhcdcUHnUYkd7kTJXgiKrNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":396122,\"imdb_id\":\"tt2076177\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cocotte Minute\",\"overview\":\"In a restaurant kitchen, a chicken dreams of escape and freedom while trying to survive a poultry race organised by the team of cooks.\",\"popularity\":0.626,\"poster_path\":null,\"production_companies\":[{\"id\":71552,\"logo_path\":\"\/hmFPR24kEVCPi6A47x2j6n7qfza.png\",\"name\":\"Gobelins\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2006-05-04\",\"revenue\":0,\"runtime\":1,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cocotte Minute\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

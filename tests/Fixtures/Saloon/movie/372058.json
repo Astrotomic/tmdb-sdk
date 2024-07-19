@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1773",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14473",
+        "x-memc": "HIT",
+        "x-memc-key": "d1f256ee4ff0b920827ff94367c341ce",
+        "x-memc-age": "10962",
+        "x-memc-expires": "14473",
+        "ETag": "W\/\"d5d06941f8ecb2ce174cf6db3d646c11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lVN6-PlhAvtv-Yn_A-9yEFLj5RnickFKqOM9nWcJscQU7l6s00Iifg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dIWwZW7dJJtqC6CgWzYkNVKIUm8.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.funimationfilms.com\/movie\/yourname\/\",\"id\":372058,\"imdb_id\":\"tt5311514\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u541b\u306e\u540d\u306f\u3002\",\"overview\":\"High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki\u2019s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.\",\"popularity\":125.505,\"poster_path\":\"\/q719jXXEzOoYaps6babgKnONONX.jpg\",\"production_companies\":[{\"id\":3756,\"logo_path\":\"\/t38uPdbKmyBB8brKKeTFWIwojRz.png\",\"name\":\"CoMix Wave Films\",\"origin_country\":\"JP\"},{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":2073,\"logo_path\":\"\/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png\",\"name\":\"KADOKAWA\",\"origin_country\":\"JP\"},{\"id\":8157,\"logo_path\":\"\/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png\",\"name\":\"jeki\",\"origin_country\":\"JP\"},{\"id\":14602,\"logo_path\":\"\/t9eqx5QCHtu8LxxgYzivqrJAosp.png\",\"name\":\"AMUSE\",\"origin_country\":\"JP\"},{\"id\":128617,\"logo_path\":null,\"name\":\"voque ting\",\"origin_country\":\"JP\"},{\"id\":104184,\"logo_path\":null,\"name\":\"Lawson Entertainment\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2016-08-26\",\"revenue\":358000000,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Separated by distance, connected by fate.\",\"title\":\"Your Name.\",\"video\":false,\"vote_average\":8.49,\"vote_count\":11106}"
+}

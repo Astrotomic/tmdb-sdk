@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21366",
+        "x-memc": "HIT",
+        "x-memc-key": "e44dbc2b839917c3199e80c861f223b0",
+        "x-memc-age": "5263",
+        "x-memc-expires": "21366",
+        "ETag": "W\/\"d31a40f74e4eeba8d0f7001e98ece9e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "58og3CDLhWGM7AJ6TWs5ODfPVYJlp0DtfqhW68i3USQyaITSqF5VGw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i068XM0ozhRGUw4mCZRezvzKbK0.jpg\",\"belongs_to_collection\":null,\"budget\":12900000,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":1004348,\"imdb_id\":\"tt26656821\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Bol\u00e9ro\",\"overview\":\"Boundary-pushing Russian dancer and actress Ida Rubinstein selects renowned French composer Maurice Ravel to compose the music for her next ballet. Ravel ends up creating his greatest success ever: Bol\u00e9ro.\",\"popularity\":18.143,\"poster_path\":\"\/8H8kS9Q7unESbSrwCdTDgXVWRq7.jpg\",\"production_companies\":[{\"id\":2564,\"logo_path\":null,\"name\":\"Cin\u00e9-@\",\"origin_country\":\"FR\"},{\"id\":75816,\"logo_path\":\"\/nVDVcbfYplh43TvxGyj1rGUWiif.png\",\"name\":\"Cin\u00e9france Studios\",\"origin_country\":\"FR\"},{\"id\":11778,\"logo_path\":\"\/rIiLv4yt20WOQAk1HD1EvLOfDgh.png\",\"name\":\"F Comme Film\",\"origin_country\":\"FR\"},{\"id\":83,\"logo_path\":\"\/9OQ0rm55xtlgX7KcAKMUePJSrQc.png\",\"name\":\"France 2 Cin\u00e9ma\",\"origin_country\":\"FR\"},{\"id\":11773,\"logo_path\":\"\/8fCjsqh43LbPV6pm3SfR5Jx64GU.png\",\"name\":\"Art\u00e9mis Productions\",\"origin_country\":\"BE\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-03-06\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The Ravel Mystery\",\"title\":\"Bol\u00e9ro\",\"video\":false,\"vote_average\":6.379,\"vote_count\":33}"
+}

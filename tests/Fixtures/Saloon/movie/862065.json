@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "790",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12827",
+        "x-memc": "HIT",
+        "x-memc-key": "ec1afc9b34d0e0d8c875f20718790f66",
+        "x-memc-age": "15249",
+        "x-memc-expires": "12827",
+        "ETag": "W\/\"381ea96e7f08111dd794c867d1a3ced3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a1AHTmS8GZDMq9uNg4DIuIy-qCiKcT-qL8wPeN8UXaQzao_m9iCVNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":1620,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":862065,\"imdb_id\":\"tt4799686\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Pool 2\",\"overview\":\"The plot for this film isn't entirely known.\",\"popularity\":5.344,\"poster_path\":\"\/5uhFvIiqqHhHuoz1sk8WcaarQvT.jpg\",\"production_companies\":[{\"id\":159189,\"logo_path\":null,\"name\":\"Mediafilm\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2005-04-01\",\"revenue\":0,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Pool 2\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

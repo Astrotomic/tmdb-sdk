@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "264",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13443",
+        "x-memc": "HIT",
+        "x-memc-key": "0cda65386f00c9f7d83f7089dc99c0e2",
+        "x-memc-age": "10161",
+        "x-memc-expires": "13443",
+        "ETag": "W\/\"651b76568cacac86735224a93fbba920\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QNaUczXWHr1rnNXQu9hkHQHh00RugVuKvHsjDbEp4IuITJt2Swt1eA=="
+    },
+    "data": "{\"id\":3205,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/3205-santo-vs-la-hija-de-frankenstein\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/zOWoxUMmGW0OfDFAQsCosho2PZz.jpg\",\"provider_id\":455,\"provider_name\":\"Night Flight Plus\",\"display_priority\":94}]}}}"
+}

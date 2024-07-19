@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "899",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22210",
+        "x-memc": "HIT",
+        "x-memc-key": "cecc19c25b6718bc0cfcdd321e2d61af",
+        "x-memc-age": "4408",
+        "x-memc-expires": "22210",
+        "ETag": "W\/\"d41f4e20a6eabf10be8907dfa6090a9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ywc-sAe2CdEYnAr3jy8si7Qb8C5z_iQA9Nbw6Ujzy2Eg53liUGfs6g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fdcLj037ubsdZaEjAfNhWJeKo6G.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":391282,\"imdb_id\":\"tt0295485\",\"origin_country\":[\"AL\"],\"original_language\":\"sq\",\"original_title\":\"Nj\u00ebsiti guerril\",\"overview\":\"Action war film drama directed and written by Hysen Hakani with Muharrem Sk\u00ebnderi.\",\"popularity\":1.045,\"poster_path\":\"\/dfCZawdQLu1Rn1SCj7kf5luzKv3.jpg\",\"production_companies\":[{\"id\":29695,\"logo_path\":null,\"name\":\"Shqip\u00ebria e Re\",\"origin_country\":\"AL\"}],\"production_countries\":[{\"iso_3166_1\":\"AL\",\"name\":\"Albania\"}],\"release_date\":\"1969-11-27\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Albanian\",\"iso_639_1\":\"sq\",\"name\":\"shqip\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Guerrilla Unit\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

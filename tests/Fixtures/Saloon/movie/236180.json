@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1112",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22499",
+        "x-memc": "HIT",
+        "x-memc-key": "b22c483fbf7fbf8b001ba27205c5b8ce",
+        "x-memc-age": "737",
+        "x-memc-expires": "22499",
+        "ETag": "W\/\"a57584b67bacbbf7689e54dcf749eab6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ele-pDRyvooW3rMbVms4Ma3P5LPcz0kCnTt8hWSZc8SH6aG9l9z_UA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":236180,\"imdb_id\":\"tt0030014\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cops Is Always Right\",\"overview\":\"Popeye is heading over to see Olive when he hits a traffic island where a cop is directing traffic; when he gets there, he manages to get more tickets for blowing his horn and parking illegally. The cop rings the bell, and Popeye manages to wreck Olive's apartment by dropping what he's doing, each time he writes a ticket.\",\"popularity\":2.416,\"poster_path\":\"\/iC50QK0orGBLu6m8MEiCrkueepV.jpg\",\"production_companies\":[{\"id\":8302,\"logo_path\":null,\"name\":\"Fleischer Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-12-29\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cops Is Always Right\",\"video\":false,\"vote_average\":6.5,\"vote_count\":2}"
+}

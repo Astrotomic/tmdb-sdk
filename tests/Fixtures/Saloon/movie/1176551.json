@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "719",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23686",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "77d6ced369ff2c6e52c7f455e1136063",
+        "x-memc-age": "0",
+        "x-memc-expires": "23686",
+        "ETag": "W\/\"b70b30c445a93c27bd754c5201d04c4b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SfuLz7zFrTPbdj-Duqfa0QD2BTbgRxo2y5l2OshKwhP35tN0rnZltw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lLElsGdIdmCgnCzD9c0lrdiaN1y.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1176551,\"imdb_id\":\"tt28578377\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dead or Alive\",\"overview\":\"Soldiers attempt to escape a cartel-controlled area in Mexico\",\"popularity\":1.296,\"poster_path\":\"\/iBtUufNeHtsN61RCT3eGMsuNzQJ.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dead or Alive\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

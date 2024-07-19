@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1524",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14384",
+        "x-memc": "HIT",
+        "x-memc-key": "942cb26f3b0a9fc1f55964557fad63e9",
+        "x-memc-age": "9600",
+        "x-memc-expires": "14384",
+        "ETag": "W\/\"23941d565314502bfbe63c9dab6bd60e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DuR2rGt7wPRmn-sspCTVI1g79Cmbqicn4C3SZmAarjT6iqecLmYUmQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8yK6v4v0M6jVUcXWvcrvIZGsapn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.hallmarkchannel.com\/love-on-the-sidelines\",\"id\":374607,\"imdb_id\":\"tt5302658\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"Love on the Sidelines\",\"overview\":\"A down-on-her-luck young woman who falls into a job as a personal assistant to a star quarterback sidelined with an injury. He's never had a female assistant before and she knows nothing about football.\",\"popularity\":11.713,\"poster_path\":\"\/oPFXIYMzOX7LebQT53Bxc0R1eug.jpg\",\"production_companies\":[{\"id\":6748,\"logo_path\":\"\/74qmkZFGFMbCsIKo2Dk62QVsUKf.png\",\"name\":\"Goalpost Pictures\",\"origin_country\":\"AU\"},{\"id\":77762,\"logo_path\":\"\/bZDPLLJmJzHZwMsdSF8t1Zp67L7.png\",\"name\":\"Beth Grossbard Productions\",\"origin_country\":\"US\"},{\"id\":3958,\"logo_path\":\"\/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png\",\"name\":\"Front Street Pictures\",\"origin_country\":\"CA\"},{\"id\":11550,\"logo_path\":\"\/3oQFsgYn68gvDAkELfiX4tn65Ui.png\",\"name\":\"Corus Entertainment\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-01-16\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Love on the Sidelines\",\"video\":false,\"vote_average\":6.316,\"vote_count\":98}"
+}

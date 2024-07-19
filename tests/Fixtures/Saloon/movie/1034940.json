@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1026",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7956",
+        "x-memc": "HIT",
+        "x-memc-key": "73d5c6b1edd3aa6c1df8ed211f518ce7",
+        "x-memc-age": "18821",
+        "x-memc-expires": "7956",
+        "ETag": "W\/\"a1caef07ed208ef6eaa5dff7db31fde6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BkBy0WskgkXZ2GMv_AqG-8a1Kv1OykwuyCspIShiDURgfpN-RrZT0w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z5hQ23FPuCmSUtdzKhvgJlAJQyR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81630883\",\"id\":1034940,\"imdb_id\":\"tt27921620\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Nouveaux riches\",\"overview\":\"A con artist in dire need of cash and a woman with a crypto fortune hit it off. Is she the target of his dreams, or is the scammer about to get scammed?\",\"popularity\":25.681,\"poster_path\":\"\/cQvINIqpk81Ax0QCcQXxjGD7Dgv.jpg\",\"production_companies\":[{\"id\":34780,\"logo_path\":\"\/ahgzFRXKF2fkOV0WfB0RCxEmxki.png\",\"name\":\"Chi-Fou-Mi Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2023-11-17\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"All-Time High\",\"video\":false,\"vote_average\":5.761,\"vote_count\":113}"
+}

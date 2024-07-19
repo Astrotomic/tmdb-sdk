@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1395",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25067",
+        "x-memc": "HIT",
+        "x-memc-key": "c4f8953590d63c34cdab5e0e4168123c",
+        "x-memc-age": "2796",
+        "x-memc-expires": "25067",
+        "ETag": "W\/\"0f70fd96de5aa88fa5ca3001bde0dfce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "A_j-Zvw-2ZCt__SAzx3m0UMqFpsXhewQhrehdXkOkd824Ml0jLAdPQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3WzXefy6vXYeO0bfAWPFZ56U2oP.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"http:\/\/www.mylifetime.com\/movies\/seduced\",\"id\":395442,\"imdb_id\":\"tt5518902\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Seduced\",\"overview\":\"Caroline and Margo respond to a \\\"Missed Connections\\\" ad on Craigslist, only to realize that there whirlwind romance was a trap, and the man of her dreams is leading a secret life.  The Two women join forces to bring down the dangerous con man who simultaneously romanced and duped them.\",\"popularity\":4.117,\"poster_path\":\"\/8egMKtHrVia5PTJNvjOjgNitV0Y.jpg\",\"production_companies\":[{\"id\":8829,\"logo_path\":null,\"name\":\"Market Street Productions\",\"origin_country\":\"\"},{\"id\":3431,\"logo_path\":\"\/bVTF0p5xlPfQhQIuBLr9BFtrKip.png\",\"name\":\"Lifetime\",\"origin_country\":\"US\"},{\"id\":6679,\"logo_path\":\"\/r3r7qbHKgo8N0yr7r1TjLmzLXfQ.png\",\"name\":\"MarVista Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-04-20\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He Was Too Good To Be True\",\"title\":\"Seduced\",\"video\":true,\"vote_average\":6.4,\"vote_count\":14}"
+}

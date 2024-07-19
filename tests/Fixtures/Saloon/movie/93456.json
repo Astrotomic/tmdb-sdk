@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1340",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19544",
+        "x-memc": "HIT",
+        "x-memc-key": "e5b1c4a07ff2a1db58aaef79bf9503e3",
+        "x-memc-age": "6816",
+        "x-memc-expires": "19544",
+        "ETag": "W\/\"c0e1607d423de0ce9a80ec8e319747ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iK59RhJCKjOIl8wZhGVQaMZP96WnfcphDEgUkTh1cpedFO69wISUsQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fOipappvgVtUbbHOtmCkHzcwJjC.jpg\",\"belongs_to_collection\":{\"id\":86066,\"name\":\"Despicable Me Collection\",\"poster_path\":\"\/95prV91f4DxkBnLU43YjLbU1m3q.jpg\",\"backdrop_path\":\"\/37xamYKRUGCRux532lKcZdVGYuR.jpg\"},\"budget\":76000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":93456,\"imdb_id\":\"tt1690953\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Despicable Me 2\",\"overview\":\"Gru is recruited by the Anti-Villain League to help deal with a powerful new super criminal.\",\"popularity\":167.753,\"poster_path\":\"\/5Fh4NdoEnCjCK9wLjdJ9DJNFl2b.jpg\",\"production_companies\":[{\"id\":6704,\"logo_path\":\"\/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png\",\"name\":\"Illumination\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-06-26\",\"revenue\":970766005,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"When the world needed a hero, they called a villain.\",\"title\":\"Despicable Me 2\",\"video\":false,\"vote_average\":6.93,\"vote_count\":11004}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1678",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10664",
+        "x-memc": "HIT",
+        "x-memc-key": "643117daa517b1e3dfeea05407bf47ac",
+        "x-memc-age": "17695",
+        "x-memc-expires": "10664",
+        "ETag": "W\/\"0ff9311eb78b3f9a32b10375d7a916ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L4dmz4hoici_gqJTm7WFfgLEy9KnKazJOxGY3fbSuYPfFj_pYAHrUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/moTOuNKnM2phZCYPF49Y1Hb7WJj.jpg\",\"belongs_to_collection\":null,\"budget\":1750000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":655,\"imdb_id\":\"tt0087884\",\"origin_country\":[\"DE\"],\"original_language\":\"en\",\"original_title\":\"Paris, Texas\",\"overview\":\"A man wanders out of the desert not knowing who he is. His brother finds him, and helps to pull his memory back of the life he led before he walked out on his family and disappeared four years earlier.\",\"popularity\":47.051,\"poster_path\":\"\/tgw3TJTWgNUYCgL5Pa546VVVvSU.jpg\",\"production_companies\":[{\"id\":45,\"logo_path\":\"\/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png\",\"name\":\"Road Movies\",\"origin_country\":\"DE\"},{\"id\":6116,\"logo_path\":\"\/yCu2D15iD7lcYsBWqXjU65U9nkH.png\",\"name\":\"Argos Films\",\"origin_country\":\"FR\"},{\"id\":46,\"logo_path\":\"\/3xFdKHLXPGHEbrAkmsepGE8974Y.png\",\"name\":\"WDR\",\"origin_country\":\"DE\"},{\"id\":181,\"logo_path\":\"\/zhQ77XOviCBuXd74IurqqjgLNe0.png\",\"name\":\"Channel Four Films\",\"origin_country\":\"GB\"},{\"id\":1448,\"logo_path\":null,\"name\":\"Pro-ject Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":36229,\"logo_path\":null,\"name\":\"Wim Wenders Stiftung\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1984-07-16\",\"revenue\":2181987,\"runtime\":145,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A place for dreams. A place for heartbreak. A place to pick up the pieces.\",\"title\":\"Paris, Texas\",\"video\":false,\"vote_average\":8.1,\"vote_count\":1756}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1541",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6298",
+        "x-memc": "HIT",
+        "x-memc-key": "cc4ab6bfb06f15a049ba0c41bffb1309",
+        "x-memc-age": "17118",
+        "x-memc-expires": "6298",
+        "ETag": "W\/\"6dbf4b298f893b0f5e15df431b81b6f4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s4GaOSslB6lfVCNrputRLBMeXr6Yp3sZWKgFw8Au9YiXK9Ki6_M0iQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nxrXD2u72bzNmAgEeqLFOmG7XzK.jpg\",\"belongs_to_collection\":{\"id\":609514,\"name\":\"Mystery Road Collection\",\"poster_path\":\"\/1YknEmkTHC523u1doQyKmR1si4X.jpg\",\"backdrop_path\":\"\/3R0FZZ6YYiLqR8apRUk3wVUfnP0.jpg\"},\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/goldstonefilm.tumblr.com\",\"id\":393834,\"imdb_id\":\"tt4911996\",\"origin_country\":[\"AU\"],\"original_language\":\"en\",\"original_title\":\"Goldstone\",\"overview\":\"Indigenous Detective Jay Swan arrives in the frontier town of Goldstone on a missing persons inquiry. What seems like a simple investigation unearths an intricate web of crime, corruption, human trafficking, and coordinated exploitation of indigenous people\u2019s land. Jay must bury his differences with young local cop Josh, so together they can bring justice to Goldstone.\",\"popularity\":12.654,\"poster_path\":\"\/awXoAUuehhsOnCEdB7BYAetdK6r.jpg\",\"production_companies\":[{\"id\":2520,\"logo_path\":null,\"name\":\"Arclight Films\",\"origin_country\":\"US\"},{\"id\":12158,\"logo_path\":null,\"name\":\"Transmission Pictures\",\"origin_country\":\"\"},{\"id\":200745,\"logo_path\":\"\/hZTkzMlONkaOICMPIOP34Ld1Gdm.png\",\"name\":\"Dark Matter Media\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"}],\"release_date\":\"2016-07-07\",\"revenue\":0,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Where worlds collide.\",\"title\":\"Goldstone\",\"video\":false,\"vote_average\":6.0,\"vote_count\":111}"
+}

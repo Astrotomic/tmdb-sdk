@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1361",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6374",
+        "x-memc": "HIT",
+        "x-memc-key": "5fbe9cc9cbe1e6de230d0857404613f6",
+        "x-memc-age": "16043",
+        "x-memc-expires": "6374",
+        "ETag": "W\/\"969d65debc0463df92931911a063bf2c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "k3lIP0QJCmXLCdCIsCcoulqyRqZB-xuZbnC6TdDsp734LwnIMqQb9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5mwd1quVNkdwImOF2RGm90hKZ5P.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":9922,\"imdb_id\":\"tt0119925\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Postman\",\"overview\":\"In 2013, there are no highways, no I-ways, no dreams of a better tomorrow, only scattered survivors across what was once the Unites States. Into this apocalyptic wasteland comes an enigmatic drifter with a mule, a knack for Shakespeare, and something yet undiscovered: the power to inspire hope.\",\"popularity\":53.386,\"poster_path\":\"\/piVzOuKFLHNGLxnjwNtibC26lTy.jpg\",\"production_companies\":[{\"id\":335,\"logo_path\":null,\"name\":\"Tig Productions\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-12-25\",\"revenue\":17626234,\"runtime\":177,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The year is 2013. One man walked in off the horizon and hope came with him.\",\"title\":\"The Postman\",\"video\":false,\"vote_average\":6.247,\"vote_count\":1033}"
+}

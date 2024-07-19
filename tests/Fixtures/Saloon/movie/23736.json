@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1533",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5603",
+        "x-memc": "HIT",
+        "x-memc-key": "90a2b74558b5d6475acf26dc552c5ec7",
+        "x-memc-age": "19667",
+        "x-memc-expires": "5603",
+        "ETag": "W\/\"ffad69075dfc0cdca34fdb822f268381\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8970b72cbe096ea273456c181c4882ce.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zCqpwd4tYy7u7knkhJban0F0fp-IP_C54nZllsDxczz2pLbxw-V5TA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qOfSyL6Ie0TzuUgUEFUg0AE80RL.jpg\",\"belongs_to_collection\":null,\"budget\":4500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":23736,\"imdb_id\":\"tt1202222\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lies & Illusions\",\"overview\":\"When a menacing smuggler coolly insists that best-selling author Wes Wilson take a chauffeured backseat ride with him, Wilson's charmed life explodes into a world of violence and espionage, and he learns shocking truths about two women in his life.\",\"popularity\":12.024,\"poster_path\":\"\/8GKiMdBoQjzOMhiJ6fMt4LIVXjy.jpg\",\"production_companies\":[{\"id\":925,\"logo_path\":\"\/dIb9hjXNOkgxu4kBWdIdK8nM4w.png\",\"name\":\"Nu Image\",\"origin_country\":\"US\"},{\"id\":126749,\"logo_path\":null,\"name\":\"Lies and Deceptions Productions\",\"origin_country\":\"\"},{\"id\":3312,\"logo_path\":null,\"name\":\"Martini Films\",\"origin_country\":\"\"},{\"id\":1804,\"logo_path\":null,\"name\":\"North by Northwest Entertainment\",\"origin_country\":\"\"},{\"id\":1843,\"logo_path\":null,\"name\":\"Grand Army Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-08-26\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A writer, torn between two lovers is hunted by spies in search of stolen diamonds.\",\"title\":\"Lies & Illusions\",\"video\":false,\"vote_average\":4.008,\"vote_count\":62}"
+}

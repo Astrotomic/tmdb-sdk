@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1047",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21375",
+        "x-memc": "HIT",
+        "x-memc-key": "4abe42006c18a5e25d01693462857dfd",
+        "x-memc-age": "5416",
+        "x-memc-expires": "21375",
+        "ETag": "W\/\"a5acd075b326177cb99390bc22763ea2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GDkeAbWk2FIYX2N5fuR2Py2V9pSjeNFBSEcBD3lUSiqh9CLkL32Xsw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/VCebm5PHUChrD0ve24O1dThnxU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":1059,\"imdb_id\":\"tt0051808\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u96a0\u3057\u7826\u306e\u4e09\u60aa\u4eba\",\"overview\":\"In feudal Japan, during a bloody war between clans, two cowardly and greedy peasants, soldiers of a defeated army, stumble upon a mysterious man who guides them to a fortress hidden in the mountains.\",\"popularity\":21.373,\"poster_path\":\"\/1RTp3EZrKg7xj1HJK2x4Rqknnnu.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1958-12-28\",\"revenue\":0,\"runtime\":139,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Hidden Fortress\",\"video\":false,\"vote_average\":7.951,\"vote_count\":590}"
+}

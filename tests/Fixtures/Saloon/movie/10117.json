@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1162",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18292",
+        "x-memc": "HIT",
+        "x-memc-key": "db4a3bc98651f74b0ea310f36fb75f58",
+        "x-memc-age": "3353",
+        "x-memc-expires": "18292",
+        "ETag": "W\/\"2ad4a22c21fb0a0445024b675e88100e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nQSjRXd7xGlHlX71YiSDsAg2etOkaxj7_mqaxb_16OtcdpiLUpS65Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jBsMtgpvSkzzNB2uMkJPmhdu4yp.jpg\",\"belongs_to_collection\":null,\"budget\":7000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10117,\"imdb_id\":\"tt0094612\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Action Jackson\",\"overview\":\"Vengeance drives a tough Detroit cop to stay on the trail of a power hungry auto magnate who's systematically eliminating his competition.\",\"popularity\":28.463,\"poster_path\":\"\/3pcbshsuWMuUrWjgXlsDMTHg4KY.jpg\",\"production_companies\":[{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":1176,\"logo_path\":null,\"name\":\"Lorimar Film Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-02-12\",\"revenue\":20256975,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"It's time for \\\"Action\\\".\",\"title\":\"Action Jackson\",\"video\":false,\"vote_average\":5.511,\"vote_count\":228}"
+}

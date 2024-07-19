@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1745",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24778",
+        "x-memc": "HIT",
+        "x-memc-key": "42ba964bcecdeb59aee65901b488bf2b",
+        "x-memc-age": "2618",
+        "x-memc-expires": "24778",
+        "ETag": "W\/\"b693efa94f172f1b026cfba0111a8730\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WorO0BR9XIbDZeQyKV56garhftYDIPp3SnRsnPVxIwI-9DWX97UoNA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/35z8hWuzfFUZQaYog8E9LsXW3iI.jpg\",\"belongs_to_collection\":{\"id\":84,\"name\":\"Indiana Jones Collection\",\"poster_path\":\"\/lpxDrACKJhbbGOlwVMNz5YCj6SI.jpg\",\"backdrop_path\":\"\/6kh59mZizZsttZPR0HAdXk6Ve2n.jpg\"},\"budget\":294700000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/movies.disney.com\/indiana-jones-and-the-dial-of-destiny\",\"id\":335977,\"imdb_id\":\"tt1462764\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Indiana Jones and the Dial of Destiny\",\"overview\":\"Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.\",\"popularity\":117.898,\"poster_path\":\"\/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-06-25\",\"revenue\":383900000,\"runtime\":155,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"His final adventure will be his greatest.\",\"title\":\"Indiana Jones and the Dial of Destiny\",\"video\":false,\"vote_average\":6.598,\"vote_count\":3161}"
+}

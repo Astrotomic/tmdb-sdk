@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1740",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13946",
+        "x-memc": "HIT",
+        "x-memc-key": "e421299d4f0e4ac43a2b5638ddeb0bd8",
+        "x-memc-age": "10172",
+        "x-memc-expires": "13946",
+        "ETag": "W\/\"bce096a822135a4a6a15637677cf006b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fo5SCJYQ_kVYl4WOeBQkhvhhm2OZKWWFOrVC5i55gfgJpOlO1Uf5WA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sTOhZruocNubL0HxjvdouwCEL9I.jpg\",\"belongs_to_collection\":null,\"budget\":111000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/ferdinand\",\"id\":364689,\"imdb_id\":\"tt3411444\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ferdinand\",\"overview\":\"Ferdinand, a little bull, prefers sitting quietly under a cork tree just smelling the flowers versus jumping around, snorting, and butting heads with other bulls. As Ferdinand grows big and strong, his temperament remains mellow, but one day five men come to choose the \\\"biggest, fastest, roughest bull\\\" for the bullfights in Madrid and Ferdinand is mistakenly chosen.  Based on the classic 1936 children's book by Munro Leaf.\",\"popularity\":49.862,\"poster_path\":\"\/rMm94JsRfcOPiPVsTRcBiiVBOhz.jpg\",\"production_companies\":[{\"id\":9383,\"logo_path\":\"\/ppeMh4iZJQUMm1nAjRALeNhWDfU.png\",\"name\":\"Blue Sky Studios\",\"origin_country\":\"US\"},{\"id\":11749,\"logo_path\":\"\/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png\",\"name\":\"20th Century Fox Animation\",\"origin_country\":\"US\"},{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-12-09\",\"revenue\":295038508,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Built to Fight. Born to Love.\",\"title\":\"Ferdinand\",\"video\":false,\"vote_average\":7.215,\"vote_count\":2764}"
+}

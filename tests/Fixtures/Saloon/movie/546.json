@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1126",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21405",
+        "x-memc": "HIT",
+        "x-memc-key": "e81c38779f1447c25d1829251df6ab55",
+        "x-memc-age": "3698",
+        "x-memc-expires": "21405",
+        "ETag": "W\/\"8cb471d8201d61caa7f20fbd99b732a8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AnKROr1whqzDlT9575vijtaFRmnhH-YcQbvGZ4WB_2br8mjWxN7kEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/40z3PhEHOWopC9KFqEIZaqJ5NAf.jpg\",\"belongs_to_collection\":null,\"budget\":1000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.transamerica-movie.com\/\",\"id\":546,\"imdb_id\":\"tt0407265\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Transamerica\",\"overview\":\"A transgender woman takes an unexpected journey when she learns that she had a son, now a teenage runaway hustling on the streets of New York.\",\"popularity\":27.103,\"poster_path\":\"\/s1ctu6p0nYJ29OqOEIGrIMRYQIu.jpg\",\"production_companies\":[{\"id\":2341,\"logo_path\":null,\"name\":\"Belladonna Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-02-14\",\"revenue\":13350369,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Life is a journey. Bring an open mind.\",\"title\":\"Transamerica\",\"video\":false,\"vote_average\":7.044,\"vote_count\":451}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1143",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11146",
+        "x-memc": "HIT",
+        "x-memc-key": "865fbf4ecf75d0fb159e90edec618a9b",
+        "x-memc-age": "17009",
+        "x-memc-expires": "11146",
+        "ETag": "W\/\"e3c30301786989a6755d844846832e49\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7sKy1H4BSEdQ-DVjtZlx4lJrTUgXhqGib4_0wX8r0eA9c_GUL1nixg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7UDPRYI1f1mBZQXnvVxltKw2kiH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.farbfilm-verleih.de\/filme\/neandertal.html\",\"id\":8200,\"imdb_id\":\"tt0495932\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Neandertal\",\"overview\":\"17-year-old Guido suffers since his early childhood from neurodermatitis. After being taken to the hospital due to a heavy attack, he starts to question his personal and familiar environment and discovers that his parents\u2019 relationship \u2013 which he assumed to be happy and sound \u2013 is built on lies. Unable to deal with this disappointment, he flees from it and moves in with his older brother and his roommates...\",\"popularity\":2.951,\"poster_path\":\"\/dy7sGskedxECFFPQ2GpinIdQTdA.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2006-07-18\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Neandertal\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

@@ -1,6 +1,6 @@
 <?php
 
-dataset('tv_series_ids', [
+dataset('tv_series_ids', collect([
     1399,
     1408,
     71712,
@@ -20,4 +20,4 @@ dataset('tv_series_ids', [
     209867,
     1396,
     37854,
-]);
+])->unique()->sort()->values());

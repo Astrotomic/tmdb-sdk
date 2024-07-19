@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1326",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24974",
+        "x-memc": "HIT",
+        "x-memc-key": "f7a2b7f47490b96a07a594ef3e443cb7",
+        "x-memc-age": "2628",
+        "x-memc-expires": "24974",
+        "ETag": "W\/\"c30ec5f4edd62856ea9f611586b1846c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kgT2ae1h6HpuELiXQFgt7ZvjLkxoXP_2225bpjDZOUSKmgx7WN6k_A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.statesofgrace.com\",\"id\":24043,\"imdb_id\":\"tt0395561\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"God's Army 2: States of Grace\",\"overview\":\"A drive-by shooting in Venice, California, changes the lives of five people forever. States of Grace tells the story of a homeless street preacher, Louis, a gang banger, Carl, an aspiring actress, Holly, and two young missionaries, Lozano and Farrell, in what critics have hailed as one of the finest films of the year and one of the best Christian-themed films ever made.\",\"popularity\":4.486,\"poster_path\":\"\/uK0dXb8Sjkd6sEJnkjVBwCZIBET.jpg\",\"production_companies\":[{\"id\":127406,\"logo_path\":null,\"name\":\"Destiny Entertainment\",\"origin_country\":\"\"},{\"id\":127995,\"logo_path\":null,\"name\":\"Zion Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-11-04\",\"revenue\":0,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Beyond faith, beyond reason, beyond experience.\",\"title\":\"God's Army 2: States of Grace\",\"video\":false,\"vote_average\":6.5,\"vote_count\":7}"
+}

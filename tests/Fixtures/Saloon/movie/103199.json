@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "913",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23298",
+        "x-memc": "HIT",
+        "x-memc-key": "6624b05fd1c5396c5555af836092976a",
+        "x-memc-age": "3201",
+        "x-memc-expires": "23298",
+        "ETag": "W\/\"3f9834cb4ea2d20f2f03499bfd5b85a0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "22lnaMUr4pfMyzwPSEPLGrqipi5wQViJxrHfRM3czJnxw5KyVrVxyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A1olW7VVLM5TTaRNUenN3UjMoF5.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":103199,\"imdb_id\":\"tt0051090\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Tizoc\",\"overview\":\"An Indian arouses envy for his expertise in hunting animals without ruining their skins, for his wisdom and his kindness.\",\"popularity\":16.087,\"poster_path\":\"\/kcH38SvEiibdSTv1p0wvRpTU27z.jpg\",\"production_companies\":[{\"id\":29519,\"logo_path\":null,\"name\":\"Producciones Matouk\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1957-10-23\",\"revenue\":0,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Indigenous Love\",\"title\":\"Tizoc\",\"video\":false,\"vote_average\":7.1,\"vote_count\":30}"
+}

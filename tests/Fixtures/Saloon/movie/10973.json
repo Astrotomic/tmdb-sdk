@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1468",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8491",
+        "x-memc": "HIT",
+        "x-memc-key": "330089c41bd18fbf37e3f2a50d8ef7b2",
+        "x-memc-age": "15368",
+        "x-memc-expires": "8491",
+        "ETag": "W\/\"ab841874e3d9a991cbd14c58da7945b5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "t0HS8jE7ZKFsOgw5e79IEoNCDG6sh0AYEtqn19d3pIo1Zgbzl6BifQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bQLroCsrg1WJhuThfWw6ss3IDbc.jpg\",\"belongs_to_collection\":{\"id\":221537,\"name\":\"Creature From The Black Lagoon Collection\",\"poster_path\":\"\/fCeWSWDRWqZUjsVJ2DEsy6fRuOL.jpg\",\"backdrop_path\":\"\/jPVq82CMKAm6fKVeW2nyRC2X9Yc.jpg\"},\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":10973,\"imdb_id\":\"tt0046876\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Creature from the Black Lagoon\",\"overview\":\"When scientists exploring the Amazon River stumble on a \u201cmissing link\u201d connecting humans and fish, they plan to capture it for later study. But the Creature has plans of his own, and has set his sights on the lead scientist's beautiful fianc\u00e9e, Kay.\",\"popularity\":27.565,\"poster_path\":\"\/euCzA2Exc70MpTDCVYih8tdE7z1.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1954-03-05\",\"revenue\":1300000,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"From the Amazon's forbidden depths came the Creature from the Black Lagoon\",\"title\":\"Creature from the Black Lagoon\",\"video\":false,\"vote_average\":6.8,\"vote_count\":734}"
+}

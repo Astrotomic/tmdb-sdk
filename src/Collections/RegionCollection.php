@@ -3,12 +3,13 @@
 namespace Astrotomic\Tmdb\Collections;
 
 use Astrotomic\Tmdb\Data\Region;
-use Illuminate\Support\Collection;
+use Illuminate\Support\Arr;
+use Illuminate\Support\Collection as IlluminateCollection;
 
 /**
- * @extends Collection<array-key, Region>
+ * @extends IlluminateCollection<array-key, Region>
  */
-class RegionCollection extends Collection
+class RegionCollection extends IlluminateCollection
 {
     /**
      * @param  array<array-key, array>  $data
@@ -16,8 +17,16 @@ class RegionCollection extends Collection
      */
     public static function fromArray(?array $data): self
     {
-        return static::make($data)->map(
-            fn (array $item): Region => Region::fromArray($item)
-        );
+        return static::make(Arr::map(
+            array: $data ?? [],
+            callback: fn (array $item) => Region::fromArray($item)
+        ));
+    }
+
+    public function __construct($items = [])
+    {
+        parent::__construct($items);
+
+        $this->ensure(Region::class);
     }
 }

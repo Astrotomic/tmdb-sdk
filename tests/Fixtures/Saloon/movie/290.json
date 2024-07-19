@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1289",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10034",
+        "x-memc": "HIT",
+        "x-memc-key": "269b13387b65dad01cf5697daeeddef8",
+        "x-memc-age": "15559",
+        "x-memc-expires": "10034",
+        "ETag": "W\/\"8242d79055a4f6a50cbb8567c88dc9b5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9YHVXoLGJbnx2-o0Bnv1mWvARAwd0IrSxqgYhc3wRpjHO9vdq3Ut6g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5IbE8joIeUUowIVC2TNsyAd0nFv.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":290,\"imdb_id\":\"tt0101410\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Barton Fink\",\"overview\":\"A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.\",\"popularity\":40.2,\"poster_path\":\"\/oDkp5iClJ9WKJGtKHz8BydodHC3.jpg\",\"production_companies\":[{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"},{\"id\":11273,\"logo_path\":null,\"name\":\"Circle Films\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-08-01\",\"revenue\":6153939,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There's only one thing stranger than what's going on inside his head... What's going on outside.\",\"title\":\"Barton Fink\",\"video\":false,\"vote_average\":7.457,\"vote_count\":1620}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1848",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2774",
+        "x-memc": "HIT",
+        "x-memc-key": "937840d317d190fbf3e0a9d14b373d49",
+        "x-memc-age": "20846",
+        "x-memc-expires": "2774",
+        "ETag": "W\/\"5d3587194813badb99ac4f553dde641c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Q9Ll6yvdlMOxTZAdulGJLv4AWwcrRf8l6cyNXnpChvzSAowhqOsGMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7lmBufEG7P7Y1HClYK3gCxYrkgS.jpg\",\"belongs_to_collection\":{\"id\":131292,\"name\":\"Iron Man Collection\",\"poster_path\":\"\/fbeJ7f0aD4A112Bc1tnpzyn82xO.jpg\",\"backdrop_path\":\"\/rI8zOWkRQJdlAyQ6WJOSlYK6JxZ.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.marvel.com\/movies\/iron-man-2\",\"id\":10138,\"imdb_id\":\"tt1228705\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Iron Man 2\",\"overview\":\"With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press and the public to share his technology with the military. Unwilling to let go of his invention, Stark, with Pepper Potts and James 'Rhodey' Rhodes at his side, must forge new alliances \u2013 and confront powerful enemies.\",\"popularity\":303.457,\"poster_path\":\"\/6WBeq4fCfn7AN0o21W9qNcRF2l9.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"},{\"id\":7297,\"logo_path\":\"\/l29JYQVZbTcjZXoz4CUYFpKRmM3.png\",\"name\":\"Fairview Entertainment\",\"origin_country\":\"US\"},{\"id\":7505,\"logo_path\":\"\/837VMM4wOkODc1idNxGT0KQJlej.png\",\"name\":\"Marvel Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-04-28\",\"revenue\":623933331,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"It's not the armor that makes the hero, but the man inside.\",\"title\":\"Iron Man 2\",\"video\":false,\"vote_average\":6.8,\"vote_count\":20612}"
+}

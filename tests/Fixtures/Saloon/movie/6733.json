@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1259",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10744",
+        "x-memc": "HIT",
+        "x-memc-key": "5417fa98f5a9e5f94dbb5f621ce86d34",
+        "x-memc-age": "18049",
+        "x-memc-expires": "10744",
+        "ETag": "W\/\"5c22a67321b62d331cf9216429cc662f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rzp6iqOqL08Xzt7FBBFGPxlR4jr8TPsH7bhJ6g2WmegdqfIT5ZCzUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bu3haiMt2ML5NmO8WOhGbw0j08X.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":6733,\"imdb_id\":\"tt0487271\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Wo ist Fred?\",\"overview\":\"In order to catch a basketball from the favorite team of his girlfriend's spoiled son, Fred poses as a numb, wheelchair-bound fan. But when he catches the ball, he also catches the attention of young, attractive filmmaker Denise, who wants to feature an invalid fan in an image film for the team. Fred has to keep playing his role, while real invalid and really furious fan Ronny might call his bluff at any moment. Worse, still, love sets in...\",\"popularity\":8.688,\"poster_path\":\"\/9DkMHl3XHEYRBUXCOm3WVbmBn8G.jpg\",\"production_companies\":[{\"id\":191,\"logo_path\":\"\/d5tPJd8jGLtJC5cp9NG0HeoTyoe.png\",\"name\":\"Senator Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2006-11-15\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Where Is Fred?\",\"video\":false,\"vote_average\":6.3,\"vote_count\":132}"
+}

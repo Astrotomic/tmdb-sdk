@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1573",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1182",
+        "x-memc": "HIT",
+        "x-memc-key": "b519e9a3a1fe30054f3667d8b4cfefa9",
+        "x-memc-age": "26492",
+        "x-memc-expires": "1182",
+        "ETag": "W\/\"aabf683c88f7b0ba477e97dd8df9ddaa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uL8mzZ0FUHz-lujiCm7Cs3RghLH96G3oEXdNcgkSWeyHPrmgBhNDaw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jB5zHG1eHh0OC1S61itXNApZlLD.jpg\",\"belongs_to_collection\":null,\"budget\":62770198,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.isleofdogsmovie.com\/\",\"id\":399174,\"imdb_id\":\"tt5104604\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Isle of Dogs\",\"overview\":\"In the future, an outbreak of canine flu leads the mayor of a Japanese city to banish all dogs to an island used as a garbage dump. The outcasts must soon embark on an epic journey when a 12-year-old boy arrives on the island to find his beloved pet.\",\"popularity\":64.949,\"poster_path\":\"\/c0nUX6Q1ZB0P2t1Jo6EeFSVnOGQ.jpg\",\"production_companies\":[{\"id\":264,\"logo_path\":\"\/fA90qwUKgPhMONqtwY60GaHRyrW.png\",\"name\":\"Studio Babelsberg\",\"origin_country\":\"DE\"},{\"id\":23449,\"logo_path\":null,\"name\":\"American Empirical Pictures\",\"origin_country\":\"US\"},{\"id\":9350,\"logo_path\":\"\/xz60JVoUHpOeg1cJbxzMJiwbuL7.png\",\"name\":\"Indian Paintbrush\",\"origin_country\":\"US\"},{\"id\":258,\"logo_path\":null,\"name\":\"Scott Rudin Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-03-23\",\"revenue\":64337744,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Welcome to the Isle of Dogs.\",\"title\":\"Isle of Dogs\",\"video\":false,\"vote_average\":7.849,\"vote_count\":4743}"
+}

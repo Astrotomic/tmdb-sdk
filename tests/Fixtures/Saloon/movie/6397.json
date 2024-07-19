@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "845",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12841",
+        "x-memc": "HIT",
+        "x-memc-key": "415cfdee0c0b0bb75dfd436dec624649",
+        "x-memc-age": "11488",
+        "x-memc-expires": "12841",
+        "ETag": "W\/\"c40236c9f3f945d138e2c01fb99cbd22\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "s1htThNRfi5tDJwYdBm-K7TkuM6rDqnNn4WkCJJxAykApbkVY2xC0Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ktlEcrG4B8VOiG3Krv6WfDtQkfI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6397,\"imdb_id\":\"tt0092246\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Xaver und sein au\u00dferirdischer Freund\",\"overview\":\"\",\"popularity\":3.018,\"poster_path\":\"\/3SYMG2yZAnBPivK9PSSgi8RWyt2.jpg\",\"production_companies\":[{\"id\":2082,\"logo_path\":null,\"name\":\"Calypso Filmproduktion\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1986-10-30\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Xaver und sein au\u00dferirdischer Freund\",\"video\":false,\"vote_average\":5.8,\"vote_count\":12}"
+}

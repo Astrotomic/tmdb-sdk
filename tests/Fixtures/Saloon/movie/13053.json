@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1348",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18935",
+        "x-memc": "HIT",
+        "x-memc-key": "d3438276944c3410309b9ad87f6f740c",
+        "x-memc-age": "5168",
+        "x-memc-expires": "18935",
+        "ETag": "W\/\"1866d6844a4ae5fc7698f4f8fe5177b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "C4bCItzy6MbiSE2atJDD4WA9v4rxCCJCVJSnjZUAf2VvkhysotiUUQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uWIyXlBRwW2MIBcBysj50A9nv7D.jpg\",\"belongs_to_collection\":null,\"budget\":150000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/movies.disney.com\/bolt\",\"id\":13053,\"imdb_id\":\"tt0397892\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bolt\",\"overview\":\"Bolt is the star of the biggest show in Hollywood. The only problem is, he thinks it's real. After he's accidentally shipped to New York City and separated from Penny, his beloved co-star and owner, Bolt must harness all his \\\"super powers\\\" to find a way home.\",\"popularity\":56.404,\"poster_path\":\"\/z9VHoUcZ1GiH3f3qYz7Me7Zc1Fd.jpg\",\"production_companies\":[{\"id\":6125,\"logo_path\":\"\/tzsMJBJZINu7GHzrpYzpReWhh66.png\",\"name\":\"Walt Disney Animation Studios\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-11-21\",\"revenue\":309979994,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Fully Awesome. Ridonculous. Let It Begin.\",\"title\":\"Bolt\",\"video\":false,\"vote_average\":6.513,\"vote_count\":5885}"
+}

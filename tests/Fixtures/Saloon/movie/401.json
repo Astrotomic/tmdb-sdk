@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1580",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25647",
+        "x-memc": "HIT",
+        "x-memc-key": "37f9455cbcb8f327b1a587f9411e4d05",
+        "x-memc-age": "2174",
+        "x-memc-expires": "25647",
+        "ETag": "W\/\"292382a3a7d7621d0695ae044edd003c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BtfUwMEb0zOMf3e8FFOR8ZZKEsW07rv0CFJ6YJaF2Te2hJbwXLVioA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2mu6XkJE0B6nK5jeOvXOyWPVmhw.jpg\",\"belongs_to_collection\":null,\"budget\":2500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"http:\/\/www.foxsearchlight.com\/gardenstate\/\",\"id\":401,\"imdb_id\":\"tt0333766\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Garden State\",\"overview\":\"Andrew returns to his hometown for the funeral of his mother, a journey that reconnects him with past friends. The trip coincides with his decision to stop taking his powerful antidepressants. A chance meeting with Sam - a girl also suffering from various maladies - opens up the possibility of rekindling emotional attachments, confronting his psychologist father, and perhaps beginning a new life.\",\"popularity\":20.75,\"poster_path\":\"\/h3iqYiGS6F3y7GxaS4AT8nFxZ2i.jpg\",\"production_companies\":[{\"id\":11728,\"logo_path\":null,\"name\":\"Camelot Pictures\",\"origin_country\":\"\"},{\"id\":216,\"logo_path\":\"\/iKPzC6YxqNAk6fMoTtFhIF5p6yw.png\",\"name\":\"Jersey Films\",\"origin_country\":\"US\"},{\"id\":215,\"logo_path\":\"\/tQyeqkCj24krhY2W8qeAztcOS37.png\",\"name\":\"Double Feature Films\",\"origin_country\":\"US\"},{\"id\":11729,\"logo_path\":null,\"name\":\"Large's Ark Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-07-28\",\"revenue\":26781723,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Garden State\",\"video\":false,\"vote_average\":7.085,\"vote_count\":1786}"
+}

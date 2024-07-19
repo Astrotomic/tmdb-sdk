@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1124",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4989",
+        "x-memc": "HIT",
+        "x-memc-key": "56ce7d23d25bea4de02dee7ccf0d2541",
+        "x-memc-age": "21191",
+        "x-memc-expires": "4989",
+        "ETag": "W\/\"028dc1844b2ad68a1c5068caf2c59062\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M6G7WA7ba9EL9ekPojnqfFS9pPV990_jJIiqSgvkBmi2Avgtf6ltrw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/A8oqVGkdRXnsKOPgiC9Q4zPmVkU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":54563,\"imdb_id\":\"tt0057336\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Muriel, ou le Temps d'un retour\",\"overview\":\"In the seaside town of Boulogne, no one seems to be able to cope with their past, least of all H\u00e9l\u00e8ne, an antique furniture saleswoman, her stepson Bernard, and her former lover Alphonse.\",\"popularity\":9.971,\"poster_path\":\"\/pAltAnAC26V1WrYYGNGqvpcsNN7.jpg\",\"production_companies\":[{\"id\":20931,\"logo_path\":null,\"name\":\"Alpha Productions\",\"origin_country\":\"US\"},{\"id\":6116,\"logo_path\":\"\/yCu2D15iD7lcYsBWqXjU65U9nkH.png\",\"name\":\"Argos Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1963-10-01\",\"revenue\":0,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Muriel, or the Time of Return\",\"video\":false,\"vote_average\":6.968,\"vote_count\":111}"
+}

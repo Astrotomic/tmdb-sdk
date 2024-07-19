@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1478",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13623",
+        "x-memc": "HIT",
+        "x-memc-key": "387fc81f08ea017b8298cfae2c8086b0",
+        "x-memc-age": "8874",
+        "x-memc-expires": "13623",
+        "ETag": "W\/\"c651578f43f8a2ab256d2c2d8153b314\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3uuYnzH7FCcfQlRGpNS3X1S8rP5U8x1y7ZhoYfJm9pZaAj9pXPfoWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qKWQ9IEDkMawD7sgKnIGCdFAhct.jpg\",\"belongs_to_collection\":null,\"budget\":53000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":8963,\"imdb_id\":\"tt0112740\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Crimson Tide\",\"overview\":\"After the Cold War, a breakaway Russian republic with nuclear warheads becomes a possible worldwide threat. U.S. submarine Capt. Frank Ramsey signs on a relatively green but highly recommended Lt. Cmdr. Ron Hunter to the USS Alabama, which may be the only ship able\u00a0to stop a possible Armageddon. When Ramsay insists that the Alabama must act aggressively, Hunter, fearing they will start rather than stop a disaster, leads a potential mutiny to stop him.\",\"popularity\":51.338,\"poster_path\":\"\/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg\",\"production_companies\":[{\"id\":915,\"logo_path\":\"\/4neXXpjSJDZPBGBnfWtqysB5htV.png\",\"name\":\"Hollywood Pictures\",\"origin_country\":\"US\"},{\"id\":10288,\"logo_path\":\"\/Aszf09kIVXR6cwG9lwjZIawbYVS.png\",\"name\":\"Don Simpson\/Jerry Bruckheimer Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-05-12\",\"revenue\":157387195,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Danger runs deep.\",\"title\":\"Crimson Tide\",\"video\":false,\"vote_average\":7.165,\"vote_count\":1689}"
+}

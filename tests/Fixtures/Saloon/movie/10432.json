@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1204",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9884",
+        "x-memc": "HIT",
+        "x-memc-key": "63545efbfd67728fda952958f2655ed9",
+        "x-memc-age": "14746",
+        "x-memc-expires": "9884",
+        "ETag": "W\/\"e9706cad333f5c656479e4c9e3f71771\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EdsBR4ocx_ZtQrYfWAt0eMBw0yVOPMBDFq3_Jz-xV_nt2E5dqtUxEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jcJ0ZAfDizBXFaWW0SkWB1FxgpG.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":10432,\"imdb_id\":\"tt0475289\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hack!\",\"overview\":\"Seven college students are picked to travel to a private island owned by the reclusive Vincent King and his film-obsessed wife Mary Shelley to study island wildlife. But is isn't long when a mysterious killer begins killing the students one-by-one, and modeling them after gory murder scenes from numerous horror films.\",\"popularity\":13.271,\"poster_path\":\"\/bMYJsQzAObi5m3zcXldSiyLAOaa.jpg\",\"production_companies\":[{\"id\":73969,\"logo_path\":null,\"name\":\"Autumn Entertainment\",\"origin_country\":\"\"},{\"id\":52146,\"logo_path\":null,\"name\":\"Smithfield Street Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-07-20\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hack!\",\"video\":false,\"vote_average\":4.5,\"vote_count\":41}"
+}

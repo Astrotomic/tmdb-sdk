@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1733",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5606",
+        "x-memc": "HIT",
+        "x-memc-key": "4d557199abb1e01bed90cac8febe7402",
+        "x-memc-age": "18311",
+        "x-memc-expires": "5606",
+        "ETag": "W\/\"4f64367759eb7c11d7704ecd2fb98fc0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "byJ0CVfktT5L4a4oBthtuUYEam09O9lXaLjyqnJulFqKWuEsq6pU_w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a3FFWQcq23gsjLUwkHywu08F0X.jpg\",\"belongs_to_collection\":{\"id\":286038,\"name\":\"Dead Snow Collection\",\"poster_path\":\"\/qhvXYMyPWcFeOsoO4EqOS8T9lwI.jpg\",\"backdrop_path\":\"\/nV090IHp1kG5oMgDCmGSYAwkN8D.jpg\"},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.deadsnow.com\/\",\"id\":241842,\"imdb_id\":\"tt2832470\",\"origin_country\":[\"NO\"],\"original_language\":\"no\",\"original_title\":\"D\u00f8d Sn\u00f8 2\",\"overview\":\"The gruesome Nazi Zombies are back to finish their mission, but our hero is not willing to die. He is gathering his own army to give them a final fight.\",\"popularity\":28.786,\"poster_path\":\"\/bllzic3ydohA9i1fL3bCiRZMVK9.jpg\",\"production_companies\":[{\"id\":36109,\"logo_path\":\"\/wca0Jcidf2N1KAPicYMjGoKOmYu.png\",\"name\":\"The Fyzz\",\"origin_country\":\"GB\"},{\"id\":91291,\"logo_path\":\"\/xy2KPzjdztf17Bwrp3ZuQqpxPax.png\",\"name\":\"Sagafilm\",\"origin_country\":\"IS\"},{\"id\":7941,\"logo_path\":null,\"name\":\"Tappeluft Pictures\",\"origin_country\":\"NO\"},{\"id\":12142,\"logo_path\":\"\/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png\",\"name\":\"XYZ Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"IS\",\"name\":\"Iceland\"},{\"iso_3166_1\":\"NO\",\"name\":\"Norway\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-02-12\",\"revenue\":37473,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Sequel You Did Nazi Coming.\",\"title\":\"Dead Snow 2: Red vs. Dead\",\"video\":false,\"vote_average\":6.54,\"vote_count\":607}"
+}

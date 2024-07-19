@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1616",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10667",
+        "x-memc": "HIT",
+        "x-memc-key": "61988c21775622b1361f91364250f6f2",
+        "x-memc-age": "17086",
+        "x-memc-expires": "10667",
+        "ETag": "W\/\"8c6a539a3ccbe49f8f906ebbfc383b58\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "74UZbVgWwCqmxfp4CNhg2lbIBktgwmaQUi9cMZhE2TGl2x0VkmBOMw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fzkLKtZCkYSDzxoqntE5KgIqvzk.jpg\",\"belongs_to_collection\":null,\"budget\":46700000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":36,\"name\":\"History\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1084736,\"imdb_id\":\"tt26446278\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le Comte de Monte-Cristo\",\"overview\":\"Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Ch\u00e2teau d\u2019If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.\",\"popularity\":50.809,\"poster_path\":\"\/aHRUsFln97FlIdsvYKFT3z5ubYE.jpg\",\"production_companies\":[{\"id\":20339,\"logo_path\":\"\/zPj4RPXztwznZcKDef583wqKERy.png\",\"name\":\"Chapter 2\",\"origin_country\":\"FR\"},{\"id\":188578,\"logo_path\":null,\"name\":\"Fargo Films\",\"origin_country\":\"FR\"},{\"id\":7981,\"logo_path\":\"\/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png\",\"name\":\"Path\u00e9\",\"origin_country\":\"FR\"},{\"id\":1115,\"logo_path\":\"\/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png\",\"name\":\"M6 Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-06-28\",\"revenue\":17197070,\"runtime\":173,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"This is not vengeance, this is justice.\",\"title\":\"The Count of Monte-Cristo\",\"video\":false,\"vote_average\":8.448,\"vote_count\":269}"
+}

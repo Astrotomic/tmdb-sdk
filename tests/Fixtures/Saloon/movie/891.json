@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1174",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21159",
+        "x-memc": "HIT",
+        "x-memc-key": "6f02bcc32f24e229dfef5475d26aef91",
+        "x-memc-age": "595",
+        "x-memc-expires": "21159",
+        "ETag": "W\/\"88dcf667de059715005788dd88675bf0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7QBaz29B7ms31lWoHoz8x-LGd1GahrCGShaTYkakTyN0nduXbm9X0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/f7we3q92WneOwHPJxakWsWOULin.jpg\",\"belongs_to_collection\":null,\"budget\":8500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":891,\"imdb_id\":\"tt0074119\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"All the President's Men\",\"overview\":\"During the 1972 elections, two reporters' investigation sheds light on the controversial Watergate scandal that compels President Nixon to resign from his post.\",\"popularity\":24.111,\"poster_path\":\"\/cPtSHR7D2WGsDBfnC5DxV927hKn.jpg\",\"production_companies\":[{\"id\":316,\"logo_path\":null,\"name\":\"Wildwood Enterprises\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1976-04-09\",\"revenue\":70600000,\"runtime\":138,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The most devastating detective story of this century.\",\"title\":\"All the President's Men\",\"video\":false,\"vote_average\":7.675,\"vote_count\":1749}"
+}

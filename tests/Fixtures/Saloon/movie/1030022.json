@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1096",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14893",
+        "x-memc": "HIT",
+        "x-memc-key": "6283720de243462ca839a81b7d003e60",
+        "x-memc-age": "10653",
+        "x-memc-expires": "14893",
+        "ETag": "W\/\"c613e337f7352757baa03e4476282536\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eh-b7OgSwX_56Qu2FRcvg_8RBuz-5D0LTh2T1RTEwJZdKmoY5bipZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h7BU4fdLjF8ly8NF8mJ4hAQOLKU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.marvel.com\/movies\/armor-wars\",\"id\":1030022,\"imdb_id\":\"tt13623128\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Armor Wars\",\"overview\":\"James Rhodes aka War Machine faces the consequences of Tony Stark's worst fear coming true: what happens when his tech falls into the wrong hands?\",\"popularity\":10.015,\"poster_path\":\"\/vDbzi8eM710THVCwjfqVU8a5E3g.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"},{\"id\":176762,\"logo_path\":null,\"name\":\"Kevin Feige Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Armor Wars\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

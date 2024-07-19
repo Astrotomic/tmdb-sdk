@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1506",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12013",
+        "x-memc": "HIT",
+        "x-memc-key": "f62fbee536ddb8f0fb0d7053122abba5",
+        "x-memc-age": "13934",
+        "x-memc-expires": "12013",
+        "ETag": "W\/\"14e10304b361082c7fec53478a9dafa3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "APFAQni6t1hvYFpPXuPycuw_SvHWtjcZu-JWWNj3cKubW5d-RJ4TPQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lLuecnrjjj9p4h1mjeTtpk6jXGp.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":3088,\"imdb_id\":\"tt0038762\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"My Darling Clementine\",\"overview\":\"Wyatt Earp and his brothers Morgan and Virgil ride into Tombstone and leave brother James in charge of their cattle herd. On their return they find their cattle stolen and James dead. Wyatt takes on the job of town marshal, making his brothers deputies, and vows to stay in Tombstone until James' killers are found. He soon runs into the brooding, coughing, hard-drinking Doc Holliday as well as the sullen and vicious Clanton clan. Wyatt discovers the owner of a trinket stolen from James' dead body and the stage is set for the Earps' long-awaited revenge.\",\"popularity\":20.496,\"poster_path\":\"\/o7G5klSt9i8LQZdUNvrWUJbbxAO.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1946-10-17\",\"revenue\":2750000,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She was everything the West was - young, fiery, exciting!\",\"title\":\"My Darling Clementine\",\"video\":false,\"vote_average\":7.451,\"vote_count\":408}"
+}

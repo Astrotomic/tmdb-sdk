@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1741",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21103",
+        "x-memc": "HIT",
+        "x-memc-key": "cefc3fcf121b974f32bd3ea7c7c714a7",
+        "x-memc-age": "6706",
+        "x-memc-expires": "21103",
+        "ETag": "W\/\"092fbeb2445d69b0b86b62ee6ae9a4cc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3YfPl-anNPTNnE42LQSbPQVS1Kgrfz1_VC3KVsroWODC6MM4jjtdwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4oYBCR2CWtKpfkOKCzpmlE5EdxY.jpg\",\"belongs_to_collection\":{\"id\":209131,\"name\":\"Man of Steel Collection\",\"poster_path\":\"\/rNnIW6xSPeTiIUtsfEhFeIRiJVv.jpg\",\"backdrop_path\":\"\/rPaqhsSMCky0UXVW4qmNOJq5Orp.jpg\"},\"budget\":225000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/man-steel\",\"id\":49521,\"imdb_id\":\"tt0770828\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Man of Steel\",\"overview\":\"A young boy learns that he has extraordinary powers and is not of this earth. As a young man, he journeys to discover where he came from and what he was sent here to do. But the hero in him must emerge if he is to save the world from annihilation and become the symbol of hope for all mankind.\",\"popularity\":103.278,\"poster_path\":\"\/dksTL9NXc3GqPBRHYHcy1aIwjS.jpg\",\"production_companies\":[{\"id\":9993,\"logo_path\":\"\/2Tc1P3Ac8M479naPp1kYT3izLS5.png\",\"name\":\"DC Entertainment\",\"origin_country\":\"US\"},{\"id\":9996,\"logo_path\":\"\/3tvBqYsBhxWeHlu62SIJ1el93O7.png\",\"name\":\"Syncopy\",\"origin_country\":\"GB\"},{\"id\":16774,\"logo_path\":null,\"name\":\"Peters Entertainment\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-06-12\",\"revenue\":668045518,\"runtime\":143,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You will believe that a man can fly.\",\"title\":\"Man of Steel\",\"video\":false,\"vote_average\":6.624,\"vote_count\":14855}"
+}

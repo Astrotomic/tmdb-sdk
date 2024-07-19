@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1389",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25977",
+        "x-memc": "HIT",
+        "x-memc-key": "7a58329a4643780a7233129cff01ab7b",
+        "x-memc-age": "2540",
+        "x-memc-expires": "25977",
+        "ETag": "W\/\"455d134a40852646e09b7463a3c3ff2a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MbjOPbgZ-PpLi2YuvRExE3wigmTDedefaR0cOqaTLoZn8j9mhewS_A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nYDPmxvl0if5vHBBp7pDYGkTFc7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.lionsgate.com\/movies\/cobweb\",\"id\":709631,\"imdb_id\":\"tt9100018\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cobweb\",\"overview\":\"Eight year old Peter is plagued by a mysterious, constant tapping from inside his bedroom wall\u2014one that his parents insist is all in his imagination. As Peter's fear intensifies, he believes that his parents could be hiding a terrible, dangerous secret and questions their trustworthiness.\",\"popularity\":50.104,\"poster_path\":\"\/2bHCUqQp8CoSVvwPc6sW6TIBXbN.jpg\",\"production_companies\":[{\"id\":16615,\"logo_path\":\"\/5au3v0r2brGaegO9EQ0nodLkmQ1.png\",\"name\":\"Point Grey Pictures\",\"origin_country\":\"US\"},{\"id\":829,\"logo_path\":\"\/aXqwCvJSCDbTclkxAYfsT1l4Dsa.png\",\"name\":\"Vertigo Entertainment\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-07-19\",\"revenue\":5569593,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sooner or later, family secrets creep out.\",\"title\":\"Cobweb\",\"video\":false,\"vote_average\":6.567,\"vote_count\":737}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1117",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10062",
+        "x-memc": "HIT",
+        "x-memc-key": "eb5ce5669f154f999463cdf5fb6910f9",
+        "x-memc-age": "12605",
+        "x-memc-expires": "10062",
+        "ETag": "W\/\"5d68c4dc2d83f86202fec634fc027185\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T5bZQ74zSIZNssH6vZbDza49F_H4-WGpaJrueSuxzDl4XtJ_Q117EA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eXTEmMeVJaZIn8vLHDCah0mn9r1.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":20093,\"imdb_id\":\"tt0467017\",\"origin_country\":[\"PR\"],\"original_language\":\"es\",\"original_title\":\"Talento de Barrio\",\"overview\":\"A young drug dealer falls in love while facing disruption among the men in his gang, and being offered a career as a Reggaet\u00f3n singer.\",\"popularity\":15.446,\"poster_path\":\"\/5LIlCFEQnlCWpsd1HYmvhY5JHpq.jpg\",\"production_companies\":[{\"id\":110729,\"logo_path\":null,\"name\":\"ArtFilms\",\"origin_country\":\"PR\"}],\"production_countries\":[{\"iso_3166_1\":\"PR\",\"name\":\"Puerto Rico\"}],\"release_date\":\"2008-10-10\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"You can take the man out of the street... but you can't take the street out of the man.\",\"title\":\"Straight from the Barrio\",\"video\":false,\"vote_average\":7.946,\"vote_count\":121}"
+}

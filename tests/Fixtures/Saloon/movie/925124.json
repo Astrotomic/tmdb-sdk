@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1724",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5552",
+        "x-memc": "HIT",
+        "x-memc-key": "403ad705eb3581aaea9ed507b3d0555e",
+        "x-memc-age": "18219",
+        "x-memc-expires": "5552",
+        "ETag": "W\/\"4904f4513adc8a628348da19e38ea494\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6Ykkuht0eeitwl50mMuM59-85e6BSJgUO9rEYMgGc75LNS99CYdcfg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4atLpF9dojGa6nQIfMU5LvzdqOY.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.versusproduction.be\/films\/quitter-la-nuit\",\"id\":925124,\"imdb_id\":\"tt16968976\",\"origin_country\":[\"BE\",\"FR\",\"CA\"],\"original_language\":\"fr\",\"original_title\":\"Quitter la nuit\",\"overview\":\"One night, a woman in danger calls the police. Anna takes the call. A man is arrested. Weeks go by, the courts are looking for evidence, Aly, Anna and Dary have to deal with the echoes of that night they can't shake off.\",\"popularity\":9.726,\"poster_path\":\"\/5wZGiIJWq21EK7qGSQ7lMnjTOQK.jpg\",\"production_companies\":[{\"id\":726,\"logo_path\":\"\/hHaQQgxqg2NohqZSxbMTB9E483m.png\",\"name\":\"Haut et Court\",\"origin_country\":\"FR\"},{\"id\":3040,\"logo_path\":\"\/aZww3B7RCFAMV1qrDZDrdeB8qcI.png\",\"name\":\"Versus Production\",\"origin_country\":\"BE\"},{\"id\":792,\"logo_path\":\"\/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png\",\"name\":\"RTBF\",\"origin_country\":\"BE\"},{\"id\":92187,\"logo_path\":\"\/yrAyYme1zlZtHuhlWS3DlFAj762.png\",\"name\":\"Proximus\",\"origin_country\":\"BE\"},{\"id\":38201,\"logo_path\":\"\/fYolDp6ajIDXiMsXYXHXcWyNIYe.png\",\"name\":\"Colonelle Films\",\"origin_country\":\"CA\"},{\"id\":11797,\"logo_path\":\"\/61JT9Ldht918n04Q73l2KhCjss.png\",\"name\":\"VOO\",\"origin_country\":\"BE\"},{\"id\":175690,\"logo_path\":null,\"name\":\"The Reunion\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-03-08\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Through the Night\",\"video\":false,\"vote_average\":6.5,\"vote_count\":11}"
+}

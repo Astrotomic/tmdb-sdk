@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1850",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13369",
+        "x-memc": "HIT",
+        "x-memc-key": "8657fa41c7cedad857643f903c069ebe",
+        "x-memc-age": "12958",
+        "x-memc-expires": "13369",
+        "ETag": "W\/\"d724b79eadca0e24fc1d94a49c7f6fae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xDEMVheocWxuVExnXZHXW_4mHoUnHqbVFS0iUrmI3FfHALklV6CIeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s8ftvFvafWWEhApISamHx32bx6h.jpg\",\"belongs_to_collection\":{\"id\":748,\"name\":\"X-Men Collection\",\"poster_path\":\"\/31rqs6ZxFdi5nWZZaFPIr17q8jt.jpg\",\"backdrop_path\":\"\/2jMXECTRYfs0EZWJgDzlcH6MmBQ.jpg\"},\"budget\":110000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/x2\",\"id\":36658,\"imdb_id\":\"tt0290334\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"X2\",\"overview\":\"Professor Charles Xavier and his team of genetically gifted superheroes face a rising tide of anti-mutant sentiment led by Col. William Stryker. Storm, Wolverine and Jean Grey must join their usual nemeses\u2014Magneto and Mystique\u2014to unhinge Stryker's scheme to exterminate all mutants.\",\"popularity\":3.376,\"poster_path\":\"\/rtrd4qieMAhoUshu83Vi1GazM1O.jpg\",\"production_companies\":[{\"id\":431,\"logo_path\":\"\/6dcR1MbRqYgt3jUVYxkHe68GFnZ.png\",\"name\":\"The Donners' Company\",\"origin_country\":\"US\"},{\"id\":9168,\"logo_path\":\"\/hQNXrYIuyLRxMSBuGHk0GX7CCBS.png\",\"name\":\"Bad Hat Harry Productions\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":19551,\"logo_path\":\"\/2WpWp9b108hizjHKdA107hFmvQ5.png\",\"name\":\"Marvel Enterprises\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-04-27\",\"revenue\":407711549,\"runtime\":133,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The time has come for those who are different to stand united.\",\"title\":\"X2\",\"video\":false,\"vote_average\":7.031,\"vote_count\":9859}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1061",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25004",
+        "x-memc": "HIT",
+        "x-memc-key": "10d4c146a21aa9485468af671bd0c502",
+        "x-memc-age": "2411",
+        "x-memc-expires": "25004",
+        "ETag": "W\/\"ecb717f549e625f3b6ba9a7d701cc9cd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "v2g2kBaOf7S7xcsPx-3slc7arh2f_vm-3UtWhk5le3SHNuZRhQb35Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kti9ufHhCKaOLjg2to4RKfrlkmh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81648184\",\"id\":1263421,\"imdb_id\":\"tt31869664\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u7bc4\u99ac\u5203\u7259VS\u30b1\u30f3\u30ac\u30f3\u30a2\u30b7\u30e5\u30e9\",\"overview\":\"It's the ultimate showdown. The toughest fighters from \\\"Baki Hanma\\\" and \\\"Kengan Ashura\\\" clash in this unprecedented, hard-hitting martial arts crossover.\",\"popularity\":174.79,\"poster_path\":\"\/etbHJxil0wHvYOCmibzFLsMcl2C.jpg\",\"production_companies\":[{\"id\":7164,\"logo_path\":\"\/vHsaqTkQ2ZTbdqrCA272YahoVlg.png\",\"name\":\"TMS Entertainment\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2024-06-05\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Baki Hanma VS Kengan Ashura\",\"video\":false,\"vote_average\":7.847,\"vote_count\":199}"
+}

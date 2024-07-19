@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "998",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2200",
+        "x-memc": "HIT",
+        "x-memc-key": "9e3032aeabdfd3a79b61f80fe6bc9043",
+        "x-memc-age": "23337",
+        "x-memc-expires": "2200",
+        "ETag": "W\/\"4535e81093af23f7223b44a1ba9ccaaf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ef83ebd0ff32ef4b30f3116e6c14b040.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GryAgCtVhBrlglENMKHStWBddsK8YfS6Um7ApznPVdmfmEqJVr6zlA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ylgYoWh5FE6od6t1QGutIjkWrPj.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":236144,\"imdb_id\":\"tt0054283\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Secret of the Purple Reef\",\"overview\":\"When a man mysteriously vanishes on his ship in the Caribbean, his two brothers journey there to investigate his disappearance.\",\"popularity\":2.033,\"poster_path\":\"\/fKRKux5MI2eG2BmAOznMz0vrnmB.jpg\",\"production_companies\":[{\"id\":4141,\"logo_path\":null,\"name\":\"Associated Producers (API)\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1960-12-11\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Secret of the Purple Reef\",\"video\":false,\"vote_average\":2.5,\"vote_count\":2}"
+}

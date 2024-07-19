@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1246",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4547",
+        "x-memc": "HIT",
+        "x-memc-key": "173f4ae874e8cb0992727fa2011c6ac8",
+        "x-memc-age": "19109",
+        "x-memc-expires": "4547",
+        "ETag": "W\/\"3a32f51817287d2cd1ab2869773aab6f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eXlyBxawGkJVsxf4AwpDGB-Cxxu496xgSFNFlzKXRegP3QitYFUrdw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/huZZBPyYUnMPCnrAFyJhnwYsQx9.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":7299,\"imdb_id\":\"tt0238380\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Equilibrium\",\"overview\":\"In a dystopian future, a totalitarian regime maintains peace by subduing the populace with a drug, and displays of emotion are punishable by death. A man in charge of enforcing the law rises to overthrow the system.\",\"popularity\":38.2,\"poster_path\":\"\/eW3YrxOh3rd6PnRgMSftYoflvfe.jpg\",\"production_companies\":[{\"id\":35304,\"logo_path\":null,\"name\":\"Blue Tulip Productions\",\"origin_country\":\"US\"},{\"id\":7405,\"logo_path\":\"\/rfnws0uY8rsNAsrLbx3gEIcYXx3.png\",\"name\":\"Dimension Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-12-06\",\"revenue\":5400000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In a future where freedom is outlawed, outlaws will become heroes.\",\"title\":\"Equilibrium\",\"video\":false,\"vote_average\":7.038,\"vote_count\":4383}"
+}

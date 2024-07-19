@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1518",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3560",
+        "x-memc": "HIT",
+        "x-memc-key": "cf5f3f1a1bb061e48cff821b34449bc8",
+        "x-memc-age": "23140",
+        "x-memc-expires": "3560",
+        "ETag": "W\/\"ffd642e6e733caa086d4ece2639d6cae\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jA_jbBrF2PANrhQ5bvPUNrFNPhElC1V79awrayMdw_ae5kHs9hr4SQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4OjoH07cxYQbnGiJzJxto0NUejH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":843847,\"imdb_id\":\"tt8323668\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Jerry & Marge Go Large\",\"overview\":\"The remarkable true story of how retiree Jerry Selbee discovers a mathematical loophole in the Massachusetts lottery and, with the help of his wife, Marge, wins $27 million dollars and uses the money to revive their small Michigan town.\",\"popularity\":49.822,\"poster_path\":\"\/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg\",\"production_companies\":[{\"id\":158418,\"logo_path\":null,\"name\":\"Landline Pictures\",\"origin_country\":\"US\"},{\"id\":83024,\"logo_path\":\"\/rW2LeKnt5DzczmZfq1MAmIDuaSa.png\",\"name\":\"Levantine Films\",\"origin_country\":\"US\"},{\"id\":96540,\"logo_path\":\"\/AgYjTNeIKOh0yvegPLSjq8EOsif.png\",\"name\":\"Paramount Players\",\"origin_country\":\"US\"},{\"id\":32555,\"logo_path\":null,\"name\":\"Netter Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-10-20\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"}],\"status\":\"Released\",\"tagline\":\"It's never too late to risk it all.\",\"title\":\"Jerry & Marge Go Large\",\"video\":false,\"vote_average\":7.381,\"vote_count\":299}"
+}

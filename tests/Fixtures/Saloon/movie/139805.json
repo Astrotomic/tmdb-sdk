@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1095",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18043",
+        "x-memc": "HIT",
+        "x-memc-key": "5efc3a040873d019f1446d059bcf2849",
+        "x-memc-age": "9417",
+        "x-memc-expires": "18043",
+        "ETag": "W\/\"73a4c129e1e62d81e7e031837d41a3b5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6294154c5c81832cf7b9d6614919fbec.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m4t5pLf1jKcKG2JQMasNlJDkq2-RxFVqCamyCSbCEeGLQ2T5jGUHaw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/OhVL496maVvpS6mZ9kJZvnerXb.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":139805,\"imdb_id\":\"tt0024222\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Kiss Before the Mirror\",\"overview\":\"When a famous doctor kills his adulterous wife, he is defended by his best friend, an attorney who suspects that his own wife is having an affair.\",\"popularity\":2.639,\"poster_path\":\"\/qRSwz0XgpHStCw63w08wGnGEIZy.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1933-05-04\",\"revenue\":0,\"runtime\":69,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The daring drama of two men, two women and the unwritten law.\",\"title\":\"The Kiss Before the Mirror\",\"video\":false,\"vote_average\":5.3,\"vote_count\":13}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "817",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3738",
+        "x-memc": "HIT",
+        "x-memc-key": "6b64c7dcae765c4b8883717af14121e5",
+        "x-memc-age": "22971",
+        "x-memc-expires": "3738",
+        "ETag": "W\/\"3f9c225f1c4eea25d09554696ffbb101\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rE8Mo7rcyyNan6SVzb84qaG_YcY4ZZcT7FeOSj6r0LSTbFywfv854w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"http:\/\/www.stickymonsterlab.com\",\"id\":391409,\"imdb_id\":null,\"origin_country\":[\"KR\"],\"original_language\":\"en\",\"original_title\":\"The Father\",\"overview\":\"An animated story from Sticky Monster Lab that simultaneously tells two stories - that of the father and that of the son.\",\"popularity\":0.626,\"poster_path\":null,\"production_companies\":[{\"id\":75107,\"logo_path\":\"\/alkz1figOscw8OBKp13szi2WY8H.png\",\"name\":\"Sticky Monster Lab\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2009-04-04\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Father\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

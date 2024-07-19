@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1334",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11548",
+        "x-memc": "HIT",
+        "x-memc-key": "df8e8206f2aae1ead2209d0fe678425f",
+        "x-memc-age": "16780",
+        "x-memc-expires": "11548",
+        "ETag": "W\/\"6c1d0ea35bbf753a4ce098b6300de900\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_vnNzoO4pptHWKfVEvCNiPwI4y-s5qnwHiiaks-fNmcbC-4w1nKEKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/26SUDI2iKhZTIKcU4ZzezTH1G15.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":335,\"imdb_id\":\"tt0064116\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"C'era una volta il West\",\"overview\":\"As the railroad builders advance unstoppably through the Arizona desert on their way to the sea, Jill arrives in the small town of Flagstone with the intention of starting a new life.\",\"popularity\":61.902,\"poster_path\":\"\/qbYgqOczabWNn2XKwgMtVrntD6P.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":218,\"logo_path\":null,\"name\":\"Rafran Cinematografica\",\"origin_country\":\"IT\"},{\"id\":25287,\"logo_path\":null,\"name\":\"San Marco\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1968-12-21\",\"revenue\":5380118,\"runtime\":166,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"There were three men in her life. One to take her\u2026 one to love her \u2014and one to kill her.\",\"title\":\"Once Upon a Time in the West\",\"video\":false,\"vote_average\":8.29,\"vote_count\":4207}"
+}

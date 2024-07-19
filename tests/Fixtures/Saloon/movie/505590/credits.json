@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1417",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:30:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14538",
+        "x-memc": "HIT",
+        "x-memc-key": "446de40c2d9b63993742c585f6e8bb0f",
+        "x-memc-age": "8017",
+        "x-memc-expires": "14538",
+        "ETag": "W\/\"0c66e9138edc10c14159350ecef108a4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "93uGM2YF7Ebv1LHAun8KUSlTobylDWp39Vccs5FskViCEVOSvS0Isg=="
+    },
+    "data": "{\"id\":505590,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":886142,\"known_for_department\":\"Acting\",\"name\":\"Jacqui Holland\",\"original_name\":\"Jacqui Holland\",\"popularity\":11.328,\"profile_path\":\"\/taR6weZmLQzuBHIIAa5MKXK4Xwy.jpg\",\"cast_id\":1,\"character\":\"\",\"credit_id\":\"5a872ab89251410a1f03ca40\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":1494526,\"known_for_department\":\"Acting\",\"name\":\"Rebecca Olejniczak\",\"original_name\":\"Rebecca Olejniczak\",\"popularity\":3.797,\"profile_path\":\"\/5pGPmLBQsj8IccQ6O6nhHXUkZdu.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"5a872ad29251417593040716\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1338033,\"known_for_department\":\"Acting\",\"name\":\"Jason K. Wixom\",\"original_name\":\"Jason K. Wixom\",\"popularity\":4.151,\"profile_path\":\"\/9drVxzEyP3T3oOibGJHBzCtb2KG.jpg\",\"cast_id\":3,\"character\":\"\",\"credit_id\":\"5a872b020e0a2652ab03e0fa\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":31234,\"known_for_department\":\"Acting\",\"name\":\"G. Larry Butler\",\"original_name\":\"G. Larry Butler\",\"popularity\":6.356,\"profile_path\":\"\/plQubRvbKkLbihZrTpspb3BUJjE.jpg\",\"cast_id\":4,\"character\":\"\",\"credit_id\":\"5a872b1e0e0a26540c03c24e\",\"order\":3}],\"crew\":[{\"adult\":true,\"gender\":0,\"id\":1728677,\"known_for_department\":\"Acting\",\"name\":\"Jeffrey Dickinson\",\"original_name\":\"Jeffrey Dickinson\",\"popularity\":0.6,\"profile_path\":\"\/vZ68JjO3n1iJm3nBdNgERwlKZLm.jpg\",\"credit_id\":\"5a872a8fc3a368631604101c\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

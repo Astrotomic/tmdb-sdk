@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1900",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:29:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7501",
+        "x-memc": "HIT",
+        "x-memc-key": "9467df407f2348670cc304292a0221d1",
+        "x-memc-age": "15288",
+        "x-memc-expires": "7501",
+        "ETag": "W\/\"73d9197f7264209581aa43a8a985d7c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rufUzsA-LJYCQxTkXT8wlbgcrtkTP-GF1_e00OHBaNqXoVKW-2Tafw=="
+    },
+    "data": "{\"id\":1248504,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1035,\"known_for_department\":\"Writing\",\"name\":\"Paul Schrader\",\"original_name\":\"Paul Schrader\",\"popularity\":16.436,\"profile_path\":\"\/ctRxgCUSRFudwFaPG2AanL71Y3V.jpg\",\"credit_id\":\"65d7159660975001852523a4\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":false,\"gender\":2,\"id\":16379,\"known_for_department\":\"Writing\",\"name\":\"Bret Easton Ellis\",\"original_name\":\"Bret Easton Ellis\",\"popularity\":11.437,\"profile_path\":\"\/aDN2rzD9ezgD2wSOK7l6oHXWeAq.jpg\",\"credit_id\":\"65d715b027db61016344bb8f\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":false,\"gender\":2,\"id\":102332,\"known_for_department\":\"Art\",\"name\":\"John Mott\",\"original_name\":\"John Mott\",\"popularity\":1.053,\"profile_path\":null,\"credit_id\":\"65d715ce60975000c9226418\",\"department\":\"Art\",\"job\":\"Production Design\"},{\"adult\":false,\"gender\":0,\"id\":1018976,\"known_for_department\":\"Sound\",\"name\":\"Lucas Vidal\",\"original_name\":\"Lucas Vidal\",\"popularity\":1.988,\"profile_path\":null,\"credit_id\":\"65d715e26097500185252417\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":1,\"id\":552,\"known_for_department\":\"Production\",\"name\":\"Elaine Dysinger\",\"original_name\":\"Elaine Dysinger\",\"popularity\":2.991,\"profile_path\":\"\/xBfzHm4gLQjGQOprARKVCTI8MNa.jpg\",\"credit_id\":\"65d715f3609750016223866d\",\"department\":\"Production\",\"job\":\"Co-Producer\"},{\"adult\":false,\"gender\":2,\"id\":959314,\"known_for_department\":\"Production\",\"name\":\"Braxton Pope\",\"original_name\":\"Braxton Pope\",\"popularity\":2.282,\"profile_path\":\"\/sQjrpUHa51TyZMR4Q0CXlUcMQye.jpg\",\"credit_id\":\"65d715fe9974ee0162051a14\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":582917,\"known_for_department\":\"Production\",\"name\":\"Jesus Martinez Asencio\",\"original_name\":\"Jesus Martinez Asencio\",\"popularity\":0.526,\"profile_path\":null,\"credit_id\":\"65d71616609750018525244d\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

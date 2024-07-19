@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1377",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5266",
+        "x-memc": "HIT",
+        "x-memc-key": "67adf515fdfca7ed83263f9f50950e7c",
+        "x-memc-age": "18840",
+        "x-memc-expires": "5266",
+        "ETag": "W\/\"39450c9012659514d068ff5c02614fa9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iVTNB0g6GghlsfkbHWok2Uk_JI-17u7Ryqf-6sW7NSfdPMsuFDZm9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fKzQzmqsUDVbrH4dux9FcXtXLbQ.jpg\",\"belongs_to_collection\":null,\"budget\":45000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":11359,\"imdb_id\":\"tt0113419\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Indian in the Cupboard\",\"overview\":\"A nine-year-old boy gets a plastic Indian and a cupboard for his birthday and finds himself involved in adventure when the Indian comes to life and befriends him.\",\"popularity\":20.366,\"poster_path\":\"\/ozQAmW85tTJu2dhRe3evzyY03Nb.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":862,\"logo_path\":\"\/vdK6ZhC2CSW36j0VPEavRxOpbEg.png\",\"name\":\"The Kennedy\/Marshall Company\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-07-14\",\"revenue\":35700000,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Adventure comes to life\",\"title\":\"The Indian in the Cupboard\",\"video\":false,\"vote_average\":6.454,\"vote_count\":600}"
+}

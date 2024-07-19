@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1743",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17936",
+        "x-memc": "HIT",
+        "x-memc-key": "3fe399b990bdc5e494ce4dc61583623f",
+        "x-memc-age": "4183",
+        "x-memc-expires": "17936",
+        "ETag": "W\/\"76f8905a8ecda92b2380719303dcfe5d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IlE6NfMAfgAG2NZ9VV8bHSacYUep-zoCwUxYGHk0C-SiMtXCXwXpnA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8ZjljiWy7sVU02N1VSnxnFujfml.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.mylifetime.com\/movies\/ladies-of-the-80s-a-divas-christmas\",\"id\":1187005,\"imdb_id\":\"tt29379064\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ladies of the '80s: A Divas Christmas\",\"overview\":\"Five soap opera divas as they reunite to shoot the final Christmas episode of their long-running sudser. The producer, Alex and director Nell, who happen to be old college friends, do their best to keep things on the rails but as the ladies come together, old rivalries resurface that threaten to tear the production apart.\",\"popularity\":9.934,\"poster_path\":\"\/9pgl1FIqI3lJ8npLgZOnDZmUJ3F.jpg\",\"production_companies\":[{\"id\":213071,\"logo_path\":null,\"name\":\"Larry Thompson Entertainment\",\"origin_country\":\"\"},{\"id\":96270,\"logo_path\":null,\"name\":\"Storyscape Entertainment\",\"origin_country\":\"\"},{\"id\":3431,\"logo_path\":\"\/bVTF0p5xlPfQhQIuBLr9BFtrKip.png\",\"name\":\"Lifetime\",\"origin_country\":\"US\"},{\"id\":11550,\"logo_path\":\"\/3oQFsgYn68gvDAkELfiX4tn65Ui.png\",\"name\":\"Corus Entertainment\",\"origin_country\":\"CA\"},{\"id\":213072,\"logo_path\":null,\"name\":\"Lifetime Canada\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-12-02\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Let the good ole times roll.\",\"title\":\"Ladies of the '80s: A Divas Christmas\",\"video\":false,\"vote_average\":8.2,\"vote_count\":6}"
+}

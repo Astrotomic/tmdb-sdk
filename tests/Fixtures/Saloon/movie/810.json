@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1534",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20572",
+        "x-memc": "HIT",
+        "x-memc-key": "e40246683637f385493a2586b09fd1b2",
+        "x-memc-age": "1306",
+        "x-memc-expires": "20572",
+        "ETag": "W\/\"0358e69158d5aa04cd5ae76947f32ea0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6zBUNvvuBvHgNdL1i9_fd4Mnh78ruaVO9kilFOLmg6fQihc6e87iZA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qSNz1G1Ts8fFw6v4Vae4aMAjcY7.jpg\",\"belongs_to_collection\":{\"id\":2150,\"name\":\"Shrek Collection\",\"poster_path\":\"\/m3IA3X59cEup41xs4DJLptlfsza.jpg\",\"backdrop_path\":\"\/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg\"},\"budget\":160000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.shrekthethird.com\/flash\/index.html\",\"id\":810,\"imdb_id\":\"tt0413267\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shrek the Third\",\"overview\":\"The King of Far Far Away has died and Shrek and Fiona are to become King & Queen. However, Shrek wants to return to his cozy swamp and live in peace and quiet, so when he finds out there is another heir to the throne, they set off to bring him back to rule the kingdom.\",\"popularity\":96.556,\"poster_path\":\"\/n4SexGGQzI26E269tfpa80MZaGV.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-05-17\",\"revenue\":813367380,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's in for the royal treatment.\",\"title\":\"Shrek the Third\",\"video\":false,\"vote_average\":6.298,\"vote_count\":8803}"
+}

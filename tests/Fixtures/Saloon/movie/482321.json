@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1468",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18240",
+        "x-memc": "HIT",
+        "x-memc-key": "6558d08f220053062c60572dc6680f3d",
+        "x-memc-age": "4382",
+        "x-memc-expires": "18240",
+        "ETag": "W\/\"41a3db2792e02d159a8b77f4474f92f9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nuzQh5u2CgHXwPyeFcBItb9hISwQS8ksAWIUPw48xv0Fg5wv8nz4BA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sdL37sfUBth7mdkAolI83bXAl7L.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/family.20thcenturystudios.com\/movies\/rons-gone-wrong\",\"id\":482321,\"imdb_id\":\"tt7504818\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Ron's Gone Wrong\",\"overview\":\"In a world where walking, talking, digitally connected bots have become children's best friends, an 11-year-old finds that his robot buddy doesn't quite work the same as the others do.\",\"popularity\":65.054,\"poster_path\":\"\/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg\",\"production_companies\":[{\"id\":121605,\"logo_path\":\"\/4rc0vsJWygNm9ojrxSdPVU9jKyj.png\",\"name\":\"Locksmith Animation\",\"origin_country\":\"GB\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"},{\"id\":31922,\"logo_path\":\"\/omWPoru2LNayUOBqjMBLP9KrFrP.png\",\"name\":\"DNEG\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-10-14\",\"revenue\":60692022,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Best Friend Forever* (*battery life may vary)\",\"title\":\"Ron's Gone Wrong\",\"video\":false,\"vote_average\":7.911,\"vote_count\":1800}"
+}

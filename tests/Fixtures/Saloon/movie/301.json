@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1239",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4650",
+        "x-memc": "HIT",
+        "x-memc-key": "a1402cc6ffe91ee6bb81578f566e15ae",
+        "x-memc-age": "19032",
+        "x-memc-expires": "4650",
+        "ETag": "W\/\"b6edb2f95a921176f105cb1631d64cca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 487e773bc809cb87809f770954ce1e22.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ywvneKLfNYhMDIwpd8jk02EI9FzQlsqDemFBM1rbtzOJgyBkgttUTA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cPDKIvdYJ4TLT3KU0fpGDVpdhfd.jpg\",\"belongs_to_collection\":null,\"budget\":1200000,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":301,\"imdb_id\":\"tt0053221\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rio Bravo\",\"overview\":\"A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.\",\"popularity\":55.927,\"poster_path\":\"\/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":73577,\"logo_path\":null,\"name\":\"Armada Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1959-03-18\",\"revenue\":5750000,\"runtime\":141,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!\",\"title\":\"Rio Bravo\",\"video\":false,\"vote_average\":7.8,\"vote_count\":1104}"
+}

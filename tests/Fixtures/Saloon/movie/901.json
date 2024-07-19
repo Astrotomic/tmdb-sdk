@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1183",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5878",
+        "x-memc": "HIT",
+        "x-memc-key": "079519f525e5501038da5e9f92e25baa",
+        "x-memc-age": "22807",
+        "x-memc-expires": "5878",
+        "ETag": "W\/\"2f37a78d40b5a99c848fb82252e8b491\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hhOY9LOOtudLrF2-p4S49VXrMu2ew92_EPv6uDIXGhOoOPEWgDawPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n0Cju2Eu3VyrUFl32thblHFWznA.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.charliechaplin.com\/en\/films\/5-City-Lights\",\"id\":901,\"imdb_id\":\"tt0021749\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"City Lights\",\"overview\":\"A tramp falls in love with a beautiful blind flower girl. His on-and-off friendship with a wealthy man allows him to be the girl's benefactor and suitor.\",\"popularity\":32.367,\"poster_path\":\"\/bXNvzjULc9jrOVhGfjcc64uKZmZ.jpg\",\"production_companies\":[{\"id\":1315,\"logo_path\":null,\"name\":\"Charles Chaplin Productions\",\"origin_country\":\"\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1931-02-01\",\"revenue\":4250000,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"True Blind Love\",\"title\":\"City Lights\",\"video\":false,\"vote_average\":8.286,\"vote_count\":2096}"
+}

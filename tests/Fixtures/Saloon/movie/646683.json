@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1253",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12947",
+        "x-memc": "HIT",
+        "x-memc-key": "3a84d62b3ef6fdd9268d3986a7d6c425",
+        "x-memc-age": "12369",
+        "x-memc-expires": "12947",
+        "ETag": "W\/\"210256133c46c89edb23ac862c077c9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0T_Vvkx13QCNAF5fwY3u_pnzJ8wVxHOo7bI6pwPyTHzxylmlKvhP4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8fNBsXpgMvqk75SPsZzTmIqSRxY.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.theexorcismmovie.com\/\",\"id\":646683,\"imdb_id\":\"tt11240348\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Exorcism\",\"overview\":\"A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.\",\"popularity\":1038.017,\"poster_path\":\"\/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":2180,\"logo_path\":null,\"name\":\"Outerbanks Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-30\",\"revenue\":6354317,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They were making a cursed movie. They were warned not to. They should have listened.\",\"title\":\"The Exorcism\",\"video\":false,\"vote_average\":4.3,\"vote_count\":67}"
+}

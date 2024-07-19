@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1290",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1808",
+        "x-memc": "HIT",
+        "x-memc-key": "8c1a2b4790a770d21e1790a1411ad30f",
+        "x-memc-age": "22700",
+        "x-memc-expires": "1808",
+        "ETag": "W\/\"164798cb8bb0595ce333a8d349eb924e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vZcM2sNu1mAv6EXtFQ7Er7Pwoc_eVDDefP9IUCPGWkR8cv3FKbpfnA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gs12ixull35vrgmxAR9uTLmfHkF.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":6966,\"imdb_id\":\"tt0072403\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The White Dawn\",\"overview\":\"In 1896, three survivors of a whaling ship-wreck in the Canadian Arctic are saved and adopted by an Eskimo tribe but frictions arise when the three start misbehaving.\",\"popularity\":2.57,\"poster_path\":\"\/mhxEtcMpNEPC8wyhBifeFUPP7z7.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":95586,\"logo_path\":null,\"name\":\"American Film Properties\",\"origin_country\":\"\"},{\"id\":1138,\"logo_path\":\"\/nFDryQEdl7eVjJuXoaT4Vw88xgz.png\",\"name\":\"Filmways Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1974-07-21\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A True Story of an Artic Adventure.\",\"title\":\"The White Dawn\",\"video\":false,\"vote_average\":6.4,\"vote_count\":11}"
+}

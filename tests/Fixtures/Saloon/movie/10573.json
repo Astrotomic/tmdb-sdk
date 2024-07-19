@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2148",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24335",
+        "x-memc": "HIT",
+        "x-memc-key": "52a46ab687e82749839f3b0ac771860e",
+        "x-memc-age": "3227",
+        "x-memc-expires": "24335",
+        "ETag": "W\/\"c1bb0e925bc1d74f29d5a5d69ffc1edf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DUEhEkRUs4nN7nZKYEbgbYykAM9QA4yaPsNXt88kB-4ocmk8SBczwA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uFBRsDsk3byX98lb6TveaGVqGuM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10573,\"imdb_id\":\"tt0170259\",\"origin_country\":[\"TJ\"],\"original_language\":\"ru\",\"original_title\":\"\u041b\u0443\u043d\u043d\u044b\u0439 \u043f\u0430\u043f\u0430\",\"overview\":\"The unborn child of Mamlakat is telling her story. She is 17, beautiful and vivacious, and dreaming secretly of becoming an actress. She lives with her father and brother in a small village in Central Asia. One night she is seduced by an actor from a travelling troupe, who poses as a friend of Tom Cruise, and makes her pregnant. She tries to abort, but her father and brother become determined to find the seducer, setting in motion a cascade of comic adventures.\",\"popularity\":10.037,\"poster_path\":\"\/k4GCxO2M0qIeRp3bhfPVhe9yJaY.jpg\",\"production_companies\":[{\"id\":2256,\"logo_path\":null,\"name\":\"Les Films de L'Observatoire\",\"origin_country\":\"\"},{\"id\":46296,\"logo_path\":null,\"name\":\"Prisma Film\",\"origin_country\":\"AT\"},{\"id\":58949,\"logo_path\":null,\"name\":\"VISS\",\"origin_country\":\"\"},{\"id\":58951,\"logo_path\":null,\"name\":\"Thomas Koerfer Film\",\"origin_country\":\"\"},{\"id\":23332,\"logo_path\":\"\/7DAK0C5Ftkm9cpnhjwpRhpYq6t7.png\",\"name\":\"Tajikfilm\",\"origin_country\":\"TJ\"},{\"id\":140,\"logo_path\":\"\/ooz5b0ov3PLfBoOJyMmdoffVuHs.png\",\"name\":\"Pandora Film\",\"origin_country\":\"DE\"},{\"id\":75055,\"logo_path\":null,\"name\":\"Eurospace\",\"origin_country\":\"JP\"},{\"id\":100852,\"logo_path\":null,\"name\":\"Profit\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"TJ\",\"name\":\"Tajikistan\"},{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"},{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"},{\"iso_3166_1\":\"UZ\",\"name\":\"Uzbekistan\"}],\"release_date\":\"1999-09-08\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Tajik\",\"iso_639_1\":\"tg\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Luna Papa\",\"video\":false,\"vote_average\":6.378,\"vote_count\":37}"
+}

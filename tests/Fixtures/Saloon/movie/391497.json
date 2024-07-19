@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1150",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12402",
+        "x-memc": "HIT",
+        "x-memc-key": "8f1e9fe0ce4ef25b9b1819eac4a3738a",
+        "x-memc-age": "15381",
+        "x-memc-expires": "12402",
+        "ETag": "W\/\"0e831d65b0cf326ddead0a22d804b34f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pFucMmHa5o0959LEWqA7c7u_6H1uvM6qRoaWqNG7zNg8gE66vYB1Eg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":391497,\"imdb_id\":\"tt0035998\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hi, Buddy\",\"overview\":\"Dick Foran and Harriet Hilliard (aka Harriet Nelson) top the cast of the Universal musical quickie Hi, Buddy. Foran plays GI Dave O'Connor, who comes to the rescue when a boy's club is threatened with foreclosure. Upon learning that the money targetted for the club has been appropriated by a crooked manager, O'Connor calls upon his army buddies to stage a big, fundraising show.\",\"popularity\":1.462,\"poster_path\":\"\/6fWN0wY2z5cEVQZ0WkoVHOqBzAf.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-02-26\",\"revenue\":0,\"runtime\":66,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hi, Buddy\",\"video\":false,\"vote_average\":7.0,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1070",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25380",
+        "x-memc": "HIT",
+        "x-memc-key": "0efd579e148643c6fa0b356d360030b8",
+        "x-memc-age": "2554",
+        "x-memc-expires": "25380",
+        "ETag": "W\/\"4041e34a5071202a01b178ed66602f9b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wQz-7lljC8TWv5mhe5vwQHeG231DZuShH7pCX6c3aY541WYOU7Jl1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9u6KmcIbp2139xYW4RAxc5lvVPk.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.revolution-os.com\",\"id\":19433,\"imdb_id\":\"tt0308808\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Revolution OS\",\"overview\":\"REVOLUTION OS tells the inside story of the hackers who rebelled against the proprietary software model and Microsoft to create GNU\/Linux and the Open Source movement.\",\"popularity\":9.526,\"poster_path\":\"\/h7oBhsEsiHUgZ1uflyqBafB6SoB.jpg\",\"production_companies\":[{\"id\":56291,\"logo_path\":null,\"name\":\"Wonderview Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-03-09\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Revolution OS\",\"video\":false,\"vote_average\":6.877,\"vote_count\":77}"
+}

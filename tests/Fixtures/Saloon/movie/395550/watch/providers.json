@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "239",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:15:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17294",
+        "x-memc": "HIT",
+        "x-memc-key": "20a6c24e6be36360d647f123ca56e682",
+        "x-memc-age": "11057",
+        "x-memc-expires": "17294",
+        "ETag": "W\/\"094607c3c5109a268ad12bf9052e54fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "shHLwnaOkmRzJWybqst2rNyjKyFWc6TzRwj7gHz_odIoGTxc-FI6Ag=="
+    },
+    "data": "{\"id\":395550,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/395550-crocodile-dreaming\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg\",\"provider_id\":191,\"provider_name\":\"Kanopy\",\"display_priority\":48}]}}}"
+}

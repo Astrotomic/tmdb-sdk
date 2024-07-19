@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "818",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26828",
+        "x-memc": "HIT",
+        "x-memc-key": "496bbc48603dd4d68ccc2e2f87d04f2b",
+        "x-memc-age": "214",
+        "x-memc-expires": "26828",
+        "ETag": "W\/\"f9f787bea8cf230002bc6f99b3517db9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-VAq8TNDSQjsUQffnigvu3nbbh83FprHB1OGuIJPbzLP5dBNrEhmCQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.seance.cz\/\",\"id\":547266,\"imdb_id\":\"tt1454543\",\"origin_country\":[\"CZ\"],\"original_language\":\"cs\",\"original_title\":\"Seance\",\"overview\":\"Narrates the story of three people, who are trying to find the fortune of a deceased baroness through a spiritualistic s\u00e9ance. But things will go a bit differently than they planned.\",\"popularity\":1.028,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CZ\",\"name\":\"Czech Republic\"}],\"release_date\":\"2009-10-20\",\"revenue\":0,\"runtime\":19,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Seance\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "917",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5952",
+        "x-memc": "HIT",
+        "x-memc-key": "b6f4b06a491951c440bb0e942f1f26dc",
+        "x-memc-age": "21694",
+        "x-memc-expires": "5952",
+        "ETag": "W\/\"fb5468b649e9013e5f815ea270059bd5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "48zC__0nKxHAu6nspjmKhWjt_Z-HRR0X-LZyVo9XeB9aXSvLWwCgCw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1XLgnvljPF42SOFZ1q9cIwIIsj1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":230730,\"imdb_id\":\"tt0032614\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hullabaloo\",\"overview\":\"A radio actor faces trouble when a science-fiction story causes the audience to panic.\",\"popularity\":2.337,\"poster_path\":\"\/jWHWxXc2ofSokrr5I3G0lwbn6fa.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-10-25\",\"revenue\":0,\"runtime\":78,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hullabaloo\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

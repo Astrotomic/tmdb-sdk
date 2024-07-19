@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1032",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17501",
+        "x-memc": "HIT",
+        "x-memc-key": "5589bf97752f48604ea5acbd0b39143e",
+        "x-memc-age": "5115",
+        "x-memc-expires": "17501",
+        "ETag": "W\/\"0f1f4c57b86d294ee0836cc37eb6802e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Gd_Hm4UbZjb3-7WpL2Pj91tn7WV7urbt3ENgb92hhoYTsT0dRXfOmA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/HDPq5KVV9Yw2H0fhvMug3Oi9Xv.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":18423,\"imdb_id\":\"tt0118663\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"B.A.P.S\",\"overview\":\"Two clueless homegirls move to L.A. to become dancers, but instead find themselves scamming a dying millionaire to eventually become B*A*P*S (Black American Princesses).\",\"popularity\":11.883,\"poster_path\":\"\/yi40NrDfdv8vX0aoWvis3CnCVWj.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":3492,\"logo_path\":null,\"name\":\"Island Pictures\",\"origin_country\":\"GB\"}],\"production_countries\":[],\"release_date\":\"1997-03-28\",\"revenue\":7240837,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"These Pretty Women... Are Clueless!\",\"title\":\"B.A.P.S\",\"video\":false,\"vote_average\":5.25,\"vote_count\":70}"
+}

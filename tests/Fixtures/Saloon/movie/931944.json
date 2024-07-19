@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1487",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4318",
+        "x-memc": "HIT",
+        "x-memc-key": "138e7220ccf0434d66bfc6a6d29f7b30",
+        "x-memc-age": "24370",
+        "x-memc-expires": "4318",
+        "ETag": "W\/\"70ef0bc8a08717b7bbefc109ea6a58d5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "A9Eq4zm9rdVHLB-ZXndIz1tbWKResz4vSj5ncqdDo_2BxYLnGapxTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8y9mgkTlaEUAtjrHr9akapFd6hQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":931944,\"imdb_id\":\"tt29141112\",\"origin_country\":[\"DE\",\"AT\"],\"original_language\":\"de\",\"original_title\":\"Des Teufels Bad\",\"overview\":\"18th century Austria. Villages surrounded by deep forests. A woman is sentenced to death after killing a baby. Agnes is marrying her loved one and candidly prepares herself for a spouse life. Soon after, her head and heart start to feel heavy. Day after day, she is increasingly trapped in a murky and lonely path leading to evil thoughts. Maybe not just thoughts\u2026\",\"popularity\":20.043,\"poster_path\":\"\/ycoXsJomPmPjtCfNweM0UWiTkPY.jpg\",\"production_companies\":[{\"id\":25523,\"logo_path\":\"\/hVnHNJUHSxaTpQdWPzC8B5CRvns.png\",\"name\":\"Ulrich Seidl Filmproduktion\",\"origin_country\":\"AT\"},{\"id\":23406,\"logo_path\":\"\/BTYR4mdM8dQxK0cK0gPVhkXd8j.png\",\"name\":\"Heimatfilm\",\"origin_country\":\"DE\"},{\"id\":122,\"logo_path\":\"\/pbRxJ8oia1MypvLbukeamObtYr2.png\",\"name\":\"Coop99 Filmproduktion\",\"origin_country\":\"AT\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2024-03-08\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Devil's Bath\",\"video\":false,\"vote_average\":7.625,\"vote_count\":12}"
+}

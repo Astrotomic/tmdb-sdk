@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "796",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:20:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13998",
+        "x-memc": "HIT",
+        "x-memc-key": "088b2890c5db928eb0fbd8197e5ae5a0",
+        "x-memc-age": "10278",
+        "x-memc-expires": "13998",
+        "ETag": "W\/\"10a9421a76013d9d18bade5b3628f5e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nt438XMLFnZetZnx5y4m29ZJMefC8M5nbISxWQGLchKoMLyRGBoe3Q=="
+    },
+    "data": "{\"id\":7507,\"results\":{\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/7507-gli-specialisti\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12}]},\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/7507-gli-specialisti\/watch?locale=IT\",\"ads\":[{\"logo_path\":\"\/dB8G41Q6tSL5NBisrIeqByfepBc.jpg\",\"provider_id\":300,\"provider_name\":\"Pluto TV\",\"display_priority\":39}]}}}"
+}

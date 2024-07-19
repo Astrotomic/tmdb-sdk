@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1275",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5881",
+        "x-memc": "HIT",
+        "x-memc-key": "02fabeafa1f1b52ddf977fb7558f1bad",
+        "x-memc-age": "19791",
+        "x-memc-expires": "5881",
+        "ETag": "W\/\"6500f64d87f596771e5e964327b28859\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XOLhy8MVaWdGmfA5N4QVoi5UR0ouchOPDPLfwg7mc9B43BR2Lo4LvQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1Z9wc3ZJpYTmUAEYi5PXhxup6kp.jpg\",\"belongs_to_collection\":null,\"budget\":37000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":222936,\"imdb_id\":\"tt1243974\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Aloha\",\"overview\":\"A celebrated military contractor returns to the site of his greatest career triumphs and re-connects with a long-ago love while unexpectedly falling for the hard-charging Air Force watchdog assigned to him.\",\"popularity\":33.909,\"poster_path\":\"\/58Y4CjcRX8AtMNtI0AXu9H7iebP.jpg\",\"production_companies\":[{\"id\":485,\"logo_path\":\"\/tVOP0mIeoYLua4Rw66OYNzitrrI.png\",\"name\":\"Vinyl Films\",\"origin_country\":\"US\"},{\"id\":258,\"logo_path\":null,\"name\":\"Scott Rudin Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-05-29\",\"revenue\":26250020,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sometimes you have to say goodbye before you can say hello.\",\"title\":\"Aloha\",\"video\":false,\"vote_average\":5.501,\"vote_count\":1971}"
+}

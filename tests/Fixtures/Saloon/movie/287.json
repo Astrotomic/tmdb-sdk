@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1288",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22931",
+        "x-memc": "HIT",
+        "x-memc-key": "73034569166da45dd937b50f003641ef",
+        "x-memc-age": "5680",
+        "x-memc-expires": "22931",
+        "ETag": "W\/\"f9407f8fc0b9e3fe2eb73c5436ae0bf4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DV0g6n-mjTCO00eGdXJHBs8_lnMIeVgDmsR52r1bJmGTTWkFrrA6wA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5T78V938To4lWEyEXVcfSJ8gND0.jpg\",\"belongs_to_collection\":null,\"budget\":7000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":287,\"imdb_id\":\"tt0094812\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bull Durham\",\"overview\":\"Veteran catcher Crash Davis is brought to the minor league Durham Bulls to help their up and coming pitching prospect, \\\"Nuke\\\" Laloosh. Their relationship gets off to a rocky start and is further complicated when baseball groupie Annie Savoy sets her sights on the two men.\",\"popularity\":27.843,\"poster_path\":\"\/q3T9bO6p74NcTxWOhdUA6fASQ5T.jpg\",\"production_companies\":[{\"id\":1312,\"logo_path\":null,\"name\":\"The Mount Company\",\"origin_country\":\"US\"},{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-06-15\",\"revenue\":50888000,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Romance is a lot like baseball. It's not whether you win or lose. It's how you play the game.\",\"title\":\"Bull Durham\",\"video\":false,\"vote_average\":6.65,\"vote_count\":557}"
+}

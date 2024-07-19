@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "744",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20560",
+        "x-memc": "HIT",
+        "x-memc-key": "ec8f0263f6230580c1886b22e73c53a3",
+        "x-memc-age": "2067",
+        "x-memc-expires": "20560",
+        "ETag": "W\/\"1807e3ff6018607079e1289e731fad38\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6QfV39zMzAb_vH6trZx2aXk47aboUHM_yz0GiXd4CHKokHuMhfQrGg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1182531,\"imdb_id\":null,\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Drop-Outs\",\"overview\":\"A group of youths terrorise their local town by torturing and killing random people. A group of mercenaries attempt to intervene.\",\"popularity\":1.437,\"poster_path\":\"\/2MJI3zt0FSjeIkBXnwzRgkSNNeU.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2020-04-30\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"...Where the fun ends!\",\"title\":\"Drop-Outs\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "723",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:00:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19289",
+        "x-memc": "HIT",
+        "x-memc-key": "29ac8c1c40895882795e5617f65607f9",
+        "x-memc-age": "7639",
+        "x-memc-expires": "19289",
+        "ETag": "W\/\"7183727f23a08f2925757cb93537ce29\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Jbvpb-UJYK8G8F97LnLMGAiXQmArUb6FFQ6O3KOt1NR-9lQcdVc-uA=="
+    },
+    "data": "{\"id\":12776,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12776-johnny-stecchino\/watch?locale=IT\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":1},{\"logo_path\":\"\/q77DpszIupURiKGDeFdSHo7TsTF.jpg\",\"provider_id\":1726,\"provider_name\":\"Infinity Selection Amazon Channel\",\"display_priority\":46},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":65}]},\"SM\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/12776-johnny-stecchino\/watch?locale=SM\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]}}}"
+}

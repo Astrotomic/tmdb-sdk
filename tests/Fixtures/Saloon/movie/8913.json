@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1133",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18196",
+        "x-memc": "HIT",
+        "x-memc-key": "133c8e3dd7fd07c42b72f6819e92ee3e",
+        "x-memc-age": "9723",
+        "x-memc-expires": "18196",
+        "ETag": "W\/\"1c1bb3c4a0997492c874d174d2a4078f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DAGecq-0jRQdnFRoW5ZpBdAItba9WQ29XBZCCngO6CQ2xw8iwDrSQw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg\",\"belongs_to_collection\":{\"id\":10789,\"name\":\"Pet Sematary Collection\",\"poster_path\":\"\/iySOPKFg4DgtjY9ySsJZoccMcIB.jpg\",\"backdrop_path\":\"\/ZkSBmKmi7aZVBmuHEXdPhj6Ylt.jpg\"},\"budget\":11500000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":8913,\"imdb_id\":\"tt0098084\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pet Sematary\",\"overview\":\"After the Creed family's cat is accidentally killed, a friendly neighbor advises its burial in a mysterious nearby cemetery.\",\"popularity\":43.91,\"poster_path\":\"\/8ZtH1V4rhrtP53ezlEWrCaMALXF.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-04-21\",\"revenue\":57500000,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Sometimes dead is better.\",\"title\":\"Pet Sematary\",\"video\":false,\"vote_average\":6.6,\"vote_count\":2090}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1341",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2500",
+        "x-memc": "HIT",
+        "x-memc-key": "5da075d2390c07e29d4d72c553695305",
+        "x-memc-age": "20522",
+        "x-memc-expires": "2500",
+        "ETag": "W\/\"ba005f87e03dad0f6f5b0e5163658a21\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pgRwIw4IbzCIvm43SUqwlwfyNjGR_f8W3FX8GOOou6QzNT8a-EFIqg=="
+    },
+    "data": "{\"id\":551190,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":145851,\"known_for_department\":\"Acting\",\"name\":\"Wayne Forester\",\"original_name\":\"Wayne Forester\",\"popularity\":5.547,\"profile_path\":null,\"cast_id\":4,\"character\":\"Alby (voice)\",\"credit_id\":\"5c241d46c3a368044aee4144\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1282963,\"known_for_department\":\"Acting\",\"name\":\"Glen McCready\",\"original_name\":\"Glen McCready\",\"popularity\":4.999,\"profile_path\":\"\/kU8t7a65Lsy6IalnobHPLv8glMH.jpg\",\"cast_id\":5,\"character\":\"Narrator (voice)\",\"credit_id\":\"5c243a639251416e80c16a31\",\"order\":1},{\"adult\":false,\"gender\":1,\"id\":185065,\"known_for_department\":\"Acting\",\"name\":\"Emma Tate\",\"original_name\":\"Emma Tate\",\"popularity\":11.726,\"profile_path\":\"\/in8SZAA5dG6wW1LBCU10j1J7W8V.jpg\",\"cast_id\":6,\"character\":\"Limbradur (voice)\",\"credit_id\":\"5c243a9a92514167fbc62bf9\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1925687,\"known_for_department\":\"Production\",\"name\":\"Peter Popp\",\"original_name\":\"Peter Popp\",\"popularity\":1.532,\"profile_path\":null,\"credit_id\":\"5c241b639251416805c5cd93\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1925687,\"known_for_department\":\"Production\",\"name\":\"Peter Popp\",\"original_name\":\"Peter Popp\",\"popularity\":1.532,\"profile_path\":null,\"credit_id\":\"5c241b840e0a264ddbf26a0d\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

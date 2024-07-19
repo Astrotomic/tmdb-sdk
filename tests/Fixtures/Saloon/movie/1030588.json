@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1410",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3560",
+        "x-memc": "HIT",
+        "x-memc-key": "3c3bb6ebd2e8e24605f23e7209746603",
+        "x-memc-age": "24616",
+        "x-memc-expires": "3560",
+        "ETag": "W\/\"10b80ac0edda3d8d2b848253769fbc07\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jYNgoa49sND6EW3j75qV7t-xGM6OpdLGus5Zb8_9WF-WuJ6rgZRE6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oZMpjEvO19ILidHNmRn1QTkXgpQ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.miyu.fr\/production\/en\/ghost-cat-anzu-chan\/\",\"id\":1030588,\"imdb_id\":\"tt28036831\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5316\u3051\u732b\u3042\u3093\u305a\u3061\u3083\u3093\",\"overview\":\"Karin, 11 years old, is abandoned by her father at her grandfather's house, the monk of a small town in the Japanese countryside. Her grandfather asks Anzu, his jovial and helpful although rather capricious ghost cat, to look after her. The meeting of their strong characters causes sparks, at least at the beginning\u2026\",\"popularity\":36.599,\"poster_path\":\"\/nPxYNExVI2MfVIAU2ktPqzY11Tu.jpg\",\"production_companies\":[{\"id\":5141,\"logo_path\":\"\/fK2QKfHdSdw42Xx4MiD7KhDufBV.png\",\"name\":\"Shin-Ei Animation\",\"origin_country\":\"JP\"},{\"id\":82153,\"logo_path\":\"\/mNEYX9oxFny6OOyb8083AKPbH8U.png\",\"name\":\"Miyu Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2024-07-19\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Ghost Cat Anzu\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

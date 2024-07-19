@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "919",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 14:21:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7584",
+        "x-memc": "HIT",
+        "x-memc-key": "45ecb1d809e6657edfe929576f947f14",
+        "x-memc-age": "18426",
+        "x-memc-expires": "7584",
+        "ETag": "W\/\"5d8487139c820e31b4e15e6fd2babbed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GgWHYPE5LGeGQQ10wbdvjLVYv9zMLAEdXxsi3GQPeSph8yqwjoUCIw=="
+    },
+    "data": "{\"credit_type\":\"cast\",\"department\":\"Acting\",\"job\":\"Actor\",\"media\":{\"backdrop_path\":\"\/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg\",\"id\":605,\"title\":\"The Matrix Revolutions\",\"original_title\":\"The Matrix Revolutions\",\"overview\":\"The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.\",\"poster_path\":\"\/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg\",\"media_type\":\"movie\",\"adult\":false,\"original_language\":\"en\",\"genre_ids\":[12,28,53,878],\"popularity\":78.168,\"release_date\":\"2003-11-05\",\"video\":false,\"vote_average\":6.726,\"vote_count\":9646,\"character\":\"Neo\"},\"media_type\":\"movie\",\"id\":\"52fe425cc3a36847f80184f5\",\"person\":{\"id\":6384,\"name\":\"Keanu Reeves\",\"original_name\":\"Keanu Reeves\",\"media_type\":\"person\",\"adult\":false,\"popularity\":100.87,\"gender\":2,\"known_for_department\":\"Acting\",\"profile_path\":\"\/4D0PpNI0kmP58hgrwGC3wCjxhnm.jpg\"}}"
+}

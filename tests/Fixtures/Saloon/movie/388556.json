@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1148",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19625",
+        "x-memc": "HIT",
+        "x-memc-key": "d6fe6cecffe36b9aa92b0f636f712f1b",
+        "x-memc-age": "4045",
+        "x-memc-expires": "19625",
+        "ETag": "W\/\"4ef90368f3dd5f90a6a50d7e798f585b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "m1bwc7dngQw5jAPgFrSeMG7MCmLdhPftDf6AZlkunGgcJQAq2LmVeQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aADcSvFTszdYc4Y93TVlNEOqXdb.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":388556,\"imdb_id\":\"tt0103752\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Back in the USSR\",\"overview\":\"A vacationing American and a sultry Russian thief lead police and smugglers on a deadly chase through Moscow.\",\"popularity\":4.93,\"poster_path\":\"\/s49S3DTaeZW3Hr9dQYmnS2uPjst.jpg\",\"production_companies\":[{\"id\":182,\"logo_path\":\"\/1BPbXmwi1DZS1Qp0koK7AuponY6.png\",\"name\":\"JVC\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-02-07\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"Archer Sloan is on vacation in Moscow. He never expected the Russians to be so friendly.\",\"title\":\"Back in the USSR\",\"video\":false,\"vote_average\":3.0,\"vote_count\":3}"
+}

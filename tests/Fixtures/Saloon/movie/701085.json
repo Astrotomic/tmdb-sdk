@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "859",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6366",
+        "x-memc": "HIT",
+        "x-memc-key": "228a9a11791c7e4314c0778b849b3886",
+        "x-memc-age": "22051",
+        "x-memc-expires": "6366",
+        "ETag": "W\/\"1a684c1f27094a82863748ff21b532e1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fyFHYiZZRtrzwo_xUM8GHKTBk9bhp0yoIwwQMAi4u579SVxqu3xasQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":350000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":701085,\"imdb_id\":\"tt1517555\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Masacre Marcial IVX\",\"overview\":\"The young Propoleo watches the killing of his parents and he grows up training martial arts to take his revenge.\",\"popularity\":0.967,\"poster_path\":\"\/yDL6Jd2kl3s5Be5hgXEmeU1mw1N.jpg\",\"production_companies\":[{\"id\":120846,\"logo_path\":null,\"name\":\"Fomento Producciones\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"}],\"release_date\":\"2007-11-30\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Masacre Marcial IVX\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

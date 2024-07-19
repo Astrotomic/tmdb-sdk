@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1152",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12168",
+        "x-memc": "HIT",
+        "x-memc-key": "ce7e3c828172be3d760508623a0ac099",
+        "x-memc-age": "15186",
+        "x-memc-expires": "12168",
+        "ETag": "W\/\"87e19869dbe46b9b41bdfbcf4e4b19fd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kTduIIa02dLynuP9fdfqgfDv2WJPg_yyU2rBX27ZwRdRO9tMyR5g3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eMgflonfRY89Zj4LZykJKPpG4wg.jpg\",\"belongs_to_collection\":null,\"budget\":800000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":596,\"imdb_id\":\"tt0032551\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Grapes of Wrath\",\"overview\":\"Tom Joad returns to his home after a jail sentence to find his family kicked out of their farm due to foreclosure. He catches up with them on his Uncle\u2019s farm, and joins them the next day as they head for California and a new life... Hopefully.\",\"popularity\":20.704,\"poster_path\":\"\/eUcxMVBIA0Jg8l1RGUqycrc3eIQ.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-03-15\",\"revenue\":1591000,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Joads step right out of the pages of the novel that has shocked millions!\",\"title\":\"The Grapes of Wrath\",\"video\":false,\"vote_average\":7.855,\"vote_count\":940}"
+}

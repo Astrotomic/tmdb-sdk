@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1489",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8774",
+        "x-memc": "HIT",
+        "x-memc-key": "11b640ce96cd0ca128fcf262b200f7ef",
+        "x-memc-age": "19784",
+        "x-memc-expires": "8774",
+        "ETag": "W\/\"4abfb20f98eaa4cc31a45e6c144792cd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NG5eiQoazwCEvaVX21D3Xd8Yde8NCbnLlav0aZeqnPKvK-TfWUC15w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uiLhtMHXek72SEfbztG05pTNcc0.jpg\",\"belongs_to_collection\":{\"id\":938550,\"name\":\"Treasure Island (Disney) Collection\",\"poster_path\":\"\/gEWRuC7Tf6bWPpFMFvyUo4O0BPa.jpg\",\"backdrop_path\":\"\/lLiwahq3QMuiHb2sPUDIislxYsL.jpg\"},\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":6646,\"imdb_id\":\"tt0043067\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Treasure Island\",\"overview\":\"Enchanted by the idea of locating treasure buried by Captain Flint, Squire Trelawney, Dr. Livesey and Jim Hawkins charter a sailing voyage to a Caribbean island. Unfortunately, a large number of Flint's old pirate crew are aboard the ship, including Long John Silver.\",\"popularity\":17.848,\"poster_path\":\"\/zPzBsQZ2EhSmO9FLvQQtWVkJqRu.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1950-07-19\",\"revenue\":4419657,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"PIRATE'S PLUNDER a young cabin boy, a roguish buccaneer... match wits in a swashbuckling adventure!\",\"title\":\"Treasure Island\",\"video\":false,\"vote_average\":6.562,\"vote_count\":193}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1092",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21565",
+        "x-memc": "HIT",
+        "x-memc-key": "3765e679689c9cb515d09bbe6bfd3901",
+        "x-memc-age": "3803",
+        "x-memc-expires": "21565",
+        "ETag": "W\/\"18c22aeb5071ae5e489101c0e5b13a26\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NwlFpi4LfbUXalKiMOPicpNDNJeKGAQqBmNSTJcpTDffFf9rgPcFQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/67gWTyxYgBrMBWSpkbxsrH2wuMb.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":240628,\"imdb_id\":\"tt0236843\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Viento negro\",\"overview\":\"The building of a railroad under tough conditions from searing heat to freezing cold in the Sonora desert provokes clashes of passion and struggles between the engineers and the workers at the campsite. The workers also contend with sudden dust storms that are called the 'black wind'. Based on true events.\",\"popularity\":8.412,\"poster_path\":\"\/ylIoJklUNEGHEjpqSnb0q9vFP8.jpg\",\"production_companies\":[{\"id\":18526,\"logo_path\":null,\"name\":\"Producciones Yanco\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1965-12-23\",\"revenue\":0,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Black Wind\",\"video\":false,\"vote_average\":7.8,\"vote_count\":20}"
+}

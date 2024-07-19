@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1485",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22977",
+        "x-memc": "HIT",
+        "x-memc-key": "6252d7a9ef5844ee2a810d0fee35cc05",
+        "x-memc-age": "3548",
+        "x-memc-expires": "22977",
+        "ETag": "W\/\"d34295f27e0ed2b98f37c346f8c10196\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_uU_5n2SnHyOq760NHQuIEFB4UjvkxquyvnasYCRzxLslpj7LTBZrg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":726302,\"imdb_id\":\"tt8668670\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30e9\u30a4\u30ba \u30c0\u30eb\u30e9\u30a4\u30b6\u30fc\",\"overview\":\"When his wife becomes pregnant, Akihiro gives up on his dream to become an actor and returns to his home in Shirakawa, Fukushima. However, as time goes by, he begins to lose sight of himself. One day, Akihiro learns about a local character contest and decides to enter it, modelling his costume on Shirakawa's traditional Daruma doll, he creates 'Dharuriser'. This soon leads Akihiro to encounter 'Dice', a mysterious group that seeks to shape the city of Shirakawa into their own utopia. Though both Dice and Akihiro wish to revitalize Shirakawa, their different ideas come into conflict and lead them into battle. Dharuriser, a man with no lethal abilities or superpowers who will always rise up even if he is defeated or collapses. A man who questions what a true hero is.\",\"popularity\":1.466,\"poster_path\":\"\/w7Gw6rRfNLpo31PxDVS5Qox6aL4.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2017-07-29\",\"revenue\":0,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Rise - Dharuriser\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

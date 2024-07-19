@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1529",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23376",
+        "x-memc": "HIT",
+        "x-memc-key": "c0b851f255427bd6ffb4297b636e3ef9",
+        "x-memc-age": "1886",
+        "x-memc-expires": "23376",
+        "ETag": "W\/\"945533df70577f42da7f6d025b6b0c1c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ctEaqKf8K3Ax-xeEFm-IpoYJjIQA7X6-mUznt4sdHlGTJ0SKpT0XQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg\",\"belongs_to_collection\":{\"id\":726871,\"name\":\"Dune Collection\",\"poster_path\":\"\/c1AiZTXyyzmPOlTLSubp7CEeYj.jpg\",\"backdrop_path\":\"\/ygVSGv86R0BTOKJIb8RQ1sFxs4q.jpg\"},\"budget\":165000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.dunemovie.com\/\",\"id\":438631,\"imdb_id\":\"tt1160419\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dune\",\"overview\":\"Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.\",\"popularity\":179.926,\"poster_path\":\"\/d5NXSklXo0qyIYkgV94XAgMIckC.jpg\",\"production_companies\":[{\"id\":923,\"logo_path\":\"\/8M99Dkt23MjQMTTWukq4m5XsEuo.png\",\"name\":\"Legendary Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-09-15\",\"revenue\":407573628,\"runtime\":155,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It begins.\",\"title\":\"Dune\",\"video\":false,\"vote_average\":7.785,\"vote_count\":12112}"
+}

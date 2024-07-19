@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1304",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2492",
+        "x-memc": "HIT",
+        "x-memc-key": "ca4b36035329d03aa66f66b848ddad9f",
+        "x-memc-age": "21905",
+        "x-memc-expires": "2492",
+        "ETag": "W\/\"eb58c1f23e534fd9e4ac7d8f78dd2777\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qLS3W5Ejnve72HDf2yOEtfOw4A8nk7jS7mUAhKGYZnmU4SmWiItdtA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nxxCPRGTzxUH8SFMrIsvMmdxHti.jpg\",\"belongs_to_collection\":null,\"budget\":110000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.if.movie\",\"id\":639720,\"imdb_id\":\"tt11152168\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"IF\",\"overview\":\"A young girl who goes through a difficult experience begins to see everyone's imaginary friends who have been left behind as their real-life friends have grown up.\",\"popularity\":435.118,\"poster_path\":\"\/xbKFv4KF3sVYuWKllLlwWDmuZP7.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":29312,\"logo_path\":\"\/v6aLhoAviWYkfOksBJTd9XbO0YH.png\",\"name\":\"Sunday Night Productions\",\"origin_country\":\"US\"},{\"id\":104228,\"logo_path\":\"\/hx0C1XcSxGgat8N62GpxoJGTkCk.png\",\"name\":\"Maximum Effort\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-08\",\"revenue\":184520784,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A story you have to believe to see.\",\"title\":\"IF\",\"video\":false,\"vote_average\":7.372,\"vote_count\":650}"
+}

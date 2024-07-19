@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1147",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1562",
+        "x-memc": "HIT",
+        "x-memc-key": "6a52b171490b393aa05bf340f7901867",
+        "x-memc-age": "21359",
+        "x-memc-expires": "1562",
+        "ETag": "W\/\"756e3ed721d2644eba5151603b665356\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VqtAIgvwyxNpWbMDN7qQ_wXCsa2YlEnI0iQpjO3kC3VwRlQV0RgLoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/me5RPIQEtv0qpjlKQlb1SLijVVU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":12416,\"imdb_id\":\"tt0478394\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Vikaren\",\"overview\":\"6th Grade gets a new substitute teacher. She wants to train the class for an international competition in Paris. But something isn't right. How is she able read kids' minds? Why is she so mean? And how does she manage to convince everyone's parents she is so great when the whole class knows she is really an alien?\",\"popularity\":17.381,\"poster_path\":\"\/zHApRXaV1NckNtZh6PnKChie2l1.jpg\",\"production_companies\":[{\"id\":2105,\"logo_path\":\"\/48jOgfdOkjNXwHPhbtpHj1H8kRt.png\",\"name\":\"Thura Film\",\"origin_country\":\"DK\"}],\"production_countries\":[{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"2007-03-13\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Substitute\",\"video\":false,\"vote_average\":5.555,\"vote_count\":64}"
+}

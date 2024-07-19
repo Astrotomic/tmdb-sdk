@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1955",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14994",
+        "x-memc": "HIT",
+        "x-memc-key": "f27db31cbcc44aadba0ac4c0486118a0",
+        "x-memc-age": "9769",
+        "x-memc-expires": "14994",
+        "ETag": "W\/\"7781fce1a6786742a5d3dd405835837d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FLrKMPpi8-MsyP6ZhwPePzwBXz3Hi9zqoZ1nSZ0-YIFvuQ_OjHfkxA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qsm0PCPoEIFLW9vrwIWtTVDxRxV.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":892,\"imdb_id\":\"tt0101700\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Delicatessen\",\"overview\":\"In a post-apocalyptic world, the residents of an apartment above the butcher shop receive an occasional delicacy of meat, something that is in low supply. A young man new in town falls in love with the butcher's daughter, which causes conflicts in her family, who need the young man for other business-related purposes.\",\"popularity\":19.028,\"poster_path\":\"\/gNtOgQHxE5B8e08zuNRAdDpmK5Z.jpg\",\"production_companies\":[{\"id\":25020,\"logo_path\":null,\"name\":\"Victoires Productions\",\"origin_country\":\"\"},{\"id\":25021,\"logo_path\":null,\"name\":\"Constellation\",\"origin_country\":\"\"},{\"id\":582,\"logo_path\":\"\/bEORFnCh6xQ3oQuY6yX6mRRCLvW.png\",\"name\":\"Hachette Premi\u00e8re\",\"origin_country\":\"FR\"},{\"id\":14755,\"logo_path\":null,\"name\":\"Sofinergie Films\",\"origin_country\":\"\"},{\"id\":25023,\"logo_path\":null,\"name\":\"Sofinergie 2\",\"origin_country\":\"\"},{\"id\":25024,\"logo_path\":null,\"name\":\"Investimage 2\",\"origin_country\":\"\"},{\"id\":23677,\"logo_path\":\"\/hmZNsmDBAaFAYtPr921IDTKi0aR.png\",\"name\":\"Fondation GAN pour le Cin\u00e9ma\",\"origin_country\":\"FR\"},{\"id\":7248,\"logo_path\":null,\"name\":\"UGC Films\",\"origin_country\":\"FR\"},{\"id\":14941,\"logo_path\":null,\"name\":\"Constellation Entertainment\",\"origin_country\":\"\"},{\"id\":809,\"logo_path\":null,\"name\":\"Union G\u00e9n\u00e9rale Cin\u00e9matographique\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1991-04-17\",\"revenue\":1794187,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"A futuristic comic feast.\",\"title\":\"Delicatessen\",\"video\":false,\"vote_average\":7.32,\"vote_count\":1393}"
+}

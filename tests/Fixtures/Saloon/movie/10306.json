@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1392",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18936",
+        "x-memc": "HIT",
+        "x-memc-key": "8f7cf785fec4df8369431072bada63d0",
+        "x-memc-age": "4280",
+        "x-memc-expires": "18936",
+        "ETag": "W\/\"62464a2b8ae309fae742368dc3b01dca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "g-FpIO4bMIngt6ZIDaUuGuBljGWx54HIadwk1lhjDaPioUVIBQ_Sow=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/exQwGehuaGAjqVwSoVfAA8sybna.jpg\",\"belongs_to_collection\":{\"id\":10453,\"name\":\"Poltergeist Collection\",\"poster_path\":\"\/5KRPLR2StT2nemK4LhDOEppw4G.jpg\",\"backdrop_path\":\"\/i8QZZV1olny9FCPNrxAL7Kk9CJy.jpg\"},\"budget\":10500000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":10306,\"imdb_id\":\"tt0095889\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Poltergeist III\",\"overview\":\"Carol Anne has been sent to live with her Aunt and Uncle in an effort to hide her from the clutches of the ghostly Reverend Kane, but he tracks her down and terrorises her in her relatives' appartment in a tall glass building. Will he finally achieve his target and capture Carol Anne again, or will Tangina be able, yet again, to thwart him?\",\"popularity\":36.824,\"poster_path\":\"\/pLewUibOJLGISvMqB94mAMdjz2q.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-06-10\",\"revenue\":14144000,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"No matter where Carol Ann goes...she never goes alone.\",\"title\":\"Poltergeist III\",\"video\":false,\"vote_average\":5.215,\"vote_count\":461}"
+}

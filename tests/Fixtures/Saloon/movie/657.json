@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1776",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10656",
+        "x-memc": "HIT",
+        "x-memc-key": "381318356b114ff292e4e41747eff2ec",
+        "x-memc-age": "17706",
+        "x-memc-expires": "10656",
+        "ETag": "W\/\"39439f355cd9a84f3be83b85dde10d9a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WWwUB2JW6n1WTcenewIMGV5aapVoKqNEEMkQuUH3mhGWuKwJdsHLpg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8uNjWHsSW3TSOWDU4EY76H5MzAG.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":2500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/from-russia-with-love\",\"id\":657,\"imdb_id\":\"tt0057076\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"From Russia with Love\",\"overview\":\"Agent 007 is back in the second installment of the James Bond series, this time battling a secret crime organization known as SPECTRE. Russians Rosa Klebb and Kronsteen are out to snatch a decoding device known as the Lektor, using the ravishing Tatiana to lure Bond into helping them. Bond willingly travels to meet Tatiana in Istanbul, where he must rely on his wits to escape with his life in a series of deadly encounters with the enemy.\",\"popularity\":84.79,\"poster_path\":\"\/zx4V17FP8oclNvOpTgs2iCCtiYk.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1963-10-10\",\"revenue\":78900000,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"},{\"english_name\":\"Romanian\",\"iso_639_1\":\"ro\",\"name\":\"Rom\u00e2n\u0103\"}],\"status\":\"Released\",\"tagline\":\"The world's masters of murder pull out all the stops to destroy Agent 007!\",\"title\":\"From Russia with Love\",\"video\":false,\"vote_average\":7.071,\"vote_count\":2880}"
+}

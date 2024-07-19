@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1238",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1139",
+        "x-memc": "HIT",
+        "x-memc-key": "08c05775d8d499174977fe6564b0c855",
+        "x-memc-age": "23541",
+        "x-memc-expires": "1139",
+        "ETag": "W\/\"e77bede63f201514ab153fa3e28e36fa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5U6lHht4TILOM7OvGqEfrCu6EMTSLwJ8SUQRYQbPdLrPcJkAHeTyUA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/62WHUNJ1yEFf5BTXcsS61sE4cD6.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":10854,\"imdb_id\":\"tt0470000\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wicked Little Things\",\"overview\":\"Karen, Sarah, and Emma Tunney are all moving to a small town in Pennsylvania where, unknown to them, in 1913, a horrid mine accident trapped dozens of children alive, underground. But there's a problem. They're still alive.\",\"popularity\":16.322,\"poster_path\":\"\/wXymWZpjkeHUIi0G2YZYdcO1OH0.jpg\",\"production_companies\":[{\"id\":3608,\"logo_path\":null,\"name\":\"After Dark Films\",\"origin_country\":\"US\"},{\"id\":1020,\"logo_path\":\"\/kuUIHNwMec4dwOLghDhhZJzHZTd.png\",\"name\":\"Millennium Media\",\"origin_country\":\"US\"},{\"id\":2876,\"logo_path\":null,\"name\":\"Sandstorm Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-11-17\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Prey for Them\",\"title\":\"Wicked Little Things\",\"video\":false,\"vote_average\":5.718,\"vote_count\":248}"
+}

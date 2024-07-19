@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "735",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2098",
+        "x-memc": "HIT",
+        "x-memc-key": "3bf566e2167da377b60cc7048ddfa826",
+        "x-memc-age": "21627",
+        "x-memc-expires": "2098",
+        "ETag": "W\/\"d9b80a8a5b4d9352bb15bd69510a523d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BcgZLZQ4McHxf_YM-njw1XwoX8jXLJVkQbVTE30ny8n_rjwqwzVaTA=="
+    },
+    "data": "{\"id\":1031165,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1031165-merry-textmas\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

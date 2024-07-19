@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1042",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12421",
+        "x-memc": "HIT",
+        "x-memc-key": "7338813570e81a81b47fe3649d392ba0",
+        "x-memc-age": "12478",
+        "x-memc-expires": "12421",
+        "ETag": "W\/\"9fad7d2f5a6345a59032cf935eabb828\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cU76cXjqnye9Mp66qaAdZQsIIjvmO-3OskRVQiiB34EuyDQG6Kn1KA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":222540,\"imdb_id\":\"tt0076557\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Porco mondo\",\"overview\":\"Senator Alberici tries to approach the secretariat of his party with a campaign against immorality. In reality the politician is a pervert with homosexual tendencies that he expresses with men and women.\",\"popularity\":2.307,\"poster_path\":\"\/5it9BFjnzTDfGoyosH6zVBOio5B.jpg\",\"production_companies\":[{\"id\":66692,\"logo_path\":null,\"name\":\"Apotheosis Cinematografica\",\"origin_country\":\"\"},{\"id\":9232,\"logo_path\":null,\"name\":\"Tecisa Film\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"1978-08-08\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dirty World\",\"video\":false,\"vote_average\":4.5,\"vote_count\":6}"
+}

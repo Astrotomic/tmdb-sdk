@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1390",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4867",
+        "x-memc": "HIT",
+        "x-memc-key": "db33331f2c4e79f1a0dbdf24f844c80a",
+        "x-memc-age": "22835",
+        "x-memc-expires": "4867",
+        "ETag": "W\/\"4402684586b97909995d64c0d03867a6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "utcS-0pWJNHwSSGaMWr3g4nobMUWCEckj6B0noyw0oGzo_OF_0wdmA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aZ8dBIvpDFp9cp23MfBiY5mWfuy.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.nightswim.movie\",\"id\":1072342,\"imdb_id\":\"tt9682428\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Night Swim\",\"overview\":\"Forced into early retirement by a degenerative illness, former baseball player Ray Waller moves into a new house with his wife and two children. He hopes that the backyard swimming pool will be fun for the kids and provide physical therapy for himself. However, a dark secret from the home's past soon unleashes a malevolent force that drags the family into the depths of inescapable terror.\",\"popularity\":72.149,\"poster_path\":\"\/gSkfBGdxdialBMM7P02V4hcI6Ij.jpg\",\"production_companies\":[{\"id\":76907,\"logo_path\":\"\/ygMQtjsKX7BZkCQhQZY82lgnCUO.png\",\"name\":\"Atomic Monster\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-01-03\",\"revenue\":54075969,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everything you fear is under the surface.\",\"title\":\"Night Swim\",\"video\":false,\"vote_average\":5.643,\"vote_count\":469}"
+}

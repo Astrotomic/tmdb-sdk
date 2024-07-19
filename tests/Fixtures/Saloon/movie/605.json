@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1541",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18130",
+        "x-memc": "HIT",
+        "x-memc-key": "682d7d2a9ca00b9e20737856e18729f4",
+        "x-memc-age": "9691",
+        "x-memc-expires": "18130",
+        "ETag": "W\/\"526e0616eb5263131e7d272db8a10741\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hC5wx1drffnweDy959bBqaNlUNgoj_-BFnJick8as4dHiZCXAZ6WKw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/533xAMhhVyjTy8hwMUFEt5TuDfR.jpg\",\"belongs_to_collection\":{\"id\":2344,\"name\":\"The Matrix Collection\",\"poster_path\":\"\/bV9qTVHTVf0gkW0j7p7M0ILD4pG.jpg\",\"backdrop_path\":\"\/bRm2DEgUiYciDw3myHuYFInD7la.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":605,\"imdb_id\":\"tt0242653\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Matrix Revolutions\",\"overview\":\"The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.\",\"popularity\":67.976,\"poster_path\":\"\/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg\",\"production_companies\":[{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":172,\"logo_path\":null,\"name\":\"NPV Entertainment\",\"origin_country\":\"US\"},{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-11-05\",\"revenue\":424988211,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Everything that has a beginning has an end.\",\"title\":\"The Matrix Revolutions\",\"video\":false,\"vote_average\":6.726,\"vote_count\":9647}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1399",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19984",
+        "x-memc": "HIT",
+        "x-memc-key": "8b3821434c270cc9d34df42ef2e31e45",
+        "x-memc-age": "4069",
+        "x-memc-expires": "19984",
+        "ETag": "W\/\"0468c1e3b571cd0ed66ac1b530957b34\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jy-mRuhW2ocQU8Wa05UTO5XYGCwp52qvAzlV4FI8Dz4WkhNwEeNKTA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1Q1tAM49hoT3Hsj2kpx8O34kG01.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/sinbad-themovie.com\/main.html\",\"id\":14411,\"imdb_id\":\"tt0165982\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sinbad: Legend of the Seven Seas\",\"overview\":\"The sailor of legend is framed by the goddess Eris for the theft of the Book of Peace, and must travel to her realm at the end of the world to retrieve it and save the life of his childhood friend Prince Proteus.\",\"popularity\":60.115,\"poster_path\":\"\/mtkPe9AMiXloYPCsldSbxKuXXWJ.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":7,\"logo_path\":\"\/1kqoutvio9eDaQpp0l4gQoEF4Yf.png\",\"name\":\"DreamWorks Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-07-02\",\"revenue\":80767884,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"From the Studio that Brought you Shrek\",\"title\":\"Sinbad: Legend of the Seven Seas\",\"video\":false,\"vote_average\":6.973,\"vote_count\":1987}"
+}

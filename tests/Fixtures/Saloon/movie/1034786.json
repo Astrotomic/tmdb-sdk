@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "693",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18848",
+        "x-memc": "HIT",
+        "x-memc-key": "51194150c44fa4907cc13d66e6debde9",
+        "x-memc-age": "4217",
+        "x-memc-expires": "18848",
+        "ETag": "W\/\"8157c9e09d17d79d7945bbbe4dd6e42e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jBg8JrIZMxfQoViCelAD0gop3_SxJAS5vX6ZApcgVSKpccZph3HpWQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1034786,\"imdb_id\":\"tt14920650\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Contratiempo\",\"overview\":\"\",\"popularity\":2.414,\"poster_path\":\"\/lyw2ncpHsUxO3jN4eczfgN1rITG.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Contratiempo\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

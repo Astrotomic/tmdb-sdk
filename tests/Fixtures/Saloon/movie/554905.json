@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "906",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:28 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10502",
+        "x-memc": "HIT",
+        "x-memc-key": "920a214973035f9e241a933132b38d75",
+        "x-memc-age": "13783",
+        "x-memc-expires": "10502",
+        "ETag": "W\/\"2ba32f26081da7b7f47cc82695dba457\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_PSfBaDqR2crpPVikBf3dRFA6vuh85amr3GadUypmOfzRbwRTthi0A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sjmCjKGKImWNRxQ5p5YnDWdI4VH.jpg\",\"belongs_to_collection\":null,\"budget\":8000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/fiveminutesfilm.tumblr.com\/\",\"id\":554905,\"imdb_id\":\"tt6662050\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Five Minutes\",\"overview\":\"A progressive elementary school's \\\"parenting class\\\" takes an unexpected dramatic turn.\",\"popularity\":2.088,\"poster_path\":\"\/wB4IkXUP8TVxLpHpTw0CSCeUYmG.jpg\",\"production_companies\":[{\"id\":20443,\"logo_path\":null,\"name\":\"Section 5\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-01-18\",\"revenue\":0,\"runtime\":10,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Listen hard.\",\"title\":\"Five Minutes\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1689",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15881",
+        "x-memc": "HIT",
+        "x-memc-key": "03d5073119c296bfa710ace15f7ee4df",
+        "x-memc-age": "12711",
+        "x-memc-expires": "15881",
+        "ETag": "W\/\"2ababe899d2030edeef434761d35f24d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LK1io0IfqSYYRNUr2pclaczsdqw26EUI8mG56sYq3qXZmVU-D6_3Ag=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/orpnKsu7t1CLDNYgzevgsz67xRq.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/thestar\",\"id\":355547,\"imdb_id\":\"tt4587656\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Star\",\"overview\":\"A small but brave donkey and his animal friends become the unsung heroes of the greatest story ever told: the first Christmas.\",\"popularity\":19.335,\"poster_path\":\"\/xJgtHL8Iecp5Ot1oBkMdBl32yPh.jpg\",\"production_companies\":[{\"id\":61377,\"logo_path\":\"\/6IQmmSszsXcxbew25Dgvu3cvmRd.png\",\"name\":\"Franklin Entertainment\",\"origin_country\":\"US\"},{\"id\":2251,\"logo_path\":\"\/5ilV5mH3gxTEU7p5wjxptHvXkyr.png\",\"name\":\"Sony Pictures Animation\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":6254,\"logo_path\":\"\/dHfP8fUyykmTsMXbtXO0kSsYz5E.png\",\"name\":\"The Jim Henson Company\",\"origin_country\":\"US\"},{\"id\":10221,\"logo_path\":\"\/99VfWRgKasZoyK9UVB39gnYvFrZ.png\",\"name\":\"Walden Media\",\"origin_country\":\"US\"},{\"id\":10156,\"logo_path\":\"\/bWjWWQfiyZh9AkGYCkx1NcVdSvn.png\",\"name\":\"Affirm Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-11-15\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It takes many tails to tell the greatest story ever.\",\"title\":\"The Star\",\"video\":false,\"vote_average\":6.315,\"vote_count\":525}"
+}

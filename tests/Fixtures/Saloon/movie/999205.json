@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1686",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16721",
+        "x-memc": "HIT",
+        "x-memc-key": "29ddae61596935c425debe74616f638b",
+        "x-memc-age": "9199",
+        "x-memc-expires": "16721",
+        "ETag": "W\/\"5544b3c4bedd16a65d1f12b6e694924b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6zWr_QfWlIyErJGNZCX_15Xx0YPfBaeHd9wgFZwkcdtS8cJJ54slEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":999205,\"imdb_id\":\"tt8889818\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Stowaway\",\"overview\":\"A tenacious party girl fights to survive after three thieves commandeer her luxury yacht. Unable to escape and trapped on the yacht at high seas, the prey becomes the hunter as she turns the tables on the intruders and takes matters into her own hands.\",\"popularity\":15.457,\"poster_path\":\"\/8ZfKo5349nEssW0n2wqNf4vPtbZ.jpg\",\"production_companies\":[{\"id\":6626,\"logo_path\":\"\/A1BnMoWjzjOrjzpWimyBQkf84mS.png\",\"name\":\"Voltage Pictures\",\"origin_country\":\"US\"},{\"id\":168295,\"logo_path\":\"\/jy0UTvGugWYsUYJb7ISk5qd0fvo.png\",\"name\":\"Studio507\",\"origin_country\":\"US\"},{\"id\":172495,\"logo_path\":null,\"name\":\"Identical Pictures\",\"origin_country\":\"\"},{\"id\":207211,\"logo_path\":null,\"name\":\"Black Box Management\",\"origin_country\":\"\"},{\"id\":184616,\"logo_path\":null,\"name\":\"New Legend Entertainment\",\"origin_country\":\"\"},{\"id\":168294,\"logo_path\":\"\/hO9hMQIAUvSEVJHBUdtrsXWfoRu.png\",\"name\":\"Volition Media Partners\",\"origin_country\":\"US\"},{\"id\":207212,\"logo_path\":null,\"name\":\"Bakrr MGMT\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"MU\",\"name\":\"Mauritius\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-31\",\"revenue\":30556,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Stowaway\",\"video\":false,\"vote_average\":6.452,\"vote_count\":73}"
+}

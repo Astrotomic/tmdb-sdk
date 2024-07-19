@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1026",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4272",
+        "x-memc": "HIT",
+        "x-memc-key": "4428e6dc35524907686946a9d21de786",
+        "x-memc-age": "18118",
+        "x-memc-expires": "4272",
+        "ETag": "W\/\"9a63c528d2bdec76dc6c9294f633e02b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ECOSJ4RW-VcLvbT5ADLrT0TKPbxeop9JPHjaJ_le_ToyGAP-ETiacQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wkCBmY0kUpJ2r4M5J7xRecit4Ia.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":240712,\"imdb_id\":\"tt0047011\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Gambler from Natchez\",\"overview\":\"A discharged army Captain returns home to New Orleans to take revenge on the men who murdered his father.\",\"popularity\":4.319,\"poster_path\":\"\/8Yg6LhcwUuEdfr2Im1FKmf26fbH.jpg\",\"production_companies\":[{\"id\":13499,\"logo_path\":null,\"name\":\"Panoramic Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1954-08-04\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"BOLD AND BAWDY AS THE MIGHTY MISSISSIPPI! LUSTY AND GUSTY AS ITS FIERY WOMEN! ROUSING AS THE TIMES THAT INSPIRED IT!\",\"title\":\"The Gambler from Natchez\",\"video\":false,\"vote_average\":6.8,\"vote_count\":5}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3868",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:41:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6795",
+        "x-memc": "HIT",
+        "x-memc-key": "7669461142a02da0a0eb62877a999e48",
+        "x-memc-age": "17399",
+        "x-memc-expires": "6795",
+        "ETag": "W\/\"11ae8a36738a7403ac020d451ecf2c51\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "g-AnEeaWqcU8c6nmkt210IiVvEzoImgxBuqjI93WRyLrlYWWQSf1Yg=="
+    },
+    "data": "{\"id\":214673,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":4566,\"known_for_department\":\"Acting\",\"name\":\"Alan Rickman\",\"original_name\":\"Alan Rickman\",\"popularity\":50.817,\"profile_path\":\"\/h1E0DMeP2CUcUZc5sFL2l26WsAJ.jpg\",\"cast_id\":1,\"character\":\"Storyteller\",\"credit_id\":\"52fe4de6c3a368484e203ba7\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1053293,\"known_for_department\":\"Directing\",\"name\":\"Kealan O'Rourke\",\"original_name\":\"Kealan O'Rourke\",\"popularity\":1.028,\"profile_path\":null,\"credit_id\":\"52fe4de6c3a368484e203bb3\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":1053293,\"known_for_department\":\"Directing\",\"name\":\"Kealan O'Rourke\",\"original_name\":\"Kealan O'Rourke\",\"popularity\":1.028,\"profile_path\":null,\"credit_id\":\"52fe4de6c3a368484e203bad\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2467231,\"known_for_department\":\"Production\",\"name\":\"Brian Willis\",\"original_name\":\"Brian Willis\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d348a9117f00a4026ad7\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":939646,\"known_for_department\":\"Sound\",\"name\":\"Niall Byrne\",\"original_name\":\"Niall Byrne\",\"popularity\":2.394,\"profile_path\":\"\/vesViweZ7my0uJl6qcDZ74KCBUC.jpg\",\"credit_id\":\"6248d3a0283ed9009cc0ebbe\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":3490673,\"known_for_department\":\"Visual Effects\",\"name\":\"Andy Byron\",\"original_name\":\"Andy Byron\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d3b46e938a0064f7732e\",\"department\":\"Visual Effects\",\"job\":\"Animation\"},{\"adult\":false,\"gender\":0,\"id\":2447490,\"known_for_department\":\"Visual Effects\",\"name\":\"Dave McEvoy\",\"original_name\":\"Dave McEvoy\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d3bf014325009013322e\",\"department\":\"Visual Effects\",\"job\":\"Animation\"},{\"adult\":false,\"gender\":0,\"id\":1915653,\"known_for_department\":\"Visual Effects\",\"name\":\"Declan Boyle\",\"original_name\":\"Declan Boyle\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d3cc1d3563004e29a2f4\",\"department\":\"Visual Effects\",\"job\":\"Animation\"},{\"adult\":false,\"gender\":0,\"id\":2020056,\"known_for_department\":\"Production\",\"name\":\"Adrian Devane\",\"original_name\":\"Adrian Devane\",\"popularity\":0.199,\"profile_path\":null,\"credit_id\":\"6248d3eea9117f006476bbce\",\"department\":\"Production\",\"job\":\"Production Manager\"},{\"adult\":false,\"gender\":0,\"id\":1915653,\"known_for_department\":\"Visual Effects\",\"name\":\"Declan Boyle\",\"original_name\":\"Declan Boyle\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d3fc74d6c0004fd550a1\",\"department\":\"Art\",\"job\":\"Set Designer\"},{\"adult\":false,\"gender\":0,\"id\":1915653,\"known_for_department\":\"Visual Effects\",\"name\":\"Declan Boyle\",\"original_name\":\"Declan Boyle\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d40915a4a1004e2fef47\",\"department\":\"Art\",\"job\":\"Storyboard Artist\"},{\"adult\":false,\"gender\":0,\"id\":1915653,\"known_for_department\":\"Visual Effects\",\"name\":\"Declan Boyle\",\"original_name\":\"Declan Boyle\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d418cb71b8009f738158\",\"department\":\"Visual Effects\",\"job\":\"Visual Effects\"},{\"adult\":false,\"gender\":0,\"id\":3490673,\"known_for_department\":\"Visual Effects\",\"name\":\"Andy Byron\",\"original_name\":\"Andy Byron\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d4250582240051dd8ef5\",\"department\":\"Visual Effects\",\"job\":\"Visual Effects\"},{\"adult\":false,\"gender\":0,\"id\":1672372,\"known_for_department\":\"Writing\",\"name\":\"Niall Murphy\",\"original_name\":\"Niall Murphy\",\"popularity\":0.029,\"profile_path\":null,\"credit_id\":\"6248d43e84591c006480ddae\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3490679,\"known_for_department\":\"Writing\",\"name\":\"Ray Kane\",\"original_name\":\"Ray Kane\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6248d4484bfa54004f901ef4\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

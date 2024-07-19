@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1276",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24289",
+        "x-memc": "HIT",
+        "x-memc-key": "1eb4f269dbf589b91e2e757244af38e7",
+        "x-memc-age": "832",
+        "x-memc-expires": "24289",
+        "ETag": "W\/\"d24bed2011195cc83a7eba91917542cb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Lj2mBrkKfK8T6Mm20UMI_u7HjsYW3PwUW_Un-2_YnGgh6WfNxnHZNw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oCC3rSccbJV9bxMDRedtqI6pnla.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11030,\"imdb_id\":\"tt0086637\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Zelig\",\"overview\":\"Fictional documentary about the life of human chameleon Leonard Zelig, a man who becomes a celebrity in the 1920s due to his ability to look and act like whoever is around him. Clever editing places Zelig in real newsreel footage of Woodrow Wilson, Babe Ruth, and others.\",\"popularity\":24.814,\"poster_path\":\"\/3NTSeyMXSTOIJjqBqwavMLvrGjy.jpg\",\"production_companies\":[{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1983-07-15\",\"revenue\":11798616,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"You wanted more when it was all over!\",\"title\":\"Zelig\",\"video\":false,\"vote_average\":7.433,\"vote_count\":831}"
+}

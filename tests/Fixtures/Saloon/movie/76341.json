@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1755",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9014",
+        "x-memc": "HIT",
+        "x-memc-key": "03c56c885c080bba029127820d15665c",
+        "x-memc-age": "14250",
+        "x-memc-expires": "9014",
+        "ETag": "W\/\"42e60eceb3327c129175fe74e493d094\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kF0TpQ42DpCLx6JlTy5VUs3GyY453RutvcM31RXkOCA6zjMKzYjX8w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gqrnQA6Xppdl8vIb2eJc58VC1tW.jpg\",\"belongs_to_collection\":{\"id\":8945,\"name\":\"Mad Max Collection\",\"poster_path\":\"\/9U9QmbCDIBhqDShuIxOiS9gjKYz.jpg\",\"backdrop_path\":\"\/fhv3dWOuzeW9eXOSlr8MCHwo24t.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/mad-max-fury-road\",\"id\":76341,\"imdb_id\":\"tt1392190\",\"origin_country\":[\"AU\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Mad Max: Fury Road\",\"overview\":\"An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.\",\"popularity\":263.563,\"poster_path\":\"\/hA2ple9q4qnwxp3hKVNhroipsir.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":28382,\"logo_path\":\"\/xqE1fjLynj3RaZca9chctZQyfzZ.png\",\"name\":\"Kennedy Miller Mitchell\",\"origin_country\":\"AU\"},{\"id\":2537,\"logo_path\":null,\"name\":\"Kennedy Miller Productions\",\"origin_country\":\"AU\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-05-13\",\"revenue\":378858340,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The future belongs to the mad.\",\"title\":\"Mad Max: Fury Road\",\"video\":false,\"vote_average\":7.607,\"vote_count\":22113}"
+}

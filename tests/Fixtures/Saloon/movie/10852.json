@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1080",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15919",
+        "x-memc": "HIT",
+        "x-memc-key": "ddc29e0d5791c64f9c7f504fbc77d160",
+        "x-memc-age": "10608",
+        "x-memc-expires": "15919",
+        "ETag": "W\/\"c3487b96c64b2cb20b2b0db9a927a1cf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Kytb3XzzGVQHhFpJCt_Wu_WZ9Fdi8qTETN_Km8kOCh0E7ytxREyckw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/e6KKQqESZEKvnhe8yVd9xkB436q.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":10852,\"imdb_id\":\"tt0108624\",\"origin_country\":[\"HK\"],\"original_language\":\"cn\",\"original_title\":\"\u501a\u5929\u5c60\u9f8d\u8a18\u4e4b\u9b54\u6559\u6559\u4e3b\",\"overview\":\"A wild and rollicking martial arts fantasy extravaganza that features prized swords and swordsmen, a crazy monk attached to a rolling boulder, serious clan and cult rivalries, and lots of magic and flying.\",\"popularity\":19.642,\"poster_path\":\"\/5ztUBriRYs2Z836oaPyedIlj6Qd.jpg\",\"production_companies\":[{\"id\":44642,\"logo_path\":null,\"name\":\"Win's Movie Production Limited\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1993-12-18\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Kung Fu Cult Master\",\"video\":false,\"vote_average\":6.6,\"vote_count\":69}"
+}

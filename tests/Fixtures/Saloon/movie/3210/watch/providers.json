@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "364",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:04:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26744",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "ee89255fe2dd70942ad3ef6a3236c825",
+        "x-memc-age": "0",
+        "x-memc-expires": "26744",
+        "ETag": "W\/\"e2541efde638b7da2f468e712d597a6f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YGlavuwIolU2Kf0D9M7q37bsDhEAQcDmF6L2_Xi1eVWPAEpfFUukqg=="
+    },
+    "data": "{\"id\":3210,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/3210-the-projected-man\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]}}}"
+}

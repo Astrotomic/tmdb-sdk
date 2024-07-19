@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "868",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24979",
+        "x-memc": "HIT",
+        "x-memc-key": "f812d4d1086983f380879ebc3a17d01c",
+        "x-memc-age": "810",
+        "x-memc-expires": "24979",
+        "ETag": "W\/\"88054aedb10096678d7b42e8f511d39b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Lmoqj9avawRwTKnrngBzyGRH_otZEiY8bgEu2EKAdzgSuFtGagJNVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":228064,\"imdb_id\":\"tt2413338\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Abducted\",\"overview\":\"Jessica and Dave along with three other young couples are kidnapped in Griffith Park by unseen Abductors and must fight to escape certain death only to discover the world will never be the same.\",\"popularity\":5.317,\"poster_path\":\"\/lOuVjocjdC8heZs8JcRjL6WFfXU.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2013-09-03\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Your body. Their experiment.\",\"title\":\"Abducted\",\"video\":false,\"vote_average\":5.2,\"vote_count\":18}"
+}

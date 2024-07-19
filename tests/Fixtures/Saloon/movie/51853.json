@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "946",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21693",
+        "x-memc": "HIT",
+        "x-memc-key": "e929c66772cae32ab5726198efea5fba",
+        "x-memc-age": "6311",
+        "x-memc-expires": "21693",
+        "ETag": "W\/\"2f3e4aee68c10337a9c8e1fdd6f30326\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ss9090uNFBTWNqAGqbrejQ7OMhC9x3Ip8Zcgva0ZRhnGuWe-CXdxvw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qby04XOYw8Y6faosFW3FxZjpAbo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":51853,\"imdb_id\":\"tt1292644\",\"origin_country\":[\"CH\",\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Complices\",\"overview\":\"Two police detectives investigate the murder of a high-end male prostitute, and his relationship with his girlfriend.\",\"popularity\":6.376,\"poster_path\":\"\/2dd7uvQLxzrFet2Svj4geC3tQa6.jpg\",\"production_companies\":[{\"id\":160356,\"logo_path\":null,\"name\":\"SAGA Production\",\"origin_country\":\"CH\"}],\"production_countries\":[{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2009-12-06\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Accomplices\",\"video\":false,\"vote_average\":5.672,\"vote_count\":32}"
+}

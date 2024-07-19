@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "596",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14009",
+        "x-memc": "HIT",
+        "x-memc-key": "63e2d0e3fe148c4d3141cb144f693b96",
+        "x-memc-age": "10750",
+        "x-memc-expires": "14009",
+        "ETag": "W\/\"ea4f0e1dae18c4bf59a366f01c4963f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gaB4G0-_DriAjVTw94KmafezUTZuBLXoF1PuhEKcF4FD5IYrK0DqiQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":891148,\"imdb_id\":\"tt0448319\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"100.000 unter roten Fahnen\",\"overview\":\"\",\"popularity\":2.171,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1929-01-01\",\"revenue\":0,\"runtime\":17,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"100,000 under red flags\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

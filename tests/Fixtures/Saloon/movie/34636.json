@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1760",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15018",
+        "x-memc": "HIT",
+        "x-memc-key": "6184bdc94eacfc48393f3f8ef4abea84",
+        "x-memc-age": "7877",
+        "x-memc-expires": "15018",
+        "ETag": "W\/\"f67bca6bc90dfa6a9861a1a0e3e6363a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qbOvHrUZxiW3a5nI5AaSquZMhHR3fG0FReVyTARD-pVm2f-FbgqgUw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/22328gc644F4pZn30nWPPUo4I93.jpg\",\"belongs_to_collection\":{\"id\":91430,\"name\":\"The Neverending Story Collection\",\"poster_path\":\"\/pJY6hOKfvks9IZ3mGvXvY8zFV5F.jpg\",\"backdrop_path\":\"\/2IqXJIR1i0f6Ngq3A6rjXhQNqFc.jpg\"},\"budget\":32000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":34636,\"imdb_id\":\"tt0100240\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The NeverEnding Story II: The Next Chapter\",\"overview\":\"Once again, Bastian is transported to the world of Fantasia which he recently managed to save from destruction. However, the land is now being destroyed by an evil sorceress, Xayide, so he must join up with Atreyu and face the Emptiness once more.\",\"popularity\":32.015,\"poster_path\":\"\/bRSLCuO2B6owYBtUwGYGqWZCVo6.jpg\",\"production_companies\":[{\"id\":1766,\"logo_path\":null,\"name\":\"Dieter Geissler Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":1704,\"logo_path\":\"\/sb3PuMTgJgpPUY7x634etBAhodu.png\",\"name\":\"Bavaria Film\",\"origin_country\":\"DE\"},{\"id\":1979,\"logo_path\":null,\"name\":\"Cinevox Filmproduktion GmbH\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-10-25\",\"revenue\":16283667,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Begin an all new adventure as a young boy returns to a world of wonder on the wings of his imagination.\",\"title\":\"The NeverEnding Story II: The Next Chapter\",\"video\":false,\"vote_average\":5.8,\"vote_count\":770}"
+}

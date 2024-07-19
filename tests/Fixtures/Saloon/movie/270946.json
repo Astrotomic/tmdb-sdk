@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1319",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24083",
+        "x-memc": "HIT",
+        "x-memc-key": "037f07f6224704d02daa49609e20c500",
+        "x-memc-age": "2411",
+        "x-memc-expires": "24083",
+        "ETag": "W\/\"76564e4da1f1be035bcd0569e8f58485\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AHfeZ-sDiehttt9DpUzHtqU_lKFEgOkOK236jVJx_5w4-KRX8JvhRw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/msnknPOg9dx86b0YozXOFP8PgBI.jpg\",\"belongs_to_collection\":null,\"budget\":132000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.dreamworks.com\/movies\/penguins-of-madagascar\",\"id\":270946,\"imdb_id\":\"tt1911658\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Penguins of Madagascar\",\"overview\":\"Skipper, Kowalski, Rico and Private join forces with undercover organization The North Wind to stop the villainous Dr. Octavius Brine from destroying the world as we know it.\",\"popularity\":117.862,\"poster_path\":\"\/dXbpNrPDZDMEbujFoOxmMNQVMHa.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-11-22\",\"revenue\":373552094,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The movie event that will blow their cover.\",\"title\":\"Penguins of Madagascar\",\"video\":false,\"vote_average\":6.534,\"vote_count\":4050}"
+}

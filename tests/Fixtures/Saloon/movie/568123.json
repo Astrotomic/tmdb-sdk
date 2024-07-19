@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1112",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20148",
+        "x-memc": "HIT",
+        "x-memc-key": "8034f3022ab624dcd8a297b19e8e2932",
+        "x-memc-age": "5328",
+        "x-memc-expires": "20148",
+        "ETag": "W\/\"4a3d77c02d96a1edcd11408e557685e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HD2uHLOQ4PqCmrjXydzC3WHcWog5gQ8GF8rHxSU1b3miUcqJ4UfK7A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aaDz3CFnfs6xMo472C3RbITAOLf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/virusofthedead.wordpress.com\/\",\"id\":568123,\"imdb_id\":\"tt4225092\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Virus of the Dead\",\"overview\":\"What happens when an uncontrollable virus turns the living into the living dead?\",\"popularity\":4.752,\"poster_path\":\"\/vF1nW5aOkSLAFnQlCluwXwTxTXc.jpg\",\"production_companies\":[{\"id\":85070,\"logo_path\":null,\"name\":\"Vestra Pictures\",\"origin_country\":\"\"},{\"id\":112321,\"logo_path\":null,\"name\":\"Lyon Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2018-11-14\",\"revenue\":0,\"runtime\":120,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"You are already infected\",\"title\":\"Virus of the Dead\",\"video\":false,\"vote_average\":5.0,\"vote_count\":6}"
+}

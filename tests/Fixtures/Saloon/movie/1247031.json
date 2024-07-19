@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1115",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22935",
+        "x-memc": "HIT",
+        "x-memc-key": "3f5b7975d3826e54b53334f62e0f9d25",
+        "x-memc-age": "666",
+        "x-memc-expires": "22935",
+        "ETag": "W\/\"d54d7642870f9847a5b9c7c3b56d46c2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gVct7tUC-L-iojlGIRkKeJw_2smXepVi3hGqmeS7lbvHcfSLo8fKVg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sIwhdAN3sqk3oK1fUORqbrG4aEn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.amazon.co.uk\/dp\/B0CYH6P127\",\"id\":1247031,\"imdb_id\":\"tt31392065\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Federer: Twelve Final Days\",\"overview\":\"Originally a home video never intended for public viewing, this film captures the final chapter in Roger Federer's legendary tennis career, featuring Roger, his family, and his three main rivals: Rafael Nadal, Novak Djokovic, and Andy Murray.\",\"popularity\":33.073,\"poster_path\":\"\/A15nvIYUzLEZS65vUQkZMorwNwE.jpg\",\"production_companies\":[{\"id\":229009,\"logo_path\":null,\"name\":\"Lafcadia Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-06-13\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A legend leaves the court.\",\"title\":\"Federer: Twelve Final Days\",\"video\":false,\"vote_average\":7.797,\"vote_count\":32}"
+}

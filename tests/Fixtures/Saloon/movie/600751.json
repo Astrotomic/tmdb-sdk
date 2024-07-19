@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "985",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11127",
+        "x-memc": "HIT",
+        "x-memc-key": "3d7e0175a6d48355294888aaca039b9f",
+        "x-memc-age": "13658",
+        "x-memc-expires": "11127",
+        "ETag": "W\/\"10b02b069b3a58d58dbadc51ff68f6ba\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "390dXEyOhrWjq-Ndn6NuPGE8Zi4dnzZjiVVPBLw1bIgj97nyy2KNcw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5vk4Xe1L1YvRjF4uIgUB4QB7txz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.roomforrentthemovie.com\/\",\"id\":600751,\"imdb_id\":\"tt6747818\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Room for Rent\",\"overview\":\"Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with one of her guests.\",\"popularity\":12.107,\"poster_path\":\"\/eEy7C8k1f4sMulW1Ca9s8EtFAhb.jpg\",\"production_companies\":[{\"id\":5220,\"logo_path\":null,\"name\":\"Pasidg Productions Inc.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-05-03\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She'd kill to find a decent man\",\"title\":\"Room for Rent\",\"video\":false,\"vote_average\":6.373,\"vote_count\":79}"
+}

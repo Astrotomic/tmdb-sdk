@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1612",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9646",
+        "x-memc": "HIT",
+        "x-memc-key": "cf9f5f2e52267e47377eb462e5496bea",
+        "x-memc-age": "12461",
+        "x-memc-expires": "9646",
+        "ETag": "W\/\"1416ce75eb8c00e0cfd1cc96cbd232bf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pw2Hhk90aIHX4OdGXRf9tnRQuU7vEQOYMrj8H4iv9RSLax5oFDL1rg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6NE1VSzzXoJJsSLX87bTfa6WsRN.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":10391,\"imdb_id\":\"tt0163983\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bless the Child\",\"overview\":\"When Maggie's sister Jenna saddles her with an autistic newborn named Cody she touches Maggie's heart and becomes the daughter she has always longed for. But six years later Jenna suddenly re-enters her life and, with her mysterious new husband, Eric Stark, abducts Cody. Despite the fact that Maggie has no legal rights to Cody, FBI agent John Travis takes up her cause when he realizes that Cody shares the same birth date as several other recently murdered children.\",\"popularity\":22.5,\"poster_path\":\"\/s1RGEF8xIA6ecF8W4do8CaWI0yE.jpg\",\"production_companies\":[{\"id\":42221,\"logo_path\":null,\"name\":\"Munich Film Partners \\u0026 Company (MFP) BTC Productions\",\"origin_country\":\"\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":4564,\"logo_path\":null,\"name\":\"Icon Entertainment International\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-08-11\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Mankind's last hope just turned six.\",\"title\":\"Bless the Child\",\"video\":false,\"vote_average\":5.333,\"vote_count\":269}"
+}

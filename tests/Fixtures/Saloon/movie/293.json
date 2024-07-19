@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1335",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13785",
+        "x-memc": "HIT",
+        "x-memc-key": "a7b00adc1611bf1ed30e8101d09e0d91",
+        "x-memc-age": "11034",
+        "x-memc-expires": "13785",
+        "ETag": "W\/\"628db7748f5ef0bfc3ee3dd0f88efb04\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OuVC3eOynGCgKE0Ttq_gRPCTDuEP0qpnxVQxSVzYMZpJfghyyCLAGA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/txuQpoWlGnlaxCTRVBkjqCDjssP.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":293,\"imdb_id\":\"tt0105265\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A River Runs Through It\",\"overview\":\"The Maclean brothers, Paul and Norman, live a relatively idyllic life in rural Montana, spending much of their time fly fishing. The sons of a minister, the boys eventually part company when Norman moves east to attend college, leaving his rebellious brother to find trouble back home. When Norman finally returns, the siblings resume their fishing outings, and assess where they've been and where they're going.\",\"popularity\":27.268,\"poster_path\":\"\/aVP45oS2cBL4WtZ1kB7r8uarruB.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-10-09\",\"revenue\":43440294,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Nothing perfect lasts forever. Except in our memories.\",\"title\":\"A River Runs Through It\",\"video\":false,\"vote_average\":7.042,\"vote_count\":1035}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "995",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10085",
+        "x-memc": "HIT",
+        "x-memc-key": "3a606508d97bce2aacb0b559b241a928",
+        "x-memc-age": "16047",
+        "x-memc-expires": "10085",
+        "ETag": "W\/\"c89dce5da5ba92a753967ad216ed9a5e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_YtAA2vRxcnRiBry3ElbvcfByS63bw19idxhmgWr00BobbzWMjgyAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ohV0m1PXHRtF95W9uwVtcsV5Wia.jpg\",\"belongs_to_collection\":{\"id\":1015722,\"name\":\"Ferrero Cartoon\",\"poster_path\":\"\/4JatzBzXmb4dECiNxaOpRByok9I.jpg\",\"backdrop_path\":\"\/bbfY3pZL2Eexhlq0KOHjpUuVkcb.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":542687,\"imdb_id\":null,\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Gli Animotosi nella terra di Nondove\",\"overview\":\"\",\"popularity\":7.619,\"poster_path\":\"\/n23IREuZ7GDCuujnpRKXdjn3SCR.jpg\",\"production_companies\":[{\"id\":107794,\"logo_path\":\"\/zCmpzRH5lNT6nRR61verny8z8Zg.png\",\"name\":\"Kinder \\u0026 Ferrero Multimedia Production\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2005-09-11\",\"revenue\":0,\"runtime\":38,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Gli Animotosi nella terra di Nondove\",\"video\":false,\"vote_average\":6.8,\"vote_count\":26}"
+}

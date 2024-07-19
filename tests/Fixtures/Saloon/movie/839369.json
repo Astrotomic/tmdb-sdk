@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1285",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4251",
+        "x-memc": "HIT",
+        "x-memc-key": "d6c5174102c584e79e7944dd65ea9ae1",
+        "x-memc-age": "19602",
+        "x-memc-expires": "4251",
+        "ETag": "W\/\"09ba4ac1be780b639fedb24c362da0e3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F7UPNKPJlIdDU4mHRexutRgJ96oYE5FKg8OCkbFHhDsdNQIP-lAXWw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81702955\",\"id\":839369,\"imdb_id\":\"tt13651794\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"May December\",\"overview\":\"Twenty years after their notorious tabloid romance gripped the nation, a married couple buckles under the pressure when an actress arrives to do research for a film about their past.\",\"popularity\":75.308,\"poster_path\":\"\/zhV7B610l7hjlri4ywikJ18ONuq.jpg\",\"production_companies\":[{\"id\":77152,\"logo_path\":\"\/dKwI9lYFR9tHRHnut7P52gIl3Sb.png\",\"name\":\"Gloria Sanchez Productions\",\"origin_country\":\"US\"},{\"id\":1422,\"logo_path\":\"\/rIB6DuimR1qgLE14cBwpMABC2xx.png\",\"name\":\"Killer Films\",\"origin_country\":\"US\"},{\"id\":157532,\"logo_path\":null,\"name\":\"MountainA\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-16\",\"revenue\":4232370,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some roles are transformative.\",\"title\":\"May December\",\"video\":false,\"vote_average\":6.703,\"vote_count\":636}"
+}

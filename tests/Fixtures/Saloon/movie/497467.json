@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1163",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8024",
+        "x-memc": "HIT",
+        "x-memc-key": "6fb2104f814e8ed0ddcef7bb8c14fbf5",
+        "x-memc-age": "19744",
+        "x-memc-expires": "8024",
+        "ETag": "W\/\"edf2393b939f709cf7fdef73868ec8f0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UbMO0KkoFqRYKWr254pJJlklY_L3cV4yVrl7xMZJuytlNPaX4mUawg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6jnokb9eEklqZlmlzNMiaYnmyeK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":497467,\"imdb_id\":\"tt9843368\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c94 Incubate\",\"overview\":\"A special CGI film made-for DVD summarizing the story of the Resident Evil 4 game, excluding a couple of scenes for narrative consistency.  Leon S. Kennedy, now a federal agent, is hired to rescue the president's daughter from a sinister cult.\",\"popularity\":5.696,\"poster_path\":\"\/h3euc85AOK0crcPfobAQramu870.jpg\",\"production_companies\":[{\"id\":7220,\"logo_path\":\"\/dD0x5awPmtx4sAr2pNvkmxkCODh.png\",\"name\":\"Capcom\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2006-09-28\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Biohazard 4: Incubate\",\"video\":true,\"vote_average\":7.4,\"vote_count\":37}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1007",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23321",
+        "x-memc": "HIT",
+        "x-memc-key": "4753cfba9d8d279a8719234bce60ba58",
+        "x-memc-age": "397",
+        "x-memc-expires": "23321",
+        "ETag": "W\/\"2f72f7cc5eebfd2f2d715c5f08968f27\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OmLaTVmMLjqyLl4dNIxHwQX83x6HAV9cA5_URGATIEOyXIrqju6jeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1ASXOaLofUhdqkuhwuVxuj9sinb.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":389261,\"imdb_id\":\"tt2605976\",\"origin_country\":[\"FR\",\"CA\"],\"original_language\":\"fr\",\"original_title\":\"Merci mon chien\",\"overview\":\"Animated short about a dog's role in his family\",\"popularity\":3.386,\"poster_path\":\"\/ncdKCL0oz1KzGItrcr0MOFg6VDc.jpg\",\"production_companies\":[{\"id\":8212,\"logo_path\":\"\/pkWt7XNwx5GssnXmTsXLKNpalaH.png\",\"name\":\"Folimage\",\"origin_country\":\"FR\"},{\"id\":10473,\"logo_path\":\"\/lMUDQZVtg8On4PAW5XFQPaQy6UK.png\",\"name\":\"ONF | NFB\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2013-06-28\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"It's a Dog's Life\",\"video\":false,\"vote_average\":5.9,\"vote_count\":7}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1585",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13657",
+        "x-memc": "HIT",
+        "x-memc-key": "b3687ae224fd707793085ebf240838e1",
+        "x-memc-age": "10169",
+        "x-memc-expires": "13657",
+        "ETag": "W\/\"babefc1fadcb4796d5fa3f153af24cde\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nCu90m28cWqdjdmw9Ai7M6IIvWCuVSlJ0Xk0BbN4867td8IWF08hGA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xznEB3uLBjPpqdrxvqeVYG3i6ow.jpg\",\"belongs_to_collection\":null,\"budget\":1680000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":10971,\"imdb_id\":\"tt0051994\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"A Night to Remember\",\"overview\":\"The sinking of the Titanic is presented in a highly realistic fashion in this tense British drama. The disaster is portrayed largely from the perspective of the ocean liner's second officer, Charles Lightoller. Despite numerous warnings about ice, the ship sails on, with Capt. Edward John Smith keeping it going at a steady clip. When the doomed vessel finally hits an iceberg, the crew and passengers discover that they lack enough lifeboats, and tragedy follows.\",\"popularity\":19.037,\"poster_path\":\"\/6fDhJAz6AuYWj3hAnvUL42Xlxfj.jpg\",\"production_companies\":[{\"id\":364,\"logo_path\":null,\"name\":\"The Rank Organisation\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1958-07-03\",\"revenue\":0,\"runtime\":123,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"The night the unsinkable sank\",\"title\":\"A Night to Remember\",\"video\":false,\"vote_average\":7.6,\"vote_count\":236}"
+}

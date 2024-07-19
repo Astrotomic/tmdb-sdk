@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1725",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23096",
+        "x-memc": "HIT",
+        "x-memc-key": "240a04f1160286fc33569d77fbedd2bc",
+        "x-memc-age": "429",
+        "x-memc-expires": "23096",
+        "ETag": "W\/\"4b2e778cf739381d08a42e0e95bc0dfc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PehPUQoseMPWPBo-QNQVJOo4AJT1d14ttyrO5Q3UrVaFRda0PxC2Zg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r2M9ElkHxEJP7riCFbT5N0uXZTc.jpg\",\"belongs_to_collection\":{\"id\":14740,\"name\":\"Madagascar Collection\",\"poster_path\":\"\/UXIxsUbwMpv4v8xXRdT7LX58z9.jpg\",\"backdrop_path\":\"\/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg\"},\"budget\":150000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.madagascar-themovie.com\",\"id\":10527,\"imdb_id\":\"tt0479952\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Madagascar: Escape 2 Africa\",\"overview\":\"Alex, Marty, and other zoo animals find a way to escape from Madagascar when the penguins reassemble a wrecked airplane. The precariously repaired craft stays airborne just long enough to make it to the African continent. There the New Yorkers encounter members of their own species for the first time. Africa proves to be a wild place, but Alex and company wonder if it is better than their Central Park home.\",\"popularity\":98.142,\"poster_path\":\"\/agRbLOHgN46TQO4YdKR462iR7To.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-10-30\",\"revenue\":603900000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Still together, still lost.\",\"title\":\"Madagascar: Escape 2 Africa\",\"video\":false,\"vote_average\":6.511,\"vote_count\":6735}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1201",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8653",
+        "x-memc": "HIT",
+        "x-memc-key": "d041bdd2a3f257a5b5c014eeadf3a7b9",
+        "x-memc-age": "14044",
+        "x-memc-expires": "8653",
+        "ETag": "W\/\"f7e7b3d20129492dcb065e9eb7b7a755\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3t-O_n35CVpYjM3Gyb-McjB9vK-SyasI_UnW5rcY9EpRTFWW3Aw99A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zCHWazmCt8ljDXGD0ikeCddZ5dE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":6026,\"imdb_id\":\"tt0060094\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Alphabet Murders\",\"overview\":\"The Belgian detective Hercule Poirot investigates a series of murders in London in which the victims are killed according to their initials.\",\"popularity\":8.869,\"poster_path\":\"\/AiBmQsxpMage7Vbs7NgUZT4EkhY.jpg\",\"production_companies\":[{\"id\":5579,\"logo_path\":null,\"name\":\"Metro-Goldwyn-Mayer British Studios\",\"origin_country\":\"GB\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1965-12-26\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's really no mystery why this girl is MURDER... it's as simple as ABC if you look hard enough!\",\"title\":\"The Alphabet Murders\",\"video\":false,\"vote_average\":5.9,\"vote_count\":36}"
+}

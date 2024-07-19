@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1528",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3924",
+        "x-memc": "HIT",
+        "x-memc-key": "03d326b51b53b6d807f7a8936990be7b",
+        "x-memc-age": "18513",
+        "x-memc-expires": "3924",
+        "ETag": "W\/\"731e738e276cc137725d12f2ef1dd856\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lwHMU1mlRrJFf5Q0yvLvKHcLuGCmM8pHgesuhDqdjAVcEPze9EwJ6g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dbztdWPy75hmCQeTylDLSM2smsi.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10995,\"imdb_id\":\"tt0101316\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"L'Amant\",\"overview\":\"A poor French teenage girl engages in an illicit affair with a wealthy Chinese heir in 1920s Saigon. For the first time in her young life she has control, and she wields it deftly over her besotted lover throughout a series of clandestine meetings and torrid encounters.\",\"popularity\":56.65,\"poster_path\":\"\/lgBGy8QaIFD9jQJWgi837czobEp.jpg\",\"production_companies\":[{\"id\":8131,\"logo_path\":null,\"name\":\"Timothy Burrill Productions\",\"origin_country\":\"\"},{\"id\":82,\"logo_path\":null,\"name\":\"Renn Productions\",\"origin_country\":\"FR\"},{\"id\":28807,\"logo_path\":null,\"name\":\"Grai Phang Film Studio\",\"origin_country\":\"\"},{\"id\":875,\"logo_path\":null,\"name\":\"Films A2\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"VN\",\"name\":\"Vietnam\"}],\"release_date\":\"1992-01-22\",\"revenue\":5013090,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She gave her innocence, her passion, her body. The one thing she couldn't give was her love.\",\"title\":\"The Lover\",\"video\":false,\"vote_average\":7.008,\"vote_count\":638}"
+}

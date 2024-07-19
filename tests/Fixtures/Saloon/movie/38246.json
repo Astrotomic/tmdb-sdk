@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1181",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9651",
+        "x-memc": "HIT",
+        "x-memc-key": "63b446b0dc9befa3d600f5c70cf367de",
+        "x-memc-age": "17823",
+        "x-memc-expires": "9651",
+        "ETag": "W\/\"3da98140dd334840a895f9eb5d8d5e68\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1q49u4nDdo-Ftj7NVmw7TKEIngcZ33Jt5YN7yLGzsCk-vB1fYeIW2A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":38246,\"imdb_id\":\"tt0102882\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Servants of Twilight\",\"overview\":\"Based on the novel by Dean R. Koontz, this action packed thriller features Bruce Greenwood as a private detective hired to protect a little boy from a fanatical religious cult that believe he is the antichrist fortold in the book of Revelations.\",\"popularity\":4.423,\"poster_path\":\"\/nd0UMyLza7VnJh2HIvfRLjCZFDM.jpg\",\"production_companies\":[{\"id\":4063,\"logo_path\":\"\/psOuT9ReSYhcBEB5ptnw7D2FdsE.png\",\"name\":\"Trimark Pictures\",\"origin_country\":\"US\"},{\"id\":17996,\"logo_path\":null,\"name\":\"Gibraltar Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-05-01\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Servants of Twilight\",\"video\":false,\"vote_average\":5.316,\"vote_count\":19}"
+}

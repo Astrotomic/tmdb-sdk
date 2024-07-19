@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1620",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11854",
+        "x-memc": "HIT",
+        "x-memc-key": "3af12a2ba772cd993564d388123189cc",
+        "x-memc-age": "15959",
+        "x-memc-expires": "11854",
+        "ETag": "W\/\"21ec3f302dd4acc03c0dd0a03636f429\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nLMuM2WwyJJxS1VwhlGD8N_rqPh_OokUbAm73I7lwGSvN2y1sJA33Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xzdOIL7261CWehsHOk3lnP0xqam.jpg\",\"belongs_to_collection\":null,\"budget\":104000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.dc.com\/bluebeetle\",\"id\":565770,\"imdb_id\":\"tt9362930\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Blue Beetle\",\"overview\":\"Recent college grad Jaime Reyes returns home full of aspirations for his future, only to find that home is not quite as he left it. As he searches to find his purpose in the world, fate intervenes when Jaime unexpectedly finds himself in possession of an ancient relic of alien biotechnology: the Scarab.\",\"popularity\":105.797,\"poster_path\":\"\/mXLOHHc1Zeuwsl4xYKjKh2280oL.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":11565,\"logo_path\":\"\/S74cHHbIrdmb5M51Pft72Uo9Gz.png\",\"name\":\"The Safran Company\",\"origin_country\":\"US\"},{\"id\":128064,\"logo_path\":\"\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png\",\"name\":\"DC Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-08-16\",\"revenue\":130788072,\"runtime\":128,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Jaime Reyes is a superhero whether he likes it or not.\",\"title\":\"Blue Beetle\",\"video\":false,\"vote_average\":6.78,\"vote_count\":2441}"
+}

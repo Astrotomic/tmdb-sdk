@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1231",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26565",
+        "x-memc": "HIT",
+        "x-memc-key": "b4ba2afad7fe7f926323c672816f7607",
+        "x-memc-age": "1817",
+        "x-memc-expires": "26565",
+        "ETag": "W\/\"c8a938c4b561263f6c0cbb4202161a70\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EfZtS7cgBigrVS2LbVLPiXAsXVL27xh_-AyZUt-JDbNF4kx1mCSKjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1nUuszgjv5k0gBPYYm0bIzCpcwE.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6792,\"imdb_id\":\"tt0053941\",\"origin_country\":[\"AT\",\"DE\"],\"original_language\":\"de\",\"original_title\":\"Im wei\u00dfen R\u00f6ssl\",\"overview\":\"Leopold, head waiter at the \\\"Wei\u00dfen R\u00f6ssl\\\" (White Horse Inn), is secretly in love with the owner of the restaurant, Josepha. But she's only interested in the lawyer Dr. Siedler. Jealous, Leopold comes up with a plan to gain Josepha's attention.\",\"popularity\":3.888,\"poster_path\":\"\/osykq2Sgw3odStIESCm6DgkrSeE.jpg\",\"production_companies\":[{\"id\":18324,\"logo_path\":null,\"name\":\"Carlton-Film\",\"origin_country\":\"DE\"},{\"id\":11900,\"logo_path\":null,\"name\":\"Sascha-Film Produktions GmbH (Wien)\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1960-12-20\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"In the White Horse Inn at the Wolfgang lake, happyness is just around the corner!\",\"title\":\"The White Horse Inn\",\"video\":false,\"vote_average\":6.7,\"vote_count\":21}"
+}

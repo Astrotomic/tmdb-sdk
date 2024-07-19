@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1067",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19651",
+        "x-memc": "HIT",
+        "x-memc-key": "dce6bac55550aa248bb82d21112e5de9",
+        "x-memc-age": "5154",
+        "x-memc-expires": "19651",
+        "ETag": "W\/\"49eee24bc1a7e8153ebab0d365e3186e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "856HGYwTc8okZQDbqI0ORojginpicFLrTDU8M_hSr6f-VeAJKDLRRw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hF1uZWrIYKZ8hqifPh6HiWg4cEB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1029815,\"imdb_id\":\"tt20416024\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Zombie Meteor\",\"overview\":\"While working aboard the International Space Station, Spanish astronaut Mar and Russian cosmonaut Petrov have an unexpected encounter in space.\",\"popularity\":9.253,\"poster_path\":\"\/v2UMUAGt8cUH7FdB4EC8rBthuoE.jpg\",\"production_companies\":[{\"id\":54399,\"logo_path\":null,\"name\":\"Paramotion Films\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2022-09-25\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"We were ready for the arrival of a meteorite. Not for this\u2026\",\"title\":\"Zombie Meteor: The Movie\",\"video\":false,\"vote_average\":4.5,\"vote_count\":2}"
+}

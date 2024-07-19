@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1206",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=413",
+        "x-memc": "HIT",
+        "x-memc-key": "204f9332ed75a8bf6a12f2367d3ca564",
+        "x-memc-age": "24424",
+        "x-memc-expires": "413",
+        "ETag": "W\/\"e05db586d6503a5c90d6f911abdae16f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pSD_gdWhWNcpK8CYh6ft-7YduFesH_UiJgA21oPC3YHCZbdXksasfQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/98DlisC8kxK78KeJucy1Z5tGyzd.jpg\",\"belongs_to_collection\":null,\"budget\":200000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/movies.disney.com\/lightyear\",\"id\":718789,\"imdb_id\":\"tt10298810\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lightyear\",\"overview\":\"Legendary Space Ranger Buzz Lightyear embarks on an intergalactic adventure alongside a group of ambitious recruits and his robot companion Sox.\",\"popularity\":58.257,\"poster_path\":\"\/b9t3w1loraDh7hjdWmpc9ZsaYns.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-06-15\",\"revenue\":226400000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Infinity awaits.\",\"title\":\"Lightyear\",\"video\":false,\"vote_average\":7.0,\"vote_count\":3322}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "971",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=688",
+        "x-memc": "HIT",
+        "x-memc-key": "7e62e5724e4c2aa91981dfdb09879332",
+        "x-memc-age": "24477",
+        "x-memc-expires": "688",
+        "ETag": "W\/\"6be5fa0f9e26e96fe1475b484f01bb43\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "S3HEfaWhATaXxiUs0xl548H4GtImrjAfb0qhxQm1aK2LNBJUCTcvCw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6rEquC3i0iH2eY9otMLXc6GP831.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/magnumfilmsglobal.com\/gobrother\",\"id\":543628,\"imdb_id\":\"tt8774260\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u5feb\u628a\u6211\u54e5\u5e26\u8d70\",\"overview\":\"Shi Miao hates her brother Shi Fen. So, she makes a birthday wish: She wants her brother gone. However, she did not expect the wish come true.\",\"popularity\":9.64,\"poster_path\":\"\/13LfNxb54HHSxgvnnLVRm4NKX49.jpg\",\"production_companies\":[{\"id\":78952,\"logo_path\":null,\"name\":\"Wanda Media Co.\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2018-08-17\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Go Brother!\",\"video\":false,\"vote_average\":7.111,\"vote_count\":27}"
+}

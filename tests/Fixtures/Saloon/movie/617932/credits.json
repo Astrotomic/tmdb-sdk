@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "862",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:35:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6415",
+        "x-memc": "HIT",
+        "x-memc-key": "27d9810611e48a54c39ea07215a2df6f",
+        "x-memc-age": "16732",
+        "x-memc-expires": "6415",
+        "ETag": "W\/\"bcb45b75140564fdcaf1b5b5679ca65e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jf0zAmC18dGuKMOflFYR1zh5fDHb4x4XFF5aHiTldUeW1bFe-rRk3g=="
+    },
+    "data": "{\"id\":617932,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":2370012,\"known_for_department\":\"Directing\",\"name\":\"Tina L'Hotsky\",\"original_name\":\"Tina L'Hotsky\",\"popularity\":1.956,\"profile_path\":\"\/3A8xSMLEY5ORh3KGegWFRnzPtrH.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"649d8d4e3e6f2b00ad1758b7\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":1,\"id\":2370012,\"known_for_department\":\"Directing\",\"name\":\"Tina L'Hotsky\",\"original_name\":\"Tina L'Hotsky\",\"popularity\":1.956,\"profile_path\":\"\/3A8xSMLEY5ORh3KGegWFRnzPtrH.jpg\",\"credit_id\":\"5d38156760c51d00128623e3\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":1,\"id\":2370012,\"known_for_department\":\"Directing\",\"name\":\"Tina L'Hotsky\",\"original_name\":\"Tina L'Hotsky\",\"popularity\":1.956,\"profile_path\":\"\/3A8xSMLEY5ORh3KGegWFRnzPtrH.jpg\",\"credit_id\":\"649d8d5e3e6f2b00e2dd5b8f\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

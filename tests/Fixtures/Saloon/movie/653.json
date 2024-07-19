@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1431",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7485",
+        "x-memc": "HIT",
+        "x-memc-key": "78385ee07b5aed8f1fb6b84940e393b4",
+        "x-memc-age": "20668",
+        "x-memc-expires": "7485",
+        "ETag": "W\/\"a94b2e7b747cf8af833e6d4262e4318a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xQAbR3Wx5EV0O97jfe90iM4cBBWwH-B3EFvgan_4Y7nuCpVQPTO9lA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/d0B1WqBsxwk5vGr3nc9TbrkUHcf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/nosferatumovie.com\",\"id\":653,\"imdb_id\":\"tt0013442\",\"origin_country\":[\"DE\",\"GB\"],\"original_language\":\"de\",\"original_title\":\"Nosferatu, eine Symphonie des Grauens\",\"overview\":\"In this highly influential silent horror film, the mysterious Count Orlok (Max Schreck) summons Thomas Hutter (Gustav von Wangenheim) to his remote Transylvanian castle in the mountains. The eerie Orlok seeks to buy a house near Hutter and his wife, Ellen (Greta Schroeder). After Orlok reveals his vampire nature, Hutter struggles to escape the castle, knowing that Ellen is in grave danger. Meanwhile Orlok's servant, Knock (Alexander Granach), prepares for his master to arrive at his new home.\",\"popularity\":35.195,\"poster_path\":\"\/zv7J85D8CC9qYagAEhPM63CIG6j.jpg\",\"production_companies\":[{\"id\":1960,\"logo_path\":null,\"name\":\"Prana-Film GmbH\",\"origin_country\":\"\"},{\"id\":145816,\"logo_path\":null,\"name\":\"Jofa-Atelier Berlin-Johannisthal\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1922-02-16\",\"revenue\":19054,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"A symphony of horror.\",\"title\":\"Nosferatu\",\"video\":false,\"vote_average\":7.7,\"vote_count\":1919}"
+}

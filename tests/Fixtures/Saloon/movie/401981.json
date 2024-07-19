@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1740",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16462",
+        "x-memc": "HIT",
+        "x-memc-key": "c06312ba5c0ee7e82886c3fe4cceccff",
+        "x-memc-age": "8501",
+        "x-memc-expires": "16462",
+        "ETag": "W\/\"db2b8c805b5dd9660b1a263ca1f32e66\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "buZewmUWIw_JWFwARn6vutAcqX97D_ygd2KjFacz8nQkETpde-FLJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sGzuQYSTwJvLBc2PnuSVLHhuFeh.jpg\",\"belongs_to_collection\":null,\"budget\":69000000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/red-sparrow\",\"id\":401981,\"imdb_id\":\"tt2873282\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Red Sparrow\",\"overview\":\"Prima ballerina Dominika Egorova faces a bleak and uncertain future after she suffers an injury that ends her career. She soon turns to Sparrow School, a secret intelligence service that trains exceptional young people to use their minds and bodies as weapons. Dominika emerges as the most dangerous Sparrow after completing the sadistic training process. As she comes to terms with her new abilities, she meets a CIA agent who tries to convince her that he is the only person she can trust.\",\"popularity\":41.037,\"poster_path\":\"\/vLCogyfQGxVLDC1gqUdNAIkc29L.jpg\",\"production_companies\":[{\"id\":7076,\"logo_path\":\"\/8BFxn9NUWSgp0ndih569Gm62xiC.png\",\"name\":\"Chernin Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"},{\"id\":199023,\"logo_path\":null,\"name\":\"Film Rights\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-02-28\",\"revenue\":151572634,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Seduce. Deceive. Repeat.\",\"title\":\"Red Sparrow\",\"video\":false,\"vote_average\":6.5,\"vote_count\":5817}"
+}

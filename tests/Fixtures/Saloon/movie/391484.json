@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1009",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3688",
+        "x-memc": "HIT",
+        "x-memc-key": "350f85c5db72683f74f2afadba52b557",
+        "x-memc-age": "18010",
+        "x-memc-expires": "3688",
+        "ETag": "W\/\"186c41408e81667e95b96ae4b122dedf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sUuk_c5h4Dn3Ah9K_XNF9zxb2P-S8cD0Tx01T6oj7tq0b5jfWkmBvw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2Jx3CwHWsWIH5XLNdFruKJPmPVc.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":391484,\"imdb_id\":\"tt3263096\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Boost\",\"overview\":\"When Jimmy finds a mysterious package in the trunk of his latest boost, he is thrust into a violent underworld of criminals, and a race against the clock to save a little girl's life.\",\"popularity\":5.601,\"poster_path\":\"\/tueGNLDooiyuxKwlemXz2sQJ4Wz.jpg\",\"production_companies\":[{\"id\":86309,\"logo_path\":null,\"name\":\"GF Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-05-12\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everyone has a price.\",\"title\":\"Boost\",\"video\":false,\"vote_average\":4.9,\"vote_count\":18}"
+}

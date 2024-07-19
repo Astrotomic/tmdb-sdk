@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1126",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8880",
+        "x-memc": "HIT",
+        "x-memc-key": "26582f2c1ddd7a55a7c06a5d51701d85",
+        "x-memc-age": "12809",
+        "x-memc-expires": "8880",
+        "ETag": "W\/\"eab9f8bb1e3d4a9aee3de26d1a9b3c2f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mWppjGg9aWcMRxBQjjjle2cbbpcZ8gDjGuW2MTwaGAjD2wMJsJzSGA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/AlYEWpTN09IKc2nxj1eHu4zpfsZ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":3022,\"imdb_id\":\"tt0033553\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dr. Jekyll and Mr. Hyde\",\"overview\":\"Dr. Jekyll believes good and evil exist in everyone and creates a potion that allows his evil side, Mr. Hyde, to come to the fore. He faces horrible consequences when he lets his dark side run amok.\",\"popularity\":20.741,\"poster_path\":\"\/2GDdW84XSX3BYMJ9tmnFkZOGJyB.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-08-12\",\"revenue\":0,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It CHILLS you! Half-MAN! Half-MONSTER!\",\"title\":\"Dr. Jekyll and Mr. Hyde\",\"video\":false,\"vote_average\":6.5,\"vote_count\":158}"
+}

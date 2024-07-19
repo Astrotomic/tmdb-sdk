@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1059",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12679",
+        "x-memc": "HIT",
+        "x-memc-key": "240ae6be8c6f79e6a40cf5fba838ce0d",
+        "x-memc-age": "15309",
+        "x-memc-expires": "12679",
+        "ETag": "W\/\"f8cbdc7b9d6078f8537faf7ff388bf5c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HIVTbD1OdaYxvKPL4Y_0ApiUNMqwrxskcEq4sHtqMeiGJ8tJetAvOA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pxEIEtpWUbinLs4pfsoRfTtHa15.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":34750,\"imdb_id\":\"tt0110948\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Raw Justice\",\"overview\":\"The mayor of a small town hires a bounty hunter to find his daughter's killer, but it turns out to be a very dangerous job.\",\"popularity\":16.124,\"poster_path\":\"\/tijFjcSlOMuvb07NKEgnYi7JOL9.jpg\",\"production_companies\":[{\"id\":5483,\"logo_path\":null,\"name\":\"West Side Studios\",\"origin_country\":\"\"},{\"id\":5484,\"logo_path\":null,\"name\":\"Winters Hollywood Entertainment Holdings Corporation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-08-17\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Kill... or be killed.\",\"title\":\"Raw Justice\",\"video\":false,\"vote_average\":5.111,\"vote_count\":27}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1026",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1792",
+        "x-memc": "HIT",
+        "x-memc-key": "bb95a99e37fa0db8135a3d5cfb55446d",
+        "x-memc-age": "24219",
+        "x-memc-expires": "1792",
+        "ETag": "W\/\"eef0075351ef7f5a91ec32fa0384727c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I93E_w8vvdreGBqpgrHHfIUYKzI6TKRIXJiZumRoDkP1wupXjxgFHA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eiFf7KGC4VK60mVKA5K4KvB39X4.jpg\",\"belongs_to_collection\":null,\"budget\":2420000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":11854,\"imdb_id\":\"tt0172684\",\"origin_country\":[\"IN\"],\"original_language\":\"hi\",\"original_title\":\"\u0915\u0941\u091b \u0915\u0941\u091b \u0939\u094b\u0924\u093e \u0939\u0948\",\"overview\":\"Per her mother's last wish, an 8 year old girl sets out to reunite her father with his college best friend who was in love with him.\",\"popularity\":21.376,\"poster_path\":\"\/5FmtHHDGPofW5Zjns1EM1D8503c.jpg\",\"production_companies\":[{\"id\":19146,\"logo_path\":\"\/5Ff25ornzVNhm5skuAvMAR556NB.png\",\"name\":\"Dharma Productions\",\"origin_country\":\"IN\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"1998-10-16\",\"revenue\":25690000,\"runtime\":185,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"}],\"status\":\"Released\",\"tagline\":\"Love is Friendship.\",\"title\":\"Kuch Kuch Hota Hai\",\"video\":false,\"vote_average\":7.5,\"vote_count\":371}"
+}

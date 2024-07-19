@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1246",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11626",
+        "x-memc": "HIT",
+        "x-memc-key": "15c3ca86781e9dcb4fc84540f5492509",
+        "x-memc-age": "15937",
+        "x-memc-expires": "11626",
+        "ETag": "W\/\"47dc8bd46373f718d829b053353e8fba\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oCspIbIqdPVIyemrd7UD28ZzY7cYZsMK0PAhclckSmtiZxwD5M2JKg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tHl3s4uIB3N1AuVRxVid94YTFZE.jpg\",\"belongs_to_collection\":null,\"budget\":180000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":8208,\"imdb_id\":\"tt0025452\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Man Who Knew Too Much\",\"overview\":\"While vacationing in St. Moritz, a British couple receive a clue to an imminent assassination attempt, only to learn that their daughter has been kidnapped to keep them quiet.\",\"popularity\":13.069,\"poster_path\":\"\/cUOHl4PaAEs1e74mO5AUMgis3xT.jpg\",\"production_companies\":[{\"id\":4978,\"logo_path\":null,\"name\":\"Gaumont-British Picture Corporation\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1934-12-01\",\"revenue\":0,\"runtime\":76,\"spoken_languages\":[{\"english_name\":\"Arabic\",\"iso_639_1\":\"ar\",\"name\":\"\u0627\u0644\u0639\u0631\u0628\u064a\u0629\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Knowledge can be a deadly thing.\",\"title\":\"The Man Who Knew Too Much\",\"video\":false,\"vote_average\":6.446,\"vote_count\":379}"
+}

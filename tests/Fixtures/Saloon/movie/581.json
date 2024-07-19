@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1397",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26746",
+        "x-memc": "HIT",
+        "x-memc-key": "e24d050d9b5066e446dfdabc4b2e4109",
+        "x-memc-age": "1164",
+        "x-memc-expires": "26746",
+        "ETag": "W\/\"9a228511eafc9953a22ad5b3330ae5b6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M-IKVRSwWK5rbruRJwBMJNrUFfXHkEYMCPWkQo4gBV0z3SUa8Cv01w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/44Ntdh1CuV83bkBRq8zOUeS3O0P.jpg\",\"belongs_to_collection\":null,\"budget\":22000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":581,\"imdb_id\":\"tt0099348\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Dances with Wolves\",\"overview\":\"Wounded Civil War soldier John Dunbar tries to commit suicide\u2014and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.\",\"popularity\":61.366,\"poster_path\":\"\/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg\",\"production_companies\":[{\"id\":335,\"logo_path\":null,\"name\":\"Tig Productions\",\"origin_country\":\"US\"},{\"id\":2630,\"logo_path\":null,\"name\":\"Majestic Films International\",\"origin_country\":\"\"},{\"id\":1755,\"logo_path\":\"\/ru4358gY4iA8DDmu3bsZLxOXbhi.png\",\"name\":\"Allied Filmmakers\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-03-30\",\"revenue\":424208848,\"runtime\":181,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Inside everyone is a frontier waiting to be discovered.\",\"title\":\"Dances with Wolves\",\"video\":false,\"vote_average\":7.852,\"vote_count\":4100}"
+}

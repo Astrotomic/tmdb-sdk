@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1427",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18131",
+        "x-memc": "HIT",
+        "x-memc-key": "6e7c8f80c3c40cc9b302e42c7e9a5d39",
+        "x-memc-age": "7940",
+        "x-memc-expires": "18131",
+        "ETag": "W\/\"245b773b576f43ebb3f06c787779ea89\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i2yx5HqrBSAhvDGsQXGIxe-KQf23y-CYw23mbseRLEc3a9oYdEAQXg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a9VOWosINcLNJQb3hNZAqEShVTM.jpg\",\"belongs_to_collection\":null,\"budget\":2000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1378,\"imdb_id\":\"tt0367027\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shortbus\",\"overview\":\"In post-9\/11 New York City, an eclectic group of citizens find their lives entangled, personally, romantically, and sexually, at Shortbus, an underground Brooklyn salon infamous for its blend of art, music, politics, and carnality.\",\"popularity\":27.478,\"poster_path\":\"\/s8QBrWgpZpYrySSyTQ0xbFLPKrS.jpg\",\"production_companies\":[{\"id\":1615,\"logo_path\":\"\/4eBmyaFkD9um04Weu6ybnLWNSVH.png\",\"name\":\"Fortissimo Films\",\"origin_country\":\"NL\"},{\"id\":1616,\"logo_path\":null,\"name\":\"Process Productions\",\"origin_country\":\"\"},{\"id\":1617,\"logo_path\":null,\"name\":\"Q Television\",\"origin_country\":\"\"},{\"id\":4748,\"logo_path\":\"\/bTMeosrSiKaTPmZiTYnSDZlin5d.png\",\"name\":\"Oscilloscope\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-10-04\",\"revenue\":5557564,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Open Your Mind. And Everything Else.\",\"title\":\"Shortbus\",\"video\":false,\"vote_average\":6.322,\"vote_count\":492}"
+}

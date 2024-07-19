@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1231",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11097",
+        "x-memc": "HIT",
+        "x-memc-key": "5923eec3b3e09e7b5df9c6e208f9edca",
+        "x-memc-age": "11667",
+        "x-memc-expires": "11097",
+        "ETag": "W\/\"91e8a9cfaa451bc1d3051050cbb92541\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HSKXasbYsOdXge5BZOClOxJ9Z5MGTFzNXKDfaHu2ODg3aHsu2klFWA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sf3xfJppftP4VF0Ta2sqlT8oe2x.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":24816,\"imdb_id\":\"tt0061715\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Gnome-Mobile\",\"overview\":\"An eccentric millionaire and his grandchildren are embroiled in the plights of some forest gnomes who are searching for the rest of their tribe. While helping them, the millionaire is suspected of being crazy because he's seeing gnomes! He's committed, and the niece and nephew and the gnomes have to find him and free him.\",\"popularity\":10.583,\"poster_path\":\"\/oeugD3jvHaNCaSc6r3NK1EcYvty.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1967-07-19\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Tall Tale About Little People!\",\"title\":\"The Gnome-Mobile\",\"video\":false,\"vote_average\":6.1,\"vote_count\":60}"
+}

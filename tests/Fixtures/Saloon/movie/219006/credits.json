@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1136",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13326",
+        "x-memc": "HIT",
+        "x-memc-key": "7e794a6809fde7625612675be7582229",
+        "x-memc-age": "14151",
+        "x-memc-expires": "13326",
+        "ETag": "W\/\"f4eff3a6c38573f6f26d133cd274f1bb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2j5yhUQNNGGLamEaUJagaXL-peWlZjCjTo6xXz81BO-bechNmtBoDQ=="
+    },
+    "data": "{\"id\":219006,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":149862,\"known_for_department\":\"Acting\",\"name\":\"Choomporn Theppitak\",\"original_name\":\"Choomporn Theppitak\",\"popularity\":7.694,\"profile_path\":\"\/bGSF7aaxkJAiyn4anpTIydkRTVI.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"52fe4e5cc3a368484e21c7e3\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":57273,\"known_for_department\":\"Acting\",\"name\":\"Suchao Pongwilai\",\"original_name\":\"Suchao Pongwilai\",\"popularity\":6.538,\"profile_path\":\"\/rD45Ts2nZ2m8NqTs2CtONDYIthU.jpg\",\"cast_id\":3,\"character\":\"\",\"credit_id\":\"52fe4e5cc3a368484e21c7e7\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1694213,\"known_for_department\":\"Acting\",\"name\":\"Ekkapun Bunluerit\",\"original_name\":\"Ekkapun Bunluerit\",\"popularity\":2.129,\"profile_path\":\"\/yX4W8Slqh8IkBxwkTKrOfJeQuZu.jpg\",\"cast_id\":5,\"character\":\"\",\"credit_id\":\"65dab1001750510187f8fa40\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1203821,\"known_for_department\":\"Directing\",\"name\":\"Yuenyong Khongkraphan\",\"original_name\":\"Yuenyong Khongkraphan\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"52fe4e5cc3a368484e21c7df\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

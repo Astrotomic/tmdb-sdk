@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "898",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16735",
+        "x-memc": "HIT",
+        "x-memc-key": "e993feb68d90a926144b205e8f96af1f",
+        "x-memc-age": "9039",
+        "x-memc-expires": "16735",
+        "ETag": "W\/\"86d654eeb9c58c402cbd141cffa4bf5b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9U7ENffDEwIlb3gL-Dap0_re4r93u85s_QgBbLHZyAL8NT_39GFYCg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":388990,\"imdb_id\":\"tt0047632\",\"origin_country\":[\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Ung man s\u00f6ker s\u00e4llskap\",\"overview\":\"A lonely young man falls in love with a girl he has observed from a distance. One day he stops her on the street and asks if she has lost a piece of jewelry.\",\"popularity\":5.24,\"poster_path\":null,\"production_companies\":[{\"id\":1728,\"logo_path\":\"\/sujSPQqxYIoKfjAyS8OaJ6hLNed.png\",\"name\":\"Sandrews\",\"origin_country\":\"SE\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"}],\"release_date\":\"1954-11-15\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Young Man Seeking Company\",\"video\":false,\"vote_average\":1.0,\"vote_count\":1}"
+}

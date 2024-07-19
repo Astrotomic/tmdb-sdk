@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1472",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14531",
+        "x-memc": "HIT",
+        "x-memc-key": "3fd5ab2ef840d621bb12c60711114a46",
+        "x-memc-age": "11183",
+        "x-memc-expires": "14531",
+        "ETag": "W\/\"21d54d281cc877b52fa45fac402f9560\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "n5T83q6K5uVhOEIYP-dVkt9o3ydwPXjZh0oEooIlh2abPY5fnJ8EoQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z1N17Y5q1EE0IMrBbALyCHBuNE8.jpg\",\"belongs_to_collection\":null,\"budget\":10500000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/lupin-the-movie.jp\/\",\"id\":241868,\"imdb_id\":\"tt0862748\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30eb\u30d1\u30f3\u4e09\u4e16\",\"overview\":\"Interpol Inspector Zenigata begins a world-wide hunt for the infamous thief Lupin The 3rd. But together, they face a powerful enemy and form the Lupin team in response. The Lupin team then faces the challenge of retrieving the \\\"Crimson Heart of Cleopatra\\\" locked away in a fort like safe. The treasure is thought to allow its owner to control the world.\",\"popularity\":14.196,\"poster_path\":\"\/2xgRjTYDVFEVQeRUrsbQQtKA6I5.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":13871,\"logo_path\":\"\/7Ut5a8myNMs7uNvy9yP4FAIIpmv.png\",\"name\":\"Tristone Entertainment\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2014-08-30\",\"revenue\":22300000,\"runtime\":133,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Eyes On The World's Most Beautiful Prize\",\"title\":\"Lupin the 3rd\",\"video\":false,\"vote_average\":6.1,\"vote_count\":90}"
+}

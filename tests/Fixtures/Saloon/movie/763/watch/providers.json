@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "688",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9142",
+        "x-memc": "HIT",
+        "x-memc-key": "ceb72455a98ad7c85d8f1be64505a7f3",
+        "x-memc-age": "17783",
+        "x-memc-expires": "9142",
+        "ETag": "W\/\"82e67cea16df4c6b56eac688b61392cf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fde85e7daa13f95cf6b8f5fa09c62ef6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mdI-oBp92vr1kGSuROUWbca_JanjqiPlYl252y13qYJLKHJA2syeuw=="
+    },
+    "data": "{\"id\":763,\"results\":{\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/763-braindead\/watch?locale=GB\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/763-braindead\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}]}}}"
+}

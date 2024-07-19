@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1125",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15804",
+        "x-memc": "HIT",
+        "x-memc-key": "3ae58b4b36b78f0c0dfe186798772404",
+        "x-memc-age": "12169",
+        "x-memc-expires": "15804",
+        "ETag": "W\/\"7787b26f0bd17dc90a935bf92f90fd3a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "y07hvH4uBpULOCAa9QF6w1CQmEZXZzpPTWO68DD8oNQzG95-UUzGeg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sGCP82WxP2nZFectuNxGrtq2nCx.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":857971,\"imdb_id\":\"tt11646342\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Escape from Area 51\",\"overview\":\"When conspiracy theorists raid the famous military base Area 51, an alien warrior uses a power glitch to escape from captivity which attracts the attention of her arch space rival. Now she must find her way back home.\",\"popularity\":4.164,\"poster_path\":\"\/lupJcoizoSaj9MVjLkquLwMJvz2.jpg\",\"production_companies\":[{\"id\":86530,\"logo_path\":null,\"name\":\"Girls and Corpses\",\"origin_country\":\"\"},{\"id\":96317,\"logo_path\":null,\"name\":\"Cleopatra Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-08-31\",\"revenue\":0,\"runtime\":75,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Escape from Area 51\",\"video\":false,\"vote_average\":2.0,\"vote_count\":4}"
+}

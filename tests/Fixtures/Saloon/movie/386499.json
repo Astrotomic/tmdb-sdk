@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "850",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4406",
+        "x-memc": "HIT",
+        "x-memc-key": "8cb03c7459651d007d4ddb45cf805651",
+        "x-memc-age": "19801",
+        "x-memc-expires": "4406",
+        "ETag": "W\/\"1461e23287227fb84c6315dc9f483eb1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ERbJMlW1EtObHWxBlTjOBR65MKJFa8bZ09HrGrXg5VZN_xMDkmF5sw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/jaime-r.newgrounds.com\",\"id\":386499,\"imdb_id\":\"\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Prank Time!\",\"overview\":\"Fat kid pulls a clever trick over his old man, with wacky results. Total hilarity as the fat kid crosses the Rubicon into disaster.\",\"popularity\":0.299,\"poster_path\":\"\/wwWLED25Itukbj8eBqg3PThxbSe.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-03-08\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Prank Time!\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

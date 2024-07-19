@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1495",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8061",
+        "x-memc": "HIT",
+        "x-memc-key": "fffe2bd56a74953e9471aef704d261e8",
+        "x-memc-age": "15298",
+        "x-memc-expires": "8061",
+        "ETag": "W\/\"8ca29a69cf50229e828f6da4cae35ca3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "nfTSirs8Tg7TqSFoZw9L52SRRm7ST2GOHqa2uRUxTOx9oqRL_uY-4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rtr0l61RxLPkmZHbZj0WFlGx5G5.jpg\",\"belongs_to_collection\":null,\"budget\":68000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":301337,\"imdb_id\":\"tt1389072\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Downsizing\",\"overview\":\"A kindly occupational therapist undergoes a new procedure to be shrunken to four inches tall so that he and his wife can help save the planet and afford a nice lifestyle at the same time.\",\"popularity\":31.927,\"poster_path\":\"\/5bNzInSSAXfr0MFlHfb4IoQePVx.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":2361,\"logo_path\":null,\"name\":\"Ad Hominem Enterprises\",\"origin_country\":\"\"},{\"id\":2605,\"logo_path\":null,\"name\":\"Gran Via Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-12-22\",\"revenue\":55003890,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"Norwegian\",\"iso_639_1\":\"no\",\"name\":\"Norsk\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"},{\"english_name\":\"Icelandic\",\"iso_639_1\":\"is\",\"name\":\"\u00cdslenska\"}],\"status\":\"Released\",\"tagline\":\"We are meant for something bigger.\",\"title\":\"Downsizing\",\"video\":false,\"vote_average\":5.4,\"vote_count\":3718}"
+}

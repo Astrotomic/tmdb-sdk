@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1995",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14097",
+        "x-memc": "HIT",
+        "x-memc-key": "49cc864aef29dbd0fc9a84955fa455eb",
+        "x-memc-age": "11083",
+        "x-memc-expires": "14097",
+        "ETag": "W\/\"b5d2c2f9157058fd17bac3aa7278bdd5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Z0TV-kR6gIi5Iqf0m6gWHq-2AuNYDaVpXT_-9RCfIhFslzpVcEiNkw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2sSzhnrkA3NhUKMNm2jV1Rh4AAX.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":106021,\"imdb_id\":\"tt1645155\",\"origin_country\":[\"CA\",\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Erased\",\"overview\":\"A former agent of the CIA and his estranged daughter go on the run after his employers target them for assassination.\",\"popularity\":21.4,\"poster_path\":\"\/m9pUIC2lp40KvDxdiCRP7PFjXYs.jpg\",\"production_companies\":[{\"id\":48191,\"logo_path\":null,\"name\":\"Informant Europe SPRL\",\"origin_country\":\"\"},{\"id\":8676,\"logo_path\":\"\/5u4GmXn4QMU39GQxGZoGfNtQ23r.png\",\"name\":\"uFilm\",\"origin_country\":\"BE\"},{\"id\":9325,\"logo_path\":null,\"name\":\"Informant Media\",\"origin_country\":\"\"},{\"id\":18302,\"logo_path\":null,\"name\":\"Entertainment Motion Pictures\",\"origin_country\":\"\"},{\"id\":19037,\"logo_path\":\"\/tceh2aAORA5JxIZSLQ1GkzTBZDL.png\",\"name\":\"uMedia\",\"origin_country\":\"BE\"},{\"id\":22127,\"logo_path\":\"\/lgkXXc4hyHH6WqVMJVUFrhFIjm5.png\",\"name\":\"uFund\",\"origin_country\":\"BE\"},{\"id\":46381,\"logo_path\":null,\"name\":\"Essential Entertainment\",\"origin_country\":\"US\"},{\"id\":48185,\"logo_path\":null,\"name\":\"Expatriate Films\",\"origin_country\":\"\"},{\"id\":48186,\"logo_path\":null,\"name\":\"Smash Media\",\"origin_country\":\"US\"},{\"id\":48188,\"logo_path\":null,\"name\":\"Transfilm\",\"origin_country\":\"CA\"},{\"id\":48189,\"logo_path\":\"\/r3RVoyFmkYQQVW9LwMsJWOg0vHr.png\",\"name\":\"National Bank of Canada TV and Motion Picture Group\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-08-23\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Far from home. Far from safe. Far from over.\",\"title\":\"Erased\",\"video\":false,\"vote_average\":6.073,\"vote_count\":708}"
+}

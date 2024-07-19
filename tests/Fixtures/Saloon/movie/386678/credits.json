@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1076",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:43:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4043",
+        "x-memc": "HIT",
+        "x-memc-key": "a16600a7b42254b6a47dd09f5578185f",
+        "x-memc-age": "21533",
+        "x-memc-expires": "4043",
+        "ETag": "W\/\"96c6ae1f21986d09a9a7bf0737b5c76d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4a0b7683a1d33d6d186965e831f2de96.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bTbaqh11u_1y6eGEohFI4eZig85Y3zx3cGnbna7XVPtpFBiVDi9--A=="
+    },
+    "data": "{\"id\":386678,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1281859,\"known_for_department\":\"Acting\",\"name\":\"Damien Laquet\",\"original_name\":\"Damien Laquet\",\"popularity\":2.701,\"profile_path\":\"\/uirV30dHR6iVMn5SlR1CcFLduN8.jpg\",\"cast_id\":1,\"character\":\"\",\"credit_id\":\"56e0ef3d9251410879000ee8\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":544834,\"known_for_department\":\"Acting\",\"name\":\"Herv\u00e9 Lass\u00efnce\",\"original_name\":\"Herv\u00e9 Lass\u00efnce\",\"popularity\":1.765,\"profile_path\":\"\/uLOQ5zcC2XCG8XOOb2AEFCI5QQH.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"56e0ef4dc3a3680a26000f03\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1588384,\"known_for_department\":\"Acting\",\"name\":\"Magali Lehuche\",\"original_name\":\"Magali Lehuche\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"\",\"credit_id\":\"56e0ef58c3a3680a0d000dff\",\"order\":2}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1588383,\"known_for_department\":\"Directing\",\"name\":\"Pauline Pinson\",\"original_name\":\"Pauline Pinson\",\"popularity\":0.343,\"profile_path\":null,\"credit_id\":\"56e0ef179251410883000ec1\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

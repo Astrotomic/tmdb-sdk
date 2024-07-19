@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1284",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18575",
+        "x-memc": "HIT",
+        "x-memc-key": "24b32ffc8973a047803891e2e41348df",
+        "x-memc-age": "5003",
+        "x-memc-expires": "18575",
+        "ETag": "W\/\"9549571de893f5c026afdd41a2538119\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IGHWIKpnC-u7gRWMRnHY1A0C0lAYBhWWtUq5aFP8U_3qozth8vLrWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dvHKdXijoN1OEzGcPhd0eRvkfMd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":960258,\"imdb_id\":\"tt12550376\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Shark Bait\",\"overview\":\"A group of friends enjoying a weekend steal a couple of jetskis racing them out to sea, ending up in a horrific head-on collision. They struggle to find a way home with a badly injured friend while from the waters below predators lurk.\",\"popularity\":43.842,\"poster_path\":\"\/bVUgMgVozyFScDM3quP412kXrT.jpg\",\"production_companies\":[{\"id\":85170,\"logo_path\":\"\/iy4CaQI06wU1XjuC2sPtxr40VRt.png\",\"name\":\"Altitude Film Sales\",\"origin_country\":\"GB\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"MT\",\"name\":\"Malta\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-05-13\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Terror runs deep.\",\"title\":\"Shark Bait\",\"video\":false,\"vote_average\":5.672,\"vote_count\":308}"
+}

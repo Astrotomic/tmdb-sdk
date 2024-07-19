@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "818",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17586",
+        "x-memc": "HIT",
+        "x-memc-key": "a07bed10f588383d68008899c25dc135",
+        "x-memc-age": "9285",
+        "x-memc-expires": "17586",
+        "ETag": "W\/\"0d5dcb03dab1fc1339c77881ddb43dde\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F8tpYmIbKFV1obGTrOvPzbIRKvctUL4qSVzekzkmZmGCtpmAOR5cnA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":1212429,\"imdb_id\":\"tt7298016\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Cast of Characters: My Wife's Relations\",\"overview\":\"The actors in My Wife's Relations (1922) are discussed in this documentary.\",\"popularity\":1.991,\"poster_path\":null,\"production_companies\":[{\"id\":39134,\"logo_path\":\"\/sijjN3vMtjCnc1LkCM7HSBErcO3.png\",\"name\":\"Kino Lorber\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-07-12\",\"revenue\":0,\"runtime\":6,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Cast of Characters: My Wife's Relations\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

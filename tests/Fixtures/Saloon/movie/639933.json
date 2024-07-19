@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1471",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=765",
+        "x-memc": "HIT",
+        "x-memc-key": "1fd4f2a97498d5165b43a3d6a7904158",
+        "x-memc-age": "24484",
+        "x-memc-expires": "765",
+        "ETag": "W\/\"ff7314ae04ab951a0e5b1242d54390e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0s9AM2oTr5TIEKcEUOg3vJ2oRudzQNKSxOaMCo8AtHLpRpG17SwFzQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cqnVuxXe6vA7wfNWubak3x36DKJ.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.focusfeatures.com\/the-northman\",\"id\":639933,\"imdb_id\":\"tt11138512\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Northman\",\"overview\":\"Prince Amleth is on the verge of becoming a man when his father is brutally murdered by his uncle, who kidnaps the boy's mother. Two decades later, Amleth is now a Viking who's on a mission to save his mother, kill his uncle and avenge his father.\",\"popularity\":58.069,\"poster_path\":\"\/aSSJMnHknzKjlZ6zybwD7eyJ4Po.jpg\",\"production_companies\":[{\"id\":10104,\"logo_path\":\"\/wRn5HnYMGeJHmItRypgOZOC6gwY.png\",\"name\":\"New Regency Pictures\",\"origin_country\":\"US\"},{\"id\":123620,\"logo_path\":\"\/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png\",\"name\":\"Square Peg\",\"origin_country\":\"US\"},{\"id\":508,\"logo_path\":\"\/7cxRWzi4LsVm4Utfpr1hfARNurT.png\",\"name\":\"Regency Enterprises\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-04-07\",\"revenue\":69633110,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Icelandic\",\"iso_639_1\":\"is\",\"name\":\"\u00cdslenska\"}],\"status\":\"Released\",\"tagline\":\"Conquer your fate.\",\"title\":\"The Northman\",\"video\":false,\"vote_average\":7.065,\"vote_count\":4104}"
+}

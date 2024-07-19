@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1329",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14078",
+        "x-memc": "HIT",
+        "x-memc-key": "2c5e78f838c65af0249bf665ffd83af9",
+        "x-memc-age": "10762",
+        "x-memc-expires": "14078",
+        "ETag": "W\/\"f8cdfeb2faa545373a78dce67963667a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rW_ARXBG1Kn7itBYda1hWUUcAieUWSnzve7BwGbBkEMeuqsGyOZPpg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/l4gfTsSZkVofKxzcqMCTBUkeHw8.jpg\",\"belongs_to_collection\":{\"id\":374509,\"name\":\"Godzilla (Showa) Collection\",\"poster_path\":\"\/scvwS6k8gIW8w24UcmePQqVL10l.jpg\",\"backdrop_path\":\"\/a20d9jnAidiWXoN4EjYdbW54OZ3.jpg\"},\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":3107,\"imdb_id\":\"tt0063172\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u602a\u7363\u7dcf\u9032\u6483\",\"overview\":\"At the turn of the century, all of the Earth's monsters have been rounded up and kept safely on Monsterland. Chaos erupts when a race of she-aliens known as the Kilaaks unleash the monsters across the world.\",\"popularity\":20.827,\"poster_path\":\"\/24r1hsRisfUidwLF67J0iMuWh7p.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1968-08-01\",\"revenue\":1568760,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The mysterious Kilaaks appear! Shaking the universe, the great battle of 11 monsters!\",\"title\":\"Destroy All Monsters\",\"video\":false,\"vote_average\":6.8,\"vote_count\":233}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "947",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15407",
+        "x-memc": "HIT",
+        "x-memc-key": "1b653c97fd4287a5a66010491899b8d7",
+        "x-memc-age": "11005",
+        "x-memc-expires": "15407",
+        "ETag": "W\/\"3f0f4d1ba12155410675d9b83c4b404a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2VZtWCIChMLKUsmfE_RJ0Emvo1ToZJSvm8etuvxowVMghDX-gd_V8g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":542481,\"imdb_id\":\"tt0256211\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Mujeres en mi Vida\",\"overview\":\"Mexican romantic musical.\",\"popularity\":4.776,\"poster_path\":\"\/80jlkM6QJPTObay5DgTILR9RF7n.jpg\",\"production_companies\":[{\"id\":93679,\"logo_path\":null,\"name\":\"Producciones Calder\u00f3n S.A.\",\"origin_country\":\"MX\"},{\"id\":5153,\"logo_path\":\"\/d4BySWBlcGBBY58FG78DWMi9nrs.png\",\"name\":\"Estudios Churubusco Azteca\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1950-04-05\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Mujeres en mi Vida\",\"video\":false,\"vote_average\":3.5,\"vote_count\":6}"
+}

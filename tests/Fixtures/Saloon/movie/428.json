@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1202",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4196",
+        "x-memc": "HIT",
+        "x-memc-key": "8883544ae94ed2f16104ad6c43f14d5a",
+        "x-memc-age": "19487",
+        "x-memc-expires": "4196",
+        "ETag": "W\/\"a3385639b0f3ef8a4f9d38b7e4024da7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pWs2X2zwczY2pDkw0_s7JLpD8swwtYLCrwLPQ8vhCbUXEQCYA3g3Xg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sycZVq9EFigchg6QEyCHzjrcHIf.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":428,\"imdb_id\":\"tt0806679\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Sommer '04\",\"overview\":\"Sommer \u201904 is a character study of a family on vacation. German director Stefan Krohmer examines the emotional abyss and problems behind the seemingly nice facade of an intact family as they experience guilt, love and jealousy.\",\"popularity\":8.211,\"poster_path\":\"\/iXZX1B2BaAXEo59KCV1CY4K1S4j.jpg\",\"production_companies\":[{\"id\":73876,\"logo_path\":null,\"name\":\"\u00d6-Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":587,\"logo_path\":\"\/6UIpEURdjnmcJPwgTDRzVRuwADr.png\",\"name\":\"ARTE\",\"origin_country\":\"DE\"},{\"id\":124,\"logo_path\":\"\/7MjDMOybX0D3fcIEpCyY9es5XZU.png\",\"name\":\"SWR\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2006-10-11\",\"revenue\":630464,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Summer '04\",\"video\":false,\"vote_average\":6.0,\"vote_count\":21}"
+}

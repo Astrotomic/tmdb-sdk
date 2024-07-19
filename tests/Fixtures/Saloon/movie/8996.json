@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1667",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18933",
+        "x-memc": "HIT",
+        "x-memc-key": "669356fea8714dd0396b2c5022ae4602",
+        "x-memc-age": "6640",
+        "x-memc-expires": "18933",
+        "ETag": "W\/\"31cd3391b5acb645dc78b4ee063775dd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9lP4M4wRyEu1-xa_mYApyzXY8ykrO4Agjp1W3_zsqzF9N_j6_jEqQA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o66JrdCDQywsPxlTBzv0SW0OuvA.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":36,\"name\":\"History\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":8996,\"imdb_id\":\"tt0099776\",\"origin_country\":[\"DE\",\"FR\",\"PL\"],\"original_language\":\"de\",\"original_title\":\"Europa Europa\",\"overview\":\"A Jewish boy separated from his family in the early days of WWII poses as a German orphan and is taken into the heart of the Nazi world as a 'war hero' and eventually becomes a Hitler Youth.\",\"popularity\":20.633,\"poster_path\":\"\/hkh3GzBHquwB5nkdEeQUbFSo5Ju.jpg\",\"production_companies\":[{\"id\":2551,\"logo_path\":null,\"name\":\"Telmar Film International\",\"origin_country\":\"\"},{\"id\":2552,\"logo_path\":null,\"name\":\"Studio Filmowe Perspektywa\",\"origin_country\":\"\"},{\"id\":223,\"logo_path\":\"\/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png\",\"name\":\"Les Films du Losange\",\"origin_country\":\"FR\"},{\"id\":1787,\"logo_path\":\"\/tWdfCS6OBkxSuXao5lluNKDIvlc.png\",\"name\":\"CCC Filmkunst\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"PL\",\"name\":\"Poland\"}],\"release_date\":\"1990-11-14\",\"revenue\":5575304,\"runtime\":112,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"A True Story\",\"title\":\"Europa Europa\",\"video\":false,\"vote_average\":7.312,\"vote_count\":239}"
+}

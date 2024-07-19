@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "463",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2668",
+        "x-memc": "HIT",
+        "x-memc-key": "2d62f7e067ecdc2e9209ae62a8dba4c9",
+        "x-memc-age": "25120",
+        "x-memc-expires": "2668",
+        "ETag": "W\/\"316d5919f45b18f9d1d5eab79a9a315a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oYQTmanaVYanaNeQtce2M11Udkbl9ssyPgxrfzyabmMEKl6ndz2Qlw=="
+    },
+    "data": "{\"id\":241623,\"results\":{\"CZ\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/241623-carodejky-z-predmesti\/watch?locale=CZ\",\"flatrate\":[{\"logo_path\":\"\/iTzW2q9e1Kk10l2s934SDgPSJNm.jpg\",\"provider_id\":627,\"provider_name\":\"Voyo\",\"display_priority\":29}]},\"SK\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/241623-carodejky-z-predmesti\/watch?locale=SK\",\"flatrate\":[{\"logo_path\":\"\/iTzW2q9e1Kk10l2s934SDgPSJNm.jpg\",\"provider_id\":627,\"provider_name\":\"Voyo\",\"display_priority\":32}]}}}"
+}

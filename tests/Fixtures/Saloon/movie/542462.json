@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "813",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16958",
+        "x-memc": "HIT",
+        "x-memc-key": "abea917addcafbcea0f824018395bb01",
+        "x-memc-age": "5321",
+        "x-memc-expires": "16958",
+        "ETag": "W\/\"83343c0af56dccd4e802b6e1b47f4d16\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "N0Zt-U7wRVLnhdP0Pks-BqjirH96JRoRRWV1iE26GXinwmItEi15SA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":542462,\"imdb_id\":\"tt0416870\",\"origin_country\":[\"IR\"],\"original_language\":\"fa\",\"original_title\":\"\u062c\u0627\u062f\u06c0 \u0645\u0631\u06af\",\"overview\":\"A man goes to his house, finds her daughter dead and hears his wife and another man plotting his killing.\",\"popularity\":1.882,\"poster_path\":\"\/nv1BiOq0SZJloqqbI1opPZoHqbB.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"IR\",\"name\":\"Iran\"}],\"release_date\":\"1963-06-18\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"Persian\",\"iso_639_1\":\"fa\",\"name\":\"\u0641\u0627\u0631\u0633\u06cc\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Highway of Death\",\"video\":false,\"vote_average\":5.0,\"vote_count\":1}"
+}

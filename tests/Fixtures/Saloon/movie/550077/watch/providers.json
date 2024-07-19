@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "423",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23735",
+        "x-memc": "HIT",
+        "x-memc-key": "7efdb6b081d032d7308cbd58d1fad1e5",
+        "x-memc-age": "182",
+        "x-memc-expires": "23735",
+        "ETag": "W\/\"e97d3ef91777b2655b41f8155b09f1c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fiVYTxYlGjF1EZR0UKacrEDrJMJSuEhflthGwV5qY6z1FAT4KDWKvw=="
+    },
+    "data": "{\"id\":550077,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550077\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg\",\"provider_id\":430,\"provider_name\":\"HiDive\",\"display_priority\":86}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/550077\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/iCV9oPBeoLDC5okFRZEgQkx7je0.jpg\",\"provider_id\":430,\"provider_name\":\"HiDive\",\"display_priority\":92}]}}}"
+}

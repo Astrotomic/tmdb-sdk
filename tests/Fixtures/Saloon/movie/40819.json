@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1098",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19571",
+        "x-memc": "HIT",
+        "x-memc-key": "6c700b5b6f323fd3589f197866142331",
+        "x-memc-age": "6319",
+        "x-memc-expires": "19571",
+        "ETag": "W\/\"875abfdc99e6fec12fa0ecff68646900\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ejZsrefLXUVfFk6CN1l8TY5coQnji0z1RA4Dkd0p2lU71YP01H2j1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kyIMvZQiHqZpzcw5jSI2AIti6zI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/bestworstmovie.com\",\"id\":40819,\"imdb_id\":\"tt1144539\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Best Worst Movie\",\"overview\":\"A look at the making of the film Troll 2 (1990) and its journey from being crowned the \\\"worst film of all time\\\" to a cherished cult classic.\",\"popularity\":6.023,\"poster_path\":\"\/4LQ6kdvVJW9y0B9O4qDTsazNzER.jpg\",\"production_companies\":[{\"id\":150402,\"logo_path\":null,\"name\":\"OJO Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-03-14\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The Story Behind The Worst Movie Ever Made - Troll 2\",\"title\":\"Best Worst Movie\",\"video\":false,\"vote_average\":7.1,\"vote_count\":164}"
+}

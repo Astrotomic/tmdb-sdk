@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1712",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9074",
+        "x-memc": "HIT",
+        "x-memc-key": "3a4b3df746674f0783557345930b29e0",
+        "x-memc-age": "17720",
+        "x-memc-expires": "9074",
+        "ETag": "W\/\"1fb2512271575b8e9b94e36524a09317\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_jcb3Cq6J0Y_HgAIKqF17PXk5AxkHf8ajeVn7LgJnK0Yvkli5T0wNA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lkivVsolS6RPCuy8wgHvixGRJcE.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":11953,\"imdb_id\":\"tt0080979\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5f71\u6b66\u8005\",\"overview\":\"Akira Kurosawa's lauded feudal epic presents the tale of a petty thief who is recruited to impersonate Shingen, an aging warlord, in order to avoid attacks by competing clans. When Shingen dies, his generals reluctantly agree to have the impostor take over as the powerful ruler. He soon begins to appreciate life as Shingen, but his commitment to the role is tested when he must lead his troops into battle against the forces of a rival warlord.\",\"popularity\":24.36,\"poster_path\":\"\/ag3sgXg27j8NTaIbWoODIFiikfw.jpg\",\"production_companies\":[{\"id\":882,\"logo_path\":\"\/iDw9Xxok1d9WAM2zFicI8p3khTH.png\",\"name\":\"TOHO\",\"origin_country\":\"JP\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":2680,\"logo_path\":null,\"name\":\"Kurosawa Production\",\"origin_country\":\"JP\"},{\"id\":70,\"logo_path\":\"\/ueaENQkPcy8rlr5fGZVBXKOhlBh.png\",\"name\":\"American Zoetrope\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-04-26\",\"revenue\":4000000,\"runtime\":180,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The Shadow of a man can never stand up and walk on its own\",\"title\":\"Kagemusha\",\"video\":false,\"vote_average\":7.815,\"vote_count\":626}"
+}

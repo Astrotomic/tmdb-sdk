@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "991",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20764",
+        "x-memc": "HIT",
+        "x-memc-key": "22d42ca74a09207133e176f681610e1c",
+        "x-memc-age": "1746",
+        "x-memc-expires": "20764",
+        "ETag": "W\/\"026fb2ed6700c702ff7edd00c459da65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1cfee74ca8783b126318bfb563367846.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Zi8ryAXXadxfB9quUnFaxSUB4lGIbujY4hkoVBu9OMTKqAjUnCYPcQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lNT4T2Dv3qMV5tMPYTXyALGrpID.jpg\",\"belongs_to_collection\":{\"id\":1211731,\"name\":\"100 Candles Game Collection\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1211728,\"imdb_id\":\"tt28768831\",\"origin_country\":[\"AR\",\"NZ\"],\"original_language\":\"en\",\"original_title\":\"The 100 Candles Game: The Last Possession\",\"overview\":\"Sequel to The 100 Candles Game (2020).\",\"popularity\":81.41,\"poster_path\":\"\/3hTBpHgivJQtdsjFPgAc3U8KxSX.jpg\",\"production_companies\":[{\"id\":97315,\"logo_path\":null,\"name\":\"Black Mandala\",\"origin_country\":\"NZ\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"},{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"}],\"release_date\":\"2023-11-09\",\"revenue\":0,\"runtime\":73,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The 100 Candles Game: The Last Possession\",\"video\":false,\"vote_average\":6.475,\"vote_count\":20}"
+}

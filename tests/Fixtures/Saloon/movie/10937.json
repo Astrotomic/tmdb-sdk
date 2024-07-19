@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1372",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12472",
+        "x-memc": "HIT",
+        "x-memc-key": "4890cff08feec27f1175f82962111f1e",
+        "x-memc-age": "11928",
+        "x-memc-expires": "12472",
+        "ETag": "W\/\"7d3f81cc7d67365253731609709366c6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3dADfNJk6XVEYBDIsF2b8ylSk_F8fImAU3JJemAcIrgBMqdNLNmP2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/whKhDehBYjOlJboo3by0JTSQsjv.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10937,\"imdb_id\":\"tt0092618\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Barfly\",\"overview\":\"Downtrodden writer Henry and distressed goddess Wanda aren't exactly husband and wife: they're wedded to their bar stools. But, they like each other's company\u2014and Barfly captures their giddy, gin-soaked attempts to make a go of life on the skids.\",\"popularity\":14.03,\"poster_path\":\"\/aK1jfJZuXzvU9DAzocoC0VzhNAs.jpg\",\"production_companies\":[{\"id\":13549,\"logo_path\":null,\"name\":\"Golan-Globus Productions\",\"origin_country\":\"US\"},{\"id\":1444,\"logo_path\":\"\/1848gsFuV3EGewKg8xWADAyJUVy.png\",\"name\":\"The Cannon Group\",\"origin_country\":\"US\"},{\"id\":70,\"logo_path\":\"\/ueaENQkPcy8rlr5fGZVBXKOhlBh.png\",\"name\":\"American Zoetrope\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-09-02\",\"revenue\":3221568,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Some people never go crazy. What truly horrible lives they must lead.\",\"title\":\"Barfly\",\"video\":false,\"vote_average\":6.874,\"vote_count\":326}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1582",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11755",
+        "x-memc": "HIT",
+        "x-memc-key": "43ca7806ceb82faefb99abc01fb35029",
+        "x-memc-age": "12347",
+        "x-memc-expires": "11755",
+        "ETag": "W\/\"3db15b2321e010cd839ccb8fa252630d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6hVAT_TumRjLwhgR1UKvrGTMf8kkxLomjT_2tcMe3TMX89T-7gkoVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mHz65gYQ3SmkQH3GKWSKWUkK5zW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/www.thetwopopesmovie.com\/\",\"id\":551332,\"imdb_id\":\"tt8404614\",\"origin_country\":[\"IT\",\"US\",\"GB\",\"AR\"],\"original_language\":\"en\",\"original_title\":\"The Two Popes\",\"overview\":\"Frustrated with the direction of the church, Cardinal Bergoglio requests permission to retire in 2012 from Pope Benedict. Instead, facing scandal and self-doubt, the introspective Pope Benedict summons his harshest critic and future successor to Rome to reveal a secret that would shake the foundations of the Catholic Church.\",\"popularity\":21.285,\"poster_path\":\"\/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg\",\"production_companies\":[{\"id\":118854,\"logo_path\":\"\/g9LPNlQFoDcHjfnvrEqFmeIaDrZ.png\",\"name\":\"Rideback\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-11-27\",\"revenue\":232638,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Two Popes\",\"video\":false,\"vote_average\":7.501,\"vote_count\":2781}"
+}

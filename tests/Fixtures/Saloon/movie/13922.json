@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1263",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17126",
+        "x-memc": "HIT",
+        "x-memc-key": "9e40289090a15dc9483826059877d758",
+        "x-memc-age": "9039",
+        "x-memc-expires": "17126",
+        "ETag": "W\/\"bc3923506168d7c37907f1d94784c9ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KdIduhGi0LbtHV-9zPasteVLopaWQ1aP-4cJcxDFC5l7kSBBYyKO2Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6gFB71pIo0PY3OOrojTQ97Qy8qq.jpg\",\"belongs_to_collection\":null,\"budget\":80000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":13922,\"imdb_id\":\"tt0326905\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Great Raid\",\"overview\":\"As World War II rages, the elite Sixth Ranger Battalion is given a mission of heroic proportions: push 30 miles behind enemy lines and liberate over 500 American prisoners of war.\",\"popularity\":23.697,\"poster_path\":\"\/k5Q76tzV2T4RtDdYwNj64c1qQ16.jpg\",\"production_companies\":[{\"id\":2253,\"logo_path\":null,\"name\":\"Lawrence Bender Productions\",\"origin_country\":\"US\"},{\"id\":12552,\"logo_path\":null,\"name\":\"Marty Katz Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-08-12\",\"revenue\":10166502,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The most daring rescue mission of our time is a story that has never been told\",\"title\":\"The Great Raid\",\"video\":false,\"vote_average\":6.58,\"vote_count\":331}"
+}

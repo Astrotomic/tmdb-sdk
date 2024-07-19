@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1161",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13017",
+        "x-memc": "HIT",
+        "x-memc-key": "0b968376542a6ea3b6ffa6ad4b8171bb",
+        "x-memc-age": "14255",
+        "x-memc-expires": "13017",
+        "ETag": "W\/\"3f7c15de2a022cac1a3903b4e1ee4b65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mMsg40bfwSDvvlSsCNzygcF_C9Q0VDDI2OBdEMblJs5A6CTp4m1o4A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7NrxEv1RD6xoJs0C0lJca0qerfw.jpg\",\"belongs_to_collection\":null,\"budget\":800000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":696826,\"imdb_id\":\"tt9334814\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Il regno\",\"overview\":\"The king of a secret modern-time Medieval kingdom leaves his throne in inheritance to his son, who struggles to lead the kingdom in fight for its independence from the Italian state.\",\"popularity\":9.038,\"poster_path\":\"\/316U2EwqfWY25wWHY703TTd0WqY.jpg\",\"production_companies\":[{\"id\":2441,\"logo_path\":\"\/7Vutdea75apwXkRyfQ4Ne6j0KcN.png\",\"name\":\"Fandango\",\"origin_country\":\"IT\"},{\"id\":14016,\"logo_path\":\"\/snclwsIZQbgvqYCBJP8fqNlCA5y.png\",\"name\":\"MiC\",\"origin_country\":\"IT\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2020-06-26\",\"revenue\":2880,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Il regno\",\"video\":false,\"vote_average\":5.623,\"vote_count\":65}"
+}

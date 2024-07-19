@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1468",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24469",
+        "x-memc": "HIT",
+        "x-memc-key": "8e37411024013db136800ca23ba25188",
+        "x-memc-age": "2537",
+        "x-memc-expires": "24469",
+        "ETag": "W\/\"201ef70f694007915b1cecd5c2546550\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8GRsN4dWkLztuaZac1Ed4O2ySeAtGv5FdW4uLctrOfO6VbASN1kQuw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dYjZ27hDw2QFaEIfzbNGwW0IkV9.jpg\",\"belongs_to_collection\":null,\"budget\":33000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.sevenmovie.com\/\",\"id\":807,\"imdb_id\":\"tt0114369\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Se7en\",\"overview\":\"Two homicide detectives are on a desperate hunt for a serial killer whose crimes are based on the \\\"seven deadly sins\\\" in this dark and haunting film that takes viewers from the tortured remains of one victim to the next. The seasoned Det. Sommerset researches each sin in an effort to get inside the killer's mind, while his novice partner, Mills, scoffs at his efforts to unravel the case.\",\"popularity\":229.539,\"poster_path\":\"\/6yoghtyTpznpBik8EngEmJskVUO.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":4286,\"logo_path\":null,\"name\":\"Juno Pix\",\"origin_country\":\"\"},{\"id\":65393,\"logo_path\":null,\"name\":\"Cecchi Gori Pictures\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-09-22\",\"revenue\":327311859,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Seven deadly sins. Seven ways to die.\",\"title\":\"Se7en\",\"video\":false,\"vote_average\":8.375,\"vote_count\":20556}"
+}

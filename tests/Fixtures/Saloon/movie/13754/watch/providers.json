@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1087",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9173",
+        "x-memc": "HIT",
+        "x-memc-key": "585b3728901a50a03d689204e0424ce7",
+        "x-memc-age": "18467",
+        "x-memc-expires": "9173",
+        "ETag": "W\/\"aa681fa5b603f95f2e5153fa6dcabef0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "msBISd6MOe6bolPQssiz2P63euK2OuMkskzRvNyhtSGrDPL7eZ8UAQ=="
+    },
+    "data": "{\"id\":13754,\"results\":{\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13754\/watch?locale=JP\",\"rent\":[{\"logo_path\":\"\/a5T7vNaGvoeckYO6rQkHolvyYf4.jpg\",\"provider_id\":84,\"provider_name\":\"U-NEXT\",\"display_priority\":3},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5}]},\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13754\/watch?locale=NL\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":9}]},\"TW\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/13754\/watch?locale=TW\",\"flatrate\":[{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/9qSVItdgkVHH3Rrl9db2yRWsgBq.jpg\",\"provider_id\":159,\"provider_name\":\"Catchplay\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]}}}"
+}

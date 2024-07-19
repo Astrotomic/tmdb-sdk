@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1407",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3497",
+        "x-memc": "HIT",
+        "x-memc-key": "2b489ef40345e364161e8b66ff646788",
+        "x-memc-age": "18236",
+        "x-memc-expires": "3497",
+        "ETag": "W\/\"d4258e9dfc354d6b9d4d526acc4db116\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vnLrPGEbAwMrTPNbhL3FYYjhxis8eJBYwV9b7ZbgourR2V1a35ZYTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/20rdYjWhr1UrOm76zNS4Wx7DU0M.jpg\",\"belongs_to_collection\":{\"id\":748919,\"name\":\"Don't Breathe Collection\",\"poster_path\":\"\/b4mJz9qvh4i328aIO0Ciqqy2DGA.jpg\",\"backdrop_path\":\"\/dItuxD2MjMyrMykhHkLDHdZR7Ei.jpg\"},\"budget\":9900000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/dontbreathe\",\"id\":300669,\"imdb_id\":\"tt4160708\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Don't Breathe\",\"overview\":\"A group of teens break into a blind man's home thinking they'll get away with the perfect crime. They're wrong.\",\"popularity\":88.318,\"poster_path\":\"\/8fIgsHFQtg47xxN7SBwZkg0tZJn.jpg\",\"production_companies\":[{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":11341,\"logo_path\":\"\/xytTBODEy3p20ksHL4Ftxr483Iv.png\",\"name\":\"Stage 6 Films\",\"origin_country\":\"US\"},{\"id\":768,\"logo_path\":null,\"name\":\"Ghost House Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-08\",\"revenue\":159100000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"This house looked like an easy target, until they found what was inside.\",\"title\":\"Don't Breathe\",\"video\":false,\"vote_average\":7.013,\"vote_count\":7213}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "929",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17929",
+        "x-memc": "HIT",
+        "x-memc-key": "4c6a9b39f069c02c8f8a105a93fd50db",
+        "x-memc-age": "7465",
+        "x-memc-expires": "17929",
+        "ETag": "W\/\"77b2468bccd3f1b0e0a3268340cfdd28\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R5t_kvOAZ3_IuHYMUOb9KFEvxujvYku_fwxWo4wGTDPTBm9SeWptEg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yw3x4a4nPgn4SA2K5rFPNAeJN99.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":24919,\"imdb_id\":\"tt0081248\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Le notti del terrore\",\"overview\":\"A cursed country estate is besieged by horny houseguests, undead Etruscans, and the unusual relationship between a mother and her young son.\",\"popularity\":9.62,\"poster_path\":\"\/6dhaGjDyqRyXjhK1Qs1m0e1QMRT.jpg\",\"production_companies\":[{\"id\":6117,\"logo_path\":null,\"name\":\"Stefano Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1981-01-23\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The gates of hell have opened.\",\"title\":\"Burial Ground\",\"video\":false,\"vote_average\":5.5,\"vote_count\":135}"
+}

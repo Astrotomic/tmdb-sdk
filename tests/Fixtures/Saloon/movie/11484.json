@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1229",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14466",
+        "x-memc": "HIT",
+        "x-memc-key": "28084dbef549e449fe133a69f09071c9",
+        "x-memc-age": "12514",
+        "x-memc-expires": "14466",
+        "ETag": "W\/\"96f117144fce7839a0293217e35ea7e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "P9onMuJxfs4VId21nVnCGf7MNbv5XEnecp_AwgDTBEIVRzQyZda_eA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1JwLeunKPVPgcP2HpGWiAPvNlMN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":11484,\"imdb_id\":\"tt0073631\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Rollerball\",\"overview\":\"In a corporate-controlled future, an ultra-violent sport known as Rollerball represents the world, and one of its powerful athletes is out to defy those who want him out of the game.\",\"popularity\":25.442,\"poster_path\":\"\/cmcipEfexlhVLYQXqeSWp1YcsPY.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":8772,\"logo_path\":null,\"name\":\"Algonquin\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1975-06-25\",\"revenue\":30000000,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"In the not-too-distant future, wars will no longer exist. But there WILL be...The Game\",\"title\":\"Rollerball\",\"video\":false,\"vote_average\":6.234,\"vote_count\":505}"
+}

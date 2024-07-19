@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1125",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23697",
+        "x-memc": "HIT",
+        "x-memc-key": "88ccd28de3a5ea032ec58546cfb6edb1",
+        "x-memc-age": "6",
+        "x-memc-expires": "23697",
+        "ETag": "W\/\"4db2241c66867f5b74c4e8964824938e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "by5jttwfJRNjg0LZ4Z8Tf44g4wH0BRq2QX1ei0vU7v1R8h8FGAV3Sw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2lZYvShWuVThLM6Oo8zfakdBMqw.jpg\",\"belongs_to_collection\":null,\"budget\":4000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":1365,\"imdb_id\":\"tt0285742\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Monster's Ball\",\"overview\":\"A prison guard begins a tentative romance with the unsuspecting widow of a man whose execution he presided over.\",\"popularity\":23.972,\"poster_path\":\"\/rPhs7Mw4ql2CotjxDCwUs5PBPxo.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":695,\"logo_path\":\"\/rxXG5CZjBGFbJt9tYgrySrkJCTF.png\",\"name\":\"Lee Daniels Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-06-07\",\"revenue\":44900000,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A lifetime of change can happen in a single moment.\",\"title\":\"Monster's Ball\",\"video\":false,\"vote_average\":6.757,\"vote_count\":955}"
+}

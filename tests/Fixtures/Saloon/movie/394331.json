@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1247",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17954",
+        "x-memc": "HIT",
+        "x-memc-key": "d6869024726d7d9f5be299cadbec0d71",
+        "x-memc-age": "9903",
+        "x-memc-expires": "17954",
+        "ETag": "W\/\"0bf3dea402f7f056983a701e4b218668\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y5KwebZtYAos1zON1MwBHaHz52JVtcztvyZ3yfTSAAKdbKPszwCfRQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5AYJDwBWLQA0lQMZdWKKj5gefwh.jpg\",\"belongs_to_collection\":null,\"budget\":70000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":394331,\"imdb_id\":\"tt3900174\",\"origin_country\":[\"DE\",\"CH\"],\"original_language\":\"de\",\"original_title\":\"Alekto\",\"overview\":\"Policewoman Julia Forward awakens on a cylindrical structure in a world that seems deadlocked in the Stone Age. Somebody has taken her hostage and left her in this unreal and hostile environment. Far away from everything she has ever known she has to fight for her survival whilst learning the bitter secret of planet earth: The omnipresent Alekto Corporation uses humans with extraordinary talents as gene pools for their dark researches.\",\"popularity\":1.726,\"poster_path\":\"\/hagASbuFgR6Tljicol2Ok6Na7Wq.jpg\",\"production_companies\":[{\"id\":105101,\"logo_path\":null,\"name\":\"Metropolitan Picture Scientists\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CH\",\"name\":\"Switzerland\"}],\"release_date\":\"2014-06-03\",\"revenue\":0,\"runtime\":23,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Alekto\",\"video\":false,\"vote_average\":6.4,\"vote_count\":5}"
+}

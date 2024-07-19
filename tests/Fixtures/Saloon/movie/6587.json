@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1141",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8652",
+        "x-memc": "HIT",
+        "x-memc-key": "8a0d28db2c1d78abab48b23a55904c21",
+        "x-memc-age": "17763",
+        "x-memc-expires": "8652",
+        "ETag": "W\/\"8305419bb02c314758923f0b8c39e8e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "riDgvAfSCesL4JC9BtDNq-FizHrBT-nVnfSthB3UrDQEWwI9lPCCxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ekt6WJppITWGUTQW0jsqO7Z1zYW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":6587,\"imdb_id\":\"tt0052941\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Jayhawkers!\",\"overview\":\"Before the U.S. Civil War rebel leader Luke Darcy sees himself as leader of a new independent Republic of Kansas but the military governor sends an ex-raider to capture Darcy.\",\"popularity\":7.523,\"poster_path\":\"\/444bDhxseNWDANH3Rl64M1dL2g4.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1959-10-15\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Against the background of a turbulent era when Civil War was a flaming cloud on history's horizon . . A TREMENDOUS MOTION PICTURE!\",\"title\":\"The Jayhawkers!\",\"video\":false,\"vote_average\":5.8,\"vote_count\":19}"
+}

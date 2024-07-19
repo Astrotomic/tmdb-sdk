@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1045",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22719",
+        "x-memc": "HIT",
+        "x-memc-key": "0a7a51ba2dbd44fb37c883bbf4db4940",
+        "x-memc-age": "2401",
+        "x-memc-expires": "22719",
+        "ETag": "W\/\"910e8dab089930b1a8c67301a4f9a5a4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7cb5hBWvpioTTCgD-8yejFHwt9fkpTWA-ApIRrzIoMDDKmbjwAOUAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":3295,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":1029878,\"imdb_id\":\"tt22394390\",\"origin_country\":[\"PE\"],\"original_language\":\"es\",\"original_title\":\"Mamita\",\"overview\":\"A grandson lives with his grandparents, taking care of housework and the old marriage. On a very special day for the granny, it will be shown why the unpredictability of an event gives a new value to the young man\u00b4s presence in the house.\",\"popularity\":3.086,\"poster_path\":\"\/fG1l0RdlR5AJWZtvAKL89aQF6jF.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"PE\",\"name\":\"Peru\"}],\"release_date\":\"2022-11-18\",\"revenue\":0,\"runtime\":12,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"A young man must take care of his grandparents, while the consequences of an unfortunate event are looming.\",\"title\":\"Mamita\",\"video\":false,\"vote_average\":9.0,\"vote_count\":1}"
+}

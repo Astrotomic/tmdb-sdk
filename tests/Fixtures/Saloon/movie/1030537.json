@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1036",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11340",
+        "x-memc": "HIT",
+        "x-memc-key": "0ddffdc66ee38afd34a2fccb1bbdf132",
+        "x-memc-age": "12530",
+        "x-memc-expires": "11340",
+        "ETag": "W\/\"762b457314c85076b6708d4b6ff98ed0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c1ca71e6238e57e7b87d021fa60aad98.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7BpL5GJEeidmbYTrYKE4aVePGhFjsC948qn1B1zgMZ6zxHs-IpfqYw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":100,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1030537,\"imdb_id\":\"tt3176998\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Down With Clowns\",\"overview\":\"This film will trace the emergence of the Killer Clown from historical roots in Italian Opera, to contemporary prominence in mass media. Down with Clowns will explore the relationship between the violence of society, the mission of the clown and the way humans deal with their fear of both.\",\"popularity\":5.399,\"poster_path\":\"\/pAo4WXnK98J9oGDdJ6EyY2rKXxs.jpg\",\"production_companies\":[{\"id\":183385,\"logo_path\":null,\"name\":\"MagicBullet Media\",\"origin_country\":\"\"},{\"id\":18015,\"logo_path\":null,\"name\":\"Dog House Post Audio\",\"origin_country\":\"US\"}],\"production_countries\":[],\"release_date\":\"\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Down With Clowns\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

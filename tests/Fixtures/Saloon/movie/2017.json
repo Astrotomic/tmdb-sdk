@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1481",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20601",
+        "x-memc": "HIT",
+        "x-memc-key": "1455d75b6494cd5243af02cb011a5089",
+        "x-memc-age": "7409",
+        "x-memc-expires": "20601",
+        "ETag": "W\/\"f713c1b8afeb1d23afe397ddd06bae7f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tdVHGDPfeCXQTkQehHscnf0jgYYBDtUf_8Iih2bv_UMOUDUr7JfilQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/29t7THr2KxAHcCrtd1yxaaNW3g9.jpg\",\"belongs_to_collection\":null,\"budget\":12000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":2017,\"imdb_id\":\"tt0292610\",\"origin_country\":[\"DE\",\"US\"],\"original_language\":\"en\",\"original_title\":\"No Good Deed\",\"overview\":\"While doing a friend a favour and searching for a runaway teenager, a police detective stumbles upon a bizarre band of criminals about to pull off a bank robbery. The screenplay by Christopher Cannan and Steve Barancik is based on the short story \\\"The House in Turk Street\\\" by Dashiell Hammett.\",\"popularity\":15.93,\"poster_path\":\"\/lrQU72BcSfzJx71X1ko2K4LTtlE.jpg\",\"production_companies\":[{\"id\":16850,\"logo_path\":null,\"name\":\"ApolloMedia\",\"origin_country\":\"DE\"},{\"id\":16921,\"logo_path\":null,\"name\":\"Kismet Entertainment Group\",\"origin_country\":\"\"},{\"id\":4298,\"logo_path\":null,\"name\":\"Remstar Productions\",\"origin_country\":\"\"},{\"id\":18516,\"logo_path\":null,\"name\":\"Seven Arts Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-06-28\",\"revenue\":1440653,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"HE was more than a cop. SHE was more than a thief.\",\"title\":\"No Good Deed\",\"video\":false,\"vote_average\":5.3,\"vote_count\":176}"
+}

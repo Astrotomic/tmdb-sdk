@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1337",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22781",
+        "x-memc": "HIT",
+        "x-memc-key": "e1efa2e742c60f2063e3ec8d694c43ab",
+        "x-memc-age": "2341",
+        "x-memc-expires": "22781",
+        "ETag": "W\/\"7da7e0db6bdb48c0728d833b058bda7c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "j8uwCXON104DHPAixUC2l8DbEJKlIxMxOHxXEJepPVJVR5SftoBekw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/the-beekeeper\",\"id\":866398,\"imdb_id\":\"tt15314262\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Beekeeper\",\"overview\":\"One man's campaign for vengeance takes on national stakes after he is revealed to be a former operative of a powerful and clandestine organization known as Beekeepers.\",\"popularity\":177.738,\"poster_path\":\"\/A7EByudX0eOzlkQ2FIbogzyazm2.jpg\",\"production_companies\":[{\"id\":14,\"logo_path\":\"\/m6AHu84oZQxvq7n1rsvMNJIAsMu.png\",\"name\":\"Miramax\",\"origin_country\":\"US\"},{\"id\":118475,\"logo_path\":null,\"name\":\"Cedar Park Entertainment\",\"origin_country\":\"US\"},{\"id\":218150,\"logo_path\":null,\"name\":\"Punch Palace Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-01-08\",\"revenue\":152720535,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Expose the corruption. Protect the hive.\",\"title\":\"The Beekeeper\",\"video\":false,\"vote_average\":7.386,\"vote_count\":2684}"
+}

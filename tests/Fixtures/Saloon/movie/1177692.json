@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1223",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19999",
+        "x-memc": "HIT",
+        "x-memc-key": "19f2107d538242d6b87c8fcadcdb3120",
+        "x-memc-age": "5349",
+        "x-memc-expires": "19999",
+        "ETag": "W\/\"3e0ccbfa64caec5a3971714885464f53\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9OmaA_FnRpan1jgEBms8Sftd8znx7_dTnj1_71iQ66wazYllnxYY1A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ezRbgUpUkWrTadukzuMxxlimTFU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.madangelfilms.com\",\"id\":1177692,\"imdb_id\":\"tt6127252\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Barely Coping\",\"overview\":\"\\\"Barely Coping\\\" follows the story of Tristan who, as boy, lost his parents in a tragic accident. To hide from reality he pretends to be a panda and lives the rest of his life as one. As an adult Tristan finds himself on his own for the 1st time and is taken in by Audrey and her family who are trying to deal with an unfortunate loss as well. Tristan starts to help the family find their way again and, in doing so, starts to help them accept the reality and cope with the tragic loss that everyone faces.\",\"popularity\":1.639,\"poster_path\":\"\/cxbOgR4WBN0ftu5mO66UDmV7Nuo.jpg\",\"production_companies\":[{\"id\":88658,\"logo_path\":null,\"name\":\"Mad Angel Films\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2018-11-16\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Barely Coping\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

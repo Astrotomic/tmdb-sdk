@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1500",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24737",
+        "x-memc": "HIT",
+        "x-memc-key": "ad5a70927e0dac40948204b15e256a17",
+        "x-memc-age": "1039",
+        "x-memc-expires": "24737",
+        "ETag": "W\/\"4855ee3737b41000cdcd39f9a2d315b5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xwrUhSPbpmrYjO5sUoNfZXFf0bXP75xRqiXdFOXBpaVhoD2IIX2MdQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5D0nzJd4AY9h6HQL8qcLPvno7zR.jpg\",\"belongs_to_collection\":{\"id\":98430,\"name\":\"Feast Collection\",\"poster_path\":\"\/1clQ6DCLxmvysHkU7HxWToDzuPo.jpg\",\"backdrop_path\":\"\/qtD9j2sHcyVHUbbT6To5AHAlLir.jpg\"},\"budget\":3200000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.feast-movie.com\/\",\"id\":10070,\"imdb_id\":\"tt0426459\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Feast\",\"overview\":\"When a motley crew of strangers find themselves trapped in an isolated tavern, they must band together in a battle for survival against a family of flesh-hungry creatures.\",\"popularity\":33.727,\"poster_path\":\"\/61RknsRLF5YT1gIgSCVv4qbTt8C.jpg\",\"production_companies\":[{\"id\":48688,\"logo_path\":null,\"name\":\"Maloof Motion Pictures\",\"origin_country\":\"\"},{\"id\":2811,\"logo_path\":null,\"name\":\"Neo Art \\u0026 Logic\",\"origin_country\":\"\"},{\"id\":7405,\"logo_path\":\"\/rfnws0uY8rsNAsrLbx3gEIcYXx3.png\",\"name\":\"Dimension Films\",\"origin_country\":\"US\"},{\"id\":7161,\"logo_path\":null,\"name\":\"LivePlanet\",\"origin_country\":\"\"},{\"id\":104404,\"logo_path\":null,\"name\":\"Five Course Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-10-14\",\"revenue\":658573,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They're Hungry. You're Dinner.\",\"title\":\"Feast\",\"video\":false,\"vote_average\":6.153,\"vote_count\":517}"
+}

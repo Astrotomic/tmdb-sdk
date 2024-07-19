@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "708",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18743",
+        "x-memc": "HIT",
+        "x-memc-key": "c5c34806bef4ae0d91845e67407ce7b9",
+        "x-memc-age": "6718",
+        "x-memc-expires": "18743",
+        "ETag": "W\/\"53ee2fadcd82a674639545ed8dbc9004\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F9rlImho9Kz3Ir4jkKx85BHjkFs0Q_GxMTnx7ZA-1D69HpnkpIVEjA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9x2yPbcqUHH27EgB8ZLbqVNA8dY.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1180570,\"imdb_id\":null,\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"loyal\",\"overview\":\"\",\"popularity\":0.98,\"poster_path\":\"\/sClkDK30YvxrD9x9RYWhtBb6Mxf.jpg\",\"production_companies\":[{\"id\":296,\"logo_path\":\"\/kMFX59w5Sgxx9PVpV4k3ZgspRmz.png\",\"name\":\"Filmakademie Baden-W\u00fcrttemberg\",\"origin_country\":\"DE\"}],\"production_countries\":[],\"release_date\":\"2019-04-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"loyal\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

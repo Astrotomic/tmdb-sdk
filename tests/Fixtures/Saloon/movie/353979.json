@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1164",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13401",
+        "x-memc": "HIT",
+        "x-memc-key": "e69cbc40fa688106eedbc55a820cdd42",
+        "x-memc-age": "10502",
+        "x-memc-expires": "13401",
+        "ETag": "W\/\"8cd2f447f5b0207efd9697b99d500b15\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8d02uJ_K5ZJJbYVFJP_cmeo6LDWtNz5Vj3VDUXCapbc7pqk2keEp5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bfKnMsPISCME2H4VxlUIb6SAOWG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":353979,\"imdb_id\":\"tt1183374\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pet\",\"overview\":\"A man bumps into an old crush and becomes obsessed. After several failed attempts at winning her over, he kidnaps her and holds her captive underneath the animal shelter where he works.\",\"popularity\":15.9,\"poster_path\":\"\/cO5debLXk54GhgXd92GVD0Hpinv.jpg\",\"production_companies\":[{\"id\":24428,\"logo_path\":\"\/zH6o8LH5x3mpaJgshhFrVRnbJpD.png\",\"name\":\"Revolver Picture Company\",\"origin_country\":\"US\"},{\"id\":87331,\"logo_path\":null,\"name\":\"Magic Lantern\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-09-24\",\"revenue\":22003,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If You Love Something, Never Let It Go.\",\"title\":\"Pet\",\"video\":false,\"vote_average\":5.828,\"vote_count\":633}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1575",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2745",
+        "x-memc": "HIT",
+        "x-memc-key": "2fd36ffafcaadb4e4ba66b9da212dfac",
+        "x-memc-age": "20733",
+        "x-memc-expires": "2745",
+        "ETag": "W\/\"eae59f43d4e30a7431e145c79dec440f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tUuQslzLcf7F_Ygl9iNiFqgFrD5hjjHrJddTgLqv9IqB6P09h5lDEA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mwX2UJFDCJK24EQkz2mJc5lGAkD.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":16545,\"imdb_id\":\"tt0196186\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"I Vicer\u00e8\",\"overview\":\"In late 19th-century Sicily, the noble Uzeda family\u2014whose lineage dates back to the ancient viceroys that ruled those lands\u2014fights to preserve its waning power in the face of the newly unified Italian regime.\",\"popularity\":14.172,\"poster_path\":\"\/hsmgLhNyx395mWNvROcxhPzHF51.jpg\",\"production_companies\":[{\"id\":3193,\"logo_path\":null,\"name\":\"Jean Vigo Italia\",\"origin_country\":\"IT\"},{\"id\":155990,\"logo_path\":\"\/py9VaywwK6KVi94YwrxSKVg1gkh.png\",\"name\":\"RAI Cinema\",\"origin_country\":\"IT\"},{\"id\":154744,\"logo_path\":\"\/qYIEHRctL3YFth36F1LwhEQvOl5.png\",\"name\":\"Rai Fiction\",\"origin_country\":\"IT\"},{\"id\":21525,\"logo_path\":null,\"name\":\"FICC\",\"origin_country\":\"ES\"},{\"id\":77395,\"logo_path\":null,\"name\":\"Regione Siciliana\",\"origin_country\":\"\"},{\"id\":36326,\"logo_path\":null,\"name\":\"VIP 2 Medienfonds\",\"origin_country\":\"DE\"},{\"id\":1208,\"logo_path\":null,\"name\":\"Rising Star\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2007-11-09\",\"revenue\":0,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"From a novel that has been censored for over 100 years\",\"title\":\"I Vicer\u00e8\",\"video\":false,\"vote_average\":6.0,\"vote_count\":29}"
+}

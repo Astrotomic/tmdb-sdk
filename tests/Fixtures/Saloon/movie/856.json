@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1473",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23226",
+        "x-memc": "HIT",
+        "x-memc-key": "132c2e9be91ebac2772761b50b2f6c19",
+        "x-memc-age": "5080",
+        "x-memc-expires": "23226",
+        "ETag": "W\/\"9cd3c2e3c516fcc3ac942eaf95e8e151\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "YzSqv8wuYaOZrVXXTw0qdaglv0yEeK8AQg28qqi7dTzwSzcsOdnH8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rrDZljxZ0DSWVn6M5fkJwEOVOWn.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":856,\"imdb_id\":\"tt0096438\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Who Framed Roger Rabbit\",\"overview\":\"'Toon star Roger is worried that his wife Jessica is playing pattycake with someone else, so the studio hires detective Eddie Valiant to snoop on her. But the stakes are quickly raised when Marvin Acme is found dead and Roger is the prime suspect.\",\"popularity\":49.587,\"poster_path\":\"\/lYfRc57Kx9VgLZ48iulu0HKnM15.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":554,\"logo_path\":\"\/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png\",\"name\":\"Silver Screen Partners III\",\"origin_country\":\"US\"},{\"id\":9195,\"logo_path\":\"\/ou5BUbtulr6tIt699q6xJiEQTR9.png\",\"name\":\"Touchstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1988-06-21\",\"revenue\":329800000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's the story of a man, a woman, and a rabbit in a triangle of trouble.\",\"title\":\"Who Framed Roger Rabbit\",\"video\":false,\"vote_average\":7.525,\"vote_count\":5539}"
+}

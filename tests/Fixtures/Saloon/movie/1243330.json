@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "803",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21269",
+        "x-memc": "HIT",
+        "x-memc-key": "4ed8423d51a982376ea0411151bfc5d0",
+        "x-memc-age": "3387",
+        "x-memc-expires": "21269",
+        "ETag": "W\/\"c35e26ea7de1368c299decf82d589e87\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3AGjqvDFJQ6pFDQuLmqKzc2PleesIZCAKCoW2XanQY8n14Pj9aJ1tg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1243330,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Natural Causes\",\"overview\":\"A struggling funeral home owner boosts his business by murdering the older locals and profiting off their funerals. Released as a special feature on the \\\"...And Then I Helped\\\" DVD release from magGot Films.\",\"popularity\":1.685,\"poster_path\":\"\/fSmPPz7opjf0vuMF0OneRa0iB79.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":36,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Natural Causes\",\"video\":true,\"vote_average\":0.0,\"vote_count\":0}"
+}

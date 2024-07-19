@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "803",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23474",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "a077baa77bcc6e385b47105ae1b59033",
+        "x-memc-age": "0",
+        "x-memc-expires": "23474",
+        "ETag": "W\/\"86de4916ced61c6276f9f42a8578217a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "H-S4eJyIvsxeHz1B6CdVpMtCmiUW2lO8OIGgbo-jVd43TECMtKelHQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":30,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1182093,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cat Burglars\",\"overview\":\"Two catnip drug peddlers scam a pimp and now they must escape his thugs.\",\"popularity\":0.798,\"poster_path\":null,\"production_companies\":[{\"id\":209249,\"logo_path\":null,\"name\":\"Free State Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-09-21\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"They aren't kitten around.\",\"title\":\"Cat Burglars\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

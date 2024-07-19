@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1142",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10507",
+        "x-memc": "HIT",
+        "x-memc-key": "b18ed3e9067fc87a28c9721fd9d33440",
+        "x-memc-age": "16509",
+        "x-memc-expires": "10507",
+        "ETag": "W\/\"421b78206d34e21d66ef514a1588d18d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tEF7lVnh8OxgrKuPhE2qhs-NiVNKYfAjSlM6syQJ_E_qCliJZ0rO2w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sfKIRZ7jjOYZXMlg1waEkFrZrNN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81221344\",\"id\":1216512,\"imdb_id\":\"tt31123288\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Casagrandes Movie\",\"overview\":\"On a birthday trip to Mexico, 12-year-old Ronnie Anne accidentally frees a demigod trapped in a mountain and needs her family's help to set things right.\",\"popularity\":107.895,\"poster_path\":\"\/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg\",\"production_companies\":[{\"id\":2348,\"logo_path\":\"\/oydqrfwRAm6qqdYbxuMmmPsVi87.png\",\"name\":\"Nickelodeon Movies\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-03-21\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Casagrandes Movie\",\"video\":false,\"vote_average\":7.435,\"vote_count\":31}"
+}

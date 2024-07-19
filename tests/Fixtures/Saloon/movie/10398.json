@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1529",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=191",
+        "x-memc": "HIT",
+        "x-memc-key": "463e505b1b4f61c4861133b79c81a0e8",
+        "x-memc-age": "26705",
+        "x-memc-expires": "191",
+        "ETag": "W\/\"8397f6d360f80760bfaa8c13f7e7bf0a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0ZAKYJQOwe3EEYCYWAXme-lovsBQetUUPSlvE52QtpkUYMp6yFzw3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fk4NXhazfRKtQaVEV9IPeM7OIVH.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":10398,\"imdb_id\":\"tt0150377\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Double Jeopardy\",\"overview\":\"Framed for the murder of her husband, Libby Parsons survives the long years in prison with two burning desires sustaining her -- finding her son and solving the mystery that destroyed her once-happy life. Standing between her and her quest; however, is her parole officer, Travis Lehman. Libby poses a challenge to the cynical officer, one that forces him to face up to his own failings while pitting him against his superiors and law enforcement colleagues.\",\"popularity\":68.5,\"poster_path\":\"\/lSYMeHoUh9uWX2kXi9Fqe4BX2Ml.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":21409,\"logo_path\":null,\"name\":\"MFP Munich Film Partners GmbH \\u0026 Company I. Produktions KG\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-09-24\",\"revenue\":177841558,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Murder isn't always a crime.\",\"title\":\"Double Jeopardy\",\"video\":false,\"vote_average\":6.6,\"vote_count\":1267}"
+}

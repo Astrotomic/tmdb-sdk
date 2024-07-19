@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10730",
+        "x-memc": "HIT",
+        "x-memc-key": "5c4ca424dff2241bbcc94ac4f13c3485",
+        "x-memc-age": "12972",
+        "x-memc-expires": "10730",
+        "ETag": "W\/\"e96303f370d8452fd0cd804eb433e984\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Eu436zsBClUS2wER6nI0Sr9FJLn92AMCIwXCzZfuzQ0l6__A6UDoTw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/utvRBL9moJe7oziH5Ih3jj87lYd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":236177,\"imdb_id\":\"tt0030789\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Star Is Hatched\",\"overview\":\"Emily the chicken lives in Hickville but dreams of Hollywood. Her chance comes when director J. Megga-Phone happens to drive past and gives her his card.\",\"popularity\":3.339,\"poster_path\":\"\/sj9wbmqg9OALwLeUoC4NnUgoPlo.jpg\",\"production_companies\":[{\"id\":134798,\"logo_path\":null,\"name\":\"Leon Schlesinger Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-04-02\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"A Star Is Hatched\",\"video\":false,\"vote_average\":5.444,\"vote_count\":9}"
+}

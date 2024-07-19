@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1212",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=664",
+        "x-memc": "HIT",
+        "x-memc-key": "4a98f9bb6b87382b8da5d85a89fbefba",
+        "x-memc-age": "28098",
+        "x-memc-expires": "664",
+        "ETag": "W\/\"5d476d36952fb621e49688456955cb1f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "v_gb5NSz-ER7h_7IgYGQQ-FWSfcIZj1WahJzNQEQ3g7nsU5L-U-Qkw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ka6np2LONtAElZOVeebb3mwSTBs.jpg\",\"belongs_to_collection\":null,\"budget\":11000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":687,\"imdb_id\":\"tt0112818\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Dead Man Walking\",\"overview\":\"A death row inmate turns for spiritual guidance to a local nun in the days leading up to his scheduled execution for the murders of a young couple.\",\"popularity\":20.769,\"poster_path\":\"\/wQmmJi5ypfHH2boXrQBmsep7qb2.jpg\",\"production_companies\":[{\"id\":406,\"logo_path\":null,\"name\":\"Havoc\",\"origin_country\":\"\"},{\"id\":1382,\"logo_path\":\"\/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png\",\"name\":\"PolyGram Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":10163,\"logo_path\":\"\/16KWBMmfPX0aJzDExDrPxSLj0Pg.png\",\"name\":\"Working Title Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1995-12-29\",\"revenue\":39363635,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dead Man Walking\",\"video\":false,\"vote_average\":7.323,\"vote_count\":1306}"
+}

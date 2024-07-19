@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1649",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4260",
+        "x-memc": "HIT",
+        "x-memc-key": "b2acf6a026bdece8cc24a66cfa31da6b",
+        "x-memc-age": "19356",
+        "x-memc-expires": "4260",
+        "ETag": "W\/\"cf13f153bf53a953a64d9bd5e81b79a0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Hkw4vMF8BYW3xUFGc7PjKDmjj3kJ9zG4J3F1-gJjfpOV574MdXji2Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n6bUvigpRFqSwmPp1m2YADdbRBc.jpg\",\"belongs_to_collection\":{\"id\":987044,\"name\":\"Joker Collection\",\"poster_path\":\"\/jmopX21dlCinxmzd8KLOBFeN2P9.jpg\",\"backdrop_path\":\"\/k1YC7mFLvxX4bbD7P8lkcML0Jek.jpg\"},\"budget\":55000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.jokermovie.net\/\",\"id\":475557,\"imdb_id\":\"tt7286456\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Joker\",\"overview\":\"During the 1980s, a failed stand-up comedian is driven insane and turns to a life of crime and chaos in Gotham City while becoming an infamous psychopathic crime figure.\",\"popularity\":103.553,\"poster_path\":\"\/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":83036,\"logo_path\":null,\"name\":\"Joint Effort\",\"origin_country\":\"US\"},{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":13240,\"logo_path\":\"\/aTc07YaNHo8WNgkQSnvLmG6w4nW.png\",\"name\":\"Bron Studios\",\"origin_country\":\"CA\"},{\"id\":128064,\"logo_path\":\"\/13F3Jf7EFAcREU0xzZqJnVnyGXu.png\",\"name\":\"DC Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-10-01\",\"revenue\":1078958629,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Put on a happy face.\",\"title\":\"Joker\",\"video\":false,\"vote_average\":8.16,\"vote_count\":24866}"
+}

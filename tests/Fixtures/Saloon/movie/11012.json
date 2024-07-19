@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1587",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8604",
+        "x-memc": "HIT",
+        "x-memc-key": "1ae5286df01951b2871776a777dac7e1",
+        "x-memc-age": "14657",
+        "x-memc-expires": "8604",
+        "ETag": "W\/\"218ba06d6d4b47f3088e1867fff804b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jo-VUi0Q1WTPJhRclvxuU1Yw09qEOVsas8Qh4UYQlT0Hz7BGmjnbMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yCYVJHdlJ4g8C1cRrM4P1HV7rVk.jpg\",\"belongs_to_collection\":null,\"budget\":11000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":11012,\"imdb_id\":\"tt0104237\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Damage\",\"overview\":\"The life of a respected British politician at the height of his career crumbles when he becomes obsessed with his son's lover.\",\"popularity\":25.636,\"poster_path\":\"\/alf3JOPP7EYP0iO24gwe5YfRnqo.jpg\",\"production_companies\":[{\"id\":753,\"logo_path\":null,\"name\":\"Nouvelles \u00c9ditions de Films (NEF)\",\"origin_country\":\"FR\"},{\"id\":3525,\"logo_path\":null,\"name\":\"Skreba Films\",\"origin_country\":\"\"},{\"id\":6705,\"logo_path\":\"\/e8EXNSfwr5E9d3TR8dHKbQnQK4W.png\",\"name\":\"Film4 Productions\",\"origin_country\":\"GB\"},{\"id\":183,\"logo_path\":\"\/o5mj8CVyU7GhmYg8La21Nkop67R.png\",\"name\":\"Le Studio Canal+\",\"origin_country\":\"FR\"},{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1992-12-02\",\"revenue\":31000000,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Desire... Deceit... Destiny...\",\"title\":\"Damage\",\"video\":false,\"vote_average\":6.558,\"vote_count\":431}"
+}

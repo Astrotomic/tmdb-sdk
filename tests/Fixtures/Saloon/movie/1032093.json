@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "776",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3280",
+        "x-memc": "HIT",
+        "x-memc-key": "fe72ae354016ab5278e1f81b863b4902",
+        "x-memc-age": "21511",
+        "x-memc-expires": "3280",
+        "ETag": "W\/\"d6cd8280e2a3e68891a1171546244977\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mM6Ng0lyNWAQHULO_Cs8D9vUkPABmUbUAtzuNdsvw00YZL4YBj8WxQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rJA1dWB1sJ8d7GpkHjfy6ieVuST.jpg\",\"belongs_to_collection\":null,\"budget\":1,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1032093,\"imdb_id\":null,\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"The Paper-Man\",\"overview\":\"\",\"popularity\":2.832,\"poster_path\":\"\/qCHV2WKr5wiL2Cm7pc8Q4s4yN5q.jpg\",\"production_companies\":[{\"id\":183619,\"logo_path\":null,\"name\":\"Esquina 10's Studios\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2018-05-01\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Paper-Man\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

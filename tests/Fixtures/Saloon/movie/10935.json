@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1827",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7351",
+        "x-memc": "HIT",
+        "x-memc-key": "4f86595e86f8d9ba25425e4786dfba0a",
+        "x-memc-age": "15559",
+        "x-memc-expires": "7351",
+        "ETag": "W\/\"98f4b51bfb444f6878ebcbead4ad6339\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PNYikSBVVzviqcRacRec_HjBjSKWDIItE50CIfi6Os8CHqWZEzEYuA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lDsqTcLfp91EYz1ZlVVoZPd1kF8.jpg\",\"belongs_to_collection\":null,\"budget\":44000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":37,\"name\":\"Western\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":10935,\"imdb_id\":\"tt0080855\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Heaven's Gate\",\"overview\":\"Harvard graduate James Averill is the sheriff of prosperous Jackson County, Wyo., when a battle erupts between the area's poverty-stricken immigrants and its wealthy cattle farmers. The politically connected ranch owners fight the immigrants with the help of Nathan Champion, a mercenary competing with Averill for the love of local madam Ella Watson. As the struggle escalates, Averill and Champion begin to question their decisions.\",\"popularity\":24.402,\"poster_path\":\"\/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg\",\"production_companies\":[{\"id\":25631,\"logo_path\":null,\"name\":\"Partisan Productions\",\"origin_country\":\"\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-11-19\",\"revenue\":3484331,\"runtime\":217,\"spoken_languages\":[{\"english_name\":\"Serbo-Croatian\",\"iso_639_1\":\"sh\",\"name\":\"\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Ukrainian\",\"iso_639_1\":\"uk\",\"name\":\"\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"What one loves about life are the things that fade.\",\"title\":\"Heaven's Gate\",\"video\":false,\"vote_average\":6.78,\"vote_count\":345}"
+}

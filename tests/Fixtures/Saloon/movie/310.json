@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1695",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=51",
+        "x-memc": "HIT",
+        "x-memc-key": "fad38e0a9866c7389f8de48745db46ef",
+        "x-memc-age": "22776",
+        "x-memc-expires": "51",
+        "ETag": "W\/\"60aeb17770201230d876717a5010d95c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kGLLxHXoLFUqbTaecbeNhQzcW215A03J_94FafynoxlvVdYq_H3uMw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8bQbejOvAKe78RXxpkfM04n0K18.jpg\",\"belongs_to_collection\":{\"id\":124949,\"name\":\"Almighty Collection\",\"poster_path\":\"\/cEIFUIrO1eoiSgmquHfYVyQYX14.jpg\",\"backdrop_path\":\"\/fjYES2aMQ05mRcaRoUHACfloNM3.jpg\"},\"budget\":80000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.brucealmighty.com\/\",\"id\":310,\"imdb_id\":\"tt0315327\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bruce Almighty\",\"overview\":\"Bruce Nolan toils as a \\\"human interest\\\" television reporter in Buffalo, NY, but despite his high ratings and the love of his beautiful girlfriend, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God - and the Almighty responds, endowing Bruce with all of His divine powers.\",\"popularity\":70.935,\"poster_path\":\"\/3XJKBKh9Km89EoUEitVTSnrlAkZ.jpg\",\"production_companies\":[{\"id\":160,\"logo_path\":null,\"name\":\"Pit Bull Productions\",\"origin_country\":\"\"},{\"id\":158,\"logo_path\":\"\/6SHlNIype9zmyEMRsBtoueUtLsq.png\",\"name\":\"Spyglass Entertainment\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":159,\"logo_path\":\"\/rYsaKUrfDoOa2UG846axs4r81Dx.png\",\"name\":\"Shady Acres Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-05-23\",\"revenue\":484600000,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If you could be God for one week, what would you do?\",\"title\":\"Bruce Almighty\",\"video\":false,\"vote_average\":6.714,\"vote_count\":10458}"
+}

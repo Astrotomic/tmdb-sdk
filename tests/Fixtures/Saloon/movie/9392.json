@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1481",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17284",
+        "x-memc": "HIT",
+        "x-memc-key": "28e250e79d2c86541efc8b99a6b4fb38",
+        "x-memc-age": "7224",
+        "x-memc-expires": "17284",
+        "ETag": "W\/\"ffe9aee37bdc026613212bd0dd45191f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2DJ2mAldMZDZ8wDY6vmXHzUMYB2dJx1__0uLUJzrPasA07N4Eo9HlQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yERDHEaOezMqsRXhrulS9t6sAqC.jpg\",\"belongs_to_collection\":{\"id\":87258,\"name\":\"The Descent Collection\",\"poster_path\":\"\/nKF0faDJsoALc70tptEoQsQsIUq.jpg\",\"backdrop_path\":\"\/5I9Avp1dL16ZaO1qkVSfo0k3PpC.jpg\"},\"budget\":3500000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":9392,\"imdb_id\":\"tt0435625\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"The Descent\",\"overview\":\"After a tragic accident, six friends reunite for a caving expedition. Their adventure soon goes horribly wrong when a collapse traps them deep underground and they find themselves pursued by bloodthirsty creatures. As their friendships deteriorate, they find themselves in a desperate struggle to survive the creatures and each other.\",\"popularity\":46.394,\"poster_path\":\"\/mxFPI4KYBk5ri9cPteIS8jiDFgj.jpg\",\"production_companies\":[{\"id\":3573,\"logo_path\":null,\"name\":\"Celador Films\",\"origin_country\":\"GB\"},{\"id\":45785,\"logo_path\":null,\"name\":\"Northmen Productions\",\"origin_country\":\"GB\"},{\"id\":7396,\"logo_path\":\"\/jnjLKDfdAfNylfVdybY9370Ybrg.png\",\"name\":\"Pathe\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2005-07-08\",\"revenue\":57130027,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Scream your last breath.\",\"title\":\"The Descent\",\"video\":false,\"vote_average\":6.968,\"vote_count\":3746}"
+}

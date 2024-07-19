@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1070",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5971",
+        "x-memc": "HIT",
+        "x-memc-key": "606169dffced87cc82605286fb65e40b",
+        "x-memc-age": "19721",
+        "x-memc-expires": "5971",
+        "ETag": "W\/\"f7b4698dfc185df22639f125ececc2a7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xEy4de3Wlx69pkipv52TGd06EwZbrtFxgby33rcBF-maaEjffKxZxw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.dffb.de\/films\/der-kuss-des-honigdachses\/\",\"id\":705495,\"imdb_id\":null,\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Der Kuss des Honigdachses\",\"overview\":\"Once upon a time, there's been an epidemic on earth: People float away due to fear and petty criminal brothers R\u00e9mi and Widu are fighting the whole time while trying to accomplish their biggest mission yet.\",\"popularity\":0.893,\"poster_path\":\"\/qDmr8f8wa8Ao5iCcvkvaeJMRQcx.jpg\",\"production_companies\":[{\"id\":31052,\"logo_path\":\"\/pJgQoO1PyJdhOP1UOrVsDeolYw7.png\",\"name\":\"Deutsche Film- und Fernsehakademie Berlin (DFFB)\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2019-04-17\",\"revenue\":0,\"runtime\":64,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Kiss of the Honey Badger\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

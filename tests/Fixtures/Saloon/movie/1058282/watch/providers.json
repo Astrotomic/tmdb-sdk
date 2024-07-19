@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "242",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=697",
+        "x-memc": "HIT",
+        "x-memc-key": "b6a028ca1824f9ed5731cd36e203a600",
+        "x-memc-age": "26688",
+        "x-memc-expires": "697",
+        "ETag": "W\/\"8c108d9bcccf416c00e7949bba7bd3c3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 85310f8b6878a9cfaa0218e021ae364e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0ghD0GC66grKDYmHl7U2WXDxmucyIW0NynUoOZAOx6vncESppPblBw=="
+    },
+    "data": "{\"id\":1058282,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1058282-that-which-once-was\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg\",\"provider_id\":191,\"provider_name\":\"Kanopy\",\"display_priority\":48}]}}}"
+}

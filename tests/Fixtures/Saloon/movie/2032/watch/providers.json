@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "601",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:17:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22890",
+        "x-memc": "HIT",
+        "x-memc-key": "6960a5c1d50732e371d58a7cb585168b",
+        "x-memc-age": "4398",
+        "x-memc-expires": "22890",
+        "ETag": "W\/\"59b3541d4b11645ac966b0a64d3802e4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7z8WfCGBuYejJ_Cgq5YUtKqfSO1SWAE_E7e62KUQOaxlLMSuQhN-rA=="
+    },
+    "data": "{\"id\":2032,\"results\":{\"RU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2032\/watch?locale=RU\",\"rent\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":4}],\"flatrate\":[{\"logo_path\":\"\/r7cgAhlSLI4r80P1Si9P0jOevrr.jpg\",\"provider_id\":570,\"provider_name\":\"Premier\",\"display_priority\":20},{\"logo_path\":\"\/51wuCkUdkEQTUtB8TrtZzzxp3Tj.jpg\",\"provider_id\":117,\"provider_name\":\"Kinopoisk\",\"display_priority\":23}]}}}"
+}

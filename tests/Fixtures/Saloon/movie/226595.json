@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1006",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8311",
+        "x-memc": "HIT",
+        "x-memc-key": "1efb11d75cef927d13a2840122d1bee6",
+        "x-memc-age": "15692",
+        "x-memc-expires": "8311",
+        "ETag": "W\/\"8c140a4c547b2e6e1b5d17c4d26230f8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "35lpoUkc_CZ9NShQRqi-sORj-4EA9Y76BtyZ_r58R0uJWU6gT4uxcQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"\",\"id\":226595,\"imdb_id\":\"tt0287634\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Plaster Caster\",\"overview\":\"Portrait of legendary artist and groupie Cynthia Plaster Caster famous for plaster casting the penises of rock stars.\",\"popularity\":2.695,\"poster_path\":\"\/bsSteWBAclyuOzEWpih7b7eZzyH.jpg\",\"production_companies\":[{\"id\":17211,\"logo_path\":null,\"name\":\"Avenue Edit\",\"origin_country\":\"\"},{\"id\":130232,\"logo_path\":null,\"name\":\"Fragment Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2003-09-01\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Rock & Roll Adventure of Super-Groupie Cynthia Plaster Caster\",\"title\":\"Plaster Caster\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

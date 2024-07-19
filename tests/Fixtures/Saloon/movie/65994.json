@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1072",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15289",
+        "x-memc": "HIT",
+        "x-memc-key": "9926300bdbc20b317c989c7121ea21a6",
+        "x-memc-age": "7421",
+        "x-memc-expires": "15289",
+        "ETag": "W\/\"f8c0388069c743663f3a9c936717a8c1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1zmHG85uojODUQUvHpsz4VQZ4UBUb_vtn6_youShufF9XpUtnby7qg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yn976rNbjLzs4TK8BMhnPlngcyb.jpg\",\"belongs_to_collection\":null,\"budget\":2970000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":65994,\"imdb_id\":\"tt0047365\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Prince Valiant\",\"overview\":\"A young Viking prince strives to become a knight in King Arthur's Court and restore his exiled father to his rightful throne.\",\"popularity\":11.673,\"poster_path\":\"\/o7q1JvtEmU46XecF9NWw7kmiswS.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1954-04-05\",\"revenue\":3373,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Golden Age of Adventure Comes Alive as the Vikings Storm the Screen\",\"title\":\"Prince Valiant\",\"video\":false,\"vote_average\":5.9,\"vote_count\":56}"
+}

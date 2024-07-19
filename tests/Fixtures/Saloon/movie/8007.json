@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1817",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:36:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13517",
+        "x-memc": "HIT",
+        "x-memc-key": "8e02b56fdfcff4c10ed8b4e6d61b0564",
+        "x-memc-age": "9735",
+        "x-memc-expires": "13517",
+        "ETag": "W\/\"f703f5ca717096c50820f819c614b933\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Hgzzo28aVGl0xYNVR9jeSxSmFvrBBYOAWqzP32QJ7YOsOzRrGHV1ug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dDysbNQipEnh2xFr8o3MPmjDkfg.jpg\",\"belongs_to_collection\":{\"id\":98513,\"name\":\"Behind Enemy Lines Collection\",\"poster_path\":\"\/baDDWPQgZyBKiDNeipLJ9LEZ5BX.jpg\",\"backdrop_path\":\"\/5sMWk8wutGCFAM7MAFPQJyc0ny0.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":8007,\"imdb_id\":\"tt0159273\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Behind Enemy Lines\",\"overview\":\"While flying a routine reconnaissance mission over Bosnia, fighter pilot Lt. Chris Burnett photographs something he wasn't supposed to see and gets shot down behind enemy lines, where he must outrun an army led by a ruthless Serbian general. With time running out and a deadly tracker on his trail, Burnett's commanding officer, Admiral Reigart, decides to risk his career and launch a renegade rescue mission to save his life.\",\"popularity\":41.362,\"poster_path\":\"\/fZReMWU3zszvaktDUqOoWCzHssZ.jpg\",\"production_companies\":[{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2001-11-30\",\"revenue\":91753202,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"Serbo-Croatian\",\"iso_639_1\":\"sh\",\"name\":\"\"}],\"status\":\"Released\",\"tagline\":\"His only weapon is his will to survive.\",\"title\":\"Behind Enemy Lines\",\"video\":false,\"vote_average\":6.374,\"vote_count\":1435}"
+}

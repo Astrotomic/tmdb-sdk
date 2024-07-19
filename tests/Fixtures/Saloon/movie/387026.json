@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "844",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22532",
+        "x-memc": "HIT",
+        "x-memc-key": "071f1c05f16716e16ba776f51572da5e",
+        "x-memc-age": "1379",
+        "x-memc-expires": "22532",
+        "ETag": "W\/\"e37d956ae8320e7d3f4bab7dd0ed921e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NeBdR3V2mh27g8lB-MF2jNKoEkcOwHh5iNid2IqjYt4AcLGB2ApuEw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.facebook.com\/saturdayswarrior\",\"id\":387026,\"imdb_id\":\"tt4699130\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Saturday's Warrior\",\"overview\":\"A group of siblings comes to earth to experience trials crucial to their eternal progression and learn the true meaning of their existence.\",\"popularity\":1.894,\"poster_path\":\"\/geyuocrVWdCWTdqKw4kVI17bd88.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2016-03-31\",\"revenue\":0,\"runtime\":139,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"There's more to life than just this life\",\"title\":\"Saturday's Warrior\",\"video\":false,\"vote_average\":5.3,\"vote_count\":3}"
+}

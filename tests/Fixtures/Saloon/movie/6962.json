@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1612",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14986",
+        "x-memc": "HIT",
+        "x-memc-key": "bf552fb2755a155ba48fce760de284e1",
+        "x-memc-age": "10053",
+        "x-memc-expires": "14986",
+        "ETag": "W\/\"0e93c5b58860ee333c76017d3fa7f559\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ID_KhPoZe_MrWO3b0UAXow9oaf1NReWBvSHrdk0rwAp2KSKwMQ-BRQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/z7C5W4MwLcsS9UC7MFyxrMrpzqy.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":6962,\"imdb_id\":\"tt0314226\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Das Jesus Video\",\"overview\":\"Steffen Vogt, aged around 25, is helping out at a German archeological excavation in Israel when he finds a 2,000-year-old skeleton holding the instructions for a video camera dating from the year 2003. The bones also show traces of the present day. His theory of a time-traveler who made a video of Jesus is laughed at by everyone, however, including Sharon, an attractive Israeli woman he adores. Although no one appears to believe him, his find certainly seems to have generated interest: Steffen is attacked shortly afterwards in his hotel room by strange men; then he discovers that the German embassy and the secret service are after him; and when his friend Dan is murdered, he goes into hiding.\",\"popularity\":11.805,\"poster_path\":\"\/thWAdfTM9JLCb9w2ShBH2gUByIA.jpg\",\"production_companies\":[{\"id\":198,\"logo_path\":null,\"name\":\"GFP Medienfonds\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"2002-12-05\",\"revenue\":0,\"runtime\":182,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"An adventure that started 2000 years ago...\",\"title\":\"The Hunt for the Hidden Relic\",\"video\":false,\"vote_average\":6.9,\"vote_count\":86}"
+}

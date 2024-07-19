@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "969",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17100",
+        "x-memc": "HIT",
+        "x-memc-key": "0c67553886bcd6ee12f4a649f1240a2f",
+        "x-memc-age": "6541",
+        "x-memc-expires": "17100",
+        "ETag": "W\/\"094167bdb908177783d3a4d236ad1c65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FthwJaewVvJi6o543Qe6az_LULHkaMdKcxqETwHtBy-OZUuXYPIOvQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1176692,\"imdb_id\":\"tt10065412\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Den dag min ven ikke kom til fodbold\",\"overview\":\"When his friend is expelled from the football team, a determined young enthusiast defies odds to find him. Ignored by others, he unearths truths and takes matters into his own hands, revealing the power of friendship.\",\"popularity\":1.162,\"poster_path\":\"\/ngZeK0VfYZbGmG08L2MdaycGJTd.jpg\",\"production_companies\":[{\"id\":117712,\"logo_path\":null,\"name\":\"KBH FILM \\u0026 FOTO SKOLE\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2016-12-19\",\"revenue\":0,\"runtime\":13,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Day My Friend Didn't Come to Football\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

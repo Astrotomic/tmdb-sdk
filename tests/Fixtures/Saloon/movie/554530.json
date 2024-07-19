@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "903",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19375",
+        "x-memc": "HIT",
+        "x-memc-key": "d5e15a07041b5aa4456b179b3e9e2337",
+        "x-memc-age": "7237",
+        "x-memc-expires": "19375",
+        "ETag": "W\/\"49dcdea436c37b29740b812fdfeb05fc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zo4fQTMZ-LWmXfxGOF6iPHedMjzZocTTxIOYEQ3Tt7kb6_rBa6VqdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":554530,\"imdb_id\":\"tt0069790\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u9ed1\u5e26\u4ec7\",\"overview\":\"A cop seeks revenge on those who murdered his mother, and later kidnap his blind sister for prostitution.\",\"popularity\":5.725,\"poster_path\":\"\/7ZJhYrWfAf7M5cpBwXeH8JIFoI3.jpg\",\"production_companies\":[{\"id\":4159,\"logo_path\":null,\"name\":\"Goldig Films (H.K.) Ltd.\",\"origin_country\":\"HK\"}],\"production_countries\":[{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"}],\"release_date\":\"1973-09-06\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"The original nerve-shattering sensation\",\"title\":\"\u9ed1\u5e26\u4ec7\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

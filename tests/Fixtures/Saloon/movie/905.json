@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1205",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:59:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4170",
+        "x-memc": "HIT",
+        "x-memc-key": "50634837f852dfb2585eb6663cee1d87",
+        "x-memc-age": "20052",
+        "x-memc-expires": "4170",
+        "ETag": "W\/\"79e8fc75f49fd7e554cb19f7d0434b34\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ciJA6Dd1xmlK-X7TJKTMgFGdauzIdMUQ1OWgC_noSbE6OTRd_yCLcg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y3WwIEEDcbT88MxjCjM8mlBEF04.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":905,\"imdb_id\":\"tt0018737\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Die B\u00fcchse der Pandora\",\"overview\":\"Lulu is a young woman so beautiful and alluring that few can resist her siren charms. The men drawn into her web include respectable newspaper publisher Dr. Ludwig Sch\u00f6n, his musical producer son Alwa, circus performer Rodrigo Quast, and seedy old Schigolch. When Lulu's charms inevitably lead to tragedy, the downward spiral encompasses them all.\",\"popularity\":12.503,\"poster_path\":\"\/xw5KFcTBYyvu4IzQY5ErgBQ73Eq.jpg\",\"production_companies\":[{\"id\":43854,\"logo_path\":\"\/tMo26bTTY0f4mMPIvFnyydrDm7V.png\",\"name\":\"Nero-Film AG\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1929-01-30\",\"revenue\":885533,\"runtime\":133,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pandora's Box\",\"video\":false,\"vote_average\":7.491,\"vote_count\":215}"
+}

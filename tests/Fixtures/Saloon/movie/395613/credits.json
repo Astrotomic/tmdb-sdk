@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "846",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15645",
+        "x-memc": "HIT",
+        "x-memc-key": "296eda039e8bdb896158532dc071ef4d",
+        "x-memc-age": "11712",
+        "x-memc-expires": "15645",
+        "ETag": "W\/\"8d58ce734ffcb81154c60db08eb68b0a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "iUDIBqkhL4n0t3rwP9h7FsXqHD7qpGznKdXW6plDdxwKrRUKjqnNLw=="
+    },
+    "data": "{\"id\":395613,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1613871,\"known_for_department\":\"Acting\",\"name\":\"Nicole C. Burton\",\"original_name\":\"Nicole C. Burton\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Mandy\",\"credit_id\":\"5726716792514132b8003520\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":81597,\"known_for_department\":\"Writing\",\"name\":\"Maxwell Atoms\",\"original_name\":\"Maxwell Atoms\",\"popularity\":10.247,\"profile_path\":\"\/aqyhhgwaEfVU166lWvR8Cxj7tmN.jpg\",\"cast_id\":3,\"character\":\"Billy (voice)\",\"credit_id\":\"5844b4fd925141676400f0ad\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":81597,\"known_for_department\":\"Writing\",\"name\":\"Maxwell Atoms\",\"original_name\":\"Maxwell Atoms\",\"popularity\":10.247,\"profile_path\":\"\/aqyhhgwaEfVU166lWvR8Cxj7tmN.jpg\",\"credit_id\":\"5844b4cc9251416a7400ec1d\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

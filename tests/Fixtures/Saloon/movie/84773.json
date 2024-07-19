@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1177",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23567",
+        "x-memc": "HIT",
+        "x-memc-key": "8bd1d4120a368781608a1e0a4c9e6453",
+        "x-memc-age": "4871",
+        "x-memc-expires": "23567",
+        "ETag": "W\/\"1b66e0694dd7f7dbb39ac1e6aeaf7ac3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UNmMVudrwe3y_CRUGFv4QeJwHc3qUsYRUAVAhkiziiIVR6TawoGFBQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":84773,\"imdb_id\":\"tt0207407\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Detective Kitty O'Day\",\"overview\":\"Convinced that she has what it takes to be a detective, inquisitive secretary Kitty O'Day gets her chance to put her sleuthing skills to the test when her investment broker boss is mysteriously murdered. But Kitty's investigation hits a snag when Inspector Miles Clancy begins to suspect that she's the culprit.\",\"popularity\":2.553,\"poster_path\":\"\/mQmsmWOSIe5J5iwEQr7EQmiba3X.jpg\",\"production_companies\":[{\"id\":4395,\"logo_path\":null,\"name\":\"Monogram Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1944-05-13\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"HELP! HELP! MURDER!...and YOU'RE THE VICTIM!\",\"title\":\"Detective Kitty O'Day\",\"video\":false,\"vote_average\":4.7,\"vote_count\":17}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1501",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9807",
+        "x-memc": "HIT",
+        "x-memc-key": "0fe1416038e6d211926115611faa742c",
+        "x-memc-age": "13456",
+        "x-memc-expires": "9807",
+        "ETag": "W\/\"c780ed204996f641b40110ced2059ea9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NWLrrB3D2gC9cIHeuvXMeLxSHng0QirMP-K-97Yhz1Lpu-NSpt-cdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xqCU96foxW8w2dhaEhP3vr1Sx4R.jpg\",\"belongs_to_collection\":null,\"budget\":13000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":238603,\"imdb_id\":\"tt2183034\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Earth to Echo\",\"overview\":\"After a construction project begins digging in their neighbourhood, best friends Tuck, Munch and Alex inexplicably begin to receive strange, encoded messages on their cell phones. Convinced something bigger is going on, they go to their parents and the authorities. The three embark on a secret adventure to crack the code and follow it to its source, and discover a mysterious being from another world who desperately needs their help. The journey that follows will change all their lives forever.\",\"popularity\":13.602,\"poster_path\":\"\/yiNPza51nLvVTWTB9q4ifzfUlml.jpg\",\"production_companies\":[{\"id\":10426,\"logo_path\":null,\"name\":\"Panay Films\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-06-14\",\"revenue\":45300000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An adventure as big as the universe.\",\"title\":\"Earth to Echo\",\"video\":false,\"vote_average\":5.884,\"vote_count\":568}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "593",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:28:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23642",
+        "x-memc": "HIT",
+        "x-memc-key": "3401a7b8954d2b05586072ba5cb9007c",
+        "x-memc-age": "4295",
+        "x-memc-expires": "23642",
+        "ETag": "W\/\"993469c98267f743a230470cff78e27e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rWV3pCa9G6BKyNr3_Phcm6qRzs6PfZvBDLJ-WPrK6h9GBjXHQ7u7jw=="
+    },
+    "data": "{\"id\":1022642,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":3653832,\"known_for_department\":\"Acting\",\"name\":\"Hideyoshi Kan\",\"original_name\":\"Hideyoshi Kan\",\"popularity\":5.943,\"profile_path\":\"\/79WGFtwSDHqdkbnQJj4o4LxZJD5.jpg\",\"cast_id\":1,\"character\":\"Ace Ukiyo\",\"credit_id\":\"64d619e1bf31f201cd4eb46e\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":3678784,\"known_for_department\":\"Acting\",\"name\":\"Ryuga Sato\",\"original_name\":\"Ryuga Sato\",\"popularity\":7.154,\"profile_path\":\"\/nfZIN6l4e8hXr1HfswEmf1RERE8.jpg\",\"cast_id\":2,\"character\":\"Keiwa Sakurai\",\"credit_id\":\"64d619f8f495ee028f6377d9\",\"order\":1}],\"crew\":[]}"
+}

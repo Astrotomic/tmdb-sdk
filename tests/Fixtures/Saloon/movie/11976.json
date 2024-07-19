@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1633",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23809",
+        "x-memc": "HIT",
+        "x-memc-key": "73c02ba15683dd909da5719230c0f28c",
+        "x-memc-age": "2057",
+        "x-memc-expires": "23809",
+        "ETag": "W\/\"31461e3b61e409751544a8bd313f78a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z7xf_dKD51QeAvDiXPOedAnSL7x53z3fzPv0z_y4tcMERDQtpqkYJg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3g8rLMw0SbA0h2GHiOCBoqFTXVq.jpg\",\"belongs_to_collection\":null,\"budget\":24500000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/legend-1986\",\"id\":11976,\"imdb_id\":\"tt0089469\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Legend\",\"overview\":\"Set in a timeless mythical forest inhabited by fairies, goblins, unicorns and mortals, this fantastic story follows a mystical forest dweller, chosen by fate, to undertake a heroic quest. He must save the beautiful Princess  Lili and defeat the demonic Lord of Darkness, or the world will be plunged into a never-ending ice age.\",\"popularity\":51.751,\"poster_path\":\"\/6n3PQSYpZRK5YPk2w8JEwED7AZk.jpg\",\"production_companies\":[{\"id\":10214,\"logo_path\":null,\"name\":\"Embassy International Pictures\",\"origin_country\":\"US\"},{\"id\":10215,\"logo_path\":null,\"name\":\"Legend Production Company\",\"origin_country\":\"\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1985-08-28\",\"revenue\":15502112,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"There may never be another dawn.\",\"title\":\"Legend\",\"video\":false,\"vote_average\":6.211,\"vote_count\":1171}"
+}

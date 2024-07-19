@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1979",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1087",
+        "x-memc": "HIT",
+        "x-memc-key": "82b6966564b918f86f126724d8b6a94d",
+        "x-memc-age": "25131",
+        "x-memc-expires": "1087",
+        "ETag": "W\/\"560f72e54286fae8464c75838a70e0be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NyJcV6LxW9qxZvPfhobNE3kAqw47XjvbJccpUfQ8AnK2dWijo70MnA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5tKiuZvvV1lic7v65rdoGPmoOvf.jpg\",\"belongs_to_collection\":{\"id\":528,\"name\":\"The Terminator Collection\",\"poster_path\":\"\/pF5GIijY2fyZcByqNDzhS8v4h1x.jpg\",\"backdrop_path\":\"\/5swQRtrFigXwLdaH4Y2UeJjZHCy.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/terminator-salvation\",\"id\":534,\"imdb_id\":\"tt0438488\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Terminator Salvation\",\"overview\":\"All grown up in post-apocalyptic 2018, John Connor must lead the resistance of humans against the increasingly dominating militaristic robots. But when Marcus Wright appears, his existence confuses the mission as Connor tries to determine whether Wright has come from the future or the past -- and whether he's friend or foe.\",\"popularity\":56.47,\"poster_path\":\"\/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg\",\"production_companies\":[{\"id\":4021,\"logo_path\":\"\/xSgwmjXQfVWRRLPRDvbFnnNqlbC.png\",\"name\":\"The Halcyon Company\",\"origin_country\":\"US\"},{\"id\":212486,\"logo_path\":null,\"name\":\"Moritz Borman Productions\",\"origin_country\":\"US\"},{\"id\":4022,\"logo_path\":\"\/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png\",\"name\":\"Wonderland Sound and Vision\",\"origin_country\":\"US\"},{\"id\":2723,\"logo_path\":\"\/rB0dyszYRRR3SAG1tfNRzXoYDYq.png\",\"name\":\"Lin Pictures\",\"origin_country\":\"US\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"},{\"id\":220966,\"logo_path\":null,\"name\":\"T Asset Acquisition Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-05-20\",\"revenue\":371353001,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"The End Begins.\",\"title\":\"Terminator Salvation\",\"video\":false,\"vote_average\":6.059,\"vote_count\":6303}"
+}

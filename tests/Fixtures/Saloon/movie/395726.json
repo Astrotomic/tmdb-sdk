@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1080",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9815",
+        "x-memc": "HIT",
+        "x-memc-key": "d8b41b8bf61ae5d6892fc9449325e6e8",
+        "x-memc-age": "14223",
+        "x-memc-expires": "9815",
+        "ETag": "W\/\"4d3636795d366d045e4e0722002b2e9e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pKRBmjxE9BHxsWqJl5IE45BMne1KUNjTfqBT63d2U_fJwHVdmsLH2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pC8pDMBFZr99EgBH9WjfZn53w9l.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395726,\"imdb_id\":\"tt5756530\",\"origin_country\":[\"RU\"],\"original_language\":\"ru\",\"original_title\":\"\u041a\u043e\u0440\u043e\u0431\u043a\u0430\",\"overview\":\"Kostya and his friends are young and love playing street football. Kostya dreams of playing professionally, but cannot bring himself to approach the coach. His girlfriend, Nastya, shares his dream, but street football is Kostya\u2019s life, and the outdoor pitch is akin to a second home, a place for friends to meet and play.\",\"popularity\":11.186,\"poster_path\":\"\/aroob4raBfEqz2U28MOpVdtFkSQ.jpg\",\"production_companies\":[{\"id\":85688,\"logo_path\":null,\"name\":\"Telesto\",\"origin_country\":\"RU\"}],\"production_countries\":[{\"iso_3166_1\":\"RU\",\"name\":\"Russia\"}],\"release_date\":\"2016-04-07\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Pitch\",\"video\":false,\"vote_average\":6.5,\"vote_count\":13}"
+}

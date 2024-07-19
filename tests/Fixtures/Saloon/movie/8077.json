@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1608",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18905",
+        "x-memc": "HIT",
+        "x-memc-key": "9989c3bc5a15945facf5a9c18926bfc6",
+        "x-memc-age": "8275",
+        "x-memc-expires": "18905",
+        "ETag": "W\/\"70e33f14b7378e00590e9596ed50e3b1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uPNvW9EF1hbhJLIPvoSc7WHaGFxRbDsvPSFLxrcysje13-wEQHCJuQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nEmOmbCWBXS3tHU2N49z693KDK.jpg\",\"belongs_to_collection\":{\"id\":8091,\"name\":\"Alien Collection\",\"poster_path\":\"\/yriOcdpJ6gQIAuWGZvtgSzkhWoz.jpg\",\"backdrop_path\":\"\/6X42JnSMdo3dPAswOHUuvebdTq7.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/alien-3\",\"id\":8077,\"imdb_id\":\"tt0103644\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Alien\u00b3\",\"overview\":\"After escaping with Newt and Hicks from the alien planet, Ripley crash lands on Fiorina 161, a prison planet and host to a correctional facility. Unfortunately, although Newt and Hicks do not survive the crash, a more unwelcome visitor does. The prison does not allow weapons of any kind, and with aid being a long time away, the prisoners must simply survive in any way they can.\",\"popularity\":41.871,\"poster_path\":\"\/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":401,\"logo_path\":\"\/t7mM3DvQ9MwDT3YzMCBrkWpWiiz.png\",\"name\":\"Brandywine Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1992-05-22\",\"revenue\":159773545,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"3 times the suspense. 3 times the danger. 3 times the terror.\",\"title\":\"Alien\u00b3\",\"video\":false,\"vote_average\":6.363,\"vote_count\":5397}"
+}

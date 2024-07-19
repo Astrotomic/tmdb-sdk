@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1286",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3002",
+        "x-memc": "HIT",
+        "x-memc-key": "deaab1956277f8a485e83e6fb03c6f41",
+        "x-memc-age": "23134",
+        "x-memc-expires": "3002",
+        "ETag": "W\/\"6627c592da8c873d43d5d79769463382\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DNTLPHbZmmFgzNnXhnJQ8M434CS4SFCf4pZV8eU60tVjSd01ncrMdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yCoyqFx0CB6Usa8xom9fU7sc44P.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":24808,\"imdb_id\":\"tt0086336\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Something Wicked This Way Comes\",\"overview\":\"In a small American town, a diabolical circus arrives, granting wishes for the townsfolk, but twisted as only the esteemed Mr. Dark can make them. Can two young boys overcome the worst the devil himself can deal out?\",\"popularity\":10.251,\"poster_path\":\"\/94dMO6kAawyFUk0sCDGIjAnchED.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"},{\"id\":611,\"logo_path\":null,\"name\":\"Bryna Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1983-04-29\",\"revenue\":8400000,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What would you give a man who could make your deepest dreams come true?\",\"title\":\"Something Wicked This Way Comes\",\"video\":false,\"vote_average\":6.426,\"vote_count\":169}"
+}

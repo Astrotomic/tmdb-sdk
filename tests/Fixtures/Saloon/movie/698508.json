@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1416",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6589",
+        "x-memc": "HIT",
+        "x-memc-key": "0cf6c35203b0a25b3eb7a8bc201ce348",
+        "x-memc-age": "21931",
+        "x-memc-expires": "6589",
+        "ETag": "W\/\"d3c9b16fa7eb111b9f60565967413119\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "L0k3iWCVdqRQ7uQWxXw_s22Q8hjEMieG1575rrB_UDowgh_sIVnFyg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lD8dFIk9wDEvOwZw0RB47e346io.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"https:\/\/redeeminglovemovie.com\/\",\"id\":698508,\"imdb_id\":\"tt11365186\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Redeeming Love\",\"overview\":\"A retelling of the biblical book of Hosea set against the backdrop of the California Gold Rush of 1850.\",\"popularity\":64.8,\"poster_path\":\"\/z8VpsTdIjBhdeGeNEsHFwz6MJXp.jpg\",\"production_companies\":[{\"id\":54927,\"logo_path\":null,\"name\":\"Mission Pictures International\",\"origin_country\":\"\"},{\"id\":79287,\"logo_path\":\"\/cNfxzrBMccEmqhLg4At8hX6FC6y.png\",\"name\":\"Advantage Entertainment\",\"origin_country\":\"ZA\"},{\"id\":157314,\"logo_path\":\"\/eJ3zud0Tynepy0fJ6lOSMY1oNH3.png\",\"name\":\"Pinnacle Peak Pictures\",\"origin_country\":\"US\"},{\"id\":225226,\"logo_path\":\"\/f1ZRrIm0mxEw6bM36Xhg7m47ix7.png\",\"name\":\"Nthibah Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"ZA\",\"name\":\"South Africa\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-01-21\",\"revenue\":9500000,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never look back. Never look forward.\",\"title\":\"Redeeming Love\",\"video\":false,\"vote_average\":7.864,\"vote_count\":491}"
+}

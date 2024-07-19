@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1325",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1257",
+        "x-memc": "HIT",
+        "x-memc-key": "c60a5ac37ff0629213c65050bf4107c0",
+        "x-memc-age": "27227",
+        "x-memc-expires": "1257",
+        "ETag": "W\/\"37a0f52e3fae0e3bfa0bccc5d502b5ef\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "_OG3n6h6kMMd9boDvhaUVhdY58zE_wQuNvcmf9oub668slKzzkvYRA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jgWM5tMiKrFT88rzk6noE2NrBPn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":393692,\"imdb_id\":\"tt0070841\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Il tuo piacere \u00e8 il mio\",\"overview\":\"In '500 a noble Tuscan gives a banquet in which they are told bawdy stories: a cardinal tells dirty stories during a banquet that turns into a purge; a marquise is induced into temptation by an abbot; a tintora has carnal relations with a brother, and the two have a son; prisoner of Charles V , Francis I of France has a relationship with two Spanish and get an acquittal advance by the Pope; a group of cardinals contain a prostitute during a council; the Marquis Cavalcanti, rejected by the bride, vents his cravings with a syphilitic prostitute.\",\"popularity\":4.16,\"poster_path\":\"\/sxMnJRXIbJxWS39TmllQTSr1sDQ.jpg\",\"production_companies\":[{\"id\":33650,\"logo_path\":null,\"name\":\"Naxos Film\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1973-04-14\",\"revenue\":0,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"My Pleasure Is Your Pleasure\",\"video\":false,\"vote_average\":5.3,\"vote_count\":3}"
+}

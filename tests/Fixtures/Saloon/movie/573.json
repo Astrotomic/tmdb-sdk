@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1264",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=851",
+        "x-memc": "HIT",
+        "x-memc-key": "a87e7eac41202a8e6c8619367ea246d6",
+        "x-memc-age": "23006",
+        "x-memc-expires": "851",
+        "ETag": "W\/\"3d3f8f54fcf23714e6bb634ccc29f578\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cUl3WR5y6Xqgoo4b7VpdMDuQ8ql81Zct7nHj0Z3TSysdWK9P-SAWcQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5NWLgFDwDOsLXs5m0tTuyRm4SKa.jpg\",\"belongs_to_collection\":null,\"budget\":3500000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":573,\"imdb_id\":\"tt0068611\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Frenzy\",\"overview\":\"After a serial killer strangles several women with a necktie, London police identify a suspect\u2014but he claims vehemently to be the wrong man.\",\"popularity\":20.639,\"poster_path\":\"\/4SFvqrlSigAt9tnhXFSMyKeJWQk.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":10715,\"logo_path\":null,\"name\":\"Alfred J. Hitchcock Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1972-05-25\",\"revenue\":12600000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Just an ordinary necktie used with a deadly new twist.\",\"title\":\"Frenzy\",\"video\":false,\"vote_average\":7.108,\"vote_count\":867}"
+}

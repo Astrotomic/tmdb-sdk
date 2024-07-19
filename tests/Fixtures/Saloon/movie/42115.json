@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1471",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:31:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=501",
+        "x-memc": "HIT",
+        "x-memc-key": "3bd3799f1bbc0b48afb35b7fd508d857",
+        "x-memc-age": "24554",
+        "x-memc-expires": "501",
+        "ETag": "W\/\"a31ce6528e6cadef0a3898112b5aca6b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mIz9dWtj5EEoEmTv144IPe0Uld7G_qpe4OGYRmtOaARqg8CCP-MZ0Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i4t0UsvWI7REsaZqnjQ2iui2XZv.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":42115,\"imdb_id\":\"tt0086213\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Rue cases-n\u00e8gres\",\"overview\":\"Martinique, in the early 1930s. Young Jos\u00e9 and his grandmother live in a small village. Nearly everyone works cutting cane and barely earning a living. The overseer can fine a worker for the smallest infraction. The way to advance is to do well in school. Jos\u00e9 studies hard and succeeds in an exam allowing him to attend school in the capital. With only a partial scholarship, the tuition is very costly. Jos\u00e9 and his grandmother move to Fort-de-France to make Jos\u00e9's studies easier...\",\"popularity\":3.004,\"poster_path\":\"\/yfMn3alwmu237SWjvcuRXTWbgky.jpg\",\"production_companies\":[{\"id\":22359,\"logo_path\":null,\"name\":\"NEF Diffusion\",\"origin_country\":\"FR\"},{\"id\":84227,\"logo_path\":null,\"name\":\"SU.MA.FA.\",\"origin_country\":\"\"},{\"id\":84228,\"logo_path\":null,\"name\":\"Orca Productions\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"MQ\",\"name\":\"Martinique\"}],\"release_date\":\"1983-09-21\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sugar Cane Alley\",\"video\":false,\"vote_average\":6.714,\"vote_count\":28}"
+}

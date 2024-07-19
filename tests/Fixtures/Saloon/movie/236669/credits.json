@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "280",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5057",
+        "x-memc": "HIT",
+        "x-memc-key": "2ef42e90ddcd5634bf2089e30bee6523",
+        "x-memc-age": "23707",
+        "x-memc-expires": "5057",
+        "ETag": "W\/\"2cd6723c34e1c695e08dbfd7c8782cd4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "swnIJSTEky6fFGSTGfhV1s2ce7A7FffpV-JOsmGos5DK-mH1w15LcQ=="
+    },
+    "data": "{\"id\":236669,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1118701,\"known_for_department\":\"Directing\",\"name\":\"Mannie Davis\",\"original_name\":\"Mannie Davis\",\"popularity\":1.796,\"profile_path\":null,\"credit_id\":\"52fe4e5ec3a36847f828c759\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

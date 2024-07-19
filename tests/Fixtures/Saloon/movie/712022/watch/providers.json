@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2013",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:14:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17965",
+        "x-memc": "HIT",
+        "x-memc-key": "4dfe3f7a6c374159188fa3b58aa0473c",
+        "x-memc-age": "8437",
+        "x-memc-expires": "17965",
+        "ETag": "W\/\"93652ee7db42dd9c9c0383f966b61dc2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZrQczZyQLQgvV4Epz8f4-qth8dcxi8SsiwjSLVv9dlx7jVUbpvUUQw=="
+    },
+    "data": "{\"id\":712022,\"results\":{\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/712022-captives\/watch?locale=FR\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":16},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":21},{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/9Fyo6njYvroAIxAzTBbLgnjgYga.jpg\",\"provider_id\":61,\"provider_name\":\"Orange VOD\",\"display_priority\":12},{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":15},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":16},{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":21},{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":42}]}}}"
+}

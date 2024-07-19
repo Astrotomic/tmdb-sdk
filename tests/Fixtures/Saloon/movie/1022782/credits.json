@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "307",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23698",
+        "x-memc": "MISS, STORE",
+        "x-memc-key": "574b2c15e5fdefa1ceab7223ec634ed1",
+        "x-memc-age": "0",
+        "x-memc-expires": "23698",
+        "ETag": "W\/\"48e158d1ae61d6fb832727fe21720dc2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oPWV7tGqPF4nSTpec30GfYWuXFFs6v-qQVpBKujevJgSeob538nbug=="
+    },
+    "data": "{\"id\":1022782,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":3367106,\"known_for_department\":\"Acting\",\"name\":\"Ha Yul-Ri\",\"original_name\":\"\ud558\uc728\ub9ac\",\"popularity\":21.307,\"profile_path\":\"\/mOGo9x4bu3kOy4Iltwl58rvsV44.jpg\",\"cast_id\":1,\"character\":\"Seung Hee\",\"credit_id\":\"631bd1052d8ef30091a376f7\",\"order\":0}],\"crew\":[]}"
+}

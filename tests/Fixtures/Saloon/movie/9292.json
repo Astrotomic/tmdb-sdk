@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1400",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2698",
+        "x-memc": "HIT",
+        "x-memc-key": "967f22dd499a6e5efed6eda8c00a9604",
+        "x-memc-age": "24094",
+        "x-memc-expires": "2698",
+        "ETag": "W\/\"7072fee768f11c33b6573ddcfc7e4331\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xDy603iVphf_o8TFWtYivEijb50h90dLGUGXLEZsKq2OwVhKlWnUVA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cMsLVAG6I2DdFR9krJh1oy0MH1q.jpg\",\"belongs_to_collection\":null,\"budget\":65000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":9292,\"imdb_id\":\"tt0102070\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hudson Hawk\",\"overview\":\"Eddie Hawkins, called Hudson Hawk has just been released from ten years of prison and is planning to spend the rest of his life honestly. But then the crazy Mayflower couple blackmail him to steal some of the works of Leonardo da Vinci. If he refuses, they threaten to kill his friend Tommy.\",\"popularity\":32.11,\"poster_path\":\"\/g1FJLGg9TaCzgjCmTJmONGIhTar.jpg\",\"production_companies\":[{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"},{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-05-23\",\"revenue\":17218080,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Shy. Sensitive. Law-abiding. Polite. Respectful... I don't think so.\",\"title\":\"Hudson Hawk\",\"video\":false,\"vote_average\":5.659,\"vote_count\":954}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "785",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11727",
+        "x-memc": "HIT",
+        "x-memc-key": "6478d644fea5521f0778cfbc30c1aae5",
+        "x-memc-age": "12550",
+        "x-memc-expires": "11727",
+        "ETag": "W\/\"5a4ed00f4a00ae9490eedcce2e8aff62\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WygJkSZ4BIxXcxoCkJ5HXnmALw6YIfH9hBGxrvY1ydjgMcGckZ5ovA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":{\"id\":439527,\"name\":\"Dei Mudder sei Gesicht Filmreihe\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":11032,\"imdb_id\":\"tt0191072\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Dei Mudder sei Gesicht\",\"overview\":\"\",\"popularity\":0.288,\"poster_path\":\"\/d8i5lBOcm0JeCLNEKUHkHkRvv8J.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1996-12-31\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dei Mudder sei Gesicht\",\"video\":false,\"vote_average\":5.0,\"vote_count\":5}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1226",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21699",
+        "x-memc": "HIT",
+        "x-memc-key": "591c93860b549d5b3e6c03abcf5683f9",
+        "x-memc-age": "6708",
+        "x-memc-expires": "21699",
+        "ETag": "W\/\"dff125b513c385e86349b9f3020fa0dc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "O2Mn-PpLvq8RsQnjXentVgtDGdjzrFaUMdevUiYsafZffq0XmU44aw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gOYnyXlqFYS1uhRVp7TVEKVNyu0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":7216,\"imdb_id\":\"tt0079788\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Zombi Holocaust\",\"overview\":\"After Malukan immigrants engage in a string of corpse mutilations at various New York City hospitals, a doctor and a morgue assistant travel to the Maluku Islands to investigate.\",\"popularity\":11.58,\"poster_path\":\"\/cywaFiHQqWhl9USmPeTjleANhIn.jpg\",\"production_companies\":[{\"id\":1501,\"logo_path\":null,\"name\":\"Flora Film\",\"origin_country\":\"IT\"},{\"id\":13682,\"logo_path\":null,\"name\":\"Fulvia Film\",\"origin_country\":\"IT\"},{\"id\":4787,\"logo_path\":null,\"name\":\"Gico Cinematografica S.r.L.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1980-03-28\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"}],\"status\":\"Released\",\"tagline\":\"He's a depraved, homicidal killer...and he makes house calls!\",\"title\":\"Zombie Holocaust\",\"video\":false,\"vote_average\":5.5,\"vote_count\":149}"
+}

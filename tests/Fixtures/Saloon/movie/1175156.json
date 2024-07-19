@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1079",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4904",
+        "x-memc": "HIT",
+        "x-memc-key": "8404097d56563d32386099afdaf9fdd9",
+        "x-memc-age": "20320",
+        "x-memc-expires": "4904",
+        "ETag": "W\/\"3a8c79a2534c0bc219eb655cb746e67f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PwEB9Zc9zrylWUz7gb-7jb9xEFdDrnp-sjqe2L1fzuDe2gLIhlv0yQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4So4aDgPRkspivwd0WEZu9x1GVH.jpg\",\"belongs_to_collection\":{\"id\":1287601,\"name\":\"A tutti i costi - Collezione\",\"poster_path\":null,\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1175156,\"imdb_id\":\"tt30494321\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Ricchi a tutti i costi\",\"overview\":\"When a grandmother falls for a cheeky suitor with dubious intentions, her family devises a secret plan to protect her life \u2014 and their inheritance.\",\"popularity\":40.961,\"poster_path\":\"\/azv9ekvJr1Vz6gNZa6QyaIbeiHG.jpg\",\"production_companies\":[{\"id\":2534,\"logo_path\":\"\/6aizJC0RRO5oprJMYf2PBAB7lyZ.png\",\"name\":\"Colorado Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2024-06-04\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Price of Nonna's Inheritance\",\"video\":false,\"vote_average\":5.9,\"vote_count\":57}"
+}

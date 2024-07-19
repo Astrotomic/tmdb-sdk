@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1861",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14696",
+        "x-memc": "HIT",
+        "x-memc-key": "1108064ed32d71b15fb514729b72e93b",
+        "x-memc-age": "11177",
+        "x-memc-expires": "14696",
+        "ETag": "W\/\"8d9b000d2a5fe1eca1abae4e473dc36e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lPIvtr80SoK651RuyIAxevK2XAZwh-bGM3LuCD2m6SA5TvW39nRuxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg\",\"belongs_to_collection\":{\"id\":553717,\"name\":\"Creed Collection\",\"poster_path\":\"\/43kNaSDGQKN1k8uXziL0jeu9z9h.jpg\",\"backdrop_path\":\"\/qIRBVovMpYsEi5LUXN4WULYXLpC.jpg\"},\"budget\":75000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.mgmstudios.com\/creed-iii\",\"id\":677179,\"imdb_id\":\"tt11145118\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Creed III\",\"overview\":\"After dominating the boxing world, Adonis Creed has thrived in his career and family life. When a childhood friend and former boxing prodigy, Damian Anderson, resurfaces after serving a long sentence in prison, he is eager to prove that he deserves his shot in the ring. The face-off between former friends is more than just a fight. To settle the score, Adonis must put his future on the line to battle Damian \u2014 a fighter with nothing to lose.\",\"popularity\":92.659,\"poster_path\":\"\/cvsXj3I9Q2iyyIo95AecSd1tad7.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":12252,\"logo_path\":null,\"name\":\"Chartoff-Winkler Productions\",\"origin_country\":\"US\"},{\"id\":148495,\"logo_path\":\"\/2fQRDickgp9vuDIxJTlDLEs7j0y.png\",\"name\":\"Proximity Media\",\"origin_country\":\"US\"},{\"id\":102334,\"logo_path\":\"\/baWl2NMe4hiIsoJ94tv32uhYQ7z.png\",\"name\":\"Outlier Society\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-03-01\",\"revenue\":275300000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"You can't run from your past.\",\"title\":\"Creed III\",\"video\":false,\"vote_average\":7.131,\"vote_count\":2394}"
+}

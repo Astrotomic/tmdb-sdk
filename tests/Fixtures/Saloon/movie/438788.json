@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1088",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9508",
+        "x-memc": "HIT",
+        "x-memc-key": "5f3e366c8ed03fe9910643e71e9fb14b",
+        "x-memc-age": "13323",
+        "x-memc-expires": "9508",
+        "ETag": "W\/\"55c13208bdb52a97e2b587614a772a0f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "55SMfobXXjrq_TsJtTGxgkyhWYjCVUY-sEqNpQAWmTWK9j8Ijyo3Qg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cNA5G0sp1mHPmOC55WxT5L3m1P7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/cars.disney.com\/maters-tall-tales\",\"id\":438788,\"imdb_id\":\"tt1384816\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cars Toon Mater's Tall Tales\",\"overview\":\"Mater the tow truck travels from country to country as he retells his infamous but unbelievable stories.\",\"popularity\":35.982,\"poster_path\":\"\/eu57jZr6kK8ZsoONzBi3EcwESVZ.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-10-27\",\"revenue\":0,\"runtime\":35,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cars Toon Mater's Tall Tales\",\"video\":true,\"vote_average\":6.8,\"vote_count\":140}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1482",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27385",
+        "x-memc": "HIT",
+        "x-memc-key": "5273a9779920a69334aaaf4c9b19f0ac",
+        "x-memc-age": "166",
+        "x-memc-expires": "27385",
+        "ETag": "W\/\"f36961de43d59aba8b4549d205b1c4b9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OLPbVoZUU5VNXGNlMnEjGnevmjSlYAi_3NvJ0b0b7cQOjqY29GIYRQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2nLOJ8gtattGzYzwlYM8PrcgknH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/beirutmovie.com\/\",\"id\":399248,\"imdb_id\":\"tt4669264\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Beirut\",\"overview\":\"In 1980s Beirut, Mason Skiles is a former U.S. diplomat who is called back into service to save a colleague from the group that is possibly responsible for his own family's death. Meanwhile, a CIA field agent who is working under cover at the American embassy is tasked with keeping Mason alive and ensuring that the mission is a success.\",\"popularity\":19.779,\"poster_path\":\"\/s2qIeFsI9TskZr1LkSwljQDh5nl.jpg\",\"production_companies\":[{\"id\":350,\"logo_path\":\"\/l4cEc8UZ3ZrPLisIOh1iYMKwAVP.png\",\"name\":\"Radar Pictures\",\"origin_country\":\"US\"},{\"id\":33603,\"logo_path\":\"\/K1SdQd49Kx3QRx0djfHbzeotCz.png\",\"name\":\"Shivhans Pictures\",\"origin_country\":\"US\"},{\"id\":17393,\"logo_path\":\"\/k28sCof6kheeOicLqL6EXX2GHov.png\",\"name\":\"Good Universe\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-04-11\",\"revenue\":7509436,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Beirut, 1982: The Paris of the Middle East Was Burning\",\"title\":\"Beirut\",\"video\":false,\"vote_average\":6.268,\"vote_count\":533}"
+}

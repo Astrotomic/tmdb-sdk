@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1232",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23681",
+        "x-memc": "HIT",
+        "x-memc-key": "29e7edb1fb6830fb97b56a4ce00b6fda",
+        "x-memc-age": "4178",
+        "x-memc-expires": "23681",
+        "ETag": "W\/\"f8032c5fc3000e05729bc54ff505532f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DuDt2mF4e7GVywtweCBz4K5RZDc7mon1a6gSeMAErMwddWe3cqjssg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zyO6j74DKMWfp5snWg6Hwo0T3Mz.jpg\",\"belongs_to_collection\":null,\"budget\":250000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":548,\"imdb_id\":\"tt0042876\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u7f85\u751f\u9580\",\"overview\":\"Brimming with action while incisively examining the nature of truth, \\\"Rashomon\\\" is perhaps the finest film ever to investigate the philosophy of justice. Through an ingenious use of camera and flashbacks, Kurosawa reveals the complexities of human nature as four people recount different versions of the story of a man's murder and the rape of his wife.\",\"popularity\":31.027,\"poster_path\":\"\/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg\",\"production_companies\":[{\"id\":880,\"logo_path\":\"\/vwhPRAZ4lhUtSuaifk4Au2MIm92.png\",\"name\":\"Daiei Film\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1950-08-26\",\"revenue\":117668,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"The husband, the wife\u2026 or the bandit?\",\"title\":\"Rashomon\",\"video\":false,\"vote_average\":8.1,\"vote_count\":2134}"
+}

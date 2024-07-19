@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1243",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22119",
+        "x-memc": "HIT",
+        "x-memc-key": "4a372da9e97a9f9d34c65115620a3c8b",
+        "x-memc-age": "3665",
+        "x-memc-expires": "22119",
+        "ETag": "W\/\"435fea25c8c09e618fec1f3c96b648f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BpmyBh6xoNRwur_ZqH5hUfLb13Q6uWrBXIU3T-kVcKlBzCTk3g9O7w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3Dx87TAyvqMnd8uOCNZzayufZRK.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81464329\",\"id\":1070514,\"imdb_id\":\"tt20672534\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30be\u30f3100\uff5e\u30be\u30f3\u30d3\u306b\u306a\u308b\u307e\u3067\u306b\u3057\u305f\u3044100\u306e\u3053\u3068\uff5e\",\"overview\":\"Bullied by his boss, worked around the clock, he's nothing more than a corporate drone. All it takes is a zombie outbreak for him to finally feel alive!\",\"popularity\":37.343,\"poster_path\":\"\/kD35dB3KOHrLo1Y3RU5xXJ1hI7.jpg\",\"production_companies\":[{\"id\":12386,\"logo_path\":\"\/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png\",\"name\":\"Robot Communications\",\"origin_country\":\"JP\"},{\"id\":203381,\"logo_path\":null,\"name\":\"Plus One Entertainment\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2023-08-03\",\"revenue\":0,\"runtime\":129,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"When zombies flooded the town, a bright light shined into my dark life!\",\"title\":\"Zom 100: Bucket List of the Dead\",\"video\":false,\"vote_average\":6.703,\"vote_count\":517}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1536",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15358",
+        "x-memc": "HIT",
+        "x-memc-key": "d6135e7b3eccc09480f5eca91a83b163",
+        "x-memc-age": "12161",
+        "x-memc-expires": "15358",
+        "ETag": "W\/\"e7ed73a996097f40bf5fb8f3ff277d3d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fan_heWZQ68xI8Jr-iZMP1oAzs4hQb-NFLrHAyg4MrnMS_SxM4V9yw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/vQNknPEVSAui6IL6eUlDBPfUzcW.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":884,\"imdb_id\":\"tt0115964\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Crash\",\"overview\":\"After getting into a serious car accident, a TV director discovers an underground sub-culture of scarred, omnisexual car-crash victims, and he begins to use car accidents and the raw sexual energy they produce to try to rejuvenate his sex life with his wife.\",\"popularity\":52.396,\"poster_path\":\"\/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg\",\"production_companies\":[{\"id\":806,\"logo_path\":\"\/kcNh09qqR2Pkw1JAzRW4CommrW4.png\",\"name\":\"T\u00e9l\u00e9film Canada\",\"origin_country\":\"CA\"},{\"id\":11561,\"logo_path\":\"\/8HB3TFUeo83keAPHfFfrNtN2MmA.png\",\"name\":\"Recorded Picture Company\",\"origin_country\":\"GB\"},{\"id\":808,\"logo_path\":\"\/4L1apH72jCx6Z5qyH7UOJUDlRoF.png\",\"name\":\"The Movie Network\",\"origin_country\":\"CA\"},{\"id\":803,\"logo_path\":\"\/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png\",\"name\":\"Alliance Atlantis\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-07-17\",\"revenue\":2671855,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Shocking. Powerful. Scandalous. Provocative. Erotic. Brilliant.\",\"title\":\"Crash\",\"video\":false,\"vote_average\":6.419,\"vote_count\":1064}"
+}

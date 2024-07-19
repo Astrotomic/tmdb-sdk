@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "237",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:19:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=863",
+        "x-memc": "HIT",
+        "x-memc-key": "4d126dcfa02879d091a60e51d1690751",
+        "x-memc-age": "25802",
+        "x-memc-expires": "863",
+        "ETag": "W\/\"76efb62d1df9a8d0051e0a6d1bfd81e8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2IJAQ9KE9MUOsLTBye8mFp2XrQPtDdCaW6IpfmuNNsUb4Ok0e70PZA=="
+    },
+    "data": "{\"id\":10917,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/10917-too-young-to-die\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]}}}"
+}

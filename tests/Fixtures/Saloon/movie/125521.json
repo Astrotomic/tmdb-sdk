@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1525",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20247",
+        "x-memc": "HIT",
+        "x-memc-key": "717439298860d86d5d11f24e10803444",
+        "x-memc-age": "2858",
+        "x-memc-expires": "20247",
+        "ETag": "W\/\"f57f44fa9e74918f500a4bc581c05b3b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J703buZ_A4nV8cvXPNp78NKTla-eWr9CEhHc_GeDBerlkpn8sEQoGw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1SeydkGlChbUrYJeV95TNSLQsFt.jpg\",\"belongs_to_collection\":{\"id\":145553,\"name\":\"Slayers Collection\",\"poster_path\":\"\/sxdVT3S4oPcJbh9pVCZaNuen3Gi.jpg\",\"backdrop_path\":\"\/6yu4IuMY7AYK6nnZ5SAIfBEBzuz.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":125521,\"imdb_id\":\"tt0161979\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30b9\u30ec\u30a4\u30e4\u30fc\u30ba RETURN\",\"overview\":\"Lina Inverse and Naga the White Serpent are back! What begins as a routine bandit-stomping turns into the adventure of a lifetime involving magical golems, an ancient Elven weapon and even someone bent on destroying the world. It's a predicament only Lina and Naga could get themselves in to.\",\"popularity\":20.677,\"poster_path\":\"\/fNQx9YD4nxpcWvriVm1paIxbMwB.jpg\",\"production_companies\":[{\"id\":5542,\"logo_path\":\"\/ayE4LIqoAWotavo7xdvYngwqGML.png\",\"name\":\"Toei Animation\",\"origin_country\":\"JP\"},{\"id\":11884,\"logo_path\":\"\/tHzHPSKdmLT5zCdqFbcmHzZvRIc.png\",\"name\":\"J.C.STAFF\",\"origin_country\":\"JP\"},{\"id\":528,\"logo_path\":\"\/fO3Aof3lXQclYpBByYC8aneTXwA.png\",\"name\":\"Bandai Visual\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1996-08-03\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Slayers Return\",\"video\":false,\"vote_average\":6.539,\"vote_count\":1860}"
+}

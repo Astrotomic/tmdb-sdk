@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1180",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12128",
+        "x-memc": "HIT",
+        "x-memc-key": "bd36d39596acf148afe9699c12f0b17b",
+        "x-memc-age": "14819",
+        "x-memc-expires": "12128",
+        "ETag": "W\/\"30f057fd7387ab1bdbb8fce1b4e451f8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aekgXpmFzq9l2zfc4R7uKF0RNu1xW9HzXHMlpAsfApKv53RvdCy-4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kc8NOlLMvYLiHgs54tZG4LfGMzd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":6916,\"imdb_id\":\"tt0069697\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"...altrimenti ci arrabbiamo!\",\"overview\":\"After a tied 1st place in a local stunt race, two drivers start a contest to decide who of them will own the prize, a dune buggy. But when a mobster destroys the car, they are determined to get it back.\",\"popularity\":19.648,\"poster_path\":\"\/nsnVnZDqlpe6CHENnapq19RGRzC.jpg\",\"production_companies\":[{\"id\":9290,\"logo_path\":null,\"name\":\"Capital Film\",\"origin_country\":\"IT\"},{\"id\":4960,\"logo_path\":null,\"name\":\"Filmayer\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1974-03-29\",\"revenue\":36782781,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Watch Out, We're Mad\",\"video\":false,\"vote_average\":7.419,\"vote_count\":781}"
+}

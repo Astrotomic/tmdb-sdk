@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "712",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2330",
+        "x-memc": "HIT",
+        "x-memc-key": "912979103cbb3c321b02128b7edaefc8",
+        "x-memc-age": "24385",
+        "x-memc-expires": "2330",
+        "ETag": "W\/\"07f344762b05ff4325b8c6e6cce225be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ErSb-PvTPdHZ_mKs2K-QZMEjtZbOUi8co1dkCXOX5YIy6xgrJms2ow=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395636,\"imdb_id\":\"tt4488822\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Opale plage\",\"overview\":\"A mother and her two daughters cross the banks of the North in search of a beach where the elder daughter left her best memories.\",\"popularity\":1.357,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2010-11-25\",\"revenue\":0,\"runtime\":18,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Opale plage\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

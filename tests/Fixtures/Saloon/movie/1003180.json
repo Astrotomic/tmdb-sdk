@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1152",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3426",
+        "x-memc": "HIT",
+        "x-memc-key": "384d29eeed2e51af2e6dc00d6c6a4d42",
+        "x-memc-age": "20925",
+        "x-memc-expires": "3426",
+        "ETag": "W\/\"28eb9226ff083ac5dafff34015e6aa06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GjCOunzzD3cFHGuTK9J0GYP0PID--re6P5Eo2qyIiv0T36YrABSSrA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/Agx6yUbh09BAjQlXfQlaXRpdIq0.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81447086\",\"id\":1003180,\"imdb_id\":\"tt21340412\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Inside the Mind of a Cat\",\"overview\":\"Cat experts dive into the mind of the feline to reveal the true capabilities of the pouncing pet in this captivating and cuddly documentary.\",\"popularity\":13.086,\"poster_path\":\"\/lqngTIvF2UdcK9uTZ8nLX3AfbHp.jpg\",\"production_companies\":[{\"id\":89403,\"logo_path\":null,\"name\":\"Red Rock Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"TR\",\"name\":\"Turkey\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-08-18\",\"revenue\":0,\"runtime\":67,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Inside the Mind of a Cat\",\"video\":false,\"vote_average\":7.3,\"vote_count\":204}"
+}

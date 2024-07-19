@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "827",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10992",
+        "x-memc": "HIT",
+        "x-memc-key": "4e2bb82b5858ff386c7e1b1e4332198c",
+        "x-memc-age": "15814",
+        "x-memc-expires": "10992",
+        "ETag": "W\/\"0958e18c1f6b376e165cf01ff40cd5bc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LQZCGpYR_SekDkJ-A7HT1B4hiH7_Jz7b8Di1pd_9g2NsCxeugqbM6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":861912,\"imdb_id\":null,\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"The Color Red\",\"overview\":\"After a man comes into possession of a mysterious wooden chest, he is killed by diabolical demons. Years later, his son Bob tries to destroy the chest and in turn gets to deal with all sorts of undead creatures.\",\"popularity\":3.364,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1988-01-01\",\"revenue\":0,\"runtime\":48,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Color Red\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

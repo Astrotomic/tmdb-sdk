@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1276",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14268",
+        "x-memc": "HIT",
+        "x-memc-key": "2049ceb844a2d11c8a8e010ef1388e54",
+        "x-memc-age": "12955",
+        "x-memc-expires": "14268",
+        "ETag": "W\/\"bdb2dc1a25bbd1dd65fb706152373ce3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PQp2e635VptmusLvvfT_tCcwYXQYsFcGtVYsYKzlIST8VOsQyt8z8A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bedJLAIR7dxP423YMIpTXhrFCvH.jpg\",\"belongs_to_collection\":null,\"budget\":2243662,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":10752,\"name\":\"War\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"\",\"id\":546230,\"imdb_id\":\"tt9063106\",\"origin_country\":[\"MY\"],\"original_language\":\"ms\",\"original_title\":\"Paskal\",\"overview\":\"The true events of Lieutenant Commander Arman Anwar of PASKAL, an elite unit in the Royal Malaysian Navy, and his team's mission to rescue the MV Bunga Laurel, a tanker which was hijacked by Somalian Pirates in 2011.\",\"popularity\":11.868,\"poster_path\":\"\/oAI8whpvqWxxucVGJdDiGOfCjMB.jpg\",\"production_companies\":[{\"id\":19055,\"logo_path\":\"\/g7R3rz40PaD1vcDEtc0DOODzw0F.png\",\"name\":\"Astro Shaw\",\"origin_country\":\"MY\"},{\"id\":198032,\"logo_path\":\"\/jyVJOS55wQZcmXU3Zh8rR0INO0c.png\",\"name\":\"GSC Movies\",\"origin_country\":\"MY\"}],\"production_countries\":[{\"iso_3166_1\":\"MY\",\"name\":\"Malaysia\"}],\"release_date\":\"2018-09-27\",\"revenue\":6748935,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"Malay\",\"iso_639_1\":\"ms\",\"name\":\"Bahasa melayu\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Between Family and Country\",\"title\":\"Paskal\",\"video\":false,\"vote_average\":7.648,\"vote_count\":71}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1157",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20719",
+        "x-memc": "HIT",
+        "x-memc-key": "32bb86b413c341563c794d951bea0994",
+        "x-memc-age": "7563",
+        "x-memc-expires": "20719",
+        "ETag": "W\/\"30060560ab083fbb7f09c831e44ecce4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T3AtI7z4y2lsGI6ikiq4i8eXF0lnaLWa4LBGBxDgyzwkKQmBS_lV4Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/rowhousefilms.co\/monuments\/\",\"id\":697930,\"imdb_id\":\"tt6133524\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Monuments\",\"overview\":\"A young widower sidesteps grief, loss, and familial dysfunction when he steals his wife's ashes and sets off on an impulsive odyssey through America's heartland to find something he'd lost long before her death.\",\"popularity\":5.133,\"poster_path\":\"\/fMn0SQzI4ESTtCJ8wlQIEb2ulkN.jpg\",\"production_companies\":[{\"id\":99842,\"logo_path\":null,\"name\":\"Black Apple Media\",\"origin_country\":\"\"},{\"id\":156861,\"logo_path\":\"\/hyanlOfC8SxYjUOSMYD2tR8rjaf.png\",\"name\":\"ZAXIE\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-06-04\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Monuments\",\"video\":false,\"vote_average\":6.4,\"vote_count\":11}"
+}

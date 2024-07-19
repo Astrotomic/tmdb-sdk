@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1026",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11608",
+        "x-memc": "HIT",
+        "x-memc-key": "47ff7c77eb3cd23c9d9cab9aa10d4160",
+        "x-memc-age": "12032",
+        "x-memc-expires": "11608",
+        "ETag": "W\/\"4be81794621b844c700c99ae5f1b80b2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zqWgnL1S7i-rUoXn8IYpqouy-5rpXDv5CGVG6mlsLJAjVeJcpg8esQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qLhFjbeL3PU0WkkS6Zb2cDHmBMY.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395697,\"imdb_id\":\"tt5707720\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Il ministro\",\"overview\":\"Scandals, bribes, corruption. The Italian newspapers are full of news of corrupt politicians and unscrupulous contractors willing to do anything to get a contract. The script of THE MINISTER comes from the desire to tell a story of ordinary corruption, inspired by facts that \\\"probably happened\\\".\",\"popularity\":7.428,\"poster_path\":\"\/u4SUNCcxTlHJV7Z3GNCwhUP1usS.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2016-05-05\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Il ministro\",\"video\":false,\"vote_average\":5.6,\"vote_count\":61}"
+}

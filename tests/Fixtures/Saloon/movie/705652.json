@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "894",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14815",
+        "x-memc": "HIT",
+        "x-memc-key": "e18b52fe68ae0a9408c4d5829709aedf",
+        "x-memc-age": "6849",
+        "x-memc-expires": "14815",
+        "ETag": "W\/\"c29a820d9f54a62ca5c0ec4fd05c58e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zivyA0Ww8TE1jfb0tFoAYK51tKKuSAGIqmwHXZB1eudme4UKejwhLw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":705652,\"imdb_id\":null,\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Para No Olvidar\",\"overview\":\"What starts as a typical sibling rivlary takes a much darker turn towards the point of no return.\",\"popularity\":0.252,\"poster_path\":null,\"production_companies\":[{\"id\":134058,\"logo_path\":null,\"name\":\"Elfo Maldito Producciones\",\"origin_country\":\"\"},{\"id\":47184,\"logo_path\":null,\"name\":\"Universidad Nacional de Colombia\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CO\",\"name\":\"Colombia\"}],\"release_date\":\"2016-09-19\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Para No Olvidar\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

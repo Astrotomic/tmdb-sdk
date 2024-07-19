@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1956",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1742",
+        "x-memc": "HIT",
+        "x-memc-key": "e59e375642e959d25282a5b0928802c4",
+        "x-memc-age": "26485",
+        "x-memc-expires": "1742",
+        "ETag": "W\/\"e331dedd733d67461b997a50cadcfdb4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 be46a1f14e255e7d68c1d22f8127120c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "R2uNIfsILk4pPLwMhqwNv4cl1xTH-_ym4A4FGhGXXD9qVWjCfnUqFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8NCftAWfkETwrbf7QwEaDH1xpus.jpg\",\"belongs_to_collection\":{\"id\":14740,\"name\":\"Madagascar Collection\",\"poster_path\":\"\/UXIxsUbwMpv4v8xXRdT7LX58z9.jpg\",\"backdrop_path\":\"\/lzTIAbvMeGWB7PUrmBZXulGA28M.jpg\"},\"budget\":75000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.dreamworks.com\/movies\/madagascar\",\"id\":953,\"imdb_id\":\"tt0351283\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Madagascar\",\"overview\":\"Alex the lion is the king of the urban jungle, the main attraction at New York's Central Park Zoo. He and his best friends\u2014Marty the zebra, Melman the giraffe and Gloria the hippo\u2014have spent their whole lives in blissful captivity before an admiring public and with regular meals provided for them. Not content to leave well enough alone, Marty lets his curiosity get the better of him and makes his escape\u2014with the help of some prodigious penguins\u2014to explore the world.\",\"popularity\":77.936,\"poster_path\":\"\/zMpJY5CJKUufG9OTw0In4eAFqPX.jpg\",\"production_companies\":[{\"id\":520,\"logo_path\":\"\/pU7YTI9FfrICurXpl5V9TfCO0oJ.png\",\"name\":\"Pacific Data Images\",\"origin_country\":\"US\"},{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-05-25\",\"revenue\":542100000,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Someone\u2019s got a zoo loose.\",\"title\":\"Madagascar\",\"video\":false,\"vote_average\":6.91,\"vote_count\":10625}"
+}

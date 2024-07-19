@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2250",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 07:10:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23811",
+        "x-memc": "HIT",
+        "x-memc-key": "422936085b659b358ed084623d731df5",
+        "x-memc-age": "577",
+        "x-memc-expires": "23811",
+        "ETag": "W\/\"a3ecf7a3e59522e7a7aa573fc78fc181\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c966f82eb0c30997d84338e4095d627a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VQaHN6U4fvTYATp5nXizr4jTIB9RoE9y8kZlY-21jVN535TP3c_mdA=="
+    },
+    "data": "{\"id\":969681,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1136406,\"known_for_department\":\"Acting\",\"name\":\"Tom Holland\",\"original_name\":\"Tom Holland\",\"popularity\":78.467,\"profile_path\":\"\/bBRlrpJm9XkNSg0YT5LCaxqoFMX.jpg\",\"cast_id\":4,\"character\":\"Peter Parker \/ Spider-Man\",\"credit_id\":\"630cbd43ede1b00083c3badf\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":505710,\"known_for_department\":\"Acting\",\"name\":\"Zendaya\",\"original_name\":\"Zendaya\",\"popularity\":58.604,\"profile_path\":\"\/3WdOloHpjtjL96uVOhFRRCcYSwq.jpg\",\"cast_id\":9,\"character\":\"Michelle Jones 'MJ' Watson\",\"credit_id\":\"65c9284de4b576014a13e587\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":10850,\"known_for_department\":\"Production\",\"name\":\"Kevin Feige\",\"original_name\":\"Kevin Feige\",\"popularity\":31.403,\"profile_path\":\"\/kCBqXZ5PT5udYGEj2wfTSFbLMvT.jpg\",\"credit_id\":\"628d559ed48cee2cbfca858a\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":7626,\"known_for_department\":\"Production\",\"name\":\"Avi Arad\",\"original_name\":\"Avi Arad\",\"popularity\":12.782,\"profile_path\":\"\/cxmqw0anGfxC7RwUNQj3EwhX9pP.jpg\",\"credit_id\":\"628d55ac6f31af0066f1a22c\",\"department\":\"Production\",\"job\":\"Executive Producer\"},{\"adult\":false,\"gender\":2,\"id\":57027,\"known_for_department\":\"Production\",\"name\":\"Louis D'Esposito\",\"original_name\":\"Louis D'Esposito\",\"popularity\":15.986,\"profile_path\":\"\/mPy6hxHrHoEOWdljLyZM6DNBSPn.jpg\",\"credit_id\":\"641a69d3688cd0010c5f38d8\",\"department\":\"Production\",\"job\":\"Executive Producer\"},{\"adult\":false,\"gender\":1,\"id\":1425616,\"known_for_department\":\"Production\",\"name\":\"Amy Pascal\",\"original_name\":\"Amy Pascal\",\"popularity\":13.002,\"profile_path\":\"\/texxoBV4naFHyuSii6jyxlfuEvK.jpg\",\"credit_id\":\"65e51be61ad93b01860898a0\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":7625,\"known_for_department\":\"Writing\",\"name\":\"Steve Ditko\",\"original_name\":\"Steve Ditko\",\"popularity\":16.559,\"profile_path\":null,\"credit_id\":\"6631a342af4324012853807e\",\"department\":\"Writing\",\"job\":\"Comic Book\"},{\"adult\":false,\"gender\":2,\"id\":7624,\"known_for_department\":\"Writing\",\"name\":\"Stan Lee\",\"original_name\":\"Stan Lee\",\"popularity\":29.862,\"profile_path\":\"\/kKeyWoFtTqOPsbmwylNHmuB3En9.jpg\",\"credit_id\":\"6631a34a99d5c3012955e914\",\"department\":\"Writing\",\"job\":\"Comic Book\"}]}"
+}

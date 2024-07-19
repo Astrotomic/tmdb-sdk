@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "953",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19672",
+        "x-memc": "HIT",
+        "x-memc-key": "889c0686fe5fc9ee05e2d62285a153e8",
+        "x-memc-age": "7365",
+        "x-memc-expires": "19672",
+        "ETag": "W\/\"80049888c9305a22edbc2fe1bc2cb157\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9hrBqVfOboVSTu-yi-6A8LC1DNpsAr_QB1MF_W-c4pQPcuWrY083Uw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mucBcPfXg4Asml0fA5MlICdH6Zq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":6693,\"imdb_id\":\"tt0047989\",\"origin_country\":[\"AT\"],\"original_language\":\"de\",\"original_title\":\"Die Deutschmeister\",\"overview\":\"Young Stanzi who is visiting Vienna helps a young corporal and musician to become famous for his marching song \\\"Die Deutschmeister\\\".\",\"popularity\":5.412,\"poster_path\":\"\/x3upr2JzyJui07hUu3fP9YV7cJS.jpg\",\"production_companies\":[{\"id\":2122,\"logo_path\":null,\"name\":\"Erma-Film\",\"origin_country\":\"AT\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"}],\"release_date\":\"1955-08-11\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Die Deutschmeister\",\"video\":false,\"vote_average\":7.0,\"vote_count\":15}"
+}

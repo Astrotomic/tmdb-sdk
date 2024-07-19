@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1355",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23231",
+        "x-memc": "HIT",
+        "x-memc-key": "7be2fd9b6f918661ddb4d087c21d8cf6",
+        "x-memc-age": "5010",
+        "x-memc-expires": "23231",
+        "ETag": "W\/\"37f8f7203c6c115bfb72304c59a330aa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jfd4W5LvuQy5xm4Ak7wYAkk89Mhd6m1Ert0KKiSw0pW45C0CDDWIXw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mnXOfgasuAldIwmTRB0wQKJSsz4.jpg\",\"belongs_to_collection\":null,\"budget\":116000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":9619,\"imdb_id\":\"tt0118928\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dante's Peak\",\"overview\":\"Volcanologist Harry Dalton comes to the sleepy town of Dante's Peak to investigate the recent rumblings of the dormant volcano the burg is named for. Before long, his worst fears are realized when a massive eruption hits, and immediately, Harry, the mayor and the townspeople find themselves fighting for their lives amid a catastrophic nightmare.\",\"popularity\":49.737,\"poster_path\":\"\/chApdYLprUhuAVpeBXn2Ytytyo6.jpg\",\"production_companies\":[{\"id\":1280,\"logo_path\":null,\"name\":\"Pacific Western\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-02-07\",\"revenue\":178127760,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The pressure is building...\",\"title\":\"Dante's Peak\",\"video\":false,\"vote_average\":6.2,\"vote_count\":1808}"
+}

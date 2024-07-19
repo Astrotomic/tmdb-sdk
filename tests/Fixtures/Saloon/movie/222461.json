@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1322",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=24779",
+        "x-memc": "HIT",
+        "x-memc-key": "925f9f53645f13076fb51af43c8d06bb",
+        "x-memc-age": "1544",
+        "x-memc-expires": "24779",
+        "ETag": "W\/\"9e488a8010cf0cb008fb5b422e8dc4df\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "g5RLK8uSdlSwKz5ZGxtlt6x9gvFHoaH6jVe1_ZyuLYwVCNqN04TbDA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/clJMLazi8P0zu7IZJEUiYOLDSII.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":222461,\"imdb_id\":\"tt2229511\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wer\",\"overview\":\"A defense attorney begins to suspect that her client, who is charged with the murders of a vacationing family, might be more than meets the eye.\",\"popularity\":24.836,\"poster_path\":\"\/hWkkgAuYIyXxNDUs5zydwEr9xfg.jpg\",\"production_companies\":[{\"id\":7263,\"logo_path\":\"\/auaadhBBcvvTDtmW2iJzOrEjfgO.png\",\"name\":\"FilmDistrict\",\"origin_country\":\"US\"},{\"id\":7215,\"logo_path\":null,\"name\":\"Incentive Filmed Entertainment\",\"origin_country\":\"US\"},{\"id\":24048,\"logo_path\":null,\"name\":\"Prototype\",\"origin_country\":\"\"},{\"id\":6302,\"logo_path\":null,\"name\":\"Room 101\",\"origin_country\":\"\"},{\"id\":24049,\"logo_path\":\"\/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png\",\"name\":\"Sierra\/Affinity\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"RO\",\"name\":\"Romania\"}],\"release_date\":\"2013-11-16\",\"revenue\":0,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The legend reborn\",\"title\":\"Wer\",\"video\":false,\"vote_average\":6.353,\"vote_count\":405}"
+}

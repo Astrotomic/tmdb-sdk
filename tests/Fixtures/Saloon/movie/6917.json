@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1465",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6592",
+        "x-memc": "HIT",
+        "x-memc-key": "320ea8409f3bed8bc2dd83e1cd8963d3",
+        "x-memc-age": "18195",
+        "x-memc-expires": "6592",
+        "ETag": "W\/\"33b7f95ec93d1da9cf1419b961bec64e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SRboXSGEiiv8Kmwke_g2FXo0HM6bonNH2qqmKknI0bY5vYk0_J-O9Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/82Sy3ZIrb0kEcx75XVgaYy855aL.jpg\",\"belongs_to_collection\":{\"id\":340623,\"name\":\"The Gate Collection\",\"poster_path\":\"\/89oZitdH02NTV7VxKLOmFh427pT.jpg\",\"backdrop_path\":\"\/qqE3mix2IqkZivHf2MyfjpCajrD.jpg\"},\"budget\":2500000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":6917,\"imdb_id\":\"tt0093075\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"The Gate\",\"overview\":\"Three young children accidentally release a horde of nasty, pint-sized demons from a hole in a suburban backyard. What follows is a classic battle between good and evil as the three kids struggle to overcome a nightmarish hell that is literally taking over the Earth.\",\"popularity\":16.009,\"poster_path\":\"\/nl673OVQl4VZTDnugzCpDuOKQcC.jpg\",\"production_companies\":[{\"id\":10165,\"logo_path\":null,\"name\":\"New Century Entertainment Corporation\",\"origin_country\":\"\"},{\"id\":4535,\"logo_path\":null,\"name\":\"The Vista Organization\",\"origin_country\":\"US\"},{\"id\":10166,\"logo_path\":null,\"name\":\"Alliance Entertainment\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-04-21\",\"revenue\":13539458,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Pray it's not too late.\",\"title\":\"The Gate\",\"video\":false,\"vote_average\":6.004,\"vote_count\":354}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "797",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14854",
+        "x-memc": "HIT",
+        "x-memc-key": "3b89b653964c97947bdad98bc9b8d904",
+        "x-memc-age": "9057",
+        "x-memc-expires": "14854",
+        "ETag": "W\/\"5c6c6ec89f3ea95b751a8b158beaec32\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "NI1xQMmqNGQDF2eW8_7yuI8-VGgtBS0eolpCxJofK63EiGum-4qYKw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cclFrieHULgbuCovZHIeOZ58DLo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":487620,\"imdb_id\":\"tt3847642\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Kill Order\",\"overview\":\"A troubled high school student discovers the truth behind his hidden abilities.\",\"popularity\":9.538,\"poster_path\":\"\/7GsmOsf7M7jUhrav17l3Vx2ekIR.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2017-11-06\",\"revenue\":0,\"runtime\":77,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Kill Order\",\"video\":false,\"vote_average\":5.1,\"vote_count\":40}"
+}

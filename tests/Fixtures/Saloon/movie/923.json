@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1332",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19291",
+        "x-memc": "HIT",
+        "x-memc-key": "19f059b5dc57ad57a376f87db32fbaf8",
+        "x-memc-age": "2775",
+        "x-memc-expires": "19291",
+        "ETag": "W\/\"a93bda10f742fddf7a985e284741a4f2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IxwHlJRSooZg56gqOr2-VJKGlDIJN8MOieOwWqhskhDkwRmCKgRcMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9OKzKuCfcMwpHVp56pjNI7J4xXR.jpg\",\"belongs_to_collection\":{\"id\":261590,\"name\":\"Living Dead Collection\",\"poster_path\":\"\/5tzYvD8a7M6YdGy37V5goRJXsMk.jpg\",\"backdrop_path\":\"\/xacnP6WJBhs5vptIcYE8RCDVKIo.jpg\"},\"budget\":650000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":923,\"imdb_id\":\"tt0077402\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dawn of the Dead\",\"overview\":\"During an ever-growing epidemic of zombies that have risen from the dead, two Philadelphia SWAT team members, a traffic reporter, and his television-executive girlfriend seek refuge in a secluded shopping mall.\",\"popularity\":203.577,\"poster_path\":\"\/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg\",\"production_companies\":[{\"id\":83715,\"logo_path\":null,\"name\":\"Dawn Associates\",\"origin_country\":\"IT\"},{\"id\":2483,\"logo_path\":null,\"name\":\"Laurel Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1978-09-02\",\"revenue\":55000000,\"runtime\":127,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When there\u2019s no more room in HELL, the dead will walk the EARTH!\",\"title\":\"Dawn of the Dead\",\"video\":false,\"vote_average\":7.494,\"vote_count\":2006}"
+}

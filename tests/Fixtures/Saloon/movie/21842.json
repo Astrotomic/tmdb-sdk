@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2059",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2526",
+        "x-memc": "HIT",
+        "x-memc-key": "66be58e9fa9aa13a84f11db01092ccf5",
+        "x-memc-age": "20402",
+        "x-memc-expires": "2526",
+        "ETag": "W\/\"c1cd89f5d395bac835212178c3493c89\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TgweBi7WtyzVHAUHHYgMEdfY-0ahUbCAr0oE8ST2PVTMZUVLWkBkPg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mAtBBhpdBR3U3C23q00QrY9KmXd.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":21842,\"imdb_id\":\"tt0265232\",\"origin_country\":[\"DK\",\"SE\"],\"original_language\":\"sv\",\"original_title\":\"Livet \u00e4r en schlager\",\"overview\":\"Mona Bergstr\u00f6m is a sweet eurovision-obsessed woman in her 30s. She is married to a lazy husband and has four children, all named after her favorite Swedish Eurovision popstars. Her brother is a crossdressing guy self-titled \\\"Candy Darling\\\". Mona works in a retirement home for disabled people, where she is responsible for taking care of a young man named David who suffers a movement-restricting disease forcing him into a wheelchair. David's parents have abandoned him, as they wanted a normal child. Mona holds a big place in David's heart, and vica versa. David's goal is to get his parents to come and visit him, and he wants to show them that he is a great person, despite his handicap. Therefore he works with music on his computer, and his goal is to create a song, send it to \\\"The Cardigans\\\", a famous Swedish band and have them play the song and credit him, hoping his parents would spot it and want to visit him.\",\"popularity\":5.897,\"poster_path\":\"\/9VwP8fMxTVErL4w5SUdPfe6cMCz.jpg\",\"production_companies\":[{\"id\":2999,\"logo_path\":\"\/zGSqFee9aDgDuLD6vcs2mcJUem4.png\",\"name\":\"SVT\",\"origin_country\":\"SE\"},{\"id\":327,\"logo_path\":\"\/vodjjKlAbwGeERPjrAhxZMBGPUc.png\",\"name\":\"Nordisk Film Sweden\",\"origin_country\":\"SE\"},{\"id\":1929,\"logo_path\":null,\"name\":\"Sonet Film\",\"origin_country\":\"SE\"},{\"id\":758,\"logo_path\":\"\/fft3jrctrZNcgAxgN1w5Givtzip.png\",\"name\":\"TV 2\",\"origin_country\":\"DK\"}],\"production_countries\":[{\"iso_3166_1\":\"SE\",\"name\":\"Sweden\"},{\"iso_3166_1\":\"DK\",\"name\":\"Denmark\"}],\"release_date\":\"2000-11-10\",\"revenue\":0,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Once in a Lifetime\",\"video\":false,\"vote_average\":4.5,\"vote_count\":22}"
+}

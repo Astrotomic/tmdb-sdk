@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1446",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22173",
+        "x-memc": "HIT",
+        "x-memc-key": "9cb56db658713963255d0c696c6017af",
+        "x-memc-age": "5556",
+        "x-memc-expires": "22173",
+        "ETag": "W\/\"501076ccab34c6993cb124ea20278d12\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pht0l7CgeMUhEBXX2gwbRoh-1kQTDfUTe2N5iXphbyqTT3_GsaewGg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg\",\"belongs_to_collection\":{\"id\":556,\"name\":\"Spider-Man Collection\",\"poster_path\":\"\/bp5PqLa06QA1LsELA1SsKZ008H7.jpg\",\"backdrop_path\":\"\/xTocoWSQrK9YSvHedsa5xSemykC.jpg\"},\"budget\":139000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.sonypictures.com\/movies\/spiderman\",\"id\":557,\"imdb_id\":\"tt0145487\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Spider-Man\",\"overview\":\"After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.\",\"popularity\":103.168,\"poster_path\":\"\/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg\",\"production_companies\":[{\"id\":19551,\"logo_path\":\"\/2WpWp9b108hizjHKdA107hFmvQ5.png\",\"name\":\"Marvel Enterprises\",\"origin_country\":\"US\"},{\"id\":326,\"logo_path\":null,\"name\":\"Laura Ziskin Productions\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-05-01\",\"revenue\":821708551,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Go for the ultimate spin.\",\"title\":\"Spider-Man\",\"video\":false,\"vote_average\":7.297,\"vote_count\":18652}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1202",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15864",
+        "x-memc": "HIT",
+        "x-memc-key": "14f80f4d6b9ee2dba31c56d812abce2d",
+        "x-memc-age": "11537",
+        "x-memc-expires": "15864",
+        "ETag": "W\/\"5a856f41aa59ad9fac32b3569258b609\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d6c161424e808aac68bf94834fb61044.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oCx-VGMrHTr04zewjC3Dh9XqQiLS_9_E74gRTCLVFpRq-p9X__nmFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c2yziDO35LMkWi2NwiwZdm6uHzT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":913740,\"imdb_id\":\"tt10580188\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Guardians of Time\",\"overview\":\"One day, in the family manor, four cousins discover a passage to a mysterious world. Trapped in this unearthed land, the Kingdom of Keoherus, they must confront the Guardian of Time and face dark forces and beast to hopefully get home.\",\"popularity\":11.035,\"poster_path\":\"\/hpbpga8Rkwgku5HlxgsGnOoWlvY.jpg\",\"production_companies\":[{\"id\":157172,\"logo_path\":\"\/fNnKmC4ZP28Im4NaFsDwsblyVLF.png\",\"name\":\"Ace Entertainment Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-03-16\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The war of time will begin.\",\"title\":\"Guardians of Time\",\"video\":false,\"vote_average\":7.1,\"vote_count\":9}"
+}

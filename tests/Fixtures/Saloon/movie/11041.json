@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1206",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1254",
+        "x-memc": "HIT",
+        "x-memc-key": "06ef69767f1f029429ff661ba5b3f1b3",
+        "x-memc-age": "25661",
+        "x-memc-expires": "1254",
+        "ETag": "W\/\"b1dee84acc45fdc6d85e1f699c3c7d35\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "umWKwrfqCCtFS_TSDpwF4FrziasW7wSlv1l7wcGbpA_536edKSTUEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yqpDRVupR0mi4gXqQ7XrXO2RdR2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":11041,\"imdb_id\":\"tt0106400\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Beverly Hillbillies\",\"overview\":\"Jed Clampett and kin move from Arkansas to Beverly Hills when he becomes a billionaire, after an oil strike. The country folk are very naive with regard to life in the big city, so when Jed starts a search for a new wife there are inevitably plenty of takers and con artists ready to make a fast buck\",\"popularity\":43.189,\"poster_path\":\"\/refYLEQvzkY63i2IHronCPQODex.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1993-10-15\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The day they moved in... Beverly Hills moved out.\",\"title\":\"The Beverly Hillbillies\",\"video\":false,\"vote_average\":6.282,\"vote_count\":519}"
+}

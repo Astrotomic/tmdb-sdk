@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1538",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17239",
+        "x-memc": "HIT",
+        "x-memc-key": "1c0da6f72ccf4e3d3ef570d40a04fada",
+        "x-memc-age": "4834",
+        "x-memc-expires": "17239",
+        "ETag": "W\/\"b7c933295cfc8c8c9a7266dbe859a032\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6SrtKiviFMt2ar1E0Z9QflBan1ulMkssEk_5TeJXMSRRuO69pvfHIw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jqVFrhFLqrOn72TImJuIzYWKByv.jpg\",\"belongs_to_collection\":null,\"budget\":135000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.meettheboov.com\/\",\"id\":228161,\"imdb_id\":\"tt2224026\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Home\",\"overview\":\"When Earth is taken over by the overly-confident Boov, an alien race in search of a new place to call home, all humans are promptly relocated, while all Boov get busy reorganizing the planet. But when one resourceful girl, Tip, manages to avoid capture, she finds herself the accidental accomplice of a banished Boov named Oh. The two fugitives realize there\u2019s a lot more at stake than intergalactic relations as they embark on the road trip of a lifetime.\",\"popularity\":58.236,\"poster_path\":\"\/usFenYnk6mr8C62dB1MoAfSWMGR.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-03-18\",\"revenue\":368871007,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Worlds Collide\",\"title\":\"Home\",\"video\":false,\"vote_average\":6.799,\"vote_count\":3880}"
+}

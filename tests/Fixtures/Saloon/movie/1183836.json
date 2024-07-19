@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1029",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=679",
+        "x-memc": "HIT",
+        "x-memc-key": "1939a76cd491302d7f4673fe52519eea",
+        "x-memc-age": "25086",
+        "x-memc-expires": "679",
+        "ETag": "W\/\"500dd179f49835f0e4a22c345cd28f4f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "GjpNfAisZf7Eblf6JNCOQxyPMBMfH0YuT6HuR7QNYDn-sie1mixbNw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/r1wiUdI3J7TqZwyL6WBLjbdbZAG.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/felipegb.com\",\"id\":1183836,\"imdb_id\":null,\"origin_country\":[\"AO\"],\"original_language\":\"en\",\"original_title\":\"CATANAS POINT - A Surf Documentary\",\"overview\":\"\\\"CATANAS POINT - A Surf Documentary\\\" portrays the reality of the sport of surfing in Angola and compares it with what surfing was like in Brazil from the 1980s to the present day.\",\"popularity\":0.674,\"poster_path\":\"\/ptEXgLxYIuHabB7q6QBB3WlLbfD.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"AO\",\"name\":\"Angola\"},{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2023-07-15\",\"revenue\":0,\"runtime\":27,\"spoken_languages\":[{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"Nowadays everyone wants to be a surfer\",\"title\":\"CATANAS POINT - A Surf Documentary\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

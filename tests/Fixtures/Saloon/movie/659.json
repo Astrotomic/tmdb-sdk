@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2265",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1076",
+        "x-memc": "HIT",
+        "x-memc-key": "f5afedfa37136910f4a8aed3ed984185",
+        "x-memc-age": "26022",
+        "x-memc-expires": "1076",
+        "ETag": "W\/\"f678ef36a238992bd0ed06f18346de5c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "us0CbFsWVf6q2_IqkIey0WL-kJ3F65UHbkz7jk7JdBXQ1oMwZX6hdg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":659,\"imdb_id\":\"tt0078875\",\"origin_country\":[\"FR\",\"DE\",\"YU\"],\"original_language\":\"de\",\"original_title\":\"Die Blechtrommel\",\"overview\":\"Oskar Matzerath is a very unusual boy. Refusing to leave the womb until promised a tin drum by his mother, Agnes, Oskar is reluctant to enter a world he sees as filled with hypocrisy and injustice, and vows on his third birthday to never grow up. Miraculously, he gets his wish. As the Nazis rise to power in Danzig, Oskar wills himself to remain a child, beating his tin drum incessantly and screaming in protest at the chaos surrounding him.\",\"popularity\":36.599,\"poster_path\":\"\/tm408GMyQqfqFJ7MKCkwc5uQ3wi.jpg\",\"production_companies\":[{\"id\":168,\"logo_path\":\"\/AmNSNdDaByDpc0bzekWFeYRXDW2.png\",\"name\":\"Jadran Film\",\"origin_country\":\"HR\"},{\"id\":1521,\"logo_path\":null,\"name\":\"Artemis Film\",\"origin_country\":\"DE\"},{\"id\":1548,\"logo_path\":null,\"name\":\"Franz Seitz Filmproduktion\",\"origin_country\":\"DE\"},{\"id\":6116,\"logo_path\":\"\/yCu2D15iD7lcYsBWqXjU65U9nkH.png\",\"name\":\"Argos Films\",\"origin_country\":\"FR\"},{\"id\":59351,\"logo_path\":null,\"name\":\"Hallelujah Films\",\"origin_country\":\"\"},{\"id\":59352,\"logo_path\":null,\"name\":\"GGB-14\",\"origin_country\":\"DE\"},{\"id\":403,\"logo_path\":\"\/h2nyRbglJy4d6TN6UDycqpdsLpr.png\",\"name\":\"Neue Bioskop Film\",\"origin_country\":\"DE\"},{\"id\":175422,\"logo_path\":null,\"name\":\"Auditrust\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"YU\",\"name\":\"Yugoslavia\"}],\"release_date\":\"1979-05-02\",\"revenue\":17000000,\"runtime\":162,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"},{\"english_name\":\"Hebrew\",\"iso_639_1\":\"he\",\"name\":\"\u05e2\u05b4\u05d1\u05b0\u05e8\u05b4\u05d9\u05ea\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Polish\",\"iso_639_1\":\"pl\",\"name\":\"Polski\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"}],\"status\":\"Released\",\"tagline\":\"A savage, sweeping epic of society in chaos.\",\"title\":\"The Tin Drum\",\"video\":false,\"vote_average\":7.0,\"vote_count\":447}"
+}

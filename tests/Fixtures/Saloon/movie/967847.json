@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1390",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26612",
+        "x-memc": "HIT",
+        "x-memc-key": "7854afb14f8f988935f3a076fce3157b",
+        "x-memc-age": "898",
+        "x-memc-expires": "26612",
+        "ETag": "W\/\"d39e52f2b932f08398038c11f8532613\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SxDeU1xfxqoyteCx4CK5HVkpyMu77uufspGMK0G-yWSdp8OzA8tFSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wODqakS0jinTUECNS6n4VomQbew.jpg\",\"belongs_to_collection\":{\"id\":2980,\"name\":\"Ghostbusters Collection\",\"poster_path\":\"\/sctvCtE1M1rDF4f0W2fMrk2BrGB.jpg\",\"backdrop_path\":\"\/guigdRPHN65fsgZHmvVvBOyiArf.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.ghostbusters.com\",\"id\":967847,\"imdb_id\":\"tt21235248\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ghostbusters: Frozen Empire\",\"overview\":\"When the discovery of an ancient artifact unleashes an evil force, Ghostbusters new and old must join forces to protect their home and save the world from a second Ice Age.\",\"popularity\":295.098,\"poster_path\":\"\/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg\",\"production_companies\":[{\"id\":84042,\"logo_path\":\"\/hbln3zGw1R6mkfRETOaUbRuAJSI.png\",\"name\":\"Ghost Corps\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-03-20\",\"revenue\":201668200,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It'll send a chill down your spine.\",\"title\":\"Ghostbusters: Frozen Empire\",\"video\":false,\"vote_average\":6.681,\"vote_count\":1103}"
+}

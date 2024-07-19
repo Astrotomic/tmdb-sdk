@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "563",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:27:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18923",
+        "x-memc": "HIT",
+        "x-memc-key": "294acc4257087c5e130d2c51ad9ce474",
+        "x-memc-age": "2723",
+        "x-memc-expires": "18923",
+        "ETag": "W\/\"fb0c57099b743141ce6c98d8f588ed7a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F6W5cgUnRx3Q3wFY-p1oRupaGEw7Ngeh6oVTvQtLaEjW2l60Kn5RtQ=="
+    },
+    "data": "{\"id\":891148,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":47256,\"known_for_department\":\"Directing\",\"name\":\"Phil Jutzi\",\"original_name\":\"Phil Jutzi\",\"popularity\":7.58,\"profile_path\":\"\/qoltIsTmAYm1NxgJJCap1lolf3O.jpg\",\"credit_id\":\"617adfc8176a94008d2fb887\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1265994,\"known_for_department\":\"Production\",\"name\":\"Willi M\u00fcnzenberg\",\"original_name\":\"Willi M\u00fcnzenberg\",\"popularity\":0.028,\"profile_path\":null,\"credit_id\":\"617ae06df2cf2500438865bc\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

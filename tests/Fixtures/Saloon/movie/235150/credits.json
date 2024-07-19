@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1166",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:28:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23262",
+        "x-memc": "HIT",
+        "x-memc-key": "d8258f7f54138d453c52d3849023540c",
+        "x-memc-age": "5173",
+        "x-memc-expires": "23262",
+        "ETag": "W\/\"12a47906b01c22570af265e364f3c7c3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DXqy4eYpByrpJOW8lilRkP09pPH2smNRC3ZaTRWF_aUlcPiXLy9NAA=="
+    },
+    "data": "{\"id\":235150,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":33923,\"known_for_department\":\"Acting\",\"name\":\"Mel Blanc\",\"original_name\":\"Mel Blanc\",\"popularity\":22.46,\"profile_path\":\"\/8fevv4K06TmHsYom2XfmxgKrTcd.jpg\",\"cast_id\":2,\"character\":\"Bugs Bunny \/ Yosemite Sam \/ Dopey Dick (voice)\",\"credit_id\":\"601769a40816c700428932d5\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":930633,\"known_for_department\":\"Directing\",\"name\":\"Friz Freleng\",\"original_name\":\"Friz Freleng\",\"popularity\":12.271,\"profile_path\":\"\/v7CtAOi4eLJkyu9bZN1yC8e5Wco.jpg\",\"credit_id\":\"52fe4e40c3a36847f82860ef\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":149366,\"known_for_department\":\"Writing\",\"name\":\"Warren Foster\",\"original_name\":\"Warren Foster\",\"popularity\":7.405,\"profile_path\":\"\/dxwLVoPzik5tR2nbdLg0seYN99X.jpg\",\"credit_id\":\"654ffe4f41a561336c608bb6\",\"department\":\"Writing\",\"job\":\"Story\"},{\"adult\":false,\"gender\":2,\"id\":422939,\"known_for_department\":\"Sound\",\"name\":\"Milt Franklyn\",\"original_name\":\"Milt Franklyn\",\"popularity\":4.218,\"profile_path\":\"\/wvwkvfkRYm9txQNGaqwkOj7Hn8b.jpg\",\"credit_id\":\"654ffe5719418600e497223c\",\"department\":\"Sound\",\"job\":\"Music Director\"}]}"
+}

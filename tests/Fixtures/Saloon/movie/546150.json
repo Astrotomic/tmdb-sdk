@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "975",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17607",
+        "x-memc": "HIT",
+        "x-memc-key": "3f671a9ed03adcf3524c5738a8dbdede",
+        "x-memc-age": "6564",
+        "x-memc-expires": "17607",
+        "ETag": "W\/\"89161f5f1e599480930eccf21bb530b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "x13tjTzHur9xRLfMmogG_0_6Rwgv6Qbkpxf0vCrCFRRyx0fUBGbROw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6ZcNEKjAmHvrCS5F6TxcQLl5LyY.jpg\",\"belongs_to_collection\":null,\"budget\":300000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":546150,\"imdb_id\":\"tt7721742\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Lease\",\"overview\":\"A family moves into a haunted villa where all kinds of supernatural events start to occur.\",\"popularity\":1.564,\"poster_path\":\"\/xStAsLqEPQveGSjD959h2LTjNBI.jpg\",\"production_companies\":[{\"id\":75772,\"logo_path\":\"\/1rpYUKKLYjFlK6wBU2AbxY2Ydyo.png\",\"name\":\"See Thru Pictures\",\"origin_country\":\"PH\"},{\"id\":108455,\"logo_path\":null,\"name\":\"Utmost Creative Flm\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"PH\",\"name\":\"Philippines\"}],\"release_date\":\"2018-08-22\",\"revenue\":0,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Who are you?\",\"title\":\"The Lease\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

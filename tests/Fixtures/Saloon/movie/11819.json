@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1170",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4264",
+        "x-memc": "HIT",
+        "x-memc-key": "412b7c1727e5adf56e12039f3fe77a71",
+        "x-memc-age": "22519",
+        "x-memc-expires": "4264",
+        "ETag": "W\/\"eee9ee4386d38fa691395ace7b6eb1ee\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XKIBquweiEN2L5CmoutzMk4snL_FPicCxRz7VQ8qplbyOsOeDONRAA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pqCI2fhBK26lF2OGUZg4auc9LMm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":11819,\"imdb_id\":\"tt0079160\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Fleisch\",\"overview\":\"Honeymooning couple Monica and Mike check into a motel in New Mexico. All seems normal until an ambulance pulls up and abducts Mike. Monica narrowly escapes and, with the help of truck driver Bill, discovers the awful secret of the motel and the ambulance service.\",\"popularity\":7.682,\"poster_path\":\"\/i2K5rmgTsNbXxAtaZHWsoQzK6AG.jpg\",\"production_companies\":[{\"id\":2107,\"logo_path\":null,\"name\":\"Pentagramma\",\"origin_country\":\"\"},{\"id\":4606,\"logo_path\":\"\/otZHbf1HmzLRQsZFSqJXkf8EHz7.png\",\"name\":\"ZDF\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"}],\"release_date\":\"1979-05-21\",\"revenue\":0,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"The cutting edge in medical terror!\",\"title\":\"Spare Parts\",\"video\":false,\"vote_average\":6.2,\"vote_count\":29}"
+}

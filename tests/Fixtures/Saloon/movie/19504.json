@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1059",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14078",
+        "x-memc": "HIT",
+        "x-memc-key": "644ff3aec899f5cd2dc451150adc3bb9",
+        "x-memc-age": "10275",
+        "x-memc-expires": "14078",
+        "ETag": "W\/\"d0c9ff47a7454598d71e588ff861d77d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UKk3bRdclAnSoWfCQFAvMKcTnmz9cCmJX9t3-Eb7e9prdoAAlX-YUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xPXhDVKAKJhJQuamdroO20EBy1n.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.deathtrance.jp\/\",\"id\":19504,\"imdb_id\":\"tt0443737\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u30c7\u30b9\u30fb\u30c8\u30e9\u30f3\u30b9\",\"overview\":\"In an unknown place and unknown time, a lone Samurai known only as Grave thirsts for the ultimate battle.\",\"popularity\":8.769,\"poster_path\":\"\/ibzV90cPb1omUslgkOntpjWVSC2.jpg\",\"production_companies\":[{\"id\":37084,\"logo_path\":null,\"name\":\"Media Suits\",\"origin_country\":\"JP\"},{\"id\":4647,\"logo_path\":null,\"name\":\"Fever Dreams\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2005-12-09\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"His only desire is destruction\",\"title\":\"Death Trance\",\"video\":false,\"vote_average\":5.9,\"vote_count\":59}"
+}

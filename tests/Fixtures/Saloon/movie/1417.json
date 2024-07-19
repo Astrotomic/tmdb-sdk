@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1542",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19636",
+        "x-memc": "HIT",
+        "x-memc-key": "2e61615634f9601f2393193df28fa53a",
+        "x-memc-age": "8113",
+        "x-memc-expires": "19636",
+        "ETag": "W\/\"c0585b231bcbce962a7330f6f2fccfb0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "e4J-0yvb-i6TSg-Nq8bFH1mi3Ba141GOsXQ1v3YDEUcxuV0qHABrxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/o0IWa75BXyXryNDVqw0xoXZzy1J.jpg\",\"belongs_to_collection\":null,\"budget\":19000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":1417,\"imdb_id\":\"tt0457430\",\"origin_country\":[\"ES\",\"MX\"],\"original_language\":\"es\",\"original_title\":\"El laberinto del fauno\",\"overview\":\"Living with her tyrannical stepfather in a new home with her pregnant mother, 10-year-old Ofelia feels alone until she explores a decaying labyrinth guarded by a mysterious faun who claims to know her destiny. If she wishes to return to her real father, Ofelia must complete three terrifying tasks.\",\"popularity\":76.143,\"poster_path\":\"\/2VVhikIxoztAXEDQZLOdtBsu6vf.jpg\",\"production_companies\":[{\"id\":2029,\"logo_path\":null,\"name\":\"Estudios Picasso\",\"origin_country\":\"ES\"},{\"id\":7470,\"logo_path\":null,\"name\":\"Esperanto Filmoj\",\"origin_country\":\"US\"},{\"id\":11628,\"logo_path\":null,\"name\":\"Tequila Gang\",\"origin_country\":\"MX\"},{\"id\":1182,\"logo_path\":\"\/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png\",\"name\":\"Telecinco Cinema\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-10-10\",\"revenue\":83258226,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"What happens when make-believe believes it's real?\",\"title\":\"Pan's Labyrinth\",\"video\":false,\"vote_average\":7.756,\"vote_count\":10321}"
+}

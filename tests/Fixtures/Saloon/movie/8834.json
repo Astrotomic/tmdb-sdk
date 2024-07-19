@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1360",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1230",
+        "x-memc": "HIT",
+        "x-memc-key": "11277ea1c091b919deec200c0275ea54",
+        "x-memc-age": "24095",
+        "x-memc-expires": "1230",
+        "ETag": "W\/\"eb73829e10ca44af238ad69afdad2592\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LT4Wvfaf4MwF4x1AU9XlzEpO9UllToAxYViljMbW_mgVLctRjrP1cg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c0G6f2GFlDFujX976oiak8VsR2I.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":8834,\"imdb_id\":\"tt0118883\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Conspiracy Theory\",\"overview\":\"A man obsessed with conspiracy theories becomes a target after one of his theories turns out to be true. Unfortunately, in order to save himself, he has to figure out which theory it is.\",\"popularity\":29.967,\"poster_path\":\"\/wj0n6gci4EMWRhV9ozCKTgESGdB.jpg\",\"production_companies\":[{\"id\":1885,\"logo_path\":\"\/xlvoOZr4s1PygosrwZyolIFe5xs.png\",\"name\":\"Silver Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":5739,\"logo_path\":null,\"name\":\"Donner\/Shuler-Donner Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-08-08\",\"revenue\":137000000,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What if your most paranoid nightmares had just come true?\",\"title\":\"Conspiracy Theory\",\"video\":false,\"vote_average\":6.598,\"vote_count\":1407}"
+}

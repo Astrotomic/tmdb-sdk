@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2032",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:59:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4547",
+        "x-memc": "HIT",
+        "x-memc-key": "d5dceef72145f69644e8943aeaecfbc7",
+        "x-memc-age": "19297",
+        "x-memc-expires": "4547",
+        "ETag": "W\/\"6111b6cb48591185ee60736e46be9e8e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Mn8FtOF3_h3N_FHfBacz5TV4u3F6lSBGuaV0NkANHWulbvhM4HPZYw=="
+    },
+    "data": "{\"id\":19504,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19504\/watch?locale=CA\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"flatrate\":[{\"logo_path\":\"\/jCgWMxqGaq0h0VOxyJPfQdTqmii.jpg\",\"provider_id\":514,\"provider_name\":\"AsianCrush\",\"display_priority\":58},{\"logo_path\":\"\/8s4adSGz4UmVOP5uegNkoikSFLV.jpg\",\"provider_id\":1960,\"provider_name\":\"Midnight Pulp\",\"display_priority\":135}],\"ads\":[{\"logo_path\":\"\/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg\",\"provider_id\":1957,\"provider_name\":\"Cineverse\",\"display_priority\":134}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/19504\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/3eVIcUeRXji5SBV7gEv4f5U4CqV.jpg\",\"provider_id\":199,\"provider_name\":\"Fandor Amazon Channel\",\"display_priority\":108},{\"logo_path\":\"\/jCgWMxqGaq0h0VOxyJPfQdTqmii.jpg\",\"provider_id\":514,\"provider_name\":\"AsianCrush\",\"display_priority\":145},{\"logo_path\":\"\/8s4adSGz4UmVOP5uegNkoikSFLV.jpg\",\"provider_id\":1960,\"provider_name\":\"Midnight Pulp\",\"display_priority\":231}],\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"ads\":[{\"logo_path\":\"\/6By0jm0Gr2WMOqUeHWhzRWaMdOo.jpg\",\"provider_id\":332,\"provider_name\":\"VUDU Free\",\"display_priority\":41},{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46},{\"logo_path\":\"\/jpEV1w3CnrpDQ1vRvGQIZF1S6vA.jpg\",\"provider_id\":1957,\"provider_name\":\"Cineverse\",\"display_priority\":229}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

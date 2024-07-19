@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1732",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14982",
+        "x-memc": "HIT",
+        "x-memc-key": "39eeeae938e5a67f82dda9c380dcea25",
+        "x-memc-age": "10657",
+        "x-memc-expires": "14982",
+        "ETag": "W\/\"b1bea246e8f3b99b7d4caef7749cb9f3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yHruxcNS4HItRDKL3F5gj9Ttu5IBv3ivfsBBwhvjAFRoeqJ-Y2dvWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg\",\"belongs_to_collection\":null,\"budget\":78000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.babylonmovie.com\/\",\"id\":615777,\"imdb_id\":\"tt10640346\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Babylon\",\"overview\":\"A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.\",\"popularity\":183.523,\"poster_path\":\"\/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":2527,\"logo_path\":\"\/osO7TGmlRMistSQ5JZusPhbKUHk.png\",\"name\":\"Marc Platt Productions\",\"origin_country\":\"US\"},{\"id\":12139,\"logo_path\":null,\"name\":\"Material Pictures\",\"origin_country\":\"US\"},{\"id\":184518,\"logo_path\":\"\/lOouI8ibBzhLI4qvku74FPUVT8t.png\",\"name\":\"C2 Motion Picture Group\",\"origin_country\":\"US\"},{\"id\":187221,\"logo_path\":null,\"name\":\"Organism Pictures\",\"origin_country\":\"US\"},{\"id\":224269,\"logo_path\":null,\"name\":\"Wild Chickens Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-12-22\",\"revenue\":63363579,\"runtime\":189,\"spoken_languages\":[{\"english_name\":\"Cantonese\",\"iso_639_1\":\"cn\",\"name\":\"\u5e7f\u5dde\u8bdd \/ \u5ee3\u5dde\u8a71\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Always make a scene.\",\"title\":\"Babylon\",\"video\":false,\"vote_average\":7.41,\"vote_count\":2871}"
+}

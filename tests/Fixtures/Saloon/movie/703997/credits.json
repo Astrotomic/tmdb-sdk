@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1598",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:41:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7814",
+        "x-memc": "HIT",
+        "x-memc-key": "309ea829e5411c58d72ce9305ca763f3",
+        "x-memc-age": "20529",
+        "x-memc-expires": "7814",
+        "ETag": "W\/\"7a63f25eecc442801155e353dedaa68c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9b06261b360f2fc15a3d94db42c0a168.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jWLpt4nXH899IxaCY4AdYkIIJpuGOD8M4VXsKTpdcvaCRnyGecU6-g=="
+    },
+    "data": "{\"id\":703997,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":2637988,\"known_for_department\":\"Acting\",\"name\":\"Claire McFadden\",\"original_name\":\"Claire McFadden\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Grace\",\"credit_id\":\"5ebcf575858678001fe2a3ae\",\"order\":0},{\"adult\":false,\"gender\":3,\"id\":2546530,\"known_for_department\":\"Directing\",\"name\":\"Noah Schamus\",\"original_name\":\"Noah Schamus\",\"popularity\":1.078,\"profile_path\":\"\/6uoAI0sH5e0cNwEp9RM6W1IyMph.jpg\",\"cast_id\":2,\"character\":\"Lucy\",\"credit_id\":\"5ebcf5aa3d3557001cdc6835\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":3,\"id\":2546530,\"known_for_department\":\"Directing\",\"name\":\"Noah Schamus\",\"original_name\":\"Noah Schamus\",\"popularity\":1.078,\"profile_path\":\"\/6uoAI0sH5e0cNwEp9RM6W1IyMph.jpg\",\"credit_id\":\"5ebcf5bcc50ad200238471ab\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2637988,\"known_for_department\":\"Acting\",\"name\":\"Claire McFadden\",\"original_name\":\"Claire McFadden\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ebcf5ce858678001fe2a509\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":3,\"id\":2546530,\"known_for_department\":\"Directing\",\"name\":\"Noah Schamus\",\"original_name\":\"Noah Schamus\",\"popularity\":1.078,\"profile_path\":\"\/6uoAI0sH5e0cNwEp9RM6W1IyMph.jpg\",\"credit_id\":\"5ebcf5d63d3557001edd36b8\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":2637989,\"known_for_department\":\"Crew\",\"name\":\"Jack Davis\",\"original_name\":\"Jack Davis\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5ebcf5f38586780021e3f9a1\",\"department\":\"Crew\",\"job\":\"Cinematography\"}]}"
+}

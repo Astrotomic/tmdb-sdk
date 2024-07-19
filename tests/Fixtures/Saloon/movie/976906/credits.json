@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2101",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:35:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7373",
+        "x-memc": "HIT",
+        "x-memc-key": "1b670bf68394041554c49407a6cb4285",
+        "x-memc-age": "20428",
+        "x-memc-expires": "7373",
+        "ETag": "W\/\"d54eade46688640a623b6492d08942e7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2hBEVJM8bOOUQ4S__PP-qKqDJ80SfN5rS0EYCsd0Xqc1SN_Pv3489Q=="
+    },
+    "data": "{\"id\":976906,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1389332,\"known_for_department\":\"Acting\",\"name\":\"Kris Saddler\",\"original_name\":\"Kris Saddler\",\"popularity\":8.352,\"profile_path\":\"\/s7waWYEodqF2dcRZh8on7nXXHEz.jpg\",\"cast_id\":4,\"character\":\"Edward Barnes\",\"credit_id\":\"62940ab6ab5e3400650809c5\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1534897,\"known_for_department\":\"Acting\",\"name\":\"Tom Gordon\",\"original_name\":\"Tom Gordon\",\"popularity\":4.285,\"profile_path\":\"\/2JqzvbzhUa3CfdLhLv5Ybkw91rh.jpg\",\"cast_id\":5,\"character\":\"David\",\"credit_id\":\"62940acea44d0900a9857d7a\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":1397459,\"known_for_department\":\"Acting\",\"name\":\"David Dobson\",\"original_name\":\"David Dobson\",\"popularity\":2.125,\"profile_path\":\"\/wXCdU4iyBs8CODGmcSPziMkoqfT.jpg\",\"cast_id\":6,\"character\":\"Group Captain\",\"credit_id\":\"62940ae8a275020066f6e4d6\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1397457,\"known_for_department\":\"Acting\",\"name\":\"Vin Hawke\",\"original_name\":\"Vin Hawke\",\"popularity\":2.785,\"profile_path\":\"\/oa6mDeggnudRAXAAUwVagqSpYer.jpg\",\"cast_id\":7,\"character\":\"Stanley\",\"credit_id\":\"62940afcd48cee4e2317a58a\",\"order\":3}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2265563,\"known_for_department\":\"Directing\",\"name\":\"Callum Burn\",\"original_name\":\"Callum Burn\",\"popularity\":1.695,\"profile_path\":null,\"credit_id\":\"62940912aa659e00a257a266\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2265563,\"known_for_department\":\"Directing\",\"name\":\"Callum Burn\",\"original_name\":\"Callum Burn\",\"popularity\":1.695,\"profile_path\":null,\"credit_id\":\"629409afdf86a834e1917931\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":2265564,\"known_for_department\":\"Writing\",\"name\":\"Andrew Burn\",\"original_name\":\"Andrew Burn\",\"popularity\":0.944,\"profile_path\":null,\"credit_id\":\"629409c5d48cee4e24b1dbfb\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":1,\"id\":3211548,\"known_for_department\":\"Art\",\"name\":\"Ines Rose\",\"original_name\":\"Ines Rose\",\"popularity\":1.094,\"profile_path\":null,\"credit_id\":\"63458f4a71ffdf007fb10ed8\",\"department\":\"Art\",\"job\":\"Set Designer\"}]}"
+}

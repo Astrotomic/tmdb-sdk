@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1076",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5809",
+        "x-memc": "HIT",
+        "x-memc-key": "7230fdd14877e8d330a915ace167cb39",
+        "x-memc-age": "21225",
+        "x-memc-expires": "5809",
+        "ETag": "W\/\"97bb3bbf88dfa9fa0500eced98fd17a3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uhag8aF37-fGEC4R5N0dCZPW5n_4iG7p0picBcVwpTsxIg7h27HBKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"\",\"id\":542738,\"imdb_id\":\"tt0072340\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Underground Man\",\"overview\":\"A private detective goes after the kidnappers of his ex-girlfriend's son and becomes involved in a series of murders.\",\"popularity\":3.184,\"poster_path\":\"\/tL5SaGBtWz8Jb6m6wUmFGhs2H5R.jpg\",\"production_companies\":[{\"id\":148020,\"logo_path\":null,\"name\":\"Aries Films\",\"origin_country\":\"\"},{\"id\":9223,\"logo_path\":\"\/of4mmVt6egYaO9oERJbuUxMOTkj.png\",\"name\":\"Paramount Television Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1974-05-06\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Underground Man\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

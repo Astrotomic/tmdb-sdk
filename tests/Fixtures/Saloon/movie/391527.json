@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1221",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2266",
+        "x-memc": "HIT",
+        "x-memc-key": "3ebbc71b5adfeb7236e0c48dcf019e14",
+        "x-memc-age": "25869",
+        "x-memc-expires": "2266",
+        "ETag": "W\/\"8ab778e6a3c9ee34701563fc3aef9a4d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "o9VpKoyx5YXl05UBZPOmcwtDStriOITxqlt-NFtLUgPIqD7sYVUIqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oXOtRbSMhZ3ZA2aqQ0lzkqYiH2k.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391527,\"imdb_id\":\"tt0036311\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rhythm of the Islands\",\"overview\":\"Rhythm of the Islands is set in the South Seas, presumably far away from the shooting war. The nonsensical plotline finds hero Tommy (Allan Jones) posing as a native chief. Joan Holton (Jane Frazee), daughter of a millionaire (Ernest Truex), falls in love with Tommy, unaware that he's a charlatan.\",\"popularity\":2.303,\"poster_path\":\"\/11CkMMCJilElviLx5AAxdoLy7wP.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-04-16\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Laughs and Sweet Leilanis... Heart-teasing Songs... Eye-pleasing Sarongs!\",\"title\":\"Rhythm of the Islands\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

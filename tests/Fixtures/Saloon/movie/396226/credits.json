@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1867",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:22:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15942",
+        "x-memc": "HIT",
+        "x-memc-key": "8ab90eca901e50d31f90fd621fbd6f36",
+        "x-memc-age": "7437",
+        "x-memc-expires": "15942",
+        "ETag": "W\/\"f78ab536879abf04a4ac117724923d62\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VF94tmhv033hbvwX5u8e48NdiQycXEhk5tArDtm-eRgZkqRh_UWvUQ=="
+    },
+    "data": "{\"id\":396226,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":231560,\"known_for_department\":\"Acting\",\"name\":\"Steve Hogarth\",\"original_name\":\"Steve Hogarth\",\"popularity\":0.909,\"profile_path\":\"\/8vMI6IXqbdvnxWMIEb74q6OjagI.jpg\",\"cast_id\":0,\"character\":\"\",\"credit_id\":\"572bb9859251416cf3000613\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":231563,\"known_for_department\":\"Acting\",\"name\":\"Pete Trewavas\",\"original_name\":\"Pete Trewavas\",\"popularity\":2.095,\"profile_path\":\"\/pzdOR7KsFhdppfi5X8gKhnIoGmD.jpg\",\"cast_id\":1,\"character\":\"\",\"credit_id\":\"572bb98cc3a3681ef5000664\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":231561,\"known_for_department\":\"Acting\",\"name\":\"Steve Rothery\",\"original_name\":\"Steve Rothery\",\"popularity\":0.976,\"profile_path\":\"\/326Mrz5SwjWIpTD5xsqRHoI5WFu.jpg\",\"cast_id\":2,\"character\":\"\",\"credit_id\":\"572bb9929251416cf7000693\",\"order\":2},{\"adult\":false,\"gender\":2,\"id\":231562,\"known_for_department\":\"Acting\",\"name\":\"Mark Kelly\",\"original_name\":\"Mark Kelly\",\"popularity\":1.739,\"profile_path\":\"\/cChF8m5l3tOQBamZTWSazhOdxzc.jpg\",\"cast_id\":3,\"character\":\"\",\"credit_id\":\"572bb99cc3a3681ef5000667\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":231564,\"known_for_department\":\"Acting\",\"name\":\"Ian Mosley\",\"original_name\":\"Ian Mosley\",\"popularity\":0.638,\"profile_path\":\"\/63ZIZVwgibgIyLJlQSemiiNPrbg.jpg\",\"cast_id\":4,\"character\":\"\",\"credit_id\":\"572bb9a1c3a3681ef00005e1\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":231617,\"known_for_department\":\"Directing\",\"name\":\"Tim Sidwell\",\"original_name\":\"Tim Sidwell\",\"popularity\":0.384,\"profile_path\":null,\"credit_id\":\"572bb9ab9251416ceb0005de\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1615768,\"known_for_department\":\"Directing\",\"name\":\"Jeremy Mason\",\"original_name\":\"Jeremy Mason\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"572bb9fa9251416cf000067a\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1485",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:29 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20696",
+        "x-memc": "HIT",
+        "x-memc-key": "a38cd33d8cbfecefda1c3bc478c0aba7",
+        "x-memc-age": "6105",
+        "x-memc-expires": "20696",
+        "ETag": "W\/\"53c9020ae2645f10dab26ad647deaf14\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5XN5Hkf2xWn5PuoMfYLpN8Y9_Xk-i1w3gpVLsra60dlG1v0_Baj2OA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/q2qzgZnp0cW4D9DJveoQpaJ9U54.jpg\",\"belongs_to_collection\":null,\"budget\":800000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":701121,\"imdb_id\":\"tt12311866\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Children of the Corn\",\"overview\":\"A psychopathic twelve-year-old girl in a small town in Nebraska recruits all the other children and goes on a bloody rampage, killing the corrupt adults and anyone else who opposes her. A bright high schooler who won't go along with the plan is the town's only hope of survival.\",\"popularity\":14.958,\"poster_path\":\"\/ooZbBL28oXDHfc8xSt2VRHU8jkO.jpg\",\"production_companies\":[{\"id\":137429,\"logo_path\":null,\"name\":\"ANVL Entertainment\",\"origin_country\":\"US\"},{\"id\":96377,\"logo_path\":\"\/6B3ggX8aVsyp2t9MUpSriEEyev1.png\",\"name\":\"Digital Riot Media\",\"origin_country\":\"US\"},{\"id\":5113,\"logo_path\":\"\/qd5ru3vUvGb6dhXSzkHn7EQoX2D.png\",\"name\":\"120dB Films\",\"origin_country\":\"US\"},{\"id\":135511,\"logo_path\":\"\/n9IYveDrx7qKypT2zYYpCMX2SSX.png\",\"name\":\"Angel Oak Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-10-23\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Every parent's nightmare as you've never seen it before.\",\"title\":\"Children of the Corn\",\"video\":false,\"vote_average\":5.0,\"vote_count\":106}"
+}

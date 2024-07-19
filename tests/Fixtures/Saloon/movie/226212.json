@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1072",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13167",
+        "x-memc": "HIT",
+        "x-memc-key": "dd2341037dcea3150c1fa3e723d72e50",
+        "x-memc-age": "14465",
+        "x-memc-expires": "13167",
+        "ETag": "W\/\"a8fb317ab41366c478e11f028134d992\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RAxtqHUgZ9y8Wfp__XCkgRjenSwDman1Ky3bmyxsdopEbE_mrOBP4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/76mwIn8CBVxk1vFTm1SAmLsuIRM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":226212,\"imdb_id\":\"tt0063789\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Le Voleur de crimes\",\"overview\":\"A man witnesses a suicide and starts imagining that it was a murder committed by himself.\",\"popularity\":3.802,\"poster_path\":\"\/xrrA4pfsNURjthyoY51BMRAgMNC.jpg\",\"production_companies\":[{\"id\":1398,\"logo_path\":null,\"name\":\"Les Films Corona\",\"origin_country\":\"FR\"},{\"id\":10786,\"logo_path\":null,\"name\":\"Capitole Films\",\"origin_country\":\"FR\"},{\"id\":8930,\"logo_path\":null,\"name\":\"Euro International Films\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1969-05-22\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Crime Thief\",\"video\":false,\"vote_average\":5.1,\"vote_count\":6}"
+}

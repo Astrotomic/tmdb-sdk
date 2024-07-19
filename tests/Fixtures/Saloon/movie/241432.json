@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "928",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3144",
+        "x-memc": "HIT",
+        "x-memc-key": "550985f5910e78a9a44528c49e3cc754",
+        "x-memc-age": "21035",
+        "x-memc-expires": "3144",
+        "ETag": "W\/\"929de8ca2216bcf12077a5a0f70dc724\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aXzpU5abvglRpGIIKJ8nkou3gw6u3wRNiKSryYgpJa9lInbVAIvPpw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xUWoTRXN1a2N6wFpBClfyBjktvu.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":241432,\"imdb_id\":\"tt2359381\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Days and Nights\",\"overview\":\"Reckless desire wreaks havoc over Memorial Day weekend as a family confronts the volatile and fragile nature of love. A modern retelling of Anton Chekhov's \\\"The Seagull\\\", set in rural New England.\",\"popularity\":5.957,\"poster_path\":\"\/4zaSBhPhaTrEQQOMlFCuoFdU90D.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-09-26\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Days and Nights\",\"video\":false,\"vote_average\":4.7,\"vote_count\":18}"
+}

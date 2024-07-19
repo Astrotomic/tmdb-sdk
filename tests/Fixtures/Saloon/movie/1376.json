@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1145",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5018",
+        "x-memc": "HIT",
+        "x-memc-key": "ec0ffe6a7e8d52fd02b71c1564245985",
+        "x-memc-age": "22827",
+        "x-memc-expires": "5018",
+        "ETag": "W\/\"4f417f1176a5f5c39c2b4087fc9508af\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4adNpVGn_CJx5u9gmRtIBXaLkeOqo1yLMHv7Hz_hBz_Y71zfGjoTiA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xpdXXd5i1IN7d4eOhqAreApobxT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1376,\"imdb_id\":\"tt0313670\",\"origin_country\":[\"DE\",\"ES\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Sweet Sixteen\",\"overview\":\"Determined to have a normal family life once his mother gets out of prison, a Scottish teenager from a tough background sets out to raise the money for a home.\",\"popularity\":11.715,\"poster_path\":\"\/p5h50WEZQ4pRFffnSULqL4cEuLp.jpg\",\"production_companies\":[{\"id\":697,\"logo_path\":null,\"name\":\"Alta Films S.A.\",\"origin_country\":\"ES\"},{\"id\":699,\"logo_path\":null,\"name\":\"TTornasol Films S.A.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2002-09-07\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Life... it's about to hit the fan!\",\"title\":\"Sweet Sixteen\",\"video\":false,\"vote_average\":6.995,\"vote_count\":218}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1405",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7320",
+        "x-memc": "HIT",
+        "x-memc-key": "c55defe50536e5fefb2845fbf32e9222",
+        "x-memc-age": "17303",
+        "x-memc-expires": "7320",
+        "ETag": "W\/\"5a29f6d7bc0304e856e8323de751168a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FQ3x_H4wUcL71blmgpv-WzOG6WbjBqcamEkf6bBf68Dibp5ugBGRlA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mKEmuB7diOa7Ef0tJSGQ3fYJnNe.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/full-metal-jacket\",\"id\":600,\"imdb_id\":\"tt0093058\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Full Metal Jacket\",\"overview\":\"A pragmatic U.S. Marine observes the dehumanizing effects the U.S.-Vietnam War has on his fellow recruits from their brutal boot camp training to the bloody street fighting in Hue.\",\"popularity\":71.783,\"poster_path\":\"\/kMKyx1k8hWWscYFnPbnxxN4Eqo4.jpg\",\"production_companies\":[{\"id\":50819,\"logo_path\":null,\"name\":\"Natant\",\"origin_country\":\"\"},{\"id\":385,\"logo_path\":null,\"name\":\"Stanley Kubrick Productions\",\"origin_country\":\"GB\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-06-26\",\"revenue\":46357676,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Vietnamese\",\"iso_639_1\":\"vi\",\"name\":\"Ti\u1ebfng Vi\u1ec7t\"}],\"status\":\"Released\",\"tagline\":\"In Vietnam, the wind doesn't blow. It sucks.\",\"title\":\"Full Metal Jacket\",\"video\":false,\"vote_average\":8.134,\"vote_count\":10221}"
+}

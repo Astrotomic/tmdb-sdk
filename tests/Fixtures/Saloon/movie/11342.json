@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1471",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11760",
+        "x-memc": "HIT",
+        "x-memc-key": "bdbd6ccd0cfa0d2f3e2d7a6063a20ba8",
+        "x-memc-age": "12997",
+        "x-memc-expires": "11760",
+        "ETag": "W\/\"c70ca9c5b0fafd1f33f4a01ae4daded1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XOxYHtJnBtb4WtuEXq7EQItnaDostlfAoWZLtrnI6Fgmtl1ZoLxCeA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tVQjkTxxg7t17Fgp4qyii89pCH2.jpg\",\"belongs_to_collection\":{\"id\":87536,\"name\":\"Warlock Collection\",\"poster_path\":\"\/oujdAIytXUwEHQY589ZGvrIpgOF.jpg\",\"backdrop_path\":\"\/oMHsUu1CPf8h9BLg7qSm7oPuFjS.jpg\"},\"budget\":7000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":11342,\"imdb_id\":\"tt0098622\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Warlock\",\"overview\":\"In 17th century New England, witch hunter Giles Redferne captures an evil warlock, but the conjurer eludes death with supernatural help. Flung into the future, the warlock winds up in the 1980s and plans to bring about the end of the world. Redferne follows the enchanter into the modern era and continues his mission, but runs into trouble in such unfamiliar surroundings. With the help of a young woman, can Redferne finally defeat the warlock?\",\"popularity\":17.526,\"poster_path\":\"\/1QHjr4lBd3vBN4kEqdDFlnJbsa7.jpg\",\"production_companies\":[{\"id\":1950,\"logo_path\":\"\/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png\",\"name\":\"New World Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1989-06-01\",\"revenue\":9094451,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Satan also has one son.\",\"title\":\"Warlock\",\"video\":false,\"vote_average\":6.281,\"vote_count\":376}"
+}

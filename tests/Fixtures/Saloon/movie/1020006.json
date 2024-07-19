@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1439",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18871",
+        "x-memc": "HIT",
+        "x-memc-key": "d79abe3e7a6b4a54788c01c52ddde82d",
+        "x-memc-age": "5749",
+        "x-memc-expires": "18871",
+        "ETag": "W\/\"e6c35ec0dec0e19bb3ca094d7bb621c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "n_LM_6_qlMshMf32T_U8AJcYJUl4PfYIllc_j-gQBXMhcOQhSW962Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zz219ZRGo0vVIzvKttjx5nXOc2N.jpg\",\"belongs_to_collection\":null,\"budget\":20000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"http:\/\/a24films.com\/films\/priscilla\",\"id\":1020006,\"imdb_id\":\"tt22041854\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Priscilla\",\"overview\":\"When teenage Priscilla Beaulieu meets Elvis Presley at a party, the man who is already a meteoric rock-and-roll superstar becomes someone entirely unexpected in private moments: a thrilling crush, an ally in loneliness, a vulnerable best friend.\",\"popularity\":65.296,\"poster_path\":\"\/kRGMnxFQodcKCDo1xK3bIAi4zfV.jpg\",\"production_companies\":[{\"id\":128344,\"logo_path\":\"\/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png\",\"name\":\"The Apartment Pictures\",\"origin_country\":\"IT\"},{\"id\":70,\"logo_path\":\"\/ueaENQkPcy8rlr5fGZVBXKOhlBh.png\",\"name\":\"American Zoetrope\",\"origin_country\":\"US\"},{\"id\":190134,\"logo_path\":null,\"name\":\"Standalone Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-10-27\",\"revenue\":30140906,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Wife to the king. Icon to the world. Destined for more.\",\"title\":\"Priscilla\",\"video\":false,\"vote_average\":6.9,\"vote_count\":628}"
+}

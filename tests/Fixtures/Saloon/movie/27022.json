@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1838",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10452",
+        "x-memc": "HIT",
+        "x-memc-key": "5391f375a512c11eba64239744960ee3",
+        "x-memc-age": "18105",
+        "x-memc-expires": "10452",
+        "ETag": "W\/\"60087d87426c9461914b7746f1258755\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 358b28eebad5be133b48dbeaa3a5bbdc.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KzS1-cO6EU7DVuVBBmeuB_Si-x7AGw4svg9wLv7631tRmKaUzgIa3g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mtrfLUfUoQunolDhmQy0GfbRclC.jpg\",\"belongs_to_collection\":null,\"budget\":150000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/disney.go.com\/disneypictures\/sorcerersapprentice\/\",\"id\":27022,\"imdb_id\":\"tt0963966\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Sorcerer's Apprentice\",\"overview\":\"Balthazar Blake is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath. Balthazar can't do it alone, so he recruits Dave Stutler, a seemingly average guy who demonstrates hidden potential, as his reluctant prot\u00e9g\u00e9. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness.\",\"popularity\":63.503,\"poster_path\":\"\/b5pIUsGll0418NyfNA5eYCI9aoK.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":831,\"logo_path\":\"\/vLENXiYTyITnMDrTKabUXhgTKX2.png\",\"name\":\"Saturn Films\",\"origin_country\":\"US\"},{\"id\":8000,\"logo_path\":\"\/f8NwLg72BByt3eav7lX1lcJfe60.png\",\"name\":\"Broken Road Productions\",\"origin_country\":\"US\"},{\"id\":19097,\"logo_path\":null,\"name\":\"Junction Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-07-13\",\"revenue\":215300000,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's the coolest job ever.\",\"title\":\"The Sorcerer's Apprentice\",\"video\":false,\"vote_average\":6.1,\"vote_count\":4837}"
+}

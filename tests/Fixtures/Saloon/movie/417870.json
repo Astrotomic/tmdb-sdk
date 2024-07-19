@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1313",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12086",
+        "x-memc": "HIT",
+        "x-memc-key": "c7ecfedd46e1e6334a251f7af97e940e",
+        "x-memc-age": "9552",
+        "x-memc-expires": "12086",
+        "ETag": "W\/\"642fc899cc9ab4b52e7c215e9ff23263\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9PU4KfaFv0wb4dm9bk19CypocSO9DT2iV4eYCfp_5VFip0aSvrm7kA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nWKOp57cAzdgGXZ2BN5AElVfujN.jpg\",\"belongs_to_collection\":{\"id\":1078477,\"name\":\"Girls Trip Collection\",\"poster_path\":\"\/2xtulQDQADl30Ey5ocEpGADXjOZ.jpg\",\"backdrop_path\":\"\/oDYBEbbO9pff126B1fWwTq2Ak2z.jpg\"},\"budget\":19000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/girls-trip\",\"id\":417870,\"imdb_id\":\"tt3564472\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Girls Trip\",\"overview\":\"Four girlfriends take a trip to New Orleans for an annual festival and, along the way, rediscover their wild sides and strengthen the bonds of sisterhood.\",\"popularity\":32.284,\"poster_path\":\"\/fM1h8CwtdileV3zlemXx7UWJjOP.jpg\",\"production_companies\":[{\"id\":49968,\"logo_path\":\"\/gz2hSoMkvMJdTMgCLFGRJErPwXY.png\",\"name\":\"Will Packer Productions\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2017-07-21\",\"revenue\":140376621,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Forgive us in advance for this wild weekend\",\"title\":\"Girls Trip\",\"video\":false,\"vote_average\":6.845,\"vote_count\":1469}"
+}

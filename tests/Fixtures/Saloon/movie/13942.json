@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1318",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21585",
+        "x-memc": "HIT",
+        "x-memc-key": "ddb78bfc76c09461174585ee76a628c2",
+        "x-memc-age": "1337",
+        "x-memc-expires": "21585",
+        "ETag": "W\/\"a97cf1fb1297229df11e1de42a8fb6b4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oDFOP81ZC6_3N1F7OSDcleWb7Sj5O6HXriF4RlN3udJ-CMOzFO82Tg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/438LsPZAvtUd0buaMEeTy2UlKkz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/www.alphabetkiller.com\/\",\"id\":13942,\"imdb_id\":\"tt0818165\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Alphabet Killer\",\"overview\":\"Based on the true story of double killings occurring in Rochester, NY during the 80\u2019s and the troubled police officer determined to solve them, with or without the help of her department\",\"popularity\":12.974,\"poster_path\":\"\/gOLoUn638t5AOlOAG469nP70MnJ.jpg\",\"production_companies\":[{\"id\":52039,\"logo_path\":null,\"name\":\"WideyeCreative Films\",\"origin_country\":\"\"},{\"id\":2828,\"logo_path\":\"\/nKe38l1aAjsaBnCpao7rZg3zu1P.png\",\"name\":\"Intrinsic Value Films\",\"origin_country\":\"US\"},{\"id\":42203,\"logo_path\":\"\/samKMOZlza9wSyEwI0uOcTausLF.png\",\"name\":\"New Films International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-11-07\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Based on a true story.\",\"title\":\"The Alphabet Killer\",\"video\":false,\"vote_average\":5.134,\"vote_count\":183}"
+}

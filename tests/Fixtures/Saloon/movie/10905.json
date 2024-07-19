@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1027",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16278",
+        "x-memc": "HIT",
+        "x-memc-key": "c8a3dc688ee9a0959c569efb59495d66",
+        "x-memc-age": "12042",
+        "x-memc-expires": "16278",
+        "ETag": "W\/\"5a72d4fe5e996321ab893d4f50870db3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "usk2hEoeHY0TLa8woJhx3p_ADWclxod0LLJn2OTVmtCBzuTUyZ6m2A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1iwpwlP9SafsCxMKieZVlxCjYaa.jpg\",\"belongs_to_collection\":null,\"budget\":16000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":10905,\"imdb_id\":\"tt0089543\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Man with One Red Shoe\",\"overview\":\"A man is mistaken as a spy by the CIA when he arrives at the airport with one red shoe.\",\"popularity\":22.936,\"poster_path\":\"\/lD44uiCKnLVCKiEnB0urtqIR0nE.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-07-18\",\"revenue\":8645411,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Mugged, bugged, chased and seduced. Why is every one after Tom Hanks?\",\"title\":\"The Man with One Red Shoe\",\"video\":false,\"vote_average\":5.715,\"vote_count\":261}"
+}

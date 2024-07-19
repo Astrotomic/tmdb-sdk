@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1500",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4344",
+        "x-memc": "HIT",
+        "x-memc-key": "c8b5a30ba62ec28418aa7d7f6514d0ef",
+        "x-memc-age": "18912",
+        "x-memc-expires": "4344",
+        "ETag": "W\/\"ddb91605f9095c3ffdc9caac00c02aca\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XPR5uO9BSJKSHjRuy99p_pu79DuUDjDPub7yH0Hy-zFLXRDOvTH5tA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fzAnRGmaKJtm8sZuZ8a1nwSNTd3.jpg\",\"belongs_to_collection\":{\"id\":136214,\"name\":\"Pocahontas Collection\",\"poster_path\":\"\/fcFFdNwgkLXCdIxe0H7RFasmogh.jpg\",\"backdrop_path\":\"\/or6DYoMtttpgs0g7cTBE5DgeUUf.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":13761,\"imdb_id\":\"tt0143808\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pocahontas II: Journey to a New World\",\"overview\":\"When news of John Smith's death reaches America, Pocahontas is devastated. She sets off to London with John Rolfe, to meet with the King of England on a diplomatic mission: to create peace and respect between the two great lands. However, Governor Ratcliffe is still around; he wants to return to Jamestown and take over. He will stop at nothing to discredit the young princess.\",\"popularity\":20.891,\"poster_path\":\"\/5bZ81wDBg0ODHkhTS9TP2F39h0L.jpg\",\"production_companies\":[{\"id\":3475,\"logo_path\":\"\/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png\",\"name\":\"Disney Television Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1998-08-04\",\"revenue\":0,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A New Journey Begins!\",\"title\":\"Pocahontas II: Journey to a New World\",\"video\":false,\"vote_average\":5.477,\"vote_count\":1300}"
+}

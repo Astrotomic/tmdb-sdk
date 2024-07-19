@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1640",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20781",
+        "x-memc": "HIT",
+        "x-memc-key": "1b9ef502fc4652004f36271fdcf01810",
+        "x-memc-age": "2061",
+        "x-memc-expires": "20781",
+        "ETag": "W\/\"ee7497a3a29791ae596d82afe4941dda\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Rc6Rba0oRzog4s_LNSSITIhSkRIgqDe5HLnBL7vxRsxzr9ClU_NqRg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fKPgObonYgPgCdu88yjV7Hpn7Dp.jpg\",\"belongs_to_collection\":{\"id\":496796,\"name\":\"Sicario Collection\",\"poster_path\":\"\/4C9c6c9j9ct4hQkiO9xOTIx7edc.jpg\",\"backdrop_path\":\"\/1v5AHV0LXaOrCe0ZJBUbvGeu3BT.jpg\"},\"budget\":30000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/sicario\",\"id\":273481,\"imdb_id\":\"tt3397884\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sicario\",\"overview\":\"An idealistic FBI agent is enlisted by a government task force to aid in the escalating war against drugs at the border area between the U.S. and Mexico.\",\"popularity\":65.114,\"poster_path\":\"\/7P4Pd24PYhIGd8ow47n9ttSTDkY.jpg\",\"production_companies\":[{\"id\":3528,\"logo_path\":\"\/cCzCClIzIh81Fa79hpW5nXoUsHK.png\",\"name\":\"Thunder Road\",\"origin_country\":\"US\"},{\"id\":33681,\"logo_path\":\"\/dHx2nsV9AC7IBlKN2dk1FDImvOz.png\",\"name\":\"Black Label Media\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":41921,\"logo_path\":\"\/bSxCLP0hx6F9XzqaReXdEohJZ9y.png\",\"name\":\"Redrum\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-09-17\",\"revenue\":84872444,\"runtime\":122,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The border is just another line to cross.\",\"title\":\"Sicario\",\"video\":false,\"vote_average\":7.398,\"vote_count\":8341}"
+}

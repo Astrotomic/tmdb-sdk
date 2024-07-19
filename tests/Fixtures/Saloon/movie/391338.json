@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1137",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4037",
+        "x-memc": "HIT",
+        "x-memc-key": "ea29885c51f349aa9b8afa389096b0af",
+        "x-memc-age": "23191",
+        "x-memc-expires": "4037",
+        "ETag": "W\/\"faae60b50af38e24942f31556d71708b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "oWbdiLq4Z9wrRnHTEkwoKKX1JrxJE5sA__X1XoW8SlC5lxfNTB8DkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391338,\"imdb_id\":\"tt0034301\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Too Many Blondes\",\"overview\":\"The plot centers on a husband-wife radio team, Dick (Rudy Vallee) and Virginia (Helen Parrish). When Dick is caught in an innocent but compromising situation with brassy blonde showgirl Hortense (Iris Adrian), Virginia is encouraged to inaugurate divorce proceedings by her oily ex-beau Ted (Jerome Cowan). It all winds up in Mexico, with Dick ardently chasing Virginia until she catches him.\",\"popularity\":1.285,\"poster_path\":null,\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-08-01\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Too Many Blondes\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

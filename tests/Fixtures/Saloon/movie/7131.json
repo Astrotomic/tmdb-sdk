@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1539",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7286",
+        "x-memc": "HIT",
+        "x-memc-key": "1a4cfc3b209a2f6eb5980a5f097d182d",
+        "x-memc-age": "17712",
+        "x-memc-expires": "7286",
+        "ETag": "W\/\"2973c7455d686076a33aadaa369cea92\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HEr4m2GK8hlSZYKjdNS4yoy32v-iWel5UqVqFnaorty5dc5SoG4hSQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nhBm8ttcoo1Q5mtLNvgsqxHL5Cn.jpg\",\"belongs_to_collection\":null,\"budget\":160000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.uphe.com\/movies\/van-helsing\",\"id\":7131,\"imdb_id\":\"tt0338526\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Van Helsing\",\"overview\":\"Famed monster slayer Gabriel Van Helsing is dispatched to Transylvania to assist the last of the Valerious bloodline in defeating Count Dracula. Anna Valerious reveals that Dracula has formed an unholy alliance with Dr. Frankenstein's monster and is hell-bent on exacting a centuries-old curse on her family.\",\"popularity\":66.266,\"poster_path\":\"\/gsFun8nATm52aGHeT8ueAel98nE.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":19643,\"logo_path\":null,\"name\":\"The Sommers Company\",\"origin_country\":\"\"},{\"id\":11345,\"logo_path\":\"\/xhnnHfsqEimD4r0QeUz3GSvcv73.png\",\"name\":\"Stillking Films\",\"origin_country\":\"CZ\"}],\"production_countries\":[{\"iso_3166_1\":\"CZ\",\"name\":\"Czech Republic\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-05-03\",\"revenue\":300257475,\"runtime\":132,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"}],\"status\":\"Released\",\"tagline\":\"The One Name They All Fear.\",\"title\":\"Van Helsing\",\"video\":false,\"vote_average\":6.354,\"vote_count\":5771}"
+}

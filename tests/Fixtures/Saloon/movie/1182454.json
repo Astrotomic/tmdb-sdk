@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "937",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12171",
+        "x-memc": "HIT",
+        "x-memc-key": "a80464ae36ca4b5a08bc2695492b23d1",
+        "x-memc-age": "14732",
+        "x-memc-expires": "12171",
+        "ETag": "W\/\"09960eebb690df724ebc5d484637b408\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1N8ln4IMSVPQIY3mQbDMyTM0cRq46dITy97vSx5fodlf--69JKPNqg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":1182454,\"imdb_id\":null,\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Das Blutville Massaker\",\"overview\":\"A tribute to German splatter films of the 1980s-2000s. A horror movie fanatic hunts down a couple of people in his town Blutville.\",\"popularity\":2.12,\"poster_path\":\"\/gSc6iPtDEvCXhIMwBMricpQL7h5.jpg\",\"production_companies\":[{\"id\":176172,\"logo_path\":null,\"name\":\"NotSoGood Productions\",\"origin_country\":\"\"},{\"id\":209330,\"logo_path\":null,\"name\":\"BrokenVhs\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2021-01-01\",\"revenue\":0,\"runtime\":3,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Bloodville Massacre\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

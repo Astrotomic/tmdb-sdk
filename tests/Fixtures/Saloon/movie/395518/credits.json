@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "513",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13513",
+        "x-memc": "HIT",
+        "x-memc-key": "3dabe99e03bd1ad8d7f637fdba19bc32",
+        "x-memc-age": "13031",
+        "x-memc-expires": "13513",
+        "ETag": "W\/\"c848fce07279187c51364880b3b10930\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 bf53ab602e7d8a88d55571ca0f838cbe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a4mWaWpoVfeX-BmArZjaxN37LUNgCKqt9FCBj20LrIUug17Ajyx-DQ=="
+    },
+    "data": "{\"id\":395518,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1130502,\"known_for_department\":\"Directing\",\"name\":\"Al Jarnow\",\"original_name\":\"Al Jarnow\",\"popularity\":2.437,\"profile_path\":null,\"credit_id\":\"5725c8a1c3a368546e00096b\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1612575,\"known_for_department\":\"Sound\",\"name\":\"Brenda Murphy\",\"original_name\":\"Brenda Murphy\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5725c8af92514119ed0049d0\",\"department\":\"Sound\",\"job\":\"Music\"}]}"
+}

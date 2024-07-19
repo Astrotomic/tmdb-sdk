@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1831",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13819",
+        "x-memc": "HIT",
+        "x-memc-key": "1fa1075a7d4b6d1ad9e08804f627d1f0",
+        "x-memc-age": "13229",
+        "x-memc-expires": "13819",
+        "ETag": "W\/\"abf9dbb826549453c2c387509b9b6785\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "z08yzv2fdeY2LXeShI4mtjh0WfCv456v5Iy3lQbwSOE2VfIybhQfSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2GB3sdsWn3drlkwGMMNQ3KFNbIV.jpg\",\"belongs_to_collection\":null,\"budget\":100000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.eragonmovie.com\/\",\"id\":2486,\"imdb_id\":\"tt0449010\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Eragon\",\"overview\":\"In his homeland of Alagaesia, a farm boy happens upon a dragon's egg -- a discovery that leads him on a predestined journey where he realized he's the one person who can defend his home against an evil king.\",\"popularity\":36.427,\"poster_path\":\"\/mNu6QLUnKqPIjRA3pgEb5dkJye6.jpg\",\"production_companies\":[{\"id\":711,\"logo_path\":\"\/tEiIH5QesdheJmDAqQwvtN60727.png\",\"name\":\"Fox 2000 Pictures\",\"origin_country\":\"US\"},{\"id\":1302,\"logo_path\":\"\/zC3b70ixHh89qJIikLQPEvLqbPM.png\",\"name\":\"Davis Entertainment\",\"origin_country\":\"US\"},{\"id\":444,\"logo_path\":null,\"name\":\"Dune Entertainment\",\"origin_country\":\"US\"},{\"id\":445,\"logo_path\":null,\"name\":\"Major Studio Partners\",\"origin_country\":\"US\"},{\"id\":2735,\"logo_path\":null,\"name\":\"Mid Atlantic Films\",\"origin_country\":\"HU\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":290,\"logo_path\":\"\/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png\",\"name\":\"Ingenious Media\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"}],\"release_date\":\"2006-12-14\",\"revenue\":249300000,\"runtime\":104,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"As darkness falls, the last dragon will choose its rider.\",\"title\":\"Eragon\",\"video\":false,\"vote_average\":5.1,\"vote_count\":3177}"
+}

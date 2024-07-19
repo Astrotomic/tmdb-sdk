@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1200",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20266",
+        "x-memc": "HIT",
+        "x-memc-key": "138503561233c5e75e192201a44e053b",
+        "x-memc-age": "1502",
+        "x-memc-expires": "20266",
+        "ETag": "W\/\"5525b50c61721130c64672145f756ecf\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HlmoPzmN2keqrRNNGS9uGt3iB1CMkl-OAAS_eJ6IhHzzVL7G349O9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yatLdOw4i5roDD2fgd5jtEx0gs7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":27583,\"imdb_id\":\"tt1234654\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Greenberg\",\"overview\":\"A New Yorker moves to Los Angeles in order to figure out his life while he housesits for his brother, and he soon sparks with his brother's assistant.\",\"popularity\":21.239,\"poster_path\":\"\/jAsN4vPpycVxC89QlA6NYBXRuK7.jpg\",\"production_companies\":[{\"id\":258,\"logo_path\":null,\"name\":\"Scott Rudin Productions\",\"origin_country\":\"US\"},{\"id\":20899,\"logo_path\":null,\"name\":\"Twins Financing\",\"origin_country\":\"US\"},{\"id\":10146,\"logo_path\":\"\/xnFIOeq5cKw09kCWqV7foWDe4AA.png\",\"name\":\"Focus Features\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-03-26\",\"revenue\":6344112,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He's got a lot on his mind.\",\"title\":\"Greenberg\",\"video\":false,\"vote_average\":5.884,\"vote_count\":546}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1405",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18268",
+        "x-memc": "HIT",
+        "x-memc-key": "54024a7af14e02376936ab73df4981b4",
+        "x-memc-age": "4421",
+        "x-memc-expires": "18268",
+        "ETag": "W\/\"e61507944d5c6509247a6d67fd969c19\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pCJf-_iUcW9cE9H8U9BsxFi1l__Az-_ZqS7goWohgCwDxcjlj4CC5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qHhuTmhRCYvj9ls4STFGnaeAPhR.jpg\",\"belongs_to_collection\":{\"id\":179892,\"name\":\"Kick-Ass Collection\",\"poster_path\":\"\/gKjplfZZWmRMPoBdmJeTHCcGYxV.jpg\",\"backdrop_path\":\"\/fYMsCXEMguNlSORJIHydfBgOnty.jpg\"},\"budget\":28000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":23483,\"imdb_id\":\"tt1250777\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Kick-Ass\",\"overview\":\"Dave Lizewski is an unnoticed high school student and comic book fan who one day decides to become a super-hero, even though he has no powers, training or meaningful reason to do so.\",\"popularity\":48.532,\"poster_path\":\"\/8citjdBmjddZjlPsAHEyCKwGVvD.jpg\",\"production_companies\":[{\"id\":5374,\"logo_path\":\"\/pMUiImmYANjZUlZFiZMWziQDSs6.png\",\"name\":\"Marv\",\"origin_country\":\"GB\"},{\"id\":81,\"logo_path\":\"\/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png\",\"name\":\"Plan B Entertainment\",\"origin_country\":\"US\"},{\"id\":181992,\"logo_path\":null,\"name\":\"Mandate International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-03-26\",\"revenue\":96188903,\"runtime\":117,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Shut up. Kick-Ass.\",\"title\":\"Kick-Ass\",\"video\":false,\"vote_average\":7.125,\"vote_count\":11407}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "938",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:27:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13690",
+        "x-memc": "HIT",
+        "x-memc-key": "286071dd5512f0ef886cadb8a1a6097b",
+        "x-memc-age": "8355",
+        "x-memc-expires": "13690",
+        "ETag": "W\/\"940a489f30c89e414bbb74872c8c1193\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2E08hPQMVSRp6Ttf9mAgUhUr78cLHSdDF6PGmSBKjuwxLylpMFrNhA=="
+    },
+    "data": "{\"id\":239530,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/239530\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}],\"flatrate\":[{\"logo_path\":\"\/mXeC4TrcgdU6ltE9bCBCEORwSQR.jpg\",\"provider_id\":283,\"provider_name\":\"Crunchyroll\",\"display_priority\":60}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":3}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/239530\/watch?locale=DE\",\"buy\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}],\"flatrate\":[{\"logo_path\":\"\/mXeC4TrcgdU6ltE9bCBCEORwSQR.jpg\",\"provider_id\":283,\"provider_name\":\"Crunchyroll\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":8}]}}}"
+}

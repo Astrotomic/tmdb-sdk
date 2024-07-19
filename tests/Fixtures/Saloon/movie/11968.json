@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1604",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18629",
+        "x-memc": "HIT",
+        "x-memc-key": "c9a879014b0164c5e15975ef29c37301",
+        "x-memc-age": "5560",
+        "x-memc-expires": "18629",
+        "ETag": "W\/\"b7d3b059553a1c35fde624648a872fde\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sidQauftgc3zIjxo-nSiezIFKTo5Ig3_mWE_Hvt9MP5K7xVvWjZABA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/giWdPd0z3z8ONFQdGVygZ26l1Ao.jpg\",\"belongs_to_collection\":{\"id\":174386,\"name\":\"Into the Blue Collection\",\"poster_path\":\"\/dbWCijxyc3YxFdiQen63GTyvu4l.jpg\",\"backdrop_path\":\"\/sWnLZZaUHEKGQOVn445k91pfjrb.jpg\"},\"budget\":50000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":11968,\"imdb_id\":\"tt0378109\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Into the Blue\",\"overview\":\"When they take some friends on an extreme sport adventure, the last thing Jared and Sam expect to see below the shark-infested waters is a legendary pirate ship rumored to contain millions of dollars in gold. But their good fortune is short-lived, as a ruthless gang of criminals gets word of what they have uncovered.\",\"popularity\":54.973,\"poster_path\":\"\/h5oXcjRu0EOiAxSxYuGq58897tu.jpg\",\"production_companies\":[{\"id\":551,\"logo_path\":\"\/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png\",\"name\":\"Mandalay Pictures\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-09-30\",\"revenue\":46117696,\"runtime\":110,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Treasure has its price.\",\"title\":\"Into the Blue\",\"video\":false,\"vote_average\":5.898,\"vote_count\":1452}"
+}

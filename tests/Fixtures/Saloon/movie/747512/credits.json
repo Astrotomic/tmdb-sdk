@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "290",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 10:48:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19067",
+        "x-memc": "HIT",
+        "x-memc-key": "c3665ee64f5fb7cff7cf5a4a7433decf",
+        "x-memc-age": "5712",
+        "x-memc-expires": "19067",
+        "ETag": "W\/\"921498bf3aaa80e4813b7a696500a25d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "qAclbCETDS17qP2tW5rLae3MH5yyCLcaxkE0qjdtZGMHL7sVgAMg6Q=="
+    },
+    "data": "{\"id\":747512,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2794283,\"known_for_department\":\"Directing\",\"name\":\"John D. Lofton IV\",\"original_name\":\"John D. Lofton IV\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5f71170a93db920039a51832\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

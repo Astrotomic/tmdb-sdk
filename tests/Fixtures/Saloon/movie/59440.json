@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1318",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11996",
+        "x-memc": "HIT",
+        "x-memc-key": "3071437ecfbf0c1f7f19d40907cbe2e6",
+        "x-memc-age": "10446",
+        "x-memc-expires": "11996",
+        "ETag": "W\/\"af05f161517f1bb6c71d8196d503306e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "V_jNnwp_ic3n5V5unz1TWehDR9hNhuD0RfN-hVUEAz-rHwqkH9qGrQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1PnRPz4A4AguUEVOTcprIyctrax.jpg\",\"belongs_to_collection\":null,\"budget\":25000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":59440,\"imdb_id\":\"tt1291584\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Warrior\",\"overview\":\"The youngest son of an alcoholic former boxer returns home, where he's trained by his father for competition in a mixed martial arts tournament \u2013 a path that puts the fighter on a collision course with his estranged, older brother.\",\"popularity\":66.674,\"poster_path\":\"\/iM8n4nZJPR2abpnyZ36FUgHiRjr.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":6573,\"logo_path\":null,\"name\":\"Mimran Schur Pictures\",\"origin_country\":\"US\"},{\"id\":1001,\"logo_path\":null,\"name\":\"Solaris Film\",\"origin_country\":\"DE\"},{\"id\":12425,\"logo_path\":null,\"name\":\"Filmtribe\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2011-09-09\",\"revenue\":23300000,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Family is worth fighting for.\",\"title\":\"Warrior\",\"video\":false,\"vote_average\":7.851,\"vote_count\":4423}"
+}

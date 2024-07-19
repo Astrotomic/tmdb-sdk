@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "970",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:13:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20418",
+        "x-memc": "HIT",
+        "x-memc-key": "86f464c0c4434196023bfb7556dd30f5",
+        "x-memc-age": "7911",
+        "x-memc-expires": "20418",
+        "ETag": "W\/\"8e2a1d024b20d3ef74a1d050cf16ed9e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UrJxjikwV4bIrlA7dFVEgp11mNg3Q5AEUocO8yftK-huHOk2o_yGXw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/34xNOyZT8YSBpvwuba4XL5FXUFp.jpg\",\"belongs_to_collection\":null,\"budget\":80000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":205432,\"imdb_id\":\"tt1285169\",\"origin_country\":[\"ES\"],\"original_language\":\"es\",\"original_title\":\"Tadeo Jones y el s\u00f3tano maldito\",\"overview\":\"Tad, a foolish and stubborn adventurer, seeks for a disappeared cute dog and finds a mysterious basement where a terrible secret is hidden.\",\"popularity\":7.804,\"poster_path\":\"\/pHpQxOAGc3CV433AdUoyB7GhXnw.jpg\",\"production_companies\":[{\"id\":15284,\"logo_path\":null,\"name\":\"La Fiesta\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2007-04-15\",\"revenue\":0,\"runtime\":18,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Tad Jones and the Basement of Doom\",\"video\":false,\"vote_average\":6.774,\"vote_count\":31}"
+}

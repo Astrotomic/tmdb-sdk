@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1222",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6805",
+        "x-memc": "HIT",
+        "x-memc-key": "bcb8f49ddcbcf5df7f0cfd9f9b130d20",
+        "x-memc-age": "19157",
+        "x-memc-expires": "6805",
+        "ETag": "W\/\"6d96c389478417c0eb98aaebc1671c46\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2m0tp-e1ayqbW7f971iNR-6N_uVP0RWUEZ_n2oEihzdb3-pXgcAJ0Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n0kMF7AFNXcx2enI94JIaiUjf6Y.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.greatamericanfamily.com\/movie\/a-christmas-commission\/\",\"id\":1180266,\"imdb_id\":\"tt29537749\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Meet Me Under the Mistletoe\",\"overview\":\"Two rival realtors are forced to work together to sell one special house before Christmas.\",\"popularity\":4.495,\"poster_path\":\"\/mHBnYPjuW5aEWVK0XpH40um45mQ.jpg\",\"production_companies\":[{\"id\":64216,\"logo_path\":\"\/Eg9VjIFt743LPYaK8Ag0fuhWGo.png\",\"name\":\"Brad Krevoy Television\",\"origin_country\":\"US\"},{\"id\":2090,\"logo_path\":\"\/jYlUttNqcN5u1pzMQrh5AEhZ27t.png\",\"name\":\"Motion Picture Corporation of America\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-12-09\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Meet Me Under the Mistletoe\",\"video\":false,\"vote_average\":7.3,\"vote_count\":6}"
+}

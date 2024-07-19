@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1332",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23394",
+        "x-memc": "HIT",
+        "x-memc-key": "466c11f013aa581734d44e7677af1127",
+        "x-memc-age": "153",
+        "x-memc-expires": "23394",
+        "ETag": "W\/\"f285ac0e826af279b54b2d97a035ce65\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aE5pqDsO-zTeG_lrbrsvmC-Opdwe5gSamZn0770fNcXXMDJASPj0XA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n5nhW9WXfGyeXCTF8I0E5g219Hs.jpg\",\"belongs_to_collection\":{\"id\":91799,\"name\":\"Tremors Collection\",\"poster_path\":\"\/dvNb7S2jXGPfaAZFextA5ojvwrS.jpg\",\"backdrop_path\":\"\/wZeBvDh9lpGpqHB0FyltARuMSmK.jpg\"},\"budget\":4000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":11069,\"imdb_id\":\"tt0114720\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tremors II: Aftershocks\",\"overview\":\"Giant underground creatures that terrorized a desert town are now plowing their way through Mexican oil fields, gobbling up everything and everyone around - and only one man can stop them.\",\"popularity\":33.793,\"poster_path\":\"\/meIuuXHhuDg1iUVOp8fr14XOXR1.jpg\",\"production_companies\":[{\"id\":3853,\"logo_path\":null,\"name\":\"Stampede Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1996-04-09\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"The Worms have turned.\",\"title\":\"Tremors II: Aftershocks\",\"video\":false,\"vote_average\":6.2,\"vote_count\":915}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "246",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15760",
+        "x-memc": "HIT",
+        "x-memc-key": "5f1482329f375174cd656b39014a8ee0",
+        "x-memc-age": "6192",
+        "x-memc-expires": "15760",
+        "ETag": "W\/\"3e7f29e88617348aed62df4f9c5535e5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d76db2cbee553c8bb2de7fd88a960646.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Xx4KImGTzcM_g6gFNWsDZj2BD-0JyEFU67oMDaConcKVBWK0hfmImA=="
+    },
+    "data": "{\"id\":568123,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/568123-virus-of-the-dead\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/27WMfRN7pQE3j5Khm8fPM7vYyLV.jpg\",\"provider_id\":2077,\"provider_name\":\"Plex Channel\",\"display_priority\":156}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1379",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16041",
+        "x-memc": "HIT",
+        "x-memc-key": "d4d6e441003c30aafe031f1f0193f1df",
+        "x-memc-age": "9973",
+        "x-memc-expires": "16041",
+        "ETag": "W\/\"321eb4549cf96282eac6adfbd1ec5d3d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "74zc-qjwylW7wkzuvMEI5zGsmgHqnPvs0P6Mnp6PJy4X2785bzjdtg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7QDnuj2T6CCY5wOSnKfYH7cIb6M.jpg\",\"belongs_to_collection\":null,\"budget\":154790,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":8056,\"imdb_id\":\"tt0170705\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Train de vie\",\"overview\":\"In 1941, the inhabitants of a small Jewish village in Central Europe organize a fake deportation train so that they can escape the Nazis and flee to Palestine.\",\"popularity\":13.792,\"poster_path\":\"\/anUwgyVrC7kUwN5OliazbC5qBfr.jpg\",\"production_companies\":[{\"id\":104,\"logo_path\":\"\/9aotxauvc9685tq9pTcRJszuT06.png\",\"name\":\"Canal+\",\"origin_country\":\"FR\"},{\"id\":310,\"logo_path\":\"\/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png\",\"name\":\"CNC\",\"origin_country\":\"FR\"},{\"id\":72094,\"logo_path\":null,\"name\":\"Raphael Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"},{\"iso_3166_1\":\"IL\",\"name\":\"Israel\"},{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"},{\"iso_3166_1\":\"RO\",\"name\":\"Romania\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"1998-09-16\",\"revenue\":3311162,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Train of Life\",\"video\":false,\"vote_average\":7.346,\"vote_count\":267}"
+}

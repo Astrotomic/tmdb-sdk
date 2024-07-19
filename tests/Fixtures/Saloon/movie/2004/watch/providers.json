@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3904",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2897",
+        "x-memc": "HIT",
+        "x-memc-key": "aa019a3c7be6c7a93998d0a5c371199e",
+        "x-memc-age": "24202",
+        "x-memc-expires": "2897",
+        "ETag": "W\/\"f36d0c291cc7c947173c7b2f5639d9ab\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7may0n2iLnzZl4ulLquEtHVdpaYh2HsvD8WFrXdN0yQEyJChfTMH8w=="
+    },
+    "data": "{\"id\":2004,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=AT\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"ads\":[{\"logo_path\":\"\/krduN1ScpvEt0dTaqmAZWOK89RZ.jpg\",\"provider_id\":171,\"provider_name\":\"Watchbox\",\"display_priority\":17}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]},\"AU\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=AU\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":25}]},\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":32}],\"rent\":[{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":32}],\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":21}],\"buy\":[{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":32}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=CH\",\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}],\"ads\":[{\"logo_path\":\"\/krduN1ScpvEt0dTaqmAZWOK89RZ.jpg\",\"provider_id\":171,\"provider_name\":\"Watchbox\",\"display_priority\":14}],\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=DE\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0},{\"logo_path\":\"\/kICQccvOh8AIBMHGkBXJ047xeHN.jpg\",\"provider_id\":1796,\"provider_name\":\"Netflix basic with Ads\",\"display_priority\":105}]},\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]},\"IN\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=IN\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":16}]},\"LI\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=LI\",\"flatrate\":[{\"logo_path\":\"\/pbpMk2JmcoNnQwx5JGpXngfoWtp.jpg\",\"provider_id\":8,\"provider_name\":\"Netflix\",\"display_priority\":0}]},\"MX\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=MX\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":17}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/2004-kebab-connection\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}],\"free\":[{\"logo_path\":\"\/rcBwnERpNfPfWB5DaSTyEMCZbCA.jpg\",\"provider_id\":191,\"provider_name\":\"Kanopy\",\"display_priority\":48}],\"rent\":[{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":114}],\"buy\":[{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":114}],\"flatrate\":[{\"logo_path\":\"\/yFGu4sSzwUMfhwmSsZgez8QhaVl.jpg\",\"provider_id\":331,\"provider_name\":\"FlixFling\",\"display_priority\":114}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1052",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15010",
+        "x-memc": "HIT",
+        "x-memc-key": "9a4716daf58a29d81048a2156b48b131",
+        "x-memc-age": "6714",
+        "x-memc-expires": "15010",
+        "ETag": "W\/\"378844d2967ba17324d64591a6baf854\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xTQ97GYd-ltKZGvTQPgXERBGrdxfrFo6haD4Df6qfIoFZN3o-Fyu4g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lDnUkaAUVgQjDg5cMbo3Zy5bvw2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"https:\/\/www.ardamilo.com\/aska\",\"id\":856856,\"imdb_id\":null,\"origin_country\":[\"IS\",\"CA\"],\"original_language\":\"is\",\"original_title\":\"Aska\",\"overview\":\"Two young sisters take on the dangerous task of feeding their mother's sacred ashes to the Fire Serpent before it brings death to their desolate land.\",\"popularity\":1.74,\"poster_path\":\"\/v4kPaBJVba3ZaFU6Fa0bXR5puux.jpg\",\"production_companies\":[{\"id\":163378,\"logo_path\":null,\"name\":\"Ardamilo Films\",\"origin_country\":\"CA\"},{\"id\":112160,\"logo_path\":\"\/vxN4VCVHXBcLfUIvAGu0SzgffUM.png\",\"name\":\"St Laurent TV\",\"origin_country\":\"CA\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2021-10-27\",\"revenue\":0,\"runtime\":15,\"spoken_languages\":[{\"english_name\":\"Icelandic\",\"iso_639_1\":\"is\",\"name\":\"\u00cdslenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Aska\",\"video\":false,\"vote_average\":4.0,\"vote_count\":1}"
+}

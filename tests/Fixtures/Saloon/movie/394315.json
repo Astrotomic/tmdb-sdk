@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "930",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10242",
+        "x-memc": "HIT",
+        "x-memc-key": "e33fc338e2589b3b8ad7ad521cb9cbbb",
+        "x-memc-age": "17791",
+        "x-memc-expires": "10242",
+        "ETag": "W\/\"24ebe67ed969a7ee53cdd41d08bfdf86\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SgiUgCKUF39F-Ej4vJ7hDWL3fknw_n4tbOPU0Ej-XeYnZKUCTXfNFA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1DIubmUfmsj3aqRxk790Fqfm5y9.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.vap.co.jp\/s_tsubaki\/\",\"id\":394315,\"imdb_id\":\"tt4876334\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5c11\u5973\u693f\",\"overview\":\"14-year-old Midori is the constantly abused chore girl for a freakshow. Things begin to change for her after a dwarf magician joins the freak show, but not always for the better.\",\"popularity\":12.139,\"poster_path\":\"\/2AtKfRLJtG8ZnjLXT2Wx68L2A1f.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2016-05-21\",\"revenue\":0,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Midori: The Camellia Girl\",\"video\":false,\"vote_average\":6.667,\"vote_count\":30}"
+}

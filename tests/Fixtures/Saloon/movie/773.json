@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1169",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:13:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9993",
+        "x-memc": "HIT",
+        "x-memc-key": "412e530dbf3b032fe86bb610bf399913",
+        "x-memc-age": "11694",
+        "x-memc-expires": "9993",
+        "ETag": "W\/\"5445336f58a5d82163bc2cb8da8ad593\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "x3Z-l9WRlpDM8D1CcS4N6Shl9gFyVzT6ssE5vyAuhk_NlknGY88rXA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4YzGG8IPduUQRVnQ0vN5laHA1rH.jpg\",\"belongs_to_collection\":null,\"budget\":8000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/www.foxsearchlight.com\/littlemisssunshine\/\",\"id\":773,\"imdb_id\":\"tt0449059\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Little Miss Sunshine\",\"overview\":\"A family loaded with quirky, colorful characters piles into an old van and road trips to California for little Olive to compete in a beauty pageant.\",\"popularity\":25.141,\"poster_path\":\"\/wKn7AJw730emlmzLSmJtzquwaeW.jpg\",\"production_companies\":[{\"id\":188,\"logo_path\":\"\/40E8iNvy6brH6t4BbmQL211jIpl.png\",\"name\":\"Big Beach\",\"origin_country\":\"US\"},{\"id\":715,\"logo_path\":null,\"name\":\"Bona Fide Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-07-26\",\"revenue\":100523181,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A family on the verge of a breakdown\",\"title\":\"Little Miss Sunshine\",\"video\":false,\"vote_average\":7.686,\"vote_count\":6930}"
+}

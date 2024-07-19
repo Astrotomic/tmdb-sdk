@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1443",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1609",
+        "x-memc": "HIT",
+        "x-memc-key": "96364bc6ffb018601dd9d75dca1986cf",
+        "x-memc-age": "25954",
+        "x-memc-expires": "1609",
+        "ETag": "W\/\"dfb11e2263f8fbd48998bee0de16760e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "f3Vw3kYqS18XwmViQAQKy0_iUnP4pxRrDEsQEWEoRJ1te5DMUkxeTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aV2b3tOQYZBaEcCeXxbRaEaP6W1.jpg\",\"belongs_to_collection\":null,\"budget\":219869,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1994,\"imdb_id\":\"tt0023238\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Most Dangerous Game\",\"overview\":\"When legendary hunter Bob Rainsford is shipwrecked on the perilous reefs surrounding a mysterious island, he finds himself the guest of the reclusive and eccentric Count Zaroff. While he is very gracious at first, Zaroff eventually forces Rainsford and two other shipwreck survivors, brother and sister Eve and Martin Towbridge, to participate in a sadistic game of cat and mouse in which they are the prey and he is the hunter.\",\"popularity\":14.503,\"poster_path\":\"\/3aNlOIFlGOnIzxqvAWpgm5Sly1H.jpg\",\"production_companies\":[{\"id\":6,\"logo_path\":\"\/n53F7K9scQWFXYbrCablqLKqJdp.png\",\"name\":\"RKO Radio Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1932-09-16\",\"revenue\":443000,\"runtime\":63,\"spoken_languages\":[{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They saw the heads of hunted men in Zaroff's trophy room!\",\"title\":\"The Most Dangerous Game\",\"video\":false,\"vote_average\":6.9,\"vote_count\":260}"
+}

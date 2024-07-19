@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1388",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7543",
+        "x-memc": "HIT",
+        "x-memc-key": "83f944241741b45e4f4bb5c7fb0a54df",
+        "x-memc-age": "16237",
+        "x-memc-expires": "7543",
+        "ETag": "W\/\"e48765cf70c3f29881a8ca2d9611e435\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "5JTIobrVyh--SrsJbNEuuYB-cfZJ3kTMb3nfzlnkQPCScYulVqm5TA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wVpZAFqzcXKlHw3Dx85EpnG9vvW.jpg\",\"belongs_to_collection\":null,\"budget\":275000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":753,\"imdb_id\":\"tt0062952\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Faces\",\"overview\":\"Middle-aged suburban husband Richard abruptly tells his wife, Maria, that he wants a divorce. As Richard takes up with a younger woman, Maria enjoys a night on the town with her friends and meets a younger man. As the couple and those around them confront a seemingly futile search for what they've lost -- love, excitement, passion -- this classic American independent film explores themes of aging and alienation.\",\"popularity\":24.581,\"poster_path\":\"\/qTkhxFQ0o6DEtTtPXkv4IA5M90J.jpg\",\"production_companies\":[{\"id\":452,\"logo_path\":null,\"name\":\"Maurice McEndree Productions\",\"origin_country\":\"\"},{\"id\":453,\"logo_path\":null,\"name\":\"Walter Reade Organization Inc.\",\"origin_country\":\"\"},{\"id\":454,\"logo_path\":null,\"name\":\"Faces International Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1968-11-24\",\"revenue\":0,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The acclaimed motion picture\",\"title\":\"Faces\",\"video\":false,\"vote_average\":7.2,\"vote_count\":182}"
+}

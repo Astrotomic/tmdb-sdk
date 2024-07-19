@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1279",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21152",
+        "x-memc": "HIT",
+        "x-memc-key": "1c3c0ec05a0acc3abeaa134c6d970685",
+        "x-memc-age": "2732",
+        "x-memc-expires": "21152",
+        "ETag": "W\/\"12499fb406646ac34da268d58608e3a2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "niRcq1PPrubFRUFNXLEUN8OvuRER7X1a1UmwShWr_YgW8TVTlUwtcg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/69vunP9jK3AF22oUItfuUeI8Ohs.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":638,\"imdb_id\":\"tt0116922\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Lost Highway\",\"overview\":\"A tormented jazz musician finds himself lost in an enigmatic story involving murder, surveillance, gangsters, doppelg\u00e4ngers, and an impossible transformation inside a prison cell.\",\"popularity\":25.638,\"poster_path\":\"\/fdTtij6H0sX9AzIjUeynh5zbfm7.jpg\",\"production_companies\":[{\"id\":105,\"logo_path\":\"\/pyiNvPJYGz4W2SImgULoG2sn4y4.png\",\"name\":\"CiBy 2000\",\"origin_country\":\"FR\"},{\"id\":236,\"logo_path\":null,\"name\":\"October Films\",\"origin_country\":\"US\"},{\"id\":373,\"logo_path\":null,\"name\":\"Asymmetrical Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1997-01-15\",\"revenue\":3836866,\"runtime\":134,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A lost road on the edge of strange\u2026\",\"title\":\"Lost Highway\",\"video\":false,\"vote_average\":7.575,\"vote_count\":2504}"
+}

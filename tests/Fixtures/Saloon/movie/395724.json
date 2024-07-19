@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "971",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8092",
+        "x-memc": "HIT",
+        "x-memc-key": "395a0257798bd8b37512f9ad2cb169da",
+        "x-memc-age": "17275",
+        "x-memc-expires": "8092",
+        "ETag": "W\/\"f70457b852bba29114514804f4b43e96\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "CGkwzourB2bvRaR4Dyt6iN6JzVrvz9XfNmgiaHXiTrf5eiTx5mgmkA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":99,\"name\":\"Documentary\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":395724,\"imdb_id\":\"tt0111007\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Rock 'n Roll Junkie\",\"overview\":\"Rock 'n Roll Junkie is a documentary about the extraordinary life of dutch rock 'n roll myth and personification of sex, drugs and rock 'n' roll Herman Brood.\",\"popularity\":2.276,\"poster_path\":\"\/j7LWA5PRiyHxEod7oQ4y5D0sHor.jpg\",\"production_companies\":[{\"id\":76281,\"logo_path\":null,\"name\":\"Delta Film, Hardcore Music Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"NL\",\"name\":\"Netherlands\"}],\"release_date\":\"1994-09-28\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"Dutch\",\"iso_639_1\":\"nl\",\"name\":\"Nederlands\"}],\"status\":\"Released\",\"tagline\":\"Rock 'n roll junkie\",\"title\":\"Rock 'n Roll Junkie\",\"video\":false,\"vote_average\":8.0,\"vote_count\":2}"
+}

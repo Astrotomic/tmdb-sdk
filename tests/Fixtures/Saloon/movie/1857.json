@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1338",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20576",
+        "x-memc": "HIT",
+        "x-memc-key": "e05044d9b04acc09f95afef36b0813ce",
+        "x-memc-age": "5926",
+        "x-memc-expires": "20576",
+        "ETag": "W\/\"8e0764e181934176f01dc51cd77367d3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J_s2G8kRJNMsFdhn9-wKkFDcJbWBNrti7GlqaLMVioFfPzcIP0JkNQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/n0mZ8zDCWBn9wycjXqTmkLLOiJa.jpg\",\"belongs_to_collection\":null,\"budget\":6000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":1857,\"imdb_id\":\"tt0092106\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Transformers: The Movie\",\"overview\":\"The Autobots must stop a colossal planet-consuming robot who goes after the Autobot Matrix of Leadership. At the same time, they must defend themselves against an all-out attack from the Decepticons.\",\"popularity\":40.235,\"poster_path\":\"\/j4HTorvJdGOuIgGyE56fMCLmcCg.jpg\",\"production_companies\":[{\"id\":2301,\"logo_path\":\"\/qdPhBEP8sjK3Eb3rKc94554gcZt.png\",\"name\":\"Marvel Productions\",\"origin_country\":\"US\"},{\"id\":3313,\"logo_path\":\"\/10T51dh4ha4KrSksb5gAEcpRz9N.png\",\"name\":\"Sunbow Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1986-08-08\",\"revenue\":5860601,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Beyond good. Beyond evil. Beyond your wildest imagination.\",\"title\":\"The Transformers: The Movie\",\"video\":false,\"vote_average\":7.1,\"vote_count\":489}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "578",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:24:10 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3691",
+        "x-memc": "HIT",
+        "x-memc-key": "b2518f75e8b31a361e65c29fcb6fe7ea",
+        "x-memc-age": "22670",
+        "x-memc-expires": "3691",
+        "ETag": "W\/\"596e050d6be1edef99f267bb2353a32a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lUIwPTPzQi7JGW3g9liE1KPRJLYlie6Y86NXpiugcdreDCNLV8hfcw=="
+    },
+    "data": "{\"id\":395724,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":568014,\"known_for_department\":\"Acting\",\"name\":\"Herman Brood\",\"original_name\":\"Herman Brood\",\"popularity\":1.57,\"profile_path\":\"\/2p6XgxGTQZI58ykJ67yH8AbcBCw.jpg\",\"cast_id\":0,\"character\":\"Himself\",\"credit_id\":\"57275bcdc3a3680e610008bc\",\"order\":0},{\"adult\":false,\"gender\":1,\"id\":22652,\"known_for_department\":\"Acting\",\"name\":\"Nina Hagen\",\"original_name\":\"Nina Hagen\",\"popularity\":8.912,\"profile_path\":\"\/whFbobPjMT9yEMgRG5tr0OvfhWs.jpg\",\"cast_id\":1,\"character\":\"Herself\",\"credit_id\":\"57275bd592514177440061a0\",\"order\":1}],\"crew\":[]}"
+}

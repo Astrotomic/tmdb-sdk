@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1271",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:51 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=150",
+        "x-memc": "HIT",
+        "x-memc-key": "54bd667b12bf1989dc2b3f1d228e1a99",
+        "x-memc-age": "22420",
+        "x-memc-expires": "150",
+        "ETag": "W\/\"5d7674d6a89dce1e4aec3502021fcaec\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J7fQz_cWT--ktQ8YRVwQhPxIbB932MHg3Tardb6HfQ29n70j_Z3XaQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/pDKFL1zcHzEpmz4MJA5JJnRbJeD.jpg\",\"belongs_to_collection\":{\"id\":731067,\"name\":\"Bird Box Collection\",\"poster_path\":\"\/xQdSZe4Az7A6YwsRNAsGDmCFmtR.jpg\",\"backdrop_path\":\"\/bpCPVdugzWgFvX5dPtIt2qeLJm7.jpg\"},\"budget\":19800000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/80196789\",\"id\":405774,\"imdb_id\":\"tt2737304\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bird Box\",\"overview\":\"Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.\",\"popularity\":34.847,\"poster_path\":\"\/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg\",\"production_companies\":[{\"id\":13778,\"logo_path\":null,\"name\":\"Bluegrass Films\",\"origin_country\":\"US\"},{\"id\":25998,\"logo_path\":null,\"name\":\"Chris Morgan Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-12-13\",\"revenue\":0,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never lose sight of survival\",\"title\":\"Bird Box\",\"video\":false,\"vote_average\":6.841,\"vote_count\":9712}"
+}

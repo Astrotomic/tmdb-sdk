@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "980",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17696",
+        "x-memc": "HIT",
+        "x-memc-key": "9cff4a3a82487c294b6fdb7764d6fab4",
+        "x-memc-age": "5517",
+        "x-memc-expires": "17696",
+        "ETag": "W\/\"594788f290639f004ad8f3a424357532\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TXwCo2k5lvYH4AWS0paCppJlbvWl-O9R05fYo8PtsB3M638IDEg0rw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bSymmnn6IwyScD6HDprcOeNLYQU.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":229759,\"imdb_id\":\"tt0046344\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sombrero\",\"overview\":\"Mexican love stories follow a dying man, a bullfighter's sister and lovers from feuding villages.\",\"popularity\":2.08,\"poster_path\":\"\/vVRT2IFauHLl6nen1gL6xcD260a.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1953-04-22\",\"revenue\":0,\"runtime\":103,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They sing! They dance! They romance!  It's wonderful!\",\"title\":\"Sombrero\",\"video\":false,\"vote_average\":4.2,\"vote_count\":10}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1550",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1385",
+        "x-memc": "HIT",
+        "x-memc-key": "dbebcb97383aa4111aecdd15572192b2",
+        "x-memc-age": "22082",
+        "x-memc-expires": "1385",
+        "ETag": "W\/\"2c982f264fa7a69663f4174474c94f07\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LKHzq_alRT7_T29lvGPB_8SP2Nm7Fbqj3mI4fwbR2RAAfXNqsDv5EA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/l5pLJx5zHymaK9EewGgQXQWtN9q.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/www.bravestorm.jp\",\"id\":459075,\"imdb_id\":\"tt6403382\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"BRAVE STORM \u30d6\u30ec\u30a4\u30d6\u30b9\u30c8\u30fc\u30e0\",\"overview\":\"In the year 2050, mankind is extinct. The last survivors travel back in time to stop the invader, Killgis, aided by roboticist Kenichiro Kurenai. When they arrive at the past, they start to build a giant robot, Red Baron, and the pilot of the Red Baron races against time aided by reinforced humans to identify the alien in a fierce battle which starts in Tokyo for the survival of Earth. This is a re-imagining of the 1970s TV series' \\\"Silver Kamen\\\" and \\\"Super Robot Red Baron\\\".\",\"popularity\":8.245,\"poster_path\":\"\/k1QJ02oiRfuCF5xM22LOrHampaA.jpg\",\"production_companies\":[{\"id\":114624,\"logo_path\":\"\/9167DsnI03H7cnAmMVOcOx30NUA.png\",\"name\":\"Albatross Japan\",\"origin_country\":\"JP\"},{\"id\":35777,\"logo_path\":\"\/kFYo0rNwigbU1FWufFJ7JSntX4n.png\",\"name\":\"Presidio\",\"origin_country\":\"JP\"},{\"id\":79540,\"logo_path\":null,\"name\":\"Blast!\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2017-11-10\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"BraveStorm\",\"video\":false,\"vote_average\":5.0,\"vote_count\":16}"
+}

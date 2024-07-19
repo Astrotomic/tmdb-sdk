@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "960",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:13:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10387",
+        "x-memc": "HIT",
+        "x-memc-key": "1461ea16c17aa9de421bfdd6fd85687f",
+        "x-memc-age": "13210",
+        "x-memc-expires": "10387",
+        "ETag": "W\/\"c0a145cbe24700ffe7d2a90adaa8bf40\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "PQPY3KyFyj6oUhoVHlzmpDJ2_1T8OPrjfNV1pjCJA5GjzBiHVz5Zig=="
+    },
+    "data": "{\"id\":872226,\"results\":{\"NL\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/872226-a-rich-christmas\/watch?locale=NL\",\"buy\":[{\"logo_path\":\"\/5vfrJQgNe9UnHVgVNAwZTy0Jo9o.jpg\",\"provider_id\":68,\"provider_name\":\"Microsoft Store\",\"display_priority\":14}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/872226-a-rich-christmas\/watch?locale=US\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15}],\"flatrate\":[{\"logo_path\":\"\/2AvUqoIHAq2lLxRy2IxOBUgCYef.jpg\",\"provider_id\":343,\"provider_name\":\"Bet+ Amazon Channel\",\"display_priority\":115},{\"logo_path\":\"\/biHGb84xAzYrNkdvX5XWQTmgzC8.jpg\",\"provider_id\":1759,\"provider_name\":\"Bet+\",\"display_priority\":180},{\"logo_path\":\"\/yFk3WffvGGUtIjJBSV0pgsciaEB.jpg\",\"provider_id\":2040,\"provider_name\":\"BET+  Apple TV channel\",\"display_priority\":271}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "933",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2302",
+        "x-memc": "HIT",
+        "x-memc-key": "5490c8ed8a4a54780e330d5a730b081c",
+        "x-memc-age": "21788",
+        "x-memc-expires": "2302",
+        "ETag": "W\/\"881c2a4d8ade950c845ee6d52320b267\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LUtn3v7HfF-MKDAFXRHbtxmbqPqgfGy8ZfzpVh20GoiDiMmCsL_JOg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391570,\"imdb_id\":\"tt0036898\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hat Check Honey\",\"overview\":\"When a hat-check girl writes a story based on the life of a famous comedian, she helps to reunite a father and son who haven't spoken to each other for years.\",\"popularity\":2.079,\"poster_path\":null,\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1944-03-10\",\"revenue\":0,\"runtime\":68,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"EVERYONE'S KIND OF MUSIC!\",\"title\":\"Hat Check Honey\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

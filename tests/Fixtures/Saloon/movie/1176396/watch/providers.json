@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1427",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:31:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2849",
+        "x-memc": "HIT",
+        "x-memc-key": "1af9f5c004f240b9a91e8a688f770714",
+        "x-memc-age": "25127",
+        "x-memc-expires": "2849",
+        "ETag": "W\/\"00851fb23985a16c78082edf00dabace\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d34cf2ddbdf9774517330fee6a26e4b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hJKqs-bEX7fg5SHGpj2iO3hP7JfXoJ-sUyJkg7aXusBISlDvDT87fw=="
+    },
+    "data": "{\"id\":1176396,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1176396-balladen\/watch?locale=AT\",\"free\":[{\"logo_path\":\"\/vPZrjHe7wvALuwJEXT2kwYLi0gV.jpg\",\"provider_id\":234,\"provider_name\":\"Arte\",\"display_priority\":72}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1176396-balladen\/watch?locale=CH\",\"free\":[{\"logo_path\":\"\/vPZrjHe7wvALuwJEXT2kwYLi0gV.jpg\",\"provider_id\":234,\"provider_name\":\"Arte\",\"display_priority\":56}]},\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1176396-balladen\/watch?locale=DE\",\"free\":[{\"logo_path\":\"\/vPZrjHe7wvALuwJEXT2kwYLi0gV.jpg\",\"provider_id\":234,\"provider_name\":\"Arte\",\"display_priority\":23}]},\"FR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1176396-balladen\/watch?locale=FR\",\"buy\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}],\"flatrate\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}],\"free\":[{\"logo_path\":\"\/vPZrjHe7wvALuwJEXT2kwYLi0gV.jpg\",\"provider_id\":234,\"provider_name\":\"Arte\",\"display_priority\":13}],\"rent\":[{\"logo_path\":\"\/11Yzww3g6lYZznKrom3cSrKP4St.jpg\",\"provider_id\":239,\"provider_name\":\"Universcine\",\"display_priority\":37}]},\"SE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1176396-balladen\/watch?locale=SE\",\"free\":[{\"logo_path\":\"\/oBdaG066fB5O7XYrYKQflOZvd89.jpg\",\"provider_id\":493,\"provider_name\":\"SVT\",\"display_priority\":21}]}}}"
+}

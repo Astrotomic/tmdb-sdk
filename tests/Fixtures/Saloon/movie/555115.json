@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1023",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1046",
+        "x-memc": "HIT",
+        "x-memc-key": "8c668433f2bd18a52f11f2becdedae85",
+        "x-memc-age": "27110",
+        "x-memc-expires": "1046",
+        "ETag": "W\/\"b694d82e4966912eb4531b48611eaa18\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 47ee4fe14f23efe91f211cb8c7e62ea8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7pkUGiavte9WVuZahNwAiABqWYXuVE8bByuGCq30UOo6l5rm_u75bw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nHKONTqaDp0iWige2PRPYGVL2wm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":555115,\"imdb_id\":\"tt9177626\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Left for Dead\",\"overview\":\"After a car wreck temporarily robs Lauren Carlton of her memory right down to her own name, she must piece together the details of the accident as they slowly return to her. When she finally remembers that she has a daughter who's missing, she must lead the police to the girl's kidnappers.\",\"popularity\":4.878,\"poster_path\":\"\/vqUqwMRZdu25qF3hxy9DEZipJnm.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-10-19\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Left for Dead\",\"video\":false,\"vote_average\":4.4,\"vote_count\":5}"
+}

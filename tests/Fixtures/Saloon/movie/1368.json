@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1640",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22112",
+        "x-memc": "HIT",
+        "x-memc-key": "89a65180825a38f72dd1f511a108888e",
+        "x-memc-age": "1179",
+        "x-memc-expires": "22112",
+        "ETag": "W\/\"8be6a5ff2549519e9c22f07a52f45d06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cqKzOyLik4S4SMgh332_23F7s8jA8ZidwND2FKSpPev5-Xfz_X38-Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dJrYUXjgYAD95Ho67t7Utdqv8At.jpg\",\"belongs_to_collection\":{\"id\":5039,\"name\":\"Rambo Collection\",\"poster_path\":\"\/feGOEOVrOLyjtEnVa88rQLgD3XY.jpg\",\"backdrop_path\":\"\/ecvVwlK75evrAlsEE96V14KN6MN.jpg\"},\"budget\":15000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.lionsgate.com\/movies\/rambo-first-blood\",\"id\":1368,\"imdb_id\":\"tt0083944\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"First Blood\",\"overview\":\"When former Green Beret John Rambo is harassed by local law enforcement and arrested for vagrancy, he is forced to flee into the mountains and wage an escalating one-man war against his pursuers.\",\"popularity\":80.2,\"poster_path\":\"\/a9sa6ERZCpplbPEO7OMWE763CLD.jpg\",\"production_companies\":[{\"id\":275,\"logo_path\":\"\/2MxNWlN5b3UXt1OfmznsWEQzFwq.png\",\"name\":\"Carolco Pictures\",\"origin_country\":\"US\"},{\"id\":52941,\"logo_path\":null,\"name\":\"Anabasis N.V.\",\"origin_country\":\"US\"},{\"id\":52940,\"logo_path\":null,\"name\":\"Elcajo Productions\",\"origin_country\":\"\"},{\"id\":4764,\"logo_path\":null,\"name\":\"Cinema 84\",\"origin_country\":\"US\"},{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1982-10-22\",\"revenue\":125212904,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"This time he's fighting for his life.\",\"title\":\"First Blood\",\"video\":false,\"vote_average\":7.5,\"vote_count\":6058}"
+}

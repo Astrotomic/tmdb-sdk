@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1718",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21421",
+        "x-memc": "HIT",
+        "x-memc-key": "a7fd0fe978b9bd3e69aac09bc7ce4771",
+        "x-memc-age": "4609",
+        "x-memc-expires": "21421",
+        "ETag": "W\/\"89ffc272bf45ea9a65d3dbb480c12653\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "T8a6wQByJRHaNzi7Jvz5FxN_JUp2_PNKmL6bF-bRoJtJj_XGwJyxyw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sTVjJ80XWzVKNMCmltRUTnmNAHg.jpg\",\"belongs_to_collection\":null,\"budget\":30000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":10350,\"imdb_id\":\"tt0131646\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wing Commander\",\"overview\":\"The Hollywood version of the popular video game series \\\"Wing Commander\\\". Unlike other video games to feature film transitions, series creator Chris Roberts was heavily involved in the film's creation. This is the story of Christopher Blair and Todd \\\"Maniac\\\" Marshall as they arrive at the Tiger Claw and are soon forced to stop a Kilrathi fleet heading towards Earth.\",\"popularity\":21.95,\"poster_path\":\"\/e3p2vkA4mnFaBlyAIntkZWkzOJW.jpg\",\"production_companies\":[{\"id\":89308,\"logo_path\":null,\"name\":\"Wing Commander Productions\",\"origin_country\":\"\"},{\"id\":80469,\"logo_path\":null,\"name\":\"American Entertainment Investors\",\"origin_country\":\"\"},{\"id\":89309,\"logo_path\":null,\"name\":\"Digital Anvil\",\"origin_country\":\"\"},{\"id\":24039,\"logo_path\":null,\"name\":\"No Prisoners Productions\",\"origin_country\":\"\"},{\"id\":24041,\"logo_path\":null,\"name\":\"Origin Systems Inc.\",\"origin_country\":\"\"},{\"id\":8900,\"logo_path\":null,\"name\":\"The Carousel Picture Company\",\"origin_country\":\"LU\"}],\"production_countries\":[{\"iso_3166_1\":\"LU\",\"name\":\"Luxembourg\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1999-03-11\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An action packed thrill ride!\",\"title\":\"Wing Commander\",\"video\":false,\"vote_average\":4.8,\"vote_count\":243}"
+}

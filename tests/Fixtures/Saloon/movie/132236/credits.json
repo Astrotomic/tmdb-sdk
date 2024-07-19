@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1869",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:39:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6563",
+        "x-memc": "HIT",
+        "x-memc-key": "41e3c84233c013e2537af50b0c2c83e8",
+        "x-memc-age": "19316",
+        "x-memc-expires": "6563",
+        "ETag": "W\/\"012f3c266cabc3014e43ebd1a6c40db9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TIvwxxApZt0kyIRc6XoZt53edKSEIOvh9fD-pkUZ6AEnXO0hNSZj6Q=="
+    },
+    "data": "{\"id\":132236,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":10884,\"known_for_department\":\"Acting\",\"name\":\"Will Yun Lee\",\"original_name\":\"Will Yun Lee\",\"popularity\":24.722,\"profile_path\":\"\/zR29E2BHrp6PF7bxD6bVq0nDZXm.jpg\",\"cast_id\":3,\"character\":\"Marcus\",\"credit_id\":\"52fe4b8cc3a368484e18e7bf\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":15860,\"known_for_department\":\"Acting\",\"name\":\"Miguel Ferrer\",\"original_name\":\"Miguel Ferrer\",\"popularity\":18.218,\"profile_path\":\"\/n6VZ8OQmozHmnJQRwR55gBH8Tl0.jpg\",\"cast_id\":4,\"character\":\"Miguel Ferrer\",\"credit_id\":\"52fe4b8cc3a368484e18e7c3\",\"order\":1},{\"adult\":false,\"gender\":2,\"id\":1039927,\"known_for_department\":\"Acting\",\"name\":\"Hiro Hayama\",\"original_name\":\"Hiro Hayama\",\"popularity\":12.695,\"profile_path\":\"\/gGF0DgY2OJmarMWcE9jdM7zWg8g.jpg\",\"cast_id\":6,\"character\":\"Ken\",\"credit_id\":\"52fe4b8cc3a368484e18e7cb\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":1359825,\"known_for_department\":\"Acting\",\"name\":\"Emilie Guillot\",\"original_name\":\"Emilie Guillot\",\"popularity\":0.602,\"profile_path\":null,\"cast_id\":7,\"character\":\"Eva\",\"credit_id\":\"5405d2d9c3a368068c0083aa\",\"order\":3},{\"adult\":false,\"gender\":1,\"id\":1218204,\"known_for_department\":\"Acting\",\"name\":\"Mercedes Renard\",\"original_name\":\"Mercedes Renard\",\"popularity\":1.888,\"profile_path\":null,\"cast_id\":8,\"character\":\"Cordelia\",\"credit_id\":\"5d551393e8131d3f7b895bb2\",\"order\":4}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":1094766,\"known_for_department\":\"Directing\",\"name\":\"Stanley J. Orzel\",\"original_name\":\"Stanley J. Orzel\",\"popularity\":4.171,\"profile_path\":null,\"credit_id\":\"52fe4b8cc3a368484e18e7b5\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":1094767,\"known_for_department\":\"Writing\",\"name\":\"Stanley J. Orzel\",\"original_name\":\"Stanley J. Orzel\",\"popularity\":0.264,\"profile_path\":null,\"credit_id\":\"52fe4b8cc3a368484e18e7bb\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

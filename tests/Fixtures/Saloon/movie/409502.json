@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1221",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20133",
+        "x-memc": "HIT",
+        "x-memc-key": "99e0b45166820d479e0c183466c2b917",
+        "x-memc-age": "8483",
+        "x-memc-expires": "20133",
+        "ETag": "W\/\"ae2def1f0ab498407e0052de35d4c7cb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Kc4XTMmjt0MnJZR-F5qx0wJH0Cfz0N5p9IeynwrZOHu98nkXG7FNSw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rsdFvneLY76JGXQ1rYovyeUtqyc.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"http:\/\/imnotashamedfilm.com\/\",\"id\":409502,\"imdb_id\":\"tt4950110\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"I'm Not Ashamed\",\"overview\":\"Based on the journal entries of Rachel Joy Scott, the first student killed in the Columbine High School shooting in 1999. She was the first person Harris and Klebold saw in their desire to kill as many people as possible, not because she was religious, as this movie will have you believe.\",\"popularity\":35.986,\"poster_path\":\"\/P4bxuNq5XT0Wc3MYpoLP52e0P6.jpg\",\"production_companies\":[{\"id\":85627,\"logo_path\":null,\"name\":\"Visible Pictures\",\"origin_country\":\"\"},{\"id\":85628,\"logo_path\":null,\"name\":\"All Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-10-21\",\"revenue\":2082980,\"runtime\":113,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Her faith would touch the world.\",\"title\":\"I'm Not Ashamed\",\"video\":false,\"vote_average\":7.174,\"vote_count\":265}"
+}

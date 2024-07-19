@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1455",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23094",
+        "x-memc": "HIT",
+        "x-memc-key": "9aae1a2d6dbe363b17d838ac8f56172e",
+        "x-memc-age": "5228",
+        "x-memc-expires": "23094",
+        "ETag": "W\/\"a08b644b93bf3f62bb8dffe3cb2f61e6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "bqsuC1yEa8r6uqhgSBqhdIo1-AXU3tHxwdT_-Dcn7RG-txS2pgGS-Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/17s9ojb8j8QnBGCfqDUJraXLlFi.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"http:\/\/www.bloodthemovie.com\/\",\"id\":919,\"imdb_id\":\"tt0275230\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"BLOOD THE LAST VAMPIRE\",\"overview\":\"In Japan, the vampire-hunter Saya, who is a powerful original, is sent by her liaison with the government, David, posed as a teenage student to the Yokota High School on the eve of Halloween to hunt down vampires. Saya asks David to give a new katana to her. Soon she saves the school nurse Makiho Amano from two vampires disguised of classmates and Makiho witnesses her fight against the powerful demon.\",\"popularity\":15.468,\"poster_path\":\"\/2yysSRyqa4ubIDpQcQpG8SuYcl6.jpg\",\"production_companies\":[{\"id\":2883,\"logo_path\":\"\/rDYExnBV61jGQnkhVVrPN4Yl7O1.png\",\"name\":\"Aniplex\",\"origin_country\":\"JP\"},{\"id\":529,\"logo_path\":\"\/rwB6w2aPENQbx756pBWSw44Ouk.png\",\"name\":\"Production I.G\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2000-11-18\",\"revenue\":0,\"runtime\":48,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Blood: The Last Vampire\",\"video\":false,\"vote_average\":6.835,\"vote_count\":315}"
+}

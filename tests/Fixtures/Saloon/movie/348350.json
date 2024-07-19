@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1164",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13615",
+        "x-memc": "HIT",
+        "x-memc-key": "21831a3a93e50daf1eda33633a4ad38b",
+        "x-memc-age": "11581",
+        "x-memc-expires": "13615",
+        "ETag": "W\/\"5cfbbe23bc423d9a2d51897d66ad0a06\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h4D3At2T2yn-O4m8KWU3V_MF-vMBLpxdQu-uTZRK1uPmFza3twIEqw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ojHCeDULAkQK25700fhRU75Tur2.jpg\",\"belongs_to_collection\":null,\"budget\":250000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.starwars.com\/films\/solo\",\"id\":348350,\"imdb_id\":\"tt3778644\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Solo: A Star Wars Story\",\"overview\":\"Through a series of daring escapades deep within a dark and dangerous criminal underworld, Han Solo meets his mighty future copilot Chewbacca and encounters the notorious gambler Lando Calrissian.\",\"popularity\":78.118,\"poster_path\":\"\/4oD6VEccFkorEBTEDXtpLAaz0Rl.jpg\",\"production_companies\":[{\"id\":1,\"logo_path\":\"\/tlVSws0RvvtPBwViUyOFAO0vcQS.png\",\"name\":\"Lucasfilm Ltd.\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-05-15\",\"revenue\":392952373,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never tell him the odds.\",\"title\":\"Solo: A Star Wars Story\",\"video\":false,\"vote_average\":6.563,\"vote_count\":8321}"
+}

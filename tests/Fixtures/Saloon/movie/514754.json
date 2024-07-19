@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1025",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16635",
+        "x-memc": "HIT",
+        "x-memc-key": "d742109d4e8f2697389af562e0c3d24f",
+        "x-memc-age": "11079",
+        "x-memc-expires": "16635",
+        "ETag": "W\/\"60dbd3ffa0781b9b846a952f77c5092d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FrqGquVA9fjXtQAXMa4eamy2HLggqm8tBbXtKHQQTQe4w5AjKxfN5g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/cm915y7fpHTePgMeeb1z1qK87qm.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.pixar.com\/bao\",\"id\":514754,\"imdb_id\":\"tt8075496\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Bao\",\"overview\":\"An aging Chinese mom suffering from empty nest syndrome gets another chance at motherhood when one of her dumplings springs to life as a lively, giggly dumpling boy.\",\"popularity\":13.533,\"poster_path\":\"\/tKz7XRXvdy1i7pW4eotaWZSrAx2.jpg\",\"production_companies\":[{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-06-15\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Bao\",\"video\":false,\"vote_average\":7.576,\"vote_count\":1156}"
+}

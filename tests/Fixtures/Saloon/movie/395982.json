@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1085",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14539",
+        "x-memc": "HIT",
+        "x-memc-key": "2bf6313e802278921cdf8730280d3bab",
+        "x-memc-age": "9201",
+        "x-memc-expires": "14539",
+        "ETag": "W\/\"21debf910bba4855aaf59045b2391d79\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0yDKPB2xHY3W8LXQPcxiaRNdhpB8KMJcrIUbyu_lVmzokGozErKyWg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nMOEd4RkXd2WZTUrUivWYyuXazD.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.prevengemovie.co.uk\/\",\"id\":395982,\"imdb_id\":\"tt5154288\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Prevenge\",\"overview\":\"A pregnant widow, believing herself to be guided by her unborn child, embarks on a homicidal rampage.\",\"popularity\":10.966,\"poster_path\":\"\/5OWrwvKscVc7Md0IvtTLZmjXbKt.jpg\",\"production_companies\":[{\"id\":21873,\"logo_path\":null,\"name\":\"Western Edge Pictures\",\"origin_country\":\"\"},{\"id\":69334,\"logo_path\":null,\"name\":\"Gennaker\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2017-02-10\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Killing for two.\",\"title\":\"Prevenge\",\"video\":false,\"vote_average\":5.5,\"vote_count\":212}"
+}

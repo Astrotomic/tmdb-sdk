@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1161",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2775",
+        "x-memc": "HIT",
+        "x-memc-key": "136ba609e069ad0256a98c76b12613d2",
+        "x-memc-age": "20209",
+        "x-memc-expires": "2775",
+        "ETag": "W\/\"53d18e908eb80585b538074dbdc5df25\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "X_LGewq5NotH2ymSCtKUHqg_3dwYdqEM1cq8l6EhL-IC5i4JhzKtrQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wt5Jjjd3JzokXtSrY1L2QLOAOER.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":236197,\"imdb_id\":\"tt0030975\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wholly Smoke\",\"overview\":\"A neighborhood bully convinces Porky to take a puff from his cigar, causing Porky to hallucinate a smoke-man named Nick O. Teen, along with a musical number done by cigars, cigarettes and pipes in the likeness of the 3 Stooges, etc.\",\"popularity\":3.116,\"poster_path\":\"\/6j8XNnrFCKnt9akmXF321MQtDQk.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":134798,\"logo_path\":null,\"name\":\"Leon Schlesinger Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1938-08-26\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wholly Smoke\",\"video\":false,\"vote_average\":6.444,\"vote_count\":9}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "973",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25860",
+        "x-memc": "HIT",
+        "x-memc-key": "3e91e9e1b0f56265d9e650034949a8cb",
+        "x-memc-age": "2922",
+        "x-memc-expires": "25860",
+        "ETag": "W\/\"f10451811e707c67f6470385eb327b01\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "pcFvuNvsQnCv0X_ca2zjxv6hljXazJn6F1C0kTz2H9-F7unCE-SYUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":236659,\"imdb_id\":\"tt0150046\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Cartoons Ain't Human\",\"overview\":\"Popeye sits down to make a cartoon. He shows the results to Olive and his nephews: it's a damsel-in-distress scenario, starring him and Olive, with live music and sound effects by Popeye.\",\"popularity\":4.324,\"poster_path\":\"\/unX4wc2q8Uq1nawfrjIrufyhdOG.jpg\",\"production_companies\":[{\"id\":4178,\"logo_path\":null,\"name\":\"Famous Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-09-03\",\"revenue\":0,\"runtime\":7,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Cartoons Ain't Human\",\"video\":false,\"vote_average\":6.6,\"vote_count\":5}"
+}

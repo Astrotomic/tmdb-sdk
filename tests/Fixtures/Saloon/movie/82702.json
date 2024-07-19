@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1653",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7529",
+        "x-memc": "HIT",
+        "x-memc-key": "d7edc83376148a9113ec087db3bddd80",
+        "x-memc-age": "18938",
+        "x-memc-expires": "7529",
+        "ETag": "W\/\"2b05a19e6702a5ac089f5289541b5a54\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OllFfXll5KFCxhzhWSLUj5yF0_HQyRjEoScpFEQr-nvFu2OhXgFBXg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5MnP0h7RcUCeX7gpxMYoMScmfq7.jpg\",\"belongs_to_collection\":{\"id\":89137,\"name\":\"How to Train Your Dragon Collection\",\"poster_path\":\"\/hS8y3BcPki0GQKRQeGQVAz6BijK.jpg\",\"backdrop_path\":\"\/mvcfPkOvgDJG2lEAxTz0NKqoQLo.jpg\"},\"budget\":145000000,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/howtotrainyourdragon.com\",\"id\":82702,\"imdb_id\":\"tt1646971\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"How to Train Your Dragon 2\",\"overview\":\"Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider who turns out to be Hiccup's mother, Valka. Hiccup and Toothless then find themselves at the center of a battle to protect Berk from a power-hungry warrior named Drago.\",\"popularity\":115.662,\"poster_path\":\"\/d13Uj86LdbDLrfDoHR5aDOFYyJC.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2014-06-05\",\"revenue\":621537519,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The training is over.\",\"title\":\"How to Train Your Dragon 2\",\"video\":false,\"vote_average\":7.675,\"vote_count\":9362}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "359",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:07:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=581",
+        "x-memc": "HIT",
+        "x-memc-key": "e8d2fbbe050a01556c53da2f53588d7d",
+        "x-memc-age": "21319",
+        "x-memc-expires": "581",
+        "ETag": "W\/\"703d222ab166cb7580d288c7317fee7c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "vXg8rS-6k4ODS9KZexYTMSozaa7ftXWBbV7PiznSs2jSWKr9pUyszg=="
+    },
+    "data": "{\"id\":1109306,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1109306-un-mondo-a-parte\/watch?locale=IT\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]}}}"
+}

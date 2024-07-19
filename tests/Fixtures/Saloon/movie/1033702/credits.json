@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3822",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:42:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7163",
+        "x-memc": "HIT",
+        "x-memc-key": "8a91569486c90e3f4d4b8e1697ca847a",
+        "x-memc-age": "18285",
+        "x-memc-expires": "7163",
+        "ETag": "W\/\"33f44d4a8d40ef3f4ee60a3b1a168652\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kmIAteTDz7_uenkTC1p6UVJLfoEedVM57YZlMkK_hAGrMrwe84Xm7Q=="
+    },
+    "data": "{\"id\":1033702,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":2819251,\"known_for_department\":\"Acting\",\"name\":\"Luke Corcoran\",\"original_name\":\"Luke Corcoran\",\"popularity\":0.015,\"profile_path\":null,\"cast_id\":1,\"character\":\"MacCumhaill\",\"credit_id\":\"63432c661b7c59007918a11b\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3733832,\"known_for_department\":\"Acting\",\"name\":\"Ray Malone\",\"original_name\":\"Ray Malone\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"Stapo\",\"credit_id\":\"63432e7f25b955007a8b2dcc\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3733833,\"known_for_department\":\"Acting\",\"name\":\"Stephen Burke\",\"original_name\":\"Stephen Burke\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":3,\"character\":\"Office Worker\",\"credit_id\":\"63432ea2b7a1540079342270\",\"order\":2},{\"adult\":false,\"gender\":0,\"id\":2440692,\"known_for_department\":\"Acting\",\"name\":\"Roisin Whelan\",\"original_name\":\"Roisin Whelan\",\"popularity\":0.126,\"profile_path\":null,\"cast_id\":4,\"character\":\"Shoplifter\",\"credit_id\":\"63432ebae74146007c9489c0\",\"order\":3},{\"adult\":false,\"gender\":0,\"id\":3733834,\"known_for_department\":\"Acting\",\"name\":\"Greg Quigley\",\"original_name\":\"Greg Quigley\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":5,\"character\":\"Shopkeeper\",\"credit_id\":\"63432ed55907de0091de000e\",\"order\":4},{\"adult\":false,\"gender\":0,\"id\":3733835,\"known_for_department\":\"Acting\",\"name\":\"Laura Murphy\",\"original_name\":\"Laura Murphy\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":6,\"character\":\"Reporter\",\"credit_id\":\"63432eeba284eb0081b62021\",\"order\":5},{\"adult\":false,\"gender\":0,\"id\":3733837,\"known_for_department\":\"Acting\",\"name\":\"Sean J. Smith\",\"original_name\":\"Sean J. Smith\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":7,\"character\":\"Mugger\",\"credit_id\":\"63432efd07e2810082f05710\",\"order\":6},{\"adult\":false,\"gender\":0,\"id\":3733838,\"known_for_department\":\"Acting\",\"name\":\"Elizabeth Ann Doyle\",\"original_name\":\"Elizabeth Ann Doyle\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":8,\"character\":\"Mugging victim\",\"credit_id\":\"63432f1625b955007a8b2df0\",\"order\":7},{\"adult\":false,\"gender\":0,\"id\":3733839,\"known_for_department\":\"Acting\",\"name\":\"Theresa Korbmacher\",\"original_name\":\"Theresa Korbmacher\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":9,\"character\":\"Stapo's Girl\",\"credit_id\":\"63432f2e9c97bd007c212eb4\",\"order\":8},{\"adult\":false,\"gender\":0,\"id\":3733840,\"known_for_department\":\"Acting\",\"name\":\"Glenn Donoghue\",\"original_name\":\"Glenn Donoghue\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":10,\"character\":\"Park walker\",\"credit_id\":\"63432f4025b955007a8b2dfe\",\"order\":9}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3733842,\"known_for_department\":\"Directing\",\"name\":\"Mark Dollard\",\"original_name\":\"Mark Dollard\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"63432f6939a1a6007ca4bc71\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3733843,\"known_for_department\":\"Camera\",\"name\":\"Adam Duggan\",\"original_name\":\"Adam Duggan\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"63432f814f33ad008a3b2e4c\",\"department\":\"Camera\",\"job\":\"Director of Photography\"},{\"adult\":false,\"gender\":2,\"id\":2819257,\"known_for_department\":\"Directing\",\"name\":\"Adam William Cahill\",\"original_name\":\"Adam William Cahill\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"63432f92a284eb007c5db155\",\"department\":\"Editing\",\"job\":\"Editor\"},{\"adult\":false,\"gender\":0,\"id\":1305930,\"known_for_department\":\"Production\",\"name\":\"Giovanni Mancini\",\"original_name\":\"Giovanni Mancini\",\"popularity\":0.112,\"profile_path\":null,\"credit_id\":\"63432fa8647654007a7c7b22\",\"department\":\"Sound\",\"job\":\"Music\"},{\"adult\":false,\"gender\":0,\"id\":3733842,\"known_for_department\":\"Directing\",\"name\":\"Mark Dollard\",\"original_name\":\"Mark Dollard\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"63433196a284eb0079c452de\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

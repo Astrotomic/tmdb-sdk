@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "772",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=654",
+        "x-memc": "HIT",
+        "x-memc-key": "312837f7bf6ed3f2ad6043601f3214cc",
+        "x-memc-age": "22410",
+        "x-memc-expires": "654",
+        "ETag": "W\/\"fff3fa729e7f0f64b0187a0148ad0715\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Wq7boQ0VvKDEnIiK8IgpQqSyz79UHX39PTRnKWXAgv9ffxLNnzp1kA=="
+    },
+    "data": "{\"id\":551451,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":76693,\"known_for_department\":\"Acting\",\"name\":\"Nivek Ogre\",\"original_name\":\"Nivek Ogre\",\"popularity\":5.065,\"profile_path\":\"\/uaWhp6ivcX40nFByjuQ0m3MJaU4.jpg\",\"cast_id\":0,\"character\":\"\",\"credit_id\":\"5bb1adf70e0a26339800e562\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":1767306,\"known_for_department\":\"Crew\",\"name\":\"cEvin Key\",\"original_name\":\"cEvin Key\",\"popularity\":0.464,\"profile_path\":null,\"cast_id\":1,\"character\":\"\",\"credit_id\":\"5bb1ae24925141167b00d95d\",\"order\":1},{\"adult\":false,\"gender\":0,\"id\":3580695,\"known_for_department\":\"Acting\",\"name\":\"Justin Bennett\",\"original_name\":\"Justin Bennett\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"6541346a75110d01396108b0\",\"order\":2}],\"crew\":[]}"
+}

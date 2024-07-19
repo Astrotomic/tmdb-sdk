@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1129",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11980",
+        "x-memc": "HIT",
+        "x-memc-key": "e577c20b0d649bdb30f14f3ad4a20918",
+        "x-memc-age": "13693",
+        "x-memc-expires": "11980",
+        "ETag": "W\/\"c0938092ea06c536f47f0ccf79fd62e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6YmFKsaMVjSMrXM_Wke2yp45sW-y3kdeL3BLbG9NwdzT38tR87Wq3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/uXd9qh7ZwxbfiIAb4g4wD1oCKzd.jpg\",\"belongs_to_collection\":null,\"budget\":1800000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":702,\"imdb_id\":\"tt0044081\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Streetcar Named Desire\",\"overview\":\"A fading southern belle moves in with her sister in New Orleans where her ferocious brother-in-law takes stabs at her sanity.\",\"popularity\":25.788,\"poster_path\":\"\/aicdlO5vt7z2ARm279eGzJeYCLQ.jpg\",\"production_companies\":[{\"id\":1317,\"logo_path\":null,\"name\":\"Charles K. Feldman Group\",\"origin_country\":\"\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1951-09-19\",\"revenue\":8000000,\"runtime\":125,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"...Blanche, who wanted so much to stay a lady...\",\"title\":\"A Streetcar Named Desire\",\"video\":false,\"vote_average\":7.6,\"vote_count\":1313}"
+}

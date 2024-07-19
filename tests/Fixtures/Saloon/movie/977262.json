@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1285",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:00 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14454",
+        "x-memc": "HIT",
+        "x-memc-key": "bca445900fc1116da79117874b089b58",
+        "x-memc-age": "9303",
+        "x-memc-expires": "14454",
+        "ETag": "W\/\"527a41c7c312d4dc4a8b7e176dce5021\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4uQM35_P29XLBtQqmIQUDiQ8fFTZPcw3RxtFouvJqJppCPr1XW1IUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5uBC3rTqcknrdJduIdF0RZ7H4Rf.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":977262,\"imdb_id\":\"tt20315818\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ezra\",\"overview\":\"Stand-up comedian Max Bernal lives with his father Stan while struggling to co-parent his autistic son Ezra with his ex-wife. When forced to confront difficult decisions about their son's future, Max and Ezra embark on a cross-country road trip that has a transcendent impact on both their lives.\",\"popularity\":64.294,\"poster_path\":\"\/2oD3aLzuQzi6fhexfh3W8yjBUMI.jpg\",\"production_companies\":[{\"id\":185041,\"logo_path\":\"\/7M5wbBecXNrhM7u0Mxg4kvj8wZv.png\",\"name\":\"Closer Media\",\"origin_country\":\"US\"},{\"id\":144610,\"logo_path\":\"\/879WnwsOH1oP6NlLY7ChD6vL6lh.png\",\"name\":\"Wayfarer Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-30\",\"revenue\":3046741,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"To do right by his son, one dad will go the distance.\",\"title\":\"Ezra\",\"video\":false,\"vote_average\":7.1,\"vote_count\":16}"
+}

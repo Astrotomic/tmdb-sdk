@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "972",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9778",
+        "x-memc": "HIT",
+        "x-memc-key": "2acf65207d7858b98f5fa2a72f811279",
+        "x-memc-age": "14060",
+        "x-memc-expires": "9778",
+        "ETag": "W\/\"8a7ad6631fc00f5c1663759ba380d35e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JnSID4dswZDGwU01QgkmSrf_45dQtLWzmn9JwJWJ_aQmoVGDG5zplQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2TK4153Vv8YiNXgP6lnEYmgt5cz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":37,\"name\":\"Western\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.altavalley.film\/\",\"id\":1029700,\"imdb_id\":\"tt13414318\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Stolen Valley\",\"overview\":\"To save her dying mother, a Mexican-Navajo mechanic bands together with an outlaw cowgirl to confront a corrupt landowner.\",\"popularity\":7.44,\"poster_path\":\"\/DtRalOjkWfFG3KOmqcKd01vfWz.jpg\",\"production_companies\":[{\"id\":132193,\"logo_path\":\"\/itptDVJyYyxmumSuMO65BJMjlgN.png\",\"name\":\"Evolve Studios\",\"origin_country\":\"US\"}],\"production_countries\":[],\"release_date\":\"2024-02-23\",\"revenue\":0,\"runtime\":104,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"To save a life, they must free a nation.\",\"title\":\"The Stolen Valley\",\"video\":false,\"vote_average\":5.7,\"vote_count\":5}"
+}

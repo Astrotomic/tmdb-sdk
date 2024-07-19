@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1385",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20158",
+        "x-memc": "HIT",
+        "x-memc-key": "0a123a5372428700b5bfe4bcc5d877a4",
+        "x-memc-age": "8210",
+        "x-memc-expires": "20158",
+        "ETag": "W\/\"1309d296e0d80f0069e45a711da7ebd3\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "v2jm4oZarfb8seu0J7PEcOaT0O_p_1ylvNnM627W74pBlOHoiofOKw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9JJ8t38FtQvt2xEGc4cbAnSiCAh.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/www.mylifetime.com\/movies\/merry-textmas\",\"id\":1031165,\"imdb_id\":\"tt21831630\",\"origin_country\":[\"MX\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Merry Textmas\",\"overview\":\"Gaby Diaz, an app developer from Austin, Texas, and the last unmarried sibling in her family, heads to her abuela\u2019s house in Oaxaca, Mexico, for the holidays. When she accidentally adds Alex Alvarada, a graphic designer who\u2019s lost touch with his own Mexican roots, to the family group chat, her family invites him to come along for the holidays.\",\"popularity\":6.378,\"poster_path\":\"\/jlyw6b6kUTXKyD6lf5aGqqOdV8p.jpg\",\"production_companies\":[{\"id\":3431,\"logo_path\":\"\/bVTF0p5xlPfQhQIuBLr9BFtrKip.png\",\"name\":\"Lifetime\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-12-04\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Merry Textmas\",\"video\":false,\"vote_average\":6.2,\"vote_count\":5}"
+}

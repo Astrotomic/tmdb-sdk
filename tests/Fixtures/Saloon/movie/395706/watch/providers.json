@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "955",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:28:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14300",
+        "x-memc": "HIT",
+        "x-memc-key": "859e561f03039fdfbdeb8f3047b5da67",
+        "x-memc-age": "14104",
+        "x-memc-expires": "14300",
+        "ETag": "W\/\"cb9683503ddce453a235e579d1800d2c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QdceWO4aGBHI8K5NCE_OvBFePUymeBO1LRtzNiUOVRIq3OMd5_copQ=="
+    },
+    "data": "{\"id\":395706,\"results\":{\"IT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/395706-era-d-estate\/watch?locale=IT\",\"rent\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}],\"ads\":[{\"logo_path\":\"\/cmURKKdS72Ckr52615xvc2JPsJm.jpg\",\"provider_id\":222,\"provider_name\":\"Rai Play\",\"display_priority\":17}],\"buy\":[{\"logo_path\":\"\/bZvc9dXrXNly7cA0V4D9pR8yJwm.jpg\",\"provider_id\":35,\"provider_name\":\"Rakuten TV\",\"display_priority\":3},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":7}]}}}"
+}

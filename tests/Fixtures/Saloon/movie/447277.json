@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1653",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7667",
+        "x-memc": "HIT",
+        "x-memc-key": "987fa506b978a293fd1fa5f8095ab1a3",
+        "x-memc-age": "15041",
+        "x-memc-expires": "7667",
+        "ETag": "W\/\"63fccddaaa7927de5d57dc232f329949\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 95b5fb95856bf27af281fa1597f7ec54.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ibz3zwJLgE0GNqxkzqSjoN2sLusgy8nINtAN8CLS41sqPZzY6GTg3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7VEUOEfRzzrQfWddlIyLUKvh6Nf.jpg\",\"belongs_to_collection\":null,\"budget\":297000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/movies.disney.com\/the-little-mermaid-2023\",\"id\":447277,\"imdb_id\":\"tt5971474\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Little Mermaid\",\"overview\":\"The youngest of King Triton\u2019s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life \u2013 and her father\u2019s crown \u2013 in jeopardy.\",\"popularity\":141.651,\"poster_path\":\"\/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":17021,\"logo_path\":null,\"name\":\"Lucamar Productions\",\"origin_country\":\"\"},{\"id\":2527,\"logo_path\":\"\/osO7TGmlRMistSQ5JZusPhbKUHk.png\",\"name\":\"Marc Platt Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-05-18\",\"revenue\":569626289,\"runtime\":135,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Watch and you'll see, some day I'll be, part of your world!\",\"title\":\"The Little Mermaid\",\"video\":false,\"vote_average\":6.367,\"vote_count\":2786}"
+}

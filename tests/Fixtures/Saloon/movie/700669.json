@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "972",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6988",
+        "x-memc": "HIT",
+        "x-memc-key": "554f1f21c217776520f2eacb0d7ec743",
+        "x-memc-age": "18976",
+        "x-memc-expires": "6988",
+        "ETag": "W\/\"2f2ee7801e313b9849559648476bcb70\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ak9r5RJhTQubL5LsPBrVk5j_4neV6dGlReFdhixh3krbqmuXlAs79w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.metropolpics.com\/stranger-in-the-dunes\",\"id\":700669,\"imdb_id\":\"tt3139486\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Stranger in the Dunes\",\"overview\":\"A troubled married couple and their long-lost friend become ensnared in a supernatural phenomena while vacationing at an isolated beach house.\",\"popularity\":1.327,\"poster_path\":\"\/7Cj4z6SiptkG3w19LVF4MLR201z.jpg\",\"production_companies\":[{\"id\":112485,\"logo_path\":null,\"name\":\"Metropol Pictures\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2016-12-09\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Discover the truth or die trying\",\"title\":\"Stranger in the Dunes\",\"video\":false,\"vote_average\":6.0,\"vote_count\":3}"
+}

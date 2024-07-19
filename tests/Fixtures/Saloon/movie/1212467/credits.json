@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "767",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:30:22 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8131",
+        "x-memc": "HIT",
+        "x-memc-key": "c585727c3c7d418617fb1baf7cead66e",
+        "x-memc-age": "16911",
+        "x-memc-expires": "8131",
+        "ETag": "W\/\"2cbde4bc92cc7f0a820416e3c4a4b2f6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 56b03146829c02df871975da5cf2300e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hm15uqELc_-3doZ4JvXUFvHwSqwppEHnIW62j--cT5zAKPaimgm-AA=="
+    },
+    "data": "{\"id\":1212467,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1319515,\"known_for_department\":\"Acting\",\"name\":\"John Bengtson\",\"original_name\":\"John Bengtson\",\"popularity\":0.012,\"profile_path\":null,\"cast_id\":1,\"character\":\"Narrator\",\"credit_id\":\"656b1c51fcadb400add383b3\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":1319515,\"known_for_department\":\"Acting\",\"name\":\"John Bengtson\",\"original_name\":\"John Bengtson\",\"popularity\":0.012,\"profile_path\":null,\"credit_id\":\"656b1c6988055100e36f112f\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":557515,\"known_for_department\":\"Directing\",\"name\":\"Bret Wood\",\"original_name\":\"Bret Wood\",\"popularity\":0.078,\"profile_path\":null,\"credit_id\":\"656b1c7388634800ea469245\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

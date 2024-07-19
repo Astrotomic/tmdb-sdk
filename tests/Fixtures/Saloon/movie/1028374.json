@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "764",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14431",
+        "x-memc": "HIT",
+        "x-memc-key": "c647e37ca8afaeb48e42737dd73d863f",
+        "x-memc-age": "11118",
+        "x-memc-expires": "14431",
+        "ETag": "W\/\"3c969df701076e0fa67c162fb7a80633\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WEHNFIsRo7qhCiMeUMRzcM6iI5EYfSfZjCilXOiCgwKh5ABIu_n09w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":1028374,\"imdb_id\":\"tt0071621\",\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Hork\u00e1 zima\",\"overview\":\"\",\"popularity\":3.921,\"poster_path\":null,\"production_companies\":[{\"id\":1931,\"logo_path\":\"\/5erHhgvym2cTORao8ajtn2gbiTH.png\",\"name\":\"Filmov\u00e9 studio Barrandov\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1974-01-18\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Hork\u00e1 zima\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1108",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2203",
+        "x-memc": "HIT",
+        "x-memc-key": "2a4d52d6f2d7348435e43b0f8c045029",
+        "x-memc-age": "25709",
+        "x-memc-expires": "2203",
+        "ETag": "W\/\"25e48a838d1b02e04343f6b8c5da1f1a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6tg-A9FJHMphXHNsMg7bAGjrozg5KHZfbNx8Teq99a2DZoEnQ1dzkA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gc9RQz40i3VF8pYbIcicaiMMqwM.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":391575,\"imdb_id\":\"tt0036358\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sing a Jingle\",\"overview\":\"In Sing a Jingle, Allan Jones plays popular radio crooner Roy King, who goes to work in a war plant after being declared 4F. He falls in love with Muriel Crane, the boss' daughter, who is at first unaware of the fact that King is the heartthrob of millions (he's gotten the job under an assumed name).\",\"popularity\":2.85,\"poster_path\":\"\/bw10Wz7G6bAdgYtZXxJnbiFSem2.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1944-01-07\",\"revenue\":0,\"runtime\":62,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Sing a Jingle\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1781",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6245",
+        "x-memc": "HIT",
+        "x-memc-key": "64376c40b04a768803c9e68b82ab6e74",
+        "x-memc-age": "15655",
+        "x-memc-expires": "6245",
+        "ETag": "W\/\"c0975d02e0426d5b731303e90a9c6da1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BGgWr-d_UfwQkI2qHa7i5HjzeTNvkPD2TlgTQbQnBqSC5IkQXenSug=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2vq5GTJOahE03mNYZGxIynlHcWr.jpg\",\"belongs_to_collection\":null,\"budget\":97600000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/www.foxmovies.com\/movies\/ford-v-ferrari\",\"id\":359724,\"imdb_id\":\"tt1950186\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ford v Ferrari\",\"overview\":\"American car designer Carroll Shelby and the British-born driver Ken Miles work together to battle corporate interference, the laws of physics, and their own personal demons to build a revolutionary race car for Ford Motor Company and take on the dominating race cars of Enzo Ferrari at the 24 Hours of Le Mans in France in 1966.\",\"popularity\":74.468,\"poster_path\":\"\/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg\",\"production_companies\":[{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"},{\"id\":22213,\"logo_path\":\"\/qx9K6bFWJupwde0xQDwOvXkOaL8.png\",\"name\":\"TSG Entertainment\",\"origin_country\":\"US\"},{\"id\":7076,\"logo_path\":\"\/8BFxn9NUWSgp0ndih569Gm62xiC.png\",\"name\":\"Chernin Entertainment\",\"origin_country\":\"US\"},{\"id\":138755,\"logo_path\":null,\"name\":\"Turnpike Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-11-13\",\"revenue\":225508210,\"runtime\":153,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They took the American dream for a ride\",\"title\":\"Ford v Ferrari\",\"video\":false,\"vote_average\":8.006,\"vote_count\":7684}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1395",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=492",
+        "x-memc": "HIT",
+        "x-memc-key": "89444e0495d48ae7b8078935abe36254",
+        "x-memc-age": "23107",
+        "x-memc-expires": "492",
+        "ETag": "W\/\"770f3997738a34088bd96b3aacdc8c43\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4XiX5s_HdauRLIBWVnt86KhKIOqiJBkPOf9iYaeX_C6xV8fbNPE4sA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wACAzDetLg6HRaL98SJQ1sk4HTf.jpg\",\"belongs_to_collection\":{\"id\":1184152,\"name\":\"Trolls Holiday Collection\",\"poster_path\":\"\/oZkBgshhZrjN9swFlymgEdlsqkt.jpg\",\"backdrop_path\":\"\/6gY7A92PQ2h43d8GhER0hDSlsLE.jpg\"},\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":484510,\"imdb_id\":\"tt6645614\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Trolls Holiday\",\"overview\":\"When the eternally optimistic Poppy, queen of the Trolls, learns that the Bergens no longer have any holidays on their calendar, she enlists the help of Branch and the rest of the gang on a delightfully quirky mission to fix something that the Bergens don't think is broken.\",\"popularity\":157.637,\"poster_path\":\"\/ioEv9lRn2IXIu0Dbfo9Qyo2IKhD.jpg\",\"production_companies\":[{\"id\":1502,\"logo_path\":\"\/ywjcvHUiKxv7cYsestkONF8LieH.png\",\"name\":\"NBC\",\"origin_country\":\"US\"},{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[],\"release_date\":\"2017-11-01\",\"revenue\":0,\"runtime\":26,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Prepare to be merry and bright\",\"title\":\"Trolls Holiday\",\"video\":false,\"vote_average\":6.689,\"vote_count\":472}"
+}

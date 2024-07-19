@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1526",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7600",
+        "x-memc": "HIT",
+        "x-memc-key": "86fc6d62457855a1e1fa8ca796128b62",
+        "x-memc-age": "18342",
+        "x-memc-expires": "7600",
+        "ETag": "W\/\"46d63f077d2931a8e9988d075e120d55\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ldx-s9NLtxJ9OD2qWee8cj934--VIj4KfglquGxtl2p1RU5KV3gC2g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tlVO706unJ6EsxuhILxq1igjtHI.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.nikkatsu.com\/movie\/20985.html\",\"id\":2097,\"imdb_id\":\"tt0061550\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5927\u5de8\u7363\u30ac\u30c3\u30d1\",\"overview\":\"An expedition in the South Pacific lands on a tropical island where the natives worship the mysterious deity Gappa. An earthquake opens up an underground cavern and a baby reptile is discovered inside. The natives warn the foreigners to leave the hatching alone, but they don't listen and take it back to a zoo in Japan. Soon after, moma and papa Gappa start smashing Tokyo looking for their kidnapped child.\",\"popularity\":20.817,\"poster_path\":\"\/1atfEZaBMCpv0Zy4Y3V4DpFMKoP.jpg\",\"production_companies\":[{\"id\":955,\"logo_path\":\"\/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png\",\"name\":\"Nikkatsu Corporation\",\"origin_country\":\"JP\"},{\"id\":20479,\"logo_path\":\"\/qXRIhohcMoCj4PhFCn1trRBVKye.png\",\"name\":\"Manson International\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"1967-04-22\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Vast! Hideous! Invincible!\",\"title\":\"Gappa, the Triphibian Monster\",\"video\":false,\"vote_average\":5.488,\"vote_count\":40}"
+}

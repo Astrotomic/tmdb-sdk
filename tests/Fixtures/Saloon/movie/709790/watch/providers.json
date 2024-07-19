@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "251",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26895",
+        "x-memc": "HIT",
+        "x-memc-key": "b2914e9930b7c1418d76161def12d821",
+        "x-memc-age": "977",
+        "x-memc-expires": "26895",
+        "ETag": "W\/\"f263bc064a6c362f8f1b0973c074862e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6441aca3a2b5b58e29d8d3461ac1b20c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hgOif6Xf4nJdcS9GLYPu89YvHcelO_lRyjeP2562uxTXDqHidwkVvw=="
+    },
+    "data": "{\"id\":709790,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/709790-le-tresor-sacre-d-hitler\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/7rJJlPpuGz0DV5OLjVW1HzYaFj9.jpg\",\"provider_id\":146,\"provider_name\":\"iciTouTV\",\"display_priority\":14}]}}}"
+}

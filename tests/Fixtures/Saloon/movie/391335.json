@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1227",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16516",
+        "x-memc": "HIT",
+        "x-memc-key": "c51259026262f9de55ecef79cd18f56a",
+        "x-memc-age": "9448",
+        "x-memc-expires": "16516",
+        "ETag": "W\/\"b2680af487c4434a9a7bfbef099dec20\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "1YUY0uEdZllc2NvbCwlEKW106mwB1MFcZcj8AnCUH6vZLbdZOUGzVQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/gAUjfUgWdvWWNYQGvXPFH6F6F5Y.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10402,\"name\":\"Music\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391335,\"imdb_id\":\"tt0032682\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"La Conga Nights\",\"overview\":\"In this comedy, actor Hugh Herbert plays six different roles. Only one of the roles is a man. The story centers around a dizzy music lover, who has grown rich through real estate deals. Also figuring in the story are a cab driver\/performer, and a down-on-her-luck, aspiring singer. They meet when she hails his cab as she skips out on her former boarding house because she cannot pay rent.\",\"popularity\":3.453,\"poster_path\":\"\/rVJVpiEGUVOHHtQl6P5l6Wwtolc.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1940-05-31\",\"revenue\":0,\"runtime\":70,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"La Conga Nights\",\"video\":false,\"vote_average\":7.5,\"vote_count\":2}"
+}

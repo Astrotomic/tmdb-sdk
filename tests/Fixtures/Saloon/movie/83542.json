@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1894",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13911",
+        "x-memc": "HIT",
+        "x-memc-key": "fd36408939c77a4ffa6820b6f0848d2f",
+        "x-memc-age": "8189",
+        "x-memc-expires": "13911",
+        "ETag": "W\/\"c58147484c0512ec476ae2771c594cbc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "dA1iusNYdAnorDw9Sh0rWgqeEFatVAwYtYLdR-LJJqDaUASq0Odovg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rXxsazBqE5DkXhhnc2OJQhu6fkv.jpg\",\"belongs_to_collection\":null,\"budget\":102000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/cloudatlas.warnerbros.com\/\",\"id\":83542,\"imdb_id\":\"tt1371111\",\"origin_country\":[\"CN\",\"DE\",\"HK\",\"SG\",\"ES\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Cloud Atlas\",\"overview\":\"A set of six nested stories spanning time between the 19th century and a distant post-apocalyptic future. Cloud Atlas explores how the actions and consequences of individual lives impact one another throughout the past, the present and the future. Action, mystery and romance weave through the story as one soul is shaped from a killer into a hero and a single act of kindness ripples across centuries to inspire a revolution in the distant future.  Based on the award winning novel by David Mitchell. Directed by Tom Tykwer and the Wachowskis.\",\"popularity\":57.193,\"poster_path\":\"\/mxcvshnizr7frjN8WMKPQRJ3LmY.jpg\",\"production_companies\":[{\"id\":11080,\"logo_path\":null,\"name\":\"Cloud Atlas Productions\",\"origin_country\":\"GB\"},{\"id\":450,\"logo_path\":null,\"name\":\"Anarchos Productions\",\"origin_country\":\"US\"},{\"id\":96,\"logo_path\":\"\/9ps82gVzUeNdkjmLzoGDQLiLDio.png\",\"name\":\"X Filme Creative Pool\",\"origin_country\":\"DE\"},{\"id\":6187,\"logo_path\":\"\/gtC63XG8fkFxszIuZIogffM1oY8.png\",\"name\":\"ARD Degeto\",\"origin_country\":\"DE\"},{\"id\":11081,\"logo_path\":\"\/3vG1qqebRnbk0hsut7vD1xXMtbo.png\",\"name\":\"A Company\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2012-10-26\",\"revenue\":130482868,\"runtime\":172,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everything is connected\",\"title\":\"Cloud Atlas\",\"video\":false,\"vote_average\":6.9,\"vote_count\":6921}"
+}

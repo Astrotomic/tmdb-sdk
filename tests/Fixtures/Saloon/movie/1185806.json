@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1682",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16417",
+        "x-memc": "HIT",
+        "x-memc-key": "44b97e1bca45a46ebe381d1d33e2ad88",
+        "x-memc-age": "11498",
+        "x-memc-expires": "16417",
+        "ETag": "W\/\"70614b3db14132ad85e03e2ba06ba4cd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tSXP0kQW-cTZeViCKptLri9mM8v1xfldAZy5jOX8zgozp_YwNvfNAQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sSKamRdD04b2LaTfLf8UQ5iA4lP.jpg\",\"belongs_to_collection\":{\"id\":893731,\"name\":\"PAW Patrol (Theatrical) Collection\",\"poster_path\":\"\/gLKJ96C7OqLqDvIS8MxLiKPLf8T.jpg\",\"backdrop_path\":\"\/gjHZbURgyqjBMHQICu3VZQf41gF.jpg\"},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.mikrosanimation.com\/en\/project\/paw-patrol-3\/\",\"id\":1185806,\"imdb_id\":\"tt29356163\",\"origin_country\":[\"CA\"],\"original_language\":\"en\",\"original_title\":\"Untitled third PAW Patrol film\",\"overview\":\"The third installment in the PAW Patrol film franchise.\",\"popularity\":12.93,\"poster_path\":\"\/qfj8S9Ls5y8Eaz5e5DezJv0n1Tr.jpg\",\"production_companies\":[{\"id\":71738,\"logo_path\":\"\/9SiK63A0hOmn3FiLCEqydtE1ZQW.png\",\"name\":\"Spin Master\",\"origin_country\":\"CA\"},{\"id\":2348,\"logo_path\":\"\/oydqrfwRAm6qqdYbxuMmmPsVi87.png\",\"name\":\"Nickelodeon Movies\",\"origin_country\":\"US\"},{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":199314,\"logo_path\":\"\/zVfq3R7Ue0Ho0XnfgyK63fMGk2j.png\",\"name\":\"Mikros Animation\",\"origin_country\":\"FR\"},{\"id\":8649,\"logo_path\":\"\/130H7TsGokNIPyGHYZc9ftU3jJ7.png\",\"name\":\"Mikros Image\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2026-07-31\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Untitled third PAW Patrol film\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

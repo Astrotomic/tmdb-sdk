@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1618",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10472",
+        "x-memc": "HIT",
+        "x-memc-key": "f71e03431720af877380ea03d7d7346a",
+        "x-memc-age": "16947",
+        "x-memc-expires": "10472",
+        "ETag": "W\/\"748324e1ba5f3f92b0af1e2d37f7ac42\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4kono3AG4QE_6up2nAbmPVrTHBPyskmmNJpPUONzuqIN010y_bauyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/i2GVEvltEu3BXn5crBSxgKuTaca.jpg\",\"belongs_to_collection\":{\"id\":228446,\"name\":\"Insidious Collection\",\"poster_path\":\"\/k2bH4dD3IGX86bqWcM92nQfnubv.jpg\",\"backdrop_path\":\"\/5FrPZHgbbmTIq0oxpwSGqu5HyXC.jpg\"},\"budget\":16000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.insidious.movie\",\"id\":614479,\"imdb_id\":\"tt13405778\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Insidious: The Red Door\",\"overview\":\"To put their demons to rest once and for all, Josh Lambert and a college-aged Dalton Lambert must go deeper into The Further than ever before, facing their family's dark past and a host of new and more horrifying terrors that lurk behind the red door.\",\"popularity\":100.635,\"poster_path\":\"\/uS1AIL7I1Ycgs8PTfqUeN6jYNsQ.jpg\",\"production_companies\":[{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"},{\"id\":11341,\"logo_path\":\"\/xytTBODEy3p20ksHL4Ftxr483Iv.png\",\"name\":\"Stage 6 Films\",\"origin_country\":\"US\"},{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":206395,\"logo_path\":null,\"name\":\"Oren Peli Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-07-05\",\"revenue\":185582093,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It ends where it all began.\",\"title\":\"Insidious: The Red Door\",\"video\":false,\"vote_average\":6.626,\"vote_count\":1608}"
+}

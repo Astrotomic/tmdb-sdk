@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "2038",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2720",
+        "x-memc": "HIT",
+        "x-memc-key": "798855f4647149f48dc187a4dec9e46f",
+        "x-memc-age": "24554",
+        "x-memc-expires": "2720",
+        "ETag": "W\/\"c43450ba1abf762477078153660f4eda\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jZomPrbR1IqCbGKYMwhLmp1sEXbkHli5etnVLw46DcaWOo0cbdkAcQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/knk3sl4aJLtKY8jV5ADJ4oZxijF.jpg\",\"belongs_to_collection\":{\"id\":52984,\"name\":\"National Treasure Collection\",\"poster_path\":\"\/z5EIRaI8XS0brelYwDFEVlxcpzM.jpg\",\"backdrop_path\":\"\/a0GLVfaDSf5GNZKK5H4FgGCD2VW.jpg\"},\"budget\":130000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"http:\/\/movies.disney.com\/national-treasure-book-of-secrets\",\"id\":6637,\"imdb_id\":\"tt0465234\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"National Treasure: Book of Secrets\",\"overview\":\"Benjamin Franklin Gates and Abigail Chase re-team with Riley Poole and, now armed with a stack of long-lost pages from John Wilkes Booth's diary, Ben must follow a clue left there to prove his ancestor's innocence in the assassination of Abraham Lincoln.\",\"popularity\":41.815,\"poster_path\":\"\/dc9F1vNOGbgeZrO9ejNkbgHPlfw.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":130,\"logo_path\":\"\/c9dVHPOL3cqCr2593Ahk0nEKTEM.png\",\"name\":\"Jerry Bruckheimer Films\",\"origin_country\":\"US\"},{\"id\":831,\"logo_path\":\"\/vLENXiYTyITnMDrTKabUXhgTKX2.png\",\"name\":\"Saturn Films\",\"origin_country\":\"US\"},{\"id\":19097,\"logo_path\":null,\"name\":\"Junction Entertainment\",\"origin_country\":\"US\"},{\"id\":20012,\"logo_path\":null,\"name\":\"Sparkler Entertainment\",\"origin_country\":\"\"},{\"id\":20013,\"logo_path\":null,\"name\":\"NT2 Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-12-13\",\"revenue\":459200000,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"Latin\",\"iso_639_1\":\"la\",\"name\":\"Latin\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"The greatest adventure history has ever revealed.\",\"title\":\"National Treasure: Book of Secrets\",\"video\":false,\"vote_average\":6.351,\"vote_count\":5013}"
+}

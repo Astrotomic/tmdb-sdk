@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1577",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4395",
+        "x-memc": "HIT",
+        "x-memc-key": "65da34be1a037e4aa4458e20bb0de0ce",
+        "x-memc-age": "20354",
+        "x-memc-expires": "4395",
+        "ETag": "W\/\"3bd8c18d4210ab123e7a6c89981edb2c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 71e2e03bef11cc0381cb2986b1b064b2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JEclWni6WyU3G5cUHIKe6LnC_mV8F34cRufi27VapiIRpXhviy8ImQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/opvymPgWyoOvwL2YXdGryKYSagn.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/www.hallmarkchannel.com\/christmas-in-love\",\"id\":550020,\"imdb_id\":\"tt9033712\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Christmas in Love\",\"overview\":\"Ellie Hartman is an aspiring crafter working in her small town\u2019s bakery making famous Christmas Kringles. When the new, big-city CEO Nick Carlingson visits the bakery, he arrives filled with modernization ideas destined to lay off many employees.\",\"popularity\":8.115,\"poster_path\":\"\/iDK96L8yN092QuRbfVqFUmT2FnS.jpg\",\"production_companies\":[{\"id\":184807,\"logo_path\":null,\"name\":\"HP Christmas Jingle Productions\",\"origin_country\":\"\"},{\"id\":20068,\"logo_path\":\"\/6CEIvevd5R8yNG1nd7zuPd4Y9DT.png\",\"name\":\"Hideaway Pictures\",\"origin_country\":\"CA\"},{\"id\":2090,\"logo_path\":\"\/jYlUttNqcN5u1pzMQrh5AEhZ27t.png\",\"name\":\"Motion Picture Corporation of America\",\"origin_country\":\"US\"},{\"id\":64216,\"logo_path\":\"\/Eg9VjIFt743LPYaK8Ag0fuhWGo.png\",\"name\":\"Brad Krevoy Television\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-12-23\",\"revenue\":0,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Christmas in Love\",\"video\":false,\"vote_average\":6.1,\"vote_count\":61}"
+}

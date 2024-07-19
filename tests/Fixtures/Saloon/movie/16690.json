@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1447",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2976",
+        "x-memc": "HIT",
+        "x-memc-key": "0b54c698851343f4f01bc45bed1a4383",
+        "x-memc-age": "22095",
+        "x-memc-expires": "2976",
+        "ETag": "W\/\"4b053f8cf22f9e4f45bc1658a9a17d82\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ckLpXEfAvzSH-g-We760bWfCpBCd5H2p_5qeBoRf0bhyfdoa3P5KZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/m6IJUn59uIJS2Jabl7thiYtKi8o.jpg\",\"belongs_to_collection\":{\"id\":55422,\"name\":\"Peter Pan Collection\",\"poster_path\":\"\/t0mINaIut2aDKdGseQtC7UcbRNW.jpg\",\"backdrop_path\":\"\/AnhKboZjfeGuHI6qg7pp9RCesTF.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":16690,\"imdb_id\":\"tt0280030\",\"origin_country\":[\"CA\",\"US\",\"AU\"],\"original_language\":\"en\",\"original_title\":\"Return to Never Land\",\"overview\":\"In 1940, the world is besieged by World War II. Wendy, all grown up, has two children; including Jane, who does not believe Wendy's stories about Peter Pan.\",\"popularity\":28.879,\"poster_path\":\"\/wB3r2b8sxUZspqNyr8copMlt7se.jpg\",\"production_companies\":[{\"id\":3475,\"logo_path\":\"\/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png\",\"name\":\"Disney Television Animation\",\"origin_country\":\"US\"},{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"AU\",\"name\":\"Australia\"},{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-02-14\",\"revenue\":109862682,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Classic Continues\",\"title\":\"Return to Never Land\",\"video\":false,\"vote_average\":6.491,\"vote_count\":2274}"
+}

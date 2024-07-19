@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1108",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17300",
+        "x-memc": "HIT",
+        "x-memc-key": "8444d4d16711c5d0c9aa510748e3703b",
+        "x-memc-age": "10483",
+        "x-memc-expires": "17300",
+        "ETag": "W\/\"b230811df4450b00b686097ca11da5f1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2uLAmpz0c_50gZqQTkYbi7c20pY7_Z0_mK1gFr4rgolX6mjlXpO00g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/j9xTJEarUcWLfMTHKZln6d1OagO.jpg\",\"belongs_to_collection\":null,\"budget\":6900000,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":8879,\"imdb_id\":\"tt0089767\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Pale Rider\",\"overview\":\"A mysterious preacher protects a humble prospector village from a greedy mining company trying to encroach on their land.\",\"popularity\":22.791,\"poster_path\":\"\/kpAN5WnDEVWYzMDPkXHTbrDQuak.jpg\",\"production_companies\":[{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":171,\"logo_path\":\"\/bqLWwuNCHcY3IjB5e4o29h7l80D.png\",\"name\":\"Malpaso Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-06-28\",\"revenue\":41400000,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"...and hell followed with him.\",\"title\":\"Pale Rider\",\"video\":false,\"vote_average\":7.155,\"vote_count\":1022}"
+}

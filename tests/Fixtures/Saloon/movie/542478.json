@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "720",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:01 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7133",
+        "x-memc": "HIT",
+        "x-memc-key": "c7fcc7c0edb4ee35c3296dc27c81e213",
+        "x-memc-age": "21633",
+        "x-memc-expires": "7133",
+        "ETag": "W\/\"035920f2ca397656770d75b79326be45\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3tvG5FDgdfvie7m3WR8jX_GKtTS7fDtYITAHRBI5GVemmmXjXXdZ3Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":542478,\"imdb_id\":\"tt0319429\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"F\u00fatbol de alcoba\",\"overview\":\"A female soccer team has an orgy with a coach and his team.\",\"popularity\":4.754,\"poster_path\":\"\/63SJzFcHchoAKb5PjRmM2V6uTlG.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1988-01-01\",\"revenue\":0,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"F\u00fatbol de alcoba\",\"video\":false,\"vote_average\":3.4,\"vote_count\":5}"
+}

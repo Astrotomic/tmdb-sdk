@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1653",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:48 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8307",
+        "x-memc": "HIT",
+        "x-memc-key": "ba5592b973d7acc21fc00833751a1f2d",
+        "x-memc-age": "17355",
+        "x-memc-expires": "8307",
+        "ETag": "W\/\"ee1785c448a005dd36519ff547419195\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "twpdc-EmQ9TLsbWuYAovBmokpPVgMazKrpxEa0xu_BEWL6B7gYj7UQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9J3HHP3kQ5ZStyirJyWPWtvvrHY.jpg\",\"belongs_to_collection\":{\"id\":256322,\"name\":\"The Purge Collection\",\"poster_path\":\"\/kklRqw1Mp7xTnHm2ifmPNshGB4D.jpg\",\"backdrop_path\":\"\/zLx0VxpzJt3E0cb4GodV10Wp0Lt.jpg\"},\"budget\":3000000,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":27,\"name\":\"Horror\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":158015,\"imdb_id\":\"tt2184339\",\"origin_country\":[\"US\",\"FR\"],\"original_language\":\"en\",\"original_title\":\"The Purge\",\"overview\":\"Given the country's overcrowded prisons, the U.S. government begins to allow 12-hour periods of time in which all illegal activity is legal. During one of these free-for-alls, a family must protect themselves from a home invasion.\",\"popularity\":54.08,\"poster_path\":\"\/46X1ei9uf13nkkr0OhWldGyr5Uh.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":729,\"logo_path\":\"\/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png\",\"name\":\"Why Not Productions\",\"origin_country\":\"FR\"},{\"id\":2481,\"logo_path\":\"\/vOQg26GjR0LnkN1Ph9uyog1UuOE.png\",\"name\":\"Platinum Dunes\",\"origin_country\":\"US\"},{\"id\":3172,\"logo_path\":\"\/rzKluDcRkIwHZK2pHsiT667A2Kw.png\",\"name\":\"Blumhouse Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-05-31\",\"revenue\":89328627,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"One night a year, all crime is legal.\",\"title\":\"The Purge\",\"video\":false,\"vote_average\":6.259,\"vote_count\":8209}"
+}

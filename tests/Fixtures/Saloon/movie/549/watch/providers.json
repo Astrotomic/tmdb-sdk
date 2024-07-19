@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "3898",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:02:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6164",
+        "x-memc": "HIT",
+        "x-memc-key": "80fd614b4653e6c5ee7e6c2b68a75eca",
+        "x-memc-age": "18257",
+        "x-memc-expires": "6164",
+        "ETag": "W\/\"599d6687705250387bbf0bc04c49b534\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "j4DlTmeh49p93rmDnbmhBDkSTXdOAxiqoyjDqgQrXRQRzJKc5ZyGvQ=="
+    },
+    "data": "{\"id\":549,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549-basquiat\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/yhrtzYd43pFIhRq0ruO8umJPuyn.jpg\",\"provider_id\":258,\"provider_name\":\"Criterion Channel\",\"display_priority\":22}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":8},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":37}]},\"GB\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549-basquiat\/watch?locale=GB\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"HN\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549-basquiat\/watch?locale=HN\",\"flatrate\":[{\"logo_path\":\"\/fksCUZ9QDWZMUwL2LgMtLckROUN.jpg\",\"provider_id\":1899,\"provider_name\":\"Max\",\"display_priority\":33}]},\"IE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549-basquiat\/watch?locale=IE\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]},\"JP\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549-basquiat\/watch?locale=JP\",\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":5},{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/549-basquiat\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/fksCUZ9QDWZMUwL2LgMtLckROUN.jpg\",\"provider_id\":1899,\"provider_name\":\"Max\",\"display_priority\":9},{\"logo_path\":\"\/erfmV26akboHUerxGjpl8pBwww3.jpg\",\"provider_id\":1825,\"provider_name\":\"Max Amazon Channel\",\"display_priority\":10},{\"logo_path\":\"\/yhrtzYd43pFIhRq0ruO8umJPuyn.jpg\",\"provider_id\":258,\"provider_name\":\"Criterion Channel\",\"display_priority\":43}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4},{\"logo_path\":\"\/seGSXajazLMCKGB5hnRCidtjay1.jpg\",\"provider_id\":10,\"provider_name\":\"Amazon Video\",\"display_priority\":15},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":16},{\"logo_path\":\"\/pTnn5JwWr4p3pG8H6VrpiQo7Vs0.jpg\",\"provider_id\":192,\"provider_name\":\"YouTube\",\"display_priority\":17},{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "451",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10879",
+        "x-memc": "HIT",
+        "x-memc-key": "62c11f5e85c23405730a85282949ef39",
+        "x-memc-age": "16812",
+        "x-memc-expires": "10879",
+        "ETag": "W\/\"46412849309cf7bfdf4dacc55023b4d2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3jUgORCetkfw5pdGQFntA-KKdPR5EWPH8GcgTGAvN3KpfR2eKN3y4A=="
+    },
+    "data": "{\"id\":222465,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/222465-a-zombie-invasion\/watch?locale=CA\",\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":10}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/222465-a-zombie-invasion\/watch?locale=US\",\"free\":[{\"logo_path\":\"\/j7D006Uy3UWwZ6G0xH6BMgIWTzH.jpg\",\"provider_id\":212,\"provider_name\":\"Hoopla\",\"display_priority\":37}]}}}"
+}

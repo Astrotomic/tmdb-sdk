@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1123",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:08 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6542",
+        "x-memc": "HIT",
+        "x-memc-key": "b86e50c9b0f70a3fa1410819892ea2ea",
+        "x-memc-age": "19013",
+        "x-memc-expires": "6542",
+        "ETag": "W\/\"1ae5faa4437c858ea3f5df89008484ad\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i2dqKkomgfC8P07JwD0WVhHBYcc6he-sJyHvyPwetVeBHzhNi0ZARg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iani6lXW3h3d89MuwV6d7ULMhGq.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1150112,\"imdb_id\":\"tt28282020\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Se\u00f1ora Influencer\",\"overview\":\"Fatima, a woman in her forties, becomes an online overnight sensation. Sofi and Cami, a pair of young influencers, will try to take advantage of Fatima's sudden popularity by pretending to be her friends, unbeknownst to them that they messed with the wrong person!\",\"popularity\":18.838,\"poster_path\":\"\/lgEXNBnFsq8oTck1C2giSvnTjzz.jpg\",\"production_companies\":[{\"id\":159756,\"logo_path\":null,\"name\":\"Sastre Films\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"2023-11-02\",\"revenue\":464271,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"They messed with the wrong profile!\",\"title\":\"Like or Die\",\"video\":false,\"vote_average\":7.809,\"vote_count\":55}"
+}

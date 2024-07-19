@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "481",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:16:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15759",
+        "x-memc": "HIT",
+        "x-memc-key": "d017b492f925584b4ececfd688297749",
+        "x-memc-age": "6598",
+        "x-memc-expires": "15759",
+        "ETag": "W\/\"ff033dc3f1379541c3e1f39dbcf3a6a7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 197697b195c6b318459fc725f7d28906.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rVYtaR0K3q0y3NbpqyTkrx7iKO_VoOAv7qq35RamEITGgYmaw8j-IA=="
+    },
+    "data": "{\"id\":268318,\"results\":{\"BR\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/268318-a-farra-do-circo\/watch?locale=BR\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":8}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":8},{\"logo_path\":\"\/8z7rC8uIDaTM91X0ZfkRf04ydj2.jpg\",\"provider_id\":3,\"provider_name\":\"Google Play Movies\",\"display_priority\":15}]}}}"
+}

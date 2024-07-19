@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "876",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3854",
+        "x-memc": "HIT",
+        "x-memc-key": "b6537e61a395f7e5b94d8883633e7e06",
+        "x-memc-age": "20171",
+        "x-memc-expires": "3854",
+        "ETag": "W\/\"0afb7dd6b164a07cd5341f085f5c273f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ameSJBom0Cr4uXqD-hGyg1jLmKA0SwAKzKJlDkU9dI5Glc7a73O4hQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":542475,\"imdb_id\":\"tt0218861\",\"origin_country\":[\"MX\"],\"original_language\":\"es\",\"original_title\":\"Una buena forma de morir\",\"overview\":\"After his wife is murdered by gang members, a man must take revenge.\",\"popularity\":5.109,\"poster_path\":\"\/1WnS3sb9A3m9JcyuRQTOBexro80.jpg\",\"production_companies\":[{\"id\":8165,\"logo_path\":null,\"name\":\"Televicine S.A. de C.V.\",\"origin_country\":\"MX\"}],\"production_countries\":[{\"iso_3166_1\":\"MX\",\"name\":\"Mexico\"}],\"release_date\":\"1994-11-11\",\"revenue\":0,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Una buena forma de morir\",\"video\":false,\"vote_average\":5.0,\"vote_count\":2}"
+}

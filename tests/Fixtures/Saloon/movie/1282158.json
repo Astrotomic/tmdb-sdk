@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "559",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:54 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18102",
+        "x-memc": "HIT",
+        "x-memc-key": "f82da6de7c0bdfa5c94a9292f2878a9d",
+        "x-memc-age": "5775",
+        "x-memc-expires": "18102",
+        "ETag": "W\/\"4d1b4ed08c1e3c9c22e665da6783edfa\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1c642e00a55bc084d1dd63dc30d4a59a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HUXHzui0HBG-rTeIPnt_71pDgGqx8XFMjtguPEyrBeyRZW4ispIWkQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":1282158,\"imdb_id\":null,\"origin_country\":[\"BE\"],\"original_language\":\"xx\",\"original_title\":\"KL\",\"overview\":\"A rapid succession of close-up photographs slowly reveals the location.\",\"popularity\":0.33,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"\",\"revenue\":0,\"runtime\":4,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"KL\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

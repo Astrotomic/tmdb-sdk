@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1366",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18131",
+        "x-memc": "HIT",
+        "x-memc-key": "5864fe18060e24e8c70615cf8b16568f",
+        "x-memc-age": "5241",
+        "x-memc-expires": "18131",
+        "ETag": "W\/\"8bb42d7093b0efedb3bea4e17a51f0c0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tp5ojs_nXeGxVgdCSaWehzCUZH3Qetjg6fkBeXpVGASY3qww7sRQxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7jvHnJcCSfk8bhjy9U78HZ9jzkC.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":9078,\"imdb_id\":\"tt0057546\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Sword in the Stone\",\"overview\":\"Wart is a young boy who aspires to be a knight's squire. On a hunting trip he falls in on Merlin, a powerful but amnesiac wizard who has plans for him beyond mere squiredom. He starts by trying to give him an education, believing that once one has an education, one can go anywhere. Needless to say, it doesn't quite work out that way.\",\"popularity\":47.102,\"poster_path\":\"\/dYQhKThGXl3xQv71Ysw0RSmVmBA.jpg\",\"production_companies\":[{\"id\":3166,\"logo_path\":\"\/vyyv4Gy9nPqAZKElPm2izLlEaVS.png\",\"name\":\"Walt Disney Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1963-12-25\",\"revenue\":22200000,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Tired of living in a Medieval mess... Merlin uses all his magic powers to change a scrawny little boy into a legendary hero!\",\"title\":\"The Sword in the Stone\",\"video\":false,\"vote_average\":7.251,\"vote_count\":3729}"
+}

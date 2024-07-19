@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1375",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3050",
+        "x-memc": "HIT",
+        "x-memc-key": "c8db56a6fb3b12d1d14495000202d1ef",
+        "x-memc-age": "20212",
+        "x-memc-expires": "3050",
+        "ETag": "W\/\"4b50af16f0b74d0e34d539330903b453\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a-D17qBAPuBJgalQiuTOgSgEoD4nhVzewT40He5eKGHHVKbbNHAJRA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/voc0qPuvMtJN8cF2tIu1fVvnneu.jpg\",\"belongs_to_collection\":null,\"budget\":60000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":2119,\"imdb_id\":\"tt0099371\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Days of Thunder\",\"overview\":\"Talented but unproven stock car driver Cole Trickle gets a break and with the guidance of veteran Harry Hogge turns heads on the track. The young hotshot develops a rivalry with a fellow racer that threatens his career when the two smash their cars. But with the help of his doctor, Cole just might overcome his injuries-- and his fear.\",\"popularity\":32.542,\"poster_path\":\"\/2xfP227oLToQjBCUg3FI18pWh3G.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"},{\"id\":10288,\"logo_path\":\"\/Aszf09kIVXR6cwG9lwjZIawbYVS.png\",\"name\":\"Don Simpson\/Jerry Bruckheimer Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1990-06-27\",\"revenue\":157920733,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You can't outrun the thunder.\",\"title\":\"Days of Thunder\",\"video\":false,\"vote_average\":6.358,\"vote_count\":1422}"
+}

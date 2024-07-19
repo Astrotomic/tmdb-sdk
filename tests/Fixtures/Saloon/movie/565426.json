@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1374",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:52 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8625",
+        "x-memc": "HIT",
+        "x-memc-key": "35c688c1b23dc36cb3fdb8df9592cb11",
+        "x-memc-age": "14005",
+        "x-memc-expires": "8625",
+        "ETag": "W\/\"4b48fc200d8e98e870d3a3ab0cc9951d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ygITwdYmFZVJMscJmfrqnLL0qO1qlsRw4mHwgANxMDiJ30ljTYimTQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/txaC2mhUhW0H0r31N6KzRTaz1rL.jpg\",\"belongs_to_collection\":{\"id\":569738,\"name\":\"To All the Boys Collection\",\"poster_path\":\"\/bepYJrdm1avg6cUJcimBO6W2pHs.jpg\",\"backdrop_path\":\"\/rXBWUDyoujPMcznBsqpetZvWjDF.jpg\"},\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81030842\",\"id\":565426,\"imdb_id\":\"tt9354842\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"To All the Boys: P.S. I Still Love You\",\"overview\":\"Lara Jean and Peter have just taken their romance from pretend to officially real when another recipient of one of her love letters enters the picture.\",\"popularity\":36.503,\"poster_path\":\"\/maib5VlmEqp5xlN8lptnBSftp2o.jpg\",\"production_companies\":[{\"id\":63484,\"logo_path\":\"\/aVLlAODQm57VkgqWlVAOGiy8zs0.png\",\"name\":\"Awesomeness Films\",\"origin_country\":\"US\"},{\"id\":172977,\"logo_path\":\"\/glE5omI0LcZIJZegna3Rrji3y2R.png\",\"name\":\"ACE Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2020-02-03\",\"revenue\":0,\"runtime\":102,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Follow your heart like never before\",\"title\":\"To All the Boys: P.S. I Still Love You\",\"video\":false,\"vote_average\":6.848,\"vote_count\":2492}"
+}

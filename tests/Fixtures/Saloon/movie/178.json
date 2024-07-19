@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1274",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27462",
+        "x-memc": "HIT",
+        "x-memc-key": "ce33f06960c2fd4f75ab8a5d4815baec",
+        "x-memc-age": "1300",
+        "x-memc-expires": "27462",
+        "ETag": "W\/\"7825b9349a23ca884c3894a93d195b38\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "4psQSQ0_M-FxMtWnv7c8dYGZQNxhi4q48LixqSczQYDOQvQ8GyOSig=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8d6kHxFAIE2P54WpxAssgpm5W0Z.jpg\",\"belongs_to_collection\":null,\"budget\":28000000,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.mgm.com\/#\/our-titles\/215\/Blown-Away\",\"id\":178,\"imdb_id\":\"tt0109303\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Blown Away\",\"overview\":\"Blown Away tells the story of Jimmy Dove, who works for the Boston bomb squad. Shortly after Dove leaves the force, his partner is killed by a bomb that Dove thinks might have been made by someone he knows.\",\"popularity\":34.514,\"poster_path\":\"\/oZLQXYAlL61NGvzK0MWyUsVLyjs.jpg\",\"production_companies\":[{\"id\":2231,\"logo_path\":\"\/zJBTkTxy0UiQETGRynEqxiFbmL8.png\",\"name\":\"Trilogy Entertainment Group\",\"origin_country\":\"US\"},{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-07-01\",\"revenue\":30156002,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Irish\",\"iso_639_1\":\"ga\",\"name\":\"Gaeilge\"}],\"status\":\"Released\",\"tagline\":\"5. 4. 3. 2. 1......Time's Up.\",\"title\":\"Blown Away\",\"video\":false,\"vote_average\":6.2,\"vote_count\":521}"
+}

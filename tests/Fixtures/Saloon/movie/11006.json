@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1251",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16349",
+        "x-memc": "HIT",
+        "x-memc-key": "54a446248e8e29e5ce70b6e9f2c02e7c",
+        "x-memc-age": "9775",
+        "x-memc-expires": "16349",
+        "ETag": "W\/\"a430822d9ec8f4c6495952ce1018edb6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "h_8nfc4aV6EGHVnv3Ra-LxscwkzOho_u0KJR8hjbUcrexFMS4sD4zw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/c8P7vv4m4sFi5ul6Zppu9irnUVF.jpg\",\"belongs_to_collection\":{\"id\":87220,\"name\":\"Smokey and the Bandit Collection\",\"poster_path\":\"\/2ctucVAR8TEz7zfSpTLWxxqsPLU.jpg\",\"backdrop_path\":\"\/c8P7vv4m4sFi5ul6Zppu9irnUVF.jpg\"},\"budget\":4300000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":11006,\"imdb_id\":\"tt0076729\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Smokey and the Bandit\",\"overview\":\"A race car driver tries to transport an illegal beer shipment from Texas to Atlanta in under 28 hours, picking up a reluctant bride-to-be on the way.\",\"popularity\":24.213,\"poster_path\":\"\/w4RqNZtVHB5Uzlnl6zQlMHft7QI.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-05-26\",\"revenue\":126700000,\"runtime\":96,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"What we have here is a total lack of respect for the law!\",\"title\":\"Smokey and the Bandit\",\"video\":false,\"vote_average\":6.952,\"vote_count\":693}"
+}

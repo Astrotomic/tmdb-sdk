@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1537",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20980",
+        "x-memc": "HIT",
+        "x-memc-key": "f832c82582af405732c8e1560bed86d3",
+        "x-memc-age": "6488",
+        "x-memc-expires": "20980",
+        "ETag": "W\/\"1001ef86c5f1a188d111fc67e74e0d45\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VPumunZamuyep0SupvQmT-IHJJjTgI9H-COJeTTau8jKx2mr74xZfw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yBov7O4eXDcBLDpZrOHZzFr8rIl.jpg\",\"belongs_to_collection\":{\"id\":519457,\"name\":\"The Boss Baby Collection\",\"poster_path\":\"\/pHUMxUOHI6sRk4uGSpDdQPM2WaV.jpg\",\"backdrop_path\":\"\/n2opkcFxIGc0plZJs45CAH8IjiF.jpg\"},\"budget\":82000000,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/www.dreamworks.com\/movies\/the-boss-baby-2\",\"id\":459151,\"imdb_id\":\"tt6932874\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Boss Baby: Family Business\",\"overview\":\"The Templeton brothers \u2014 Tim and his Boss Baby little bro Ted \u2014 have become adults and drifted away from each other. But a new boss baby with a cutting-edge approach and a can-do attitude is about to bring them together again \u2026 and inspire a new family business.\",\"popularity\":116.692,\"poster_path\":\"\/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-07-01\",\"revenue\":146745280,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Playtime is over.\",\"title\":\"The Boss Baby: Family Business\",\"video\":false,\"vote_average\":7.385,\"vote_count\":2471}"
+}

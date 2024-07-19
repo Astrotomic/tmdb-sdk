@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "835",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7461",
+        "x-memc": "HIT",
+        "x-memc-key": "778376a7d4ccb9188eeaaa92e534b15d",
+        "x-memc-age": "15045",
+        "x-memc-expires": "7461",
+        "ETag": "W\/\"43902904288971ab1af4dcd9835f7dce\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62e7b24ca032b612bb93fa7f3437469c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rtcufDDWmZBOK8pg9TTICqwx6M4cCioqbxtTH_hDLxUPDUWeA_j7xg=="
+    },
+    "data": "{\"id\":1285270,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1285270-two-scoops-of-italy\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/djTJ7pAkIhmPaN3eTA6wTUrphNG.jpg\",\"provider_id\":606,\"provider_name\":\"StackTV Amazon Channel\",\"display_priority\":79},{\"logo_path\":\"\/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg\",\"provider_id\":257,\"provider_name\":\"fuboTV\",\"display_priority\":97}],\"ads\":[{\"logo_path\":\"\/o2qiZykonJuLglxwBbtUbHu4wIO.jpg\",\"provider_id\":449,\"provider_name\":\"Global TV\",\"display_priority\":49}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1285270-two-scoops-of-italy\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/9BgaNQRMDvVlji1JBZi6tcfxpKx.jpg\",\"provider_id\":257,\"provider_name\":\"fuboTV\",\"display_priority\":8},{\"logo_path\":\"\/2aGrp1xw3qhwCYvNGAJZPdjfeeX.jpg\",\"provider_id\":386,\"provider_name\":\"Peacock\",\"display_priority\":13}]}}}"
+}

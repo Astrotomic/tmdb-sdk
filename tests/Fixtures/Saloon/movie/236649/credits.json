@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "606",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:29:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12201",
+        "x-memc": "HIT",
+        "x-memc-key": "47f1b5088705564dbfab6a034afac011",
+        "x-memc-age": "13692",
+        "x-memc-expires": "12201",
+        "ETag": "W\/\"e79526cbfccbedcc0a77cd2429ea4e63\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 01ff2b265b9f2ac4574d3d644dd9dd26.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3Zcj8IDygSdhRp5pQDKe0JD-8XDONod3DpNKnFyVqiH-4pWanLW1Sw=="
+    },
+    "data": "{\"id\":236649,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":1004823,\"known_for_department\":\"Acting\",\"name\":\"Jack Mercer\",\"original_name\":\"Jack Mercer\",\"popularity\":4.123,\"profile_path\":\"\/lCdwmzQBcgzAYOMXum6zZ4PhSrI.jpg\",\"cast_id\":2,\"character\":\"Popeye (voice) (uncredited)\",\"credit_id\":\"58768144c3a3682d2400080c\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":143463,\"known_for_department\":\"Directing\",\"name\":\"Dave Fleischer\",\"original_name\":\"Dave Fleischer\",\"popularity\":8.119,\"profile_path\":\"\/D1Dcuvwz3zHwe0ByaJqWkImQjs.jpg\",\"credit_id\":\"52fe4e5dc3a36847f828c62b\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

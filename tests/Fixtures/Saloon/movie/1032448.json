@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1129",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=831",
+        "x-memc": "HIT",
+        "x-memc-key": "5c6966930dde14f30a5505b81c94a284",
+        "x-memc-age": "21995",
+        "x-memc-expires": "831",
+        "ETag": "W\/\"547865a568cd9e590e0f7fdd6085d2c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "rM27zGlFnUq2yqumEnGU8y8AYAcq-YePqcS2nVP87uqBsvdCdV01Gg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/3IcJRIjMo4G1A6HtCHiKCUAyfIw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1032448,\"imdb_id\":\"tt21844572\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Jurassic Triangle\",\"overview\":\"A group of colleagues crash land on a mysterious island that they cannot escape. They discover they are not alone when they encounter an array of blood thirsty creatures and dinosaurs out to get them. Will they survive the island?\",\"popularity\":11.134,\"poster_path\":\"\/rjUbgzEONlR9OVhRsgVDuXDiK1x.jpg\",\"production_companies\":[{\"id\":84624,\"logo_path\":\"\/mY4SMEplDeqrLF2kBLShp4qJSvK.png\",\"name\":\"Proportion Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2024-02-13\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A lost island of death.\",\"title\":\"Jurassic Triangle\",\"video\":false,\"vote_average\":1.0,\"vote_count\":0}"
+}

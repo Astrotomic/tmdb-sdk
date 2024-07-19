@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "842",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19500",
+        "x-memc": "HIT",
+        "x-memc-key": "bbfc8357f4422b56f8f7b6c37527816c",
+        "x-memc-age": "4659",
+        "x-memc-expires": "19500",
+        "ETag": "W\/\"6107464bd72f3985e61e8c3cd6b697d1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cUnMxp4DSaRayddU2wdw4eBSeNzq8rUkwBbEuGMlZmHSoLBrgrQXtQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4CMCIoSbDjCd4kEX1cRPvOd63ru.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":870038,\"imdb_id\":null,\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u4e59\u5973\u306f\u304a\u59c9\u3055\u307e\u306b\u604b\u3057\u3066\u308b 3\u3064\u306e\u304d\u3089\u661fThe Animation\",\"overview\":\"\",\"popularity\":3.572,\"poster_path\":\"\/fbNQT8ZFqcCvFHsOcELv7tQJoZK.jpg\",\"production_companies\":[{\"id\":160176,\"logo_path\":null,\"name\":\"EXNOA\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2021-12-24\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Otome wa Boku ni Koishiteru: Trinkle Stars The Animation\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

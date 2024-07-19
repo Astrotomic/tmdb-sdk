@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "860",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:18:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17818",
+        "x-memc": "HIT",
+        "x-memc-key": "589ad60be872869ab69ca198983af25d",
+        "x-memc-age": "10702",
+        "x-memc-expires": "17818",
+        "ETag": "W\/\"1857f6d40ba3f04cf06b671d1d1ff721\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ad4641cb3263eb2a4233d70631a033f6.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Me4osWoHImHYen6wvXkUNJfmRrap73iNMKkWF59cvG7SRSxKNuI8TA=="
+    },
+    "data": "{\"id\":11401,\"results\":{\"CA\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11401-metallica-some-kind-of-monster\/watch?locale=CA\",\"flatrate\":[{\"logo_path\":\"\/eUOFD3Vr0BSV6IfBzUEYLozFXNk.jpg\",\"provider_id\":2158,\"provider_name\":\"Stingray Amazon Channel\",\"display_priority\":158}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}],\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":6}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11401-metallica-some-kind-of-monster\/watch?locale=US\",\"rent\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}],\"buy\":[{\"logo_path\":\"\/9ghgSC0MA082EL6HLCW3GalykFD.jpg\",\"provider_id\":2,\"provider_name\":\"Apple TV\",\"display_priority\":4}]}}}"
+}

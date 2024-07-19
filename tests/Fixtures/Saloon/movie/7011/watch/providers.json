@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "344",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:30:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8774",
+        "x-memc": "HIT",
+        "x-memc-key": "f801de5e1608605d1c20d81181fc5060",
+        "x-memc-age": "17984",
+        "x-memc-expires": "8774",
+        "ETag": "W\/\"403a45bad05ac297937fa6e6662e6e0c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 78720628b37ebf3e33c42dc098252ee8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "FRA56-P7",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TQS9o-3kcowRXfGwdU4IUaHnughndLJ2fxGzYc4TvPPFjNdjJpBj9A=="
+    },
+    "data": "{\"id\":7011,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/7011-joey\/watch?locale=US\",\"ads\":[{\"logo_path\":\"\/wQzSN83BnWVgO7xEh0SeTVqtrFv.jpg\",\"provider_id\":207,\"provider_name\":\"The Roku Channel\",\"display_priority\":27},{\"logo_path\":\"\/zLYr7OPvpskMA4S79E3vlCi71iC.jpg\",\"provider_id\":73,\"provider_name\":\"Tubi TV\",\"display_priority\":46}]}}}"
+}

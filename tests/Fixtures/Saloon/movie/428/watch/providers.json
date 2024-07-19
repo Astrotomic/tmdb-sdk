@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "965",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:08:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18534",
+        "x-memc": "HIT",
+        "x-memc-key": "495b3a587717ce55975a09672343d641",
+        "x-memc-age": "7352",
+        "x-memc-expires": "18534",
+        "ETag": "W\/\"64630863db057c237aefbf5abff9e4b1\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lgIwu6oZM7S4MSet5_amyYWD7kViD481MPqk7gibBj6zVwJgN82gTQ=="
+    },
+    "data": "{\"id\":428,\"results\":{\"DE\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/428-sommer-04\/watch?locale=DE\",\"free\":[{\"logo_path\":\"\/p1mlqlIOtPPZf7lckxX3XLAm2ia.jpg\",\"provider_id\":1723,\"provider_name\":\"AVA HBZ\",\"display_priority\":80}],\"flatrate\":[{\"logo_path\":\"\/s7ZjSKXOtjKBb7hAzBm3b0iY0SG.jpg\",\"provider_id\":1891,\"provider_name\":\"alleskino Amazon Channel\",\"display_priority\":123}]},\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/428-sommer-04\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/fj9Y8iIMFUC6952HwxbGixTQPb7.jpg\",\"provider_id\":11,\"provider_name\":\"MUBI\",\"display_priority\":69},{\"logo_path\":\"\/a4IDLKjvP5gvq7tNlg2Xw5YyEkI.jpg\",\"provider_id\":201,\"provider_name\":\"MUBI Amazon Channel\",\"display_priority\":105}],\"rent\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}],\"buy\":[{\"logo_path\":\"\/i6lRmkKmJ23oOZ6IyjnOYLKxA9J.jpg\",\"provider_id\":7,\"provider_name\":\"Fandango At Home\",\"display_priority\":40}]}}}"
+}

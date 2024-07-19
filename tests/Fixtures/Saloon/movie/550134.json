@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1320",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2280",
+        "x-memc": "HIT",
+        "x-memc-key": "ace5b0ba116c708fcafe70775c5f7d24",
+        "x-memc-age": "25890",
+        "x-memc-expires": "2280",
+        "ETag": "W\/\"7b25388dc9598a35898554b137e6c7c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wszrhh4YGeE_hTLbqCoxjReePVNztldzGhImjXX1jFdfSF188EDtYg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lN73JGB12ih5VBwLBjBYSgcFE1O.jpg\",\"belongs_to_collection\":null,\"budget\":3000000,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"http:\/\/www.saradanmedia.co.uk\/films\/attrition\/\",\"id\":550134,\"imdb_id\":\"tt5465970\",\"origin_country\":[\"HK\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Attrition\",\"overview\":\"When a Thai girl with mythical powers goes missing, Axe and his old team unite in attempts to bring her back.\",\"popularity\":12.389,\"poster_path\":\"\/wrMbljFWCaHBojYYAc1hN3EwzEN.jpg\",\"production_companies\":[{\"id\":109196,\"logo_path\":null,\"name\":\"Sivko Partners\",\"origin_country\":\"\"},{\"id\":3495,\"logo_path\":null,\"name\":\"Steamroller Productions\",\"origin_country\":\"\"},{\"id\":116404,\"logo_path\":null,\"name\":\"BlackOps Studios Asia\",\"origin_country\":\"PH\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"HK\",\"name\":\"Hong Kong\"},{\"iso_3166_1\":\"TH\",\"name\":\"Thailand\"}],\"release_date\":\"2018-09-24\",\"revenue\":0,\"runtime\":85,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A story of kung fu and honor\",\"title\":\"Attrition\",\"video\":false,\"vote_average\":4.702,\"vote_count\":47}"
+}

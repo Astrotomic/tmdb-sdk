@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1417",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14944",
+        "x-memc": "HIT",
+        "x-memc-key": "0f748933cd384a0c5a57e59e31912dd5",
+        "x-memc-age": "12451",
+        "x-memc-expires": "14944",
+        "ETag": "W\/\"ddcd67731e1a3599ba9b8badb7c17912\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "KvJ8sDOySBWHZYVvVZpE6VaFblNbyZHf0WahJkAiIh4ptN36cPZH4A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xwdtogd2m2aTJiC2lTel17vlcGj.jpg\",\"belongs_to_collection\":{\"id\":645,\"name\":\"James Bond Collection\",\"poster_path\":\"\/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg\",\"backdrop_path\":\"\/rggeBvlUAww5ggjpjJ8fWbbdA0s.jpg\"},\"budget\":5500000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.mgm.com\/movies\/thunderball\",\"id\":660,\"imdb_id\":\"tt0059800\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Thunderball\",\"overview\":\"A criminal organization has obtained two nuclear bombs and are asking for a 100 million pound ransom in the form of diamonds in seven days or they will use the weapons. The secret service sends James Bond to the Bahamas to once again save the world.\",\"popularity\":50.071,\"poster_path\":\"\/wCc4qllaTDsQN8zgGkAgQrKO6N9.jpg\",\"production_companies\":[{\"id\":7576,\"logo_path\":\"\/oYcUi1byZ312Z3xiz5ojz9RQLND.png\",\"name\":\"EON Productions\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1965-12-11\",\"revenue\":141195658,\"runtime\":130,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"Look up! Look down! Look out! Here comes the biggest Bond of all!\",\"title\":\"Thunderball\",\"video\":false,\"vote_average\":6.654,\"vote_count\":2233}"
+}

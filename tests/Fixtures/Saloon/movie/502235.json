@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "949",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11295",
+        "x-memc": "HIT",
+        "x-memc-key": "3ae3c26b153f2e9914da24eb36335406",
+        "x-memc-age": "10378",
+        "x-memc-expires": "11295",
+        "ETag": "W\/\"482a66c8c337c3c7b1b36b8aabfcede7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Y3zR1r2rUb6ZY9iWUZyGudWLME5kKiLhf1s-hYkxlsIShks1SG3QGw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a9CTKhiM7U4iq6PYFkJ2OVLsxIV.jpg\",\"belongs_to_collection\":{\"id\":1018161,\"name\":\"Purpose of Reunion Collection\",\"poster_path\":\"\/2XCnwbabhSufpswCoaatVRMrI6L.jpg\",\"backdrop_path\":\"\/oYPesOM3lQ5XF8e8xgBHxtSOwiQ.jpg\"},\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":502235,\"imdb_id\":null,\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\ub3d9\ucc3d\ud68c\uc758 \ubaa9\uc801 3\",\"overview\":\"Sung-hyeon reunites with first love, Jin-hye at a class reunion.\",\"popularity\":40.495,\"poster_path\":\"\/nEwZspwNTkYkV75rvKlfGmvQTyr.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2018-02-20\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Purpose of Reunion 3\",\"video\":false,\"vote_average\":5.3,\"vote_count\":9}"
+}

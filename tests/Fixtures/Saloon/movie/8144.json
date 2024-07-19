@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1245",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:54:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11343",
+        "x-memc": "HIT",
+        "x-memc-key": "59a96a142e2c681011fd03c24fadae9d",
+        "x-memc-age": "14737",
+        "x-memc-expires": "11343",
+        "ETag": "W\/\"d4f8c1dac4c51c3824b7670c20312f5f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a74cbe062c9465931012948f56ea9e24.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QnnmQ44EQeOxvwzW_ED7GgjwjmHojsL-A_o7RxhyowAakhoXrRQyig=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sXK8PIoMs10OVufKUDz3VoxhQoN.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"}],\"homepage\":\"\",\"id\":8144,\"imdb_id\":\"tt0065367\",\"origin_country\":[\"IT\",\"ES\"],\"original_language\":\"it\",\"original_title\":\"Abre tu fosa, amigo, llega S\u00e1bata...\",\"overview\":\"Steve McGowan has proposed to avenge the death of his father, murdered by one of the followers of Chief Miller. This engages the services of a famous gunslinger called Sabata and instructs him to  kill Steve. The fate joins Steve and the Mexican bandit Leon Pompero, and together they decide to defeat the murderous gunman.\",\"popularity\":3.832,\"poster_path\":\"\/dde9Cl4Zw9VJxlYXMngp1uMqug3.jpg\",\"production_companies\":[{\"id\":9152,\"logo_path\":null,\"name\":\"Devon Film\",\"origin_country\":\"IT\"},{\"id\":16675,\"logo_path\":null,\"name\":\"IFI Producci\u00f3n S.A.\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1971-04-02\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dig Your Grave Friend... Sabata's Coming\",\"video\":false,\"vote_average\":5.6,\"vote_count\":7}"
+}

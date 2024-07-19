@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1037",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=64",
+        "x-memc": "HIT",
+        "x-memc-key": "12a3ccfffa61a8cfab33c5fa6a0516ed",
+        "x-memc-age": "28473",
+        "x-memc-expires": "64",
+        "ETag": "W\/\"a98ce93031388a8d105f0f6cf575bf11\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tmQMMqGxlSzrU9Ja-qfrpgdn3jinNgi7Ex6ULsuSRMu9PuzIaCwXLw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/1aVBGrOCQqv2C2Id4SIf2SWYBIR.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":1022705,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Judge Dredd: Superfiend Director's Cut\",\"overview\":\"Short film that presents an alternate take on the origins of Judge Dredd's arch-nemesis - a demonic creature known as Judge Death that sees life itself as a crime. Can Dredd survive a clash with such foe and save his niece?\",\"popularity\":2.41,\"poster_path\":\"\/wqdP4H4yxfTPZh98VYDTINV8rV5.jpg\",\"production_companies\":[{\"id\":169582,\"logo_path\":null,\"name\":\"Bootleg Universe\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2016-06-04\",\"revenue\":0,\"runtime\":27,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Judge Dredd: Superfiend Director's Cut\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

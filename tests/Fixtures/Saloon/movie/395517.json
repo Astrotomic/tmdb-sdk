@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "768",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5590",
+        "x-memc": "HIT",
+        "x-memc-key": "c7b87f029bb1f8b8f21cdd0a7a2346eb",
+        "x-memc-age": "18385",
+        "x-memc-expires": "5590",
+        "ETag": "W\/\"3c53a09bfc67b15f86eacc410ae6395f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0eRRV_f-ntIah9wrEBke4oVWGkeNzy7MsSM28D7kEgCSnAxeRxZmrg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":395517,\"imdb_id\":\"tt2998248\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Digging to China\",\"overview\":\"Slated for inclusions on the Boston based Infinity Factory educational program alongside Map Projections, Digging to China explores a familiar childhood activity on a global scale.\",\"popularity\":2.002,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-05-01\",\"revenue\":0,\"runtime\":1,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Digging to China\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

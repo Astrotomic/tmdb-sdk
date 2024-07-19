@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1394",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:14:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22983",
+        "x-memc": "HIT",
+        "x-memc-key": "0dd29ae7b7708ceabf009d49ae7cdf58",
+        "x-memc-age": "2385",
+        "x-memc-expires": "22983",
+        "ETag": "W\/\"288ba620d519ece38313929f790a1b6d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3qrjFnESH3lmRQNc_NMiOq5iI0VQSHvx2rZm04vzB3KzFGSZ7XXEcA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mabuNsGJgRuCTuGqjFkWe1xdu19.jpg\",\"belongs_to_collection\":{\"id\":468222,\"name\":\"The Incredibles Collection\",\"poster_path\":\"\/xMX1jZyObVeWUxDQmt53X6jzIO4.jpg\",\"backdrop_path\":\"\/6oi6V1O9MJRNnfV8E9JMntmFqBD.jpg\"},\"budget\":200000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"https:\/\/movies.disney.com\/incredibles-2\",\"id\":260513,\"imdb_id\":\"tt3606756\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Incredibles 2\",\"overview\":\"Elastigirl springs into action to save the day, while Mr. Incredible faces his greatest challenge yet \u2013 taking care of the problems of his three children.\",\"popularity\":80.392,\"poster_path\":\"\/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":3,\"logo_path\":\"\/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png\",\"name\":\"Pixar\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-06-14\",\"revenue\":1242805359,\"runtime\":118,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's time to get back to being incredible.\",\"title\":\"Incredibles 2\",\"video\":false,\"vote_average\":7.467,\"vote_count\":12605}"
+}

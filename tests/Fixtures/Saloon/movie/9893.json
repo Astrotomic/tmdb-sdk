@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1471",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=26299",
+        "x-memc": "HIT",
+        "x-memc-key": "348e4a0425385ec4337164fbcb10ec78",
+        "x-memc-age": "1548",
+        "x-memc-expires": "26299",
+        "ETag": "W\/\"11943fbd1d1510ac0cd4bd03d190a254\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wFUqDiTT08zVF_M3lJXRuJe83miZQbhcBtWiXnUPtm0vP7Js3v3yQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/u5cU8OGFjM1fD79rKH6e5V1zOLm.jpg\",\"belongs_to_collection\":null,\"budget\":10000000,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":9893,\"imdb_id\":\"tt0368975\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sleepover\",\"overview\":\"As their first year of high school looms ahead, best friends Julie, Hannah, Yancy and Farrah have one last summer sleepover. Little do they know they're about to embark on the adventure of a lifetime. Desperate to shed their nerdy status, they take part in a night-long scavenger hunt that pits them against their popular archrivals. Everything under the sun goes on -- from taking Yancy's father's car to sneaking into nightclubs!\",\"popularity\":24.765,\"poster_path\":\"\/p9CyHjVFCQfjhLfn9Xo0WPpYHQr.jpg\",\"production_companies\":[{\"id\":21,\"logo_path\":\"\/usUnaYV6hQnlVAXP6r4HwrlLFPG.png\",\"name\":\"Metro-Goldwyn-Mayer\",\"origin_country\":\"US\"},{\"id\":7741,\"logo_path\":null,\"name\":\"Landscape Entertainment\",\"origin_country\":\"\"},{\"id\":16946,\"logo_path\":null,\"name\":\"Weinstock Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-07-09\",\"revenue\":10143022,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The rules are set. The game is on.\",\"title\":\"Sleepover\",\"video\":false,\"vote_average\":6.0,\"vote_count\":469}"
+}

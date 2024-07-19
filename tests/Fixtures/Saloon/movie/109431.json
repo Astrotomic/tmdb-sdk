@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1367",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:11 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14840",
+        "x-memc": "HIT",
+        "x-memc-key": "77b98f3683552b52df82520130c6c409",
+        "x-memc-age": "8579",
+        "x-memc-expires": "14840",
+        "ETag": "W\/\"c3046dbb4ca6acd0ce9a0985b2e6fde0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "w_Zn_Cg-rg5jLIS1pDQEYxNL9RUTdL6iv80qq5XMDvrlbLaGWUyXTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lDc6JPsXm9ARe9w9PC9qegqYs94.jpg\",\"belongs_to_collection\":null,\"budget\":35000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"http:\/\/www.identitythiefmovie.com\",\"id\":109431,\"imdb_id\":\"tt2024432\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Identity Thief\",\"overview\":\"When a mild-mannered businessman learns his identity has been stolen, he hits the road in an attempt to foil the thief -- a trip that puts him in the path of a deceptively harmless-looking woman.\",\"popularity\":52.107,\"poster_path\":\"\/lIliJCGoWT6tEVaDivLpXEf038w.jpg\",\"production_companies\":[{\"id\":4403,\"logo_path\":null,\"name\":\"Stuber Pictures\",\"origin_country\":\"US\"},{\"id\":37361,\"logo_path\":\"\/xpbUNXnrMeEK1ynbqVnHp8ZOVKW.png\",\"name\":\"Aggregate Films\",\"origin_country\":\"US\"},{\"id\":37362,\"logo_path\":null,\"name\":\"DumbDumb\",\"origin_country\":\"\"},{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2013-02-07\",\"revenue\":173965010,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"She's having the time of his life\",\"title\":\"Identity Thief\",\"video\":false,\"vote_average\":5.864,\"vote_count\":3260}"
+}

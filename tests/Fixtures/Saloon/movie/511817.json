@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1276",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13465",
+        "x-memc": "HIT",
+        "x-memc-key": "f91dd90842f7f10bcc34d9af53d796fb",
+        "x-memc-age": "13374",
+        "x-memc-expires": "13465",
+        "ETag": "W\/\"f80e3c0fbcce8566c97c504083ab2cf8\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HKo0s-fzc7R2CfhQasoRQVQ-fdVuraUCMfqLmeB6-UtqnJrQYCWxNg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/apBUC70udhxoLzXo7DqclQ6gcXo.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/80231433\",\"id\":511817,\"imdb_id\":\"tt5181830\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wendell & Wild\",\"overview\":\"Two demon brothers enlist the aid of Kat Elliot \u2014 a tough teen with a load of guilt \u2014 to summon them to the Land of the Living. But what Kat demands in return leads to a brilliantly bizarre and comedic adventure like no other.\",\"popularity\":23.873,\"poster_path\":\"\/s7XxXJ7ponaLAkxiySRxox2Ssc4.jpg\",\"production_companies\":[{\"id\":3672,\"logo_path\":\"\/xpRwVe9NL5791oyUidzeRp8ezGj.png\",\"name\":\"The Gotham Group\",\"origin_country\":\"US\"},{\"id\":88934,\"logo_path\":\"\/5Be96V9WXa7jJInSDPqDOqMBA0o.png\",\"name\":\"Monkeypaw Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-10-21\",\"revenue\":0,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Wendell & Wild\",\"video\":false,\"vote_average\":6.73,\"vote_count\":307}"
+}

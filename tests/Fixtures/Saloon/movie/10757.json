@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1438",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11270",
+        "x-memc": "HIT",
+        "x-memc-key": "2a98029df63aef4a48754edd9c6bcfc2",
+        "x-memc-age": "15934",
+        "x-memc-expires": "11270",
+        "ETag": "W\/\"c9d4890783bdea96008ab6cef2930d5b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ojq5rg7CvspW-TVz4AKtZhnDxbwVn120HFXwsn8hwAIkj-rX2iIWJQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/42vFebJ0VRnwdemaUOIr7c6Tjo1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10757,\"imdb_id\":\"tt0248126\",\"origin_country\":[\"IN\",\"GB\"],\"original_language\":\"hi\",\"original_title\":\"\u0915\u092d\u0940 \u0916\u093c\u0941\u0936\u0940 \u0915\u092d\u0940 \u0917\u093c\u092e\",\"overview\":\"Years after his father disowns his adopted brother for marrying a woman of lower social standing, a young man goes on a mission to reunite his family.\",\"popularity\":24.277,\"poster_path\":\"\/lRl7wrJmkOzMTDVYFSIpUcsIjPQ.jpg\",\"production_companies\":[{\"id\":19146,\"logo_path\":\"\/5Ff25ornzVNhm5skuAvMAR556NB.png\",\"name\":\"Dharma Productions\",\"origin_country\":\"IN\"},{\"id\":1569,\"logo_path\":\"\/lvzN86o3jrP44DIvn4SMBLOl9PF.png\",\"name\":\"Yash Raj Films\",\"origin_country\":\"IN\"},{\"id\":120404,\"logo_path\":null,\"name\":\"British Film Commission\",\"origin_country\":\"GB\"},{\"id\":209899,\"logo_path\":null,\"name\":\"K3G Films Limited\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2001-12-14\",\"revenue\":0,\"runtime\":209,\"spoken_languages\":[{\"english_name\":\"Hindi\",\"iso_639_1\":\"hi\",\"name\":\"\u0939\u093f\u0928\u094d\u0926\u0940\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It's all about loving your parents.\",\"title\":\"Kabhi Khushi Kabhie Gham\",\"video\":false,\"vote_average\":7.743,\"vote_count\":527}"
+}

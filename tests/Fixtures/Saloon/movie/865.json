@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1832",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:21:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=21847",
+        "x-memc": "HIT",
+        "x-memc-key": "ffc1900a1e590216d16760f63fe8275f",
+        "x-memc-age": "5168",
+        "x-memc-expires": "21847",
+        "ETag": "W\/\"2ad7204e9fc3496eac74fa339ec484f7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "AvjHdxLnmawt4ueoLqMFhDDQ9qnzDBZGBc0DuB3hGT1js_FcBz_stA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rwfuTHx9pHi40QnWLSiIPtYyQAs.jpg\",\"belongs_to_collection\":null,\"budget\":27000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":865,\"imdb_id\":\"tt0093894\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Running Man\",\"overview\":\"By 2017, the global economy has collapsed and U.S. society has become a totalitarian police state, censoring all cultural activity. The government pacifies the populace by broadcasting a number of game shows in which convicted criminals fight for their lives, including the gladiator-style The Running Man, hosted by the ruthless Damon Killian, where \u201crunners\u201d attempt to evade \u201cstalkers\u201d and certain death for a chance to be pardoned and set free.\",\"popularity\":43.34,\"poster_path\":\"\/GTAUOhO4BN0peJVvxGEQydJvUO.jpg\",\"production_companies\":[{\"id\":23005,\"logo_path\":null,\"name\":\"Braveworld Productions\",\"origin_country\":\"\"},{\"id\":964,\"logo_path\":null,\"name\":\"Keith Barish Productions\",\"origin_country\":\"\"},{\"id\":965,\"logo_path\":null,\"name\":\"TAFT Entertainment Pictures\",\"origin_country\":\"\"},{\"id\":559,\"logo_path\":\"\/eC0bWHVjnjUducyA6YFoEFqnPMC.png\",\"name\":\"TriStar Pictures\",\"origin_country\":\"US\"},{\"id\":3268,\"logo_path\":\"\/tuomPhY2UtuPTqqFnKMVHvSb724.png\",\"name\":\"HBO\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-11-13\",\"revenue\":38122105,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It is the year 2019. \\\"The Running Man\\\" is a deadly game no one has ever survived. But Schwarzenegger has yet to play.\",\"title\":\"The Running Man\",\"video\":false,\"vote_average\":6.527,\"vote_count\":2286}"
+}

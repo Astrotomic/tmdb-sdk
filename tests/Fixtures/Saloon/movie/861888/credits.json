@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1328",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:31:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3447",
+        "x-memc": "HIT",
+        "x-memc-key": "856fdaa8e3ea75e87f6bd2b0dd65b8c9",
+        "x-memc-age": "22309",
+        "x-memc-expires": "3447",
+        "ETag": "W\/\"7b578bc44baed82a504789414ffce5da\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eL8TazeHT4PO8SCAgwGrXMACsVE784belNJhJiYJYVhb7CDiYE2XMQ=="
+    },
+    "data": "{\"id\":861888,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":1616058,\"known_for_department\":\"Acting\",\"name\":\"Anna Rizzo\",\"original_name\":\"Anna Rizzo\",\"popularity\":3.321,\"profile_path\":\"\/vCZdaxYDG9eH5yq42m5LmfRut1c.jpg\",\"cast_id\":1,\"character\":\"\",\"credit_id\":\"611d4713ca8354004734c722\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":3203050,\"known_for_department\":\"Acting\",\"name\":\"Laura Minadeo\",\"original_name\":\"Laura Minadeo\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"611d47366c19ea007fb7ac64\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3203051,\"known_for_department\":\"Writing\",\"name\":\"Jennifer Rae Grossman\",\"original_name\":\"Jennifer Rae Grossman\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611d4748d1a893007251b075\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":0,\"id\":3203051,\"known_for_department\":\"Writing\",\"name\":\"Jennifer Rae Grossman\",\"original_name\":\"Jennifer Rae Grossman\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611d4753665408005e13ec36\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":3203051,\"known_for_department\":\"Writing\",\"name\":\"Jennifer Rae Grossman\",\"original_name\":\"Jennifer Rae Grossman\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"611d47623a4a120075b1b818\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

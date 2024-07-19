@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "949",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:25 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16026",
+        "x-memc": "HIT",
+        "x-memc-key": "2a5c0a2a705f6ad8200d2db119ba051c",
+        "x-memc-age": "11731",
+        "x-memc-expires": "16026",
+        "ETag": "W\/\"9b5583f06b3c0cf2f55f53cba71f373a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yAtE0zPlgdR3TA-il1sxuJ9SVAEnzRvrAXdfDDQSUqfd4_csfDxT-A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":800,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":1188152,\"imdb_id\":\"tt4824172\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Code Name: Iron Knight\",\"overview\":\"Code Name: Iron Knight is a spin-off of the comic book Iron City Chronicles. This is a what-if story. The Iron Knight is a super-police agent with superhero-like powers.\",\"popularity\":3.605,\"poster_path\":\"\/30whc8PpWhhSRkMBoCHZz8x4Fj1.jpg\",\"production_companies\":[{\"id\":210367,\"logo_path\":null,\"name\":\"Wan Wan Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2015-05-05\",\"revenue\":0,\"runtime\":12,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Code Name: Iron Knight\",\"video\":false,\"vote_average\":1.0,\"vote_count\":1}"
+}

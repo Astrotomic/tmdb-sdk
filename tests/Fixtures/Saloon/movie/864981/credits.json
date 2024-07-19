@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "503",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:28:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4130",
+        "x-memc": "HIT",
+        "x-memc-key": "bda405f0cc3849ac37c4e5e271bdb037",
+        "x-memc-age": "20668",
+        "x-memc-expires": "4130",
+        "ETag": "W\/\"cce11fc4d5717b0f8df581be78e496ac\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6a54dcffe5d00f977158c1a1ce738c94.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9HFiypCEWy5nlbqoQAaFhnN5GZgy0qc_1aIOpDl9HUfJSdx13B5JKQ=="
+    },
+    "data": "{\"id\":864981,\"cast\":[{\"adult\":false,\"gender\":1,\"id\":4347141,\"known_for_department\":\"Acting\",\"name\":\"Aika Miyazaki\",\"original_name\":\"Aika Miyazaki\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":2,\"character\":\"\",\"credit_id\":\"653ed9f9e894a6013a9cd85a\",\"order\":0}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3210216,\"known_for_department\":\"Directing\",\"name\":\"Ryo\",\"original_name\":\"Ryo\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"61245dd35346610028cb0825\",\"department\":\"Directing\",\"job\":\"Director\"}]}"
+}

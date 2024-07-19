@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1479",
+        "Connection": "keep-alive",
+        "Date": "Thu, 18 Jul 2024 16:19:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13786",
+        "x-memc": "HIT",
+        "x-memc-key": "d09b4365056bda29428c7fe4e42e19f3",
+        "x-memc-age": "10468",
+        "x-memc-expires": "13786",
+        "ETag": "W\/\"25e51d6784483d8ac811d84c0b927a4d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hgZd7A0jrwCzyVjtch-nMDnwWQX269Gwg0BPhhEYkg8DmbwNa43gZQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xZ2we4gdiwQmg6D1w9qHlAm5yIf.jpg\",\"belongs_to_collection\":{\"id\":2150,\"name\":\"Shrek Collection\",\"poster_path\":\"\/m3IA3X59cEup41xs4DJLptlfsza.jpg\",\"backdrop_path\":\"\/gMWrKQjoTIpYjhc8SxZF20EDIES.jpg\"},\"budget\":165000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"http:\/\/www.shrekforeverafter.com\/\",\"id\":10192,\"imdb_id\":\"tt0892791\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shrek Forever After\",\"overview\":\"A bored and domesticated Shrek pacts with deal-maker Rumpelstiltskin to get back to feeling like a real ogre again, but when he's duped and sent to a twisted version of Far Far Away\u2014where Rumpelstiltskin is king, ogres are hunted, and he and Fiona have never met\u2014he sets out to restore his world and reclaim his true love.\",\"popularity\":150.064,\"poster_path\":\"\/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg\",\"production_companies\":[{\"id\":521,\"logo_path\":\"\/kP7t6RwGz2AvvTkvnI1uteEwHet.png\",\"name\":\"DreamWorks Animation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-05-16\",\"revenue\":752600867,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"It ain't ogre...til it's ogre.\",\"title\":\"Shrek Forever After\",\"video\":false,\"vote_average\":6.379,\"vote_count\":7165}"
+}

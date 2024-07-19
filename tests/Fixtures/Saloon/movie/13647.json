@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1583",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1755",
+        "x-memc": "HIT",
+        "x-memc-key": "bfb2b5b572dca1465243332e4f898874",
+        "x-memc-age": "26264",
+        "x-memc-expires": "1755",
+        "ETag": "W\/\"c3328d4d761e30d582fb6b17565a5a9f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "0ckpH7_eUNIVd81JabQhPvVePpA7_Jk3CdgMj1rxO8w4tA96J1XfMQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w4ZNZC0ncypkYVlaLNlAbdJHni2.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":14,\"name\":\"Fantasy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":13647,\"imdb_id\":\"tt0903135\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Invincible Iron Man\",\"overview\":\"When a cocky industrialist's efforts to raise an ancient Chinese temple leads him to be seriously wounded and captured by enemy forces, he must use his ideas for a revolutionary power armor in order to fight back as a superhero.\",\"popularity\":14.135,\"poster_path\":\"\/eebNTSRa5Hh5skPKGdGJIJpo9Ls.jpg\",\"production_companies\":[{\"id\":212999,\"logo_path\":null,\"name\":\"MLG Productions 3\",\"origin_country\":\"US\"},{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"},{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":7505,\"logo_path\":\"\/837VMM4wOkODc1idNxGT0KQJlej.png\",\"name\":\"Marvel Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2007-01-23\",\"revenue\":0,\"runtime\":83,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Lone Warrior. A Suit of Armor. Our Only Hope. IRON MAN.\",\"title\":\"The Invincible Iron Man\",\"video\":false,\"vote_average\":6.131,\"vote_count\":225}"
+}

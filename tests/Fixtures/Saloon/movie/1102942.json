@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1141",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9936",
+        "x-memc": "HIT",
+        "x-memc-key": "acf7ec464454dbe44d1fcf649a5e75eb",
+        "x-memc-age": "12995",
+        "x-memc-expires": "9936",
+        "ETag": "W\/\"5936f0c350b11bccaaec3018f2c0b2e2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FVWV2oHP2WjkH9z6m5XRcKqRWxQu7SD4_RH1ol4dzN6f0Ssrx5BWMA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1102942,\"imdb_id\":\"tt30221782\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Drowning\",\"overview\":\"A plane crashes in the Pacific Ocean six minutes after takeoff, and is flooded after an explosion during evacuation. A dozen survivors sink in a sealed part of the aircraft as it perches precariously on an undersea cliff 200 feet below the surface. Among them is an engineer and his 11-year old daughter.\",\"popularity\":2.014,\"poster_path\":null,\"production_companies\":[{\"id\":122772,\"logo_path\":null,\"name\":\"The Story Factory\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Planned\",\"tagline\":\"\",\"title\":\"Drowning\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

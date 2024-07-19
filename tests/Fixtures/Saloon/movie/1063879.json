@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "902",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17723",
+        "x-memc": "HIT",
+        "x-memc-key": "b68180441e67e8842563218304951156",
+        "x-memc-age": "5775",
+        "x-memc-expires": "17723",
+        "ETag": "W\/\"c0a075bc0acc1731d9be9e42330e1489\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 53a0f975e2490ceb7823ef71fea7315a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OOgD02LzY4pgdIQN1X0LCqmHC_Wrx2FkwIyedeefaYDhe2Y7O4gctQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/k0ucFBBgSDTXYU8fVHXJyjAuIIe.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":1063879,\"imdb_id\":\"tt26744289\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Vermines\",\"overview\":\"Residents of a rundown French apartment building battle against an army of deadly, rapidly reproducing spiders.\",\"popularity\":94.219,\"poster_path\":\"\/dY98PkUAbIGUUg0FhXEcOkbzHIZ.jpg\",\"production_companies\":[{\"id\":125339,\"logo_path\":\"\/1qMAzaB915azuJioe5FtHJXFL9A.png\",\"name\":\"My Box Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2023-12-27\",\"revenue\":2110014,\"runtime\":106,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Infested\",\"video\":false,\"vote_average\":6.776,\"vote_count\":285}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1484",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:12 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16802",
+        "x-memc": "HIT",
+        "x-memc-key": "ed2481c34c706bf19cd1fc426fc47393",
+        "x-memc-age": "4913",
+        "x-memc-expires": "16802",
+        "ETag": "W\/\"01a87c91ccee24d90e06fcaca58b2d3d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "UKHVcBMEmhqsx1kVOGfO8iNhC5HW8jjNqJHG0EiJUL0c7JAeW_rHEQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":500,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":268269,\"imdb_id\":\"tt3232606\",\"origin_country\":[\"RS\"],\"original_language\":\"sr\",\"original_title\":\"Naprata\",\"overview\":\"Inspired by an infamous online video clip of a son beating his mother, a television crew from Belgrade comes to a remote Serbian village to shoot a report on violence against women. Inquiring with the locals about the protagonists of the video, they encounter a local expert on supernatural phenomena and learn about a ritual of summoning an ancient demon, naprata. Wanting to capture the first authentic footage of something otherworldly, they change their plans. Excited by the prospective success of the recording, they defy the old saying that \\\"it's better to believe than to be convinced.\\\"\",\"popularity\":1.559,\"poster_path\":\"\/bq8RkZGnWtpwGCsGFpCACwmKYKH.jpg\",\"production_companies\":[{\"id\":22887,\"logo_path\":null,\"name\":\"Panzova Pictures\",\"origin_country\":\"RS\"},{\"id\":22888,\"logo_path\":null,\"name\":\"\u0160umadija Film\",\"origin_country\":\"RS\"},{\"id\":22885,\"logo_path\":null,\"name\":\"Omaja\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"RS\",\"name\":\"Serbia\"}],\"release_date\":\"2013-10-16\",\"revenue\":0,\"runtime\":65,\"spoken_languages\":[{\"english_name\":\"Serbian\",\"iso_639_1\":\"sr\",\"name\":\"Srpski\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Naprata\",\"video\":false,\"vote_average\":4.5,\"vote_count\":3}"
+}

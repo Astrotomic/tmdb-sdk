@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1260",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25084",
+        "x-memc": "HIT",
+        "x-memc-key": "43d7cdedd5c61cb14c9a4d57dc937fc3",
+        "x-memc-age": "910",
+        "x-memc-expires": "25084",
+        "ETag": "W\/\"c471a7ccea9342730827b8fdc9d57200\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "mtHFG-wD_3KJkwkBQZwrN8ZVc41-nPxyG-4TrNgmIApg56jIDyWs1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dyVgc1iNnNabxvfjNXt6A5HSigw.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":10770,\"name\":\"TV Movie\"}],\"homepage\":\"http:\/\/www.insightfilm.com\/toocool.html\",\"id\":66106,\"imdb_id\":\"tt0431438\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"A Very Cool Christmas\",\"overview\":\"16 year-old Lindsay decides to give Santa Claus an extreme makeover.\",\"popularity\":4.701,\"poster_path\":\"\/1yjcH6lzJJAVooVngS2UgPPKZsU.jpg\",\"production_companies\":[{\"id\":4679,\"logo_path\":null,\"name\":\"Shavick Entertainment\",\"origin_country\":\"\"},{\"id\":2865,\"logo_path\":\"\/5O0gp5QS3n9ZPRvWFxaWa6QPpGX.png\",\"name\":\"Insight Film Studios\",\"origin_country\":\"CA\"},{\"id\":1341,\"logo_path\":null,\"name\":\"Regent Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2004-11-15\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Too cool for her family. Too cool for school. And way too cool for Christmas.\",\"title\":\"A Very Cool Christmas\",\"video\":false,\"vote_average\":4.0,\"vote_count\":16}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1131",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11905",
+        "x-memc": "HIT",
+        "x-memc-key": "5b3e1ec71f5cf9369dfca1e7fe32eb3f",
+        "x-memc-age": "16569",
+        "x-memc-expires": "11905",
+        "ETag": "W\/\"70e34c02bcb287e7c88139349e05cbdc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3fWn5CNOhXayMYIMG6H8YwEYEk5Z8h4fmtaCJenBIPKwu1809QzvNw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":387001,\"imdb_id\":\"tt0033402\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Blonde from Singapore\",\"overview\":\"Fortune hunter Mary Brooks, posing as a missionary's daughter, strives to beat a couple of pilots, Terry Prescott and \\\"Waffles\\\" Billings, (who have turned pearl divers in order to buy a plane and join the Royal Air Force), out of their pearls, while also beating off the advances of Prince Sali who wants to add her to his harem.\",\"popularity\":2.511,\"poster_path\":\"\/p4ESmCmLRcHW9cnB0hfBTaXH1Vu.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1941-10-15\",\"revenue\":0,\"runtime\":69,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Blonde from Singapore\",\"video\":false,\"vote_average\":5.0,\"vote_count\":3}"
+}

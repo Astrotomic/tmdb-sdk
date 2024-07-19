@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1866",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:33:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2471",
+        "x-memc": "HIT",
+        "x-memc-key": "1fb4400115768b6280a028f29b21ede6",
+        "x-memc-age": "25226",
+        "x-memc-expires": "2471",
+        "ETag": "W\/\"c6eee31cd38d7d79f779c7b9f3ed7160\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "fJsjOGEkJo-q3dCvz2pWfsu7SNjU-czErWYW30IUWEzc0FYj4S_zTg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/maxRhndtC4BJABvqRPvYNu69CHA.jpg\",\"belongs_to_collection\":null,\"budget\":23000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"https:\/\/theavenue.film\/movies\/medieval\",\"id\":551271,\"imdb_id\":\"tt8883486\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Medieval\",\"overview\":\"The story of fifteenth century Czech icon and warlord, Jan Zizka, who defeated armies of the Teutonic Order and the Holy Roman Empire.\",\"popularity\":44.914,\"poster_path\":\"\/eeUNWsdoiOijOZAMaWFDA5Pb1n8.jpg\",\"production_companies\":[{\"id\":185127,\"logo_path\":\"\/lD5UjvX5MsbIwbZJvdC5aee1nwm.png\",\"name\":\"The Avenue Entertainment\",\"origin_country\":\"US\"},{\"id\":76991,\"logo_path\":\"\/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png\",\"name\":\"Highland Film Group\",\"origin_country\":\"US\"},{\"id\":194918,\"logo_path\":\"\/pzsC9ZzbRjHaBES0GH8n2dgtCZk.png\",\"name\":\"R.U. Robot Studios\",\"origin_country\":\"CZ\"},{\"id\":221158,\"logo_path\":\"\/zdHfdasuU6dDjfAmWYQZGL7jbvX.png\",\"name\":\"Crestyl\",\"origin_country\":\"CZ\"},{\"id\":221159,\"logo_path\":null,\"name\":\"More.is.More\",\"origin_country\":\"CZ\"},{\"id\":221160,\"logo_path\":\"\/id0JUgRTmp2zU8I7KdrRaI5iz5x.png\",\"name\":\"CrowningArts\",\"origin_country\":\"CZ\"},{\"id\":55956,\"logo_path\":null,\"name\":\"JBJ Film\",\"origin_country\":\"CZ\"},{\"id\":63369,\"logo_path\":\"\/sCgcuxsM4wvkfwL56tkHX4j9bds.png\",\"name\":\"Elevated Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CZ\",\"name\":\"Czech Republic\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-09-08\",\"revenue\":4311284,\"runtime\":126,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"For honor. For justice. For freedom.\",\"title\":\"Medieval\",\"video\":false,\"vote_average\":6.993,\"vote_count\":461}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1442",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:21 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23425",
+        "x-memc": "HIT",
+        "x-memc-key": "57406c9e99824839fb33ac4ea260271e",
+        "x-memc-age": "783",
+        "x-memc-expires": "23425",
+        "ETag": "W\/\"55fc9f0eb10701632b44ba3b8dd785a4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "yNkWXt0dkel_UmakcFLDfuXirgNU1qb4bCm5x81DezYjlRJID261zA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/5Eip60UDiPLASyKjmHPMruggTc4.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.immaculate.film\",\"id\":1041613,\"imdb_id\":\"tt23137390\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Immaculate\",\"overview\":\"An American nun embarks on a new journey when she joins a remote convent in the Italian countryside. However, her warm welcome quickly turns into a living nightmare when she discovers her new home harbours a sinister secret and unspeakable horrors.\",\"popularity\":377.29,\"poster_path\":\"\/fdZpvODTX5wwkD0ikZNaClE4AoW.jpg\",\"production_companies\":[{\"id\":22146,\"logo_path\":\"\/jPBtpMh0AUFqf9yfOJXer9d5Rei.png\",\"name\":\"Black Bear Pictures\",\"origin_country\":\"US\"},{\"id\":184023,\"logo_path\":\"\/fpMQBF9krWUG3nPN4qV6d1ibkFM.png\",\"name\":\"Fifty-Fifty Films\",\"origin_country\":\"US\"},{\"id\":216431,\"logo_path\":null,\"name\":\"Middle Child Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-03-20\",\"revenue\":22314913,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Not every intervention is divine.\",\"title\":\"Immaculate\",\"video\":false,\"vote_average\":6.296,\"vote_count\":694}"
+}

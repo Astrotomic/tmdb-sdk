@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1606",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:58 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10232",
+        "x-memc": "HIT",
+        "x-memc-key": "e66d240689d3abdef42fa35856a3f8ed",
+        "x-memc-age": "14186",
+        "x-memc-expires": "10232",
+        "ETag": "W\/\"d39802f50ae1e88d7c3983441c752313\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "LjicRJKYJiQR0O5TKeWrYlIeAMH3_fYDFqTYgpQ4giV-qrKub0B5ww=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hjA7kpsb1g2MyCfHJfPhjI0k03n.jpg\",\"belongs_to_collection\":null,\"budget\":13500000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":10876,\"imdb_id\":\"tt0180073\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Quills\",\"overview\":\"A nobleman with a literary flair, the Marquis de Sade lives in a madhouse where a beautiful laundry maid smuggles his erotic stories to a printer, defying orders from the asylum's resident priest. The titillating passages whip all of France into a sexual frenzy, until a fiercely conservative doctor tries to put an end to the fun.\",\"popularity\":22.475,\"poster_path\":\"\/AvGdw3BpvJV2wHmK2qY0N7XHqET.jpg\",\"production_companies\":[{\"id\":75937,\"logo_path\":null,\"name\":\"Charenton Productions\",\"origin_country\":\"\"},{\"id\":43,\"logo_path\":\"\/4RgIPr55kBakgupWkzdDxqXJEqr.png\",\"name\":\"Fox Searchlight Pictures\",\"origin_country\":\"US\"},{\"id\":376,\"logo_path\":null,\"name\":\"Industry Entertainment\",\"origin_country\":\"US\"},{\"id\":8780,\"logo_path\":null,\"name\":\"Walrus \\u0026 Associates\",\"origin_country\":\"\"},{\"id\":30257,\"logo_path\":null,\"name\":\"Hollywood Partners\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2000-11-22\",\"revenue\":7060876,\"runtime\":124,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Meet the Marquis de Sade. The pleasure is all his.\",\"title\":\"Quills\",\"video\":false,\"vote_average\":7.133,\"vote_count\":623}"
+}

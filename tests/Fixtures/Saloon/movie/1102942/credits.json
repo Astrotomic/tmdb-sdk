@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1900",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:15 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4506",
+        "x-memc": "HIT",
+        "x-memc-key": "634d1f44fa85ec3d9972076278975ee8",
+        "x-memc-age": "17222",
+        "x-memc-expires": "4506",
+        "ETag": "W\/\"9a83ef62abf686b9fb590d069d46af19\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "7VczRx-GHLBzsOouLGUMiS6Fk3jfDzogQ617SREM8eCxcW5WtpPNWw=="
+    },
+    "data": "{\"id\":1102942,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":3972903,\"known_for_department\":\"Writing\",\"name\":\"T.J. Newman\",\"original_name\":\"T.J. Newman\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"641a076a869e750105a30053\",\"department\":\"Writing\",\"job\":\"Novel\"},{\"adult\":false,\"gender\":2,\"id\":25598,\"known_for_department\":\"Directing\",\"name\":\"Paul Greengrass\",\"original_name\":\"Paul Greengrass\",\"popularity\":12.481,\"profile_path\":\"\/kJxQWrERq8p7gxRP2fIcS8suwme.jpg\",\"credit_id\":\"656694c13d745400c9c51c51\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":25598,\"known_for_department\":\"Directing\",\"name\":\"Paul Greengrass\",\"original_name\":\"Paul Greengrass\",\"popularity\":12.481,\"profile_path\":\"\/kJxQWrERq8p7gxRP2fIcS8suwme.jpg\",\"credit_id\":\"656694d5156cc700ca70a279\",\"department\":\"Writing\",\"job\":\"Screenplay\"},{\"adult\":false,\"gender\":2,\"id\":25598,\"known_for_department\":\"Directing\",\"name\":\"Paul Greengrass\",\"original_name\":\"Paul Greengrass\",\"popularity\":12.481,\"profile_path\":\"\/kJxQWrERq8p7gxRP2fIcS8suwme.jpg\",\"credit_id\":\"656694f8156cc7010cb3ab36\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":6039,\"known_for_department\":\"Writing\",\"name\":\"Shane Salerno\",\"original_name\":\"Shane Salerno\",\"popularity\":7.237,\"profile_path\":\"\/p8Vp2oRwnf2BZwv4ZT3z5XJfQEJ.jpg\",\"credit_id\":\"6566950689d97f0138ff2dbd\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":3455942,\"known_for_department\":\"Production\",\"name\":\"Amy Lord\",\"original_name\":\"Amy Lord\",\"popularity\":0.833,\"profile_path\":null,\"credit_id\":\"656695186c0b360101fb8661\",\"department\":\"Production\",\"job\":\"Executive Producer\"},{\"adult\":false,\"gender\":0,\"id\":4402432,\"known_for_department\":\"Production\",\"name\":\"Greg Goodman\",\"original_name\":\"Greg Goodman\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"6566952a3d7454012ccd0380\",\"department\":\"Production\",\"job\":\"Producer\"}]}"
+}

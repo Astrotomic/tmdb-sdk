@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1546",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20512",
+        "x-memc": "HIT",
+        "x-memc-key": "9c263118de3a19545641c243c1858e49",
+        "x-memc-age": "4528",
+        "x-memc-expires": "20512",
+        "ETag": "W\/\"1d9eb07b9afe2782ebadb4964f155a4c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ZZdKxKrPBlYfXYkMj5O5v3TbJAfqVQ2ukJBqjme22NKPFT6Y1yKyvQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ort14Ott2BvpfmTuhsMUVnSEsWd.jpg\",\"belongs_to_collection\":{\"id\":94039,\"name\":\"Asterix and Obelix (Animation) Collection\",\"poster_path\":\"\/mJ85mdtrQl2LWTNAHHcSJC55dcs.jpg\",\"backdrop_path\":\"\/7DpiEK17hH1foWyj4U0kv9ylRqG.jpg\"},\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":9929,\"imdb_id\":\"tt0062687\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Ast\u00e9rix et Cl\u00e9op\u00e2tre\",\"overview\":\"Popular animated hero Asterix and his faithful sidekick Obelix travel to ancient Egypt to help Cleopatra build a new summer home. Cleopatra and Julius Caesar have made a bet, with Caesar wagering the project cannot be completed in a few weeks time. With the help of a magic potion, Asterix comes to the rescue of the Queen of the Nile as Caesar and an angry architect plot against them.\",\"popularity\":14.761,\"poster_path\":\"\/uK1S8VHWH0kilanq2QyNIdkUjFs.jpg\",\"production_companies\":[{\"id\":5850,\"logo_path\":\"\/26v9iO4OqZzGhKiHYfiPWCYTNiG.png\",\"name\":\"Belvision\",\"origin_country\":\"BE\"},{\"id\":5851,\"logo_path\":null,\"name\":\"Dargaud Films\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"}],\"release_date\":\"1968-12-19\",\"revenue\":0,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Asterix and Cleopatra\",\"video\":false,\"vote_average\":6.928,\"vote_count\":909}"
+}

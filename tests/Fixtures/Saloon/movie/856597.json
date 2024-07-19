@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "650",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:25:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7517",
+        "x-memc": "HIT",
+        "x-memc-key": "7c1c19416980dadcef013264c834958a",
+        "x-memc-age": "16805",
+        "x-memc-expires": "7517",
+        "ETag": "W\/\"496d886dfeb7c80f3cad0c3e122dd3c4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gHg8y7o8Afufp9m9NtTcJ0X4cFiS7xrx66ccN4LB5KpRyzIvUGhsFQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":856597,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dough Joe\",\"overview\":\"A traveller must make his way to the prize. But what could it be? A surprise? A life changing experience? Perhaps a lifelong friendship.\",\"popularity\":0.406,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2021-07-22\",\"revenue\":0,\"runtime\":2,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Dough Joe\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

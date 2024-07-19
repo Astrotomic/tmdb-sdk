@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1434",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5784",
+        "x-memc": "HIT",
+        "x-memc-key": "30211a017ae8b41f3770d1665d8fb488",
+        "x-memc-age": "22707",
+        "x-memc-expires": "5784",
+        "ETag": "W\/\"23da44505b5dfb646af23bbfd27712ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "-TKMtvuuZ_SWx-fhRGU3hyDgkJjqcCF9CcFKGHvjdljB8_2zQsy4mA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/oavbmL3iddJUmC8nQjL6bLHwAP4.jpg\",\"belongs_to_collection\":null,\"budget\":8000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/www.tarotmovie.com\",\"id\":719221,\"imdb_id\":\"tt14088510\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Tarot\",\"overview\":\"When a group of friends recklessly violate the sacred rule of Tarot readings, they unknowingly unleash an unspeakable evil trapped within the cursed cards. One by one, they come face to face with fate and end up in a race against death.\",\"popularity\":379.529,\"poster_path\":\"\/gAEUXC37vl1SnM7PXsHTF23I2vq.jpg\",\"production_companies\":[{\"id\":3287,\"logo_path\":\"\/bz6GbCQQXGNE56LTW9dwgksW0Iw.png\",\"name\":\"Screen Gems\",\"origin_country\":\"US\"},{\"id\":10067,\"logo_path\":\"\/p1kZoVNfkVvk7xyJZEposRxcfh8.png\",\"name\":\"Alloy Entertainment\",\"origin_country\":\"US\"},{\"id\":95434,\"logo_path\":\"\/iKqEhbzYfb6YHwRlhqcvX1NIZbt.png\",\"name\":\"Ground Control Entertainment\",\"origin_country\":\"US\"},{\"id\":154063,\"logo_path\":\"\/r4anaxYa8OL5KaUbU35VkrIe88L.png\",\"name\":\"Capstone Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-05-01\",\"revenue\":48027934,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Your fate is in the cards.\",\"title\":\"Tarot\",\"video\":false,\"vote_average\":6.685,\"vote_count\":688}"
+}

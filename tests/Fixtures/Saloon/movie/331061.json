@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1419",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:34:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=28489",
+        "x-memc": "HIT",
+        "x-memc-key": "46e0e8ce47b6e60b3a3f243734f72e09",
+        "x-memc-age": "185",
+        "x-memc-expires": "28489",
+        "ETag": "W\/\"9ea9185b4c333b56f8d07a823cc3884f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5008327c23740ce2f9d9ed54c8a489e8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "wdDErJuhJ-VkeOrdrldHUh_XXEzhLP3MXYP_avDRPRGrztMnkOLIpA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/66F3PsT9JzE93WDgp5Ry8KIdM4n.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":10749,\"name\":\"Romance\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"http:\/\/date-a-live-anime.com\/\",\"id\":331061,\"imdb_id\":\"tt5331768\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u5287\u5834\u7248 \u30c7\u30fc\u30c8\u30fb\u30a2\u30fb\u30e9\u30a4\u30d6 \u4e07\u7531\u91cc\u30b8\u30e3\u30c3\u30b8\u30e1\u30f3\u30c8\",\"overview\":\"After performing a huge concert, Miku Izayoi invited Shido, Tohka and everyone for a day at a reserved indoor pool. Later at night, Shido keeps spotting a girl named Mayuri, who quickly disappeared after seeing her.\",\"popularity\":9.308,\"poster_path\":\"\/wPLtLeopvyg2HgndnhwvmZsF3VO.jpg\",\"production_companies\":[{\"id\":73302,\"logo_path\":null,\"name\":\"IMS Productions\",\"origin_country\":\"\"},{\"id\":2073,\"logo_path\":\"\/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png\",\"name\":\"KADOKAWA\",\"origin_country\":\"JP\"},{\"id\":157002,\"logo_path\":\"\/hSdroyVthq3CynxTIIY7lnS8w1.png\",\"name\":\"Tokyo MX\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2015-08-22\",\"revenue\":0,\"runtime\":72,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Because I've met you....I'm no longer an existance that was born to disappear.\",\"title\":\"Date A Live: Mayuri Judgment\",\"video\":false,\"vote_average\":7.8,\"vote_count\":60}"
+}

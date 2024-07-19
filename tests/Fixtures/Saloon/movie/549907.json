@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1009",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:03 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11856",
+        "x-memc": "HIT",
+        "x-memc-key": "ea88a48a04c9ed0fe1213c668def17bb",
+        "x-memc-age": "9767",
+        "x-memc-expires": "11856",
+        "ETag": "W\/\"219890a6056795bbe7cffa7ded53aeeb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3635a3f2591277e6a6edf40e028cba0a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WvPzZxvx716j7E-3uO0-C1AVsHSVrWdZQdl6Hmy2jmdPid4TI8W-Jw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aDYL1qCjk7SRjeomY04rT22KErJ.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"\",\"id\":549907,\"imdb_id\":\"tt0030583\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Piccoli naufraghi\",\"overview\":\"During the Ethiopian war, thirteen boys embark clandestinely on a merchant ship bound for Africa. Following the shipwreck, they are castaway on a desert island...\",\"popularity\":0.785,\"poster_path\":\"\/lx31PgI0mxHvNNxaofQyoizBB0S.jpg\",\"production_companies\":[{\"id\":1449,\"logo_path\":null,\"name\":\"Alfa Film\",\"origin_country\":\"DE\"},{\"id\":164566,\"logo_path\":null,\"name\":\"Mediterranea Film\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1939-01-30\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Little Adventurers\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

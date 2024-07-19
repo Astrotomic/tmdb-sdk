@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1059",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:45 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=545",
+        "x-memc": "HIT",
+        "x-memc-key": "c9eb1889265878c3d54630e004a7877a",
+        "x-memc-age": "23486",
+        "x-memc-expires": "545",
+        "ETag": "W\/\"ac0291f3c6948c511107a8e8d5ab3301\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "kJqhQ1YyLogyTjoCUHNVn-ccH7R7Ya--XCDuO_wEeZ1kcE-iYfkZyQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qL0BwZ9TAZa1qQWyPyKDMjUaiaW.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.youtube.com\/watch?v=rkLefYKqqx8\",\"id\":704574,\"imdb_id\":\"tt8898366\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Last Summer Of A Small Town Girl\",\"overview\":\"Ella is about to commence the next chapter of her life. Within three months her world will change, whether she can persevere and deal with whatever is thrown at her is yet to be seen.\",\"popularity\":0.454,\"poster_path\":\"\/sbCJWrpKi9RGpLKBS0fLVcYrMvW.jpg\",\"production_companies\":[{\"id\":164608,\"logo_path\":null,\"name\":\"Barking Mad Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2018-08-26\",\"revenue\":0,\"runtime\":25,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Growing Up & Moving Out.\",\"title\":\"Last Summer Of A Small Town Girl\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

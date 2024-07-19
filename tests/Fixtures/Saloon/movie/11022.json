@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1491",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=4195",
+        "x-memc": "HIT",
+        "x-memc-key": "351d5528211da3896a8ed8c0029b44a5",
+        "x-memc-age": "20753",
+        "x-memc-expires": "4195",
+        "ETag": "W\/\"b2c5d90427c4ba32916f9c888ec6486b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 90772e5ec48c9653874b9b06fe89ab50.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Kx5GMJoZ6SvRsPWhbRSUEnRI_4Gt4bgtURW9wnR8bCRDAcgs7GYh3g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/lu1eTRsyZztMmfR5Q30k2jFPMri.jpg\",\"belongs_to_collection\":null,\"budget\":6500000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":11022,\"imdb_id\":\"tt0272207\",\"origin_country\":[\"CA\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Narc\",\"overview\":\"When the trail goes cold on a murder investigation of a policeman, an undercover narcotics officer is lured back to the force to help solve the case.\",\"popularity\":16.93,\"poster_path\":\"\/uGHFyVdMQKvIXlsLAoXa5nOUGF.jpg\",\"production_companies\":[{\"id\":8146,\"logo_path\":\"\/etoxfrvduHZMLHpYE2uPkicheX2.png\",\"name\":\"Splendid Film\",\"origin_country\":\"DE\"},{\"id\":104076,\"logo_path\":null,\"name\":\"Julius R. Nasso Productions\",\"origin_country\":\"\"},{\"id\":54512,\"logo_path\":null,\"name\":\"Tiara Blu Films\",\"origin_country\":\"\"},{\"id\":44,\"logo_path\":\"\/6Hs6K20Hz1W9W1Tiam5QN2Kpx8V.png\",\"name\":\"Cruise\/Wagner Productions\",\"origin_country\":\"US\"},{\"id\":10405,\"logo_path\":null,\"name\":\"EFO Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"},{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2002-01-14\",\"revenue\":12633747,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Narc\",\"video\":false,\"vote_average\":6.712,\"vote_count\":501}"
+}

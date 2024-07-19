@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "877",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=27664",
+        "x-memc": "HIT",
+        "x-memc-key": "df77bfbf794d89f34bb287b85d8948f9",
+        "x-memc-age": "10",
+        "x-memc-expires": "27664",
+        "ETag": "W\/\"9efb1d265695d508f6e7d98d87768fd5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "b-zb30ndnGCLW63Zm96bs8ebgdErOMcgIHv_q1iSD_dRJVNTKn8Ifg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":7349,\"imdb_id\":\"tt0054896\",\"origin_country\":[\"DE\"],\"original_language\":\"de\",\"original_title\":\"Freddy und der Million\u00e4r\",\"overview\":\"\",\"popularity\":1.061,\"poster_path\":\"\/dUqaLDSC2UoJLUvuMfoPlR6qz8I.jpg\",\"production_companies\":[{\"id\":2013,\"logo_path\":null,\"name\":\"Divina-Film\",\"origin_country\":\"DE\"},{\"id\":76973,\"logo_path\":null,\"name\":\"Lombarda Industria Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"1961-12-16\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Freddy and the Millionaire\",\"video\":false,\"vote_average\":4.3,\"vote_count\":3}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1792",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13337",
+        "x-memc": "HIT",
+        "x-memc-key": "f9f488026d02950eeda9896ffb21c301",
+        "x-memc-age": "8676",
+        "x-memc-expires": "13337",
+        "ETag": "W\/\"c8a1b626ee966c81ab111f4525567d66\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MmR0Ub3i7YH3Wv7IQJe8tyz0ONTPkWmEGbQyyRh7C9AgscODQvG7Yg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":36,\"name\":\"History\"}],\"homepage\":\"http:\/\/www.facebook.com\/ManaKokaStasts\",\"id\":221991,\"imdb_id\":\"tt3188902\",\"origin_country\":[\"LV\"],\"original_language\":\"lv\",\"original_title\":\"Mana koka st\u0101sts\",\"overview\":\"A unique, engaging film that combines documentary footage with narrative cinema to tell the story of four generations of a Latvian family. Sixteen year-old student J\u0101nis has been given an interesting homework assignment \u2013 to draw his family tree and explain it. The story of his family begins with his great-great-grandfather who burned down the manors of German landowners during the 1905 revolution. My Family Tree takes us on a journey to various countries and political regimes, showing J\u0101nis\u2019 ancestors to be people of diverse fates and life stories. A rich Latvian trader, a red rifleman loyal to Lenin, a carpenter with the KGB and war refugees in Sweden are only a few branches on his family tree, and the boy has heard something unusual and unforgettable about each and every one of these people.\",\"popularity\":1.383,\"poster_path\":\"\/nlpbb9Mjh4eDpzA6l3GH6MhPpjl.jpg\",\"production_companies\":[{\"id\":128443,\"logo_path\":\"\/gA98X89L2LM7EFneds5dAhn9W2P.png\",\"name\":\"Fenixfilm\",\"origin_country\":\"LV\"}],\"production_countries\":[{\"iso_3166_1\":\"LV\",\"name\":\"Latvia\"}],\"release_date\":\"2013-09-27\",\"revenue\":0,\"runtime\":74,\"spoken_languages\":[{\"english_name\":\"Latvian\",\"iso_639_1\":\"lv\",\"name\":\"Latvie\u0161u\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Swedish\",\"iso_639_1\":\"sv\",\"name\":\"svenska\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"My Family Tree\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

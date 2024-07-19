@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "905",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:50 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2214",
+        "x-memc": "HIT",
+        "x-memc-key": "aad02388f37265ba43179e3ac42ade87",
+        "x-memc-age": "19562",
+        "x-memc-expires": "2214",
+        "ETag": "W\/\"a564a4d64261dfac5fc4977b263ec7be\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Isk-YpGuEazTKE8s4vDAnLVV6EZaIqZqnYxzfghkN3eZO-2GPSLH1Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xHu5CouQd08NUH4JyQtJvOnbxOH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":391495,\"imdb_id\":\"tt0035997\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Hi'ya, Chum\",\"overview\":\"Entertainers get stranded in a small boomtown, and open up a restaurant.\",\"popularity\":3.625,\"poster_path\":\"\/eutST18H0gukIN83y2ISFZxLt95.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-02-25\",\"revenue\":0,\"runtime\":61,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The Ritz Kibitz in Laugh Blitz!\",\"title\":\"Hi'ya, Chum\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1865",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:37 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6408",
+        "x-memc": "HIT",
+        "x-memc-key": "8f86103724a131fb2fc08b244a031819",
+        "x-memc-age": "19364",
+        "x-memc-expires": "6408",
+        "ETag": "W\/\"6f9414fcd8fdd49e2f5164d790b17451\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1b300ac0fc08f49360b62bb3f1350070.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XvMdYrpSz2qlyaxybsCsWs358_hJ1sarzekNF7DyZrFqIJcYMmcZ_g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/7py8kUCYaOdFn1TfVS87BDBySOz.jpg\",\"belongs_to_collection\":{\"id\":861415,\"name\":\"Free Guy Collection\",\"poster_path\":\"\/o9iYeSBx7lwWRDEt8QPWbKZZlJm.jpg\",\"backdrop_path\":\"\/9aDeWSxwfpOFjpw1XwRjLGnlcJm.jpg\"},\"budget\":110000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.20thcenturystudios.com\/movies\/free-guy\",\"id\":550988,\"imdb_id\":\"tt6264654\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Free Guy\",\"overview\":\"A bank teller discovers he is actually a background player in an open-world video game, and decides to become the hero of his own story. Now, in a world where there are no limits, he is determined to be the guy who saves his world his way before it's too late.\",\"popularity\":81.101,\"poster_path\":\"\/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg\",\"production_companies\":[{\"id\":27711,\"logo_path\":\"\/3e294jszfE6cE8TOogmj0zNd6pL.png\",\"name\":\"Berlanti Productions\",\"origin_country\":\"US\"},{\"id\":2575,\"logo_path\":\"\/9YJrHYlcfHtwtulkFMAies3aFEl.png\",\"name\":\"21 Laps Entertainment\",\"origin_country\":\"US\"},{\"id\":104228,\"logo_path\":\"\/hx0C1XcSxGgat8N62GpxoJGTkCk.png\",\"name\":\"Maximum Effort\",\"origin_country\":\"US\"},{\"id\":125000,\"logo_path\":null,\"name\":\"Lit Entertainment Group\",\"origin_country\":\"US\"},{\"id\":127928,\"logo_path\":\"\/h0rjX5vjW5r8yEnUBStFarjcLT4.png\",\"name\":\"20th Century Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-08-11\",\"revenue\":331500000,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"Life's too short to be a background character.\",\"title\":\"Free Guy\",\"video\":false,\"vote_average\":7.507,\"vote_count\":8445}"
+}

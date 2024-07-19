@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1457",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5938",
+        "x-memc": "HIT",
+        "x-memc-key": "e0052f0ab21691676e8f108c4b849138",
+        "x-memc-age": "20870",
+        "x-memc-expires": "5938",
+        "ETag": "W\/\"7f6e3a58c601ea415a898ffb178fbc39\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "WBQqoy4I2tSw8hkhhwQWsErUtsbOfeQV1Fm_pFSqcCQ2wIQKAjSQEw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qpPFF8Sed5lkXngWraJdN8WkwDG.jpg\",\"belongs_to_collection\":null,\"budget\":1000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":2108,\"imdb_id\":\"tt0088847\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Breakfast Club\",\"overview\":\"Five high school students from different walks of life endure a Saturday detention under a power-hungry principal. The disparate group includes rebel John, princess Claire, outcast Allison, brainy Brian and Andrew, the jock. Each has a chance to tell his or her story, making the others see them a little differently -- and when the day ends, they question whether school will ever be the same.\",\"popularity\":37.985,\"poster_path\":\"\/vSqk5BeQ1HvP9wq0rWZyWqiwXeF.jpg\",\"production_companies\":[{\"id\":33,\"logo_path\":\"\/8lvHyhjr8oUKOOy2dKXoALWKdp0.png\",\"name\":\"Universal Pictures\",\"origin_country\":\"US\"},{\"id\":11043,\"logo_path\":null,\"name\":\"A\\u0026M Films\",\"origin_country\":\"\"},{\"id\":8812,\"logo_path\":null,\"name\":\"Channel Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-02-15\",\"revenue\":51525171,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"They only met once, but it changed their lives forever.\",\"title\":\"The Breakfast Club\",\"video\":false,\"vote_average\":7.7,\"vote_count\":7828}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "648",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14395",
+        "x-memc": "HIT",
+        "x-memc-key": "0c4d55be9d6298c65a9cee517dce8a50",
+        "x-memc-age": "13250",
+        "x-memc-expires": "14395",
+        "ETag": "W\/\"8ea366913b214ddd7d859a05f1ef3a3a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4960678834c17dc1c9d3e109486b075c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "MRqXs6m_TdHTG3Pnt726SvWBS557gnk6YAhI2BjAvwNMz3XmpVK2iw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[],\"homepage\":\"\",\"id\":1020136,\"imdb_id\":\"tt9103362\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Thanks For Sharing\",\"overview\":\"Thanks For Sharing Movie\",\"popularity\":6.515,\"poster_path\":\"\/7OQWb5xm3GtWGha186jslRzyu1s.jpg\",\"production_companies\":[{\"id\":181615,\"logo_path\":null,\"name\":\"Cine Vibes Productions\",\"origin_country\":\"\"}],\"production_countries\":[],\"release_date\":\"2018-10-30\",\"revenue\":0,\"runtime\":0,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Thanks For Sharing\",\"video\":false,\"vote_average\":3.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1629",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20198",
+        "x-memc": "HIT",
+        "x-memc-key": "3081224fd8249e92756cac741c459ad3",
+        "x-memc-age": "7156",
+        "x-memc-expires": "20198",
+        "ETag": "W\/\"7840539c3d05f81be6d5570e96b96084\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9eV6mrscn7jj1lXMXeoPZyPkQZCrRlaGYB6QPlUm8cmZQ3k1KnxBqQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/sWO8C8QlyodOZU6eOdVxsGfSQvv.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":28,\"name\":\"Action\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":9978,\"imdb_id\":\"tt0457495\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Stormbreaker\",\"overview\":\"Alex Rider thinks he is a normal school boy, until his uncle is killed. He discovers that his uncle was actually spy on a mission, when he was killed. Alex is recruited by Alan Blunt to continue the mission. He is sent to Cornwall to investigate a new computer system, which Darrius Sayle has created. He plans to give the new computer systems to every school in the country, but Mr. Blunt has other ideas and Alex must find out what it is.\",\"popularity\":19.378,\"poster_path\":\"\/l0vSLU0tsYuQsvMxsC52rJsd583.jpg\",\"production_companies\":[{\"id\":2268,\"logo_path\":\"\/wgDks2qYgwN6u1OkW1bBre0rf4F.png\",\"name\":\"Isle of Man Film\",\"origin_country\":\"GB\"},{\"id\":22514,\"logo_path\":null,\"name\":\"Samuelson Productions\",\"origin_country\":\"\"},{\"id\":308,\"logo_path\":\"\/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png\",\"name\":\"The Weinstein Company\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2006-07-21\",\"revenue\":23900000,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Rule the school. Save the world.\",\"title\":\"Stormbreaker\",\"video\":false,\"vote_average\":5.234,\"vote_count\":624}"
+}

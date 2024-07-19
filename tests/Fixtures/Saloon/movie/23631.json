@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1362",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:35 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13365",
+        "x-memc": "HIT",
+        "x-memc-key": "da6f09dc7d235454672f61ee2cc3cb0f",
+        "x-memc-age": "11350",
+        "x-memc-expires": "13365",
+        "ETag": "W\/\"5cbc5cccc3d1a4cdf2050afff89208e0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "M9y6eYSqUm5OKf9DT_R4VXP_scOKI8aOtT5hjwI_CnsV5YPV_J0gCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mKcoq3PRVcWsxric7XhBckXyvOX.jpg\",\"belongs_to_collection\":{\"id\":210006,\"name\":\"Machete Collection\",\"poster_path\":\"\/rXHJRWQ2PQlagWEkzmk9XziZ2p3.jpg\",\"backdrop_path\":\"\/nxCWYlyf67148ve2PwvNzESuO5c.jpg\"},\"budget\":20000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":23631,\"imdb_id\":\"tt0985694\",\"origin_country\":[\"DE\",\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Machete\",\"overview\":\"After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.\",\"popularity\":42.426,\"poster_path\":\"\/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg\",\"production_companies\":[{\"id\":10808,\"logo_path\":null,\"name\":\"Overnight Films\",\"origin_country\":\"\"},{\"id\":10807,\"logo_path\":\"\/j0BcMaJKIiDDYHq9lriTcM0Npka.png\",\"name\":\"Troublemaker Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2010-09-01\",\"revenue\":45500000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"They just messed with the wrong Mexican.\",\"title\":\"Machete\",\"video\":false,\"vote_average\":6.339,\"vote_count\":3210}"
+}

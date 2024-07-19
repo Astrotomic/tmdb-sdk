@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1733",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13126",
+        "x-memc": "HIT",
+        "x-memc-key": "86d260a4213f38c037463bdc7fdce4f4",
+        "x-memc-age": "9598",
+        "x-memc-expires": "13126",
+        "ETag": "W\/\"052d0076e1dfe82f91f6cd600c390759\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "FvPhDIQSvs-O90bMp_3G3goEXERdlBSP-XQou9OJ09YA1CTp4Mzfew=="
+    },
+    "data": "{\"id\":1024522,\"cast\":[{\"adult\":false,\"gender\":2,\"id\":3701001,\"known_for_department\":\"Writing\",\"name\":\"Cyprian \u015awi\u0119cki\",\"original_name\":\"Cyprian \u015awi\u0119cki\",\"popularity\":0.029,\"profile_path\":\"\/yTjrUYfZfQNEKiLN2BjokZxngp5.jpg\",\"cast_id\":3,\"character\":\"Prof. Bondarenko\",\"credit_id\":\"63222ed0297338007bb826c4\",\"order\":0},{\"adult\":false,\"gender\":2,\"id\":3284356,\"known_for_department\":\"Acting\",\"name\":\"Martin Caine\",\"original_name\":\"Martin Caine\",\"popularity\":0.001,\"profile_path\":\"\/tV1xmB0QEPrTepySwcBliQPYvqq.jpg\",\"cast_id\":6,\"character\":\"Kapitan\",\"credit_id\":\"65ddea2824b3330149b69e97\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":2,\"id\":3701001,\"known_for_department\":\"Writing\",\"name\":\"Cyprian \u015awi\u0119cki\",\"original_name\":\"Cyprian \u015awi\u0119cki\",\"popularity\":0.029,\"profile_path\":\"\/yTjrUYfZfQNEKiLN2BjokZxngp5.jpg\",\"credit_id\":\"632222eafd4a960091845133\",\"department\":\"Writing\",\"job\":\"Writer\"},{\"adult\":false,\"gender\":2,\"id\":3284356,\"known_for_department\":\"Acting\",\"name\":\"Martin Caine\",\"original_name\":\"Martin Caine\",\"popularity\":0.001,\"profile_path\":\"\/tV1xmB0QEPrTepySwcBliQPYvqq.jpg\",\"credit_id\":\"6322242b511d0900985204d3\",\"department\":\"Production\",\"job\":\"Production Assistant\"},{\"adult\":false,\"gender\":2,\"id\":3701001,\"known_for_department\":\"Writing\",\"name\":\"Cyprian \u015awi\u0119cki\",\"original_name\":\"Cyprian \u015awi\u0119cki\",\"popularity\":0.029,\"profile_path\":\"\/yTjrUYfZfQNEKiLN2BjokZxngp5.jpg\",\"credit_id\":\"63238862174973007d9e58d7\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":3284356,\"known_for_department\":\"Acting\",\"name\":\"Martin Caine\",\"original_name\":\"Martin Caine\",\"popularity\":0.001,\"profile_path\":\"\/tV1xmB0QEPrTepySwcBliQPYvqq.jpg\",\"credit_id\":\"63238a8c174973007a311132\",\"department\":\"Editing\",\"job\":\"Editor\"}]}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "947",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25709",
+        "x-memc": "HIT",
+        "x-memc-key": "e4996a0098877f5fdfd6ed5129fb27c6",
+        "x-memc-age": "894",
+        "x-memc-expires": "25709",
+        "ETag": "W\/\"0ecbe12122a405804568a65a1660b558\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Xwz_Xy1uVijHEJ-gMjvkLEO4RqvZpEDmheakryOdi9mYhiejWhTuuA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mUfpPbZTYfnjgz4j2pBeefzWbym.jpg\",\"belongs_to_collection\":null,\"budget\":1000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":861756,\"imdb_id\":\"tt14544296\",\"origin_country\":[\"US\",\"CA\"],\"original_language\":\"en\",\"original_title\":\"Bunny\",\"overview\":\"Struggling to find true love, a young and depressed man named Flynn, seeks out to find the love of his life.\",\"popularity\":0.93,\"poster_path\":\"\/4LzygRmtAAO8GJi7Sa5Pd7FgAzV.jpg\",\"production_companies\":[{\"id\":159214,\"logo_path\":null,\"name\":\"Tommy Gun Pictures\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2021-08-15\",\"revenue\":0,\"runtime\":36,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Love is love, no matter what.\",\"title\":\"Bunny\",\"video\":false,\"vote_average\":10.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1542",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14145",
+        "x-memc": "HIT",
+        "x-memc-key": "2f97cbc8fa678c9665f8627f25990c31",
+        "x-memc-age": "11264",
+        "x-memc-expires": "14145",
+        "ETag": "W\/\"72fe2c224ec4e2c76601e4766cf15e4e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 2d74eb05f17e8cd9ca29da65d3b3ff48.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hZIEMRqUrSTPPSX6gdGijhl8SdiIhv_OaVkkl1TaUi9y2tMi8CshwQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/h1bNQ2MZzKLuKa7N0nOuSXlgMwT.jpg\",\"belongs_to_collection\":null,\"budget\":75000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":2253,\"imdb_id\":\"tt0985699\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Valkyrie\",\"overview\":\"Wounded in Africa during World War II, Nazi Col. Claus von Stauffenberg returns to his native Germany and joins the Resistance in a daring plan to create a shadow government and assassinate Adolf Hitler. When events unfold so that he becomes a central player, he finds himself tasked with both leading the coup and personally killing the F\u00fchrer.\",\"popularity\":49.99,\"poster_path\":\"\/8eoRtXswC8IQDsqW7iJWO56NhAv.jpg\",\"production_companies\":[{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"},{\"id\":9168,\"logo_path\":\"\/hQNXrYIuyLRxMSBuGHk0GX7CCBS.png\",\"name\":\"Bad Hat Harry Productions\",\"origin_country\":\"US\"},{\"id\":6100,\"logo_path\":null,\"name\":\"Achte Babelsberg Film\",\"origin_country\":\"DE\"}],\"production_countries\":[{\"iso_3166_1\":\"DE\",\"name\":\"Germany\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2008-12-25\",\"revenue\":200276000,\"runtime\":121,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Many saw evil. They dared to stop it.\",\"title\":\"Valkyrie\",\"video\":false,\"vote_average\":6.932,\"vote_count\":3600}"
+}

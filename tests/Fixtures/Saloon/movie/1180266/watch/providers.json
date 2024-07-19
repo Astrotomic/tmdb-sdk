@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "250",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:50:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=857",
+        "x-memc": "HIT",
+        "x-memc-key": "3617d3eca68abc02fecaf9b46eed85b4",
+        "x-memc-age": "21475",
+        "x-memc-expires": "857",
+        "ETag": "W\/\"94c214e3f02bd92dcc66a46a6012acd5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "3t4JRhfTypCcBmoLvz_51NQuqSWqLs6BrH56NR01UxcB-CIm1AHdvA=="
+    },
+    "data": "{\"id\":1180266,\"results\":{\"US\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/1180266-meet-me-under-the-mistletoe\/watch?locale=US\",\"flatrate\":[{\"logo_path\":\"\/bxBlRPEPpMVDc4jMhSrTf2339DW.jpg\",\"provider_id\":15,\"provider_name\":\"Hulu\",\"display_priority\":6}]}}}"
+}

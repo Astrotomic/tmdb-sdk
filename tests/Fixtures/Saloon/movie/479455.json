@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1611",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:40 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20002",
+        "x-memc": "HIT",
+        "x-memc-key": "cc4ef18c141a0ff077fd95ff30846423",
+        "x-memc-age": "8365",
+        "x-memc-expires": "20002",
+        "ETag": "W\/\"c76788bca25b2fdba49bc7fd16c18e58\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HMjf2XeOz13RJWo8sbr8OduuCM6mIUxdCj-10hDK98Bt0nUIHCRr7Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2FYzxgLNuNVwncilzUeCGbOQzP7.jpg\",\"belongs_to_collection\":null,\"budget\":110000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.meninblack.com\",\"id\":479455,\"imdb_id\":\"tt2283336\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Men in Black: International\",\"overview\":\"The Men in Black have always protected the Earth from the scum of the universe. In this new adventure, they tackle their biggest, most global threat to date: a mole in the Men in Black organization.\",\"popularity\":58.374,\"poster_path\":\"\/dPrUPFcgLfNbmDL8V69vcrTyEfb.jpg\",\"production_companies\":[{\"id\":56,\"logo_path\":\"\/cEaxANEisCqeEoRvODv2dO1I0iI.png\",\"name\":\"Amblin Entertainment\",\"origin_country\":\"US\"},{\"id\":49325,\"logo_path\":\"\/R05WCoCJcPWGSDaKaYgx3AeVuR.png\",\"name\":\"Parkes+MacDonald Image Nation\",\"origin_country\":\"US\"},{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":81620,\"logo_path\":\"\/7LkIVuWBVScdujpKhBPx1TMnPQE.png\",\"name\":\"Tencent Pictures\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2019-06-12\",\"revenue\":253890701,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The world's not going to save itself.\",\"title\":\"Men in Black: International\",\"video\":false,\"vote_average\":5.918,\"vote_count\":4759}"
+}

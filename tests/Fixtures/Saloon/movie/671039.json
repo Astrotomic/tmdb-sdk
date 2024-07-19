@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1039",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22374",
+        "x-memc": "HIT",
+        "x-memc-key": "585f1d05b2965302bc50d393b860bea5",
+        "x-memc-age": "1821",
+        "x-memc-expires": "22374",
+        "ETag": "W\/\"e630ba6b45c31b208d3c6196765fa56c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5c23ab9748dfedff76d0f834e4ad56b0.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i000MRF8OqabIw-98BbLxkaBd5P2H7aYRZaJpj5MSMHjHWruBZW9iw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/qbsMwtq6pXlf823z8u3qKPCeoM1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.netflix.com\/title\/81115400\",\"id\":671039,\"imdb_id\":\"tt10127684\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Bronx\",\"overview\":\"Caught in the crosshairs of police corruption and Marseille\u2019s warring gangs, a loyal cop must protect his squad by taking matters into his own hands.\",\"popularity\":12.65,\"poster_path\":\"\/9HT9982bzgN5on1sLRmc1GMn6ZC.jpg\",\"production_companies\":[{\"id\":9,\"logo_path\":\"\/nda3dTUYdDrJ6rZqBpYvY865aDv.png\",\"name\":\"Gaumont\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2020-10-30\",\"revenue\":0,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Rogue City\",\"video\":false,\"vote_average\":5.878,\"vote_count\":576}"
+}

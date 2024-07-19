@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1666",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:57 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10934",
+        "x-memc": "HIT",
+        "x-memc-key": "40b5d5a670e7bf434190835a65cb2d75",
+        "x-memc-age": "11530",
+        "x-memc-expires": "10934",
+        "ETag": "W\/\"6bc68249cef0a09d62025ed64a2a6aa5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zpnZFwMgEQ92ZuB8Cn7iUJ_7gfz0gQSBsi5l_nxzLzGYDyQyu7u3Ag=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/eDg6HPCnQaUhTOdZB3LzJjpnGtT.jpg\",\"belongs_to_collection\":{\"id\":9818,\"name\":\"Mortal Kombat Collection\",\"poster_path\":\"\/quwcbufZZiTMUjuiGSLKBkWWaga.jpg\",\"backdrop_path\":\"\/qD3efz57VGNywAN4lTvgz3FHnBb.jpg\"},\"budget\":18000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":9312,\"imdb_id\":\"tt0113855\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Mortal Kombat\",\"overview\":\"For nine generations an evil sorcerer has been victorious in hand-to-hand battle against his mortal enemies. If he wins a tenth Mortal Kombat tournament, desolation and evil will reign over the multiverse forever. To save Earth, three warriors must overcome seemingly insurmountable odds, their own inner demons, and superhuman foes in this action\/adventure movie based on one of the most popular video games of all time.\",\"popularity\":41.764,\"poster_path\":\"\/cFUmccohbDHEYvXtMCxVwWH0pVQ.jpg\",\"production_companies\":[{\"id\":12,\"logo_path\":\"\/2ycs64eqV5rqKYHyQK0GVoKGvfX.png\",\"name\":\"New Line Cinema\",\"origin_country\":\"US\"},{\"id\":4174,\"logo_path\":null,\"name\":\"Threshold Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1995-08-18\",\"revenue\":122195920,\"runtime\":101,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"Nothing in this world has prepared you for this.\",\"title\":\"Mortal Kombat\",\"video\":false,\"vote_average\":5.849,\"vote_count\":2210}"
+}

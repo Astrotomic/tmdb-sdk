@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1432",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:46 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=10472",
+        "x-memc": "HIT",
+        "x-memc-key": "994464d76ac543ffe18356dcf970bdf6",
+        "x-memc-age": "11194",
+        "x-memc-expires": "10472",
+        "ETag": "W\/\"c9a7a302392c34ec2fb636638bc5c8de\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I7SZATdmSTI3qWPnygiNtfmcInu0JHxz1O2sRPW4S3ZFCT5LTYxs4w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/w9QfTrYmtoA96zJlVNvjS8eucf8.jpg\",\"belongs_to_collection\":null,\"budget\":70000000,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.warnerbros.com\/movies\/oceans-8\",\"id\":402900,\"imdb_id\":\"tt5164214\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ocean's Eight\",\"overview\":\"Debbie Ocean, a criminal mastermind, gathers a crew of female thieves to pull off the heist of the century at New York's annual Met Gala.\",\"popularity\":77.748,\"poster_path\":\"\/MvYpKlpFukTivnlBhizGbkAe3v.jpg\",\"production_companies\":[{\"id\":79,\"logo_path\":\"\/at4uYdwAAgNRKhZuuFX8ShKSybw.png\",\"name\":\"Village Roadshow Pictures\",\"origin_country\":\"US\"},{\"id\":174,\"logo_path\":\"\/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png\",\"name\":\"Warner Bros. Pictures\",\"origin_country\":\"US\"},{\"id\":1163,\"logo_path\":null,\"name\":\"Larger Than Life Productions\",\"origin_country\":\"US\"},{\"id\":104907,\"logo_path\":null,\"name\":\"Rahway Road Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-06-07\",\"revenue\":297718711,\"runtime\":111,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Every con has its pros\",\"title\":\"Ocean's Eight\",\"video\":false,\"vote_average\":6.986,\"vote_count\":8141}"
+}

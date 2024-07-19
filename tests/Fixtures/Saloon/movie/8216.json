@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1157",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22004",
+        "x-memc": "HIT",
+        "x-memc-key": "161581c344b0dc3e58c4d5574aea62a8",
+        "x-memc-age": "4159",
+        "x-memc-expires": "22004",
+        "ETag": "W\/\"80f4137314487d4445993913dcc4757e\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b93a2a063e3f94fe345bc08072aed022.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "u18vt87KzsP6c3BI-L6tpwoK2Z-0_eCf18ZpnaPsWRs0ObJiJgHrvg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fji432Vjgj89p0ISOJONYyfNUmy.jpg\",\"belongs_to_collection\":null,\"budget\":750000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10402,\"name\":\"Music\"}],\"homepage\":\"\",\"id\":8216,\"imdb_id\":\"tt0097858\",\"origin_country\":[\"NZ\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Meet the Feebles\",\"overview\":\"Heidi, the star of the \\\"Meet The Feebles Variety Hour\\\" discovers her lover Bletch, The Walrus, is cheating on her. And with all the world waiting for the show, the assorted co-stars must contend with drug addiction, extortion, robbery, disease, drug dealing, and murder.\",\"popularity\":16.277,\"poster_path\":\"\/31DqGazwdE9N4Y9FHC6Q4NvstuW.jpg\",\"production_companies\":[{\"id\":11,\"logo_path\":\"\/6FAuASQHybRkZUk08p9PzSs9ezM.png\",\"name\":\"WingNut Films\",\"origin_country\":\"NZ\"}],\"production_countries\":[{\"iso_3166_1\":\"NZ\",\"name\":\"New Zealand\"}],\"release_date\":\"1989-08-12\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Hell hath no fury like a hippo with a machine gun.\",\"title\":\"Meet the Feebles\",\"video\":false,\"vote_average\":6.311,\"vote_count\":273}"
+}

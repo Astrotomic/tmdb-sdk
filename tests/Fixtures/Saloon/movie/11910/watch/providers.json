@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "694",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:47:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13805",
+        "x-memc": "HIT",
+        "x-memc-key": "38c50441d3167b637f6f2a61442f83cf",
+        "x-memc-age": "8537",
+        "x-memc-expires": "13805",
+        "ETag": "W\/\"7fff7b985d284d50b17a8ad30a230555\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6294154c5c81832cf7b9d6614919fbec.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "6YFVNW-ypwVfS24nFjBXGXazG_UK_i2DDWW4T5yYlqH_1QtvX82MBA=="
+    },
+    "data": "{\"id\":11910,\"results\":{\"AT\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11910-hogfather\/watch?locale=AT\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":15}]},\"CH\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/11910-hogfather\/watch?locale=CH\",\"buy\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}],\"rent\":[{\"logo_path\":\"\/82hFfWsPYtyskBrnkL8Y36vHcVf.jpg\",\"provider_id\":133,\"provider_name\":\"Videobuster\",\"display_priority\":8}]}}}"
+}

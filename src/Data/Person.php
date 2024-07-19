@@ -15,8 +15,8 @@ readonly class Person
     final public function __construct(
         public bool $adult,
         public array $alsoKnownAs,
-        public string $biography,
-        public CarbonImmutable $birthday,
+        public ?string $biography,
+        public ?CarbonImmutable $birthday,
         public ?CarbonImmutable $deathday,
         public Gender $gender,
         public ?string $homepage,
@@ -34,9 +34,9 @@ readonly class Person
         return new static(
             adult: $data['adult'],
             alsoKnownAs: $data['also_known_as'] ?? [],
-            biography: $data['biography'],
-            birthday: CarbonImmutable::parse($data['birthday']),
-            deathday: $data['deathday'] ? CarbonImmutable::parse($data['deathday']) : null,
+            biography: $data['biography'] ?? null,
+            birthday: empty($data['birthday']) ? null : CarbonImmutable::parse($data['birthday']),
+            deathday: empty($data['deathday']) ? null : CarbonImmutable::parse($data['deathday']),
             gender: Gender::from($data['gender']),
             homepage: $data['homepage'] ?? null,
             id: $data['id'],

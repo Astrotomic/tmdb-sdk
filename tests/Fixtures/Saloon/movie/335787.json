@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1643",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:35:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19720",
+        "x-memc": "HIT",
+        "x-memc-key": "414fb9843fa69c984f3e485d65d386c9",
+        "x-memc-age": "5724",
+        "x-memc-expires": "19720",
+        "ETag": "W\/\"ff7240bf84f4ba319857eaf17e1f338f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 680370d83a2dca8172426cfc0e48cf92.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "BD0coZf5Kj11gWFd-6JSm13obWLqNGY3ZEq_-hsHFsKjGF4ig_Ld3A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/fwrqW8Lp5VQuppFrODd4iJ8LySE.jpg\",\"belongs_to_collection\":{\"id\":1216426,\"name\":\"Uncharted Collection\",\"poster_path\":\"\/8k3BvQSOC6Y1p2raqRZQPSqEAr8.jpg\",\"backdrop_path\":\"\/hMZjdhejSvs8NJpkiLBVOYbWKzP.jpg\"},\"budget\":120000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"}],\"homepage\":\"https:\/\/www.unchartedmovie.com\",\"id\":335787,\"imdb_id\":\"tt1464335\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Uncharted\",\"overview\":\"A young street-smart, Nathan Drake and his wisecracking partner Victor \u201cSully\u201d Sullivan embark on a dangerous pursuit of \u201cthe greatest treasure never found\u201d while also tracking clues that may lead to Nathan\u2019s long-lost brother.\",\"popularity\":77.847,\"poster_path\":\"\/rJHC1RUORuUhtfNb4Npclx0xnOf.jpg\",\"production_companies\":[{\"id\":5,\"logo_path\":\"\/71BqEFAF4V3qjjMPCpLuyJFB9A.png\",\"name\":\"Columbia Pictures\",\"origin_country\":\"US\"},{\"id\":507,\"logo_path\":\"\/aRmHe6GWxYMRCQljF75rn2B9Gv8.png\",\"name\":\"Atlas Entertainment\",\"origin_country\":\"US\"},{\"id\":125281,\"logo_path\":\"\/3hV8pyxzAJgEjiSYVv1WZ0ZYayp.png\",\"name\":\"PlayStation Productions\",\"origin_country\":\"US\"},{\"id\":14439,\"logo_path\":null,\"name\":\"Arad Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-02-10\",\"revenue\":407100000,\"runtime\":116,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Fortune favors the bold.\",\"title\":\"Uncharted\",\"video\":false,\"vote_average\":6.953,\"vote_count\":5747}"
+}

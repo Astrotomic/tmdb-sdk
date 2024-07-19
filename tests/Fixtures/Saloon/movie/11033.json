@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1249",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6217",
+        "x-memc": "HIT",
+        "x-memc-key": "eff1355588346d035756e9e3758c3fcb",
+        "x-memc-age": "20426",
+        "x-memc-expires": "6217",
+        "ETag": "W\/\"4a4df4cb51d2284f05ae95a028fb9cfc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "SaRo6RKpPvVwt-8iTBQP3nUSkxc_oK08C422NyI_DQErUVDgUO08nw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wmHfg56pvzmLCXz5Gs9D7d5rjvG.jpg\",\"belongs_to_collection\":null,\"budget\":6500000,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":9648,\"name\":\"Mystery\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":11033,\"imdb_id\":\"tt0080661\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Dressed to Kill\",\"overview\":\"After witnessing a mysterious woman brutally slay a homemaker, prostitute Liz Blake finds herself trapped in a dangerous situation. While the police thinks she is the murderer, the real killer is intent on silencing her only witness.\",\"popularity\":20.372,\"poster_path\":\"\/oy1m5dd44foNrxV8U9l6Walx82V.jpg\",\"production_companies\":[{\"id\":1138,\"logo_path\":\"\/nFDryQEdl7eVjJuXoaT4Vw88xgz.png\",\"name\":\"Filmways Pictures\",\"origin_country\":\"US\"},{\"id\":10317,\"logo_path\":null,\"name\":\"Cinema 77 Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1980-07-25\",\"revenue\":31899000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Every nightmare has a beginning... This one never ends.\",\"title\":\"Dressed to Kill\",\"video\":false,\"vote_average\":6.931,\"vote_count\":880}"
+}

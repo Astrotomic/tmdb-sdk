@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1584",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:56:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25171",
+        "x-memc": "HIT",
+        "x-memc-key": "3dd5bd885292ee73b0db24ebc578cb0c",
+        "x-memc-age": "1498",
+        "x-memc-expires": "25171",
+        "ETag": "W\/\"960cb9eae61d4abe2dfaf0bae341306c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 f0e28236e1c4da7e6a02d601c5d0ceca.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eOBR1Q6Me3PVfag9lTLt56nxnS_OJVklyxc5VhARFjX7bb044Wm5AQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/jUql7CUpp4vsidsZ0PoX4qxzGMp.jpg\",\"belongs_to_collection\":{\"id\":544508,\"name\":\"Wizards of the Lost Kingdom Collection\",\"poster_path\":\"\/11kWLNZVWRSJWgjDO6lHV9flqTE.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":7234,\"imdb_id\":\"tt0090333\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Wizards of the Lost Kingdom\",\"overview\":\"Simon, son of the king, must flee when the empire is overthrown by the evil Shurka. Schooled in the arts of magic, he must find the Ring of Magic and the Sword of Power and defeat the wizard who killed his father. He is joined in his quest by the swordmaster Kor, his faithful protector Gulfax, and the Forest Wizard Hurla.\",\"popularity\":7.642,\"poster_path\":\"\/ClvJt5N66xSX4hbp5D6CtnEODX.jpg\",\"production_companies\":[{\"id\":34317,\"logo_path\":null,\"name\":\"Trinity Productions\",\"origin_country\":\"\"},{\"id\":5462,\"logo_path\":null,\"name\":\"Aries Cinematogr\u00e1fica Argentina\",\"origin_country\":\"AR\"},{\"id\":2000,\"logo_path\":\"\/urxk6ve5H88eLPKTBGV0BvOG57o.png\",\"name\":\"New Horizons\",\"origin_country\":\"CN\"}],\"production_countries\":[{\"iso_3166_1\":\"AR\",\"name\":\"Argentina\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1985-10-01\",\"revenue\":0,\"runtime\":79,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A Brave Boy And A Great Warrior Seek The Ring Of Ultimate Power\",\"title\":\"Wizards of the Lost Kingdom\",\"video\":false,\"vote_average\":3.118,\"vote_count\":51}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1262",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7322",
+        "x-memc": "HIT",
+        "x-memc-key": "e4e284d7f0d0b73dd5c825c731f034fe",
+        "x-memc-age": "19880",
+        "x-memc-expires": "7322",
+        "ETag": "W\/\"bfe6c0c2858b40abc13e547a371d6e59\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 392060e737ac00b4ceaf733942c6b428.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TPob4bimZtre9Cb-sYWmY2jgPhBhWrgpAB_geusfrMkWBZ6lXZUobg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/y4sWnBV6z92nhCeWavndfUggRoz.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":36,\"name\":\"History\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"http:\/\/www.tfmdistribution.com\/johnnymaddog\/\",\"id\":8929,\"imdb_id\":\"tt1042424\",\"origin_country\":[\"BE\",\"FR\",\"LR\"],\"original_language\":\"en\",\"original_title\":\"Johnny Mad Dog\",\"overview\":\"A cast of unknown performers are used in this drama about child soldiers fighting a war in an unnamed African country.\",\"popularity\":9.974,\"poster_path\":\"\/7YspfHUzOSpqdEiGJIR9P6ab0g.jpg\",\"production_companies\":[{\"id\":2568,\"logo_path\":null,\"name\":\"Lunar Films\",\"origin_country\":\"GB\"},{\"id\":159768,\"logo_path\":null,\"name\":\"Explicit Films\",\"origin_country\":\"\"},{\"id\":20240,\"logo_path\":null,\"name\":\"MNP Entreprise\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"LR\",\"name\":\"Liberia\"},{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"BE\",\"name\":\"Belgium\"}],\"release_date\":\"2008-05-20\",\"revenue\":0,\"runtime\":97,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Johnny Mad Dog\",\"video\":false,\"vote_average\":6.3,\"vote_count\":61}"
+}

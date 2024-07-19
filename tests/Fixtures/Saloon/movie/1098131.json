@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1334",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:32:16 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=15012",
+        "x-memc": "HIT",
+        "x-memc-key": "5f5f21523ca0683031be5111e9de1fb9",
+        "x-memc-age": "12609",
+        "x-memc-expires": "15012",
+        "ETag": "W\/\"ef00165fbd48da4a46255c9d84890c02\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "F_6VPiZRvzxoGvzSd-1t5ZGckX_cvHIFt5JjEgDcjF7zj6YouQGsBw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9LKHdQ3CsX50bPtfFO6sHDqnLMl.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":80,\"name\":\"Crime\"},{\"id\":99,\"name\":\"Documentary\"}],\"homepage\":\"https:\/\/www.investigationdiscovery.com\/show\/homicide-hunter-the-man-with-no-face-investigation-discovery-atve-us\",\"id\":1098131,\"imdb_id\":\"tt26753485\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Homicide Hunter: The Man with No Face\",\"overview\":\"Joe Kenda's investigation into the brutal rape and murder of 24 year old wife and mother Mary Lynn Vialpando goes cold until DNA technology leads cold-case detectives to the most unlikely of killers 30 years later.\",\"popularity\":5.213,\"poster_path\":\"\/dG1XfJTyo4nPST17cby8ojJb8us.jpg\",\"production_companies\":[{\"id\":73761,\"logo_path\":\"\/4Fmsy7FsqNbcG9pdQbwTIKunV1q.png\",\"name\":\"Investigation Discovery\",\"origin_country\":\"US\"},{\"id\":41325,\"logo_path\":\"\/gm8XtSJa8nL2Wq7GV0KeoH4E2iH.png\",\"name\":\"Jupiter Entertainment\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-03-08\",\"revenue\":0,\"runtime\":84,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Homicide Hunter: The Man with No Face\",\"video\":false,\"vote_average\":4.75,\"vote_count\":4}"
+}

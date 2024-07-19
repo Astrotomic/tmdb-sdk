@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1539",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:33 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14895",
+        "x-memc": "HIT",
+        "x-memc-key": "fe4564b32b34af66235b88799d8da7f6",
+        "x-memc-age": "9424",
+        "x-memc-expires": "14895",
+        "ETag": "W\/\"9881d09b3b815d722bc127bebb58d196\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 467c42a0c72c51b2088dc9c36a9c2a1e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "9eovztbiG1EBWvKSMzaOhr1ckEIT8_R_tcPDHxhctSoFu_vUsRz5lQ=="
+    },
+    "data": "{\"id\":550401,\"cast\":[],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2135065,\"known_for_department\":\"Writing\",\"name\":\"Aki Ollikainen\",\"original_name\":\"Aki Ollikainen\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5baa764ac3a3683ab5003e5c\",\"department\":\"Writing\",\"job\":\"Novel\"},{\"adult\":false,\"gender\":2,\"id\":2086022,\"known_for_department\":\"Production\",\"name\":\"Marko Antila\",\"original_name\":\"Marko Antila\",\"popularity\":0.029,\"profile_path\":null,\"credit_id\":\"5baa7667c3a3683aaa004b73\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":1730907,\"known_for_department\":\"Production\",\"name\":\"Oskari Huttu\",\"original_name\":\"Oskari Huttu\",\"popularity\":0.538,\"profile_path\":null,\"credit_id\":\"5baa76590e0a2664da004557\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":0,\"id\":2135066,\"known_for_department\":\"Production\",\"name\":\"Mikko R\u00e4is\u00e4nen\",\"original_name\":\"Mikko R\u00e4is\u00e4nen\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5baa767a92514150e8003a0c\",\"department\":\"Production\",\"job\":\"Producer\"},{\"adult\":false,\"gender\":2,\"id\":1113223,\"known_for_department\":\"Directing\",\"name\":\"Mikko Kuparinen\",\"original_name\":\"Mikko Kuparinen\",\"popularity\":1.217,\"profile_path\":null,\"credit_id\":\"5baa761b92514150f10043aa\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":2,\"id\":1113223,\"known_for_department\":\"Directing\",\"name\":\"Mikko Kuparinen\",\"original_name\":\"Mikko Kuparinen\",\"popularity\":1.217,\"profile_path\":null,\"credit_id\":\"5baa763192514150e8003996\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

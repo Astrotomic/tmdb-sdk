@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1218",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:53 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17475",
+        "x-memc": "HIT",
+        "x-memc-key": "31bf3f8fb59e622a1e5f126a325dd379",
+        "x-memc-age": "8837",
+        "x-memc-expires": "17475",
+        "ETag": "W\/\"cc5ea72a09e8deb996e90d061dccdafd\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Oobgx19W_nOwGmfs0GBheUyHFxTWfRom8owkbIeeecFq-0hczGZoXw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":391277,\"imdb_id\":\"tt0295187\",\"origin_country\":[\"AL\"],\"original_language\":\"sq\",\"original_title\":\"Beni ec\u00ebn vet\u00eb\",\"overview\":\"Beni is an eight-year-old boy living in Kor\u00e7\u00eb with his parents and leads a sheltered life. His mother is very protective and doesn't let him play outside. When Beni is able to go outside, the neighborhood children make fun of him. One day when his uncle Thomai is visiting, he sees Beni crying after the other children took his horse. Thomai decides to take Beni on horseback to a distant village where he teaches him about life and how to be a man.\",\"popularity\":0.818,\"poster_path\":\"\/plECdnmqDS7C8fa4X82QdbdlfzG.jpg\",\"production_companies\":[{\"id\":29695,\"logo_path\":null,\"name\":\"Shqip\u00ebria e Re\",\"origin_country\":\"AL\"}],\"production_countries\":[{\"iso_3166_1\":\"AL\",\"name\":\"Albania\"}],\"release_date\":\"1975-01-24\",\"revenue\":0,\"runtime\":80,\"spoken_languages\":[{\"english_name\":\"Albanian\",\"iso_639_1\":\"sq\",\"name\":\"shqip\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Beni Walks by Himself\",\"video\":false,\"vote_average\":8.5,\"vote_count\":2}"
+}

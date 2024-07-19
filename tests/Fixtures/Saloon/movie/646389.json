@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1762",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:32 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14669",
+        "x-memc": "HIT",
+        "x-memc-key": "c0c9422ac8ee91c5574b4cf372ef8713",
+        "x-memc-age": "13130",
+        "x-memc-expires": "14669",
+        "ETag": "W\/\"fc60f183185b1ff77e31d3a0f81bbfe6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a1498dff3937a5cd56baf5f0f59e01c2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "i0sWcEc66eObMCwT1aX7A86IOgyguarUM5Nr83pCWK5WcKCFU4kx7w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6JU2ysRVOHqav0Hs6BUv4mvvDxZ.jpg\",\"belongs_to_collection\":{\"id\":1099094,\"name\":\"Plane Collection\",\"poster_path\":\"\/65sSXSZr4CXKYGbMyxWJASzBt6E.jpg\",\"backdrop_path\":null},\"budget\":25000000,\"genres\":[{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/www.plane.movie\",\"id\":646389,\"imdb_id\":\"tt5884796\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Plane\",\"overview\":\"After a heroic job of successfully landing his storm-damaged aircraft in a war zone, a fearless pilot finds himself between the agendas of multiple militias planning to take the plane and its passengers hostage.\",\"popularity\":55.336,\"poster_path\":\"\/oJRsTQR47pyjSJCZYpOfbycpNBR.jpg\",\"production_companies\":[{\"id\":73492,\"logo_path\":\"\/bQzrYnomE5hIRJMxEy7e2SCYew3.png\",\"name\":\"MadRiver Pictures\",\"origin_country\":\"US\"},{\"id\":435,\"logo_path\":\"\/AjzK0s2w1GtLfR4hqCjVSYi0Sr8.png\",\"name\":\"di Bonaventura Pictures\",\"origin_country\":\"US\"},{\"id\":103331,\"logo_path\":\"\/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png\",\"name\":\"G-BASE\",\"origin_country\":\"US\"},{\"id\":149107,\"logo_path\":\"\/m5rZejMojEGh6zJyCEzdBdS0ZAy.png\",\"name\":\"Olive Hill Media\",\"origin_country\":\"US\"},{\"id\":76314,\"logo_path\":\"\/oFiHo3350Nj7bi6oxYMq3Kp6VGC.png\",\"name\":\"Riverstone Pictures\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"PR\",\"name\":\"Puerto Rico\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2023-01-12\",\"revenue\":51000000,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"Turkish\",\"iso_639_1\":\"tr\",\"name\":\"T\u00fcrk\u00e7e\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Survive together or die alone.\",\"title\":\"Plane\",\"video\":false,\"vote_average\":6.968,\"vote_count\":2117}"
+}

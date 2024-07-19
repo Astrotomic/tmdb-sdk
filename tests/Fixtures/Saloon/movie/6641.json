@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1501",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19424",
+        "x-memc": "HIT",
+        "x-memc-key": "0a4566354e541d2147c77fc131d1387c",
+        "x-memc-age": "4095",
+        "x-memc-expires": "19424",
+        "ETag": "W\/\"7a07e919ec968bcc9775c05cba9b7a38\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "K12uH_XWDABUO4kRz4ZWjdZ_grJg50aYFTJep0hUGl_ug24fb4tf6A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4x8R5fbLySPnSB1RchwExdN5wip.jpg\",\"belongs_to_collection\":null,\"budget\":9000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":6641,\"imdb_id\":\"tt0452643\",\"origin_country\":[\"US\",\"GB\"],\"original_language\":\"en\",\"original_title\":\"Love and Other Disasters\",\"overview\":\"Flighty Emily \\\"Jacks\\\" Jackson works for the British edition of Vogue magazine. Rather than pursue a relationship, Jacks regularly hooks up with her devoted ex-boyfriend, James Wildstone, and lives with Peter Simon, a gay screenwriter. When Jacks meets Argentinian photographer's assistant Paolo Sarmiento, she assumes he is gay and tries to bring him and Peter together, unaware that Paolo is straight and in love with her.\",\"popularity\":12.134,\"poster_path\":\"\/A0bXqv83sOVBnDyFGQCDeEWb0Os.jpg\",\"production_companies\":[{\"id\":2055,\"logo_path\":null,\"name\":\"Skyline Films\",\"origin_country\":\"GB\"},{\"id\":6896,\"logo_path\":\"\/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png\",\"name\":\"EuropaCorp\",\"origin_country\":\"FR\"},{\"id\":2054,\"logo_path\":null,\"name\":\"Ruby Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2006-09-09\",\"revenue\":6400000,\"runtime\":91,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"A comedy that proves love is blind.\",\"title\":\"Love and Other Disasters\",\"video\":false,\"vote_average\":5.8,\"vote_count\":316}"
+}

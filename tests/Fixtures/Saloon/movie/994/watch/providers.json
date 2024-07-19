@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "227",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:29:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=6487",
+        "x-memc": "HIT",
+        "x-memc-key": "9efb1ff97626565fd8bd589c92a9debc",
+        "x-memc-age": "16394",
+        "x-memc-expires": "6487",
+        "ETag": "W\/\"29acdcca7bfd666b7d8ffff1ab4bf55f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Ii5jrqkemmRg1zAuPWAO6PhDXjGSk3vYlQBZKaPPiETSeBiPmx1Xew=="
+    },
+    "data": "{\"id\":994,\"results\":{\"ES\":{\"link\":\"https:\/\/www.themoviedb.org\/movie\/994-straw-dogs\/watch?locale=ES\",\"flatrate\":[{\"logo_path\":\"\/kO2SWXvDCHAquaUuTJBuZkTBAuU.jpg\",\"provider_id\":63,\"provider_name\":\"Filmin\",\"display_priority\":8}]}}}"
+}

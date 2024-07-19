@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1343",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:30 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12452",
+        "x-memc": "HIT",
+        "x-memc-key": "8bfc304825ee796bb86f79185ae8343d",
+        "x-memc-age": "13243",
+        "x-memc-expires": "12452",
+        "ETag": "W\/\"72a6c33a9f19aafebe01e63d81da88f4\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "lqVpaAn6ulxOCdpcK0g5EjNQPAlaH_oeLRmBm05TilA7LTcp-qwM3g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/kSlO1pHpwQfPQdgVPr7dJiJNtJ8.jpg\",\"belongs_to_collection\":null,\"budget\":1500000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":3082,\"imdb_id\":\"tt0027977\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Modern Times\",\"overview\":\"A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..\",\"popularity\":26.248,\"poster_path\":\"\/uEMekS25hwXrCJOZZ3NKMGcAFJo.jpg\",\"production_companies\":[{\"id\":1315,\"logo_path\":null,\"name\":\"Charles Chaplin Productions\",\"origin_country\":\"\"},{\"id\":60,\"logo_path\":\"\/1SEj4nyG3JPBSKBbFhtdcHRaIF9.png\",\"name\":\"United Artists\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1936-02-05\",\"revenue\":1800000,\"runtime\":87,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He stands alone as the greatest entertainer of modern times! No one on earth can make you laugh as heartily or touch your heart as deeply...the whole world laughs, cries and thrills to his priceless genius!\",\"title\":\"Modern Times\",\"video\":false,\"vote_average\":8.296,\"vote_count\":3598}"
+}

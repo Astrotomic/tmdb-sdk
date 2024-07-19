@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1208",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:34 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13438",
+        "x-memc": "HIT",
+        "x-memc-key": "88abd71a62f60578fdd53b7da3d522c1",
+        "x-memc-age": "12651",
+        "x-memc-expires": "13438",
+        "ETag": "W\/\"e09822cfc8a9da78726b89d44250d7ed\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "QhiH5POGOLdfvE75p6rkIGEK_ondp_loe_jgIGpiVfs7_6JOcTi87Q=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wrafPAcHnOyWeJLf43yuaFp28Dw.jpg\",\"belongs_to_collection\":null,\"budget\":1580000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":2160,\"imdb_id\":\"tt0055608\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Voyage to the Bottom of the Sea\",\"overview\":\"The crew of an atomic submarine battle to save the world from global destruction.\",\"popularity\":13.866,\"poster_path\":\"\/eBm2BUvRwGwxr3hfAaOJ8kVuuhw.jpg\",\"production_companies\":[{\"id\":79401,\"logo_path\":null,\"name\":\"Windsor Productions\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1961-07-12\",\"revenue\":7000000,\"runtime\":105,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"From Hundred of Miles In Outer Space to Seven Miles Beneath the Sea!\",\"title\":\"Voyage to the Bottom of the Sea\",\"video\":false,\"vote_average\":5.7,\"vote_count\":121}"
+}

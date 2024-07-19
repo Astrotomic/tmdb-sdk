@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "677",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25093",
+        "x-memc": "HIT",
+        "x-memc-key": "00e608c20fc09be1b1b8bb61cb5abb39",
+        "x-memc-age": "2576",
+        "x-memc-expires": "25093",
+        "ETag": "W\/\"c3dbb4dc829b89b0bf20da8019b3dbf2\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d5eeed1afd0479e90933e70b18bd714a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "46s20Dn5Fmn2Es2CJXj1pGtnQew2ojbIDVrY4T7LnR45yvHQC3F-yg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":225813,\"imdb_id\":\"tt0475268\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Favor\",\"overview\":\"A troubled teenager, left alone after his mother's sudden death, is befriended and offered a home by his mom's former boyfriend.\",\"popularity\":1.809,\"poster_path\":\"\/1Fm9c2TFyLvwHn11Nwr6uxDVQTy.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2007-10-19\",\"revenue\":0,\"runtime\":110,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Favor\",\"video\":false,\"vote_average\":4.3,\"vote_count\":3}"
+}

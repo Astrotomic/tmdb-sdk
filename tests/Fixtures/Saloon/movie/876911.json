@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1638",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:26 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23101",
+        "x-memc": "HIT",
+        "x-memc-key": "defc75ea0aa3e6616edfaca077713958",
+        "x-memc-age": "5173",
+        "x-memc-expires": "23101",
+        "ETag": "W\/\"82271f387173b9a2e151dccce3c1e27f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "EOrb2jOLPbLTmN34FMqFCq1TOBj82I3oxec3xFa3nXns-EgWgQp9bg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zky1xbkgDwCMiNOLFoPRyjHMo2w.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":876911,\"imdb_id\":\"tt14637386\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Parallel\",\"overview\":\"Grief-stricken after the loss of her child, Vanessa takes refuge at a lake house only to be met with an aberration of herself from a parallel universe and realizes the multiverse gates hold the key to releasing her grief or trapping her forever.\",\"popularity\":8.262,\"poster_path\":\"\/glZRP5M0uDoAzYKLB2XcCc8Gaep.jpg\",\"production_companies\":[{\"id\":106822,\"logo_path\":\"\/8nTmQ9Qi78MmOwVfzn6jorz0UFm.png\",\"name\":\"Rumble Riot Pictures\",\"origin_country\":\"US\"},{\"id\":161335,\"logo_path\":null,\"name\":\"Beijing Pu Luo Media Co.\",\"origin_country\":\"US\"},{\"id\":198332,\"logo_path\":\"\/bk4NB4eP04Y9CL1fgRe8ZpYlXFi.png\",\"name\":\"Hodge Brothers Productions\",\"origin_country\":\"US\"},{\"id\":219833,\"logo_path\":null,\"name\":\"Fremont Films\",\"origin_country\":\"\"},{\"id\":148378,\"logo_path\":\"\/fKbO9AfFPgeqoUp2XUrfJYQ8FiO.png\",\"name\":\"Mammoth Pictures\",\"origin_country\":\"US\"},{\"id\":121204,\"logo_path\":\"\/vbtvY4IxgUZk713rkmoTO4MHIac.png\",\"name\":\"BondIt Media Capital\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-02-23\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Question your reality.\",\"title\":\"Parallel\",\"video\":false,\"vote_average\":5.568,\"vote_count\":22}"
+}

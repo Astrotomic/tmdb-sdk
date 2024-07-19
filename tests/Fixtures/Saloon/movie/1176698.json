@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "834",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=9737",
+        "x-memc": "HIT",
+        "x-memc-key": "d8136b462613b651d882f1be9a021649",
+        "x-memc-age": "18099",
+        "x-memc-expires": "9737",
+        "ETag": "W\/\"a897300d1a3f972a6482e4f10e060a2b\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "8pFC4oINf_9P1awrmdCA7rYkP90bKkzNoDaHZNxcOY7ghsVINjlyQg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":1176698,\"imdb_id\":\"tt10065248\",\"origin_country\":[\"DK\"],\"original_language\":\"da\",\"original_title\":\"Krig\",\"overview\":\"In war-torn Denmark, a brother and sister fight for survival as they embark on a perilous journey through the violent and dangerous landscape, where they must stay vigilant to avoid the hostile and vicious Danes.\",\"popularity\":1.001,\"poster_path\":\"\/ei8hee8y3GN6kILyMNPpyuseBIP.jpg\",\"production_companies\":[],\"production_countries\":[],\"release_date\":\"2017-08-20\",\"revenue\":0,\"runtime\":11,\"spoken_languages\":[{\"english_name\":\"Danish\",\"iso_639_1\":\"da\",\"name\":\"Dansk\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"War\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

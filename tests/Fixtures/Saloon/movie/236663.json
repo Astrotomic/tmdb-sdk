@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1206",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1260",
+        "x-memc": "HIT",
+        "x-memc-key": "6059d009dabd6c1f3494f94d529c914d",
+        "x-memc-age": "25500",
+        "x-memc-expires": "1260",
+        "ETag": "W\/\"948b1966dd1dbb4fb0b7891b67e0bc41\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 44b74b23c5e60f8349560434950d9d2a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "DGsc7fvQmGzcl-iGM5wdgrlAP7WqHUYHG-K1ldng3HePnKHkXmi2HQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bsHag5AoqUylBASBfQEH9nHpWNp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"\",\"id\":236663,\"imdb_id\":\"tt0036334\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Scrap Happy Daffy\",\"overview\":\"During World War Two, Daffy Duck owns a junkyard which collects scrap metal to use in building weapons to continue the Allied fight against the Axis powers. Hitler reads about Daffy's scrap pile and about Daffy's stated intent to win the war with junk and, after throwing a fit and chewing a carpet like a mad dog, orders Daffy's scrap pile destroyed.\",\"popularity\":7.228,\"poster_path\":\"\/h9iAZWA1pGxlmeEp9OdrQDmLvEx.jpg\",\"production_companies\":[{\"id\":134798,\"logo_path\":null,\"name\":\"Leon Schlesinger Productions\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1943-08-20\",\"revenue\":0,\"runtime\":8,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Scrap Happy Daffy\",\"video\":false,\"vote_average\":6.565,\"vote_count\":23}"
+}

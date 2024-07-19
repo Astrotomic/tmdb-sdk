@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "917",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:42 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=14987",
+        "x-memc": "HIT",
+        "x-memc-key": "586073efdc03750255c7fd04d33efe74",
+        "x-memc-age": "9142",
+        "x-memc-expires": "14987",
+        "ETag": "W\/\"6e79679de0f75cdd1f7232cfd609654c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 62c57d3992f5571b9941423fe3037e08.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "aKxLD-aoU80LYEdbrNcZeNVysSN9B8H-1s5GKENyeKmCvK10CrdWpw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"https:\/\/g.co\/kgs\/KvpS2R\",\"id\":868832,\"imdb_id\":\"tt14564750\",\"origin_country\":[\"IN\"],\"original_language\":\"te\",\"original_title\":\"3G Love\",\"overview\":\"Set in the backdrop of a graduation college, the film seeks to mirror how love has evolved in the age of 3G connectivity. It is all about teenage love, infatuations, heartbreaks, betrayals and other such tribulations amidst ten couples in love.\",\"popularity\":1.751,\"poster_path\":null,\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"IN\",\"name\":\"India\"}],\"release_date\":\"2013-03-15\",\"revenue\":0,\"runtime\":155,\"spoken_languages\":[{\"english_name\":\"Telugu\",\"iso_639_1\":\"te\",\"name\":\"\u0c24\u0c46\u0c32\u0c41\u0c17\u0c41\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"3G Love\",\"video\":false,\"vote_average\":7.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1352",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:55 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17411",
+        "x-memc": "HIT",
+        "x-memc-key": "1bb883c92a1581570679506b70961154",
+        "x-memc-age": "10654",
+        "x-memc-expires": "17411",
+        "ETag": "W\/\"9b6cb98a15376d34a2c23542b671ce35\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "xPMxAxCNh8nafbAMQfv7cVl8i13VBQ8KkqguD-gOcjGVg7iO7lb-hw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/a4IWRYNMNMszIkRbEIiNsRg6cvt.jpg\",\"belongs_to_collection\":null,\"budget\":50000000,\"genres\":[{\"id\":10752,\"name\":\"War\"},{\"id\":28,\"name\":\"Action\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/a24films.com\/films\/civil-war\",\"id\":929590,\"imdb_id\":\"tt17279496\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Civil War\",\"overview\":\"In the near future, a group of war journalists attempt to survive while reporting the truth as the United States stands on the brink of civil war.\",\"popularity\":757.152,\"poster_path\":\"\/sh7Rg8Er3tFcN9BpKIPOMvALgZd.jpg\",\"production_companies\":[{\"id\":284,\"logo_path\":\"\/6a26if3IKy7mlrQuGHHVp6ufQtF.png\",\"name\":\"DNA Films\",\"origin_country\":\"GB\"},{\"id\":142269,\"logo_path\":\"\/ggrWFqk5mPMks0vE3aCy3l9e0dv.png\",\"name\":\"IPR.VC\",\"origin_country\":\"FI\"},{\"id\":41077,\"logo_path\":\"\/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png\",\"name\":\"A24\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"FI\",\"name\":\"Finland\"},{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2024-04-10\",\"revenue\":121695834,\"runtime\":109,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Welcome to the frontline.\",\"title\":\"Civil War\",\"video\":false,\"vote_average\":6.988,\"vote_count\":1912}"
+}

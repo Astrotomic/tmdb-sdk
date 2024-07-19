@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1377",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:47 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19840",
+        "x-memc": "HIT",
+        "x-memc-key": "526e51bf702d99ebe22816d779164e83",
+        "x-memc-age": "2399",
+        "x-memc-expires": "19840",
+        "ETag": "W\/\"0b41c3afe6afeebf0aeff8e72eb6debe\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "JlW0Xk46y8yMUyCCHOzQYINMFk9xQPTBF5NEQIvYddTUFzuz_ER6nA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/rUzFi43Rlxw6Ghz1TV1RwPvVEQY.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":37,\"name\":\"Western\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":391455,\"imdb_id\":\"tt0021412\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Spoilers\",\"overview\":\"On a voyage to Nome, Roy Glenister, one of the several owners of a rich mine, The Midas, is captivated by Helen Chester, while he both fascinates and disquiets her by his primitive nature. He arrives to find his partners, Slapjack Simms and Joe Dextry, befuddled by a trio of no-gooders: Voorhees, the U. S. marshal, Judge Stillman, and McNamara, a politician. Their racket is to cloud title to the various mine claims, eject the miners, and make McNamara owner of the disputed properties.\",\"popularity\":3.121,\"poster_path\":\"\/rmIgfc58p1qlq2PUDpHdtXwSB7h.jpg\",\"production_companies\":[{\"id\":4,\"logo_path\":\"\/gz66EfNoYPqHTYI4q9UEN4CbHRc.png\",\"name\":\"Paramount Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1930-09-20\",\"revenue\":0,\"runtime\":86,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"The he-man hero who takes what he wants --- gold or women!\",\"title\":\"The Spoilers\",\"video\":false,\"vote_average\":6.0,\"vote_count\":1}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1273",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:56 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=12025",
+        "x-memc": "HIT",
+        "x-memc-key": "a03be2c27231019483562d4f44d0eb70",
+        "x-memc-age": "13444",
+        "x-memc-expires": "12025",
+        "ETag": "W\/\"e9fc87be23567482baf583255d978ce9\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8c6a3292194745111bdc6d985ce4344e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ornS4N2OoGADmPo_9U1RMVvEwCftJsffLzLuCBHNQUOYqVI8fOLKrQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg\",\"belongs_to_collection\":{\"id\":722971,\"name\":\"Knives Out Collection\",\"poster_path\":\"\/hAEATQo1enoasXMuSbeqw67E7N2.jpg\",\"backdrop_path\":\"\/G7qYINSq5xyDd0I0zn3DpAssA0.jpg\"},\"budget\":40000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":80,\"name\":\"Crime\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"https:\/\/glassonionmovie.com\",\"id\":661374,\"imdb_id\":\"tt11564570\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Glass Onion: A Knives Out Mystery\",\"overview\":\"World-famous detective Benoit Blanc heads to Greece to peel back the layers of a mystery surrounding a tech billionaire and his eclectic crew of friends.\",\"popularity\":70.547,\"poster_path\":\"\/vDGr1YdrlfbU9wxTOdpf3zChmv9.jpg\",\"production_companies\":[{\"id\":37871,\"logo_path\":\"\/aUOo1S2AabqQnRrXK6XuObWPDyK.png\",\"name\":\"T-Street\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-11-12\",\"revenue\":13280000,\"runtime\":140,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"When the game ends, the mystery begins.\",\"title\":\"Glass Onion: A Knives Out Mystery\",\"video\":false,\"vote_average\":7.055,\"vote_count\":5280}"
+}

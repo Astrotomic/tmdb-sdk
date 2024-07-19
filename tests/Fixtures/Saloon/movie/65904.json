@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1123",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:41 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20990",
+        "x-memc": "HIT",
+        "x-memc-key": "a65e9c0062c2ba58efea51e17f77e8ba",
+        "x-memc-age": "3854",
+        "x-memc-expires": "20990",
+        "ETag": "W\/\"94e1e2f44bc85dcdccb007a9d5f8049c\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 edb63ae1a17d77e53974b3e98e5872d2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "cfm1RUXLZGmQuIg0sMOCeaFqP9f6P_CWWlQyogV3N8bdZdWj6zkv-w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/bi4fsFHOeXlapR0g8SSvSVCXacT.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":65904,\"imdb_id\":\"tt0125301\",\"origin_country\":[\"XC\"],\"original_language\":\"cs\",\"original_title\":\"Kdo chce zab\u00edt Jessii?\",\"overview\":\"In this zany Czechoslovakian comedy, a scientist invents a machine that projects a sleeping person's dream on a screen; disaster soon follows when the machine malfunctions and the cartoon-like dream characters become very real!\",\"popularity\":4.983,\"poster_path\":\"\/2ERDua3zBcufX2yG3sxanqaSQQw.jpg\",\"production_companies\":[{\"id\":1931,\"logo_path\":\"\/5erHhgvym2cTORao8ajtn2gbiTH.png\",\"name\":\"Filmov\u00e9 studio Barrandov\",\"origin_country\":\"XC\"}],\"production_countries\":[{\"iso_3166_1\":\"XC\",\"name\":\"Czechoslovakia\"}],\"release_date\":\"1966-08-26\",\"revenue\":0,\"runtime\":81,\"spoken_languages\":[{\"english_name\":\"Czech\",\"iso_639_1\":\"cs\",\"name\":\"\u010cesk\u00fd\"}],\"status\":\"Released\",\"tagline\":\"A comedy about a prohibited beauty.\",\"title\":\"Who Wants to Kill Jessie?\",\"video\":false,\"vote_average\":6.9,\"vote_count\":39}"
+}

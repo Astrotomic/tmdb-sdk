@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1053",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:34:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3410",
+        "x-memc": "HIT",
+        "x-memc-key": "fdf2570ba4f0383d789c6e8694333a64",
+        "x-memc-age": "24896",
+        "x-memc-expires": "3410",
+        "ETag": "W\/\"2a343e07fe9bee5bb194103e8cc18792\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 c42c7d102b7b0ab944385204966ce2d4.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "J9tQpb4LaDcNRbIxQU5VZ3nLhxfLvubBxx8D_amaqERx26KJwpcQPQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/hKrrCigPFmhv1bg5IJl9nzjEaN4.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":631,\"imdb_id\":\"tt0018455\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Sunrise: A Song of Two Humans\",\"overview\":\"A married farmer falls under the spell of a slatternly woman from the city, who tries to convince him to drown his wife.\",\"popularity\":13.195,\"poster_path\":\"\/oj8ZW8jKXBSs8F1e5iWsTUeXSJW.jpg\",\"production_companies\":[{\"id\":5488,\"logo_path\":\"\/3O2mAL8Z32SbKtQK7h9ePZjtzSu.png\",\"name\":\"Fox Film Corporation\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1927-11-04\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"No Language\",\"iso_639_1\":\"xx\",\"name\":\"No Language\"}],\"status\":\"Released\",\"tagline\":\"\\\"An artistic masterpiece and also a joy to watch.\\\"\",\"title\":\"Sunrise: A Song of Two Humans\",\"video\":false,\"vote_average\":7.863,\"vote_count\":767}"
+}

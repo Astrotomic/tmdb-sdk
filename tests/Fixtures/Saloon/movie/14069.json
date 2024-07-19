@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1763",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:37:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=13054",
+        "x-memc": "HIT",
+        "x-memc-key": "70daca1865a3d7c90c0558af2874102d",
+        "x-memc-age": "15623",
+        "x-memc-expires": "13054",
+        "ETag": "W\/\"ec2eb4326d76aed97e759f111838570f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1f44ef8e17e3b0f8dfa4a6c642cd3f56.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "sVkLF0-gwiOsmz9CVvrHOdtngMuEtvFsvpKGthsF0F38_8iqy9nx9g=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/geb9rshjxNqeLQAc8CS8VRzFDlF.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":16,\"name\":\"Animation\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"\",\"id\":14069,\"imdb_id\":\"tt0808506\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\",\"overview\":\"When 17-year-old Makoto Konno gains the ability to, quite literally, \\\"leap\\\" backwards through time, she immediately sets about improving her grades and preventing personal mishaps. However, she soon realises that changing the past isn't as simple as it seems, and eventually, will have to rely on her new powers to shape the future of herself and her friends.\",\"popularity\":27.464,\"poster_path\":\"\/xHnlWM8BmqY419YUccYy2KC5Jqo.jpg\",\"production_companies\":[{\"id\":3464,\"logo_path\":\"\/9k0nr75nwnNeT2MHerf1OXJN0hj.png\",\"name\":\"Madhouse\",\"origin_country\":\"JP\"},{\"id\":822,\"logo_path\":\"\/HF2fFP8MH9juSCoN2VtQCFQYPD.png\",\"name\":\"Happinet Pictures\",\"origin_country\":\"JP\"},{\"id\":2073,\"logo_path\":\"\/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png\",\"name\":\"KADOKAWA\",\"origin_country\":\"JP\"},{\"id\":1194,\"logo_path\":\"\/dwkHaFLgtA7CUNbgKK0wB6bospu.png\",\"name\":\"KADOKAWA Shoten\",\"origin_country\":\"JP\"},{\"id\":12541,\"logo_path\":null,\"name\":\"Q-TEC\",\"origin_country\":\"JP\"},{\"id\":12540,\"logo_path\":null,\"name\":\"Memory-Tech\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2006-07-15\",\"revenue\":3800000,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"There is a future that we can't wait for.\",\"title\":\"The Girl Who Leapt Through Time\",\"video\":false,\"vote_average\":7.783,\"vote_count\":1965}"
+}

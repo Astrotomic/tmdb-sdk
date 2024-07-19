@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1010",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 09:33:39 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=19384",
+        "x-memc": "HIT",
+        "x-memc-key": "e5e6c8a4bba454457835c18c83022843",
+        "x-memc-age": "4096",
+        "x-memc-expires": "19384",
+        "ETag": "W\/\"b6642f69a3fd275b73dab65f0eda0086\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 70e1e87190c65708c8aabee95d16ac0c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "uMBYuxVYYyprbZnHWw9h1wo4IDj4hUGOywSNyTTVK6etzRYe9qeKqA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/wDwQXLDUuiEaaiuWIDBpbqnwYGX.jpg\",\"belongs_to_collection\":null,\"budget\":18000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"https:\/\/www.marriagestorymovie.com\",\"id\":492188,\"imdb_id\":\"tt7653254\",\"origin_country\":[\"GB\"],\"original_language\":\"en\",\"original_title\":\"Marriage Story\",\"overview\":\"A stage director and an actress struggle through a grueling, coast-to-coast divorce that pushes them to their personal extremes.\",\"popularity\":42.167,\"poster_path\":\"\/91osxUqsq1JC0zJzB1CpAavlWu7.jpg\",\"production_companies\":[{\"id\":437,\"logo_path\":\"\/nu20mtwbEIhUNnQ5NXVhHsNknZj.png\",\"name\":\"Heyday Films\",\"origin_country\":\"GB\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"2019-09-28\",\"revenue\":2300000,\"runtime\":137,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Where there's a love, there's a way.\",\"title\":\"Marriage Story\",\"video\":false,\"vote_average\":7.742,\"vote_count\":6790}"
+}

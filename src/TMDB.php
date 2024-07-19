@@ -2,8 +2,10 @@
 
 namespace Astrotomic\Tmdb;
 
+use Astrotomic\Tmdb\Paginators\PagedPaginator;
 use Astrotomic\Tmdb\Resources\Collections;
 use Astrotomic\Tmdb\Resources\Companies;
+use Astrotomic\Tmdb\Resources\Credits;
 use Astrotomic\Tmdb\Resources\Genres;
 use Astrotomic\Tmdb\Resources\Movies;
 use Astrotomic\Tmdb\Resources\People;
@@ -12,10 +14,12 @@ use Astrotomic\Tmdb\Resources\WatchProviders;
 use Saloon\Contracts\Authenticator;
 use Saloon\Http\Auth\TokenAuthenticator;
 use Saloon\Http\Connector;
+use Saloon\Http\Request;
+use Saloon\PaginationPlugin\Contracts\HasPagination;
 use Saloon\Traits\Plugins\AcceptsJson;
 use Saloon\Traits\Plugins\AlwaysThrowOnErrors;
 
-class TMDB extends Connector
+class TMDB extends Connector implements HasPagination
 {
     use AcceptsJson;
     use AlwaysThrowOnErrors;
@@ -84,5 +88,15 @@ class TMDB extends Connector
     public function people(): People
     {
         return new People($this);
+    }
+
+    public function credits(): Credits
+    {
+        return new Credits($this);
+    }
+
+    public function paginate(Request $request): PagedPaginator
+    {
+        return new PagedPaginator($this, $request);
     }
 }

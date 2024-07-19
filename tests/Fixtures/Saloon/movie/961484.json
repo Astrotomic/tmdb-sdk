@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1455",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:12:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1848",
+        "x-memc": "HIT",
+        "x-memc-key": "23a19df70045dad3b74ebd0aeb8d0bcc",
+        "x-memc-age": "26218",
+        "x-memc-expires": "1848",
+        "ETag": "W\/\"09e6d2d1026ff638b9c64c3b045ee2e5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 266242db9b2c9428b93e6f2afa4051f2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "eQWYmWPiGWrmIRWcl6x61ZMD3DvbO78E_CGtEdoWp9BCH_8yrUnjxA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nAHysRXM17o6TurhobGtL1MCDDH.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.lastseenalivemovie.com\/\",\"id\":961484,\"imdb_id\":\"tt10242388\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Last Seen Alive\",\"overview\":\"After Will Spann's wife suddenly vanishes at a gas station, his desperate search to find her leads him down a dark path that forces him to run from authorities and take the law into his own hands.\",\"popularity\":46.329,\"poster_path\":\"\/qvqyDj34Uivokf4qIvK4bH0m0qF.jpg\",\"production_companies\":[{\"id\":6626,\"logo_path\":\"\/A1BnMoWjzjOrjzpWimyBQkf84mS.png\",\"name\":\"Voltage Pictures\",\"origin_country\":\"US\"},{\"id\":137004,\"logo_path\":null,\"name\":\"Perfection Hunter Productions\",\"origin_country\":\"\"},{\"id\":103331,\"logo_path\":\"\/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png\",\"name\":\"G-BASE\",\"origin_country\":\"US\"},{\"id\":206331,\"logo_path\":null,\"name\":\"Marc Frydman Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2022-05-12\",\"revenue\":5950199,\"runtime\":95,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"He'll stop at nothing to get her back.\",\"title\":\"Last Seen Alive\",\"video\":false,\"vote_average\":6.492,\"vote_count\":898}"
+}

@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "940",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=11409",
+        "x-memc": "HIT",
+        "x-memc-key": "ce1339b405f319ea393dbdfb8e6d0846",
+        "x-memc-age": "10770",
+        "x-memc-expires": "11409",
+        "ETag": "W\/\"227e440165ed9b717d41ea4c214d1fdb\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "IZpLt2uiq-Ca6aT2JuJ3yZbXPWodDQ4clx4MfF_PMSyBACVq4HxObg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/zZ1QKpeM05PIdCgh91BkM8Zdtj7.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":28,\"name\":\"Action\"},{\"id\":9648,\"name\":\"Mystery\"}],\"homepage\":\"\",\"id\":93840,\"imdb_id\":\"tt1959346\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"\u00c0 l'aveugle\",\"overview\":\"A police inspector must solve two grisly murders. The problem is that his only suspect is a blind man.\",\"popularity\":14.312,\"poster_path\":\"\/4qN7odVopSQMn3gbeQwEC4i3LGq.jpg\",\"production_companies\":[{\"id\":6896,\"logo_path\":\"\/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png\",\"name\":\"EuropaCorp\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2012-03-06\",\"revenue\":0,\"runtime\":94,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Blind Man\",\"video\":false,\"vote_average\":5.563,\"vote_count\":56}"
+}

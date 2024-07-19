@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1046",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:44 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=3116",
+        "x-memc": "HIT",
+        "x-memc-key": "a0f5c9233cd301628eea9ccaac6266a6",
+        "x-memc-age": "25598",
+        "x-memc-expires": "3116",
+        "ETag": "W\/\"37791bf495d70ad31c9e278106979264\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 caebf714ea51c76c24bef1154a06d3a8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "O5h6c1zbhDGtqNT7uMYcQTCPVzS2udGTp45kcJtMlptI7VySMVFfCA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nQqgIOACacw6cuXM3IVSELWd0p8.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":395438,\"imdb_id\":\"tt0196714\",\"origin_country\":[\"GR\"],\"original_language\":\"el\",\"original_title\":\"\u039f \u039b\u03bf\u03c5\u03c3\u03c4\u03c1\u03ac\u03ba\u03bf\u03c2\",\"overview\":\"The small loustrakos Vasilis Maras alongside the school of fine on the streets of Athens to make money. The mother finds injustice in prison for the murder of Demetrias. With the persistence of the king, however, and the help of a lawyer, the Karelia, the mother of leaving prison.\",\"popularity\":3.436,\"poster_path\":\"\/o82RUnD9bOhGhF80CcNurXShTAj.jpg\",\"production_companies\":[{\"id\":40020,\"logo_path\":null,\"name\":\"Anzervos\",\"origin_country\":\"GR\"}],\"production_countries\":[{\"iso_3166_1\":\"GR\",\"name\":\"Greece\"}],\"release_date\":\"1962-01-01\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"Greek\",\"iso_639_1\":\"el\",\"name\":\"\u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Loustrakos\",\"video\":false,\"vote_average\":6.2,\"vote_count\":10}"
+}

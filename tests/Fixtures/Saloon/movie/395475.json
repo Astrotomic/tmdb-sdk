@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1093",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:05 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=18159",
+        "x-memc": "HIT",
+        "x-memc-key": "fbc4415eb7cb399b7b037610b74eb10e",
+        "x-memc-age": "6057",
+        "x-memc-expires": "18159",
+        "ETag": "W\/\"8908c54ba4f639cbb599f836303c30c7\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 5ebf576d12f6509b8dd71a69aebcb490.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ss71254rh4ms3JcQRT62cPq_m-2Xqj4NJQMnbK8o-6IguthiySWbIA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/xjMpgn0qrz3gk6uFEvkbnde2AaB.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10749,\"name\":\"Romance\"}],\"homepage\":\"\",\"id\":395475,\"imdb_id\":\"tt4892556\",\"origin_country\":[\"CN\"],\"original_language\":\"zh\",\"original_title\":\"\u559c\u4e50\u957f\u5b89\",\"overview\":\"A hilarious adventure of a 6-year-old orphan named Joy and a small wooden temple of disciples. During the great famine, the temple was engulfed in conflict and became the center of a martial showdown. Despite the drastic changes in the temple and the political arena, Joy somehow has become everyone's desire and is squeezed into the middle of all the chaos.\",\"popularity\":5.856,\"poster_path\":\"\/lOOK3i3fAIj6YiGE3sbN7q7R2Au.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CN\",\"name\":\"China\"}],\"release_date\":\"2016-03-25\",\"revenue\":0,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"Mandarin\",\"iso_639_1\":\"zh\",\"name\":\"\u666e\u901a\u8bdd\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Easy Life\",\"video\":false,\"vote_average\":4.0,\"vote_count\":2}"
+}

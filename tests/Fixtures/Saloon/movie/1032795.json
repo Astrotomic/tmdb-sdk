@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1358",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:19 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23120",
+        "x-memc": "HIT",
+        "x-memc-key": "9a4dcacfebf90ba2d62a78c0c6e5bd87",
+        "x-memc-age": "2066",
+        "x-memc-expires": "23120",
+        "ETag": "W\/\"5cc588a8d23ec5dc29bb3afb0958d18a\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 9a4d537074b1ff7bc00147aaa0a55f82.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "A5kU0VqLDCuv0V23zsJBNOBEOFLCt8hQ2xh6tV2DlPsIw559nXBPKA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/dcFnkZ6Cnm60PKgroKqljrthgI8.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":53,\"name\":\"Thriller\"},{\"id\":18,\"name\":\"Drama\"}],\"homepage\":\"\",\"id\":1032795,\"imdb_id\":\"tt13073252\",\"origin_country\":[\"BR\"],\"original_language\":\"pt\",\"original_title\":\"O Sequestro do Voo 375\",\"overview\":\"Brazil, 1988. An unemployed tractor driver hijacks VASP flight 375 and orders commander Murilo to crash the plane on the Planalto Palace to kill the president - whom he considers guilty for the country's devastating economic crisis.\",\"popularity\":14.919,\"poster_path\":\"\/xhZXZRMXzJlMpMuibmJx4By1iIb.jpg\",\"production_companies\":[{\"id\":168555,\"logo_path\":\"\/zI67dlSOH5s5xNLkHezHYRWCImQ.png\",\"name\":\"Escarlate Conte\u00fado Audiovisual\",\"origin_country\":\"BR\"},{\"id\":167704,\"logo_path\":\"\/eVTzWqrkdybUTGGBFl3gTq0NlRm.png\",\"name\":\"Star Original Productions\",\"origin_country\":\"\"},{\"id\":183757,\"logo_path\":null,\"name\":\"LTC Produ\u00e7\u00f5es\",\"origin_country\":\"BR\"}],\"production_countries\":[{\"iso_3166_1\":\"BR\",\"name\":\"Brazil\"}],\"release_date\":\"2023-12-07\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"},{\"english_name\":\"Portuguese\",\"iso_639_1\":\"pt\",\"name\":\"Portugu\u00eas\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Hijacking of Flight 375\",\"video\":false,\"vote_average\":8.103,\"vote_count\":34}"
+}

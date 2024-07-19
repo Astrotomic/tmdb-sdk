@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1859",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:11:17 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=2536",
+        "x-memc": "HIT",
+        "x-memc-key": "8af9ce953ace7c1ecde4b8f9f105b07a",
+        "x-memc-age": "26112",
+        "x-memc-expires": "2536",
+        "ETag": "W\/\"eafd623a81eb5e0464ec0536bf6b9aff\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "jXPfu1rdaMCEGFPsw3ec81L44hfWfYgujhCbFQLXEzV_jvDB1DSerg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s1ohP4iE2Lg2TVBJILOkbTsGGgu.jpg\",\"belongs_to_collection\":null,\"budget\":15000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.sabanfilms.com\/films\/the-vault\",\"id\":630004,\"imdb_id\":\"tt9742794\",\"origin_country\":[\"FR\",\"ES\"],\"original_language\":\"en\",\"original_title\":\"Way Down\",\"overview\":\"Madrid, Spain, 2010. While the whole city follows the national team's successful participation in the World Cup, a group of daring thieves look for a way into one of the most secure and guarded places on the planet.\",\"popularity\":56.213,\"poster_path\":\"\/kWhXubAiIcHW0xn5GThflqaKZqh.jpg\",\"production_companies\":[{\"id\":122844,\"logo_path\":null,\"name\":\"Ciudadano Ciskul\",\"origin_country\":\"ES\"},{\"id\":1182,\"logo_path\":\"\/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png\",\"name\":\"Telecinco Cinema\",\"origin_country\":\"ES\"},{\"id\":10128,\"logo_path\":\"\/apcQLKRuLLqhi9fD1gaSL3argeo.png\",\"name\":\"Think Studio\",\"origin_country\":\"ES\"},{\"id\":90562,\"logo_path\":\"\/qII3jJQ4S32FgJRlfSU267woloF.png\",\"name\":\"TF1 Studio\",\"origin_country\":\"FR\"},{\"id\":21632,\"logo_path\":\"\/gEto1Q487D4JPriz2qVfkkvyqjy.png\",\"name\":\"Mediaset Espa\u00f1a\",\"origin_country\":\"ES\"},{\"id\":67412,\"logo_path\":\"\/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png\",\"name\":\"Movistar+\",\"origin_country\":\"ES\"},{\"id\":120257,\"logo_path\":null,\"name\":\"Marrowbone\",\"origin_country\":\"ES\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"},{\"iso_3166_1\":\"ES\",\"name\":\"Spain\"}],\"release_date\":\"2021-03-04\",\"revenue\":8804000,\"runtime\":114,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"No job is impossible\",\"title\":\"The Vault\",\"video\":false,\"vote_average\":6.828,\"vote_count\":915}"
+}

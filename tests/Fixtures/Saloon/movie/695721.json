@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1551",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:07:20 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1298",
+        "x-memc": "HIT",
+        "x-memc-key": "78fa1988092ccaf56bdb0156f5ee91c5",
+        "x-memc-age": "21898",
+        "x-memc-expires": "1298",
+        "ETag": "W\/\"c8a3f5ab0d214b4555429e196ae53587\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 642ac9646ca474c1d78254f0a36a8c5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Z916AcOfG3VfFweZoWpxap5wwK1B0GrL_1_N7xI2Fskbx9a6dsrGdA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/tfRyGlBlsfkCMXpRjMyxG53rbS9.jpg\",\"belongs_to_collection\":{\"id\":131635,\"name\":\"The Hunger Games Collection\",\"poster_path\":\"\/n4cKN236lNJpZcPXHTtCuQMvGQs.jpg\",\"backdrop_path\":\"\/Ipp7cegtub4t0mu7xaKLQkYoGc.jpg\"},\"budget\":100000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"https:\/\/hungergames.movie\/\",\"id\":695721,\"imdb_id\":\"tt10545296\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Hunger Games: The Ballad of Songbirds & Snakes\",\"overview\":\"64 years before he becomes the tyrannical president of Panem, Coriolanus Snow sees a chance for a change in fortunes when he mentors Lucy Gray Baird, the female tribute from District 12.\",\"popularity\":199.595,\"poster_path\":\"\/mBaXZ95R2OxueZhvQbcEWy2DqyO.jpg\",\"production_companies\":[{\"id\":1632,\"logo_path\":\"\/cisLn1YAUuptXVBa0xjq7ST9cH0.png\",\"name\":\"Lionsgate\",\"origin_country\":\"US\"},{\"id\":5420,\"logo_path\":\"\/dlW4Kh5dNieKNURnymsu57y6fMf.png\",\"name\":\"Color Force\",\"origin_country\":\"US\"},{\"id\":161357,\"logo_path\":\"\/kQlxsHQKQsDOXmKPZVqEyL827NJ.png\",\"name\":\"about:blank\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2023-11-15\",\"revenue\":337371917,\"runtime\":157,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Everyone hungers for something.\",\"title\":\"The Hunger Games: The Ballad of Songbirds & Snakes\",\"video\":false,\"vote_average\":7.1,\"vote_count\":2378}"
+}

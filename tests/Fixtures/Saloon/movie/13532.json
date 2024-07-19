@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1110",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:55:49 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=16045",
+        "x-memc": "HIT",
+        "x-memc-key": "1fe7a214682c50a60df63d908190f59b",
+        "x-memc-age": "8703",
+        "x-memc-expires": "16045",
+        "ETag": "W\/\"858867baff8e61d35de0223c4e56fb41\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 e3dbec42cd15573654eebd0dfddc01fe.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "VwSHqg7PJRB9q7OyFKWACnipBZrbGDDqI8LNRtK9tr2uAcFH4rMpxg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/ykEC7FMChoLXy674rEVlrObreth.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"\",\"id\":13532,\"imdb_id\":\"tt0489049\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Fanboys\",\"overview\":\"In 1999, Star Wars fanatics take a cross-country trip to George Lucas' Skywalker Ranch so their dying friend can see a screening of The Phantom Menace before its release.\",\"popularity\":25.194,\"poster_path\":\"\/fitksX4J3xfBjT38YgDUXOlBkHk.jpg\",\"production_companies\":[{\"id\":308,\"logo_path\":\"\/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png\",\"name\":\"The Weinstein Company\",\"origin_country\":\"US\"},{\"id\":4435,\"logo_path\":null,\"name\":\"Third Rail Releasing\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2009-02-06\",\"revenue\":948753,\"runtime\":90,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Never tell them the odds.\",\"title\":\"Fanboys\",\"video\":false,\"vote_average\":6.144,\"vote_count\":803}"
+}

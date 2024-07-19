@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1225",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:31 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5079",
+        "x-memc": "HIT",
+        "x-memc-key": "2ebce3c48bc36e2b1b3148e8dd6e3eeb",
+        "x-memc-age": "22553",
+        "x-memc-expires": "5079",
+        "ETag": "W\/\"d8c34ca33a03c6d6647f8475edede074\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 61954eaa5e77bcffc1d48963f5835828.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XeXu0kEeqI56XOMS0n_N5cSk3VmuVpbK4gso8O81szlI6o_RgVFnUg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/TmyecJ7hyPkk19tQWI4m9eJEI1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10751,\"name\":\"Family\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":10752,\"name\":\"War\"}],\"homepage\":\"https:\/\/www.signature-entertainment.co.uk\/film\/shepherd-the-hero-dog\/\",\"id\":718235,\"imdb_id\":\"tt3278810\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Shepherd: The Story of a Jewish Dog\",\"overview\":\"Follow the perilous journey to freedom when a young boy and his dog attempt to escape a concentration camp during World War II. Based on true events.\",\"popularity\":10.717,\"poster_path\":\"\/a6vgaoJzpCLJAVKw1ZFQw45Du46.jpg\",\"production_companies\":[{\"id\":128330,\"logo_path\":\"\/j5YMevr8nQPCY7J5WbkuAS3EQqm.png\",\"name\":\"FocusFox\",\"origin_country\":\"HU\"},{\"id\":136511,\"logo_path\":null,\"name\":\"JDOG Films\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"},{\"iso_3166_1\":\"HU\",\"name\":\"Hungary\"}],\"release_date\":\"2020-02-22\",\"revenue\":0,\"runtime\":93,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Shepherd: The Story of a Jewish Dog\",\"video\":false,\"vote_average\":6.9,\"vote_count\":74}"
+}

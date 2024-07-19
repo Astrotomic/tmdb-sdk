@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "978",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:38 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=5218",
+        "x-memc": "HIT",
+        "x-memc-key": "1877ddf2d151cacd0e710518558c28b9",
+        "x-memc-age": "21250",
+        "x-memc-expires": "5218",
+        "ETag": "W\/\"b04a70b3a8bb4d814343f62c5c974469\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a95adf7afe468fe543cb5750140a2bfa.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "RqxyH2M6D5oPze3Puq7Y2ipPAfF-xHZIO91RmPGphXdQ8RYXcVGBbw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/nM0rBV35ESYTDF4KWXZsN8vTuw7.jpg\",\"belongs_to_collection\":null,\"budget\":40000000,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"\",\"id\":10599,\"imdb_id\":\"tt0255477\",\"origin_country\":[\"IT\"],\"original_language\":\"it\",\"original_title\":\"Pinocchio\",\"overview\":\"Roberto Benigni adapts the classic children's tale by Carlo Collodi for the big-budget family-oriented comedy Pinocchio.\",\"popularity\":12.477,\"poster_path\":\"\/fpxjfoxeYR7Ce6APPiNBTOERjBb.jpg\",\"production_companies\":[{\"id\":370,\"logo_path\":null,\"name\":\"Melampo Cinematografica\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"IT\",\"name\":\"Italy\"}],\"release_date\":\"2002-10-11\",\"revenue\":41323171,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"Italian\",\"iso_639_1\":\"it\",\"name\":\"Italiano\"}],\"status\":\"Released\",\"tagline\":\"COMING TO LIFE THIS CHRISTMAS\",\"title\":\"Pinocchio\",\"video\":false,\"vote_average\":5.8,\"vote_count\":747}"
+}

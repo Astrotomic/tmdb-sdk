@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1515",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:27 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22262",
+        "x-memc": "HIT",
+        "x-memc-key": "a87a597c839596ff0ea1c2f6cc60a445",
+        "x-memc-age": "4285",
+        "x-memc-expires": "22262",
+        "ETag": "W\/\"3e3f6b42e0fb9e061bbe5819010eda98\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 ea67e1d34c309adb14087072cc874ba2.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "a_U36GjOXj1Opg_TILf46DWFnsam0hpd7WGvl879ZctbU_AyAXrR5A=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/2fQ6d8B0wgKTr2c7aHcDW8DqwIB.jpg\",\"belongs_to_collection\":{\"id\":869156,\"name\":\"The Rocketeer Collection\",\"poster_path\":\"\/xDHRPIejBUyTAFZ6jbEJPFx946e.jpg\",\"backdrop_path\":null},\"budget\":42000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"},{\"id\":10751,\"name\":\"Family\"}],\"homepage\":\"\",\"id\":10249,\"imdb_id\":\"tt0102803\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Rocketeer\",\"overview\":\"A stunt pilot comes across a prototype jetpack that gives him the ability to fly. However, evil forces of the world also want this jetpack at any cost.\",\"popularity\":40.225,\"poster_path\":\"\/2tDFRESFwKww1LHRE8W1Exj9edH.jpg\",\"production_companies\":[{\"id\":2,\"logo_path\":\"\/wdrCwmRnLFJhEoH8GSfymY85KHT.png\",\"name\":\"Walt Disney Pictures\",\"origin_country\":\"US\"},{\"id\":1073,\"logo_path\":null,\"name\":\"Gordon Company\",\"origin_country\":\"US\"},{\"id\":552,\"logo_path\":\"\/9dGdLfm3GteWeUDtD9c9tvlidUG.png\",\"name\":\"Dark Horse Entertainment\",\"origin_country\":\"US\"},{\"id\":10282,\"logo_path\":null,\"name\":\"Silver Screen Partners IV\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1991-06-21\",\"revenue\":46704056,\"runtime\":108,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"An Ordinary Man Forced to Become An Extraordinary Hero.\",\"title\":\"The Rocketeer\",\"video\":false,\"vote_average\":6.483,\"vote_count\":899}"
+}

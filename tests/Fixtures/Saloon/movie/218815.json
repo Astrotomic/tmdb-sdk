@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1001",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:24:04 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20031",
+        "x-memc": "HIT",
+        "x-memc-key": "9d4437fe6856d7c38e1a93810fa5b98a",
+        "x-memc-age": "1610",
+        "x-memc-expires": "20031",
+        "ETag": "W\/\"ff1b44d22d7ef3c1c7eb20c378c8f477\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8db38b2985895531f24131b50e53541c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "hNkSKahyF1rDQW6nLeSvD6UpHAJnjHTyAmxMN2fjdoelHjfbtGqMSA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":14,\"name\":\"Fantasy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":218815,\"imdb_id\":\"tt0104855\",\"origin_country\":[\"GB\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Merlin\",\"overview\":\"A modern-day retelling of the Arthurian legend with the Lady of the Lake as a reporter and Pendragon as an evil businessman. Merlin's immortal apprentice is trying to protect a powerful sword forged by Merin from the clutches of Pendragon.\",\"popularity\":3.596,\"poster_path\":\"\/mPnonpAZ44YAzlGrF3A9MRht7Pq.jpg\",\"production_companies\":[{\"id\":16625,\"logo_path\":null,\"name\":\"October 32nd Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"GB\",\"name\":\"United Kingdom\"}],\"release_date\":\"1992-04-30\",\"revenue\":0,\"runtime\":115,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Merlin\",\"video\":false,\"vote_average\":5.5,\"vote_count\":4}"
+}

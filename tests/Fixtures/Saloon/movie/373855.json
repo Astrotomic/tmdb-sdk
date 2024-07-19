@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "955",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:08:09 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8088",
+        "x-memc": "HIT",
+        "x-memc-key": "62bdaae63282a307c842d30dd289bf42",
+        "x-memc-age": "15900",
+        "x-memc-expires": "8088",
+        "ETag": "W\/\"d5eb3b0ea41232b2546abb3ae88b92d0\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 4bc2228b22417edb61d74c5756c81360.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zhNP3fD_rIO1BeTmi6eHTXsp4OK5E-JOY4fBzf6hmyfrrbzl0R91fA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/aJegRlV4jm3NPqejkux5vzWgizp.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":35,\"name\":\"Comedy\"}],\"homepage\":\"http:\/\/geukbam.co.kr\/\",\"id\":373855,\"imdb_id\":\"tt4471608\",\"origin_country\":[\"KR\"],\"original_language\":\"ko\",\"original_title\":\"\uadf9\uc801\uc778 \ud558\ub8fb\ubc24\",\"overview\":\"About a man and a woman who make a 'one-night' coupon book after they both get dumped.\",\"popularity\":7.821,\"poster_path\":\"\/mdEwrvn2fOL5maETjY4DDlxFBpw.jpg\",\"production_companies\":[{\"id\":68969,\"logo_path\":\"\/xXKhzWIdhsAlekyg0GTNZUkvQc1.png\",\"name\":\"CGV Arthouse\",\"origin_country\":\"KR\"}],\"production_countries\":[{\"iso_3166_1\":\"KR\",\"name\":\"South Korea\"}],\"release_date\":\"2015-12-03\",\"revenue\":0,\"runtime\":107,\"spoken_languages\":[{\"english_name\":\"Korean\",\"iso_639_1\":\"ko\",\"name\":\"\ud55c\uad6d\uc5b4\/\uc870\uc120\ub9d0\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Love Guide for Dumpees\",\"video\":false,\"vote_average\":6.8,\"vote_count\":10}"
+}

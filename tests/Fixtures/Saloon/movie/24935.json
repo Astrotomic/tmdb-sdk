@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1442",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:58:23 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=23302",
+        "x-memc": "HIT",
+        "x-memc-key": "ea237f6c13779bc8e6edc949b5ecf2f5",
+        "x-memc-age": "3729",
+        "x-memc-expires": "23302",
+        "ETag": "W\/\"f24c74bff5d1eaa5fba8d17694182677\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b5531ef792e817bdf665b09adf99ef4a.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "2hS-StB_vZZheADBTE7e1hlvYAnpdC6JVizVgIekFVvs3NK4jwrY1w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/s9eUPXwow8SRWLvQHgVPnufvveo.jpg\",\"belongs_to_collection\":{\"id\":101471,\"name\":\"Return of the Living Dead Collection\",\"poster_path\":\"\/7ekXvck6C94gKbfH6WlKK2qqdVL.jpg\",\"backdrop_path\":\"\/jy3Jib8MOEWQIel5QkzVydH04a9.jpg\"},\"budget\":6000000,\"genres\":[{\"id\":27,\"name\":\"Horror\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":24935,\"imdb_id\":\"tt0411805\",\"origin_country\":[\"RO\",\"US\"],\"original_language\":\"en\",\"original_title\":\"Return of the Living Dead: Necropolis\",\"overview\":\"A group of teenagers who, in an attempt to rescue their friend from an evil corporation, end up releasing a horde of blood thirsty zombies.\",\"popularity\":18.212,\"poster_path\":\"\/c6w4su69KcS5FGjDS7Gj3p6tYGZ.jpg\",\"production_companies\":[{\"id\":1370,\"logo_path\":\"\/uch218gB4XWNz3JNhlc65A5Q207.png\",\"name\":\"Castel Film\",\"origin_country\":\"RO\"},{\"id\":52135,\"logo_path\":null,\"name\":\"Denholm Trading Inc.\",\"origin_country\":\"\"},{\"id\":52136,\"logo_path\":null,\"name\":\"Aurora Entertainment\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"RO\",\"name\":\"Romania\"},{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2005-10-15\",\"revenue\":0,\"runtime\":88,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"You cannot kill what is already dead.\",\"title\":\"Return of the Living Dead: Necropolis\",\"video\":false,\"vote_average\":5.2,\"vote_count\":232}"
+}

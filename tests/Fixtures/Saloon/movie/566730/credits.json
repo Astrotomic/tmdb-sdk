@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1031",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:25:06 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=22676",
+        "x-memc": "HIT",
+        "x-memc-key": "e365181d9eca5484a8ee733342730ac3",
+        "x-memc-age": "1858",
+        "x-memc-expires": "22676",
+        "ETag": "W\/\"181fb659c9e66f7673591f1f3f627773\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 909a56c8f422aab18c2f781aeeeacd80.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "XzpNnkpaKxORn0HkiGfLNLU3xQPgYwSp42NBNDjZbUAWLJFUA87Lyg=="
+    },
+    "data": "{\"id\":566730,\"cast\":[{\"adult\":false,\"gender\":0,\"id\":1386861,\"known_for_department\":\"Writing\",\"name\":\"Alex Campbell \",\"original_name\":\"Alex Campbell \",\"popularity\":0.571,\"profile_path\":null,\"cast_id\":0,\"character\":\"Shane\",\"credit_id\":\"5c0757270e0a262cfb0eb9bf\",\"order\":0},{\"adult\":false,\"gender\":0,\"id\":2188934,\"known_for_department\":\"Acting\",\"name\":\"Richard Kotwica\",\"original_name\":\"Richard Kotwica\",\"popularity\":0.001,\"profile_path\":null,\"cast_id\":1,\"character\":\"Adam\",\"credit_id\":\"5c07574d0e0a26486a0bb443\",\"order\":1}],\"crew\":[{\"adult\":false,\"gender\":0,\"id\":2188935,\"known_for_department\":\"Directing\",\"name\":\"Stephen Mathis\",\"original_name\":\"Stephen Mathis\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5c07579c92514116540f7a76\",\"department\":\"Directing\",\"job\":\"Director\"},{\"adult\":false,\"gender\":0,\"id\":2188936,\"known_for_department\":\"Writing\",\"name\":\"Ryan Fitzgerald\",\"original_name\":\"Ryan Fitzgerald\",\"popularity\":0.001,\"profile_path\":null,\"credit_id\":\"5c0757acc3a3686476117eca\",\"department\":\"Writing\",\"job\":\"Writer\"}]}"
+}

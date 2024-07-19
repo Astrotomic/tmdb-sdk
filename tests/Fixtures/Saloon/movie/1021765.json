@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1227",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:35:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=550",
+        "x-memc": "HIT",
+        "x-memc-key": "c1b1f382d20229680b9936bab2d106ad",
+        "x-memc-age": "26881",
+        "x-memc-expires": "550",
+        "ETag": "W\/\"f75c8b125b70dc0f0b172848ad888e6d\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 1861b67291103164103ad7299a51ed5e.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "I89c2c_fQ01vaL4Y4kYQFPrwAAnZm_B9bmszbj3uuLCA16aH7sJ1uw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":10402,\"name\":\"Music\"},{\"id\":10751,\"name\":\"Family\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":10770,\"name\":\"TV Movie\"},{\"id\":16,\"name\":\"Animation\"}],\"homepage\":\"\",\"id\":1021765,\"imdb_id\":\"tt0137580\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Fourth King\",\"overview\":\"The animals decide they must send a representative after the three wise men begin following the star of Bethlehem. Uno, the Lion, arrogantly decides he should be the one to go, and that he does not need any help. Feathers, who brought Jesus's birth to the attention of the animals, insists on traveling with him, and soon he is followed by a beaver, a rabbit, and a turtle.\",\"popularity\":6.505,\"poster_path\":\"\/j0i0RXDljeXgT96CuKBlRNjsZSb.jpg\",\"production_companies\":[{\"id\":1583,\"logo_path\":\"\/6EFUenZrAK7IBbirooJ4ZLzJpJ5.png\",\"name\":\"RAI\",\"origin_country\":\"IT\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1977-12-23\",\"revenue\":0,\"runtime\":24,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Fourth King\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

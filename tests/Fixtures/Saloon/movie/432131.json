@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1406",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:07 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1844",
+        "x-memc": "HIT",
+        "x-memc-key": "ecaea6ec0908592e74a030488a30a1ac",
+        "x-memc-age": "19935",
+        "x-memc-expires": "1844",
+        "ETag": "W\/\"7c87fc4e5ca87ba1ae5a529a3d0ff3fc\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 7c75723adf667c2274cb64e1ba92db6c.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "54K7gvB3gl7y7eHCAIbWdx_r_Z4o__9BJD33E7jRcsYgyqEedOGIuA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/clFQR5zwzDrayMVVe7axo0YLFfh.jpg\",\"belongs_to_collection\":{\"id\":511109,\"name\":\"Kuroshithuji Collection\",\"poster_path\":\"\/1VR8wvzKYFiJyWOb8c2H8CnKGtj.jpg\",\"backdrop_path\":null},\"budget\":0,\"genres\":[{\"id\":16,\"name\":\"Animation\"},{\"id\":28,\"name\":\"Action\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":14,\"name\":\"Fantasy\"}],\"homepage\":\"http:\/\/www.kuroshitsuji-movie.com\/\",\"id\":432131,\"imdb_id\":\"tt5476944\",\"origin_country\":[\"JP\"],\"original_language\":\"ja\",\"original_title\":\"\u9ed2\u57f7\u4e8b Book of the Atlantic\",\"overview\":\"Ciel learns of a \\\"Aurora Society\\\", that is rumored to be researching how to bring the dead back to life. Their next meeting is scheduled to be conducted on the ship Campania, voyaging across the Atlantic Ocean. Much to Ciel's dismay, Elizabeth \\\"Lizzy\\\" Midford, is taking the same ship, thus leaving him with no choice but to get aboard as well.\",\"popularity\":14.117,\"poster_path\":\"\/4jU2Bdk1MB2OvP4BBvTJIPQc0BF.jpg\",\"production_companies\":[{\"id\":13113,\"logo_path\":\"\/xV5tPYKZhP2Ko9dOh5A3FahuKsx.png\",\"name\":\"A-1 Pictures\",\"origin_country\":\"JP\"}],\"production_countries\":[{\"iso_3166_1\":\"JP\",\"name\":\"Japan\"}],\"release_date\":\"2017-01-21\",\"revenue\":0,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"Japanese\",\"iso_639_1\":\"ja\",\"name\":\"\u65e5\u672c\u8a9e\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"Black Butler: Book of the Atlantic\",\"video\":false,\"vote_average\":7.724,\"vote_count\":87}"
+}

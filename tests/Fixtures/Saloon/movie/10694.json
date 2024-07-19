@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1371",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:22:14 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=17294",
+        "x-memc": "HIT",
+        "x-memc-key": "3368c92c45e17d706816b9743efa7dab",
+        "x-memc-age": "5573",
+        "x-memc-expires": "17294",
+        "ETag": "W\/\"d5a410f26f7c319c322d2774336a86de\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 a8f403e7a1e295eca645452cd239f186.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "TpeGsAUvXyn4i7WFrc9nvfC75B4qmmAYEfKiOlfO4H7fNvwXCsNj9w=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/4mopIaKwC0RBK0kGVjgSnkLYn1m.jpg\",\"belongs_to_collection\":null,\"budget\":26000000,\"genres\":[{\"id\":12,\"name\":\"Adventure\"},{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"},{\"id\":80,\"name\":\"Crime\"}],\"homepage\":\"\",\"id\":10694,\"imdb_id\":\"tt0109402\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Chase\",\"overview\":\"Jack Hammond is sentenced to life in prison, but manages to escape. To get away from the police he takes a girl as hostage and drives off in her car. The girl happens to be the only daughter of one of the richest men in the state. In a while the car chase is being broadcast live on every TV-channel.\",\"popularity\":27.607,\"poster_path\":\"\/lEmGW4Fc9wMRLIKq6NRojZnTbdp.jpg\",\"production_companies\":[{\"id\":826,\"logo_path\":null,\"name\":\"Capitol Films\",\"origin_country\":\"GB\"},{\"id\":35709,\"logo_path\":null,\"name\":\"Hercules Films\",\"origin_country\":\"\"},{\"id\":25,\"logo_path\":\"\/qZCc1lty5FzX30aOCVRBLzaVmcp.png\",\"name\":\"20th Century Fox\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1994-03-04\",\"revenue\":8000000,\"runtime\":89,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Getting there is twice the fun.\",\"title\":\"The Chase\",\"video\":false,\"vote_average\":5.749,\"vote_count\":335}"
+}

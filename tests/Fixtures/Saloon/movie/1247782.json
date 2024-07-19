@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "945",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:23:59 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1114",
+        "x-memc": "HIT",
+        "x-memc-key": "f2661d7e7434a1ac8c1367dbbcd24c2d",
+        "x-memc-age": "26171",
+        "x-memc-expires": "1114",
+        "ETag": "W\/\"980ce16b4cc068360f09fbab7a22cb36\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "gEfq0GjkyvofUTQ258YylAuUSfdFH-bdFh5Wks56gwJvtYpwwotAEA=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/mK4fXD7JjwjOp407D2IpKwE8wjM.jpg\",\"belongs_to_collection\":null,\"budget\":5000000,\"genres\":[{\"id\":18,\"name\":\"Drama\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"\",\"id\":1247782,\"imdb_id\":null,\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"The Day It Happened\",\"overview\":\"A 25 year old film maker is trying his absolute hardest to get his big break through into the industry and works part time as a bartender. One night while working he meets a man named Todd, who might be able to help him.\",\"popularity\":4.551,\"poster_path\":\"\/6nttVbjQX90x2PyjVRYHDdNrRPq.jpg\",\"production_companies\":[],\"production_countries\":[{\"iso_3166_1\":\"CA\",\"name\":\"Canada\"}],\"release_date\":\"2002-03-11\",\"revenue\":30000000,\"runtime\":166,\"spoken_languages\":[],\"status\":\"Released\",\"tagline\":\"\\\"You Never Think It's Gonna Happen The Way It Happens\\\"\",\"title\":\"The Day It Happened\",\"video\":false,\"vote_average\":0.0,\"vote_count\":0}"
+}

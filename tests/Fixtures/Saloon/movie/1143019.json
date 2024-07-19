@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1330",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 08:03:18 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7085",
+        "x-memc": "HIT",
+        "x-memc-key": "049734e0acdd9e3b460e0c122704bce6",
+        "x-memc-age": "20635",
+        "x-memc-expires": "7085",
+        "ETag": "W\/\"395aecab39e8846ba09eeb162e2c22d6\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 8192d9c2a41eb0d51bafc2c7271a2a64.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "OEaHOuE4K4buo8re-76mNs8mpO2WLYq0fqS_lcHS3HtyOkWSYwetjw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/yHEFwHkU2NqRxBrAoGBfuhuqIL1.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1143019,\"imdb_id\":\"tt28290049\",\"origin_country\":[\"FR\"],\"original_language\":\"fr\",\"original_title\":\"Les Infaillibles\",\"overview\":\"When a gang of robbers provokes chaos in Paris and humiliates the police, the Minister of the Interior wants new blood at the helm of the investigation: Alia is from Marseille, fiery-tempered and unmanageable, Hugo is Parisian, valedictorian and meticulous. In short, they have every reason to hate each other. A forced alliance, for better or for worse, or maybe blossoming into something else?\",\"popularity\":754.321,\"poster_path\":\"\/7PoIAvL3Io5v0HyBliXfXZruQTi.jpg\",\"production_companies\":[{\"id\":8906,\"logo_path\":\"\/c5MDqS2UYtK0pTQqtYow7LSBLcS.png\",\"name\":\"Monkey Pack Films\",\"origin_country\":\"FR\"},{\"id\":208281,\"logo_path\":\"\/hYREaYiVyoGVP26CbDpAWD3wDRD.png\",\"name\":\"Amazon Studios\",\"origin_country\":\"FR\"}],\"production_countries\":[{\"iso_3166_1\":\"FR\",\"name\":\"France\"}],\"release_date\":\"2024-06-20\",\"revenue\":0,\"runtime\":99,\"spoken_languages\":[{\"english_name\":\"French\",\"iso_639_1\":\"fr\",\"name\":\"Fran\u00e7ais\"}],\"status\":\"Released\",\"tagline\":\"\",\"title\":\"The Infallibles\",\"video\":false,\"vote_average\":5.933,\"vote_count\":60}"
+}

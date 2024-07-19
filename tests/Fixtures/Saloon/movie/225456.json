@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "957",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:57:02 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=25908",
+        "x-memc": "HIT",
+        "x-memc-key": "49eb8f69e6b2bf0a45e28e88c9ac1067",
+        "x-memc-age": "143",
+        "x-memc-expires": "25908",
+        "ETag": "W\/\"f3c1541b207dc3fd7ec9a94fa5342465\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 d46e622c0d11ffdbb1b481b1a8f2ae72.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "tiBPl7lvCUJV_j4Y1NdM_9l_cJSfWWw5hKdaYAfUm6cje82IEF0FYQ=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":null,\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":35,\"name\":\"Comedy\"},{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"\",\"id\":225456,\"imdb_id\":\"tt0093625\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Night of the Living Babes\",\"overview\":\"Two guys trying to find a brothel come across a group of beautiful female zombies.\",\"popularity\":4.577,\"poster_path\":\"\/6pUzQ90V55fAyV2FjlTgdX0IZ9h.jpg\",\"production_companies\":[{\"id\":18838,\"logo_path\":null,\"name\":\"Metropolis Pictures\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1987-01-01\",\"revenue\":0,\"runtime\":60,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"If John Waters met George Romero you'd get... \\\"Night of the Living Babes\\\"\",\"title\":\"Night of the Living Babes\",\"video\":false,\"vote_average\":4.2,\"vote_count\":9}"
+}

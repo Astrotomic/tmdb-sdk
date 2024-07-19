@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1386",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:09:24 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=1936",
+        "x-memc": "HIT",
+        "x-memc-key": "e786ee6077b4ec0d6a0875e6fa609498",
+        "x-memc-age": "23376",
+        "x-memc-expires": "1936",
+        "ETag": "W\/\"7d7abd99e215400f7608bbe5860e6a69\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 fb6afc857f0eaed863f06738b3882546.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "BAH53-P1",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "Fi_BFjt4kYLuRfMLnYNjw0Po4GDiEi5Mrh6r4kluBEESAuI5KHE8Vw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/iYdgEUE2W2aJkgqfSjf1x3gFfuV.jpg\",\"belongs_to_collection\":{\"id\":422834,\"name\":\"Ant-Man Collection\",\"poster_path\":\"\/9llE4J9sVv8qsvfVGkpugiPTxUV.jpg\",\"backdrop_path\":\"\/2KjtWUBiksmN8LsUouaZnxocu5N.jpg\"},\"budget\":140000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":12,\"name\":\"Adventure\"},{\"id\":878,\"name\":\"Science Fiction\"}],\"homepage\":\"https:\/\/www.marvel.com\/movies\/ant-man-and-the-wasp\",\"id\":363088,\"imdb_id\":\"tt5095030\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Ant-Man and the Wasp\",\"overview\":\"Just when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.\",\"popularity\":56.475,\"poster_path\":\"\/cFQEO687n1K6umXbInzocxcnAQz.jpg\",\"production_companies\":[{\"id\":420,\"logo_path\":\"\/hUzeosd33nzE5MCNsZxCGEKTXaQ.png\",\"name\":\"Marvel Studios\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2018-07-04\",\"revenue\":622674139,\"runtime\":119,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"}],\"status\":\"Released\",\"tagline\":\"Real heroes. Not actual size.\",\"title\":\"Ant-Man and the Wasp\",\"video\":false,\"vote_average\":6.938,\"vote_count\":13035}"
+}

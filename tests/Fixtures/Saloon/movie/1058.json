@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1359",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 12:26:43 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=20409",
+        "x-memc": "HIT",
+        "x-memc-key": "49b98c8e22bb6169a083f90091b98b79",
+        "x-memc-age": "3739",
+        "x-memc-expires": "20409",
+        "ETag": "W\/\"512e8894279a13671518754fbdb0076f\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 b09c8a20b29053a362f3c1085a0f8990.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "HjBH88MJMP1kvk63UoxAP8B_mBOO7WcFCmRvAcF7xwO0k7kEbfj0Rw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/9MGPMn3sBncgH6OSAXP79Hm3Mo9.jpg\",\"belongs_to_collection\":null,\"budget\":7500000,\"genres\":[{\"id\":10749,\"name\":\"Romance\"},{\"id\":18,\"name\":\"Drama\"},{\"id\":28,\"name\":\"Action\"}],\"homepage\":\"\",\"id\":1058,\"imdb_id\":\"tt0085276\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Breathless\",\"overview\":\"Jesse, a small-time criminal, high-tails it to Los Angeles to rendezvous with a French exchange student. Stealing a car and accidentally killing a highway patrolman, he becomes the most wanted fugitive in L.A.\",\"popularity\":21.171,\"poster_path\":\"\/allaraiKu9PaxFJD6SL8GkNgtIE.jpg\",\"production_companies\":[{\"id\":41,\"logo_path\":\"\/xAot4SSOIHiWQ2WEnVXYGR1lce9.png\",\"name\":\"Orion Pictures\",\"origin_country\":\"US\"},{\"id\":651,\"logo_path\":null,\"name\":\"Breathless Associates\",\"origin_country\":\"\"},{\"id\":652,\"logo_path\":null,\"name\":\"Miko Productions\",\"origin_country\":\"\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"1983-05-13\",\"revenue\":19910002,\"runtime\":100,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"He's the last man on earth any woman needs...and every woman wants.\",\"title\":\"Breathless\",\"video\":false,\"vote_average\":5.857,\"vote_count\":227}"
+}

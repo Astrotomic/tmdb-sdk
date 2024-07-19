@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1609",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:36 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=7752",
+        "x-memc": "HIT",
+        "x-memc-key": "a4ee04bb2207f55c1ae98c7a79e358cd",
+        "x-memc-age": "18946",
+        "x-memc-expires": "7752",
+        "ETag": "W\/\"bd097db68179f4d4eed18a8efcd303c5\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 3a44dad7e9e127d6bbe2dd7957b682d8.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "ADISvvZfmXtToMc8V5Tl5K0j6QxkSdmXwse-j9O7ZgnuI1VIQkWZZg=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg\",\"belongs_to_collection\":{\"id\":1129084,\"name\":\"Nobody Collection\",\"poster_path\":\"\/xJxoDyolVLq6mVpHHnWEk5HV6gc.jpg\",\"backdrop_path\":\"\/8oRUHcunDn0CdlihiwCAdq3nBka.jpg\"},\"budget\":17000000,\"genres\":[{\"id\":28,\"name\":\"Action\"},{\"id\":53,\"name\":\"Thriller\"}],\"homepage\":\"https:\/\/www.nobody.movie\",\"id\":615457,\"imdb_id\":\"tt7888964\",\"origin_country\":[\"US\"],\"original_language\":\"en\",\"original_title\":\"Nobody\",\"overview\":\"Hutch Mansell, a suburban dad, overlooked husband, nothing neighbor \u2014 a \\\"nobody.\\\" When two thieves break into his home one night, Hutch's unknown long-simmering rage is ignited and propels him on a brutal path that will uncover dark secrets he fought to leave behind.\",\"popularity\":50.646,\"poster_path\":\"\/oBgWY00bEFeZ9N25wWVyuQddbAo.jpg\",\"production_companies\":[{\"id\":121470,\"logo_path\":\"\/zvJFu1C6gB80A98n6IGXBvMtgVl.png\",\"name\":\"87North Productions\",\"origin_country\":\"US\"},{\"id\":86647,\"logo_path\":null,\"name\":\"Odenkirk Provissiero Entertainment\",\"origin_country\":\"US\"},{\"id\":123230,\"logo_path\":null,\"name\":\"Eighty Two Films\",\"origin_country\":\"US\"}],\"production_countries\":[{\"iso_3166_1\":\"US\",\"name\":\"United States of America\"}],\"release_date\":\"2021-03-18\",\"revenue\":61779301,\"runtime\":92,\"spoken_languages\":[{\"english_name\":\"English\",\"iso_639_1\":\"en\",\"name\":\"English\"},{\"english_name\":\"Russian\",\"iso_639_1\":\"ru\",\"name\":\"P\u0443\u0441\u0441\u043a\u0438\u0439\"},{\"english_name\":\"Spanish\",\"iso_639_1\":\"es\",\"name\":\"Espa\u00f1ol\"}],\"status\":\"Released\",\"tagline\":\"Never underestimate a nobody\",\"title\":\"Nobody\",\"video\":false,\"vote_average\":7.967,\"vote_count\":6840}"
+}

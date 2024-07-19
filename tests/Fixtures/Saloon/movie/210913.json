@@ -1,0 +1,26 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Content-Type": "application\/json;charset=utf-8",
+        "Content-Length": "1226",
+        "Connection": "keep-alive",
+        "Date": "Fri, 19 Jul 2024 11:10:13 GMT",
+        "Server": "openresty",
+        "Cache-Control": "public, max-age=8768",
+        "x-memc": "HIT",
+        "x-memc-key": "25ebf2aaeb1133831bef7f0ece483a7a",
+        "x-memc-age": "14898",
+        "x-memc-expires": "8768",
+        "ETag": "W\/\"fba3eb0ae1f0a54f2891c9de1d2af291\"",
+        "Vary": [
+            "Accept-Encoding,accept-encoding",
+            "Origin"
+        ],
+        "X-Cache": "Miss from cloudfront",
+        "Via": "1.1 6f6b2c6019ba264aff6f1264f1980d36.cloudfront.net (CloudFront)",
+        "X-Amz-Cf-Pop": "MRS52-P5",
+        "Alt-Svc": "h3=\":443\"; ma=86400",
+        "X-Amz-Cf-Id": "zmuxt2_4Lf-xqAgFlvwWx0uR5zrYRGz0oDMkAxrPgLXLKyx-gAN-Cw=="
+    },
+    "data": "{\"adult\":false,\"backdrop_path\":\"\/8JHePfg9t7xMoVML2VHAk7qLUhr.jpg\",\"belongs_to_collection\":null,\"budget\":0,\"genres\":[{\"id\":27,\"name\":\"Horror\"}],\"homepage\":\"https:\/\/blutgletscher.at\",\"id\":210913,\"imdb_id\":\"tt2299206\",\"origin_country\":[\"AT\"],\"original_language\":\"de\",\"original_title\":\"Blutgletscher\",\"overview\":\"At a climate research station in the Alps, the scientists are stunned as the nearby melting glacier is leaking a red liquid. It quickly turns to be very special juice \u2014 with unexpected genetic effects on the local wildlife.\",\"popularity\":13.315,\"poster_path\":\"\/b3TD8k4Jd7ah1Hasre8LZR3FpUD.jpg\",\"production_companies\":[{\"id\":404,\"logo_path\":null,\"name\":\"Allegro Film\",\"origin_country\":\"AT\"},{\"id\":10273,\"logo_path\":\"\/a3XYUgEqAAuPsNL4xvBZSXGJCt0.png\",\"name\":\"Filmfonds Wien\",\"origin_country\":\"AT\"},{\"id\":3391,\"logo_path\":\"\/t0QBs2fI3mE3HxgoH1n39bYuzNu.png\",\"name\":\"ORF\",\"origin_country\":\"AT\"}],\"production_countries\":[{\"iso_3166_1\":\"AT\",\"name\":\"Austria\"}],\"release_date\":\"2013-09-27\",\"revenue\":0,\"runtime\":98,\"spoken_languages\":[{\"english_name\":\"German\",\"iso_639_1\":\"de\",\"name\":\"Deutsch\"}],\"status\":\"Released\",\"tagline\":\"Terror has Evolved!\",\"title\":\"Blood Glacier\",\"video\":false,\"vote_average\":5.701,\"vote_count\":154}"
+}
