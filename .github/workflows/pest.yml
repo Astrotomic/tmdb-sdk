@@ -20,6 +20,7 @@ jobs:
           php-version: ${{ matrix.php }}
           extensions: curl, json
           coverage: none
+      - run: cp .env.example .env
       - run: composer update --${{ matrix.dependency-version }} --prefer-dist --no-progress --no-interaction --no-suggest
       - run: php -d memory_limit=-1 vendor/bin/pest --testsuite=Feature
 
