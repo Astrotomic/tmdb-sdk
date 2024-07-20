@@ -13,7 +13,6 @@ jobs:
       matrix:
         php: [ '8.3', '8.2' ]
         dependency-version: [ 'prefer-lowest', 'prefer-stable' ]
-
     steps:
       - uses: actions/checkout@v4
       - uses: shivammathur/setup-php@v2 #https://github.com/shivammathur/setup-php
@@ -22,7 +21,20 @@ jobs:
           extensions: curl, json
           coverage: none
       - run: composer update --${{ matrix.dependency-version }} --prefer-dist --no-progress --no-interaction --no-suggest
-      - run: vendor/bin/pest
+      - run: php -d memory_limit=-1 vendor/bin/pest --testsuite=Feature
+
+  architecture:
+    timeout-minutes: 5
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2 #https://github.com/shivammathur/setup-php
+        with:
+          php-version: '8.2'
+          extensions: curl, json
+          coverage: none
+      - run: composer update --prefer-stable --prefer-dist --no-progress --no-interaction --no-suggest
+      - run: vendor/bin/pest --testsuite=Architecture
 
   type-coverage:
     timeout-minutes: 5
