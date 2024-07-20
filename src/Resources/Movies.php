@@ -6,6 +6,7 @@ namespace Astrotomic\Tmdb\Resources;
 
 use Astrotomic\Tmdb\Collections\CountryWatchProviderCollection;
 use Astrotomic\Tmdb\Collections\MovieCollection;
+use Astrotomic\Tmdb\Data\CreditList;
 use Astrotomic\Tmdb\Data\Movie;
 use Astrotomic\Tmdb\Requests\Movies\GetCreditsRequest;
 use Astrotomic\Tmdb\Requests\Movies\GetDetailsRequest;
@@ -77,10 +78,7 @@ class Movies extends BaseResource
         )->dto();
     }
 
-    /**
-     * @todo add return type
-     */
-    public function getCredits(int $id)
+    public function getCredits(int $id): CreditList
     {
         return $this->connector->send(
             new GetCreditsRequest($id)

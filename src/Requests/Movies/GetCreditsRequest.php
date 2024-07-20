@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace Astrotomic\Tmdb\Requests\Movies;
 
-use Astrotomic\Tmdb\Collections\PersonCreditCollection;
+use Astrotomic\Tmdb\Data\CreditList;
 use Saloon\Enums\Method;
 use Saloon\Http\Request;
 use Saloon\Http\Response;
@@ -25,15 +25,8 @@ class GetCreditsRequest extends Request
         return "/movie/{$this->id}/credits";
     }
 
-    /**
-     * @todo add specific return DTO
-     */
-    public function createDtoFromResponse(Response $response): array
+    public function createDtoFromResponse(Response $response): CreditList
     {
-        return [
-            'id' => $response->json('id'),
-            'cast' => PersonCreditCollection::fromArray($response->json('cast')),
-            'crew' => PersonCreditCollection::fromArray($response->json('crew')),
-        ];
+        return CreditList::fromArray($response->json());
     }
 }
