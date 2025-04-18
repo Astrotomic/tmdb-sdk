@@ -22,10 +22,10 @@ use Saloon\Http\BaseResource;
 
 class Movies extends BaseResource
 {
-    public function getDetails(int $id): Movie
+    public function getDetails(int $id, ?string $append_to_response = null): Movie
     {
         return $this->connector->send(
-            new GetDetailsRequest($id)
+            new GetDetailsRequest($id, $append_to_response)
         )->dto();
     }
 

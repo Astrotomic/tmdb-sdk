@@ -19,11 +19,18 @@ class GetDetailsRequest extends Request
 
     protected Method $method = Method::GET;
 
-    public function __construct(public readonly int $id) {}
+    public function __construct(public readonly int $id, public readonly ?string $append_to_response = null) {}
 
     public function resolveEndpoint(): string
     {
         return "/movie/{$this->id}";
+    }
+
+    public function defaultQuery(): array
+    {
+        return array_filter([
+            'append_to_response' => $this->append_to_response,
+        ]);
     }
 
     public function createDtoFromResponse(Response $response): Movie
