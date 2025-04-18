@@ -8,6 +8,8 @@ use Astrotomic\Tmdb\Collections\CompanyCollection;
 use Astrotomic\Tmdb\Collections\CountryCollection;
 use Astrotomic\Tmdb\Collections\GenreCollection;
 use Astrotomic\Tmdb\Collections\LanguageCollection;
+use Astrotomic\Tmdb\Collections\PersonCreditCollection;
+use Astrotomic\Tmdb\Collections\VideoCollection;
 use Astrotomic\Tmdb\Enums\MovieStatus;
 use Astrotomic\Tmdb\Images\Backdrop;
 use Astrotomic\Tmdb\Images\Poster;
@@ -34,18 +36,29 @@ readonly class Movie
         public CountryCollection $productionCountries,
         public ?CarbonImmutable $releaseDate,
         public ?int $revenue,
-        public ?CarbonInterval $runtime,
+        public ?CarbonInterval    $runtime,
         public LanguageCollection $spokenLanguages,
-        public ?MovieStatus $status,
-        public ?string $tagline,
-        public string $title,
-        public ?bool $video,
-        public ?float $voteAverage,
-        public ?int $voteCount,
+        public ?MovieStatus       $status,
+        public ?string            $tagline,
+        public string             $title,
+        public ?bool              $video,
+        public ?float             $voteAverage,
+        public ?int               $voteCount,
+        public ?VideoCollection   $videos,
+        public ?ExternalIds       $externalIds,
+        public ?AlternativeTitle  $alternativeTitles,
+        public ?array $credits,
     ) {}
 
     public static function fromArray(array $data): self
     {
+        $credits = [];
+
+        if(isset($data['credits'])){
+            $credits['cast'] = empty($data['credits']['cast']) ? null : PersonCreditCollection::fromArray($data['credits']['cast']);
+            $credits['crew'] = empty($data['credits']['crew']) ? null : PersonCreditCollection::fromArray($data['credits']['crew']);
+        }
+
         return new static(
             adult: $data['adult'],
             backdropPath: $data['backdrop_path'],
@@ -72,6 +85,10 @@ readonly class Movie
             video: $data['video'] ?? null,
             voteAverage: $data['vote_average'] ?? null,
             voteCount: $data['vote_count'] ?? null,
+            videos: VideoCollection::fromArray($data['videos']['results'] ?? null),
+            externalIds: empty($data['external_ids']) ? null : ExternalIds::fromArray($data['external_ids']),
+            alternativeTitles: empty($data['alternative_titles']) ? null : AlternativeTitle::fromArray($data['alternative_titles']),
+            credits: empty($credits) ? null : $credits,
         );
     }
 
