@@ -15,7 +15,7 @@ jobs:
         php: [ '8.3', '8.2' ]
         dependency-version: [ 'prefer-lowest', 'prefer-stable' ]
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: shivammathur/setup-php@v2 #https://github.com/shivammathur/setup-php
         with:
           php-version: ${{ matrix.php }}
