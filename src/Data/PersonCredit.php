@@ -33,7 +33,6 @@ readonly class PersonCredit
         return new static(
             adult: $data['adult'] ?? null,
             id: $data['id'],
-            job: empty($data['job']) ? null : Job::from($data['job']),
             department: empty($data['department']) ? null : Department::from($data['department']),
             knownForDepartment: empty($data['known_for_department']) ? null : Department::from($data['known_for_department']),
             creditId: $data['credit_id'],
@@ -45,6 +44,7 @@ readonly class PersonCredit
             castId: $data['cast_id'] ?? null,
             character: $data['character'] ?? null,
             order: $data['order'] ?? null,
+            job: empty($data['job']) ? null : Job::from($data['job']),
         );
     }
 
